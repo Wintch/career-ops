@@ -66,7 +66,11 @@ config/benchmarks.yml
 # update-system.mjs. Gitignored on purpose: it describes THIS clone, not the
 # project, and must survive the sync that overwrites update-system.mjs (#2421).
 config/local-paths.txt
-portals.yml
+# portals.yml is intentionally tracked on the `personalized` branch of this
+# fork (Wintch/career-ops) — it's the stock template plus one extra regional
+# example (Argentina job boards), no personal targeting. Everything else in
+# this section (cv.md, profile.yml, etc.) stays ignored; keep this exception
+# out of any PR back to career-ops-hq/career-ops.
 modes/_profile.md
 modes/_custom.md
 modes/_brief.md

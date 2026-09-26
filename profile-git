@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# Wrapper for the local-only git repo that versions the personal career-ops
+# files (cv.md, config/profile.yml, portals.yml, modes/_profile.md).
+# These are gitignored by the main career-ops checkout on purpose, so this
+# repo lives separately at jobfinder-profile.git, next to this project, and
+# has no remote configured -- nothing here ever leaves this machine unless
+# you explicitly add a remote and push it yourself.
+#
+# Usage: ./profile-git status
+#        ./profile-git add -f cv.md
+#        ./profile-git commit -m "..."
+#        ./profile-git log
+
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+exec git --git-dir="$DIR-profile.git" --work-tree="$DIR" "$@"
