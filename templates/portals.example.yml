@@ -992,6 +992,26 @@ search_queries:
   #   query: 'site:news.ycombinator.com OR site:hnrss.org "Engineer" OR "Manager" OR "Developer" remote'
   #   enabled: true
 
+  # -- Argentina job portals --
+  # WebSearch queries for Argentina's main local job boards (no public ATS APIs).
+  # [CUSTOMIZE] Replace keywords with your target roles.
+
+  - name: Computrabajo — Argentina Tech
+    query: 'site:ar.computrabajo.com "AI Engineer" OR "DevOps" OR "Backend Developer" OR "Full Stack" OR "Software Engineer"'
+    enabled: true
+
+  - name: Bumeran — Argentina Tech
+    query: 'site:bumeran.com.ar "AI Engineer" OR "DevOps" OR "Backend Developer" OR "Full Stack" OR "Software Engineer"'
+    enabled: true
+
+  - name: ZonaJobs — Argentina Tech
+    query: 'site:zonajobs.com.ar "DevOps" OR "Backend Developer" OR "Full Stack" OR "Software Engineer"'
+    enabled: true
+
+  - name: LinkedIn — Argentina Tech Roles
+    query: 'site:linkedin.com/jobs "Software Engineer" OR "DevOps Engineer" OR "Backend Developer" Argentina OR "Buenos Aires" OR remoto'
+    enabled: true
+
   # -- Türkiye / Turkey job portals --
   # WebSearch queries for Turkish job boards (no public ATS APIs).
   # [CUSTOMIZE] Replace keywords with your target roles in Turkish.
