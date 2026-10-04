@@ -239,6 +239,90 @@ try {
   } catch (e) { blocked = String(e && e.message); }
   if (blocked && /blocked or the page changed/.test(blocked)) pass('fetch() throws on a challenge/block page instead of reporting no postings');
   else fail('a block page must surface as an error');
+
+  // ── Candidate fit (edad / genero): explicit title mismatches only ──
+  const { parseCastingProfile, fitsCandidate, readCandidate, isDetailUrl, parseCastingDetail, fetchCastingDetail } = mod;
+  const man42 = { edad: 42, genero: 'hombre' };
+  const cases = [
+    ['Se busca actor de 40 a 50 años para cortometraje', true],
+    ['Se busca actor y actriz de 40 a 50 años para corto', true],
+    ['Se busca actor mayor de 30 años para corto', true],
+    ['Se buscan hombres mayores de 50 años para proyecto fotográfico', false],
+    ['Se buscan actores de 18 a 26 años para obra', false],
+    ['Se buscan actrices de 38 a 47 años para proyecto', false],
+    ['Se busca actriz de 38 a 47 años', false],
+    ['Se busca voz femenina para película', false],
+    ['Se buscan actores y actrices de 30 años para corto', false],
+    ['Se busca actriz que aparente 18 años', false],
+    ['Se buscan menores de 30 años', false],
+    ['Se busca baterista para banda pop-rock', true],
+    ['Se buscan animadores para fiestas infantiles', true],
+    ['Se busca actor y actrices para cortometraje universitario', true],
+  ];
+  for (const [title, want] of cases) {
+    if (fitsCandidate(title, man42) === want) pass(`fitsCandidate(42, hombre): ${want ? 'keeps' : 'drops'} "${title}"`);
+    else fail(`fitsCandidate drift for "${title}" (wanted ${want})`);
+  }
+  if (fitsCandidate('Se buscan actrices de 20 a 25 años', {}) === true) pass('fitsCandidate(): no candidate keys → nothing is filtered');
+  else fail('an empty candidate must keep everything');
+  const prof = parseCastingProfile('Se buscan actores y actrices de 20 a 25 años');
+  if (prof.age?.min === 20 && prof.age?.max === 25 && prof.genders.join() === 'hombre,mujer') pass('parseCastingProfile(): range and both genders');
+  else fail(`profile drift: ${JSON.stringify(prof)}`);
+
+  for (const bad of [{ edad: 13 }, { edad: 100 }, { edad: '42' }, { edad: 4.2 }, { genero: 'x' }]) {
+    let threw = false;
+    try { readCandidate(bad); } catch { threw = true; }
+    if (threw) pass(`readCandidate() rejects ${JSON.stringify(bad)}`);
+    else fail(`readCandidate() accepted ${JSON.stringify(bad)}`);
+  }
+  if (provider.detect({ provider: 'alternativateatral', edad: 'x' }) === null) pass('detect() returns null on an invalid edad');
+  else fail('detect() accepted an invalid edad');
+
+  const fitted = await provider.fetch({ provider: 'alternativateatral', ...man42 }, {
+    ...ctx,
+    fetchText: async () => `<html>${FACETS}<ul>`
+      + ROW('adhonorem', 'casting1-actor-40-50', '01/10/2026 - Se busca actor de 40 a 50 años')
+      + ROW('adhonorem', 'casting2-actrices', '01/10/2026 - Se buscan actrices de 20 a 25 años')
+      + ROW('remunerado', 'casting3-bajista', '01/10/2026 - Se busca bajista')
+      + `</ul></html>`,
+  });
+  if (fitted.length === 2 && fitted[0].description.includes('Edad pedida: 40-50 años') && fitted[1].title === 'Se busca bajista') {
+    pass('fetch() drops explicit mismatches, notes the stated age range, keeps titles that say nothing');
+  } else {
+    fail(`fit filter drift: ${JSON.stringify(fitted)}`);
+  }
+
+  // ── Detail page ──
+  if (isDetailUrl('https://www.alternativateatral.com/casting268535-actor-de-40-a-50-anos-para-cortometraje')
+      && !isDetailUrl('https://www.alternativateatral.com/i_convocatoria.asp?id=1')
+      && !isDetailUrl('https://evil.example/casting1')
+      && !isDetailUrl('http://www.alternativateatral.com/casting1')) {
+    pass('isDetailUrl(): only https casting pages on the board host');
+  } else {
+    fail('isDetailUrl accepted an unexpected URL');
+  }
+  const DETAIL = `<html><body><div class="izquierda"><ul><li><a href="mailto:Casting@Example.com">Enviar e-mail</a></li></ul>`
+    + `<h1 id="nombre" codigo="1">Se busca actor de 40 a 50 años</h1>`
+    + `<div class="descripcion">Persona que actúe como padre.<br>Con barba.</div>`
+    + `<ul class="detalle"><li id="contactar"><svg></svg>casting@example.com</li>`
+    + `<li><b>Rubros</b><ul><li><a href="x">Personas</a></li></ul></li>`
+    + `<li><b>Tipo de Remuneración</b><span>No remunerado</span></li>`
+    + `<li><b>Vencimiento</b><span>09/10/2026</span></li></ul></div></body></html>`;
+  const d = parseCastingDetail(DETAIL);
+  if (d.title.startsWith('Se busca actor') && d.description.includes('Con barba') && d.emails.join() === 'casting@example.com'
+      && d.contact === 'casting@example.com' && d.deadline === '09/10/2026' && d.remuneration === 'No remunerado') {
+    pass('parseCastingDetail(): title, description, contact, lower-cased email, deadline, remuneration');
+  } else {
+    fail(`detail drift: ${JSON.stringify(d)}`);
+  }
+  let notDetail = false;
+  try { parseCastingDetail('<html><title>Just a moment...</title></html>'); } catch { notDetail = true; }
+  if (notDetail) pass('parseCastingDetail() throws on a page that is not a casting page');
+  else fail('a block page parsed as a casting');
+  let refused = false;
+  try { await fetchCastingDetail('https://evil.example/casting1', ctx); } catch { refused = true; }
+  if (refused && seen.length === 0) pass('fetchCastingDetail() refuses a foreign URL before any request');
+  else fail('fetchCastingDetail reached the network for a foreign URL');
 } catch (error) {
   fail(`alternativateatral provider tests could not run: ${error.message}`);
 }

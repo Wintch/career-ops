@@ -324,6 +324,7 @@ const SYSTEM_PATHS = [
   'scan-interamt.mjs',
   'scan-dayforce.mjs',
   'scan-navent.mjs',
+  'casting-detail.mjs',
   'company-funded.mjs',
   'match-star.mjs',
   'jd-skill-gap.mjs',

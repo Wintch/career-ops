@@ -20,6 +20,15 @@
 // on the entry — set it to e.g. "Argentina" when you filter by `pais`, so your
 // location_filter sees it. Left unset it stays empty, which passes every filter.
 //
+// Optional candidate-fit filter, for boards whose titles state who is wanted
+// ("actor de 40 a 50 años", "actrices", "hombres mayores de 50"):
+//   edad:   the candidate's age (integer, 14-99)
+//   genero: 'hombre' | 'mujer'
+// Postings whose TITLE explicitly excludes the candidate are dropped; a title
+// that says nothing about age or gender is kept (the call may still suit them).
+// Kept postings that state an age range get it noted in `description`. The
+// values live in the user's own portals.yml — nothing personal ships here.
+//
 // SOURCE CHECK (measured 2026-10-04):
 //   - listing pages are server-rendered HTML over plain HTTPS — no challenge,
 //     no login, no JS needed to see the postings;
@@ -226,6 +235,147 @@ export function assertParsedSomething(html, url) {
   }
 }
 
+/** Lowercase, accent-free text for keyword matching. */
+function fold(text) {
+  return String(text ?? '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+}
+
+/** A single stated age ("de 30 años") is read as a playing age of ±5 years. */
+const SINGLE_AGE_SPREAD = 5;
+
+/**
+ * Who a posting title says it wants.
+ *   age     — {min, max} (either may be absent) or null when no age is stated
+ *   genders — subset of ['hombre','mujer']; empty when the title is silent
+ * Only the title is read, and only explicit wording counts.
+ * @param {string} title
+ * @returns {{age: {min?: number, max?: number} | null, genders: string[]}}
+ */
+export function parseCastingProfile(title) {
+  const t = fold(title);
+  /** @type {{min?: number, max?: number} | null} */
+  let age = null;
+  let m;
+  if ((m = /(?:de|entre)\s+(\d{1,2})\s*(?:a|y|-)\s*(\d{1,2})\s*anos/.exec(t))
+      || (m = /(\d{1,2})\s*(?:a|-)\s*(\d{1,2})\s*anos/.exec(t))) {
+    age = { min: Math.min(+m[1], +m[2]), max: Math.max(+m[1], +m[2]) };
+  } else if ((m = /(?:mayor(?:es)?\s+de|mas\s+de|desde(?:\s+los)?)\s+(\d{1,2})\s*anos/.exec(t))) {
+    age = { min: +m[1] };
+  } else if ((m = /(?:menor(?:es)?\s+de|hasta(?:\s+los)?)\s+(\d{1,2})\s*anos/.exec(t))) {
+    age = { max: +m[1] };
+  } else if ((m = /(?:\bde|aparente)\s+(\d{1,2})\s*anos/.exec(t))) {
+    age = { min: +m[1] - SINGLE_AGE_SPREAD, max: +m[1] + SINGLE_AGE_SPREAD };
+  }
+
+  const male = /\b(actor(?:es)?|hombres?|masculin\w*|varon(?:es)?|chicos?|muchachos?|senor(?:es)?)\b/.test(t);
+  const female = /\b(actriz|actrices|mujeres?|femenin\w*|chicas?|senoras?|bailarinas?)\b/.test(t);
+  const genders = [];
+  if (male) genders.push('hombre');
+  if (female) genders.push('mujer');
+  return { age, genders };
+}
+
+/**
+ * Does the candidate fit what the title asks for? `false` only on an explicit
+ * mismatch (age outside the stated range, or a gender the title never names).
+ * @param {string} title
+ * @param {{edad?: number, genero?: string}} candidate
+ * @returns {boolean}
+ */
+export function fitsCandidate(title, candidate) {
+  const { age, genders } = parseCastingProfile(title);
+  if (age && Number.isInteger(candidate.edad)) {
+    if (age.min !== undefined && candidate.edad < age.min) return false;
+    if (age.max !== undefined && candidate.edad > age.max) return false;
+  }
+  if (candidate.genero && genders.length > 0 && !genders.includes(candidate.genero)) return false;
+  return true;
+}
+
+/**
+ * Read and validate the optional candidate-fit keys of an entry.
+ * @param {any} entry
+ * @returns {{edad?: number, genero?: string}}
+ */
+export function readCandidate(entry) {
+  const out = {};
+  const edad = entry?.edad;
+  if (edad !== undefined && edad !== null && edad !== '') {
+    if (!Number.isInteger(edad) || edad < 14 || edad > 99) {
+      throw new Error(`alternativateatral: invalid edad ${JSON.stringify(edad)} — expected an integer from 14 to 99`);
+    }
+    out.edad = edad;
+  }
+  const genero = entry?.genero;
+  if (genero !== undefined && genero !== null && genero !== '') {
+    if (genero !== 'hombre' && genero !== 'mujer') {
+      throw new Error(`alternativateatral: invalid genero ${JSON.stringify(genero)} — expected 'hombre' or 'mujer'`);
+    }
+    out.genero = genero;
+  }
+  return out;
+}
+
+/** Posting detail path: the same safe shape the listing hrefs are held to. */
+const DETAIL_URL_RE = /^https:\/\/www\.alternativateatral\.com\/casting\d+(?:-[a-z0-9-]*)?$/i;
+
+/**
+ * Is this URL a casting detail page this provider may read?
+ * (`/i_convocatoria.asp` and the print variants are disallowed by robots.txt.)
+ * @param {string} url
+ */
+export function isDetailUrl(url) {
+  return DETAIL_URL_RE.test(String(url ?? ''));
+}
+
+/**
+ * Parse one casting detail page: what the poster wrote and where to answer.
+ * Missing parts come back empty rather than throwing; a page that is not a
+ * casting page at all (no `id="nombre"` heading) throws.
+ * @param {string} html
+ * @returns {{title: string, description: string, contact: string, emails: string[], deadline: string, remuneration: string, categories: string[]}}
+ */
+export function parseCastingDetail(html) {
+  const source = String(html ?? '');
+  const h1 = /<h1\b[^>]*id=["']nombre["'][^>]*>([\s\S]*?)<\/h1>/i.exec(source);
+  if (!h1) throw new Error('alternativateatral: not a casting detail page (no title heading) — blocked or the page changed');
+  const title = visibleText(h1[1]);
+  const desc = /<div class=["']descripcion["']>([\s\S]*?)<\/div>/i.exec(source);
+  const description = desc ? visibleText(desc[1].replace(/<br\s*\/?>/gi, '\n')) : '';
+  const contactLi = /<li id=["']contactar["']>([\s\S]*?)<\/li>/i.exec(source);
+  const contact = contactLi ? visibleText(contactLi[1]) : '';
+  const emails = [...new Set(
+    [...source.matchAll(/href=["']mailto:([^"'?\s]+)/gi)].map((x) => decodeEntities(x[1]).toLowerCase()),
+  )];
+  const deadlineHit = /Vencimiento[\s\S]{0,300}?(\d{2}\/\d{2}\/\d{4})/i.exec(source);
+  const remHit = /Tipo de Remuneraci[oó]n[\s\S]{0,300}?(No remunerado|Remunerado|Cooperativa)/i.exec(source);
+  const rubros = /Rubros[\s\S]{0,600}?<\/li>/i.exec(source);
+  const categories = rubros
+    ? [...rubros[0].matchAll(/<a\b[^>]*>([\s\S]*?)<\/a>/gi)].map((x) => visibleText(x[1])).filter(Boolean)
+    : [];
+  return {
+    title,
+    description,
+    contact,
+    emails,
+    deadline: deadlineHit ? deadlineHit[1] : '',
+    remuneration: remHit ? remHit[1] : '',
+    categories,
+  };
+}
+
+/**
+ * Fetch and parse ONE casting detail page. The caller paces calls (the board
+ * asks Crawl-delay 600) — this does exactly one request.
+ * @param {string} url
+ * @param {any} ctx
+ */
+export async function fetchCastingDetail(url, ctx) {
+  if (!isDetailUrl(url)) throw new Error(`alternativateatral: refusing to fetch ${JSON.stringify(url)} — not a casting detail URL`);
+  const html = await fetchTextWithRetry(ctx, url, { redirect: 'error' });
+  return parseCastingDetail(html);
+}
+
 /** @type {Provider} */
 export default {
   id: 'alternativateatral',
@@ -234,6 +384,7 @@ export default {
   detect(entry) {
     if (entry?.provider !== 'alternativateatral') return null;
     try {
+      readCandidate(entry);
       return { url: buildListUrl(entry) };
     } catch {
       return null;
@@ -248,8 +399,16 @@ export default {
     const url = buildListUrl(entry);
     const html = await fetchTextWithRetry(ctx, url, { redirect: 'error' });
 
-    const jobs = parseListingPage(html, { location: readLocation(entry) });
-    if (jobs.length === 0) assertParsedSomething(html, url);
-    return jobs;
+    const candidate = readCandidate(entry);
+    const all = parseListingPage(html, { location: readLocation(entry) });
+    if (all.length === 0) assertParsedSomething(html, url);
+    return all
+      .filter((j) => fitsCandidate(j.title, candidate))
+      .map((j) => {
+        const { age } = parseCastingProfile(j.title);
+        if (!age || (age.min === undefined && age.max === undefined)) return j;
+        const range = age.min !== undefined && age.max !== undefined ? `${age.min}-${age.max}` : age.min !== undefined ? `${age.min}+` : `hasta ${age.max}`;
+        return { ...j, description: [j.description, `Edad pedida: ${range} años`].filter(Boolean).join(' · ') };
+      });
   },
 };

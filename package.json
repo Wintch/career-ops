@@ -42,6 +42,7 @@
     "scan:interamt": "node scan-interamt.mjs",
     "scan:dayforce": "node scan-dayforce.mjs",
     "scan:navent": "node scan-navent.mjs",
+    "casting-detail": "node casting-detail.mjs",
     "company:funded": "node company-funded.mjs",
     "validate:portals": "node validate-portals.mjs",
     "verify:portals": "node verify-portals.mjs",

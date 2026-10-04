@@ -3863,7 +3863,9 @@ async function main() {
         let sawAbsentField = false;
         for (const field of declaredFields) {
           if (field === 'title') {
-            if (!titleFilter(job.title)) { failedField = field; break; }
+            // `skip_title_filter: true` on an entry opts a non-tech board
+            // (castings, general job boards) out of the global tech keyword net.
+            if (company.skip_title_filter !== true && !titleFilter(job.title)) { failedField = field; break; }
           } else {
             const value = declaredFieldValue(job, field);
             if (isFieldAbsent(value)) sawAbsentField = true;
@@ -3879,7 +3881,7 @@ async function main() {
           continue;
         }
         if (sawAbsentField) totalPassedFieldAbsent++;
-        if (classifyTier && skipTiers.includes(classifyTier(job.title))) {
+        if (company.skip_title_filter !== true && classifyTier && skipTiers.includes(classifyTier(job.title))) {
           totalFilteredTier++;
           continue;
         }

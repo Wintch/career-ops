@@ -1544,6 +1544,9 @@ search_queries:
 #   clasificacion: 2                      # optional: 1 festivals/events, 2 people, 3 shows, 4 other
 #   tipo: 2                               # optional remuneration: 0 no remunerado, 1 cooperativa, 2 remunerado
 #   location: Argentina                   # optional label for location_filter (the list carries no location)
+#   edad: 35                              # optional: your age — drops calls whose title states a range you fall outside
+#   genero: mujer                         # optional: hombre | mujer — drops calls whose title names only the other
+#   skip_title_filter: true               # castings are not tech roles: bypass the global title_filter.positive (works on any entry)
 #   enabled: true                         # ONE request per scan: robots.txt asks Crawl-delay 600, newest ~30 calls
 #
 # - name: The Hub                         # Nordic/EU startup board
