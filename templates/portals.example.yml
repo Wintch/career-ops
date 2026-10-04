@@ -1895,6 +1895,12 @@ tracked_companies:
     notes: "Dublin EMEA. Fin AI agent."
     enabled: true
 
+  - name: Plata
+    careers_url: https://plata.careers/vacancy
+    api: https://boards-api.greenhouse.io/v1/boards/platacard/jobs
+    notes: "Mexico fintech/bank (Plata Card). Branded Framer front on a Greenhouse board (platacard); many remote/Worldwide roles."
+    enabled: true
+
   - name: Hume AI
     careers_url: https://job-boards.greenhouse.io/humeai
     api: https://boards-api.greenhouse.io/v1/boards/humeai/jobs
