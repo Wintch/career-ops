@@ -32,6 +32,8 @@ All scripts live in the project root as `.mjs` modules. Most are exposed via
 | `npm run scan:full` | `scan-ats-full.mjs` | Reverse ATS discovery scanner |
 | `node web/scripts/scheduled-jobs-runner.mjs` | `web/scripts/scheduled-jobs-runner.mjs` | Run one due local scheduled scan (normally invoked by Task Scheduler) |
 | `powershell.exe -NoProfile -ExecutionPolicy Bypass -File web/scripts/install-scan-schedule.ps1` | `web/scripts/install-scan-schedule.ps1` | Install the 15-minute Windows scheduled-jobs queue worker for the logged-in current user |
+| `npm run scan:navent` | `scan-navent.mjs` | Light-touch Playwright scanner for Bumeran and ZonaJobs (Argentina). Configure `navent_searches` in `portals.yml`; reads `robots.txt` each run, paces navigations, never opens detail pages, stops on any anti-bot challenge without bypassing it. Flags: `--dry-run`, `--site`, `--keyword`, `--since` |
+| `npm run casting-detail -- <url>` | `casting-detail.mjs` | Read ONE Alternativa Teatral casting page (description, contact, deadline, remuneration). Read-only: nothing is sent; the person replies |
 | `npm run company:funded` | `company-funded.mjs` | Review-first discovery of recently funded companies |
 | `npm run validate:portals` | `validate-portals.mjs` | Validate portals.yml shape before scanning |
 | `npm run tracker` | `tracker.mjs` | SQLite derived index over applications.md — sync/query/history/export |
