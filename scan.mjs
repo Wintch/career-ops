@@ -246,6 +246,14 @@ export function declaredFieldValue(job, field) {
 }
 
 // ── Title filter overrides (per-company broadened title net) ───────
+// Entry-level title gate: `skip_title_filter: true` bypasses the global
+// title_filter for that entry only (non-tech boards such as castings); every
+// other entry is filtered exactly as before.
+export function passesTitleFilter(entry, title, titleFilter) {
+  if (entry && entry.skip_title_filter === true) return true;
+  return titleFilter(title);
+}
+
 // Optional. `title_filter_overrides` in portals.yml lets specific companies
 // (matched by an explicit slug list — the company/tenant slug the scanner
 // already derives from the job-board-aggregator dataset entry, e.g. the
@@ -3865,7 +3873,7 @@ async function main() {
           if (field === 'title') {
             // `skip_title_filter: true` on an entry opts a non-tech board
             // (castings, general job boards) out of the global tech keyword net.
-            if (company.skip_title_filter !== true && !titleFilter(job.title)) { failedField = field; break; }
+            if (!passesTitleFilter(company, job.title, titleFilter)) { failedField = field; break; }
           } else {
             const value = declaredFieldValue(job, field);
             if (isFieldAbsent(value)) sawAbsentField = true;
