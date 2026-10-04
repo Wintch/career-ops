@@ -95,6 +95,31 @@
 #     tenant: firstnational
 #   - name: LifeLabs
 #     tenant: lifelabs
+#
+# -- Bumeran / ZonaJobs searches (optional, Argentina) --
+# Read by scan-navent.mjs (`npm run scan:navent`), a separate Playwright scanner
+# for Bumeran and ZonaJobs. Both run on the same platform and are
+# client-rendered (a plain HTTP fetch returns an empty app shell), so no
+# provider can read them; the scanner opens the public search page like a
+# visitor and reads the results the page itself loads.
+#
+# Light touch by design: it identifies itself as career-ops, reads each site's
+# robots.txt on every run, waits 6 s between navigations, reads at most 5 pages
+# per keyword (default 2, 20 postings each) and makes at most 40 navigations per
+# run. It never solves or works around a challenge: a CAPTCHA/403/429 stops the
+# whole run. The boards order results by relevance, so use specific keywords.
+#
+# `site` is bumeran or zonajobs; `keywords` is a word/phrase or a list (max 8),
+# one search each. There is no default — set your own. Results are still
+# filtered by title_filter/location_filter below; --since N keeps only postings
+# published in the last N days.
+#
+# navent_searches:
+#   - site: bumeran
+#     keywords: [devops, sre]
+#     max_pages: 2
+#   - site: zonajobs
+#     keywords: [devops]
 
 # -- Location filter (optional) --
 # Filter scanned jobs by location. Applied AFTER title filter, BEFORE dedup.
