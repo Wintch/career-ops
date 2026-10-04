@@ -1092,6 +1092,8 @@ search_queries:
 #   icims           careers-<tenant>.icims.com / *.icims.com
 #   jazzhr          <tenant>.applytojob.com or <tenant>.applytojob.com/apply
 #   pythonorg       python.org/jobs
+#   computrabajo    <cc>.computrabajo.com  (LatAm general board, one host per country: ar mx co cl pe ec uy ve bo cr do gt hn ni pa py sv pr;
+#                   only the host is read — set searchKeywords: on the entry, see the stanza below)
 #   generalist-world generalist.world/jobs/  (curated generalist / operator roles board; SSR HTML, one fetch; or provider: generalist-world)
 #   applitrack      www.applitrack.com/<district>/onlineapp/  (Frontline AppliTrack K-12 board; optional default_location: "City, ST" is appended to site names that name no place)
 #   schoolspring    <district>.schoolspring.com  (K-12 board; public JSON API)
@@ -1500,6 +1502,24 @@ search_queries:
 #   states: ["nuevo-leon", "jalisco"]     # optional; omit to scan nationwide
 #   max_pages: 3                          # optional page cap (20 jobs/page, default 3, max 10)
 #   enabled: true                         # 750ms pacing between pages
+#
+# - name: Example Computrabajo — Argentina  # Latin America's largest general board, one site per country
+#   careers_url: https://ar.computrabajo.com/   # host picks the country (ar mx co cl pe ec uy ve bo cr do gt hn ni pa py sv pr)
+#                                         # auto-detected; or use provider: computrabajo + country: ar
+#   searchKeywords: [devops, sre]         # REQUIRED: one word/phrase or a list (max 8), one search pass each —
+#                                         # the board has no keyword-less listing, so there is no default
+#   searchLocation: capital-federal       # optional location slug, as in the board's own URLs
+#   max_pages: 5                          # optional page cap (20 postings/page, default 5, max 25)
+#   enabled: true                         # server-rendered; 1.5 s pacing between requests; robots.txt-clean paths only
+#
+# - name: Example Alternativa Teatral     # Argentina's performing-arts castings and calls (not a tech board)
+#   provider: alternativateatral          # no detect() — only reachable via provider:
+#   pais: 1                               # optional country id from the board's filters (1 Argentina, 160 Mexico)
+#   provincia: 587                        # optional province id, used with pais (587 = CABA, 1 = Buenos Aires)
+#   clasificacion: 2                      # optional: 1 festivals/events, 2 people, 3 shows, 4 other
+#   tipo: 2                               # optional remuneration: 0 no remunerado, 1 cooperativa, 2 remunerado
+#   location: Argentina                   # optional label for location_filter (the list carries no location)
+#   enabled: true                         # ONE request per scan: robots.txt asks Crawl-delay 600, newest ~30 calls
 #
 # - name: The Hub                         # Nordic/EU startup board
 #   provider: thehub
@@ -3124,3 +3144,22 @@ job_boards:
     careers_url: https://www.python.org/jobs/
     enabled: false
     notes: "Official Python Software Foundation job board (public RSS feed)"
+
+  # ── Latin America — general boards ──────────────────────────────────
+  # Computrabajo runs one site per country; one entry = one country. Edit
+  # searchKeywords to your own targets (the board has no keyword-less listing),
+  # then enable. Server-rendered, no login; paced at 1.5 s between requests.
+
+  - name: Computrabajo — Argentina
+    careers_url: https://ar.computrabajo.com/
+    searchKeywords: [desarrollador, ingeniero]
+    max_pages: 3
+    enabled: false
+    notes: "Edit searchKeywords first. 20 postings/page; location/salary/modality on each card."
+
+  - name: Computrabajo — México
+    careers_url: https://mx.computrabajo.com/
+    searchKeywords: [desarrollador, ingeniero]
+    max_pages: 3
+    enabled: false
+    notes: "Edit searchKeywords first. Other countries: ar mx co cl pe ec uy ve bo cr do gt hn ni pa py sv pr."
