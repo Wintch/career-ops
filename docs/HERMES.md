@@ -129,6 +129,24 @@ The interactive workflow remains available for tasks that benefit from session c
 | The agent ignores the repository's rules | The rules file was dropped by the scanner. Look for the block marker, and describe quoted examples rather than quoting them |
 | A script errors immediately | `npm install` has not been run in the checkout, or Node is older than 18 |
 | Nothing happens after you paste a link | The posting is dead and the liveness check stopped the run. That is the check working |
+| `./cops` fails with "docker not found" | Inside a Hermes container there is no Docker. Use the Docker-free `cops` (see below) or plain `node` / `npm run` |
+| Hermes answers a CV request with text only, no PDF | The chat UI is wrapping the message in a "answer from the provided context" template (see below) |
+| The PDF link does not open | The link must use the real folder name, not a placeholder. Check with `ls /web-outputs` |
+
+## Running inside a per-person Hermes container (aibridge): lessons learned
+
+These come from running this checkout as `/workdir/jobfinder` in per-person Hermes instances (Hermes + Open WebUI, one container per person). None of it applies to a normal local install.
+
+- **No Docker in the container.** The upstream `./cops` wrapper drives `docker compose`, so it fails there. The aibridge installer (`ops/install_jobfinder.sh`, source `ops/cops-nodocker`) replaces it with a wrapper of the same interface that runs `npm run <script>` / `node` directly (`./cops doctor`, `verify`, `scan`, `node …`). Plain `node doctor.mjs --json`, `node scan.mjs` also work.
+- **Chromium is already in the image** (`PLAYWRIGHT_BROWSERS_PATH`), so `generate-pdf.mjs` renders PDFs without installing a browser. Install dependencies with the image's own Node (`npm ci --ignore-scripts`) and skip Playwright's browser download.
+- **PDF recipe that works:** the agent writes a JSON payload → `node build-cv-html.mjs payload.json output/cv-<name>.html` → `node generate-pdf.mjs output/cv-<name>.html output/cv-<name>.pdf --format=a4`. Notes: there is no `pdf.mjs`; the format flag needs the `=`; `generate-pdf.mjs` takes HTML, not `cv.md`; paths must stay inside the workspace.
+- **Delivering the file:** copy it to `/web-outputs/<random-dir>/` and link `/hermes-files/<random-dir>/<file>.pdf`. Free models sometimes write an example id in the link instead of the real directory; the skill says to confirm with `ls`.
+- **Open WebUI's RAG template can suppress tools.** With a file attached, the UI sends the model a "respond using the provided context" prompt, and the agent answers with text only (it never reached the PDF step). Replace the template with one that tells the agent it is an agent and should deliver files; also check that retrieval/embedding is not failing.
+- **Job offers: use `buscar-empleos`, not `scan`.** `scan` is for configured company portals; searching Argentine boards (ZonaJobs, Bumeran, Computrabajo, LinkedIn) is `buscar-empleos "<keywords>" [--zona …]`, which is deterministic and much faster than an agent improvising URLs.
+- **Skills and memory live in the container and sync out.** `~/.hermes/skills` is copied to the persistent volume every ~30 s, so editing the persistent copy from the host is overwritten. Write the live copy in the container (`docker cp`), then confirm the persistent copy matches. Same for agent memory (`/root/.hermes/memories`): write inside the container.
+- **Keep the three skill copies identical.** The agent edits its own skill; review those edits (one self-written PDF recipe used a script that does not exist) before copying them to other instances.
+- **Migrating a person's data** from another checkout: `cp -an` of `cv.md`, `config/profile.yml`, `portals.yml`, `modes/_*.md`, `voice-dna.md`, `data`, `reports`, `output`, `jds`, `interview-prep`, `documents`, `writing-samples`; never overwrite, and leave the old checkout as a backup. Do not copy tokens or SSH keys.
+- **The person needs their own LLM key** before anything works; see `ops/KEYS_GUIDE.{es,en,ru}.md` in the aibridge repo (OpenRouter first, then Gemini, Hugging Face, NVIDIA NIM, then paid).
 
 ## What the agent will never do
 
