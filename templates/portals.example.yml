@@ -872,6 +872,11 @@ search_queries:
     query: 'site:fwddeploy.com "Forward Deployed" OR "Deployed Engineer" remote Europe OR EMEA'
     enabled: true
 
+  # YC's board-wide listing pages return a fixed ~35-posting window (no usable
+  # pagination), so they cannot be scanned for a complete inventory. These
+  # WebSearch queries are the board-level discovery path; to follow a specific YC
+  # startup at zero token cost, add it under tracked_companies: with its
+  # workatastartup.com/companies/<slug> URL (provider yc-jobs, auto-detected).
   - name: YC Jobs — DevRel/SA/FDE/Founding
     query: 'site:ycombinator.com/jobs OR site:workatastartup.com "Forward Deployed" OR "Developer Advocate" OR "Founding Engineer" OR "Solutions Architect" remote'
     enabled: true
@@ -1104,6 +1109,7 @@ search_queries:
 #   comeet          api: https://www.comeet.co/careers-api/2.0/company/<uid>/positions?token=<token>
 #   personio        <slug>.jobs.personio.(de|com)
 #   pinpoint        <slug>.pinpointhq.com
+#   yc-jobs         workatastartup.com/companies/<slug> or ycombinator.com/companies/<slug>[/jobs]  (one YC startup per entry)
 #   prevueaps       <tenant>.prevueaps.ca  (or api: field; domainId resolved from the tenant's /jobs/ page)
 #   rippling        ats.rippling.com/<slug>/jobs
 #   jibeapply       <slug>.jibeapply.com/jobs  (or provider: jibeapply + api: for a branded host's own /jobs path)
@@ -1209,6 +1215,10 @@ search_queries:
 #
 # - name: Example PrevueAPS Co
 #   careers_url: https://exampleco.prevueaps.ca/jobs/     # any *.prevueaps.ca host
+#   enabled: true
+#
+# - name: Example YC Startup
+#   careers_url: https://www.workatastartup.com/companies/exampleco   # or www.ycombinator.com/companies/<slug>/jobs
 #   enabled: true
 #
 # - name: Example Rippling Co
