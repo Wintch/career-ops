@@ -239,7 +239,7 @@ The Importance column does **not** affect the 1-5 global score — it is a prior
 
 Use the bounded research budget above for:
 - Current salaries for the role (Glassdoor, Levels.fyi, Blind)
-- Company's compensation reputation
+- Company's compensation reputation (Glassdoor, Blind; openqube.io for Latin American employers)
 - Demand trend for the role
 
 Before interpreting any salary number, classify the company type. Public compensation ranges are not equally reliable across company categories.
