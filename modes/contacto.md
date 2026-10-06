@@ -10,11 +10,16 @@ requirements; hiring manager → impact/vision):
 - **LinkedIn power move** (default) — find contacts and draft a connection-request
   message tied to a specific application/interview, within LinkedIn's character
   limit for the account's tier (see **Message rules** below). This is the flow below.
+- **Public search post** — a public "I'm looking for X" post plus the readiness
+  checklist around it (profile, first circle, support group, launch day). No
+  single recipient. See **Public search post variant** at the end of this file.
 - **Greeting** — a single ultra-short first-touch message for platforms with a hard
   character budget (BOSS Zhipin 打招呼, job-board chat, a cold-email opener). No
   contact discovery. See **Greeting variant** at the end of this file.
 
-**Pick the variant:** use **Greeting** when the user says "greeting" / "打招呼" /
+**Pick the variant:** use **Public search post** when the user asks for a
+"looking for work" post, an open-to-work announcement, or help getting
+inbound from LinkedIn/a professional network. Use **Greeting** when the user says "greeting" / "打招呼" /
 "cold opener", names a chat-style platform (e.g. BOSS Zhipin), or asks for a very
 short message; otherwise run the LinkedIn power move below.
 
@@ -217,3 +222,109 @@ that there is **no contact discovery**.
   from `cv.md`, never invent a skill, metric, or claim.
 - NO corporate-speak, NO "I'm passionate about...", NEVER share a phone number.
 - Persona changes the EMPHASIS, not the structure.
+
+---
+
+## Public search post variant
+
+A public post announcing the search, written so the right people (hiring
+managers, recruiters, peers in the same profession) see it and reach out. It is
+one channel among several (open applications, direct sourcing, networking,
+referrals) and the only one that can be launched in 1–2 weeks. Treat it as an
+amplifier of the rest of the search, not a guarantee: an offer from a single
+post happens, but is not the expectation. The principles are network-agnostic;
+LinkedIn is the default example.
+
+Source of truth is unchanged: every fact in the post comes from `cv.md`,
+`article-digest.md`, `config/profile.yml` or what the user says in this
+conversation. Reformulate, never invent. Metrics are quoted as they appear in
+`cv.md`, never rounded up or added.
+
+### Step 1 — Readiness gate (do this BEFORE drafting)
+
+A strong post sent to the wrong audience or to an inconsistent profile wastes
+the one shot. Check, and tell the user what is missing:
+
+1. **Public profile, consistent around ONE role.** Adjacent roles of the same
+   family read as one profession; two different professions in one profile do
+   not. If the user targets two, ask which one this post and profile serve.
+   Profile checklist: name as in the CV; one-person photo with a neutral
+   background; headline using the most frequent market title for the role;
+   About stating who, years of experience, specialty, results and contact;
+   location set to where the search really is; experience (dates, titles)
+   matching the CV; latest job title in a standard form.
+2. **First circle contains the target audience.** The post is shown first to
+   direct connections, then to people similar to those who reacted. Reach is
+   not the goal; an interview is. If the first circle has no hiring people,
+   even a viral post fails. Hiring pyramid, in order of usefulness: people who
+   can invite you to interview (the hiring manager of your profile, in-house
+   and agency recruiters), people who post vacancies, people in your own
+   profession who can recommend you. Build it over 2–3 weeks: search for the
+   hiring role of your profile (QA → Head of QA/CTO; designer → Head of
+   Design/CPO), filter by target location, connect, use the platform's
+   suggestions, add ~10–15 a day rather than 150 at once, include recruiters
+   of the target companies and location. Minimum 20–30 relevant contacts, and
+   prune the irrelevant ones.
+3. **Support group of 10–15 people**, agreed in advance, who will comment and
+   reshare in the first 90 minutes. Comments weigh far more than likes; a
+   handful of comments plus reshares carries the post further, silence stops
+   it. Asking for help is normal: the favour is mutual. People are willing but
+   forgetful, so agree beforehand, remind them the morning of, and send the
+   link right after publishing with one specific ask.
+
+If the gate fails, stop and offer the missing prep (profile fixes, who to
+connect with) instead of drafting.
+
+### Step 2 — Draft the post (anatomy)
+
+1. **Headline** with the role named as in frequent vacancy titles.
+2. **First two lines are the hook** (they are all that shows in the feed):
+   `Looking for a {role} role — {location or remote region}. {one sentence of
+   business value}.` Example: "Looking for a Senior Data Analyst role — Berlin
+   or remote EU. I help product teams make decisions with data: analytics from
+   scratch, from events to dashboards."
+3. **Photo**: one person, open face.
+4. **Alternative role titles** the user would accept.
+5. **One or two sentences of business value**, not a self-description.
+6. **About 10 facts of experience**, short and concrete (results, keywords,
+   specific expertise), each traceable to `cv.md`. Fewer is fine; never pad.
+7. **Reader instruction**: what to do if they can help or are hiring (write to
+   me, comment, share).
+8. **Links in the first comment**, not in the body.
+9. **Human language.** No generated-sounding text.
+
+Common failures to avoid: generic template ("looking for interesting
+projects"); no role, location or numbers; AI-sounding text; posting with no
+network behind it.
+
+Output the draft in `language.output`, plus a short list of which `cv.md`
+lines each fact came from, and any gap the user must fill (never fill it
+yourself).
+
+### Step 3 — Launch plan (give it with the draft)
+
+- **When**: Monday–Thursday, morning or midday in the target audience's time
+  zone.
+- **Morning of**: tell the support group "around {time}, be available"; right
+  after publishing, send each person the link with a specific ask (comment,
+  reshare).
+- **First 90 minutes**: stay free and answer every comment (replies feed the
+  algorithm too). Thank resharers privately.
+- **First day**: do not edit the post for the first couple of hours (edits
+  reduce reach); do not like your own post.
+- **Inbox**: log each incoming contact in a table (company, who, where they
+  came from, what they said, priority). Offer to save people to
+  `data/contacts.tsv` and to turn replies into tracker rows via the normal
+  flow; never send anything yourself.
+- **Pin** the post in the profile's Featured section.
+- **If it does not work**, re-walk the chain instead of blaming luck: is the
+  career goal realistic → CV and public profile → first circle → post (results
+  and self-presentation stronger) → support group → repost. Reposting every
+  1–1.5 months is normal; the old post can be deleted.
+
+### Public post rules
+- Never publish, comment or message for the user. Draft only.
+- Never invent a metric, scope or authorship claim (see AGENTS.md → Source-of-
+  Truth Boundary).
+- Location and role in the hook must match what the user confirmed, and match
+  the profile (consistency is what makes the post convert).

@@ -26,7 +26,7 @@ table in `AGENTS.md` (mirrored in `CLAUDE.md`).
 | `text.md` | `text` | Tailored markdown CV (no PDF) |
 | `cover.md` | `cover` | Cover letter generator |
 | `email.md` | `email` | Application email drafts (draft-only) |
-| `contacto.md` | `contacto` | LinkedIn outreach messages |
+| `contacto.md` | `contacto` | LinkedIn outreach messages; greeting opener; public "looking for X" search post with readiness checklist and launch plan |
 | `deep.md` | `deep` | Deep company-research prompt |
 | `interview.md` | `interview` | Interactive profile & CV onboarding |
 | `master-profile.md` | `master-profile` | Source-backed Master Career Profile import and review |
