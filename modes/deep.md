@@ -26,7 +26,7 @@ Context: I am evaluating a candidacy for [role] at [company]. I need actionable 
 - Monorepo or multirepo?
 - What languages/frameworks do they use?
 - Remote-first or office-first?
-- Glassdoor/Blind reviews about engineering culture?
+- Glassdoor/Blind reviews about engineering culture? (for Latin American employers also check openqube.io, which has employee reviews for companies the global sites cover thinly)
 
 ### 4. Likely challenges
 - What scaling problems do they have?
