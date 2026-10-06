@@ -164,6 +164,7 @@ AI-powered, CLI-agnostic job search automation: pipeline tracking, offer evaluat
 | `linkedin-join.mjs` | Warm-intro finder — joins a LinkedIn `Connections.csv` export against tracker + `portals.yml` companies to answer "do I know anyone here?"; zero-token, offline, read-only. Operational only: never a scoring input, never a content source (JSON, `--summary`, `--company <name>`, `--tsv`) |
 | `data/contacts.tsv` | Job-search contact list — recruiters/hiring managers/peers saved from `contacto` (user layer, gitignored third-party PII) |
 | `data/Connections.csv` | LinkedIn connections export (user layer, gitignored third-party PII; read by `linkedin-join.mjs`, safe to delete after use) |
+| `data/company-watch.md` | Hand-picked company watchlist — staff size, tracked-role tenure, stack signals, OpenQube review notes, refresh changelog (user layer, gitignored third-party PII, opt-in — only companies explicitly flagged via `watch` mode; never a source for generated content, same trust tier as auto-memory) |
 | `outcome.mjs` | Record application outcome, archive artifacts, and sync tracker (`node outcome.mjs <selector> <type>`) |
 | `hired-share.mjs` | Draft a Hired Wall story from the tracker and open a prefilled GitHub issue the user submits themselves; `--status` lists hires never asked; `--mark` records their answer permanently |
 | `jd-capture.mjs` | Resolves an archived JD in `jds/` by report number, matching padded and unpadded prefixes (`064-`, `64-`, `01-`). Consumed by `outcome.mjs`; written by `archive-posting.mjs --report=N`. Replaces rebuilding a capture's filename from today's date, which stopped resolving the next day |
@@ -382,8 +383,8 @@ A single-string `modes_dir` (today's default, ~90% of users) behaves exactly as 
 | Asks to compare offers | `ofertas` |
 | Wants LinkedIn outreach | `contacto` — identifies hiring manager, recruiter, or team peers via web search; drafts a message tailored to the contact type (recruiter / hiring manager / peer / interviewer), within LinkedIn's connection-request character limit for the account's tier (200 free, 300 Premium/Sales Navigator) |
 | Wants a formal application email | `email` — draft-only subject, body, attachment checklist, and contact block from a report or JD; never sends, submits, or clicks anything |
-| Asks for company research | `deep` — structured 6-axis research prompt (AI strategy, recent moves, engineering culture, likely challenges, competitors, candidate's angle) |
 | Wants a public "looking for work" post (open-to-work announcement) | `contacto` (public search post variant) — readiness gate (consistent public profile, target-audience first circle, 10–15 person support group), post anatomy drafted only from cv.md facts, and a launch-day/first-90-minutes plan; draft-only, never posts |
+| Asks for company research | `deep` — structured 6-axis research prompt (AI strategy, recent moves, engineering culture, likely challenges, competitors, candidate's angle) |
 | Preps for interview at specific company | `interview-prep` |
 | Wants a time-blocked prep plan for an upcoming interview | `interview/plan` |
 | Wants to run practice interview questions with feedback | `interview/practice` |
@@ -415,6 +416,7 @@ A single-string `modes_dir` (today's default, ~90% of users) behaves exactly as 
 | Asks about follow-ups or application cadence | `followup` |
 | Wants to classify application replies and review updates | `reply-watch` — classifies replies, matches to applications, suggests tracker updates |
 | Wants to record application outcome & archive artifacts | `outcome` |
+| Wants to track a hand-picked company over time (staff size, leadership tenure, stack/social signals) | `watch` — local only, opt-in per company, never a content source |
 | Wants to update the system | `update` |
 | Wants to queue a request for later / check the inbox between sessions | `agent-inbox` — append-only checklist drained next session; nothing auto-submits |
 | Wants to add a finished project, paper, or role to the CV | `add` — source-grounded preview, confirm-before-write; dedup + insertion via `add-entry.mjs` |
