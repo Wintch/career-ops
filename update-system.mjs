@@ -201,6 +201,7 @@ const SYSTEM_PATHS = [
   'modes/update.md',
   'modes/agent-inbox.md',
   'modes/reply-watch.md',
+  'modes/watch.md',
   'modes/outcome.md',
   'modes/ar/',
   'modes/da/',

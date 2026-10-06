@@ -125,6 +125,7 @@ These files contain system logic, scripts, templates, and instructions that impr
 | `modes/interview/*` | Interview prep planning, practice, and debrief skills |
 | `modes/agent-inbox.md` | Agent inbox (queued requests) instructions |
 | `modes/reply-watch.md` | Employer reply classification instructions |
+| `modes/watch.md` | Company watchlist instructions (local-only, opt-in) |
 | `modes/update.md` | System update instructions |
 | `modes/ar/*` | Arabic language modes |
 | `modes/da/*` | Danish language modes |
