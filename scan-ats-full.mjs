@@ -32,7 +32,8 @@
  *   node scan-ats-full.mjs --since 7            # postings from the last 7 days
  *   node scan-ats-full.mjs --ats greenhouse,workday  # subset of sources
  *   node scan-ats-full.mjs --history-seeds --ats successfactors # scan history-derived boards
- *   node scan-ats-full.mjs --limit 200          # max companies per ATS (default: all)
+ *   node scan-ats-full.mjs --seeds yc --hiring-only # YC portfolio: only companies YC flags as hiring (~8x fewer requests)
+  node scan-ats-full.mjs --limit 200          # max companies per ATS (default: all)
  *   node scan-ats-full.mjs --dry-run            # preview without writing files
  *   node scan-ats-full.mjs --liveness           # Playwright-verify matches before writing
  *   node scan-ats-full.mjs --include-blacklisted # audit: let data/blacklist.md matches through, annotated
@@ -54,6 +55,7 @@ import { isResolverFailure, dnsPacingStats } from './providers/_dns-cache.mjs';
 import greenhouse from './providers/greenhouse.mjs';
 import lever from './providers/lever.mjs';
 import ashby from './providers/ashby.mjs';
+import ycJobs from './providers/yc-jobs.mjs';
 import workday, { WORKDAY_TRUNCATED_REASON } from './providers/workday.mjs';
 import icims from './providers/icims.mjs';
 import bamboohr from './providers/bamboohr.mjs';
@@ -309,7 +311,7 @@ export const SOURCES = {
 // ── CLI args ────────────────────────────────────────────────────────
 
 const KNOWN_FLAGS = [
-  '--since', '--limit', '--ats', '--seeds', '--history-seeds', '--dry-run', '--liveness',
+  '--since', '--limit', '--ats', '--seeds', '--hiring-only', '--history-seeds', '--dry-run', '--liveness',
   '--verbose', '--md-out', '--json', '--include-undated', '--include-blacklisted',
   '--shuffle', '--resume', '--help', '-h',
 ];
@@ -404,6 +406,7 @@ export function parseArgs(argv) {
     atsExplicit: Boolean(atsArg),
     historySeeds,
     seeds,
+    hiringOnly: args.includes('--hiring-only'),
     dryRun: args.includes('--dry-run'),
     liveness: args.includes('--liveness'),
     verbose: args.includes('--verbose'),
@@ -648,12 +651,17 @@ export async function runSeedScan(seedId, opts, ctx, seenUrls, label) {
     return [];
   }
 
+  // --hiring-only: drop companies the source itself flags as not hiring (YC's
+  // `isHiring` badge). Sources with no such signal (hiring === undefined) are
+  // kept whole. Applied before --limit so the cap counts only probed companies.
+  const pool = opts.hiringOnly ? companies.filter((c) => c.hiring !== false) : companies;
+
   // Apply the --limit cap here too (by slug, consistent with sampleCompanies).
-  const capped = opts.limit < companies.length
+  const capped = opts.limit < pool.length
     ? (opts.shuffle
-      ? (() => { const c = companies.slice(); for (let i = c.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [c[i], c[j]] = [c[j], c[i]]; } return c.slice(0, opts.limit); })()
-      : companies.slice(0, opts.limit))
-    : companies;
+      ? (() => { const c = pool.slice(); for (let i = c.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [c[i], c[j]] = [c[j], c[i]]; } return c.slice(0, opts.limit); })()
+      : pool.slice(0, opts.limit))
+    : pool;
 
   const cutoff = Date.now() - opts.sinceDays * 86_400_000;
   const offers = [];
@@ -670,14 +678,35 @@ export async function runSeedScan(seedId, opts, ctx, seenUrls, label) {
         if (p.detect?.(entry)) { provider = p; break; }
       } catch { /* no-op */ }
     }
-    if (!provider) return; // No ATS detected — skip silently (or log in --verbose).
+    // YC companies flagged as hiring also have a guaranteed jobs page on YC's
+    // own board, so they are never a dead end when no public ATS board matches.
+    const ycFallback = seedId === 'yc' && company.hiring === true && SLUG_RE.test(String(company.slug));
+    if (!provider && !ycFallback) return; // No ATS detected — skip silently (or log in --verbose).
 
-    let jobs;
-    try {
-      jobs = await provider.fetch(entry, ctx);
-    } catch (err) {
+    let jobs = [];
+    let fetchError = null;
+    if (provider) {
+      try {
+        jobs = await provider.fetch(entry, ctx);
+      } catch (err) {
+        fetchError = err;
+      }
+    }
+    if ((fetchError || jobs.length === 0) && ycFallback) {
+      try {
+        jobs = await ycJobs.fetch({
+          name: entry.name,
+          careers_url: `https://www.workatastartup.com/companies/${company.slug}`,
+        }, ctx);
+        provider = ycJobs;
+        fetchError = null;
+      } catch (err) {
+        fetchError = fetchError || err;
+      }
+    }
+    if (fetchError && jobs.length === 0) {
       errors++;
-      if (opts.verbose) console.error(`  ✗ ${seedId}/${entry.name}: ${err.message}`);
+      if (opts.verbose) console.error(`  ✗ ${seedId}/${entry.name}: ${fetchError.message}`);
       return;
     }
 
@@ -694,7 +723,8 @@ export async function runSeedScan(seedId, opts, ctx, seenUrls, label) {
         companySlug: entry.name,
         titleFilterConfig: opts.titleFilterConfig,
       })) continue;
-      // provider is always one of SEED_PROVIDERS (greenhouse/lever/ashby) here —
+      // provider is one of SEED_PROVIDERS (greenhouse/lever/ashby) or the yc-jobs
+      // fallback here —
       // none currently define dedupKey, so this is the same normalizeUrlForDedup
       // behavior as before; kept via the shared helper so the two dedup sites
       // in this file can't quietly drift apart (#3439).

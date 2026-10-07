@@ -38,7 +38,7 @@
     "scan": "node scan.mjs",
     "scan:full": "node scan-ats-full.mjs",
     "scan:seeds": "node scan-ats-full.mjs --seeds yc,a16z",
-    "scan:yc": "node scan-ats-full.mjs --seeds yc",
+    "scan:yc": "node scan-ats-full.mjs --seeds yc --hiring-only",
     "scan:interamt": "node scan-interamt.mjs",
     "scan:dayforce": "node scan-dayforce.mjs",
     "scan:navent": "node scan-navent.mjs",

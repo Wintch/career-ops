@@ -18,8 +18,12 @@
 // `?page=`, so they cannot be traversed to a complete inventory. The
 // per-company page lists that company's full set of open roles.
 //
-// Dates: the page only exposes a coarse relative age ("2 months"), which is
-// not a reliable timestamp, so `postedAt` is intentionally left unset.
+// Dates: the page only exposes a coarse relative age in Rails' time-ago words
+// ("about 10 hours", "20 days", "2 months", "over 2 years"). `postedAt` is
+// derived from it as `now - N units` (a month is 30 days, a year 365), so it
+// is accurate to the unit's granularity: good enough to tell "this week" from
+// "last quarter" for recency filtering, never a precise timestamp. A phrase
+// that does not parse leaves `postedAt` unset rather than guessed.
 // `robots.txt` on both hosts allows these paths (only `/companies?*` search
 // queries are disallowed on ycombinator.com, and this provider never uses them).
 
@@ -58,6 +62,33 @@ export function parseYcSlug(raw) {
   return SLUG_RE.test(m[1]) ? m[1].toLowerCase() : null;
 }
 
+const UNIT_MS = {
+  second: 1_000,
+  minute: 60_000,
+  hour: 3_600_000,
+  day: 86_400_000,
+  week: 7 * 86_400_000,
+  month: 30 * 86_400_000,
+  year: 365 * 86_400_000,
+};
+
+/**
+ * Convert a Rails-style relative age ("about 10 hours", "20 days", "2 months",
+ * "over 2 years", "less than a minute") into an age in milliseconds, or null
+ * when the phrase is not recognised. Exported for unit tests.
+ * @param {unknown} text
+ * @returns {number|null}
+ */
+export function parseRelativeAgeMs(text) {
+  if (typeof text !== 'string') return null;
+  const t = text.trim().toLowerCase();
+  if (/^less than (a|1) minute$/.test(t)) return 0;
+  const m = t.match(/^(?:about |over |almost |less than )?(\d+|an?) (second|minute|hour|day|week|month|year)s?$/);
+  if (!m) return null;
+  const n = /^an?$/.test(m[1]) ? 1 : Number(m[1]);
+  return Number.isFinite(n) ? n * UNIT_MS[m[2]] : null;
+}
+
 /** @param {any} entry */
 function resolveJobsUrl(entry) {
   const slug = parseYcSlug(entry?.careers_url);
@@ -78,7 +109,7 @@ export default {
     if (!url) throw new Error(`yc-jobs: cannot derive jobs URL for ${entry?.name}`);
     // redirect:'error' keeps a redirect from steering the request off-host.
     const html = await ctx.fetchText(url, { redirect: 'error' });
-    return parseYcJobsPage(html, entry.name);
+    return parseYcJobsPage(html, entry.name, Date.now());
   },
 };
 
@@ -92,6 +123,8 @@ export default {
  *               path. The page's `applyUrl` is a login redirect, so it is
  *               not used.
  *   - location: `location`, trimmed ('' when absent).
+ *   - postedAt: `now - age` from the page's relative `createdAt` (see header),
+ *               only when `now` is given and the phrase parses.
  *   - company:  `companyName` from the posting, else the portal entry name.
  *
  * Rows without a title or a `/companies/` path are dropped (an empty URL would
@@ -100,9 +133,10 @@ export default {
  *
  * @param {string} html
  * @param {string} companyName
- * @returns {Array<{title: string, url: string, company: string, location: string}>}
+ * @param {number} [now] epoch ms used to turn the relative age into `postedAt`
+ * @returns {Array<{title: string, url: string, company: string, location: string, postedAt?: number}>}
  */
-export function parseYcJobsPage(html, companyName) {
+export function parseYcJobsPage(html, companyName, now) {
   if (typeof html !== 'string') return [];
   const m = html.match(/data-page="([^"]*)"/);
   if (!m) return [];
@@ -124,12 +158,16 @@ export function parseYcJobsPage(html, companyName) {
     const url = `${JOBS_ORIGIN}${path}`;
     if (seen.has(url)) continue;
     seen.add(url);
-    jobs.push({
+    /** @type {{title: string, url: string, company: string, location: string, postedAt?: number}} */
+    const job = {
       title,
       url,
       company: (typeof p?.companyName === 'string' && p.companyName.trim()) || companyName || '',
       location: typeof p?.location === 'string' ? p.location.trim() : '',
-    });
+    };
+    const ageMs = Number.isFinite(now) ? parseRelativeAgeMs(p?.createdAt) : null;
+    if (ageMs !== null) job.postedAt = /** @type {number} */ (now) - ageMs;
+    jobs.push(job);
   }
   return jobs;
 }
