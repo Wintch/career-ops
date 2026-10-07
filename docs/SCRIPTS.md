@@ -803,12 +803,22 @@ node scan-ats-full.mjs --liveness              # Playwright-verify matches first
 node scan-ats-full.mjs --include-blacklisted   # audit blacklist matches instead of skipping
 node scan-ats-full.mjs --md-out notes/scans    # also write a dated markdown digest
 npm run scan:seeds                             # probe VC portfolio seed companies (--seeds yc,a16z)
-npm run scan:yc                                # Y Combinator portfolio only (--seeds yc)
+npm run scan:yc                                # Y Combinator portfolio only (--seeds yc --hiring-only)
+node scan-ats-full.mjs --seeds yc              # whole YC portfolio, including companies YC does not flag as hiring
 ```
 
 `--seeds <list>` fetches comma-separated VC portfolio sources (e.g. `yc,a16z`)
 and probes those companies via the ATS providers instead of (or in addition
-to) the directory walk. Other flags: `--verbose`, `--json`, `--include-undated`,
+to) the directory walk.
+
+`--hiring-only` restricts a seed scan to companies the source itself flags as
+hiring. For YC that is the `isHiring` badge in the public company API, which
+cuts the probe set by roughly 8x; sources with no such signal (a16z) are not
+filtered. A YC company flagged as hiring whose Greenhouse/Lever/Ashby probe
+fails or comes back empty falls back to its YC jobs page (the `yc-jobs`
+provider), whose relative age ("2 months") is converted into `postedAt`, so
+those postings survive the recency filter. `npm run scan:yc` uses
+`--hiring-only`; drop it to probe the whole portfolio. Other flags: `--verbose`, `--json`, `--include-undated`,
 `--shuffle`.
 
 ### DNS pacing

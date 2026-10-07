@@ -1774,6 +1774,27 @@ search_queries:
 #   provider: hackernews
 #   enabled: true
 #
+# - name: Hacker News Jobs (YC)           # YC startups' job posts from news.ycombinator.com/jobs
+#   provider: hackernews-jobs             # official HN API; dated, employer-linked, newest ~30 only
+#   maxItems: 30                          # optional, 1-60 (one request per post)
+#   enabled: true
+#
+# - name: Remote Game Jobs                # remote roles in the games industry (public RSS feed)
+#   provider: remotegamejobs              # rolling window; titles split into company/role, location "Remote"
+#   maxAgeDays: 10                        # optional, default 10
+#   enabled: true
+#
+# - name: Work With Indies                # jobs at independent game studios (public RSS feed)
+#   provider: workwithindies              # location parsed from "to work from <place>"
+#   maxAgeDays: 10                        # optional, default 10
+#   enabled: true
+#
+# - name: Games Jobs Direct               # games-industry board, all disciplines (server-rendered HTML)
+#   provider: gamesjobsdirect             # robots.txt Crawl-Delay 5: paced 5 s/page, ~100 postings/day
+#   maxAgeDays: 2                         # optional, default 2
+#   maxPages: 12                          # optional, default 12, max 30
+#   enabled: true
+#
 # - name: Jobspresso                      # curated remote roles (public WordPress feed)
 #   provider: jobspresso
 #   enabled: true
