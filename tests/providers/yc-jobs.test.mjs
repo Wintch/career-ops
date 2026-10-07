@@ -8,7 +8,7 @@ console.log('\nProvider — yc-jobs');
 try {
   const mod = await import(pathToFileURL(join(ROOT, 'providers/yc-jobs.mjs')).href);
   const ycJobs = mod.default;
-  const { parseYcJobsPage, parseYcSlug } = mod;
+  const { parseYcJobsPage, parseYcSlug, parseRelativeAgeMs } = mod;
 
   if (ycJobs.id === 'yc-jobs') pass('yc-jobs.id is "yc-jobs"');
   else fail(`yc-jobs.id is ${JSON.stringify(ycJobs.id)}`);
@@ -57,7 +57,7 @@ try {
           applyUrl: 'https://account.ycombinator.com/authenticate?continue=x',
           location: 'Bengaluru, KA, IN / Bengaluru, Karnataka, IN', companyName: 'Cyble' },
         { id: 2, title: '  Founding Engineer & "Architect"  ', url: '/companies/cyble/jobs/abc123-founding-engineer',
-          location: 'Remote', companyName: 'Cyble' },
+          location: 'Remote', companyName: 'Cyble', createdAt: 'about 10 hours' },
         { id: 3, title: 'No Company Name Role', url: '/companies/cyble/jobs/zzz-role' },
         { id: 4, title: 'DevOps Engineer', url: '/companies/cyble/jobs/murTsCP-devops-engineer' }, // duplicate url
         { id: 5, title: '', url: '/companies/cyble/jobs/empty-title' },                              // no title
@@ -70,13 +70,14 @@ try {
   // Encode like the page does: JSON inside an HTML attribute.
   const attr = JSON.stringify(payload).replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
   const html = `<html><body><div id="root" data-page="${attr}"></div></body></html>`;
-  const jobs = parseYcJobsPage(html, 'Cyble (entry)');
+  const NOW = 1_800_000_000_000;
+  const jobs = parseYcJobsPage(html, 'Cyble (entry)', NOW);
 
   if (jobs.length === 3) pass('parseYcJobsPage keeps 3 valid postings (drops duplicate / no title / no url / off-site / non-job path)');
   else fail(`parseYcJobsPage returned ${jobs.length} postings (expected 3): ${JSON.stringify(jobs)}`);
 
   if (jobs[0] && Object.keys(jobs[0]).sort().join(',') === 'company,location,title,url') {
-    pass('parseYcJobsPage returns the normalized { title, url, company, location } shape (no invented date)');
+    pass('parseYcJobsPage returns the normalized { title, url, company, location } shape and no date when the age is missing');
   } else {
     fail(`parseYcJobsPage row 0 keys = ${JSON.stringify(jobs[0] && Object.keys(jobs[0]))}`);
   }
@@ -97,6 +98,21 @@ try {
   } else {
     fail(`parseYcJobsPage row 2 = ${JSON.stringify(jobs[2])}`);
   }
+
+  // Relative age → postedAt.
+  if (jobs[1]?.postedAt === NOW - 10 * 3_600_000) pass('parseYcJobsPage derives postedAt from the relative age ("about 10 hours")');
+  else fail(`parseYcJobsPage row 1 postedAt = ${jobs[1]?.postedAt}`);
+  if (parseYcJobsPage(html, 'X')[1]?.postedAt === undefined) pass('parseYcJobsPage omits postedAt when no clock is supplied');
+  else fail('parseYcJobsPage must not set postedAt without a now argument');
+
+  const D = 86_400_000;
+  const ages = [['20 days', 20 * D], ['about 1 month', 30 * D], ['3 months', 90 * D], ['over 2 years', 730 * D],
+    ['almost 3 years', 1095 * D], ['about 22 hours', 22 * 3_600_000], ['a day', D], ['less than a minute', 0]];
+  const badAge = ages.filter(([t, ms]) => parseRelativeAgeMs(t) !== ms);
+  if (badAge.length === 0) pass('parseRelativeAgeMs handles Rails time-ago phrases (hours, days, months, years, "about/over/almost")');
+  else fail(`parseRelativeAgeMs wrong for: ${JSON.stringify(badAge)}`);
+  if (['', 'soon', '3 fortnights', null, 7].every((t) => parseRelativeAgeMs(t) === null)) pass('parseRelativeAgeMs returns null for unrecognised phrases');
+  else fail('parseRelativeAgeMs must return null for unrecognised phrases');
 
   // Degenerate inputs never throw and never invent postings.
   const empties = [parseYcJobsPage('', 'X'), parseYcJobsPage('<html></html>', 'X'),

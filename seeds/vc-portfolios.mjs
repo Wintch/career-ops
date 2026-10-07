@@ -99,6 +99,12 @@ async function fetchWithTimeout(url, { timeoutMs = DEFAULT_TIMEOUT_MS } = {}) {
  * @property {string}   [ats_id]        ATS board/org slug for URL construction.
  * @property {string}   [source]        Which VC list this came from: 'yc' | 'a16z'.
  * @property {string}   [batch]         YC batch label, e.g. "W21" (YC only).
+ * @property {boolean}  [hiring]        YC only: true when the API's `badges` carries
+ *                                      `isHiring` (YC's own "currently hiring" flag).
+ *                                      Absent for sources that expose no such signal.
+ * @property {string[]} [locations]     YC only: the company's listed locations.
+ * @property {string[]} [regions]       YC only: the company's listed regions.
+ * @property {number}   [teamSize]      YC only: reported team size.
  */
 
 /**
@@ -159,6 +165,19 @@ export function parseYCPayload(payload) {
     if (typeof item.batch === 'string' && item.batch.trim()) {
       entry.batch = item.batch.trim();
     }
+
+    // YC's `badges` array carries `isHiring` for companies actively recruiting.
+    // Recorded as an explicit boolean (false when the badges array is present
+    // without it) so callers can tell "not hiring" from "no signal".
+    if (Array.isArray(item.badges)) {
+      entry.hiring = item.badges.includes('isHiring');
+    }
+    const strings = (v) => Array.isArray(v) ? v.filter((x) => typeof x === 'string' && x.trim()).map((x) => x.trim()) : [];
+    const locations = strings(item.locations);
+    if (locations.length) entry.locations = locations;
+    const regions = strings(item.regions);
+    if (regions.length) entry.regions = regions;
+    if (Number.isInteger(item.teamSize) && item.teamSize > 0) entry.teamSize = item.teamSize;
 
     seen.set(rawSlug, entry);
   }
