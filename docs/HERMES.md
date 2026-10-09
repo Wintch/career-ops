@@ -8,7 +8,7 @@ Hermes is not a special case for career-ops. The pipeline is the same set of mar
 
 - Hermes Agent, desktop app or terminal, already working
 - This repository cloned somewhere on your machine
-- Node.js 18 or newer, which the helper scripts require
+- Node.js 22.13 or newer, which the helper scripts require
 
 ## Step 1 — Clone and install once
 
@@ -127,7 +127,7 @@ The interactive workflow remains available for tasks that benefit from session c
 |---|---|
 | Hermes offers no career-ops modes and seems unaware of the repo | The session is not running in the checkout, or `hermes skills trust` was never run. Check with `hermes skills list` |
 | The agent ignores the repository's rules | The rules file was dropped by the scanner. Look for the block marker, and describe quoted examples rather than quoting them |
-| A script errors immediately | `npm install` has not been run in the checkout, or Node is older than 18 |
+| A script errors immediately | `npm install` has not been run in the checkout, or Node is older than 22.13 |
 | Nothing happens after you paste a link | The posting is dead and the liveness check stopped the run. That is the check working |
 | `./cops` fails with "docker not found" | Inside a Hermes container there is no Docker. Use the Docker-free `cops` (see below) or plain `node` / `npm run` |
 | Hermes answers a CV request with text only, no PDF | The chat UI is wrapping the message in a "answer from the provided context" template (see below) |
