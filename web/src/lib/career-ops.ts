@@ -35,7 +35,14 @@ export function careerOpsRoot(): string {
   // the core checkout — the same directory `path-resolver.mjs` calls `__dirname`.
   // resolveDataRoot() needs it explicitly because relative env values and marker
   // contents resolve against it; see data-root.mjs for why that base matters.
-  const coreRoot = path.resolve(process.cwd(), "..");
+  //
+  // Via resolveCodeRoot(), NOT a hardcoded `..`, so this agrees with rootScript()
+  // just below — which already resolves the checkout that way. With
+  // CAREER_OPS_CODE_ROOT set and a RELATIVE data root, the two were computing
+  // from different bases: the script came from the configured checkout and the
+  // data root from the process's parent. Identical when the variable is unset,
+  // which is every default install.
+  const coreRoot = resolveCodeRoot(process.cwd(), process.env);
   return resolveDataRoot(
     coreRoot,
     (p) => {

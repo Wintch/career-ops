@@ -32,7 +32,8 @@ import { join, dirname } from 'node:path';
 import { tmpdir } from 'node:os';
 import { format } from 'node:util';
 import { fileURLToPath } from 'node:url';
-import { resolveTsvColumns, resolveColumns, parseTrackerRow, HEADER_ALIASES } from '../tracker-parse.mjs';
+import { resolveTsvColumns, resolveColumns, parseTrackerRow, HEADER_ALIASES, extractCellUrl } from '../tracker-parse.mjs';
+import { normalizeUrl } from '../url-key.mjs';
 import { canonicalizeTrackerPath } from '../path-resolver.mjs';
 import { mergeTracker } from '../merge-tracker.mjs';
 import { runTracker, removeRowByNum } from '../tracker.mjs';
@@ -1036,11 +1037,14 @@ describe('headed additions: optional columns by name', () => {
   });
   after(() => removeSandbox(sb));
 
-  test('headed addition fills Via / Location / URL by name', () => {
+  // The TSV's url field stays a RAW URL (that boundary is the whole reason the
+  // first-party web, which writes these TSVs, needed no change for #3516); the
+  // tracker cell it lands in is written as a markdown link.
+  test('headed addition fills Via / Location / URL by name, URL rendered as a markdown link', () => {
     assert.equal(res.code, 0, res.stdout);
     assert.deepEqual(
       [globex[4], globex[6], globex[7], globex[8], globex[12]],
-      ['Hays', 'Singapore', '4.5/5', 'Applied', 'https://example.com/jobs/2'],
+      ['Hays', 'Singapore', '4.5/5', 'Applied', '[example.com](https://example.com/jobs/2)'],
       res.stdout,
     );
   });
@@ -1595,4 +1599,317 @@ test('tracker.mjs export: CRLF line endings are not rewritten to LF', SQLITE, as
   t.after(() => removeSandbox(sb));
   assert.equal(exported.code, 0, exported.stderr);
   assert.equal(exported.stdout, CRLF);
+});
+
+// ── #3516: the URL cell is a markdown link, and BOTH forms key the same ───────
+//
+// The dangerous half of this change is invisible: `normalizeUrl` returns '' for
+// a markdown-wrapped cell, and '' means "this row has no URL", so a reader that
+// never learned the link form does not fail — it silently drops the row out of
+// merge-tracker's exact-URL dedup tier and into fuzzy company+role matching,
+// where two distinct postings at one employer merge into one row. These pin the
+// key parity first, then the rendering, then the --migrate-urls migration.
+describe('#3516: tracker URL cell as a markdown link', () => {
+  const HREF = 'https://jobs.ashbyhq.com/temporal/8a65908d';
+  const HEADER_URL = `# Applications Tracker
+
+| # | Date | Company | Role | Score | Status | PDF | Report | Notes | URL |
+|---|------|---------|------|-------|--------|-----|--------|-------|-----|
+`;
+  const trackerWith = (...rows) => HEADER_URL + rows.join('\n') + '\n';
+  const SEED_ACME = '| 1 | 2026-01-01 | Acme | Engineer | 4.0/5 | Applied | ✅ | — | seed | — |';
+  const tsvRow = (num, company, role, score, notes, url, date = '2026-02-02') =>
+    'num\tdate\tcompany\trole\tstatus\tscore\tpdf\treport\tnotes\turl\n' +
+    `${num}\t${date}\t${company}\t${role}\tApplied\t${score}\t✅\t—\t${notes}\t${url}\n`;
+  // The cell under URL (index 10 in split space) for the row naming `company`.
+  const urlCellOf = (sb, company) => cellsOf(dataRows(sb.tracker).find(l => l.includes(company)))[10] ?? '';
+  const keyOf = (cell) => normalizeUrl(extractCellUrl(cell));
+
+  // ── key parity, no I/O ──
+  test('#3516: a linked URL cell and a bare one produce the same normalizeUrl key', () => {
+    assert.notEqual(normalizeUrl(HREF), '');
+    for (const cell of [`[ashby](${HREF})`, `[jobs.ashbyhq.com](${HREF})`, `[ashby](<${HREF}>)`, `[ashby · temporal](${HREF})`]) {
+      assert.equal(keyOf(cell), normalizeUrl(HREF), cell);
+    }
+  });
+
+  // A `\(([^)]+)\)` extraction truncates this, and a truncated href still
+  // parses — a WRONG key rather than none.
+  test('#3516: a href containing balanced parens is extracted whole, not truncated', () => {
+    const paren = 'https://example.com/jobs/eng(remote)';
+    assert.equal(extractCellUrl(`[example.com](${paren})`), paren);
+  });
+
+  // normalizeUrl's "no key is not a key" rule is what stops every placeholder
+  // row keying equal to every other one.
+  test('#3516: placeholders and non-http links still yield no key', () => {
+    for (const v of ['', '—', 'N/A', 'local:jds/acme.md', '[jd](local:jds/acme.md)']) assert.equal(keyOf(v), '', v);
+  });
+
+  // The shared row parser — not merge-tracker alone — returns the href, so
+  // every script reading `.url` off a parsed row gets the key without knowing
+  // the form (scan.mjs's same-title requisition dedup among them, #4267).
+  test('#3516: parseTrackerRow returns the href for both written forms', () => {
+    const lines = trackerWith(
+      `| 1 | 2026-01-01 | Temporal | Engineer | 4.0/5 | Applied | ✅ | — | linked | [ashby](${HREF}) |`,
+      `| 2 | 2026-01-02 | Temporal | Engineer | 4.0/5 | Applied | ✅ | — | bare | ${HREF} |`,
+    ).split('\n');
+    const cols = resolveColumns(lines);
+    assert.equal(parseTrackerRow(lines.find(l => l.startsWith('| 1 ')), cols)?.url, HREF);
+    assert.equal(parseTrackerRow(lines.find(l => l.startsWith('| 2 ')), cols)?.url, HREF);
+  });
+
+  // One table, two readers: asserted here against Node's extractCellUrl and in
+  // dashboard/internal/data/career_test.go against the Go port. merge-tracker
+  // keys on the Node reading and the dashboard shows the Go one. test-fixtures/
+  // is in SYSTEM_PATHS but not BOOTSTRAP_PATHS, so a bootstrap-only install has
+  // this suite without the table; the Go half fails hard if it is missing.
+  const PARITY_FIXTURE = join(ROOT, 'test-fixtures', 'url-cell-parity.json');
+  test('#3516: Node reader matches the shared URL-cell parity table (also asserted against the Go reader)',
+    existsSync(PARITY_FIXTURE) ? {} : { skip: 'test-fixtures/ not present (bootstrap-only install)' },
+    () => {
+      const { cases } = JSON.parse(readFileSync(PARITY_FIXTURE, 'utf-8'));
+      assert.ok(cases?.length > 0, 'parity fixture has no cases');
+      for (const { name, cell, href } of cases) assert.equal(extractCellUrl(cell), href, name);
+    });
+
+  // ── dedup across both forms ──
+  // A tracker still carrying the OLD bare form keeps its exact-URL dedup; only
+  // the URL tier can match this (different title, a tracking param).
+  test('#3516: a pre-existing bare URL row still dedups on URL, and is rewritten as a link', async (t) => {
+    const sb = makeSandbox(
+      trackerWith(`| 1 | 2026-01-01 | Temporal | Engineer | 4.0/5 | Applied | ✅ | — | seed | ${HREF} |`),
+      { '9-temporal.tsv': tsvRow(9, 'Temporal', 'Staff Engineer', '4.6/5', 're-eval', `${HREF}?utm_source=newsletter`, '2026-03-01') },
+    );
+    t.after(() => removeSandbox(sb));
+    const res = await merge(sb);
+    const rows = dataRows(sb.tracker);
+    assert.equal(res.code, 0, res.stdout);
+    assert.equal(rows.length, 1, rows.join('\n'));
+    assert.match(rows[0], /\[ashby\]\(/);
+  });
+
+  // The regression the issue predicted: convert the column without teaching
+  // the reader and this merge adds a second row instead of updating the first.
+  test('#3516: a linked row dedups on URL instead of falling through to fuzzy matching', async (t) => {
+    const sb = makeSandbox(
+      trackerWith(`| 1 | 2026-01-01 | Temporal | Engineer | 4.0/5 | Applied | ✅ | — | seed | [ashby](${HREF}) |`),
+      { '9-temporal.tsv': tsvRow(9, 'Temporal', 'Staff Engineer', '4.6/5', 're-eval', HREF, '2026-03-01') },
+    );
+    t.after(() => removeSandbox(sb));
+    const res = await merge(sb);
+    const rows = dataRows(sb.tracker);
+    assert.equal(res.code, 0, res.stdout);
+    assert.equal(rows.length, 1, rows.join('\n'));
+    assert.ok(rows[0].includes('4.6/5'), rows[0]);
+  });
+
+  // ── what the writer emits ──
+  // The merge path passes the extracted HREF back into the writer; without the
+  // previous-cell check a hand-written label is re-derived on every rebuild.
+  test('#3516: a hand-written URL label survives a merge-driven row rebuild', async (t) => {
+    const sb = makeSandbox(
+      trackerWith(`| 1 | 2026-01-01 | Temporal | Engineer | 4.0/5 | Applied | ✅ | — | seed | [Temporal · platform team](${HREF}) |`),
+      { '9-temporal.tsv': tsvRow(9, 'Temporal', 'Engineer', '4.6/5', 're-eval', HREF, '2026-03-01') },
+    );
+    t.after(() => removeSandbox(sb));
+    const res = await merge(sb);
+    const row = dataRows(sb.tracker).find(l => l.includes('Temporal')) ?? '';
+    assert.equal(res.code, 0, res.stdout);
+    assert.ok(row.includes(`[Temporal · platform team](${HREF})`) && row.includes('4.6/5'), row);
+  });
+
+  // Pass 0 matches a re-eval on the NORMALIZED key, so the incoming URL often
+  // differs from the stored one by a tracking param or trailing slash — the
+  // same posting, and no reason to discard the label or churn the href.
+  test('#3516: a custom label survives a re-eval whose URL differs only by normalization', async (t) => {
+    const sb = makeSandbox(
+      trackerWith(`| 1 | 2026-01-01 | Temporal | Engineer | 4.0/5 | Applied | ✅ | — | seed | [Temporal · platform team](${HREF}) |`),
+      { '9-temporal.tsv': tsvRow(9, 'Temporal', 'Engineer', '4.6/5', 're-eval', `${HREF}/?utm_source=newsletter`, '2026-03-01') },
+    );
+    t.after(() => removeSandbox(sb));
+    const res = await merge(sb);
+    const row = dataRows(sb.tracker).find(l => l.includes('Temporal')) ?? '';
+    assert.equal(res.code, 0, res.stdout);
+    assert.ok(row.includes(`[Temporal · platform team](${HREF})`) && row.includes('4.6/5'), row);
+  });
+
+  // cell() rewrites a literal `|` to ` / `; in a link destination the reader
+  // would truncate at the injected space — a shorter, still-parseable key for a
+  // different posting scope. Bare is the honest form.
+  test('#3516: a pipe-bearing URL is written bare, never as a link whose destination would be truncated', async (t) => {
+    const sb = makeSandbox(trackerWith(SEED_ACME), {
+      '2-globex.tsv': tsvRow(2, 'Globex', 'Manager', '4.5/5', 'pipe in url', 'https://example.com/jobs?team=eng|ml'),
+    });
+    t.after(() => removeSandbox(sb));
+    const res = await merge(sb);
+    const cells = cellsOf(dataRows(sb.tracker).find(l => l.includes('Globex')));
+    assert.equal(res.code, 0, res.stdout);
+    assert.equal(cells.length, 12, cells.join(' | '));
+    assert.doesNotMatch(cells[10] ?? '', /\]\(/);
+  });
+
+  // ...and the rule fires on an ALREADY-LINKED incoming value too, ahead of the
+  // passthrough that would keep it.
+  test('#3516: an already-linked incoming value with a pipe href is written bare, not as malformed markdown', async (t) => {
+    const sb = makeSandbox(trackerWith(SEED_ACME), {
+      '2-globex.tsv': tsvRow(2, 'Globex', 'Manager', '4.5/5', 'linked pipe url', '[Jobs](https://example.com/jobs?team=eng|ml)'),
+    });
+    t.after(() => removeSandbox(sb));
+    const res = await merge(sb);
+    assert.equal(res.code, 0, res.stdout);
+    assert.doesNotMatch(urlCellOf(sb, 'Globex'), /\]\(/);
+  });
+
+  // A space CAN be fixed without touching the key: new URL() encodes it to %20
+  // itself, so both spellings normalize alike.
+  test('#3516: whitespace in a href is percent-encoded, keeping the destination whole and the key identical', async (t) => {
+    const SPACED = 'https://example.com/jobs/a b';
+    const sb = makeSandbox(trackerWith(SEED_ACME), { '2-globex.tsv': tsvRow(2, 'Globex', 'Manager', '4.5/5', 'space in url', SPACED) });
+    t.after(() => removeSandbox(sb));
+    const res = await merge(sb);
+    const written = urlCellOf(sb, 'Globex');
+    assert.equal(res.code, 0, res.stdout);
+    assert.equal(written, '[example.com](https://example.com/jobs/a%20b)');
+    assert.notEqual(normalizeUrl(SPACED), '');
+    assert.equal(keyOf(written), normalizeUrl(SPACED));
+  });
+
+  // Both readers end a destination by MATCHING parens, so an unmatched one
+  // changes the href on read-back; a backslash is unescaped by both. Each is
+  // written bare. Balanced parens round-trip and stay linked.
+  test('#3516: an unlinkable href (unmatched paren, backslash) is written bare; balanced parens stay linked — all four round-trip to the same key', async () => {
+    const cases = [
+      ['unmatched close paren', 'https://example.com/jobs/a)b', false],
+      ['unmatched open paren', 'https://example.com/jobs/a(b', false],
+      ['backslash', 'https://example.com/jobs/a\\b', false],
+      ['balanced parens', 'https://example.com/jobs/eng(remote)', true],
+    ];
+    for (const [name, url, shouldLink] of cases) {
+      const sb = makeSandbox(trackerWith(SEED_ACME), { '2-globex.tsv': tsvRow(2, 'Globex', 'Manager', '4.5/5', name, url) });
+      try {
+        const res = await merge(sb);
+        const written = urlCellOf(sb, 'Globex');
+        assert.equal(res.code, 0, `${name}: ${res.stdout}`);
+        assert.notEqual(normalizeUrl(url), '', name);
+        assert.equal(keyOf(written), normalizeUrl(url), `${name}: wrote ${JSON.stringify(written)}`);
+        assert.equal(/^\[[^\]]*\]\(/.test(written), shouldLink, `${name}: wrote ${JSON.stringify(written)}`);
+      } finally {
+        removeSandbox(sb);
+      }
+    }
+  });
+
+  // ── the export round-trip the maintainer's decision listed ──
+  // Main's Location/URL export test pins a BARE cell; this pins the linked form
+  // beside it. The export is offered as a repaired copy to adopt, so a changed
+  // cell would be a silent re-key — exact, not equivalent.
+  test('#3516: linked AND bare URL cells both round-trip through tracker.mjs sync/export byte-for-byte', SQLITE, async (t) => {
+    const BOTH_FORMS = trackerWith(
+      '| 1 | 2026-01-01 | Temporal | Engineer | 4.0/5 | Applied | ✅ | [1](../reports/1.md) | linked, ATS label | [ashby](https://jobs.ashbyhq.com/temporal/8a65908d) |',
+      '| 2 | 2026-01-02 | Snowflake | Director | 4.2/5 | Applied | ❌ | [2](../reports/2.md) | linked, host label | [careers.snowflake.com](https://careers.snowflake.com/us/en/job/4735b223) |',
+      '| 3 | 2026-01-03 | Acme | PM | 3.5/5 | Applied | ❌ | [3](../reports/3.md) | bare, pre-#3516 row | https://careers.acme.example/1 |',
+      '| 4 | 2026-01-04 | Globex | Lead | 3.0/5 | Applied | ❌ | [4](../reports/4.md) | no url | — |',
+    );
+    const { sb, sync, exported } = await syncThenExport(BOTH_FORMS);
+    t.after(() => removeSandbox(sb));
+    assert.equal(sync.code, 0, sync.stderr);
+    assert.equal(exported.code, 0, exported.stderr);
+    assert.equal(exported.stdout, BOTH_FORMS);
+  });
+
+  // ── --migrate-urls ──
+  const ASHBY = HREF;
+  const OWN = 'https://careers.snowflake.com/us/en/job/4735b223/Director-of-Engineering';
+  const MIGRATE_FIXTURE = trackerWith(
+    `| 1 | 2026-01-01 | Temporal | Engineer | 4.0/5 | Applied | ✅ | — | vendor board | ${ASHBY} |`,
+    `| 2 | 2026-01-02 | Snowflake | Director | 4.2/5 | Applied | ✅ | — | own careers page | ${OWN} |`,
+    '| 3 | 2026-01-03 | Initech | PM | 3.0/5 | Applied | ❌ | — | no url | — |',
+    `| 4 | 2026-01-04 | Globex | Lead | 3.5/5 | Applied | ❌ | — | hand-labelled | [my note](${ASHBY}2) |`,
+  );
+
+  // The one case run as a real CLI process, deliberately: KNOWN_FLAGS
+  // validation and the argv → flags.migrateUrls wiring exist only on the CLI
+  // path, and an allowlist that omitted the flag once made the script advertise
+  // --migrate-urls in --help and then refuse it.
+  test('#3516: --migrate-urls --dry-run reports without writing', async (t) => {
+    const sb = makeSandbox(MIGRATE_FIXTURE);
+    t.after(() => removeSandbox(sb));
+    const res = await runScript('merge-tracker.mjs', ['--migrate-urls', '--dry-run'], sb);
+    assert.equal(res.code, 0, res.stdout);
+    assert.match(res.stdout, /would be rendered/);
+    assert.equal(readFileSync(sb.tracker, 'utf-8'), MIGRATE_FIXTURE);
+  });
+
+  test('#3516: --migrate-urls labels a vendor board by vendor, a careers page by host, keeps placeholders and hand-written labels', async (t) => {
+    const sb = makeSandbox(MIGRATE_FIXTURE);
+    t.after(() => removeSandbox(sb));
+    const res = await merge(sb, { migrateUrls: true });
+    const text = readFileSync(sb.tracker, 'utf-8');
+    assert.equal(res.code, 0, res.stdout);
+    assert.ok(text.includes(`[ashby](${ASHBY})`), text);
+    assert.ok(text.includes(`[careers.snowflake.com](${OWN})`), text);
+    assert.match(text, /\| no url \| — \|/);
+    assert.ok(text.includes(`[my note](${ASHBY}2)`), text);
+  });
+
+  test('#3516: --migrate-urls is idempotent', async (t) => {
+    const sb = makeSandbox(MIGRATE_FIXTURE);
+    t.after(() => removeSandbox(sb));
+    await merge(sb, { migrateUrls: true });
+    const once = readFileSync(sb.tracker, 'utf-8');
+    const again = await merge(sb, { migrateUrls: true });
+    assert.equal(again.code, 0, again.stdout);
+    assert.equal(readFileSync(sb.tracker, 'utf-8'), once);
+    assert.match(again.stdout, /rendered 0 URL cell/);
+  });
+
+  // A literal `|` in a hand-typed URL splits the row one cell wider than the
+  // header for every reader; linking the fragment under URL would bury the
+  // original. Left byte for byte and named — while a row missing only its
+  // trailing pipe is complete and migrates.
+  test('#3516: --migrate-urls leaves a pipe-split row byte for byte and names it; a row missing only its trailing pipe still migrates', async (t) => {
+    const PIPED = '| 1 | 2026-01-01 | Acme | Eng | 4.0/5 | Applied | ✅ | — | pipe in url | https://example.com/jobs?team=eng|ml |';
+    const sb = makeSandbox(HEADER_URL + [
+      PIPED,
+      '| 2 | 2026-01-02 | Globex | PM | 3.5/5 | Applied | ❌ | — | normal | https://jobs.ashbyhq.com/globex/2 |',
+      '| 3 | 2026-01-03 | Initech | Lead | 3.0/5 | Applied | ❌ | — | no trailing pipe | https://careers.initech.example/3',
+    ].join('\n') + '\n');
+    t.after(() => removeSandbox(sb));
+    const res = await merge(sb, { migrateUrls: true });
+    const text = readFileSync(sb.tracker, 'utf-8');
+    assert.equal(res.code, 0, res.stdout);
+    assert.ok(text.includes(PIPED), text);
+    assert.match(res.stdout, /Left 1 row\(s\) untouched[^]*line\(s\) 5\b/);
+    assert.match(res.stdout, /rendered 2 URL cell/);
+    assert.ok(text.includes('[ashby](https://jobs.ashbyhq.com/globex/2)'), text);
+    assert.ok(text.includes('[careers.initech.example](https://careers.initech.example/3)'), text);
+  });
+
+  // A tab is the one whitespace character whose encoding is NOT key-neutral:
+  // URL parsing strips it, so `a<TAB>b` keys as `ab` and `a%09b` as `a%09b`.
+  // The writer verifies each rendered cell's key and keeps such a URL bare.
+  test('#3516: --migrate-urls keeps a tab-bearing URL bare (its key would change); a spaced URL is linked with %20 and keeps its key', async (t) => {
+    const TABBED = 'https://example.com/jobs/a\tb';
+    const SPACED = 'https://example.com/jobs/a b';
+    const sb = makeSandbox(trackerWith(
+      `| 1 | 2026-01-01 | Acme | Eng | 4.0/5 | Applied | ✅ | — | tab in url | ${TABBED} |`,
+      `| 2 | 2026-01-02 | Globex | PM | 3.5/5 | Applied | ❌ | — | space in url | ${SPACED} |`,
+    ));
+    t.after(() => removeSandbox(sb));
+    const keysOf = () => {
+      const lines = readFileSync(sb.tracker, 'utf-8').split('\n');
+      const cols = resolveColumns(lines);
+      return ['1', '2'].map(n => normalizeUrl(parseTrackerRow(lines.find(l => l.startsWith(`| ${n} `)), cols).url));
+    };
+    const before = keysOf();
+    const res = await merge(sb, { migrateUrls: true });
+    const text = readFileSync(sb.tracker, 'utf-8');
+    assert.equal(res.code, 0, res.stdout);
+    assert.ok(before.every(k => k !== ''), JSON.stringify(before));
+    assert.deepEqual(keysOf(), before);
+    assert.ok(text.includes(`| tab in url | ${TABBED} |`), text);
+    assert.ok(text.includes('[example.com](https://example.com/jobs/a%20b)'), text);
+    assert.match(res.stdout, /rendered 1 URL cell/);
+  });
 });

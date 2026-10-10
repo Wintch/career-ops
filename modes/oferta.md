@@ -332,7 +332,24 @@ Top 5 changes to CV + Top 5 changes to LinkedIn to maximize match.
 
 The **Reflection** column captures what was learned or what would be done differently. This signals seniority — junior candidates describe what happened, senior candidates extract lessons.
 
-**Story Bank:** If `interview-prep/story-bank.md` exists, check if any of these stories are already there. If not, append new ones. Over time this builds a reusable bank of 5-10 master stories that can be adapted to any interview question.
+**Story Bank:** The table above is for the report. The bank at `{DATA_ROOT}/interview-prep/story-bank.md` takes the same stories in a different shape, because `npm run star`, `negotiation-roi.mjs` and `story-provenance-check.mjs` read only that shape:
+
+1. If the file is missing, create it by copying `templates/story-bank.template.md`.
+2. Skip any story whose title is already in the bank.
+3. Append each new story as a `### ` block in the template's format, one field per line:
+
+```markdown
+### [Theme] Story Title
+**Source:** Report #NNN — Company — Role
+**S (Situation):** …
+**T (Task):** …
+**A (Action):** …
+**R (Result):** …
+**Reflection:** …
+**Best for questions about:** …
+```
+
+Never paste table rows into the bank. Always fill in `**A (Action):**`: a block without it is invisible to the readers. Keep the `### ` heading and the field labels in English whatever the output language. Do not add a `**Provenance:**` line: the evaluation does not get to vouch for its own figures. Without one, `story-provenance-check.mjs` sorts each figure by `cv.md` (`existing` when the same number appears there in context, `supportedByResume` when `cv.md` supports the fact but not the number, otherwise `derived-unverified`), and only the user adds a marker, in the form `templates/story-bank.template.md` gives. Over time this builds a reusable bank of 5-10 master stories that can be adapted to any interview question.
 
 **Selected and framed according to the archetype:**
 - FDE → emphasize delivery speed and client-facing
@@ -645,9 +662,31 @@ This is information about **your own history** with the company, not about this 
 
 ---
 
+## Verdict (lead)
+
+Write a `## Verdict (lead)` block directly after Block G and before `## Risk Summary`. It answers the only question the reader opened the report with: should I apply?
+
+**Derived, never originating.** `final_decision` in `## Machine Summary` is the source of truth. This block restates that same call as one human sentence and never introduces a different one — if the sentence and the field disagree, the field is right and the sentence is the defect. Write the block from `final_decision` rather than alongside it, so the block a reader leads with cannot drift from the field a script reads. The bolded call is that field's value in the report's own language: Apply, Consider, Research first, or Skip.
+
+**The `(lead)` marker is load-bearing, and language-invariant on purpose.** The web report view promotes whichever block carries the marker into the page's lead callout, identifying it by the marker rather than by a heading word or a block letter. Translations therefore keep their own noun and the same parenthetical: `## Veredicto (lead)`, `## Verdict (lead)`. Never translate `(lead)`, and never letter this block — it sits outside the A–H sequence.
+
+**No new judgment.** Every input is gathered by the time this block is written and nothing new is introduced after it. State the call plus one reason drawn from what the report already established. Do not re-score, do not add evidence, and do not hedge a decision the score has already made.
+
+Block format:
+
+```markdown
+## Verdict (lead)
+
+**Apply.** Strong match on the role's core axis with no hard stops, and Block G returned High Confidence.
+```
+
+One sentence after the bolded call is the budget. A reader who wants the reasoning opens the blocks below it; this block exists so the reader who does not still leaves with the answer.
+
+---
+
 ## Risk Summary (after Block G)
 
-Close the report body with a `## Risk Summary` block directly after Block G's section — one row per risk signal, fixed order — so the question the candidate actually asks ("is this company safe to join?") is answered on one screen instead of by mentally joining Block A, Block G, and a sidecar file.
+Close the report body with a `## Risk Summary` block directly after the `## Verdict (lead)` block, which follows Block G's section — one row per risk signal, fixed order — so the question the candidate actually asks ("is this company safe to join?") is answered on one screen instead of by mentally joining Block A, Block G, and a sidecar file.
 
 **Aggregation only, zero new judgment.** Each row quotes or links the verdict already produced by its source signal. The summary never re-scores, re-weights, or overrides — if a row looks wrong, the fix belongs in the source signal, not here.
 
@@ -803,6 +842,9 @@ Save full evaluation in `reports/{###}-{company-slug}-{YYYY-MM-DD}.md`.
 
 ## G) Posting Legitimacy
 (full content of block G)
+
+## Verdict (lead)
+(the apply-or-not call in one sentence — restates `final_decision`, see the Verdict section above)
 
 ## Risk Summary
 (one row per risk signal, fixed order — see the Risk Summary section above)

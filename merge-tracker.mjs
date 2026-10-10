@@ -15,6 +15,12 @@
  * Validates status against states.yml (rejects non-canonical, logs warning)
  *
  * Run: node merge-tracker.mjs [--dry-run] [--verify]
+ *
+ * Migrations (one-off, idempotent, all support --dry-run):
+ *   --migrate        report links → relative to the tracker file (#760)
+ *   --migrate-via    insert a Via column after Company (#1596)
+ *   --migrate-urls   render the URL column as markdown links (#3516)
+ *   --backfill-urls  fill empty URL cells from each row's linked report
  */
 
 import { readFileSync, readdirSync, mkdirSync, renameSync, existsSync, statSync } from 'fs';
@@ -24,13 +30,16 @@ import { execFileSync } from 'child_process';
 import { normalizeReportLink as normalizeLink } from './tracker-links.mjs';
 import { getCareerOpsRoot } from './path-resolver.mjs';
 import { roleFuzzyMatch } from './role-matcher.mjs';
-import { parsePdfIndex } from './find.mjs';
-import { LEGACY_COLMAP, TSV_REQUIRED_FIELDS, detectColumns, isHeaderRow, resolveScoreStatus, looksLikeTsvHeaderRow, resolveTsvColumns, looksLikeScoreCell, normalizeVia, normalizeTextKey, SEPARATOR_ROW_RE, extractReqNumber } from './tracker-parse.mjs';
+import { parsePdfIndex, livePdfIndex } from './find.mjs';
+import { LEGACY_COLMAP, TSV_REQUIRED_FIELDS, detectColumns, isHeaderRow, resolveScoreStatus, looksLikeTsvHeaderRow, resolveTsvColumns, looksLikeScoreCell, normalizeVia, normalizeTextKey, SEPARATOR_ROW_RE, extractReqNumber, extractCellUrl, parseMarkdownLinks } from './tracker-parse.mjs';
+// The ATS vendor table shared with analyze-patterns.mjs and the scanners, so
+// the URL cell's label and the per-vendor analysis name a board identically.
+import { atsVendorOf } from './ats-vendor.mjs';
 // Corporate-form vocabulary, shared with invite-match.mjs rather than copied,
 // for the same reason normalizeCompany lives in tracker-utils: a second private
 // list is how company identity drifts between scripts (#2445, #3665).
 import { LEGAL_SUFFIXES, GENERIC_DESCRIPTORS } from './invite-match.mjs';
-import { resolveTrackerPath, resolveWorkspaceRoot, resolvePdfIndexPath, trackerLockDirFor, acquireTrackerLock, writeFileAtomic, normalizeCompany, cell, loadCanonicalStates, findDeadReportLink } from './tracker-utils.mjs';
+import { resolveTrackerPath, resolveWorkspaceRoot, resolvePdfIndexPath, trackerLockDirFor, acquireTrackerLock, writeFileAtomic, normalizeCompany, cell, loadCanonicalStates, findDeadReportLink, rebuildRow } from './tracker-utils.mjs';
 // Canonical posting-URL key. Kept in its own module so scan.mjs / scan-history
 // can adopt the same key later without the definitions drifting.
 import { normalizeUrl, isAggregatorUrl, aggregatorPostingId } from './url-key.mjs';
@@ -45,9 +54,10 @@ Options:
   --verify         Run pipeline verification after a successful merge
   --migrate        Rewrite legacy report links relative to the tracker
   --migrate-via    Add the Via column to a legacy tracker
+  --migrate-urls   Render the URL column as markdown links
   --backfill-urls  Add the URL column and populate it from report metadata
   -h, --help       Show this help and exit`;
-const MERGE_TRACKER_KNOWN_FLAGS = ['--dry-run', '--verify', '--migrate', '--migrate-via', '--backfill-urls', '--help', '-h'];
+const MERGE_TRACKER_KNOWN_FLAGS = ['--dry-run', '--verify', '--migrate', '--migrate-via', '--migrate-urls', '--backfill-urls', '--help', '-h'];
 
 // Executable hooks live beside this script even when user data is redirected
 // through CAREER_OPS_ROOT / CAREER_OPS_DATA_DIR / .career-ops-data.
@@ -100,6 +110,184 @@ function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+// ── URL cell rendering (#3516) ─────────────────────────────────────────────
+//
+// Pure helpers: none reads the tracker layout, so they live at module level
+// and mergeTracker's buildRow / --migrate-urls call them.
+
+/**
+ * The display label for a posting URL: the ATS vendor when the host is a
+ * multi-tenant board, otherwise the hostname minus `www.`.
+ *
+ * Delegates to ats-vendor.mjs, the vendor table analyze-patterns.mjs and the
+ * scanners already share, so a board carries the same name in the tracker as
+ * in the per-vendor advance-rate analysis. On a vendor board the host carries
+ * no employer information (every posting lives under `jobs.ashbyhq.com`), so
+ * the shorter vendor id loses nothing — the Company column already says whose
+ * posting it is. On a company-hosted careers page the host IS the informative
+ * part (`careers.snowflake.com`). A board the table does not know degrades to
+ * its hostname, which is never wrong, only longer — and nothing downstream reads
+ * the label: every consumer reads the href (extractCellUrl).
+ *
+ * Labels are DERIVED, never free text: a host and a vendor id contain no `|`,
+ * `[` or `]`, so a label can never shift a column or break the link syntax.
+ *
+ * @param {string} href - An http(s) posting URL.
+ * @returns {string} Label text, or '' when href is not a usable URL.
+ */
+function trackerUrlLabel(href) {
+  return (atsVendorOf(href) ?? '').replace(/^www\./, '');
+}
+
+/** @param {string} value @returns {boolean} whether the cell already links an http(s) URL. */
+function isLinkedUrlCell(value) {
+  return parseMarkdownLinks(value).some(l => /^<?https?:\/\//i.test(String(l.target).trim()));
+}
+
+/**
+ * Serialize a posting URL for a markdown link destination, WITHOUT changing the
+ * key it produces.
+ *
+ * Whitespace is the hazard addressed here. A markdown destination ends at the
+ * first space, so an unencoded one truncates the href on read-back — and a
+ * truncated href still parses, which makes it a WRONG key rather than an
+ * absent one. For most whitespace, percent-encoding is key-neutral: `new URL()`
+ * encodes a space, vertical tab, form feed or Unicode space to the same bytes.
+ * NOT a tab: the URL parser STRIPS ASCII tab rather than encoding it, so
+ * `a\tb` keys as `ab` while `a%09b` keys as `a%09b`. That is why formatUrlCell
+ * verifies the round trip instead of trusting this function — see there.
+ *
+ * Nothing else may be rewritten. `%7C` and a literal `|` normalize alike in the
+ * query but NOT in the path, and `%28`/`%29` never normalize to `(`/`)` at all,
+ * so encoding any of those would silently re-key the row. Backslash-escaping
+ * them is not taken either: escapes make the stored bytes differ from the
+ * href, so every reader — tracker-parse.mjs, the Go dashboard's port of it,
+ * and any markdown tool a user points at the file — must undo them
+ * identically to recover the key. A bare cell needs no undoing.
+ * A href carrying those characters is written BARE instead — see
+ * isLinkableDestination.
+ *
+ * @param {string} href
+ * @returns {string} The same URL, safe to sit between `](` and `)`.
+ */
+function urlForCellDestination(href) {
+  return href.replace(/\s/g, (ch) => encodeURIComponent(ch));
+}
+
+/**
+ * Whether a href survives a markdown link destination byte for byte.
+ *
+ * Both readers find the destination's end by matching parentheses, so an
+ * UNMATCHED one silently changes what comes back:
+ *
+ *   https://x.com/a)b  →  [x.com](https://x.com/a)b)  →  reads https://x.com/a
+ *   https://x.com/a(b  →  [x.com](https://x.com/a(b)  →  reads nothing at all
+ *
+ * The first is the dangerous one — a shorter, still-parseable key for a broader
+ * path — and the second drops the row to fuzzy matching. BALANCED parens are
+ * fine and stay linked; Workday-style slugs carry them routinely.
+ *
+ * A backslash is excluded for a different reason: both readers undo the
+ * escapes `\(`, `\)`, `\\`, `\<`, `\>` inside a destination, so a href that
+ * genuinely contains one of those sequences would come back altered — a
+ * changed key. Excluding every backslash is the simple superset of that.
+ *
+ * @param {string} href
+ * @returns {boolean}
+ */
+function isLinkableDestination(href) {
+  if (href.includes('\\')) return false;
+  let depth = 0;
+  for (const ch of href) {
+    if (ch === '(') depth++;
+    else if (ch === ')' && depth-- === 0) return false;
+  }
+  return depth === 0;
+}
+
+/**
+ * Render the tracker's URL cell (#3516).
+ *
+ * merge-tracker is the ONLY writer of this form. The TSV additions it reads
+ * keep carrying a raw URL in their `url` field, and the first-party web writes
+ * those TSVs — so the link stops at the tracker file and the TSV contract is
+ * unchanged.
+ *
+ * The href is never altered, only wrapped: it is the dedup key, and a writer
+ * that rewrote it would re-key the table.
+ *
+ * A URL containing a literal `|` is written BARE, through the same cell()
+ * sanitization every other column uses, and is not linked. A pipe cannot live
+ * in this table under any spelling — readers split rows on it, and `\|` splits
+ * too (see tracker-utils.mjs cell()) — so cell() rewrites it to ` / ` and the
+ * key is lost either way. That loss predates this change and is not made worse
+ * here; putting the rewritten value in a link destination WOULD make it worse,
+ * because the reader then truncates at the injected space and produces a
+ * shorter, still-parseable key for a different posting scope.
+ *
+ * @param {*} raw - The row's URL value (an href, a bare URL, or a whole cell).
+ * @param {string} [previousCell] - The cell being rebuilt, when there is one.
+ *   A rebuild that does not change the posting keeps its cell verbatim, so a
+ *   label a user hand-wrote survives PDF sync, re-evaluation and backfill.
+ * @returns {string} The cell text to write.
+ */
+function formatUrlCell(raw, previousCell = '') {
+  // Read the value BEFORE cell() sanitization: cell() rewrites `|` to ` / `,
+  // and a link destination built from that is truncated on read-back. The
+  // sanitized form is still what gets WRITTEN on every path that does not
+  // produce a link.
+  const rawValue = String(raw ?? '').replace(/[\r\n]+/g, ' ').trim();
+  const value = cell(rawValue);
+  if (!value) return '';
+  const href = extractCellUrl(rawValue);
+
+  // Anything that is not a usable posting URL — empty, `N/A`, `—`, a
+  // `local:jds/…` reference — is written verbatim. normalizeUrl() already reads
+  // all of these as "no key"; wrapping one in link syntax would only hide that.
+  if (!normalizeUrl(href)) return value;
+
+  // The pipe rule comes BEFORE the already-linked passthrough, not after it.
+  // An incoming value can arrive already linked — a headed TSV whose `url`
+  // column carries `[Jobs](https://…?team=eng|ml)` — and `value` is that cell
+  // with cell() having rewritten the pipe INSIDE the destination. Returning it
+  // would write malformed markdown whose href truncates at the injected space,
+  // which is the exact failure the pipe rule exists to prevent. cell(href)
+  // instead, so a pipe-bearing URL lands as a bare cell whichever form it
+  // arrived in. The label is lost with it; there is no cell that can hold both.
+  if (href.includes('|')) return cell(href);
+
+  // Same rule, different container: a href that cannot survive a markdown
+  // destination unchanged is written bare rather than linked. Bare costs only
+  // the readability this change is for; a lossy link costs the key.
+  if (!isLinkableDestination(href)) return cell(href);
+
+  // An incoming value that is already a link keeps its label: a hand-written
+  // one survives every rebuild.
+  if (isLinkedUrlCell(value)) return value;
+
+  const destination = urlForCellDestination(href);
+  const previous = String(previousCell ?? '').trim();
+  // Compare NORMALIZED identities, not literal strings. Pass 0 matches a
+  // re-evaluation on the normalized key, so the incoming URL routinely differs
+  // from the stored one by a tracking param, a trailing slash, http-vs-https or
+  // host case — the same posting by the tracker's own definition. A literal
+  // comparison called that a new posting and discarded the user's label, and
+  // churned the stored href between equivalent spellings for no reason.
+  if (previous && isLinkedUrlCell(previous)
+      && normalizeUrl(extractCellUrl(previous)) === normalizeUrl(href)) return previous;
+
+  const label = trackerUrlLabel(href);
+  const rendered = label ? `[${label}](${destination})` : destination;
+  // Post-condition, not reasoning. Every rule above argues that the rendered
+  // cell reads back to the same key, and one of those arguments was wrong: a
+  // tab is stripped by URL parsing, not encoded, so `%09` silently re-keyed the
+  // row (#3854 review). Read the cell back through the real extractor and
+  // require the identical normalized key; anything that fails is written bare,
+  // which reads back verbatim. This holds for cases nobody has thought of yet.
+  if (normalizeUrl(extractCellUrl(rendered)) !== normalizeUrl(href)) return cell(href);
+  return rendered;
+}
+
 /**
  * Merge pending tracker additions into one tracker, or run one of the
  * migrations, against the paths given — never against ones read from the
@@ -127,7 +315,7 @@ function sleep(ms) {
  * @param {string} [options.pdfIndexFile] - PDF manifest; defaults to `<workspace>/data/pdf-index.tsv`.
  * @param {string} [options.lockDir] - Tracker lock directory; defaults to trackerLockDirFor(appsFile).
  * @param {{timeoutMs?: number, retryMs?: number, staleMs?: number}} [options.lock] - Lock timing.
- * @param {{dryRun?: boolean, verify?: boolean, migrate?: boolean, migrateVia?: boolean, backfillUrls?: boolean}} [options.flags]
+ * @param {{dryRun?: boolean, verify?: boolean, migrate?: boolean, migrateVia?: boolean, migrateUrls?: boolean, backfillUrls?: boolean}} [options.flags]
  * @param {number} [options.holdMs=0] - Test hook: hold the lock this long after reading the tracker.
  * @param {boolean} [options.readyIpc=false] - Test hook: tell the IPC parent once the tracker is read.
  * @param {object} [options.childEnv] - Env for the `--verify` child process.
@@ -160,6 +348,7 @@ export async function mergeTracker(options = {}) {
   const VERIFY = Boolean(flags.verify);
   const MIGRATE = Boolean(flags.migrate);
   const MIGRATE_VIA = Boolean(flags.migrateVia);
+  const MIGRATE_URLS = Boolean(flags.migrateUrls);
   const BACKFILL_URLS = Boolean(flags.backfillUrls);
   const MERGE_HOLD_MS = options.holdMs || 0;
   const MERGE_READY_IPC = Boolean(options.readyIpc);
@@ -520,12 +709,18 @@ export async function mergeTracker(options = {}) {
    * data/pdf-index.tsv is gitignored and only exists after generate-pdf.mjs has
    * written at least one PDF. Missing manifest = nothing to sync.
    *
+   * Only rows whose PDF is still on disk come back (#4777): every reader of this
+   * map turns a hit into a ✅, and a row outlives the file it names.
+   *
    * @returns {Map<string,string>} Normalized report# → PDF path.
    */
   function loadPdfIndex() {
-    return existsSync(PDF_INDEX_FILE)
-      ? parsePdfIndex(readFileSync(PDF_INDEX_FILE, 'utf-8'))
-      : new Map();
+    if (!existsSync(PDF_INDEX_FILE)) return new Map();
+    return livePdfIndex(
+      parsePdfIndex(readFileSync(PDF_INDEX_FILE, 'utf-8')),
+      DATA_ROOT,
+      (message) => console.warn(`⚠️  ${message}`),
+    );
   }
 
   /**
@@ -700,8 +895,12 @@ export async function mergeTracker(options = {}) {
     put('score', o.score);
     put('status', o.status);
     put('pdf', o.pdf);
-    // Optional trailing URL column — the stable natural key.
-    put('url', cell(o.url) || '');
+    // Optional trailing URL column — the stable natural key, rendered as a
+    // markdown link so the table stays readable (#3516). The cell being replaced
+    // (copied from `o.raw` above, '—' for a new row) is passed through so an
+    // unchanged posting keeps the exact cell it had.
+    const prevUrlCell = COLMAP.url != null ? (cells[COLMAP.url - 1] ?? '') : '';
+    put('url', formatUrlCell(o.url, prevUrlCell));
 
     // A layout with no dedicated Report column keeps the link in Notes, mirroring
     // how extractReportNum already READS it back. Without this the link would be
@@ -764,8 +963,11 @@ export async function mergeTracker(options = {}) {
       pdf: COLMAP.pdf != null ? (parts[COLMAP.pdf] ?? '') : '',
       report: COLMAP.report != null ? (parts[COLMAP.report] ?? '') : '',
       notes: COLMAP.notes != null ? (parts[COLMAP.notes] || '') : '',
-      // The posting URL, when the tracker carries the column.
-      url: COLMAP.url != null ? (parts[COLMAP.url] || '') : '',
+      // The posting URL, when the tracker carries the column. Always the HREF:
+      // the cell is WRITTEN as a markdown link (see formatUrlCell), older rows
+      // are still bare, and normalizeUrl() reads a markdown-wrapped cell as ''
+      // — i.e. as "no URL" — which drops the row out of Pass 0 silently (#3516).
+      url: COLMAP.url != null ? extractCellUrl(parts[COLMAP.url] || '') : '',
       raw: line,
     };
   }
@@ -1207,6 +1409,69 @@ export async function mergeTracker(options = {}) {
       } else {
         writeFileAtomic(APPS_FILE, migrated.join('\n'));
         console.log(`✅ Migration: inserted Via column after Company (${changed} table line(s) rewritten). Direct applications are marked —.`);
+      }
+      return 0;
+    }
+
+    // Opt-in migration (#3516): render every existing URL cell as a markdown link.
+    //
+    // Not needed for correctness — readers accept both forms, and any row a merge
+    // rewrites is converted on the way through. This exists so a tracker that is
+    // mostly idle does not stay unreadable while waiting for each row's next
+    // update. Idempotent: an already-linked cell is returned verbatim by
+    // formatUrlCell, so re-running changes nothing and a hand-written label is
+    // never overwritten.
+    // Run with: node merge-tracker.mjs --migrate-urls [--dry-run]
+    if (MIGRATE_URLS) {
+      const lines = appContent.split('\n');
+      const colmap = detectColumns(lines) || LEGACY_COLMAP;
+      if (colmap.url == null) {
+        console.error('❌ --migrate-urls: this tracker has no URL column. Add a `URL` header column first (additive), then re-run.');
+        return 1;
+      }
+      // Cells in a table line, not raw split parts: a hand-edited row without its
+      // trailing pipe is one part shorter but still complete, and must migrate.
+      const cellCount = (line) => {
+        const parts = line.split('|');
+        return parts.length - 1 - (line.trimEnd().endsWith('|') ? 1 : 0);
+      };
+      const headerLine = lines.find(line => isHeaderRow(line));
+      const headerCells = headerLine ? cellCount(headerLine) : null;
+      let changed = 0;
+      const skipped = [];
+      const migrated = lines.map((line, i) => {
+        if (!line.startsWith('|')) return line;
+        if (isHeaderRow(line) || SEPARATOR_ROW_RE.test(line)) return line;
+        // A row wider or narrower than the header is already mis-split — most often
+        // a URL containing a literal `|`, which every reader splits into two cells
+        // (cell() exists to stop merge-tracker writing one). Linking the fragment
+        // that happens to sit under URL would bake that damage into link syntax and
+        // bury the original URL. Leave the row byte for byte and name it instead.
+        if (headerCells != null && cellCount(line) !== headerCells) {
+          skipped.push(i + 1);
+          return line;
+        }
+        const parts = line.split('|').map(s => s.trim());
+        // Only the URL cell's VALUE changes; every other cell is carried across
+        // verbatim, including columns career-ops has no field for. A row whose URL
+        // cell needs no change is returned byte for byte, so this migration cannot
+        // reflow a tracker it had nothing to do.
+        if (parts.length <= colmap.url) return line;
+        const before = parts[colmap.url];
+        const after = formatUrlCell(before);
+        if (after === before) return line;
+        parts[colmap.url] = after;
+        changed++;
+        return rebuildRow(parts);
+      });
+      const skippedNote = skipped.length
+        ? ` Left ${skipped.length} row(s) untouched because their cell count does not match the header — usually a \`|\` inside a URL: line(s) ${skipped.join(', ')}. Fix those by hand (a URL may not contain a literal \`|\`), then re-run.`
+        : '';
+      if (DRY_RUN) {
+        console.log(`🔎 Migration (dry-run): ${changed} URL cell(s) would be rendered as markdown links in ${basename(APPS_FILE)}.${skippedNote}`);
+      } else {
+        writeFileAtomic(APPS_FILE, migrated.join('\n'));
+        console.log(`✅ Migration: rendered ${changed} URL cell(s) as markdown links in ${basename(APPS_FILE)}. Every row's dedup key is unchanged (verified per cell).${skippedNote}`);
       }
       return 0;
     }
@@ -2054,6 +2319,7 @@ export async function mergeTracker(options = {}) {
         const code = await syncTrackerPdfFlags({
           appsFile: APPS_FILE,
           pdfManifest: PDF_INDEX_FILE,
+          dataRoot: DATA_ROOT,
           lockDir: TRACKER_LOCK_DIR,
           lock: options.lock,
           logger: console,
@@ -2127,6 +2393,7 @@ if (isMainModule(import.meta.url)) {
       verify: argv.includes('--verify'),
       migrate: argv.includes('--migrate'),
       migrateVia: argv.includes('--migrate-via'),
+      migrateUrls: argv.includes('--migrate-urls'),
       backfillUrls: argv.includes('--backfill-urls'),
     },
     holdMs: Number(process.env.CAREER_OPS_MERGE_HOLD_MS) || 0,
