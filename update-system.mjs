@@ -348,6 +348,7 @@ const SYSTEM_PATHS = [
   'scan-ats-full.mjs',
   'scan-interamt.mjs',
   'scan-dayforce.mjs',
+  'scan-navent.mjs',
   'company-funded.mjs',
   'match-star.mjs',
   'jd-skill-gap.mjs',
