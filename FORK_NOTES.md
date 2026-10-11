@@ -53,9 +53,10 @@ hand: change the topic branch, then merge it in again or rebuild `integration`.
 | `local/art-boards-scan` | `art-boards-scan.mjs` (ArtStation, Games Workshop, games boards) |
 | `local/fork-notes` | This file |
 
-Frozen or obsolete, kept until deleting them is decided: `feat/latam-sources`
-(the pre-split catch-all), `personalized`, `fix/gitignore-agent-inbox` (upstream
-already ignores `data/agent-inbox.md`), `backup/pre-reorg-2026-10-11`.
+Retired on 2026-10-11 and deleted from the fork, kept only as local branches:
+`feat/latam-sources` (the pre-split catch-all), `personalized`,
+`fix/gitignore-agent-inbox` (upstream already ignores `data/agent-inbox.md`). The
+local-only `backup/pre-reorg-2026-10-11` holds the state before the split.
 
 ### Resyncing with upstream
 
