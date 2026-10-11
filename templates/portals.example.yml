@@ -1181,6 +1181,7 @@ search_queries:
 #   icims           careers-<tenant>.icims.com / *.icims.com
 #   jazzhr          <tenant>.applytojob.com or <tenant>.applytojob.com/apply
 #   pythonorg       python.org/jobs
+#   softserve       career.softserveinc.com  (SoftServe's own careers site; any country/language page)
 #   generalist-world generalist.world/jobs/  (curated generalist / operator roles board; SSR HTML, one fetch; or provider: generalist-world)
 #   applitrack      www.applitrack.com/<district>/onlineapp/  (Frontline AppliTrack K-12 board; optional default_location: "City, ST" is appended to site names that name no place)
 #   schoolspring    <district>.schoolspring.com  (K-12 board; public JSON API)
@@ -1524,6 +1525,12 @@ search_queries:
 #   careers_url: https://www.rheinmetall.com/en/career/vacancies
 #   provider: rheinmetall                 # optional — rheinmetall.com host also auto-detects
 #   enabled: true
+#
+# - name: SoftServe                       # single-company; public zero-auth JSON API
+#   careers_url: https://career.softserveinc.com/en-us/vacancies   # any country/language page auto-detects
+#   provider: softserve                   # optional — career.softserveinc.com host also auto-detects
+#   max_pages: 30                         # optional page cap (12 vacancies/page, default 30, max 60)
+#   enabled: true                         # whole global inventory; narrow it with location_filter
 #
 # - name: OHB                             # Cornerstone OnDemand (csod) branded site
 #   careers_url: https://career-ohb.csod.com/ux/ats/careersite/4/home?c=career-ohb
@@ -2907,6 +2914,13 @@ tracked_companies:
     scan_query: '"n11" careers "Software Engineer" OR "Backend" OR "Frontend" OR "Yazılım"'
     notes: "Istanbul. E-commerce marketplace (Doğuş Group)."
     enabled: false
+
+  # -- Ukraine / CEE IT services --
+
+  - name: SoftServe
+    careers_url: https://career.softserveinc.com/en-us/vacancies/country-ukraine
+    enabled: false
+    notes: "Ukraine HQ; also hires in PL, BG, RO, DE, ES, UK, UAE, US, MX, CO, CL. Whole global list is scanned — narrow with location_filter."
 
   # -- Africa (employers on already-supported ATS) --
   #
