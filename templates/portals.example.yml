@@ -2441,7 +2441,7 @@ tracked_companies:
 
   - name: Nortal
     careers_url: https://careers-en-nortal.icims.com/jobs/search?ss=1  # any *.icims.com host
-    notes: "Tallinn HQ, German offices. Digital transformation consulting."
+    notes: "Tallinn HQ, German offices. Digital transformation consulting. This English-language board also carries the Ukraine, Finland, Estonia, Poland, Serbia and Bulgaria roles (careers.nortal.com/ukraine lists the same postings)."
     enabled: true
 
   # -- Switzerland / Austria AI --
