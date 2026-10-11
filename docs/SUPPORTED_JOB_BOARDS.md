@@ -134,6 +134,80 @@ future evaluation doesn't repeat the same investigation from scratch.
 | Work.ua (Ukraine) | Same failure mode as DOU: listing pages answer 403 with a Cloudflare managed challenge to the scanner's declared User-Agent. (`robots.txt` itself is readable and would allow `/en/jobs-it/`.) | 2026-10-11 |
 | JobRadar (jobradar.wtf, Ukraine) | A meta-aggregator, not a source: it describes itself as "7000+ IT vacancies from Djinni, DOU, LinkedIn and other sources in one place". Cross-source aggregation belongs to the project (Source Indexing Policy rule 5), and reading it would also route around DOU's challenge. Djinni is read directly instead. | 2026-10-11 |
 | Hoorya (hoorya.eu, Ukraine) | A meta-aggregator: its postings link out to other boards and employer sites (e.g. `dou.eu/jobs/…`, `altexsoft.com/vacancy/…`), and listings scraped from a board are attributed to the board as if it were the employer ("DOU Polska"), which fails rule 1's identifiable-employer bar. Its `robots.txt` also disallows `/*?*`, `/search/` and `/wp-json/`. | 2026-10-11 |
+| StepStone.de (Germany) | Listing pages and `robots.txt` itself answer 403 "Access Denied" to the scanner's declared User-Agent. | 2026-10-11 |
+| Totaljobs (UK, StepStone group) | `robots.txt` itself answers 403 to the scanner's declared User-Agent. | 2026-10-11 |
+| Pracuj.pl (Poland) | Listing pages and `robots.txt` answer 403 with a Cloudflare managed challenge. Poland stays covered by JustJoin.it, No Fluff Jobs and SolidJobs. | 2026-10-11 |
+| Bulldogjob (Poland) | Same failure mode as Pracuj.pl: 403 Cloudflare challenge on the listing. | 2026-10-11 |
+| Profesia.sk (Slovakia) | Listing and `robots.txt` answer 403 from CloudFront. | 2026-10-11 |
+| StartupJobs.cz (Czechia) | The `/nabidky` listing is built in the browser (no postings in the HTML, employer only on detail pages), and the data host it calls, `back.startupjobs.cz`, has `Disallow: /` in its `robots.txt`. | 2026-10-11 |
+| jobs.bg (Bulgaria) | Listing and `robots.txt` answer 403 with a Cloudflare challenge. | 2026-10-11 |
+| eJobs.ro (Romania) | Listing and `robots.txt` answer 403 (Cloudflare block). | 2026-10-11 |
+| CVbankas.lt (Lithuania) | 403 behind a challenge, `robots.txt` included. CVonline.lt, on the same platform as CV.ee and CV.lv, answers without a challenge. | 2026-10-11 |
+| Rabota.md (Moldova) | `robots.txt` answers 403 (nginx). | 2026-10-11 |
+| Lithuania UŽT (public employment service) | 403 Cloudflare challenge. | 2026-10-11 |
+| TokyoDev (Japan) | Every path tried, its Atom feed and `/jobs/feed` included, answers 403 with a Cloudflare challenge. | 2026-10-11 |
+| GaijinPot Jobs (Japan) | `robots.txt` disallows everything for every crawler; the search page is an empty shell. | 2026-10-11 |
+| Daijob (Japan) | `robots.txt` names Claude's crawler and disallows the job paths (same precedent as TopDev). | 2026-10-11 |
+| CareerCross (Japan) | Listing and `robots.txt` answer 403 with a Cloudflare challenge. | 2026-10-11 |
+| Japan Hello Work | Search is a stateful form, and the data is provided only to licensed placement businesses that apply for it. | 2026-10-11 |
+| Duunitori (Finland) | Listing and `robots.txt` answer 403 with a Cloudflare challenge. | 2026-10-11 |
+| Job Market Finland (Työmarkkinatori) | The search API needs a key, an agreement with the KEHA Centre and an IP allowlist, and its terms forbid passing postings on to third parties. | 2026-10-11 |
+| Jobindex.dk (Denmark) | `robots.txt` disallows pagination (`/jobsoegning*page=`), so the full inventory cannot be read; the RSS feed returns only 20 items. It also indexes postings from other sites. | 2026-10-11 |
+| Jobnet (Denmark, public employment service) | Search redirects (307) to the NemLog-in login. | 2026-10-11 |
+| werk.nl (Netherlands, UWV) | Search redirects (302) to `login.werk.nl`. | 2026-10-11 |
+| Werkzoeken.nl (Netherlands) | `robots.txt` disallows the search parameters, and the listing answers 403 (Cloudflare). | 2026-10-11 |
+| Undutchables (Netherlands) | A recruitment agency that does not name the end employer (rule 1), and `robots.txt` disallows any query string on `/vacancies`. | 2026-10-11 |
+| IrishJobs (Ireland) | Listing and `robots.txt` answer 403 "Access Denied". | 2026-10-11 |
+| UK Find a job (DWP) | Every path, `robots.txt` included, answers 503 to the scanner's declared User-Agent. One diagnostic request with a browser User-Agent got a 301, which shows the block depends on the User-Agent; no content was read with it, and switching User-Agent is not something this project does. | 2026-10-11 |
+| UK Civil Service Jobs | The page served is a captcha form. | 2026-10-11 |
+| AMS eJob-Room (Austria, public employment service) | The search API (`jobs.ams.at/public/emps/api/search`) answers 401. | 2026-10-11 |
+| job-room.ch (Switzerland, public employment service) | The search API answers 401. Swiss federal jobs are published through the Prospective career-center API behind jobs.admin.ch. | 2026-10-11 |
+| France Travail | The official API needs OAuth registration, and on the site `robots.txt` disallows `*motsCles=*`, which covers keyword search. | 2026-10-11 |
+| Tecnoempleo (Spain) | Listing and `robots.txt` answer 403 with a Cloudflare challenge. | 2026-10-11 |
+| InfoJobs (Spain) | `robots.txt` names `ClaudeBot`, `Claude-SearchBot` and `Claude-User` and disallows the job paths; the official API needs an OAuth key. | 2026-10-11 |
+| InfoJobs (Brazil) | `robots.txt` itself answers 403 from an Azure WAF. | 2026-10-11 |
+| InPA (Italy, public administration) | The JSON API answers without auth, but `portale.inpa.gov.it/robots.txt` is `Disallow: /`. | 2026-10-11 |
+| Le Forem open data (Belgium, Wallonia) | The Opendatasoft host's `robots.txt` disallows `/api/`, and about 85% of the records are re-published from partner boards (Jobat, StepStone, Adecco). | 2026-10-11 |
+| EuroTechJobs | `robots.txt` disallows everything for `ClaudeBot` (same precedent as TopDev). | 2026-10-11 |
+| EPSO / EU Careers | The listing answers 403 "Access denied" to the scanner's declared User-Agent. | 2026-10-11 |
+| DevITjobs.com (and DevITjobs.uk) | The `/api/jobsLight` feed answers, but 4,440 of its 4,450 jobs are partner backfill re-sold from other boards (jobg8, j-vers, Indeed), each carrying a pay-per-click price: an aggregator under rule 5. DevITjobs.uk redirects to a signup page. SwissDevJobs and GermanTechJobs run on the same API but are separate cases: most SwissDevJobs postings are direct employer posts. | 2026-10-11 |
+| visasponsor.jobs | `robots.txt` names `ClaudeBot`, `anthropic-ai`, `Claude-Web` and `Claude-User` and disallows them, plus a content-signal line; its API also ignored the search filter. | 2026-10-11 |
+| Arc.dev | The employer is hidden on every listing ("Arc Exclusive", 60 of 60 sampled), which fails rule 1, and applying needs an Arc account. | 2026-10-11 |
+| Bayt (UAE / Gulf) | `robots.txt` disallows the search pages, and the listing answers 403 with a Cloudflare challenge. | 2026-10-11 |
+| GulfTalent (UAE / Gulf) | `robots.txt` names Claude's crawler and carries a "no collection" content signal; the search page answers 403 with a Cloudflare challenge. | 2026-10-11 |
+| Trade Me Jobs (New Zealand) | `robots.txt` disallows search and paging; the search page answers 406. | 2026-10-11 |
+| Eluta.ca (Canada) | `robots.txt` disallows `/search/` and `/rss?`, and the server redirects this client to a "forbidden" page. | 2026-10-11 |
+| Jobboom (Canada, Quebec) | `robots.txt` answers 403 with a Cloudflare challenge. | 2026-10-11 |
+| APS Jobs (Australian Public Service) | A Salesforce app shell with no postings in the HTML; it would need a browser. | 2026-10-11 |
+| Mexico Portal del Empleo | A 12.7 MB Angular app backed by an undocumented API; no listing is readable without a browser. | 2026-10-11 |
+| USAJOBS (US federal) | The Search API answers 401 without a key. The open Historic JOA API answers, but `data.usajobs.gov/robots.txt` is `Disallow: /`. | 2026-10-11 |
+| ReliefWeb (humanitarian) | The v2 jobs API answers 403 without a pre-approved `appname` (v1 is retired, 410), and the main site answers 406 "Blocked due to bot activity" to the scanner's User-Agent. | 2026-10-11 |
+| Korea Work24 | The open API answers "authKey is required". | 2026-10-11 |
+| UNjobs.org | `robots.txt` is `Disallow: /`, and the site answers 403 with a Cloudflare challenge. UN Secretariat roles are published zero-auth on careers.un.org. | 2026-10-11 |
+| Devex | `robots.txt` itself answers 403 behind a DataDome bot challenge. | 2026-10-11 |
+| hh.kz (Kazakhstan) | Same rules as hh.ru: `robots.txt` disallows `*?*`, and named Claude groups disallow `/vacancy/*`. | 2026-10-11 |
+| Enbek.kz (Kazakhstan, public employment service) | `robots.txt` disallows `/*/search/*` and the vacancy path for every crawler. | 2026-10-11 |
+| Jooble | A meta-aggregator (rule 5), and it answers 403 with a Cloudflare challenge. | 2026-10-11 |
+| Workana | Freelance gigs, not jobs, and it answers 403 with a Cloudflare challenge. | 2026-10-11 |
+| Revelo, Talently | Talent networks with no public job listing: `/jobs` and `/empleos` return 404 or redirect. | 2026-10-11 |
+| Universia (Argentina) | `robots.txt` allows only page 1 of exact facet URLs, and the listing is an empty client-rendered shell. | 2026-10-11 |
+| kube.careers | The full inventory is not exposed: the category page shows 5 links against a heading of "169 new", and `?page=2` returns the same page (rule 3). | 2026-10-11 |
+| golang.cafe, rustjobs.dev | Every path, `robots.txt` included, answers 429 with a Vercel Security Checkpoint challenge. | 2026-10-11 |
+| infosec-jobs.com / isecjobs.com (foorilla) | Its own `/api/llms.txt` describes a paid-subscription platform whose API needs a PRO+ key, and it aggregates other boards (rule 5). | 2026-10-11 |
+| CyberSecurityJobs.com | The job search and feed answer 403 with a Cloudflare challenge, `robots.txt` included. | 2026-10-11 |
+| Mandy, Mediabistro (media / crew) | 403 Cloudflare block and 405 "Human Verification". | 2026-10-11 |
+| EntertainmentCareers.net | Candidates pay for early access ("Members see new listings before they reach the general public"), which fails the no-paywall bar. | 2026-10-11 |
+| Streaming Media, SVTA | No job board: `/Jobs` and `/careers/` return 404. Streaming employers are reachable through their own ATS boards. | 2026-10-11 |
+
+The rows dated 2026-10-11 come from one survey of national, relocation, public-sector
+and niche boards. Every source was probed with the scanner's own client and declared
+User-Agent (`DEFAULT_USER_AGENT`), a few requests per host at least one second apart,
+with no logins and no attempt to get past a challenge. The probes ran from an
+Argentine network. A few sources timed out or failed TLS from there (Hipo.ro,
+Profession.hu, Naukrigulf, Workforce Australia, TVJobs, SMPTE careers, and the public
+services of Brazil, Colombia, Uruguay, Peru, Spain, Slovenia and New Zealand); they
+are left out of this table until someone measures them from another network, since a
+timeout says nothing about the source.
 
 TopDev and CareerLink are the interesting case: both are technically
 scrapable, but this project treats a `robots.txt` entry naming Claude or
