@@ -334,7 +334,12 @@ export function pageIsPastWindow(pageJobs, sinceMs) {
 }
 
 // A careers page: `https://{tenant}.{instance}.myworkdayjobs.com[/{locale}]/{site}`.
-const CAREERS_RE = /^https:\/\/([\w-]+)\.(wd[\w-]*)\.myworkdayjobs\.com\/(?:[a-z]{2}-[A-Z]{2}\/)?([^/?#]+)/;
+// The locale is `xx-XX` (`en-US`) or a bare language `xx` (`/es/`, `/pt/`, the
+// form Latin American careers pages tend to link). A bare `xx` is a locale only
+// when a site follows it: `/us` alone, or `/us/job/...` (a posting under a site
+// literally named `us`), keeps `us` as the site. Read without the bare form,
+// `/es/Rappi_jobs` took `es` as the site and the board answered 404.
+const CAREERS_RE = /^https:\/\/([\w-]+)\.(wd[\w-]*)\.myworkdayjobs\.com\/(?:[a-z]{2}(?:-[A-Z]{2})?\/(?!(?:job|details)(?:[/?#]|$))(?=[^/?#]))?([^/?#]+)/;
 // The CXS endpoint itself: `https://{host}.{instance}.myworkdayjobs.com/wday/cxs/{tenant}/{site}[/jobs|/job/...]`.
 // This is the *resolved* form, not a careers page — it already carries the
 // tenant and site in its path. It also passes CAREERS_RE (same host shape),

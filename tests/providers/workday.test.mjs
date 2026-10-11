@@ -326,6 +326,26 @@ try {
     fail(`workday.detect(no-locale) returned ${JSON.stringify(hitNoLocale)}`);
   }
 
+  // A bare-language locale (`/es/`, `/pt/`) is a locale, not the site: read as
+  // the site, `/es/Acme_jobs` built `/wday/cxs/acme/es/jobs` and the board 404'd.
+  const cxs = (u) => workday.detect({ name: 'Acme', careers_url: u })?.url;
+  if (cxs('https://acme.wd12.myworkdayjobs.com/es/Acme_jobs') === 'https://acme.wd12.myworkdayjobs.com/wday/cxs/acme/Acme_jobs/jobs'
+      && cxs('https://acme.wd12.myworkdayjobs.com/pt/Acme_jobs/details/Engineer_JR1') === 'https://acme.wd12.myworkdayjobs.com/wday/cxs/acme/Acme_jobs/jobs'
+      && cxs('https://acme.wd12.myworkdayjobs.com/pt-BR/Acme_jobs') === 'https://acme.wd12.myworkdayjobs.com/wday/cxs/acme/Acme_jobs/jobs') {
+    pass('workday.detect() skips a bare-language locale (/es/, /pt/) as well as xx-XX');
+  } else {
+    fail(`bare-language locale drift: ${cxs('https://acme.wd12.myworkdayjobs.com/es/Acme_jobs')}`);
+  }
+  // …but a two-letter segment with no site after it stays the site.
+  if (cxs('https://acme.wd12.myworkdayjobs.com/us') === 'https://acme.wd12.myworkdayjobs.com/wday/cxs/acme/us/jobs'
+      && cxs('https://acme.wd12.myworkdayjobs.com/us/') === 'https://acme.wd12.myworkdayjobs.com/wday/cxs/acme/us/jobs'
+      && cxs('https://acme.wd12.myworkdayjobs.com/us/job/Remote/Engineer_JR1') === 'https://acme.wd12.myworkdayjobs.com/wday/cxs/acme/us/jobs'
+      && cxs('https://acme.wd12.myworkdayjobs.com/us?q=x') === 'https://acme.wd12.myworkdayjobs.com/wday/cxs/acme/us/jobs') {
+    pass('workday.detect() keeps a two-letter site (/us, /us/job/...) as the site');
+  } else {
+    fail(`two-letter site drift: ${cxs('https://acme.wd12.myworkdayjobs.com/us/job/Remote/Engineer_JR1')}`);
+  }
+
   // myworkdaysite.com — same product, tenant in the path (/recruiting/{tenant}/{site}).
   const hitSite = workday.detect({ name: 'Guidewire', careers_url: 'https://wd5.myworkdaysite.com/recruiting/guidewire/external' });
   if (hitSite && hitSite.url === 'https://wd5.myworkdaysite.com/wday/cxs/guidewire/external/jobs') {
