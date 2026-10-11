@@ -1181,6 +1181,8 @@ search_queries:
 #   icims           careers-<tenant>.icims.com / *.icims.com
 #   jazzhr          <tenant>.applytojob.com or <tenant>.applytojob.com/apply
 #   pythonorg       python.org/jobs
+#   djinni          djinni.co  (Ukraine IT board; any djinni.co URL, /hire included — only the host is read;
+#                   optional searchKeywords: are Djinni category names, see the stanza below)
 #   generalist-world generalist.world/jobs/  (curated generalist / operator roles board; SSR HTML, one fetch; or provider: generalist-world)
 #   applitrack      www.applitrack.com/<district>/onlineapp/  (Frontline AppliTrack K-12 board; optional default_location: "City, ST" is appended to site names that name no place)
 #   schoolspring    <district>.schoolspring.com  (K-12 board; public JSON API)
@@ -1601,6 +1603,14 @@ search_queries:
 #   states: ["nuevo-leon", "jalisco"]     # optional; omit to scan nationwide
 #   max_pages: 3                          # optional page cap (20 jobs/page, default 3, max 10)
 #   enabled: true                         # 750ms pacing between pages
+#
+# - name: Example Djinni                  # Ukraine's IT job board (employers post directly)
+#   careers_url: https://djinni.co/jobs/  # auto-detected on djinni.co; or provider: djinni
+#   searchKeywords: [DevOps, Sysadmin]    # optional Djinni category names, one pass each (max 8) — exactly as
+#                                         # listed in https://djinni.co/jobs/rss/; an unknown one is an error.
+#                                         # Omit to walk the whole board, newest first
+#   max_pages: 10                         # optional page cap (15 postings/page, default 10, max 40)
+#   enabled: true                         # server-rendered JSON-LD; 1 s pacing; monthly salaries annualized
 #
 # - name: The Hub                         # Nordic/EU startup board
 #   provider: thehub
@@ -3247,3 +3257,14 @@ job_boards:
     careers_url: https://www.python.org/jobs/
     enabled: false
     notes: "Official Python Software Foundation job board (public RSS feed)"
+
+  # ── Ukraine — IT boards ─────────────────────────────────────────────
+  # Djinni: employers post directly; many roles are remote across Europe.
+  # Pick your categories from https://djinni.co/jobs/rss/ (exact names).
+
+  - name: Djinni
+    careers_url: https://djinni.co/jobs/
+    searchKeywords: [DevOps]
+    max_pages: 10
+    enabled: false
+    notes: "Edit searchKeywords to your Djinni categories first. 15 postings/page with employer, location, description and (when published) salary."
