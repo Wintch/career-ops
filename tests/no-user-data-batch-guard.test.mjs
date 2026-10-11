@@ -187,6 +187,7 @@ const NOT_GUARDED = new Map([
   ['voice-dna.md', 'ships as a populated system default, so edits to it are legit'],
   ['.claude/settings.json', 'project harness config, not gitignored, may legitimately be committed'],
   ['.claude/hooks/', 'project harness config, not gitignored, may legitimately be committed'],
+  ['FORK_NOTES.md', 'fork-only docs (local/fork-notes branch), committed on purpose and never shipped by upstream'],
 ]);
 
 test('the guard blocks every update-system.mjs user-layer path not allowlisted', () => {

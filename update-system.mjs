@@ -643,6 +643,8 @@ export const USER_PATHS = [
   'opencode.json',
   '.claude/settings.json',
   '.claude/hooks/',
+  // Fork-only bookkeeping (local/fork-notes branch); upstream never ships it.
+  'FORK_NOTES.md',
 ];
 
 // Local user layer — a fork's own files, declared OUTSIDE the system layer.
