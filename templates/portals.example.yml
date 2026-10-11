@@ -1806,6 +1806,11 @@ search_queries:
 #   provider: hackernews
 #   enabled: true
 #
+# - name: Hacker News Jobs (YC)           # YC startups' job posts from news.ycombinator.com/jobs
+#   provider: hackernews-jobs             # official HN API; dated, employer-linked, newest ~30 only
+#   maxItems: 30                          # optional, 1-60 (one request per post)
+#   enabled: true
+#
 # - name: Jobspresso                      # curated remote roles (public WordPress feed)
 #   provider: jobspresso
 #   enabled: true
