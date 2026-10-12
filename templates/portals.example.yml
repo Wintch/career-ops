@@ -2891,6 +2891,180 @@ tracked_companies:
     notes: "AI evaluation and observability platform. Bangalore-based, mostly on-site."
     enabled: true
 
+  # -- Streaming / video infrastructure --
+  # Video delivery, encoding, players and CDN/edge employers on supported ATS.
+
+  - name: Twitch
+    careers_url: https://job-boards.greenhouse.io/twitch
+    notes: "Live video streaming (Amazon). Video infrastructure, SRE and platform roles."
+    enabled: true
+
+  - name: Roku
+    careers_url: https://job-boards.greenhouse.io/roku
+    notes: "Streaming platform and devices. Playback, CDN and cloud platform teams."
+    enabled: true
+
+  - name: Netflix
+    careers_url: https://netflix.eightfold.ai/careers
+    notes: "Streaming. ~460 postings as of 2026-10-11 (10 per page); the provider default of 200 pages reads the whole board."
+    enabled: true
+
+  - name: Disney
+    careers_url: https://www.disneycareers.com/en/search-jobs
+    provider: radancy
+    notes: "Includes Disney Streaming (Disney+, Hulu, ESPN+). Very large board (all countries)."
+    enabled: true
+
+  - name: Warner Bros. Discovery
+    careers_url: https://careers.wbd.com/global/en
+    provider: phenom
+    notes: "Max, Discovery+, CNN. Video engineering and compression roles."
+    enabled: true
+
+  - name: Paramount
+    careers_url: https://careers.paramount.com/
+    provider: successfactors
+    notes: "Paramount+, Pluto TV, CBS; Telefe in Argentina."
+    enabled: true
+
+  - name: DAZN
+    careers_url: https://dazn.pinpointhq.com
+    notes: "Sports streaming. Includes broadcast / master control room roles."
+    enabled: true
+
+  - name: Dolby
+    careers_url: https://dolby.eightfold.ai/careers?domain=dolby.com
+    max_pages: 15
+    notes: "Includes THEO Technologies (video players). Keep the ?domain= parameter: this board answered 422 without it (2026-10-11)."
+    enabled: true
+
+  - name: Harmonic
+    careers_url: https://egmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs
+    notes: "Video delivery and broadcast (VOS, encoders). Not jobs.ashbyhq.com/harmonic, an unrelated company (checked 2026-10-11)."
+    enabled: true
+
+  - name: Ateme
+    careers_url: https://ateme.teamtailor.com
+    notes: "Video compression and delivery (France)."
+    enabled: true
+
+  - name: Kaltura
+    api: https://www.comeet.co/careers-api/2.0/company/E2.00D/positions?token=2EDEA12ED017688C7147B1A555DA2ED
+    notes: "Video platform. Public Comeet token as embedded in Kaltura's own job pages."
+    enabled: true
+
+  - name: Bitmovin
+    careers_url: https://job-boards.greenhouse.io/bitmovin
+    notes: "Video encoding and player infrastructure (Austria / remote)."
+    enabled: true
+
+  - name: Conviva
+    careers_url: https://job-boards.greenhouse.io/conviva
+    notes: "Streaming analytics and QoE."
+    enabled: true
+
+  - name: JW Player (JWP)
+    careers_url: https://job-boards.greenhouse.io/jwp
+    notes: "Video player and streaming platform."
+    enabled: true
+
+  - name: Mux
+    careers_url: https://jobs.ashbyhq.com/mux
+    notes: "Video API infrastructure."
+    enabled: true
+
+  - name: LiveKit
+    careers_url: https://jobs.ashbyhq.com/livekit
+    notes: "Open-source WebRTC real-time video / audio infrastructure."
+    enabled: true
+
+  - name: Restream
+    careers_url: https://jobs.ashbyhq.com/restream
+    notes: "Multistreaming platform; remote-friendly in Europe."
+    enabled: true
+
+  - name: Wistia
+    careers_url: https://jobs.ashbyhq.com/wistia
+    notes: "Video hosting for businesses."
+    enabled: true
+
+  - name: Cloudinary
+    careers_url: https://jobs.lever.co/cloudinary
+    notes: "Image and video media pipelines."
+    enabled: true
+
+  - name: Vecima
+    careers_url: https://recruiting.ultipro.ca/VEC5000VECI/JobBoard/398abd11-b7b6-4ed8-97a3-1917adaf2676
+    notes: "Video delivery and cable access technology (Canada)."
+    enabled: true
+
+  - name: Fastly
+    careers_url: https://job-boards.greenhouse.io/fastly
+    notes: "Edge cloud / CDN."
+    enabled: true
+
+  - name: Cloudflare
+    careers_url: https://job-boards.greenhouse.io/cloudflare
+    notes: "Edge network, CDN, Stream. Large board (all countries)."
+    enabled: true
+
+  # -- Cloud-native, observability & infrastructure (remote-friendly) --
+
+  - name: Grafana Labs
+    careers_url: https://job-boards.greenhouse.io/grafanalabs
+    notes: "Observability (Grafana, Loki, Mimir, Tempo). Remote-first."
+    enabled: true
+
+  - name: GitLab
+    careers_url: https://job-boards.greenhouse.io/gitlab
+    notes: "DevSecOps platform. All-remote."
+    enabled: true
+
+  - name: Canonical
+    careers_url: https://job-boards.greenhouse.io/canonical
+    notes: "Ubuntu, Kubernetes, OpenStack. Remote-first, hires worldwide."
+    enabled: true
+
+  - name: Datadog
+    careers_url: https://job-boards.greenhouse.io/datadog
+    notes: "Observability and security platform."
+    enabled: true
+
+  - name: Elastic
+    careers_url: https://job-boards.greenhouse.io/elastic
+    notes: "Search, observability, security. Distributed company."
+    enabled: true
+
+  - name: Tailscale
+    careers_url: https://job-boards.greenhouse.io/tailscale
+    notes: "WireGuard-based networking. Remote."
+    enabled: true
+
+  - name: Chainguard
+    careers_url: https://job-boards.greenhouse.io/chainguard
+    notes: "Software supply-chain security, secure container images."
+    enabled: true
+
+  - name: PagerDuty
+    careers_url: https://job-boards.greenhouse.io/pagerduty
+    notes: "Incident response / on-call platform."
+    enabled: true
+
+  - name: Cockroach Labs
+    careers_url: https://job-boards.greenhouse.io/cockroachlabs
+    notes: "Distributed SQL database."
+    enabled: true
+
+  - name: Kong
+    careers_url: https://jobs.ashbyhq.com/kong
+    notes: "API gateway and service connectivity. Includes SRE roles."
+    enabled: true
+
+  - name: Sysdig
+    careers_url: https://jobs.lever.co/sysdig
+    notes: "Cloud-native security and monitoring (Falco)."
+    enabled: true
+
   # ============================================================
   # -- Türkiye / Turkey market
   # ============================================================
