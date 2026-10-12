@@ -3234,6 +3234,70 @@ tracked_companies:
     notes: "African-founded talent marketplace. Verified 2026-08-17: 19 postings, but mostly North America and the UK with a single Kenya role — enable it for the company, not for African coverage."
     enabled: false
 
+  # -- Latin America tech employers --
+  # Regional tech employers on supported ATS. Several boards are large and
+  # multi-country; every country is kept.
+
+  - name: Mercado Libre
+    careers_url: https://mercadolibre.eightfold.ai/careers?domain=mercadolibre.com
+    notes: "Largest LatAm e-commerce/fintech (AR, BR, MX, CO, CL, UY). ~810 postings as of 2026-10-11 (10 per page; the default 200-page cap reads them all). Keep ?domain=: the board answered 422 without it."
+    enabled: true
+
+  - name: Nubank
+    careers_url: https://jobs.ashbyhq.com/nubank
+    notes: "Digital bank (BR, MX, CO). Its Greenhouse board existed but was empty on 2026-10-11."
+    enabled: true
+
+  - name: dLocal
+    careers_url: https://jobs.lever.co/dlocal
+    notes: "Cross-border payments (UY/AR). Remote within LatAm."
+    enabled: true
+
+  - name: Despegar
+    careers_url: https://jobs.lever.co/despegar
+    notes: "Online travel (AR HQ)."
+    enabled: true
+
+  - name: Kavak
+    careers_url: https://jobs.lever.co/kavak
+    notes: "Used-car platform (MX). Tech roles; operations roles live on its Workday board."
+    enabled: true
+
+  - name: Rappi
+    careers_url: https://rappi.wd12.myworkdayjobs.com/Rappi_jobs
+    notes: "Delivery super-app (CO, MX, AR, BR…). Use the wd12 tenant; the older wd3 one answered 500/422 on 2026-10-11."
+    enabled: true
+
+  - name: Stone
+    careers_url: https://job-boards.greenhouse.io/stone
+    notes: "Brazilian fintech / payments. Mostly Brazil, many sales roles."
+    enabled: true
+
+  - name: Wizeline
+    careers_url: https://job-boards.greenhouse.io/wizeline
+    notes: "Engineering services (MX, CO, remote LatAm)."
+    enabled: true
+
+  - name: Endava
+    careers_url: https://jobs.smartrecruiters.com/Endava
+    notes: "IT services; LatAm delivery centres incl. Argentina."
+    enabled: true
+
+  - name: Delivery Hero (PedidosYa)
+    careers_url: https://jobs.smartrecruiters.com/DeliveryHero
+    notes: "Includes PedidosYa (UY/AR); empleos.pedidosya.com is a front end over this board. ~950 postings as of 2026-10-11, all countries; the provider reads up to 50 pages of 100."
+    enabled: true
+
+  - name: Okta
+    careers_url: https://job-boards.greenhouse.io/okta
+    notes: "Identity (Auth0 started in Argentina). Large board."
+    enabled: true
+
+  - name: Accenture
+    careers_url: https://accenture.wd103.myworkdayjobs.com/AccentureCareers
+    notes: "Global consultancy, very large board (thousands of postings, all countries, 2026-10-11). Disabled by default for its size."
+    enabled: false
+
   # -- US K-12 school districts & community colleges (single-employer boards) --
   # Examples of the applitrack / neogov / redrover / schoolspring providers.
   # Disabled: these are one region's boards — copy the pattern for your own
@@ -3484,6 +3548,12 @@ job_boards:
     enabled: false
     notes: "VC portfolio board (Getro), collection_id auto-resolved"
 
+  - name: Valor Capital Group (portfolio)
+    careers_url: https://jobs.valorcapitalgroup.com/jobs
+    provider: getro
+    enabled: false
+    notes: "US–Brazil VC (Getro board)."
+
   # ── Getro — regional / economic-development "tech ecosystem" boards ─
   # Getro doesn't only power VC portfolio boards above -- city and regional
   # economic-development orgs run their own Getro-backed "tech ecosystem" job
@@ -3512,6 +3582,22 @@ job_boards:
     enabled: false
     aggregator: true          # portfolio board: many employers under one entry
     notes: "Swiss VC portfolio board (Consider)"
+
+  - name: KASZEK (portfolio)
+    careers_url: https://jobs.kaszek.com/jobs
+    provider: consider
+    consider_board: kaszek
+    enabled: false
+    aggregator: true          # portfolio board: many employers under one entry
+    notes: "LatAm VC (Consider board)."
+
+  - name: QED Investors (portfolio)
+    careers_url: https://careers.qedinvestors.com/jobs
+    provider: consider
+    consider_board: qed-investors
+    enabled: false
+    aggregator: true          # portfolio board: many employers under one entry
+    notes: "Fintech VC with a large LatAm portfolio (Consider board)."
 
   # ── Swiss startup job boards ───────────────────────────────────────
   # Aggregators of Swiss startup roles. No extra config — auto-detected from
