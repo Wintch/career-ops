@@ -2792,14 +2792,13 @@ tracked_companies:
 
   - name: Netflix
     careers_url: https://netflix.eightfold.ai/careers
-    max_pages: 50
-    notes: "Streaming. ~460 postings at 10 per page, so max_pages 50 reads the whole board."
+    notes: "Streaming. ~460 postings as of 2026-10-11 (10 per page); the provider default of 200 pages reads the whole board."
     enabled: true
 
   - name: Disney
     careers_url: https://www.disneycareers.com/en/search-jobs
     provider: radancy
-    notes: "Includes Disney Streaming (Disney+, Hulu, ESPN+). Very large board: narrow with location_filter."
+    notes: "Includes Disney Streaming (Disney+, Hulu, ESPN+). Very large board (all countries)."
     enabled: true
 
   - name: Warner Bros. Discovery
@@ -2822,12 +2821,12 @@ tracked_companies:
   - name: Dolby
     careers_url: https://dolby.eightfold.ai/careers?domain=dolby.com
     max_pages: 15
-    notes: "Includes THEO Technologies (video players). The ?domain= parameter is required: the board answers 422 without it."
+    notes: "Includes THEO Technologies (video players). Keep the ?domain= parameter: this board answered 422 without it (2026-10-11)."
     enabled: true
 
   - name: Harmonic
     careers_url: https://egmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs
-    notes: "Video delivery and broadcast (VOS, encoders). Not jobs.ashbyhq.com/harmonic, which is an unrelated company."
+    notes: "Video delivery and broadcast (VOS, encoders). Not jobs.ashbyhq.com/harmonic, an unrelated company (checked 2026-10-11)."
     enabled: true
 
   - name: Ateme
@@ -2892,7 +2891,7 @@ tracked_companies:
 
   - name: Cloudflare
     careers_url: https://job-boards.greenhouse.io/cloudflare
-    notes: "Edge network, CDN, Stream. Large board: narrow with location_filter."
+    notes: "Edge network, CDN, Stream. Large board (all countries)."
     enabled: true
 
   # -- Cloud-native, observability & infrastructure (remote-friendly) --
