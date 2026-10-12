@@ -1,8 +1,9 @@
 // @ts-check
 /** @typedef {import('./_types.js').Provider} Provider */
 
-// Djinni provider — Ukraine's IT job board (https://djinni.co). Employers post
-// there directly and candidates read and apply for free. Wire in via a
+// Djinni provider — Ukraine's IT job board (https://djinni.co). Postings
+// are published by the hiring company or its recruiter (Djinni does not
+// distinguish them); candidates read and apply for free. Wire in via a
 // `job_boards:` entry; each entry walks one or more of the board's own
 // "primary keyword" categories:
 //
@@ -14,12 +15,15 @@
 // `detect()` claims any `https://djinni.co/...` URL (the `/hire` landing page
 // included); `provider: djinni` works too. Only the host is read — the path is
 // discarded and rebuilt as `/jobs/?primary_keyword={keyword}&page={n}`. With
-// no `searchKeywords` the entry walks the whole board, newest first, up to
-// `max_pages`. The category names are the `<category>` list of
+// no `searchKeywords` the entry reads the newest 150 postings by default
+// (10 pages x 15), up to 600 (cap 40 pages) — not the whole board. The category names are the `<category>` list of
 // https://djinni.co/jobs/rss/ (`DevOps`, `Sysadmin`, `Python`, `QA`, …).
 //
 // SOURCE CHECK (measured 2026-10-11, with the scanner's declared User-Agent):
-//   - robots.txt (`User-agent: *`) disallows `/jobs2`, `/q`, `/developers`,
+//   - robots.txt, re-checked 2026-10-12 with the scanner's DEFAULT_USER_AGENT:
+//     only a `User-agent: *` group exists; no group names ClaudeBot,
+//     anthropic-ai, Claude-Web or Claude-User, and there is no Crawl-delay —
+//     result: allowed. The `*` group disallows `/jobs2`, `/q`, `/developers`,
 //     `/free-jobs` and `/set_lang` — none is requested here;
 //   - `/jobs/?primary_keyword=X&page=N` is server-rendered over plain HTTPS,
 //     no login, no challenge; every page embeds ONE JSON-LD array of
@@ -28,6 +32,8 @@
 //     when the employer published one, a monthly USD salary range;
 //   - the RSS feed (`/jobs/rss/`) is lighter but names no employer, which is
 //     why the HTML listing is read instead;
+//   - postings with no identifiable employer (absent name, or a placeholder
+//     such as Confidential) are DROPPED and counted, one warning per fetch;
 //   - a short page is the last one; one page past it 302s back to `/jobs/`;
 //   - an UNKNOWN keyword is not an error on the site: it silently serves the
 //     whole board. The page's `<link rel="canonical">` tells them apart — a
@@ -38,6 +44,7 @@
 
 import { fetchTextWithRetry, isRefusedRedirectError, sleep } from './_http.mjs';
 import { decodeEntities } from './_html-entities.mjs';
+import { htmlToText } from './_html-to-text.mjs';
 
 const ORIGIN = 'https://djinni.co';
 /** The board serves 15 postings per page; a shorter page is the last one. */
@@ -50,10 +57,30 @@ const MAX_KEYWORDS = 8;
 /** Pause between ANY two requests to the board (pages and keyword passes alike). */
 const REQUEST_DELAY_MS = 1000;
 
-const POSTING_URL_RE = /^https:\/\/djinni\.co\/jobs\/\d+-[a-z0-9-]+\/$/;
-const ANY_POSTING_LINK_RE = /href=["'](?:https:\/\/djinni\.co)?\/jobs\/\d+-[a-z0-9-]+\/["']/i;
+const POSTING_PATH_RE = /^\/jobs\/\d+-[^/]+\/?$/;
+const ANY_POSTING_LINK_RE = /href=["'](?:https:\/\/djinni\.co)?\/jobs\/\d+-[^/"']+\/?["']/i;
+/** What an anonymous posting shows where the employer goes. */
+const PLACEHOLDER_EMPLOYER_RE = /^(?:confidential|anonymous|конфіденційно|конфиденциально)(?:\s+(?:company|employer))?[.!]?$/i;
 const LD_JSON_RE = /<script\b[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi;
-const CANONICAL_RE = /<link\b[^>]*rel=["']canonical["'][^>]*href=["']([^"']+)["']/i;
+const CANONICAL_RE = /<link\b(?=[^>]*\brel=["']canonical["'])[^>]*\bhref=["']([^"']+)["']/i;
+
+/**
+ * Canonical posting URL (https, djinni.co, /jobs/{id}-{slug}/), query and hash
+ * stripped; '' when the value is not one.
+ * @param {any} raw
+ * @returns {string}
+ */
+export function normalizePostingUrl(raw) {
+  if (typeof raw !== 'string' || !raw.trim()) return '';
+  let u;
+  try {
+    u = new URL(raw.trim());
+  } catch {
+    return '';
+  }
+  if (u.protocol !== 'https:' || u.hostname.toLowerCase() !== 'djinni.co' || !POSTING_PATH_RE.test(u.pathname)) return '';
+  return `${ORIGIN}${u.pathname.endsWith('/') ? u.pathname : `${u.pathname}/`}`;
+}
 
 /**
  * True for a `djinni.co` / `www.djinni.co` https URL.
@@ -127,6 +154,17 @@ export function toEpochMs(value) {
 const str = (v) => (typeof v === 'string' ? decodeEntities(v).replace(/\s+/g, ' ').trim() : '');
 
 /**
+ * Employer name from `hiringOrganization` (string or `{name}`); '' when absent,
+ * blank or a confidentiality placeholder.
+ * @param {any} org
+ * @returns {string}
+ */
+export function employerOf(org) {
+  const name = str(typeof org === 'string' ? org : org?.name);
+  return !name || PLACEHOLDER_EMPLOYER_RE.test(name) ? '' : name;
+}
+
+/**
  * Human-readable location: office places from `jobLocation`, then "Remote"
  * (with the applicant region/country, when given) for TELECOMMUTE postings.
  * @param {any} posting
@@ -179,7 +217,7 @@ export function salaryOf(baseSalary) {
  * Parse one listing page.
  *
  * @param {string} html
- * @returns {{ jobs: import('./_types.js').Job[], rawCount: number, hasLd: boolean, canonical: string }}
+ * @returns {{ jobs: import('./_types.js').Job[], rawCount: number, hasLd: boolean, canonical: string, unattributed: number, badUrls: number }}
  *   `rawCount` is the number of JobPosting objects the SOURCE returned — the
  *   short-page stop reads it, never the filtered count.
  */
@@ -207,19 +245,30 @@ export function parseListingPage(html) {
 
   /** @type {Map<string, import('./_types.js').Job>} */
   const byUrl = new Map();
+  let unattributed = 0;
+  let badUrls = 0;
   for (const p of postings) {
-    const url = typeof p.url === 'string' ? p.url.trim() : '';
-    if (!POSTING_URL_RE.test(url) || byUrl.has(url)) continue;
+    const url = normalizePostingUrl(p.url);
+    if (!url) {
+      badUrls++;
+      continue;
+    }
+    if (byUrl.has(url)) continue;
     const title = str(p.title);
     if (!title) continue;
-    const description = typeof p.description === 'string' ? decodeEntities(p.description).trim() : '';
+    const company = employerOf(p.hiringOrganization);
+    if (!company) {
+      unattributed++;
+      continue;
+    }
+    const description = typeof p.description === 'string' ? htmlToText(p.description) : '';
     const postedAt = toEpochMs(p.datePosted);
     const salary = salaryOf(p.baseSalary);
     const externalId = typeof p.identifier === 'string' || typeof p.identifier === 'number' ? String(p.identifier) : '';
     byUrl.set(url, {
       title,
       url,
-      company: str(p.hiringOrganization?.name),
+      company,
       location: locationOf(p),
       ...(description ? { description } : {}),
       ...(postedAt !== undefined ? { postedAt } : {}),
@@ -229,7 +278,7 @@ export function parseListingPage(html) {
   }
 
   const canonical = (CANONICAL_RE.exec(source) ?? [])[1] ?? '';
-  return { jobs: [...byUrl.values()], rawCount: postings.length, hasLd, canonical };
+  return { jobs: [...byUrl.values()], rawCount: postings.length, hasLd, canonical, unattributed, badUrls };
 }
 
 /** @type {Provider} */
@@ -261,6 +310,10 @@ export default {
     let requests = 0;
     /** @type {string[]} */
     const truncated = [];
+    let unattributed = 0;
+    let badUrls = 0;
+    /** @type {string[]} */
+    const stops = [];
 
     for (const keyword of keywords) {
       for (let page = 1; page <= maxPages; page++) {
@@ -274,15 +327,24 @@ export default {
         } catch (err) {
           // One page past the last, the board 302s back to /jobs/: the end of
           // this keyword, not a failure. On page 1 a redirect is a real problem.
-          if (page > 1 && !probing && isRefusedRedirectError(err)) break;
+          // A challenge redirects too, so the stop is reported, not silent.
+          if (page > 1 && !probing && isRefusedRedirectError(err)) {
+            stops.push(`${keyword || '(all)'} page ${page}: redirect (end of board, or a challenge)`);
+            break;
+          }
           throw err;
         }
-        const { jobs: parsed, rawCount, hasLd, canonical } = parseListingPage(html);
+        const { jobs: parsed, rawCount, hasLd, canonical, unattributed: noEmployer, badUrls: bad } = parseListingPage(html);
 
-        if (page === 1) {
-          if (!canonical.startsWith(`${ORIGIN}/jobs/`)) {
+        if (!canonical.startsWith(`${ORIGIN}/jobs/`)) {
+          if (page === 1) {
             throw new Error(`djinni: ${url} is not a Djinni job listing (no /jobs/ canonical link) — blocked or the page changed`);
           }
+          // Mid-walk: keep what was read, but never pass a challenge off as the end.
+          stops.push(`${keyword || '(all)'} page ${page}: unrecognised page (no /jobs/ canonical link)`);
+          break;
+        }
+        if (page === 1) {
           if (keyword && canonical === `${ORIGIN}/jobs/`) {
             throw new Error(`djinni: "${keyword}" is not a Djinni category — the board served its unfiltered listing instead. Use a name from https://djinni.co/jobs/rss/ (e.g. "DevOps")`);
           }
@@ -294,7 +356,9 @@ export default {
           }
           break; // an empty category, or the walk ran dry
         }
-        if (parsed.length === 0) {
+        unattributed += noEmployer;
+        badUrls += bad;
+        if (parsed.length === 0 && noEmployer === 0) {
           throw new Error(`djinni: ${url} returned ${rawCount} JobPosting objects but none carried a valid title and posting URL — the JSON-LD changed`);
         }
         for (const job of parsed) {
@@ -308,8 +372,19 @@ export default {
       }
     }
 
+    if (unattributed) {
+      console.warn(`djinni: dropped ${unattributed} posting(s) with no identifiable employer (absent or placeholder name)`);
+    }
+    if (badUrls) {
+      console.warn(`djinni: skipped ${badUrls} posting(s) whose url is not a djinni.co /jobs/{id}-{slug}/ link`);
+    }
+    if (stops.length) {
+      console.warn(`djinni: walk ended early, kept what was collected — ${stops.join('; ')}`);
+    }
     if (truncated.length) {
-      console.warn(`djinni: stopped at max_pages=${maxPages} for "${truncated.join('", "')}" with more results available — raise max_pages on this entry`);
+      console.warn(entryMax === MAX_PAGES_CAP
+        ? `djinni: reached the ${MAX_PAGES_CAP}-page cap for "${truncated.join('", "')}" with more results available — narrow the entry with searchKeywords`
+        : `djinni: stopped at max_pages=${maxPages} for "${truncated.join('", "')}" with more results available — raise max_pages on this entry`);
     }
     return jobs;
   },

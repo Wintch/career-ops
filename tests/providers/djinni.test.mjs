@@ -127,33 +127,50 @@ try {
   {
     const page = PAGE([
       POSTING(1, { title: 'Back &amp; Front   Dev', baseSalary: monthly }),
-      POSTING(2, { hiringOrganization: undefined, description: undefined, datePosted: undefined, jobLocationType: undefined, applicantLocationRequirements: undefined }),
+      POSTING(2, { description: undefined, datePosted: undefined, jobLocationType: undefined, applicantLocationRequirements: undefined }),
+      POSTING(7, { hiringOrganization: undefined }),
+      POSTING(8, { hiringOrganization: 'Confidential' }),
+      POSTING(9, { hiringOrganization: { name: 'Конфіденційно' } }),
+      POSTING(10, { hiringOrganization: { name: '  ' } }),
+      POSTING(11, { hiringOrganization: 'Stringco' }),
+      POSTING(12, { url: 'https://djinni.co/jobs/800012-Senior_Dev%C3%A9loper/?utm=x#top' }),
       POSTING(3, { url: 'https://evil.example/jobs/800003-x/' }),
       POSTING(4, { url: 'https://djinni.co/jobs/../admin/' }),
       POSTING(5, { title: '   ' }),
       POSTING(1, { title: 'duplicate' }),
       { '@type': 'Organization', name: 'not a posting' },
     ]);
-    const { jobs, rawCount, hasLd, canonical } = parseListingPage(page);
-    if (rawCount === 6 && jobs.length === 2 && hasLd && canonical === CANON_DEVOPS) {
-      pass('parseListingPage(): rawCount counts the JobPosting objects the source returned (6); hostile URLs, blank titles and repeats dropped (2 kept)');
+    const { jobs, rawCount, hasLd, canonical, unattributed } = parseListingPage(page);
+    if (rawCount === 12 && jobs.length === 4 && unattributed === 4 && hasLd && canonical === CANON_DEVOPS) {
+      pass('parseListingPage(): rawCount counts the JobPosting objects the source returned (12); hostile URLs, blank titles, repeats and employer-less/placeholder postings dropped (4 kept)');
     } else {
       fail(`parse counts drift: raw ${rawCount}, kept ${jobs.length}, ld ${hasLd}, canonical ${canonical}`);
     }
     const a = jobs[0];
     if (a && a.title === 'Back & Front Dev' && a.url === 'https://djinni.co/jobs/800001-senior-devops-engineer-1/'
-        && a.company === 'Acme' && a.location === 'Remote (Europe)' && a.description === 'We are looking for a DevOps engineer 1.\nAWS, Terraform.'
+        && a.company === 'Acme' && a.location === 'Remote (Europe)' && a.description === 'We are looking for a DevOps engineer 1. AWS, Terraform.'
         && a.postedAt === Date.UTC(2026, 9, 10, 15, 55, 42, 429) && a.salary?.min === 66000 && a.externalId === '800001') {
       pass('parseListingPage(): title decoded before any keyword match, posting URL, employer, location, description, postedAt, annual salary, externalId');
     } else {
       fail(`first posting drift: ${JSON.stringify(a)}`);
     }
     const b = jobs[1];
-    if (b && b.company === '' && b.location === '' && !('description' in b) && !('postedAt' in b) && !('salary' in b)) {
-      pass('parseListingPage(): a posting with no employer/location/date/description leaves them empty, never borrowed');
+    if (jobs[2]?.company === 'Stringco' && jobs[3]?.url === 'https://djinni.co/jobs/800012-Senior_Dev%C3%A9loper/') {
+      pass('parseListingPage(): string-form hiringOrganization read; mixed-case/underscore/percent slugs kept, query and hash stripped');
+    } else {
+      fail(`string org / slug drift: ${JSON.stringify(jobs.slice(2))}`);
+    }
+    if (b && b.company === 'Acme' && b.location === '' && !('description' in b) && !('postedAt' in b) && !('salary' in b)) {
+      pass('parseListingPage(): a posting with no location/date/description leaves them empty, never borrowed');
     } else {
       fail(`minimal posting drift: ${JSON.stringify(b)}`);
     }
+  }
+  if (parseListingPage(`<link href="${CANON_DEVOPS}" rel="canonical">`).canonical === CANON_DEVOPS
+      && parseListingPage(PAGE([POSTING(1, { description: '<p>Hello <b>world</b></p>' })])).jobs[0].description === 'Hello world') {
+    pass('parseListingPage(): href-before-rel canonical accepted; description HTML reduced to text');
+  } else {
+    fail('canonical attribute order / description text drift');
   }
   if (parseListingPage('').rawCount === 0 && parseListingPage(undefined).jobs.length === 0
       && parseListingPage('<script type="application/ld+json">{not json</script>').hasLd === false) {
@@ -300,6 +317,43 @@ try {
       pass('fetch() throws on a block page instead of reporting no postings');
     } else {
       fail('a block page must surface as an error');
+    }
+  }
+
+  // Contract: 429 / 5xx on page 2 is a failure, not an end.
+  for (const status of [429, 503]) {
+    const err = Object.assign(new Error(`HTTP ${status}`), { status });
+    let caught = null;
+    try { await provider.fetch(ENTRY, mkCtx({ [U(1)]: fullPage(100), [U(2)]: err }, [])); } catch (e) { caught = e; }
+    if (caught === err) pass(`fetch(): HTTP ${status} on page 2 propagates`);
+    else fail(`HTTP ${status} on page 2 swallowed: ${caught && caught.message}`);
+  }
+
+  // Mid-walk challenge: partial result kept, loudly.
+  {
+    const origWarn = console.warn;
+    const warns = [];
+    console.warn = (...a) => warns.push(a.join(' '));
+    try {
+      const out = await provider.fetch(ENTRY, mkCtx({ [U(1)]: fullPage(100), [U(2)]: '<html><title>Just a moment...</title></html>' }, []));
+      if (out.length === 15 && warns.some((w) => /unrecognised page/.test(w))) pass('fetch(): a challenge page mid-walk keeps page 1 and warns');
+      else fail(`mid-walk challenge: ${out.length} jobs, warns ${JSON.stringify(warns)}`);
+      warns.length = 0;
+      await provider.fetch(ENTRY, mkCtx({ [U(1)]: fullPage(100) }, []));
+      if (warns.some((w) => /redirect/.test(w))) pass('fetch(): a walk ending on a refused redirect warns');
+      else fail('redirect stop must warn');
+      warns.length = 0;
+      const mixed = PAGE([POSTING(1), POSTING(2, { hiringOrganization: 'Confidential' }), POSTING(3, { hiringOrganization: undefined })]);
+      const kept = await provider.fetch(ENTRY, mkCtx({ [U(1)]: mixed }, []));
+      if (kept.length === 1 && warns.filter((w) => /no identifiable employer/.test(w)).length === 1 && /dropped 2/.test(warns[0])) pass('fetch(): employer-less and placeholder postings dropped, one warning with the count');
+      else fail(`unattributed drop: ${kept.length} kept, warns ${JSON.stringify(warns)}`);
+      warns.length = 0;
+      const endless = { sleep: async () => {}, fetchText: async (url) => fullPage(Number(new URL(url).searchParams.get('page') || '1') * 1000) };
+      await provider.fetch({ ...ENTRY, max_pages: 999 }, endless);
+      if (warns.some((w) => /40-page cap/.test(w) && /searchKeywords/.test(w) && !/raise max_pages/.test(w))) pass('fetch(): at the hard cap the warning says so and suggests searchKeywords');
+      else fail(`cap warning drift: ${JSON.stringify(warns)}`);
+    } finally {
+      console.warn = origWarn;
     }
   }
 
