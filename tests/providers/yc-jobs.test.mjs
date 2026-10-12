@@ -115,11 +115,26 @@ try {
   else fail('parseRelativeAgeMs must return null for unrecognised phrases');
 
   // Degenerate inputs never throw and never invent postings.
-  const empties = [parseYcJobsPage('', 'X'), parseYcJobsPage('<html></html>', 'X'),
-    parseYcJobsPage('<div data-page="{not json"></div>', 'X'),
-    parseYcJobsPage('<div data-page="{}"></div>', 'X'), parseYcJobsPage(null, 'X')];
-  if (empties.every((r) => Array.isArray(r) && r.length === 0)) pass('parseYcJobsPage returns [] for empty, malformed or posting-less pages');
-  else fail('parseYcJobsPage must return [] for empty/malformed/posting-less input');
+  const throwing = ['', '<html></html>', '<div data-page="{not json"></div>', '<div data-page="{}"></div>', null,
+    '<div data-page="{&quot;props&quot;:{&quot;jobPostings&quot;:&quot;x&quot;}}"></div>'];
+  const allThrow = throwing.every((h) => { try { parseYcJobsPage(h, 'X'); return false; } catch { return true; } });
+  if (allThrow) pass('parseYcJobsPage throws for empty, malformed or posting-less pages');
+  else fail('parseYcJobsPage must throw for empty/malformed/posting-less input');
+  const emptyBoard = parseYcJobsPage('<div data-page="{&quot;props&quot;:{&quot;jobPostings&quot;:[]}}"></div>', 'X');
+  if (Array.isArray(emptyBoard) && emptyBoard.length === 0) pass('a present empty jobPostings array is a genuinely empty board ([])');
+  else fail('an empty jobPostings array must yield []');
+  const second = parseYcJobsPage('<div data-page="{}"></div><section data-page="{&quot;props&quot;:{&quot;jobPostings&quot;:[{&quot;title&quot;:&quot;A&quot;,&quot;url&quot;:&quot;/companies/x/jobs/abc-a&quot;}]}}"></section>', 'X');
+  if (second.length === 1) pass('the first data-page whose JSON has jobPostings wins, not the first attribute');
+  else fail('later data-page attributes must be tried');
+
+  const seenOpts = [];
+  const got = await ycJobs.fetch({ name: 'Cyble', careers_url: 'https://www.workatastartup.com/companies/cyble' },
+    { fetchText: async (u, o) => { seenOpts.push(o); return '<div data-page="{&quot;props&quot;:{&quot;jobPostings&quot;:[]}}"></div>'; } });
+  if (got.length === 0 && seenOpts[0]?.redirect === 'error') pass('fetch() passes redirect:"error"');
+  else fail('fetch() must pass redirect:"error"');
+  let fetchThrew = false;
+  try { await ycJobs.fetch({ name: 'Cyble', careers_url: 'https://www.workatastartup.com/companies/cyble' }, { fetchText: async () => '<html>login</html>' }); } catch { fetchThrew = true; }
+  if (fetchThrew) pass('fetch() throws when the data-page payload is missing'); else fail('fetch() must throw on a page without the payload');
 } catch (e) {
   fail(`yc-jobs provider tests threw: ${e.message}`);
 }
