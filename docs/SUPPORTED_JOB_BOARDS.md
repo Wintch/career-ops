@@ -198,6 +198,10 @@ future evaluation doesn't repeat the same investigation from scratch.
 | Mandy, Mediabistro (media / crew) | 403 Cloudflare block and 405 "Human Verification". | 2026-10-11 |
 | EntertainmentCareers.net | Candidates pay for early access ("Members see new listings before they reach the general public"), which fails the no-paywall bar. | 2026-10-11 |
 | Streaming Media, SVTA | No job board: `/Jobs` and `/careers/` return 404. Streaming employers are reachable through their own ATS boards. | 2026-10-11 |
+| Catho (Brazil) | Listing pages are readable, but candidates are pushed to a paid subscription tier, which fails the no-paywall bar (rule 1). | 2026-10-11 |
+| Trabajando.com (Chile) | Offers candidates a paid "premium" tier (rule 1), and the listing is a client-rendered shell over an API that was not identified. | 2026-10-11 |
+| BroadcastJobs.com, Youthall | `robots.txt` has a group naming Claude's crawler that disallows the job paths (same precedent as TopDev). | 2026-10-11 |
+| EPAM careers | `robots.txt` disallows `/api`, `?query` and `?page`, which covers every path a provider would need. | 2026-10-11 |
 
 The rows dated 2026-10-11 come from one survey of national, relocation, public-sector
 and niche boards. Every source was probed with the scanner's own client and declared
