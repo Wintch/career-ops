@@ -345,6 +345,28 @@ try {
   } else {
     fail(`two-letter site drift: ${cxs('https://acme.wd12.myworkdayjobs.com/us/job/Remote/Engineer_JR1')}`);
   }
+  // Only known language codes count as a bare locale, so a two-letter site with
+  // a sub-page keeps its name too.
+  for (const [path, site] of [['/us/login', 'us'], ['/us/details/X_JR1', 'us'], ['/it/Careers', 'it'], ['/es/job/X_JR1', 'es'], ['/de/External', 'External']]) {
+    const got = cxs(`https://acme.wd12.myworkdayjobs.com${path}`);
+    if (got === `https://acme.wd12.myworkdayjobs.com/wday/cxs/acme/${site}/jobs`) pass(`workday.detect() reads ${path} as site ${site}`);
+    else fail(`workday.detect(${path}) → ${got}`);
+  }
+  // The other Workday URL readers share the rule, so a bare-locale posting
+  // seeds and resolves the same board the provider reads.
+  {
+    const { atsBoardUrlOf } = await import(pathToFileURL(join(ROOT, 'history-ats-seeds.mjs')).href);
+    const { resolveAtsApi } = await import(pathToFileURL(join(ROOT, 'liveness-api.mjs')).href);
+    const posting = 'https://rappi.wd12.myworkdayjobs.com/es/Rappi_jobs/job/Bogota/Eng_R1';
+    const seed = atsBoardUrlOf(posting);
+    const api = resolveAtsApi(posting)?.apiUrl;
+    if (seed === 'https://rappi.wd12.myworkdayjobs.com/Rappi_jobs'
+        && api === 'https://rappi.wd12.myworkdayjobs.com/wday/cxs/rappi/Rappi_jobs/job/Bogota/Eng_R1') {
+      pass('history-ats-seeds and liveness-api skip a bare-language locale the same way');
+    } else {
+      fail(`sibling readers drift: seed=${seed} api=${api}`);
+    }
+  }
 
   // myworkdaysite.com — same product, tenant in the path (/recruiting/{tenant}/{site}).
   const hitSite = workday.detect({ name: 'Guidewire', careers_url: 'https://wd5.myworkdaysite.com/recruiting/guidewire/external' });

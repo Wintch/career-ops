@@ -41,7 +41,7 @@ import { makeHttpCtx, isRefusedRedirectError } from './providers/_http.mjs';
 import greenhouse from './providers/greenhouse.mjs';
 import ashby from './providers/ashby.mjs';
 import lever from './providers/lever.mjs';
-import workday from './providers/workday.mjs';
+import workday, { WORKDAY_CAREERS_RE } from './providers/workday.mjs';
 import workable from './providers/workable.mjs';
 import smartrecruiters from './providers/smartrecruiters.mjs';
 import recruitee from './providers/recruitee.mjs';
@@ -359,7 +359,7 @@ export function parseWorkdayHint(company) {
     // these coordinates rebuild a careers URL host-first (buildWorkdayCandidates),
     // and the host is what has to stay reachable.
     const m = cxs
-      || raw.match(/^https?:\/\/([\w-]+)\.(wd[\w-]*)\.myworkdayjobs\.com\/(?:[a-z]{2}-[A-Z]{2}\/)?([^/?#]+)/);
+      || raw.match(WORKDAY_CAREERS_RE);
     if (!m) continue;
     const [, tenant, instance, site] = m;
     if (clean(tenant) && clean(instance) && clean(site)) {

@@ -1,6 +1,7 @@
 import { existsSync, readFileSync, readdirSync } from 'fs';
 import path from 'path';
 import { atsVendorOf } from './ats-vendor.mjs';
+import { stripWorkdayLocale } from './providers/workday.mjs';
 import { parseScanHistoryLine } from './lib/scan-history-columns.mjs';
 import { detectColumns, extractCellUrl, extractTrackerReportNumbers, isHeaderRow, isSeparatorRow } from './tracker-parse.mjs';
 import { getCareerOpsRoot, resolveTrackerPath } from './path-resolver.mjs';
@@ -35,7 +36,7 @@ export function atsBoardUrlOf(rawUrl, vendor = atsVendorOf(rawUrl)) {
   } else if (vendor === 'lever' || vendor === 'ashby' || vendor === 'smartrecruiters') {
     if (parts[0]) u.pathname = `/${parts[0]}`;
   } else if (vendor === 'workday') {
-    const withoutLocale = /^[a-z]{2}-[A-Z]{2}$/.test(parts[0] || '') ? parts.slice(1) : parts;
+    const withoutLocale = stripWorkdayLocale(parts);
     if (withoutLocale[0]) u.pathname = `/${withoutLocale[0]}`;
   } else if (vendor === 'successfactors') {
     const endpointAt = parts.findIndex((part) => /^(?:job|search|tile-search-results|services)$/i.test(part));
