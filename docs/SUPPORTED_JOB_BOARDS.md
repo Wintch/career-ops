@@ -202,7 +202,9 @@ future evaluation doesn't repeat the same investigation from scratch.
 The rows dated 2026-10-11 come from one survey of national, relocation, public-sector
 and niche boards. Every source was probed with the scanner's own client and declared
 User-Agent (`DEFAULT_USER_AGENT`), a few requests per host at least one second apart,
-with no logins and no attempt to get past a challenge. The probes ran from an
+with no logins and no attempt to get past a challenge. The one exception is a
+single diagnostic request with a browser User-Agent, recorded in the UK Find a job
+row; no content was read with it. The probes ran from an
 Argentine network. A few sources timed out or failed TLS from there (Hipo.ro,
 Profession.hu, Naukrigulf, Workforce Australia, TVJobs, SMPTE careers, and the public
 services of Brazil, Colombia, Uruguay, Peru, Spain, Slovenia and New Zealand); they
