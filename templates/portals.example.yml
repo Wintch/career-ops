@@ -1097,24 +1097,27 @@ search_queries:
   #   enabled: true
 
   # -- Argentina job portals --
-  # WebSearch queries for Argentina's main local job boards (no public ATS APIs).
-  # [CUSTOMIZE] Replace keywords with your target roles.
+  # WebSearch queries for Argentina's main local job boards. Disabled by default,
+  # like the other regional blocks: each one costs agent tokens on every scan.
+  # Where a zero-token reader exists for a board, prefer it over its query.
+  # LinkedIn results are aggregator listings: confirm each role at the employer.
+  # [CUSTOMIZE] Replace keywords with your target roles, then enable.
 
   - name: Computrabajo — Argentina Tech
     query: 'site:ar.computrabajo.com "AI Engineer" OR "DevOps" OR "Backend Developer" OR "Full Stack" OR "Software Engineer"'
-    enabled: true
+    enabled: false
 
   - name: Bumeran — Argentina Tech
     query: 'site:bumeran.com.ar "AI Engineer" OR "DevOps" OR "Backend Developer" OR "Full Stack" OR "Software Engineer"'
-    enabled: true
+    enabled: false
 
   - name: ZonaJobs — Argentina Tech
     query: 'site:zonajobs.com.ar "DevOps" OR "Backend Developer" OR "Full Stack" OR "Software Engineer"'
-    enabled: true
+    enabled: false
 
   - name: LinkedIn — Argentina Tech Roles
     query: 'site:linkedin.com/jobs "Software Engineer" OR "DevOps Engineer" OR "Backend Developer" Argentina OR "Buenos Aires" OR remoto'
-    enabled: true
+    enabled: false
 
   # -- Türkiye / Turkey job portals --
   # WebSearch queries for Turkish job boards (no public ATS APIs).
