@@ -23,12 +23,12 @@ const VACANCY = (n, over = {}) => ({
   tags: [{ id: 'remote', name: 'Remote/Office' }],
   ...over,
 });
-const PAGE = (vacancies, page = 1) => ({
+const PAGE = (vacancies, page = 1, meta = {}) => ({
   data: { vacancies, filters: { en: { filters: { locations: [] } } } },
   links: {},
-  meta: { current_page: page, per_page: 12, total: 177, last_page: 15 },
+  meta: { current_page: page, per_page: 12, total: 177, last_page: 15, ...meta },
 });
-const fullPage = (start, size = 12, page = 1) => PAGE(Array.from({ length: size }, (_, i) => VACANCY(start + i)), page);
+const fullPage = (start, size = 12, page = 1, meta = {}) => PAGE(Array.from({ length: size }, (_, i) => VACANCY(start + i)), page, meta);
 const API = (page) => `https://career.softserveinc.com/api/frontend/vacancies?page=${page}`;
 
 try {
@@ -69,8 +69,10 @@ try {
       VACANCY(5, { urlSegment: 'bad-\uD800-segment' }),
       null,
       VACANCY(6, { urlSegment: 'a/b?c' }),
+      VACANCY(7, { urlSegment: '..' }),
+      VACANCY(8, { urlSegment: ' . ' }),
     ]));
-    if (rawCount === 7 && jobs.length === 3) pass('parseVacanciesPage(): rawCount is what the source returned (7); rows with no title, no slug or a lone-surrogate slug dropped (3 kept)');
+    if (rawCount === 9 && jobs.length === 3) pass('parseVacanciesPage(): rawCount is what the source returned (9); rows with no title, no slug, a dot-segment slug (. or ..) or a lone-surrogate slug dropped (3 kept)');
     else fail(`parse counts drift: raw ${rawCount}, kept ${jobs.length}`);
     const [a, b, c] = jobs;
     if (a?.title === 'Lead Data Engineer' && a.url === 'https://career.softserveinc.com/en-us/vacancies/senior-devops-engineer-90001'
@@ -133,7 +135,7 @@ try {
     console.warn = (...args) => warns.push(args.join(' '));
     try {
       const seen = [];
-      const endless = { sleep: async () => {}, fetchJson: async (url) => { seen.push(url); const p = Number(new URL(url).searchParams.get('page')); return fullPage(p * 100); } };
+      const endless = { sleep: async () => {}, fetchJson: async (url) => { seen.push(url); const p = Number(new URL(url).searchParams.get('page')); return fullPage(p * 100, 12, p, { last_page: 500 }); } };
       await provider.fetch({}, endless);
       const defaultStop = seen.length;
       const warned = warns.some((w) => /raise max_pages/.test(w));
@@ -147,6 +149,34 @@ try {
       await provider.fetch({}, { ...endless, maxPages: 1 });
       if (!warns.some((w) => /raise max_pages/.test(w))) pass('fetch() does not warn about max_pages when a probe cap stopped it');
       else fail('a probe cap must not read as truncation');
+    } finally {
+      console.warn = origWarn;
+    }
+  }
+  {
+    // meta.last_page ends the walk at an exact boundary, with no truncation warning.
+    const origWarn = console.warn;
+    const warns = [];
+    console.warn = (...args) => warns.push(args.join(' '));
+    try {
+      const seen = [];
+      const m = { last_page: 2 };
+      const out = await provider.fetch({ max_pages: 2 }, mkCtx({ [API(1)]: fullPage(0, 12, 1, m), [API(2)]: fullPage(100, 12, 2, m), [API(3)]: fullPage(200) }, seen));
+      if (out.length === 24 && seen.length === 2 && warns.length === 0) pass('fetch(): meta.last_page ends the walk at an exact boundary without a max_pages warning');
+      else fail(`last_page boundary drift: ${out.length} jobs, ${seen.length} requests, warns ${JSON.stringify(warns)}`);
+      seen.length = 0;
+      const out2 = await provider.fetch({}, mkCtx({ [API(1)]: fullPage(0, 12, 1, { last_page: 1 }), [API(2)]: fullPage(100) }, seen));
+      if (out2.length === 12 && seen.length === 1) pass('fetch(): last_page 1 stops after page 1 even on a full page');
+      else fail(`last_page 1 drift: ${seen.length} requests`);
+      seen.length = 0;
+      const out3 = await provider.fetch({}, mkCtx({ [API(1)]: fullPage(0, 5, 1, { per_page: 5, last_page: 3 }), [API(2)]: fullPage(100, 5, 2, { per_page: 5, last_page: 3 }), [API(3)]: fullPage(200, 3, 3, { per_page: 5, last_page: 3 }) }, seen));
+      if (out3.length === 13 && seen.length === 3) pass('fetch(): meta.per_page drives the short-page test (5/page, not a hard-coded 12)');
+      else fail(`per_page drift: ${out3.length} jobs, ${seen.length} requests`);
+      warns.length = 0;
+      seen.length = 0;
+      await provider.fetch({ max_pages: 1 }, mkCtx({ [API(1)]: fullPage(0, 12, 1, { last_page: 5 }) }, seen));
+      if (warns.some((w) => /raise max_pages/.test(w))) pass('fetch(): max_pages warning still fires when page < meta.last_page');
+      else fail('truncation before last_page must warn');
     } finally {
       console.warn = origWarn;
     }

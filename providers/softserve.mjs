@@ -12,9 +12,9 @@
 // `detect()` claims any `https://career.softserveinc.com/...` URL, whatever
 // country or language page it points at; the path is discarded. The API has no
 // country parameter the provider needs: the whole global inventory is ~15 pages
-// of 12, so it is walked in full and the scanner's `location_filter` narrows
-// it (Ukraine, Poland, Bulgaria, Romania, Germany, Spain, UK, UAE, USA,
-// Mexico, Colombia and Chile were listed on 2026-10-11).
+// of 12 and is walked in full. All countries are returned (Ukraine, Poland,
+// Bulgaria, Romania, Germany, Spain, UK, UAE, USA, Mexico, Colombia and Chile
+// were listed on 2026-10-11); the location column shows the country.
 //
 // SOURCE CHECK (measured 2026-10-11, with the scanner's declared User-Agent):
 //   - `GET /api/frontend/vacancies?page=N` answers JSON with no auth:
@@ -24,13 +24,20 @@
 //   - each vacancy carries id, urlSegment, name, city ("Colombia; Chile"),
 //     direction, level and tags — no date and no description;
 //   - the posting page is `/en-us/vacancies/{urlSegment}` (200, server-rendered);
-//   - robots.txt disallows login/registration/oauth paths, `*/q-` and
-//     `*/query` — neither the API path nor the posting pages.
+//   - robots.txt, re-checked 2026-10-12 with the scanner's DEFAULT_USER_AGENT:
+//     only a `User-agent: *` group exists; no group names ClaudeBot,
+//     anthropic-ai, Claude-Web or Claude-User — result: allowed. It
+//     disallows */login*, */linkedin*, */?admin*, */recovery, */registration*,
+//     */successful*, */set/*, */oauth/*, */q-, */query and
+//     */_Incapsula_Resource* — neither the API path nor the posting pages;
+//   - termination follows `meta.last_page` / `meta.per_page` when present,
+//     falling back to a 12-row short page.
 
 import { fetchJsonWithRetry, sleep } from './_http.mjs';
 import { safeEncodeURIComponent } from './_safe-url.mjs';
 
 const ORIGIN = 'https://career.softserveinc.com';
+/** Fallback page size when `meta.per_page` is absent. */
 const PAGE_SIZE = 12;
 const DEFAULT_MAX_PAGES = 30;
 /** Hard ceiling on a configured `max_pages` — independent of what the source reports. */
@@ -79,7 +86,7 @@ export function parseVacanciesPage(json) {
     if (!v || typeof v !== 'object') continue;
     const title = str(v.name);
     const segment = typeof v.urlSegment === 'string' && v.urlSegment.trim() ? safeEncodeURIComponent(v.urlSegment.trim()) : null;
-    if (!title || !segment) continue;
+    if (!title || !segment || /^\.+$/.test(v.urlSegment.trim())) continue;
     const city = str(v.city).split(/\s*;\s*/).filter(Boolean).join(', ');
     const tags = Array.isArray(v.tags) ? v.tags.map((/** @type {any} */ t) => str(t?.name)).filter(Boolean) : [];
     const id = typeof v.id === 'number' || typeof v.id === 'string' ? String(v.id) : '';
@@ -115,6 +122,8 @@ export default {
     const jobs = [];
     const seen = new Set();
     let stopReason = 'complete';
+    /** @param {any} v */
+    const posInt = (v) => (Number.isInteger(v) && v > 0 ? v : 0);
 
     for (let page = 1; page <= maxPages; page++) {
       if (page > 1) await sleep(INTER_PAGE_DELAY_MS, ctx);
@@ -128,13 +137,19 @@ export default {
         seen.add(job.url);
         jobs.push(job);
       }
-      // Short or empty page = the source's own end (raw count, never the filtered one).
-      if (rawCount < PAGE_SIZE) break;
+      // The source's own end: an empty or short page (raw count, never the
+      // filtered one), or meta.last_page reached.
+      const perPage = posInt(json?.meta?.per_page) || PAGE_SIZE;
+      const lastPage = posInt(json?.meta?.last_page);
+      if (rawCount === 0 || rawCount < perPage) break;
+      if (lastPage && page >= lastPage) break;
       if (page === maxPages) stopReason = probing ? 'probe' : 'cap';
     }
 
     if (stopReason === 'cap') {
-      console.warn(`softserve: stopped at max_pages=${maxPages} with more vacancies available — raise max_pages on this entry`);
+      console.warn(entryMax === MAX_PAGES_CAP
+        ? `softserve: reached the ${MAX_PAGES_CAP}-page cap with more vacancies available — the source is larger than this provider reads`
+        : `softserve: stopped at max_pages=${maxPages} with more vacancies available — raise max_pages on this entry`);
     }
     return jobs;
   },

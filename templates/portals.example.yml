@@ -1530,7 +1530,7 @@ search_queries:
 #   careers_url: https://career.softserveinc.com/en-us/vacancies   # any country/language page auto-detects
 #   provider: softserve                   # optional — career.softserveinc.com host also auto-detects
 #   max_pages: 30                         # optional page cap (12 vacancies/page, default 30, max 60)
-#   enabled: true                         # whole global inventory; narrow it with location_filter
+#   enabled: true                         # whole global inventory; all countries returned, location column shows the country
 #
 # - name: OHB                             # Cornerstone OnDemand (csod) branded site
 #   careers_url: https://career-ohb.csod.com/ux/ats/careersite/4/home?c=career-ohb
@@ -2918,9 +2918,9 @@ tracked_companies:
   # -- Ukraine / CEE IT services --
 
   - name: SoftServe
-    careers_url: https://career.softserveinc.com/en-us/vacancies/country-ukraine
+    careers_url: https://career.softserveinc.com/en-us/vacancies
     enabled: false
-    notes: "Ukraine HQ; also hires in PL, BG, RO, DE, ES, UK, UAE, US, MX, CO, CL. Whole global list is scanned — narrow with location_filter."
+    notes: "Ukraine HQ; also hires in PL, BG, RO, DE, ES, UK, UAE, US, MX, CO, CL. The whole global list is scanned; all countries are returned and the location column shows the country."
 
   # -- Africa (employers on already-supported ATS) --
   #
