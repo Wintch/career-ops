@@ -1,7 +1,7 @@
 # Fork notes
 
 This fork of career-ops aims to be a general job-search tool: more countries, more
-boards, and non-tech boards (castings, games). Nothing personal lives in git: CV,
+boards, and non-tech boards (games). Nothing personal lives in git: CV,
 profile, `portals.yml`, `data/`, `reports/` and `output/` stay in the gitignored user
 layer (see `DATA_CONTRACT.md`).
 
@@ -26,15 +26,14 @@ model avoids.
 the branch that runs locally and that the Hermes deployment syncs. Never edit it by
 hand: change the topic branch, then merge it in again or rebuild `integration`.
 
-`fork/main` mirrors `origin/main`.
+`fork/main` mirrors `origin/main`; push it at every resync (it lags otherwise).
 
-### Current branches (2026-10-11)
+### Current branches (2026-10-12)
 
 | Branch | Content |
 | --- | --- |
 | `feat/plata-portal` | Plata (Mexico fintech) in the example tracked companies |
 | `feat/computrabajo-provider` | Computrabajo provider, one site per Latin American country |
-| `feat/alternativateatral-provider` | Alternativa Teatral castings provider and `casting-detail.mjs` |
 | `feat/navent-scanner` | `scan-navent.mjs`, Playwright scanner for Bumeran and ZonaJobs |
 | `feat/argentina-portals-example` | Argentina job portals in the example config |
 | `feat/contacto-public-post` | Public "looking for work" post variant of `contacto` |
@@ -50,7 +49,6 @@ hand: change the topic branch, then merge it in again or rebuild `integration`.
 | `docs/openqube-latam` | Points `deep` and `oferta` at openqube.io for LatAm employers |
 | `docs/ukraine-sources-evaluated` | Ukrainian and Russian boards evaluated and not supported |
 | `docs/sources-evaluated-2026-10` | The 2026-10-11 survey's unsupported boards (stacked on `docs/ukraine-sources-evaluated`) |
-| `local/art-boards-scan` | `art-boards-scan.mjs` (ArtStation, Games Workshop, games boards) |
 | `local/fork-notes` | This file |
 
 Retired on 2026-10-11 and deleted from the fork, kept only as local branches:
@@ -58,14 +56,26 @@ Retired on 2026-10-11 and deleted from the fork, kept only as local branches:
 `fix/gitignore-agent-inbox` (upstream already ignores `data/agent-inbox.md`). The
 local-only `backup/pre-reorg-2026-10-11` holds the state before the split.
 
+Dropped on 2026-10-12 after the code review, deleted from the fork and kept only as
+local branches: `feat/alternativateatral-provider` (its listing names no employer,
+so it fails rule 1) and `local/art-boards-scan` (it read two boards that refuse the
+declared client through a browser User-Agent, with no `robots.txt` check). The
+local `integration-pre-rebuild-20261012` holds `integration` as it was before.
+
 ### Resyncing with upstream
 
 1. `git fetch origin`.
 2. Rebase each topic branch onto `origin/main` in a separate worktree, so the main
    checkout and its ignored data stay where they are.
-3. Rebuild `integration` from `origin/main` with a `--no-ff` merge per topic.
+3. Rebuild `integration` from `origin/main` with a `--no-ff` merge per topic, in
+   the order of the table above (`docs/sources-evaluated-2026-10` after
+   `docs/ukraine-sources-evaluated`). Several branches add stanzas at the same spot
+   in `templates/portals.example.yml` and rows in `docs/SUPPORTED_JOB_BOARDS.md`;
+   those conflicts resolve by keeping both sides.
 4. Run the full `node test-all.mjs` on `integration`.
 5. Stage files by name and check that nothing personal is staged before any push.
+6. Push the topic branches, `fork/main`, and `integration` with
+   `--force-with-lease` (a rebuild rewrites it).
 
 ## Source backlog
 
@@ -79,7 +89,7 @@ supported".
 | Source | Region | Access path measured | Effort | Notes |
 | --- | --- | --- | --- | --- |
 | JobTech / Platsbanken | Sweden | `jobsearch.api.jobtechdev.se/search` (JSON, no key) | S | Employer name and the employer's apply URL; 78 "devops" hits |
-| SwissDevJobs + GermanTechJobs | CH / DE | `/api/jobsLight` on both hosts (whole inventory in one call) | S | Keep GermanTechJobs to `isPartner:false`: 810 of 901 are partner backfill |
+| SwissDevJobs + GermanTechJobs | CH / DE | `/api/jobsLight` on both hosts (whole inventory in one call) | S | Keep GermanTechJobs to `isPartner:false`: 810 of 901 are partner backfill. Whether that is enough under rule 5 is a maintainer question |
 | Prospective career-center | Switzerland | `ohws.prospective.ch/public/v1/medium/1000624/jobs` | S | Behind jobs.admin.ch; the same vendor also serves Swisscom, SRG and others |
 | jobs.ch + jobup.ch (JobCloud) | Switzerland | `/en/vacancies/?term=&page=N` (JSON-LD list) | S-M | One provider, two hosts |
 | CV.ee / CV.lv / CVonline.lt | Baltics | `/api/v1/vacancy-search-service/search` | S | One provider, three hosts; sort by date because of promoted listings |
@@ -97,8 +107,9 @@ Next:
   filter format still unknown), service.bund.de RSS (30 s crawl delay), HZZ Croatia
   RSS, Argentina Portal Empleo (tiny).
 - Latin America: GeekHunter, Hireline, Chiletrabajos, Programathor, Vagas.com.br, and
-  five more Navent sites in `scan-navent.mjs` `SITES` (Laborum, Konzerta,
-  Multitrabajos, Bumeran PE and MX; their search API is not yet tested).
+  five more Navent sites (Laborum, Konzerta,
+  Multitrabajos, Bumeran PE and MX) to add to `scan-navent.mjs` `SITES`, which has
+  only Bumeran and ZonaJobs today; their search API is not yet tested.
 - Niche: Golangprojects (RSS), GitJobs (CNCF, 19 jobs).
 - New ATS adapters: HiBob (used by Ualá), Darwinbox (used by Synamedia).
 
@@ -115,20 +126,19 @@ upstream issue before any code.
   feed.
 - **NAV feed API**: needs the token NAV publishes openly.
 - **HelloWorld.rs**: its footer forbids reusing content without permission.
-- **GermanTechJobs**: whether dropping the 90% partner backfill is enough.
 - **Reed**: mostly agency listings with the employer hidden.
 - **Elempleo**: about half the listings are "Empresa confidencial".
-- **Catho, Trabajando**: paid candidate tiers.
 - **Strider**: attribution not confirmed.
 - **DevOpsJobs.io**: applying goes through a registration page, and no employer URL is
   given.
-- **BroadcastJobs.com, Youthall**: `robots.txt` names Claude's crawler (the TopDev
-  precedent says no).
 - **Impactpool**: curated aggregator with a paid premium tier.
 - **Latvia NVA open data**: the employer appears only as a registration number.
 - **IamExpat, StartupJobs.cz**: the employer appears only on detail pages.
 - **ProductionBase, StaffMeUp**: subscription or weak attribution.
-- **EPAM**: `robots.txt` disallows `/api`, `?query` and `?page`.
+
+Stopped by this fork's own rules, recorded in "Evaluated, not supported": Catho and
+Trabajando (paid candidate tiers), BroadcastJobs.com and Youthall (`robots.txt`
+names Claude's crawler), EPAM (`robots.txt` disallows the paths a provider needs).
 
 ### Needs an API key
 
@@ -148,7 +158,7 @@ EuropeLanguageJobs.
 
 ### Employers not covered by a supported ATS
 
-Globant (custom site), Ualá (HiBob), EPAM (see above), BairesDev (Cloudflare
+Globant (custom site), Ualá (HiBob), EPAM (`robots.txt`), BairesDev (Cloudflare
 challenge, even on `robots.txt`), Akamai (careers link not found), Synamedia
 (Darwinbox), and Brightcove, Vimeo, Wowza, Haivision, Daily, Agora, Vidyard, Evertz,
 Ross, Telestream and Globo (no supported ATS link found).
