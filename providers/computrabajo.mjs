@@ -17,14 +17,24 @@
 // read — the path is discarded and rebuilt (`/trabajo-de-{keyword}[-en-{location}]`),
 // the board's own search-URL shape.
 //
+// Reading needs no login; APPLYING needs a free Computrabajo candidate account
+// (registration to apply). job.url is the board's own posting page — no
+// employer URL is exposed on the card.
+//
 // SOURCE CHECK (measured 2026-10-04, with the scanner's declared User-Agent):
 //   - listing pages are server-rendered over plain HTTPS: 20 postings per page
 //     in <article class="box_offer"> cards, no login, no JS, no challenge; page
 //     N is `?p=N` and the last page is short (38 results → 20 + 18);
-//   - robots.txt (`User-agent: *`) disallows the filter-parameter variants
-//     (`/ofertas-de-trabajo/*dis=`, `*pubdate=`, `*sal=` …), `/hojas-de-vida/`,
-//     `/curriculums/`, `/Ajax/`, `/_services/`, `/go/` and the print view. None
-//     is requested here: only `/trabajo-de-{keyword}[-en-{location}]` and `?p=N`;
+//   - robots.txt (re-measured 2026-10-12 with the scanner's DEFAULT_USER_AGENT;
+//     identical 874-byte file on ar. and mx., and on all 18 hosts on 2026-10-11).
+//     Groups checked: only `User-agent: *` exists; NO group names ClaudeBot,
+//     anthropic-ai, Claude-Web or Claude-User. Result: no AI-crawler block, and
+//     the `*` group applies. It disallows `/hojas-de-vida/*`, `/curriculums/*`,
+//     `/ofertas-de-trabajo/*{dis,cont,pubdate,sal,by,emp,emcont,emsal,empubdate,
+//     ememsal,emdis,emq,ememq,ememcont,emempubdate}=`, `/empresas/*{city,cat,
+//     prov,t}=`, `/ofertas-de-trabajo/Detail/Print.aspx`, `/Ajax/*`,
+//     `/_services/*` and `/go/*`. None is requested here: only
+//     `/trabajo-de-{keyword}[-en-{location}]` and `?p=N`;
 //   - 18 country hosts answered with real listings (the list below);
 //   - the card carries employer, location, a relative "posted" label, and
 //     optionally salary text and work modality.
@@ -36,7 +46,14 @@
 // board's own "no hay ofertas" notice → [] (a quiet query); a result-count
 // heading or posting links but no cards parsed → THROW (markup changed); not a
 // Computrabajo page at all (block / error page) → THROW. A broken parser must
-// not read as a market with no jobs.
+// not read as a market with no jobs. That strictness applies to page 1 of a
+// pass; a failure or an unreadable page LATER in a walk keeps the pages already
+// collected and warns (a partial walk beats none).
+//
+// Postings with no identifiable employer ("Empresa confidencial", an empty
+// employer, data-blind="true") are DROPPED, never emitted with a placeholder
+// company; the dropped count is warned once per fetch. The h1 result total
+// stops the walk once page * 20 reaches it.
 
 import { fetchTextWithRetry, sleep } from './_http.mjs';
 import { decodeEntities } from './_html-entities.mjs';
@@ -57,17 +74,18 @@ const MAX_KEYWORDS = 8;
 /** Pause between ANY two requests to the board (pages and keyword passes alike). */
 const REQUEST_DELAY_MS = 1500;
 const MAX_SLUG_LENGTH = 60;
+const POSTING_ID_RE = /-([A-F0-9]{32})$/;
 
-const CARD_RE = /<article\b[^>]*class=["'][^"']*\bbox_offer\b[^"']*["'][^>]*>([\s\S]*?)<\/article>/gi;
+const CARD_RE = /<article\b([^>]*class=["'][^"']*\bbox_offer\b[^"']*["'][^>]*)>([\s\S]*?)<\/article>/gi;
+const BLIND_RE = /\bdata-blind=["']true["']/i;
+const PLACEHOLDER_COMPANY_RE = /^(empresa|compañ[ií]a)\s+(confidencial|an[oó]nima)$|^confidencial$/i;
 const TITLE_ANCHOR_RE = /<h2\b[^>]*>\s*<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/i;
 const POSTING_PATH_RE = /^\/ofertas-de-trabajo\/oferta-de-trabajo-de-[a-z0-9-]+-[A-F0-9]{32}$/;
 const ANY_POSTING_LINK_RE = /href=["'][^"']*\/ofertas-de-trabajo\/oferta-de-trabajo-de-[a-z0-9-]+-[A-F0-9]{32}/i;
 const COMPANY_RE = /<a\b[^>]*offer-grid-article-company-url[^>]*>([\s\S]*?)<\/a>/i;
-const COMPANY_RE_ATTR_FIRST = /<a\b[^>]*href=["'][^"']*["'][^>]*offer-grid-article-company-url[^>]*>([\s\S]*?)<\/a>/i;
-/** Every `fs16` paragraph in a card; the employer line also carries one, so the location is picked by content. */
+/** Every `fs16` paragraph in a card; the employer line is one of them, so the location is picked by structure. */
 const FS16_PARAGRAPH_RE = /<p\b[^>]*class=["'][^"']*\bfs16\b[^"']*["'][^>]*>([\s\S]*?)<\/p>/gi;
 const POSTED_RE = /<p\b[^>]*class=["'][^"']*\bfc_aux\b[^"']*["'][^>]*>([\s\S]*?)<\/p>/i;
-const SALARY_RE = /<span\b[^>]*class=["'][^"']*\bi_salary\b[^"']*["'][^>]*><\/span>([\s\S]*?)<\/span>/i;
 const MODALITY_RE = /<span\b[^>]*class=["'][^"']*\bi_home\b[^"']*["'][^>]*><\/span>([\s\S]*?)<\/span>/i;
 const RESULT_COUNT_H1_RE = /<h1\b[^>]*>[\s\S]*?<span\b[^>]*>\s*([\d.,]+)\s*<\/span>/i;
 const NO_RESULTS_RE = /no\s+hay\s+ofertas\s+para\s+el\s+empleo/i;
@@ -101,6 +119,8 @@ export function slugify(value) {
     .normalize('NFD')
     .replace(/[̀-ͯ]/g, '')
     .toLowerCase()
+    .replace(/\+/g, 'plus')
+    .replace(/#/g, 'sharp')
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '')
     .slice(0, MAX_SLUG_LENGTH)
@@ -171,7 +191,7 @@ export function resolveKeywords(entry) {
     if (!out.includes(slug)) out.push(slug);
   }
   if (!out.length) {
-    throw new Error('computrabajo: set `searchKeywords` (a word/phrase or a list) on the entry — the board has no keyword-less listing');
+    throw new Error('computrabajo: set `searchKeywords` (a word/phrase or a list) on the entry — a keyword-less walk of the whole board is impractical, so searchKeywords is required');
   }
   if (out.length > MAX_KEYWORDS) {
     throw new Error(`computrabajo: ${out.length} searchKeywords configured — cap is ${MAX_KEYWORDS} (each one costs up to max_pages requests)`);
@@ -232,21 +252,38 @@ export function parsePostedAt(label, nowMs = Date.now()) {
 }
 
 /**
- * The card's location text: the `fs16` paragraph that is NOT the employer line
- * (which holds the company anchor and the star rating).
+ * The card's location text, chosen by structure: the employer line is the
+ * `dFlex vm_fx` paragraph (else the first `fs16` one when there are two or
+ * more), whether or not it holds an anchor or a star rating; the location is
+ * the next remaining `fs16` paragraph.
  * @param {string} card
  * @returns {string}
  */
 function locationOf(card) {
   FS16_PARAGRAPH_RE.lastIndex = 0;
+  /** @type {{ tag: string, inner: string }[]} */
+  const paras = [];
   let m;
-  while ((m = FS16_PARAGRAPH_RE.exec(card)) !== null) {
-    const inner = m[1];
-    if (/<a\b/i.test(inner) || /class=["'][^"']*\bstar\b/i.test(inner)) continue;
-    const text = visibleText(inner);
+  while ((m = FS16_PARAGRAPH_RE.exec(card)) !== null) paras.push({ tag: m[0], inner: m[1] });
+  let employer = paras.findIndex((p) => /\bvm_fx\b/.test(p.tag.slice(0, p.tag.indexOf('>'))));
+  if (employer < 0 && paras.length >= 2) employer = 0;
+  for (let i = 0; i < paras.length; i++) {
+    if (i === employer) continue;
+    const text = visibleText(paras[i].inner);
     if (text) return text;
   }
   return '';
+}
+
+/**
+ * Result total from the page's h1 count, or null.
+ * @param {string} html
+ * @returns {number | null}
+ */
+export function parseResultTotal(html) {
+  const m = RESULT_COUNT_H1_RE.exec(String(html ?? ''));
+  const n = m ? Number(m[1].replace(/\D/g, '')) : NaN;
+  return Number.isFinite(n) && n > 0 ? n : null;
 }
 
 /**
@@ -255,21 +292,24 @@ function locationOf(card) {
  * @param {string} html
  * @param {string} country - allowlisted country code (builds the absolute URL)
  * @param {number} [nowMs]
- * @returns {{ jobs: {title: string, url: string, company: string, location: string, description?: string, postedAt?: number}[], rawCards: number }}
+ * @returns {{ jobs: {title: string, url: string, company: string, location: string, externalId?: string, postedAt?: number}[], rawCards: number, unattributed: number }}
  *   `rawCards` is the number of cards the SOURCE returned — the short-page stop
- *   reads it, never the filtered count.
+ *   reads it, never the filtered count. `unattributed` counts valid cards
+ *   dropped for having no identifiable employer.
  */
 export function parseListingPage(html, country, nowMs = Date.now()) {
   const source = String(html ?? '');
   /** @type {Map<string, any>} */
   const byUrl = new Map();
   let rawCards = 0;
+  let unattributed = 0;
 
   CARD_RE.lastIndex = 0;
   let m;
   while ((m = CARD_RE.exec(source)) !== null) {
     rawCards++;
-    const card = m[1];
+    const attrs = m[1];
+    const card = m[2];
     const a = TITLE_ANCHOR_RE.exec(card);
     if (!a) continue;
     // Drop the tracking fragment (`#lc=ListOffers-…`) and any query: the path
@@ -282,30 +322,33 @@ export function parseListingPage(html, country, nowMs = Date.now()) {
     const url = `https://${country}.computrabajo.com${path}`;
     if (byUrl.has(url)) continue;
 
-    const cm = COMPANY_RE_ATTR_FIRST.exec(card) ?? COMPANY_RE.exec(card);
-    const location = locationOf(card);
+    const cm = COMPANY_RE.exec(card);
+    const company = cm ? visibleText(cm[1]) : '';
+    if (!company || PLACEHOLDER_COMPANY_RE.test(company) || BLIND_RE.test(attrs)) {
+      unattributed++;
+      continue;
+    }
+    const baseLocation = locationOf(card);
     const pm = POSTED_RE.exec(card);
-    const sm = SALARY_RE.exec(card);
     const mm = MODALITY_RE.exec(card);
-
-    const notes = [];
-    const salary = sm ? visibleText(sm[1]) : '';
     const modality = mm ? visibleText(mm[1]) : '';
-    if (salary) notes.push(`Salario: ${salary}`);
-    if (modality) notes.push(`Modalidad: ${modality}`);
+    // Modality rides on the location; a pay/modality stub in `description` would
+    // be read as JD text by the content/visa filters.
+    const location = modality ? (baseLocation ? `${baseLocation} (${modality})` : modality) : baseLocation;
     const postedAt = pm ? parsePostedAt(visibleText(pm[1]), nowMs) : undefined;
+    const idm = POSTING_ID_RE.exec(path);
 
     byUrl.set(url, {
       title,
       url,
-      company: cm ? visibleText(cm[1]) : '',
+      company,
       location,
-      ...(notes.length ? { description: notes.join(' | ') } : {}),
+      ...(idm ? { externalId: idm[1] } : {}),
       ...(postedAt !== undefined ? { postedAt } : {}),
     });
   }
 
-  return { jobs: [...byUrl.values()], rawCards };
+  return { jobs: [...byUrl.values()], rawCards, unattributed };
 }
 
 /**
@@ -371,21 +414,42 @@ export default {
     /** @type {string[]} */
     const truncated = [];
 
+    let droppedTotal = 0;
+    /** @type {string | null} */
+    let aborted = null;
+
+    outer:
     for (const keyword of keywords) {
+      /** @type {number | null} */
+      let total = null;
       for (let page = 1; page <= maxPages; page++) {
         if (requests > 0) await sleep(REQUEST_DELAY_MS, ctx);
         requests++;
 
         const url = buildListUrl(country, keyword, locationSlug, page);
-        const html = await fetchTextWithRetry(ctx, url, { redirect: 'error' });
-        const { jobs: parsed, rawCards } = parseListingPage(html, country);
+        let html;
+        try {
+          html = await fetchTextWithRetry(ctx, url, { redirect: 'error' });
+        } catch (err) {
+          if (page === 1 || !jobs.length) throw err;
+          aborted = `${url} failed (${err instanceof Error ? err.message : String(err)})`;
+          break outer;
+        }
+        const { jobs: parsed, rawCards, unattributed } = parseListingPage(html, country);
+        droppedTotal += unattributed;
+        if (page === 1) total = parseResultTotal(html);
 
         if (rawCards === 0) {
-          // First page of a pass: empty vs broken. A later page running dry is just the end.
-          if (page === 1) assertParsedSomething(html, url);
-          break;
+          if (page === 1) {
+            assertParsedSomething(html, url);
+            break;
+          }
+          // Later page with no cards: only the board's own notice is a genuine end.
+          if (NO_RESULTS_RE.test(html)) break;
+          aborted = `${url} returned no listing and no "no results" notice (blocked or the page changed)`;
+          break outer;
         }
-        if (parsed.length === 0) {
+        if (parsed.length === 0 && unattributed === 0) {
           // Cards present but none usable: the card markup moved.
           throw new Error(`computrabajo: ${url} returned ${rawCards} cards but none carried a valid posting link — the listing markup changed`);
         }
@@ -396,8 +460,17 @@ export default {
         }
         // Short page = the source's own last page (raw count, never the deduped one).
         if (rawCards < PAGE_SIZE) break;
+        // Result total already covered by the pages fetched so far.
+        if (total !== null && page * PAGE_SIZE >= total) break;
         if (page === maxPages && !probing && entryMax === maxPages) truncated.push(keyword);
       }
+    }
+
+    if (aborted) {
+      console.warn(`computrabajo: ${country} walk stopped early, keeping ${jobs.length} posting(s) collected so far — ${aborted}`);
+    }
+    if (droppedTotal) {
+      console.warn(`computrabajo: ${country} dropped ${droppedTotal} posting(s) with no identifiable employer (confidential / blind)`);
     }
 
     if (truncated.length) {

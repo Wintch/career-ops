@@ -5,8 +5,9 @@
 // each one exists because it decides the parser's design:
 //
 //   - a posting is an <article class="box_offer"> card; the EMPLOYER line and
-//     the LOCATION line are both `fs16` paragraphs, and the employer line holds
-//     the star rating, so the location must be picked by content, not position;
+//     the LOCATION line are both `fs16` paragraphs, so the location is picked by
+//     structure (skip the employer `vm_fx` line), even for a plain-text employer;
+//   - cards with no identifiable employer (confidential, blind, empty) are dropped;
 //   - the title anchor carries a `#lc=…` tracking fragment that must not reach
 //     job.url, and only the exact `/ofertas-de-trabajo/oferta-de-trabajo-de-
 //     {slug}-{32 hex}` path shape may;
@@ -35,7 +36,9 @@ const CARD = (n, {
   salary = '$ 2.222,00 (Mensual)',
   modality = 'Remoto',
   withCompany = true,
-} = {}) => `<article class="box_offer sel " data-id='${hex(n)}' data-blind="false" id="${hex(n)}">
+  plainCompany = '',
+  blind = false,
+} = {}) => `<article class="box_offer sel " data-id='${hex(n)}' data-blind="${blind}" id="${hex(n)}">
   <h2 class="fs18 fwB prB"><a class="js-o-link fc_base" href="${href}">
     ${title}
   </a></h2>
@@ -43,7 +46,7 @@ const CARD = (n, {
     <span class="fx_none mr10"><span class="fwB">3,6</span><span class="star"></span></span>
     ${withCompany ? `<a class="fc_base t_ellipsis" href="https://ar.computrabajo.com/empresas/ofertas-de-trabajo-de-acme-83C9" target='_blank' offer-grid-article-company-url>
       ${company}
-    </a>` : ''}
+    </a>` : plainCompany}
   </p>
   ${location ? `<p class="fs16 fc_base mt5"><span class="mr10">
     ${location}
@@ -69,6 +72,7 @@ const NO_RESULTS = `<html><head><title>Trabajo de devops | Empleo Computrabajo U
 
 const fullPage = (start, size = 20) => PAGE(Array.from({ length: size }, (_, i) => CARD(start + i)), 999);
 
+const challenge = '<html><title>Just a moment...</title></html>';
 const NOW = Date.UTC(2026, 9, 4, 12, 0, 0);
 
 try {
@@ -165,7 +169,7 @@ try {
   // ── parseListingPage() ──
   const page = PAGE([
     CARD(1, { title: 'Back &amp; Front Dev', posted: 'Hace  3  d&#xED;as' }),
-    CARD(2, { withCompany: false, location: '', salary: '', modality: '', posted: '25 de septiembre' }),
+    CARD(2, { location: '', salary: '', modality: '', posted: '25 de septiembre' }),
     CARD(3, { href: '//evil.example/ofertas-de-trabajo/oferta-de-trabajo-de-x-1-' + hex(3) }),
     CARD(4, { href: '/ofertas-de-trabajo/oferta-de-trabajo-de-../../admin-' + hex(4) }),
     CARD(5, { href: 'https://evil.example/ofertas-de-trabajo/oferta-de-trabajo-de-x-5-' + hex(5) }),
@@ -178,16 +182,17 @@ try {
   const a = jobs[0];
   if (a && a.title === 'Back & Front Dev'
       && a.url === `https://ar.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-devops-1-${hex(1)}`
-      && a.company === 'Acme S.A.' && a.location === 'Recoleta, Capital Federal'
-      && a.description === 'Salario: $ 2.222,00 (Mensual) | Modalidad: Remoto'
+      && a.company === 'Acme S.A.'
+      && a.location === 'Recoleta, Capital Federal (Remoto)' && !('description' in a)
+      && a.externalId === hex(1)
       && a.postedAt === NOW - 3 * day) {
     pass('parseListingPage(): decoded title, fragment-free absolute URL, employer, location (not the rating), pay/modality note, postedAt');
   } else {
     fail(`first card drift: ${JSON.stringify(a)}`);
   }
   const b = jobs[1];
-  if (b && b.company === '' && b.location === '' && !('description' in b) && b.postedAt === Date.UTC(2026, 8, 25)) {
-    pass('parseListingPage(): a card with no employer/location/salary/modality leaves them empty, never borrowed from a neighbour');
+  if (b && b.company === 'Acme S.A.' && b.location === '' && !('description' in b) && b.postedAt === Date.UTC(2026, 8, 25)) {
+    pass('parseListingPage(): a card with no location/salary/modality leaves them empty, never borrowed from a neighbour');
   } else {
     fail(`minimal card drift: ${JSON.stringify(b)}`);
   }
@@ -357,6 +362,114 @@ try {
     try { await provider.fetch(ENTRY, mkCtx({ 'https://ar.computrabajo.com/trabajo-de-devops': '<html><title>Just a moment...</title></html>' }, [])); } catch (e) { blocked = String(e && e.message); }
     if (blocked && /blocked or the page changed/.test(blocked)) pass('fetch() throws on a block page instead of reporting no postings');
     else fail('a block page must surface as an error');
+  }
+
+  // ── unattributed postings are dropped, structure-based location ──
+  {
+    const html = PAGE([
+      CARD(1),
+      CARD(2, { company: 'Empresa confidencial' }),
+      CARD(3, { withCompany: false }),
+      CARD(4, { blind: true }),
+      CARD(5, { withCompany: false, plainCompany: 'Plain Corp SRL', location: 'Pilar, Buenos Aires', modality: '' }),
+    ]);
+    const r = parseListingPage(html, 'ar', NOW);
+    if (r.rawCards === 5 && r.unattributed === 4 && r.jobs.length === 1 && r.jobs.every((j) => j.company && !/confidencial/i.test(j.company))) {
+      pass('parseListingPage(): confidential / empty-employer / data-blind cards are dropped and counted, never emitted with a placeholder');
+    } else {
+      fail(`unattributed drift: ${JSON.stringify(r)}`);
+    }
+    // A plain-text employer line has no anchor, so it is not an attributable company (and never the location).
+    const j5 = parseListingPage(PAGE([CARD(5, { withCompany: false, plainCompany: 'Plain Corp SRL', location: 'Pilar, Buenos Aires', modality: '' })]), 'ar', NOW);
+    if (j5.jobs.length === 0 && j5.unattributed === 1) pass('parseListingPage(): a plain-text (no anchor) employer line is not an attributable company');
+    else fail(`plain employer drift: ${JSON.stringify(j5)}`);
+    const withText = PAGE([CARD(6, { location: 'Pilar, Buenos Aires', modality: '' }).replace('<span class="star"></span>', '<span class="star"></span> Sede Central')]);
+    const j6 = parseListingPage(withText, 'ar', NOW).jobs[0];
+    if (j6 && j6.location === 'Pilar, Buenos Aires') pass('parseListingPage(): location is selected by structure, not by whether the employer line has an anchor');
+    else fail(`structure location drift: ${JSON.stringify(j6)}`);
+    // Employer line is plain text and first; the anchor lives elsewhere in the card.
+    const noVmFx = `<article class="box_offer" data-blind="false"><h2><a href="/ofertas-de-trabajo/oferta-de-trabajo-de-x-${hex(7)}">T</a></h2>
+      <p class="fs16 fc_base">Plain Corp</p><p class="fs16 fc_base">Rosario, Santa Fe</p>
+      <a offer-grid-article-company-url>Plain Corp</a></article>`;
+    const j7 = parseListingPage(noVmFx, 'ar', NOW).jobs[0];
+    if (j7 && j7.company === 'Plain Corp' && j7.location === 'Rosario, Santa Fe') pass('parseListingPage(): without a vm_fx line the first of two fs16 paragraphs is the employer, the second the location');
+    else fail(`no-vm_fx drift: ${JSON.stringify(j7)}`);
+  }
+  if (slugify('C++') !== slugify('C#') && slugify('C++') === 'cplusplus' && slugify('C#') === 'csharp') pass('slugify(): C++ and C# stay distinct');
+  else fail(`slugify C++/C# drift: ${slugify('C++')} ${slugify('C#')}`);
+
+  // ── fetch(): partial walks, challenge pages, total, dropped warning ──
+  {
+    const origWarn = console.warn;
+    const warns = [];
+    console.warn = (...args) => warns.push(args.join(' '));
+    try {
+      const L = 'https://ar.computrabajo.com/trabajo-de-devops';
+      const run = async (map, entry = ENTRY, failOn = {}) => {
+        const seen = [];
+        const optsSeen = [];
+        const ctx = {
+          sleep: async () => {},
+          fetchText: async (url, opts) => {
+            seen.push(url);
+            optsSeen.push(opts);
+            if (failOn[url]) { const e = new Error(`HTTP ${failOn[url]}`); e.status = failOn[url]; throw e; }
+            return map[url] ?? NO_RESULTS;
+          },
+        };
+        const out = await provider.fetch(entry, ctx);
+        return { out, seen, optsSeen };
+      };
+
+      // 429 on page 2 → page 1 kept + warning
+      warns.length = 0;
+      let r = await run({ [L]: fullPage(100, 20) }, ENTRY, { [`${L}?p=2`]: 429 });
+      if (r.out.length === 20 && warns.some((w) => /stopped early.*keeping 20/.test(w))) pass('fetch(): 429 on page 2 keeps page 1 and warns');
+      else fail(`429 page 2: ${r.out.length} jobs, warns ${JSON.stringify(warns)}`);
+      warns.length = 0;
+      r = await run({ [L]: fullPage(100, 20) }, ENTRY, { [`${L}?p=2`]: 503 });
+      if (r.out.length === 20 && warns.length === 1) pass('fetch(): 5xx on page 2 keeps page 1 and warns');
+      else fail('5xx page 2 drift');
+
+      // 200 challenge page on page 2
+      warns.length = 0;
+      r = await run({ [L]: fullPage(100, 20), [`${L}?p=2`]: challenge });
+      if (r.out.length === 20 && warns.some((w) => /blocked or the page changed/.test(w))) pass('fetch(): a 200 challenge page on page 2 is not read as the end — pages so far kept and warned');
+      else fail(`challenge page 2: ${r.out.length}, ${JSON.stringify(warns)}`);
+
+      // genuine no-results notice on page 2 is a quiet end
+      warns.length = 0;
+      r = await run({ [L]: fullPage(100, 20), [`${L}?p=2`]: NO_RESULTS });
+      if (r.out.length === 20 && warns.length === 0) pass('fetch(): the board’s "no hay ofertas" notice on page 2 ends the walk quietly');
+      else fail('no-results end drift');
+
+      // total reached → no extra request
+      r = await run({ [L]: PAGE(Array.from({ length: 20 }, (_, i) => CARD(600 + i)), 20), [`${L}?p=2`]: fullPage(700, 20) });
+      if (r.out.length === 20 && r.seen.length === 1) pass('fetch(): stops without another request once page * 20 reaches the h1 total');
+      else fail(`total stop drift: ${r.out.length} jobs, ${r.seen.length} requests`);
+
+      // page 1 failure still throws
+      let threw = false;
+      try { await run({}, ENTRY, { [L]: 503 }); } catch { threw = true; }
+      if (threw) pass('fetch(): a failure on page 1 still throws');
+      else fail('page 1 failure must throw');
+
+      // dropped count visible once, redirect:error on all requests
+      warns.length = 0;
+      r = await run({ [L]: PAGE([CARD(1), CARD(2, { company: 'Empresa confidencial' }), CARD(3, { blind: true })]) });
+      if (r.out.length === 1 && warns.filter((w) => /dropped 2 posting/.test(w)).length === 1) pass('fetch(): drops unattributed postings and warns the count once');
+      else fail(`drop warn drift: ${r.out.length}, ${JSON.stringify(warns)}`);
+      r = await run({ [L]: fullPage(100, 20), [`${L}?p=2`]: fullPage(200, 5) });
+      if (r.optsSeen.length === 2 && r.optsSeen.every((o) => o && o.redirect === 'error')) pass('fetch(): redirect:error on every request of a multi-page walk');
+      else fail('redirect:error drift');
+
+      // all-confidential page is not a markup change
+      r = await run({ [L]: PAGE([CARD(1, { company: 'Empresa confidencial' })]) });
+      if (r.out.length === 0) pass('fetch(): a page of only confidential postings returns [] rather than a markup error');
+      else fail('all-confidential page drift');
+    } finally {
+      console.warn = origWarn;
+    }
   }
 } catch (error) {
   fail(`computrabajo provider tests could not run: ${error.message}`);
