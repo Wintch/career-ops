@@ -39,7 +39,7 @@
  *   node scan-ats-full.mjs --ats greenhouse,workday  # subset of sources
  *   node scan-ats-full.mjs --history-seeds --ats successfactors # scan history-derived boards
  *   node scan-ats-full.mjs --seeds yc --hiring-only # YC portfolio: only companies YC flags as hiring (~8x fewer requests)
-  node scan-ats-full.mjs --limit 200          # max companies per ATS (default: all)
+ *   node scan-ats-full.mjs --limit 200          # max companies per ATS (default: all)
  *   node scan-ats-full.mjs --dry-run            # preview without writing files
  *   node scan-ats-full.mjs --liveness           # Playwright-verify matches before writing
  *   node scan-ats-full.mjs --include-blacklisted # audit: let data/blacklist.md matches through, annotated
@@ -56,13 +56,13 @@ import { fileURLToPath } from 'url';
 import * as yaml from 'js-yaml';
 import { renameSyncWithRetry } from './tracker-utils.mjs';
 
-import { makeHttpCtx, fetchJson } from './providers/_http.mjs';
+import { makeHttpCtx, fetchJson, sleep } from './providers/_http.mjs';
 import { withConnectionScope } from './providers/_connection-scope.mjs';
 import { isResolverFailure, dnsPacingStats } from './providers/_dns-cache.mjs';
 import greenhouse from './providers/greenhouse.mjs';
 import lever from './providers/lever.mjs';
 import ashby from './providers/ashby.mjs';
-import ycJobs from './providers/yc-jobs.mjs';
+import ycJobs, { parseYcSlug } from './providers/yc-jobs.mjs';
 import workday, { WORKDAY_TRUNCATED_REASON } from './providers/workday.mjs';
 import icims from './providers/icims.mjs';
 import bamboohr from './providers/bamboohr.mjs';
@@ -113,6 +113,9 @@ const CONCURRENCY = 20;
 // after a cooldown with no change to the dataset. The boards were never dead —
 // they were refused, and the matches on them were silently missed.
 const SINGLE_HOST_CONCURRENCY = 6;
+// yc-jobs fallback (--seeds yc --hiring-only): one host, kept well below the cap.
+const YC_FALLBACK_CONCURRENCY = 2;
+const YC_FALLBACK_DELAY_MS = 250;
 // A refusing resolver fails every lookup in milliseconds, so a sweep that
 // keeps going just feeds it (#2229). Stop after this many consecutive
 // resolver-level failures — high enough that a handful of unlucky boards
@@ -343,6 +346,7 @@ const USAGE = `Usage:
   node scan-ats-full.mjs                      # scan all ATS directories, last 3 days
   node scan-ats-full.mjs --since 7            # postings from the last 7 days
   node scan-ats-full.mjs --ats greenhouse,workday  # subset of sources
+  node scan-ats-full.mjs --seeds yc --hiring-only # YC portfolio: only companies YC flags as hiring; adds a paced yc-jobs fallback
   node scan-ats-full.mjs --history-seeds       # also scan boards from local application history
   node scan-ats-full.mjs --history-seeds --ats successfactors # history-derived boards for this ATS
   node scan-ats-full.mjs --limit 200          # max companies per ATS (default: all)
@@ -411,6 +415,9 @@ export function parseArgs(argv) {
     process.exit(1);
   }
   const historySeeds = args.includes('--history-seeds');
+  if (args.includes('--hiring-only') && seeds.length === 0) {
+    console.error('Warning: --hiring-only only applies to --seeds runs and is ignored here.');
+  }
   const historyOnly = ats.filter(a => !SOURCES[a]);
   if (!historySeeds && historyOnly.length) {
     throw new Error(
@@ -816,6 +823,7 @@ export async function runSeedScan(seedId, opts, ctx, seenUrls, label) {
   const cutoff = Date.now() - opts.sinceDays * 86_400_000;
   const offers = [];
   let errors = 0;
+  const withYcSlot = createKeyedLimiter(YC_FALLBACK_CONCURRENCY);
 
   await parallelEach(capped, CONCURRENCY, async (company) => {
     const entry = toPortalEntry(company);
@@ -830,7 +838,10 @@ export async function runSeedScan(seedId, opts, ctx, seenUrls, label) {
     }
     // YC companies flagged as hiring also have a guaranteed jobs page on YC's
     // own board, so they are never a dead end when no public ATS board matches.
-    const ycFallback = seedId === 'yc' && company.hiring === true && SLUG_RE.test(String(company.slug));
+    // Opt-in via --hiring-only so a plain `--seeds yc` run keeps its request
+    // profile; the slug gate is yc-jobs' own parser.
+    const ycFallback = Boolean(opts.hiringOnly) && seedId === 'yc' && company.hiring === true
+      && parseYcSlug(`https://www.workatastartup.com/companies/${company.slug}`) !== null;
     if (!provider && !ycFallback) return; // No ATS detected — skip silently (or log in --verbose).
 
     let jobs = [];
@@ -844,10 +855,18 @@ export async function runSeedScan(seedId, opts, ctx, seenUrls, label) {
     }
     if ((fetchError || jobs.length === 0) && ycFallback) {
       try {
-        jobs = await ycJobs.fetch({
-          name: entry.name,
-          careers_url: `https://www.workatastartup.com/companies/${company.slug}`,
-        }, ctx);
+        // One host, so the fallback is paced: at most YC_FALLBACK_CONCURRENCY
+        // requests in flight, with a short shared sleep after each.
+        jobs = await withYcSlot('www.ycombinator.com', async () => {
+          try {
+            return await ycJobs.fetch({
+              name: entry.name,
+              careers_url: `https://www.workatastartup.com/companies/${company.slug}`,
+            }, ctx);
+          } finally {
+            await sleep(YC_FALLBACK_DELAY_MS, ctx);
+          }
+        });
         provider = ycJobs;
         fetchError = null;
       } catch (err) {

@@ -24,8 +24,23 @@
 // is accurate to the unit's granularity: good enough to tell "this week" from
 // "last quarter" for recency filtering, never a precise timestamp. A phrase
 // that does not parse leaves `postedAt` unset rather than guessed.
-// `robots.txt` on both hosts allows these paths (only `/companies?*` search
-// queries are disallowed on ycombinator.com, and this provider never uses them).
+// Access: reading is public (no login, no account). APPLYING is not: it goes
+// through a free YC / Work at a Startup account, and the employer's own apply
+// URL is not exposed (the page's `applyUrl` is an account.ycombinator.com login
+// redirect), so the emitted URL is the posting page on ycombinator.com.
+//
+// robots.txt, measured 2026-10-12 with the scanner's DEFAULT_USER_AGENT.
+// www.ycombinator.com: `User-Agent: *` disallows /verify/*, /library?... and
+// /companies?* (query strings only) and allows /; the only other groups are
+// facebookexternalhit, Twitterbot and LinkedInBot (Allow /verify/*). NO group
+// names ClaudeBot, anthropic-ai, Claude-Web or Claude-User. www.workatastartup.com:
+// `User-Agent: *` with an empty Disallow. This provider requests only
+// /companies/<slug>/jobs (no query string), so nothing it reads is disallowed.
+// Result: allowed.
+//
+// Markup contract: the `data-page` JSON with an array `props.jobPostings` is
+// required. If it is missing or unparseable the fetch THROWS (markup change),
+// it never reads as an empty board; [] means a present, empty array.
 
 import { decodeEntities } from './_html-entities.mjs';
 
@@ -128,8 +143,9 @@ export default {
  *   - company:  `companyName` from the posting, else the portal entry name.
  *
  * Rows without a title or a `/companies/` path are dropped (an empty URL would
- * corrupt the URL-based dedup key). A page with no `data-page` payload, or a
- * payload without `jobPostings`, yields [].
+ * corrupt the URL-based dedup key). Every `data-page` attribute is tried and the
+ * first whose JSON carries an array `props.jobPostings` wins; a page with none
+ * THROWS (markup change), and only a present empty array yields [].
  *
  * @param {string} html
  * @param {string} companyName
@@ -137,17 +153,18 @@ export default {
  * @returns {Array<{title: string, url: string, company: string, location: string, postedAt?: number}>}
  */
 export function parseYcJobsPage(html, companyName, now) {
-  if (typeof html !== 'string') return [];
-  const m = html.match(/data-page="([^"]*)"/);
-  if (!m) return [];
-  let page;
-  try {
-    page = JSON.parse(decodeEntities(m[1]));
-  } catch {
-    return [];
+  if (typeof html !== 'string') throw new Error('yc-jobs: page body is not text');
+  /** @type {unknown[]|null} */
+  let postings = null;
+  for (const m of html.matchAll(/data-page="([^"]*)"/g)) {
+    try {
+      const found = JSON.parse(decodeEntities(m[1]))?.props?.jobPostings;
+      if (Array.isArray(found)) { postings = found; break; }
+    } catch { /* try the next data-page attribute */ }
   }
-  const postings = page?.props?.jobPostings;
-  if (!Array.isArray(postings)) return [];
+  if (!postings) {
+    throw new Error(`yc-jobs: no data-page payload with props.jobPostings for ${companyName} — page markup changed?`);
+  }
 
   const seen = new Set();
   const jobs = [];

@@ -24,8 +24,8 @@ test('parseYCPayload records hiring as an explicit boolean only when badges are 
 });
 
 test('parseArgs reads --hiring-only (off by default)', () => {
-  assert.equal(parseArgs(['--seeds', 'yc']).hiringOnly, false);
-  assert.equal(parseArgs(['--seeds', 'yc', '--hiring-only']).hiringOnly, true);
+  assert.equal(parseArgs(['node', 'x', '--seeds', 'yc']).hiringOnly, false);
+  assert.equal(parseArgs(['node', 'x', '--seeds', 'yc', '--hiring-only']).hiringOnly, true);
 });
 
 function yPage(slug, createdAt) {
@@ -53,7 +53,7 @@ async function scan(opts) {
   const original = SEED_SOURCES.yc.fetch;
   SEED_SOURCES.yc.fetch = async () => parseYCPayload(payload);
   try {
-    const base = { ...parseArgs(['--seeds', 'yc']), titleFilter: () => true, locationFilter: () => true, contentFilter: () => true, blacklist: new Map(), ...opts };
+    const base = { ...parseArgs(['node', 'x', '--seeds', 'yc']), titleFilter: () => true, locationFilter: () => true, contentFilter: () => true, blacklist: new Map(), ...opts };
     const res = await runSeedScan('yc', base, ctx, new Set(), 'Y Combinator Portfolio');
     return { res, requested };
   } finally {
@@ -85,4 +85,35 @@ test('a company not flagged as hiring never uses the YC fallback', async () => {
   const { res } = await scan({ hiringOnly: false });
   assert.equal(res.offers.some((o) => /\/companies\/quiet\//.test(o.url)), false);
   assert.equal(res.offers.some((o) => /\/companies\/nobadges\//.test(o.url)), false);
+});
+
+test('without --hiring-only no request goes to www.ycombinator.com', async () => {
+  const { requested } = await scan({ hiringOnly: false });
+  assert.equal(requested.some((u) => /ycombinator\.com/.test(u)), false);
+});
+
+test('--hiring-only paces the YC fallback with the shared sleep', async () => {
+  let sleeps = 0;
+  const orig = SEED_SOURCES.yc.fetch;
+  SEED_SOURCES.yc.fetch = async () => parseYCPayload(payload);
+  try {
+    const ctx = {
+      async fetchJson() { const e = new Error('HTTP 404'); e.status = 404; throw e; },
+      async fetchText(url) { return yPage(url.match(/companies\/([^/]+)\/jobs$/)[1], '2 days'); },
+      sleep: async () => { sleeps++; },
+    };
+    const opts = { ...parseArgs(['node', 'x', '--seeds', 'yc', '--hiring-only']), titleFilter: () => true, locationFilter: () => true, contentFilter: () => true, blacklist: new Map() };
+    await runSeedScan('yc', opts, ctx, new Set(), 'Y Combinator Portfolio');
+  } finally {
+    SEED_SOURCES.yc.fetch = orig;
+  }
+  assert.ok(sleeps >= 1, 'a sleep follows each YC jobs-page request');
+});
+
+test('--hiring-only without --seeds warns on stderr', () => {
+  const orig = console.error;
+  const lines = [];
+  console.error = (m) => lines.push(String(m));
+  try { parseArgs(['node', 'x', '--hiring-only']); } finally { console.error = orig; }
+  assert.ok(lines.some((l) => /--hiring-only/.test(l)));
 });
