@@ -53,7 +53,7 @@ try {
   const {
     SITES, PAGE_SIZE, DEFAULT_MAX_PAGES, MAX_PAGES_CAP, MAX_KEYWORDS, MAX_NAVIGATIONS, NAV_DELAY_MS,
     slugifyKeyword, buildSearchUrl, resolveSearches, parseRobots, isAllowedByRobots, detectChallenge,
-    parsePublished, parseSearchResponse, loadSearchPage, runSearch, ChallengeError,
+    parsePublished, parseSearchResponse, loadSearchPage, runSearch, ChallengeError, InconclusiveError, robotsBlockedBy,
   } = mod;
 
   // Importing must never open a browser or touch the pipeline (the main-module guard).
@@ -164,7 +164,7 @@ try {
 
   // ── parseSearchResponse() ──
   const hrefs = new Map([['101', '/empleos/ingeniero-devops-acme-101.html']]);
-  const parsed = parseSearchResponse({ content: [ROW(101), ROW(102, { titulo: 'Back &amp; Front', confidencial: true, modalidadTrabajo: '', detalle: '' })], total: 2 }, { site: 'bumeran', hrefById: hrefs });
+  const parsed = parseSearchResponse({ content: [ROW(101), ROW(102, { titulo: 'Back &amp; Front', empresa: 'Foo &amp; Co', localizacion: 'C&oacute;rdoba', modalidadTrabajo: '', detalle: '' })], total: 2 }, { site: 'bumeran', hrefById: hrefs });
   const a = parsed[0];
   if (a && a.title === 'Ingeniero DevOps 101' && a.url === 'https://www.bumeran.com.ar/empleos/ingeniero-devops-acme-101.html'
       && a.company === 'Acme S.A.' && a.location === 'Capital Federal, Buenos Aires (Remoto)' && a.source === 'bumeran'
@@ -174,9 +174,9 @@ try {
     fail(`first row drift: ${JSON.stringify(a)}`);
   }
   const b = parsed[1];
-  if (b && b.title === 'Back & Front' && b.company === '?' && b.url === 'https://www.bumeran.com.ar/empleos/back-front-102.html'
-      && b.location === 'Capital Federal, Buenos Aires' && !('description' in b)) {
-    pass('parseSearchResponse(): a confidential employer is "?", the URL falls back to slug+id, entities decoded, empty description omitted');
+  if (b && b.title === 'Back & Front' && b.company === 'Foo & Co' && b.url === 'https://www.bumeran.com.ar/empleos/back-front-102.html'
+      && b.location === 'Córdoba' && !('description' in b)) {
+    pass('parseSearchResponse(): employer/location entities are decoded, the URL falls back to slug+id, entities decoded, empty description omitted');
   } else {
     fail(`second row drift: ${JSON.stringify(b)}`);
   }
@@ -198,6 +198,52 @@ try {
     pass('parseSearchResponse(): a missing/wrong-typed envelope THROWS and names the keys it got (changed API ≠ empty board)');
   } else {
     fail(`envelope guard drift: ${JSON.stringify(envs)}`);
+  }
+
+  // ── fork policy: no identifiable employer → dropped and counted ──
+  {
+    const anon = parseSearchResponse({ content: [ROW(301, { confidencial: true }), ROW(302, { empresa: '' }), ROW(303, { empresa: ' Confidencial ' }), ROW(304, { empresa: undefined }), ROW(305)] }, { site: 'bumeran' });
+    if (anon.length === 1 && anon[0].url.endsWith('-305.html') && anon.anonymous === 4 && anon.rawCount === 5 && !anon.some((j) => j.company === '?')) {
+      pass('parseSearchResponse(): confidential / empty / literal "Confidencial" employers are dropped and counted, never emitted as "?"');
+    } else {
+      fail(`anonymous handling drift: ${JSON.stringify(anon)} ${anon.anonymous}`);
+    }
+    const allAnon = parseSearchResponse({ content: [ROW(306, { confidencial: true })] }, { site: 'bumeran' });
+    if (allAnon.length === 0 && allAnon.anonymous === 1) pass('parseSearchResponse(): a page of only anonymous postings is quiet, not a shape error');
+    else fail('all-anonymous page drift');
+    const html = parseSearchResponse({ content: [ROW(307, { detalle: '<p>Hola&nbsp;<b>mundo</b></p><ul><li>Uno</li></ul>' })] }, { site: 'bumeran' });
+    if (html[0].description && !/<[a-z]/i.test(html[0].description) && /Hola/.test(html[0].description) && /Uno/.test(html[0].description)) pass('parseSearchResponse(): detalle HTML is converted to text');
+    else fail(`detalle not converted: ${JSON.stringify(html[0].description)}`);
+  }
+  // ── renamed fields: every row dropped → throws, not [] ──
+  {
+    const m = throwsMsg(() => parseSearchResponse({ content: [{ identifier: 1, name: 'x' }, { identifier: 2, name: 'y' }] }, { site: 'bumeran' }));
+    if (/unexpected row shape/.test(m ?? '')) pass('parseSearchResponse(): a non-empty page where every row is unusable THROWS "unexpected row shape"');
+    else fail(`row-shape guard drift: ${m}`);
+  }
+  // ── robots: exact own token, Claude-named groups bind ──
+  {
+    const claude = 'User-agent: ClaudeBot\nDisallow: /\n\nUser-agent: *\nAllow: /\n';
+    if (!isAllowedByRobots(claude, '/empleos-busqueda-x.html') && robotsBlockedBy(claude, '/empleos-busqueda-x.html') === 'claudebot') pass('isAllowedByRobots(): a ClaudeBot group that disallows the path blocks it even when * allows, and is named');
+    else fail('Claude-named group did not bind');
+    const others = ['anthropic-ai', 'Claude-Web', 'Claude-User'].every((n) => !isAllowedByRobots(`User-agent: ${n}\nDisallow: /\n\nUser-agent: *\nAllow: /\n`, '/x'));
+    if (others) pass('isAllowedByRobots(): anthropic-ai, Claude-Web and Claude-User groups bind too');
+    else fail('a Claude token did not bind');
+    if (isAllowedByRobots('User-agent: e\nDisallow: /\n', '/x') && isAllowedByRobots('User-agent: ops\nDisallow: /\n', '/x') && isAllowedByRobots('User-agent:\nDisallow: /\n', '/x')) pass('isAllowedByRobots(): a group named "e", "ops" or "" does not bind (no substring matching)');
+    else fail('substring group bound');
+    if (!isAllowedByRobots('User-agent: Career-Ops\nDisallow: /x\n', '/x/y') && robotsBlockedBy('User-agent: career-ops\nDisallow: /x\n', '/x') === 'career-ops') pass('isAllowedByRobots(): the exact career-ops token binds, case-insensitively');
+    else fail('own token did not bind');
+  }
+  // ── robots.txt body is never a challenge; status-only ──
+  if (detectChallenge({ status: 200 }) === null && detectChallenge({ status: 401 }) && detectChallenge({ status: 451 }) && detectChallenge({ status: 500 }) && detectChallenge({ status: 502 })) {
+    pass('detectChallenge(): status-only judgement for robots.txt; 401/451/5xx are refusals too');
+  } else {
+    fail('status widening drift');
+  }
+  if (detectChallenge({ title: 'Trabajo', text: `${'x'.repeat(700)} captcha` }) === null && detectChallenge({ title: 'Trabajo', text: 'Please solve this captcha' })) {
+    pass('detectChallenge(): phrases are matched in the title and the top of the page only');
+  } else {
+    fail('text window drift');
   }
 
   // ── page stub: stands in for Playwright ──
@@ -283,7 +329,7 @@ try {
   {
     const page = mkRunPage([short(1)]);
     const out = await runSearch(page, { site: 'bumeran', keywords: ['devops'], maxPages: 2 }, deps({ robotsText: 'User-agent: *\nDisallow: /empleos-busqueda-\n' }));
-    if (page.log.gotos.length === 0 && out.errors.some((e) => /robots\.txt disallows/.test(e.error))) pass('runSearch(): a path robots.txt disallows is never navigated to');
+    if (page.log.gotos.length === 0 && out.errors.some((e) => /robots\.txt \(group \*\) disallows/.test(e.error))) pass('runSearch(): a path robots.txt disallows is never navigated to');
     else fail(`robots not honoured: ${page.log.gotos.length} gotos`);
   }
   {
@@ -299,6 +345,58 @@ try {
     const out = await runSearch(page, { site: 'bumeran', keywords: ['a', 'b'], maxPages: 2 }, deps());
     if (out.errors.length === 1 && out.errors[0].keyword === 'a' && out.found.length === 3) pass('runSearch(): an ordinary failure on one keyword is recorded and the next keyword still runs');
     else fail(`per-keyword error handling drift: ${JSON.stringify(out.errors)} / ${out.found.length}`);
+  }
+  // ── full page with a duplicate row keeps paginating (raw row count) ──
+  {
+    const dupPage = { content: [ROW(900), ...Array.from({ length: PAGE_SIZE - 1 }, () => ROW(900))], total: 999 };
+    const page = mkRunPage([dupPage, short(950)]);
+    const out = await runSearch(page, { site: 'bumeran', keywords: ['a'], maxPages: 3 }, deps());
+    if (page.log.gotos.length === 2) pass('runSearch(): end of results is judged on the raw row count, so a full page with duplicate rows does not stop pagination');
+    else fail(`rawCount pagination drift: ${page.log.gotos.length}`);
+    const page2 = mkRunPage([{ content: Array.from({ length: PAGE_SIZE }, (_, i) => ROW(800 + i)), total: PAGE_SIZE }]);
+    await runSearch(page2, { site: 'bumeran', keywords: ['a'], maxPages: 3 }, deps());
+    if (page2.log.gotos.length === 1) pass('runSearch(): stops when pageNo*PAGE_SIZE reaches the reported total');
+    else fail('total-based stop drift');
+  }
+  // ── inconclusive results calls: two in a row stop the run, partial results kept ──
+  {
+    let n = 0;
+    const page = mkPage();
+    page.waitForResponse = () => { n++; return n === 1 ? Promise.resolve(mkResp(short(700))) : Promise.reject(new Error('Timeout 30000ms exceeded.')); };
+    const err = await rejectsMsg(() => runSearch(page, { site: 'bumeran', keywords: ['a', 'b', 'c', 'd'], maxPages: 2 }, deps()));
+    if (err instanceof ChallengeError && err.found.length === 3 && page.log.gotos.length === 3) pass('runSearch(): two consecutive inconclusive results calls stop the run (ChallengeError), keeping what was already found');
+    else fail(`refusal streak drift: ${err && err.message}, ${page.log.gotos.length} gotos`);
+    const bad = mkPage();
+    bad.waitForResponse = () => Promise.resolve({ ...mkResp({}), json: async () => { throw new SyntaxError('Unexpected token <'); } });
+    const e2 = await rejectsMsg(() => loadSearchPage(bad, 'https://www.bumeran.com.ar/empleos-busqueda-x.html', { site: 'bumeran' }));
+    const e3 = await rejectsMsg(() => loadSearchPage(mkPage({ respStatus: 404 }), 'https://www.bumeran.com.ar/empleos-busqueda-x.html', { site: 'bumeran' }));
+    if (e2 instanceof InconclusiveError && /JSON/.test(e2.message) && e3 instanceof InconclusiveError && /HTTP 404/.test(e3.message)) pass('loadSearchPage(): non-JSON and non-2xx results replies are inconclusive refusals');
+    else fail(`inconclusive classes drift: ${e2 && e2.message} / ${e3 && e3.message}`);
+  }
+  // ── a ChallengeError mid-search carries what was already collected ──
+  {
+    let n = 0;
+    const page = mkPage();
+    page.waitForResponse = () => { n++; return Promise.resolve(mkResp(n === 1 ? full(500) : { content: [ROW(1)], total: 1 }, n === 1 ? 200 : 429)); };
+    const err = await rejectsMsg(() => runSearch(page, { site: 'bumeran', keywords: ['a'], maxPages: 3 }, deps()));
+    if (err instanceof ChallengeError && err.found.length === PAGE_SIZE && err.navigations === 2) pass('runSearch(): a ChallengeError mid-search carries the postings and navigations collected so far');
+    else fail(`partial results lost: ${err && err.message}`);
+  }
+  // ── the page's own results XHR is checked against robots.txt ──
+  {
+    const err = await rejectsMsg(() => loadSearchPage(mkPage(), 'https://www.bumeran.com.ar/empleos-busqueda-x.html', { site: 'bumeran', robotsText: 'User-agent: *\nDisallow: /api/\n' }));
+    if (err instanceof ChallengeError && /disallows the page's own results request/.test(err.message)) pass('loadSearchPage(): a robots.txt that disallows /api/avisos/searchV2 stops the run');
+    else fail(`API robots check drift: ${err && err.message}`);
+  }
+  // ── a challenge is judged before the 30 s results timeout ──
+  {
+    const page = mkPage({ title: 'Just a moment...', respond: false });
+    let waited = false;
+    const orig = page.waitForResponse;
+    page.waitForResponse = (...a) => { const p = orig(...a); p.catch(() => { waited = true; }); return p; };
+    const err = await rejectsMsg(() => loadSearchPage(page, 'https://www.bumeran.com.ar/empleos-busqueda-x.html', { site: 'bumeran' }));
+    if (err instanceof ChallengeError) pass('loadSearchPage(): a challenge page is a ChallengeError even when the results call never happens');
+    else fail('challenge without results call not detected');
   }
 } catch (error) {
   fail(`scan-navent tests could not run: ${error.stack || error.message}`);

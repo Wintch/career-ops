@@ -5,7 +5,7 @@
  *
  * Both boards run on the same platform and are client-rendered: a plain HTTPS
  * fetch returns an empty React shell, so no `providers/*.mjs` module can read
- * them (see "Evaluated, not supported" history in docs/SUPPORTED_JOB_BOARDS.md).
+ * them (see the Bumeran / ZonaJobs row of docs/SUPPORTED_JOB_BOARDS.md).
  * This standalone scanner opens the PUBLIC search page the way a visitor does,
  * lets the page's own JavaScript load its results, and reads the response the
  * page itself requested (`POST /api/avisos/searchV2`, 20 postings per page,
@@ -16,15 +16,31 @@
  *   - no login, no cookies of a real user, no authenticated area;
  *   - no forged tokens or headers: the page makes its own requests, nothing is
  *     replayed from outside it;
- *   - NO BYPASS. A challenge page (Cloudflare "Just a moment", a CAPTCHA, a
- *     403/429/503) stops the WHOLE run with a named error; it is never solved,
- *     retried around or relayed.
+ *   - NO BYPASS. What it recognizes as a challenge or refusal (an HTTP
+ *     401/403/429/451/5xx, a page whose title or first lines read "Just a
+ *     moment" / CAPTCHA / "Access denied" / "Attention required") stops the
+ *     WHOLE run with a named error; it is never solved, retried around or
+ *     relayed. A results request that never happens, is not JSON or is not a
+ *     2xx reply is treated as an inconclusive refusal: two in a row stop the
+ *     run too. A challenge in a form this does not recognize is not detected.
  *
  * LIGHT TOUCH. One person looking for a job, not a crawler:
  *   - identifies itself with the shared career-ops User-Agent;
- *   - reads each site's robots.txt on every run and skips any path it
- *     disallows (the board's own `/*recientes=true`, `/*?localidades=*`,
- *     `/empleos-busquedaext-` are never requested);
+ *   - reads each site's robots.txt on every run (once per site) and skips any
+ *     path it disallows (the board's own `/*recientes=true`, `/*?localidades=*`,
+ *     `/empleos-busquedaext-` are never requested); the page's own results
+ *     request (`/api/avisos/searchV2`) is checked against it too. On this fork
+ *     a group naming ClaudeBot, anthropic-ai, Claude-Web or Claude-User also
+ *     binds: if any of them disallows a path, it is not requested;
+ *   - robots.txt record (measured 2026-10-12 with the scanner's DEFAULT_USER_AGENT):
+ *     bumeran.com.ar and zonajobs.com.ar both serve only a `User-agent: *`
+ *     group (Disallow /*recientes=true, /*relevantes=true, /empleos.html/111
+ *     and /100, /empleos-area-*\/111 and /100, /en-*\/empleos.html/111 and /100,
+ *     /empleos-busquedaext-, /*?localidades=*, /*&localidades=*; no
+ *     Crawl-delay) and NO group naming ClaudeBot, anthropic-ai, Claude-Web or
+ *     Claude-User. Result: /empleos-busqueda-{slug}.html[?page=N] is allowed;
+ *   - postings with no identifiable employer (confidential, or a literal
+ *     "Confidencial") are dropped and counted in the summary, never emitted;
  *   - one navigation every 6 s, at most 5 pages per keyword (default 2), at
  *     most 8 keywords per search, and a hard cap of 40 navigations per run;
  *   - images, media and fonts are not downloaded;
@@ -53,7 +69,7 @@
 import { readFileSync, existsSync, mkdirSync } from 'fs';
 import * as yaml from 'js-yaml';
 import {
-  appendToPipeline, appendToScanHistory, loadSeenUrls, PORTALS_PATH,
+  appendToPipeline, appendToScanHistory, loadSeenUrls, unrecordedOffers, PORTALS_PATH, SCAN_HISTORY_PATH,
   buildTitleFilter, buildLocationFilter, parseSinceDays, resolveEffectiveAfter, buildPostedDateFilter,
   companyRoleDedupKey,
 } from './scan.mjs';
@@ -64,6 +80,7 @@ import { isMainModule } from './lib/is-main-module.mjs';
 import { flagValue, hasFlag, validateFlags } from './lib/cli-flags.mjs';
 import { DEFAULT_USER_AGENT } from './user-agent.mjs';
 import { decodeEntities } from './providers/_html-entities.mjs';
+import { htmlToText } from './providers/_html-to-text.mjs';
 
 // ── Constants ────────────────────────────────────────────────────────
 
@@ -85,7 +102,10 @@ export const NAV_DELAY_MS = 6000;
 const MAX_SLUG_LENGTH = 60;
 const MAX_DESCRIPTION_CHARS = 20_000;
 const SEARCH_RESPONSE_TIMEOUT_MS = 30_000;
+const MAX_CONSECUTIVE_REFUSALS = 2;
 
+/** An employer the board hides: nothing to evaluate or apply against, so the posting is dropped (fork policy). */
+const ANONYMOUS_EMPLOYER_RE = /^(?:empresa\s+)?confidencial$/i;
 const SEARCH_API_RE = /\/api\/avisos\/searchV2\b/;
 /** A posting link as the board renders it: `/empleos/{slug}-{numeric id}.html`. */
 const POSTING_PATH_RE = /^\/empleos\/[a-z0-9-]*?-?(\d+)\.html$/;
@@ -200,26 +220,51 @@ function robotsPatternToRegExp(pattern) {
   return new RegExp(`^${body}${anchored ? '$' : ''}`);
 }
 
-/**
- * Whether a path (with query) may be fetched under a robots.txt, for this
- * scanner's own token (`career-ops`), falling back to the `*` group. Longest
- * matching pattern wins; Allow wins a tie; no matching rule → allowed.
- * @param {string} robotsText
- * @param {string} pathWithQuery e.g. `/empleos-busqueda-devops.html?page=2`
- * @returns {boolean}
- */
-export function isAllowedByRobots(robotsText, pathWithQuery) {
-  const groups = parseRobots(robotsText);
-  const own = groups.filter((g) => g.agents.some((a) => a !== '*' && 'career-ops'.includes(a)));
-  const star = groups.filter((g) => g.agents.includes('*'));
-  const rules = (own.length ? own : star).flatMap((g) => g.rules);
+/** This scanner's own robots token (exact, case-insensitive match). */
+export const OWN_ROBOTS_TOKEN = 'career-ops';
+/** Anthropic crawler groups that also bind on this fork: a Disallow there is honoured. */
+export const CLAUDE_ROBOTS_TOKENS = ['claudebot', 'anthropic-ai', 'claude-web', 'claude-user'];
+
+/** Longest-match decision over the rules of some groups; no matching rule → allowed. */
+function rulesAllow(groups, pathWithQuery) {
   let best = null;
-  for (const rule of rules) {
+  for (const rule of groups.flatMap((g) => g.rules)) {
     if (!robotsPatternToRegExp(rule.pattern).test(pathWithQuery)) continue;
     if (!best || rule.pattern.length > best.pattern.length || (rule.pattern.length === best.pattern.length && rule.allow)) best = rule;
   }
   return best ? best.allow : true;
 }
+
+/**
+ * Name of the robots group that forbids a path, or null when it is allowed.
+ * Binding groups: this scanner's own token (exact match) else `*`, and — on
+ * this fork — each Claude-named group (ClaudeBot, anthropic-ai, Claude-Web,
+ * Claude-User). Longest matching pattern wins; Allow wins a tie.
+ * @param {string} robotsText
+ * @param {string} pathWithQuery e.g. `/empleos-busqueda-devops.html?page=2`
+ * @returns {string | null}
+ */
+export function robotsBlockedBy(robotsText, pathWithQuery) {
+  const groups = parseRobots(robotsText);
+  const named = (token) => groups.filter((g) => g.agents.includes(token));
+  const own = named(OWN_ROBOTS_TOKEN);
+  const star = groups.filter((g) => g.agents.includes('*'));
+  const base = own.length ? own : star;
+  if (!rulesAllow(base, pathWithQuery)) return own.length ? OWN_ROBOTS_TOKEN : '*';
+  for (const token of CLAUDE_ROBOTS_TOKENS) {
+    const g = named(token);
+    if (g.length && !rulesAllow(g, pathWithQuery)) return token;
+  }
+  return null;
+}
+
+/** @returns {boolean} whether a path may be fetched — see robotsBlockedBy(). */
+export function isAllowedByRobots(robotsText, pathWithQuery) {
+  return robotsBlockedBy(robotsText, pathWithQuery) === null;
+}
+
+/** Visible text inspected for challenge phrases: the top of the page, not the whole article. */
+const CHALLENGE_TEXT_WINDOW = 600;
 
 /** Signals that a response is an interstitial or a refusal, not the search page. */
 const CHALLENGE_TEXT_RE = /just a moment|verify(?:ing)? you are (?:a )?human|checking your browser|attention required|captcha|access denied|enable javascript and cookies to continue/i;
@@ -231,8 +276,8 @@ const CHALLENGE_TEXT_RE = /just a moment|verify(?:ing)? you are (?:a )?human|che
  * @returns {string | null}
  */
 export function detectChallenge({ status = null, title = '', text = '' } = {}) {
-  if (status === 403 || status === 429 || status === 503) return `HTTP ${status}`;
-  const hay = `${title ?? ''} ${String(text ?? '').slice(0, 4000)}`;
+  if (status === 401 || status === 403 || status === 429 || status === 451 || (status != null && status >= 500)) return `HTTP ${status}`;
+  const hay = `${title ?? ''} ${String(text ?? '').slice(0, CHALLENGE_TEXT_WINDOW)}`;
   const m = CHALLENGE_TEXT_RE.exec(hay);
   return m ? `challenge page ("${m[0]}")` : null;
 }
@@ -272,7 +317,10 @@ export function parsePublished(dateTime, dateOnly) {
  *   `hrefById` maps a posting id to the `/empleos/…-{id}.html` path the page
  *   itself rendered for it; a posting with no rendered link falls back to
  *   `/empleos/{slug of the title}-{id}.html`, which the board resolves by id.
- * @returns {{title: string, url: string, company: string, location: string, description?: string, postedAt?: number, source: string}[]}
+ *   Postings with a hidden employer (`confidencial`, empty or "Confidencial"
+ *   `empresa`) are NOT returned; their count is `result.anonymous`, and
+ *   `result.rawCount` is the number of rows the page carried.
+ * @returns {{title: string, url: string, company: string, location: string, description?: string, postedAt?: number, source: string}[] & {anonymous: number, rawCount: number}}
  */
 export function parseSearchResponse(json, { site, hrefById = new Map() }) {
   const rows = json && Array.isArray(json.content) ? json.content : null;
@@ -282,6 +330,7 @@ export function parseSearchResponse(json, { site, hrefById = new Map() }) {
   }
   const { host, source } = SITES[site];
   const out = [];
+  let anonymous = 0;
   const seen = new Set();
   for (const row of rows) {
     if (!row || typeof row !== 'object') continue;
@@ -297,14 +346,13 @@ export function parseSearchResponse(json, { site, hrefById = new Map() }) {
     if (seen.has(url)) continue;
     seen.add(url);
 
-    const confidential = row.confidencial === true;
-    const company = !confidential && typeof row.empresa === 'string' && row.empresa.trim() ? row.empresa.replace(/\s+/g, ' ').trim() : '?';
-    const place = typeof row.localizacion === 'string' ? row.localizacion.replace(/\s+/g, ' ').trim() : '';
+    const company = typeof row.empresa === 'string' ? decodeEntities(row.empresa).replace(/\s+/g, ' ').trim() : '';
+    if (row.confidencial === true || !company || ANONYMOUS_EMPLOYER_RE.test(company)) { anonymous++; continue; }
+    const place = typeof row.localizacion === 'string' ? decodeEntities(row.localizacion).replace(/\s+/g, ' ').trim() : '';
     const mode = typeof row.modalidadTrabajo === 'string' ? row.modalidadTrabajo.trim() : '';
     const location = place && mode ? `${place} (${mode})` : place || mode;
-    const description = typeof row.detalle === 'string' && row.detalle.trim()
-      ? row.detalle.trim().slice(0, MAX_DESCRIPTION_CHARS)
-      : undefined;
+    const detail = typeof row.detalle === 'string' ? htmlToText(row.detalle).trim() : '';
+    const description = detail ? detail.slice(0, MAX_DESCRIPTION_CHARS) : undefined;
     const postedAt = parsePublished(row.fechaHoraPublicacion, row.fechaPublicacion);
 
     out.push({
@@ -313,20 +361,40 @@ export function parseSearchResponse(json, { site, hrefById = new Map() }) {
       ...(postedAt !== undefined ? { postedAt } : {}),
     });
   }
-  return out;
+  if (rows.length > 0 && out.length === 0 && anonymous === 0) {
+    throw new Error(`scan-navent: unexpected row shape — ${rows.length} rows, none with a usable id/titulo (fields renamed?)`);
+  }
+  return Object.assign(out, { anonymous, rawCount: rows.length });
 }
 
 // ── Browser-facing step (page-like object injected, so tests need no browser) ──
+
+/** A challenge or refusal: the run stops, nothing is retried or worked around. */
+export class ChallengeError extends Error {
+  constructor(message) {
+    super(message);
+    this.name = 'ChallengeError';
+  }
+}
+
+/** The results call did not happen / was not JSON / was not a 2xx reply: inconclusive, two in a row stop the run. */
+export class InconclusiveError extends Error {
+  constructor(message) {
+    super(message);
+    this.name = 'InconclusiveError';
+  }
+}
 
 /**
  * Open one search page and return what the page itself loaded.
  *
  * @param {any} page Playwright Page (or a stub with the same four methods)
  * @param {string} url
- * @param {{site: keyof typeof SITES}} opts
- * @returns {Promise<{postings: ReturnType<typeof parseSearchResponse>, total: number|null}>}
+ * @param {{site: keyof typeof SITES, robotsText?: string}} opts
+ * @returns {Promise<{postings: ReturnType<typeof parseSearchResponse>, total: number|null, rawCount: number, anonymous: number}>}
  */
-export async function loadSearchPage(page, url, { site }) {
+export async function loadSearchPage(page, url, { site, robotsText = '' }) {
+  const label = SITES[site].label;
   // Registered BEFORE navigating: the page fires its own results call while it loads.
   const responsePromise = page.waitForResponse(
     (r) => SEARCH_API_RE.test(r.url()) && r.request().method() === 'POST',
@@ -336,20 +404,39 @@ export async function loadSearchPage(page, url, { site }) {
   const nav = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45_000 });
   const status = nav && typeof nav.status === 'function' ? nav.status() : null;
 
-  const reply = await responsePromise;
-  const title = await page.title().catch(() => '');
-  const text = await page.evaluate(() => (document.body ? document.body.innerText : '')).catch(() => '');
-  const blocked = detectChallenge({ status, title, text });
-  if (blocked) throw new ChallengeError(`${SITES[site].label}: ${blocked} at ${url}`);
+  const observe = async () => {
+    const title = await page.title().catch(() => '');
+    const text = await page.evaluate(() => (document.body ? document.body.innerText : '')).catch(() => '');
+    return detectChallenge({ status, title, text });
+  };
+  // Judged BEFORE waiting for the results call: a challenge page never fires it,
+  // and waiting out the timeout first would only add 30 s of silence.
+  const early = await observe();
+  if (early) throw new ChallengeError(`${label}: ${early} at ${url}`);
 
+  const reply = await responsePromise;
   if (reply instanceof Error) {
-    throw new Error(`scan-navent: ${SITES[site].label} never made its results request at ${url} (${reply.message.split('\n')[0]}) — the page changed or did not load`);
+    const late = await observe();
+    if (late) throw new ChallengeError(`${label}: ${late} at ${url}`);
+    throw new InconclusiveError(`scan-navent: ${label} never made its results request at ${url} (${reply.message.split('\n')[0]}) — the page changed or did not load`);
   }
+  // The page's own XHR is subject to robots.txt like any path the scanner requests.
+  const apiPath = String(reply.url()).replace(/^https?:\/\/[^/]+/, '');
+  const apiBlockedBy = robotsBlockedBy(robotsText, apiPath);
+  if (apiBlockedBy) throw new ChallengeError(`${label}: robots.txt (group ${apiBlockedBy}) disallows the page's own results request ${apiPath.split('?')[0]} — stopped`);
+
   const replyStatus = typeof reply.status === 'function' ? reply.status() : 200;
-  if (replyStatus === 403 || replyStatus === 429 || replyStatus === 503) {
-    throw new ChallengeError(`${SITES[site].label}: results request answered HTTP ${replyStatus} at ${url}`);
+  const refused = detectChallenge({ status: replyStatus });
+  if (refused) throw new ChallengeError(`${label}: results request answered ${refused} at ${url}`);
+  if (replyStatus < 200 || replyStatus >= 300) {
+    throw new InconclusiveError(`scan-navent: ${label} results request answered HTTP ${replyStatus} at ${url}`);
   }
-  const json = await reply.json();
+  let json;
+  try {
+    json = await reply.json();
+  } catch {
+    throw new InconclusiveError(`scan-navent: ${label} results request did not return JSON at ${url}`);
+  }
 
   // The links the page rendered for these postings: only the exact path shape is kept.
   const hrefs = await page.evaluate(() => [...document.querySelectorAll('a[href*="/empleos/"]')].map((a) => a.getAttribute('href') || '')).catch(() => []);
@@ -363,15 +450,7 @@ export async function loadSearchPage(page, url, { site }) {
 
   const postings = parseSearchResponse(json, { site, hrefById });
   const total = json && Number.isInteger(json.total) ? json.total : null;
-  return { postings, total };
-}
-
-/** A challenge or refusal: the run stops, nothing is retried or worked around. */
-export class ChallengeError extends Error {
-  constructor(message) {
-    super(message);
-    this.name = 'ChallengeError';
-  }
+  return { postings, total, rawCount: postings.rawCount, anonymous: postings.anonymous };
 }
 
 /**
@@ -380,26 +459,32 @@ export class ChallengeError extends Error {
  *
  * @param {any} page
  * @param {{site: keyof typeof SITES, keywords: string[], maxPages: number}} search
- * @param {{sleep: (ms: number) => Promise<void>, budget: {left: number}, robotsText: string, log?: (s: string) => void}} deps
+ * @param {{sleep: (ms: number) => Promise<void>, budget: {left: number}, robotsText: string, log?: (s: string) => void, refusals?: {n: number}}} deps
+ *   `refusals` counts consecutive inconclusive results calls across the whole run.
+ *   A ChallengeError thrown from here carries `found`, `errors`, `navigations`
+ *   and `anonymous`: what was already collected is not lost.
  */
-export async function runSearch(page, search, { sleep, budget, robotsText, log = () => {} }) {
+export async function runSearch(page, search, { sleep, budget, robotsText, log = () => {}, refusals = { n: 0 } }) {
   /** @type {ReturnType<typeof parseSearchResponse>} */
   const found = [];
   /** @type {{keyword: string, error: string}[]} */
   const errors = [];
   let navigations = 0;
+  let anonymous = 0;
+  const partial = (err) => Object.assign(err, { found, errors, navigations, anonymous });
 
   for (const keyword of search.keywords) {
     for (let pageNo = 1; pageNo <= search.maxPages; pageNo++) {
       const url = buildSearchUrl(search.site, keyword, pageNo);
       const pathWithQuery = url.replace(/^https:\/\/[^/]+/, '');
-      if (!isAllowedByRobots(robotsText, pathWithQuery)) {
-        errors.push({ keyword, error: `robots.txt disallows ${pathWithQuery} — skipped` });
+      const blockedBy = robotsBlockedBy(robotsText, pathWithQuery);
+      if (blockedBy) {
+        errors.push({ keyword, error: `robots.txt (group ${blockedBy}) disallows ${pathWithQuery} — skipped` });
         break;
       }
       if (budget.left <= 0) {
         errors.push({ keyword, error: `navigation cap (${MAX_NAVIGATIONS} per run) reached — stopped` });
-        return { found, errors, navigations };
+        return { found, errors, navigations, anonymous };
       }
       if (budget.left < MAX_NAVIGATIONS) await sleep(NAV_DELAY_MS);
       budget.left--;
@@ -407,19 +492,25 @@ export async function runSearch(page, search, { sleep, budget, robotsText, log =
 
       let result;
       try {
-        result = await loadSearchPage(page, url, { site: search.site });
+        result = await loadSearchPage(page, url, { site: search.site, robotsText });
       } catch (err) {
-        if (err instanceof ChallengeError) throw err;
+        if (err instanceof ChallengeError) throw partial(err);
+        if (err instanceof InconclusiveError && ++refusals.n >= MAX_CONSECUTIVE_REFUSALS) {
+          throw partial(new ChallengeError(`${SITES[search.site].label}: ${refusals.n} results requests in a row failed or were refused (last: ${err.message}) — treated as a refusal`));
+        }
         errors.push({ keyword, error: err.message });
         break;
       }
+      refusals.n = 0;
+      anonymous += result.anonymous;
       log(`  ${SITES[search.site].label} "${keyword}" p${pageNo}: ${result.postings.length} postings${result.total != null ? ` (of ${result.total})` : ''}\n`);
       found.push(...result.postings);
-      // The page's own short page is the end of the results.
-      if (result.postings.length < PAGE_SIZE) break;
+      // The end of the results is judged on the rows the page carried, not on how
+      // many survived parsing, and on the total the board reports.
+      if (result.rawCount < PAGE_SIZE || (result.total != null && pageNo * PAGE_SIZE >= result.total)) break;
     }
   }
-  return { found, errors, navigations };
+  return { found, errors, navigations, anonymous };
 }
 
 // ── CLI ──────────────────────────────────────────────────────────────
@@ -440,11 +531,11 @@ async function fetchRobots(context, site) {
   const res = await context.request.get(url, { timeout: 20_000, maxRedirects: 0 });
   const status = res.status();
   if (status === 404) return '';
-  const body = await res.text();
-  const blocked = detectChallenge({ status, text: body });
+  // robots.txt is judged by its status only: its body legitimately says things like "Disallow: /captcha/".
+  const blocked = detectChallenge({ status });
   if (blocked) throw new ChallengeError(`${SITES[site].label}: ${blocked} reading robots.txt`);
   if (status < 200 || status >= 300) throw new Error(`${SITES[site].label}: robots.txt answered HTTP ${status} — not scanning without knowing the rules`);
-  return body;
+  return res.text();
 }
 
 async function main(args) {
@@ -494,6 +585,10 @@ async function main(args) {
   const dateSkipped = [];
   const dupeSkipped = [];
   const roleKeys = new Set();
+  const seenInRun = new Set();
+  const robotsCache = new Map();
+  const refusals = { n: 0 };
+  let anonymousDropped = 0;
   const errors = [];
   let totalFound = 0;
   let navigations = 0;
@@ -515,34 +610,49 @@ async function main(args) {
 
   try {
     for (const search of searches) {
-      let robotsText;
-      try {
-        robotsText = await fetchRobots(context, search.site);
-      } catch (err) {
-        if (err instanceof ChallengeError) throw err;
-        errors.push({ keyword: SITES[search.site].label, error: err.message });
-        continue;
+      let robotsText = robotsCache.get(search.site);
+      if (robotsText === undefined) {
+        try {
+          robotsText = await fetchRobots(context, search.site);
+          robotsCache.set(search.site, robotsText);
+        } catch (err) {
+          if (err instanceof ChallengeError) throw err;
+          errors.push({ keyword: SITES[search.site].label, error: err.message });
+          continue;
+        }
       }
-      const result = await runSearch(page, search, { sleep, budget, robotsText, log: (s) => process.stdout.write(s) });
+      let result;
+      let challenge = null;
+      try {
+        result = await runSearch(page, search, { sleep, budget, robotsText, refusals, log: (s) => process.stdout.write(s) });
+      } catch (err) {
+        if (!(err instanceof ChallengeError)) throw err;
+        // Keep what was collected before the refusal.
+        challenge = err;
+        result = { found: err.found ?? [], errors: err.errors ?? [], navigations: err.navigations ?? 0, anonymous: err.anonymous ?? 0 };
+      }
       navigations += result.navigations;
       errors.push(...result.errors);
-      totalFound += result.found.length;
+      anonymousDropped += result.anonymous;
 
       for (const offer of result.found) {
-        if (!matchesTitle(offer.title)) { seen.add(offer.url); titleSkipped.push(offer); continue; }
-        if (!matchesLocation(offer.location, offer.url, offer.title)) { seen.add(offer.url); locationSkipped.push(offer); continue; }
-        if (!matchesDate(offer.postedAt)) { seen.add(offer.url); dateSkipped.push(offer); continue; }
+        // One URL is one posting, however many keywords or pages returned it.
+        if (seenInRun.has(offer.url)) continue;
+        seenInRun.add(offer.url);
+        totalFound++;
+        if (!matchesTitle(offer.title)) { titleSkipped.push(offer); continue; }
+        if (!matchesLocation(offer.location, offer.url, offer.title)) { locationSkipped.push(offer); continue; }
+        if (!matchesDate(offer.postedAt)) { dateSkipped.push(offer); continue; }
         if (seen.has(offer.url)) { dupeSkipped.push(offer); continue; }
         seen.add(offer.url);
         // The same posting is often published on both boards, or once per branch:
-        // one company + role is one entry in this run (unknown employers `?` are never merged).
-        if (offer.company !== '?') {
-          const roleKey = companyRoleDedupKey(offer.company, offer.title);
-          if (roleKeys.has(roleKey)) { dupeSkipped.push(offer); continue; }
-          roleKeys.add(roleKey);
-        }
+        // one company + role is one entry in this run.
+        const roleKey = companyRoleDedupKey(offer.company, offer.title);
+        if (roleKeys.has(roleKey)) { dupeSkipped.push(offer); continue; }
+        roleKeys.add(roleKey);
         newOffers.push(offer);
       }
+      if (challenge) { stopped = challenge.message; break; }
     }
   } catch (err) {
     if (err instanceof ChallengeError) stopped = err.message;
@@ -555,15 +665,22 @@ async function main(args) {
   if (!DRY_RUN) {
     if (newOffers.length > 0) await appendToPipeline(newOffers);
     if (newOffers.length > 0) await appendToScanHistory(newOffers, date, 'added');
-    if (titleSkipped.length > 0) await appendToScanHistory(titleSkipped, date, 'skipped_title');
-    if (locationSkipped.length > 0) await appendToScanHistory(locationSkipped, date, 'skipped_location');
-    if (dateSkipped.length > 0) await appendToScanHistory(dateSkipped, date, 'skipped_date');
-    if (dupeSkipped.length > 0) await appendToScanHistory(dupeSkipped, date, 'skipped_dup');
+    // title and date cuts are NOT recorded: scan-history treats most skipped_* rows as
+    // "seen", and both cuts are ones the user edits (title_filter, --since), so a row
+    // written under today's setting would bury the posting once it changes.
+    // skipped_location is observational (no dedup weight) and, like skipped_dup,
+    // is written once per URL rather than once per scan.
+    const historyText = existsSync(SCAN_HISTORY_PATH) ? readFileSync(SCAN_HISTORY_PATH, 'utf-8') : '';
+    const newLocationRows = unrecordedOffers(locationSkipped, 'skipped_location', historyText);
+    const newDupeRows = unrecordedOffers(dupeSkipped, 'skipped_dup', historyText);
+    if (newLocationRows.length > 0) await appendToScanHistory(newLocationRows, date, 'skipped_location');
+    if (newDupeRows.length > 0) await appendToScanHistory(newDupeRows, date, 'skipped_dup');
   }
 
   printScanSummaryHeader('Navent Scan (Bumeran / ZonaJobs)', date);
   console.log(`Navigations:        ${navigations} (cap ${MAX_NAVIGATIONS})`);
   console.log(`Total found:        ${totalFound}`);
+  console.log(`No employer (dropped): ${anonymousDropped}`);
   console.log(`Filtered by title:  ${titleSkipped.length}`);
   console.log(`Filtered location:  ${locationSkipped.length}`);
   console.log(`Filtered by date:   ${dateSkipped.length}`);
