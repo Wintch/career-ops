@@ -1238,6 +1238,8 @@ search_queries:
 #   computrabajo    <cc>.computrabajo.com  (LatAm general board, one host per country: ar mx co cl pe ec uy ve bo cr do gt hn ni pa py sv pr;
 #                   only the host is read — set searchKeywords: on the entry, see the stanza below;
 #                   reading needs no login, applying needs a free Computrabajo candidate account; job.url is the board's own posting page)
+#   djinni          djinni.co  (Ukraine IT board; any djinni.co URL, /hire included — only the host is read;
+#                   optional searchKeywords: are Djinni category names, see the stanza below)
 #   generalist-world generalist.world/jobs/  (curated generalist / operator roles board; SSR HTML, one fetch; or provider: generalist-world)
 #   applitrack      www.applitrack.com/<district>/onlineapp/  (Frontline AppliTrack K-12 board; optional default_location: "City, ST" is appended to site names that name no place)
 #   schoolspring    <district>.schoolspring.com  (K-12 board; public JSON API)
@@ -1672,6 +1674,14 @@ search_queries:
 #   searchLocation: capital-federal       # optional location slug, as in the board's own URLs
 #   max_pages: 5                          # optional page cap (20 postings/page, default 5, max 25)
 #   enabled: true                         # server-rendered; 1.5 s pacing between requests; robots.txt-clean paths only
+#
+# - name: Example Djinni                  # Ukraine's IT job board (posted by the company or its recruiter)
+#   careers_url: https://djinni.co/jobs/  # auto-detected on djinni.co; or provider: djinni
+#   searchKeywords: [DevOps, Sysadmin]    # optional Djinni category names, one pass each (max 8) — exactly as
+#                                         # listed in https://djinni.co/jobs/rss/; an unknown one is an error.
+#                                         # Omit to read the newest 150 postings (10 pages x 15; up to 600)
+#   max_pages: 10                         # optional page cap (15 postings/page, default 10, max 40)
+#   enabled: true                         # server-rendered JSON-LD; 1 s pacing; monthly salaries annualized
 #
 # - name: The Hub                         # Nordic/EU startup board
 #   provider: thehub
@@ -3364,3 +3374,14 @@ job_boards:
     max_pages: 3
     enabled: false
     notes: "Edit searchKeywords first. Other countries: ar mx co cl pe ec uy ve bo cr do gt hn ni pa py sv pr."
+
+  # ── Ukraine — IT boards ─────────────────────────────────────────────
+  # Djinni: postings come from the hiring company or its recruiter (not distinguished); many roles are remote across Europe.
+  # Pick your categories from https://djinni.co/jobs/rss/ (exact names).
+
+  - name: Djinni
+    careers_url: https://djinni.co/jobs/
+    searchKeywords: [DevOps]
+    max_pages: 10
+    enabled: false
+    notes: "Edit searchKeywords to your Djinni categories first. 15 postings/page with employer, location, description and (when published) salary."
