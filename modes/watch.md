@@ -29,7 +29,7 @@ Only companies the user explicitly names go on the watchlist. Never auto-add a c
 
 ## Data-sourcing policy (public sources first, then ask)
 
-For every field below, try public sources first (official site — About/Team/Press/Careers pages — engineering blog, LinkedIn company page, X/Twitter, openqube.io), and **only if nothing public is found**, ask the user directly for that one field rather than guessing. Never fabricate a number, a name, or a date. A field with no source is written as `unknown` — not blank, not a guess — so a later refresh knows it's still open.
+For every field below, try public sources first (official site — About/Team/Press/Careers pages — engineering blog, LinkedIn company page, X/Twitter, openqube.io), and **only if nothing public is found**, ask the user directly for that one field rather than guessing. **LinkedIn and X:** use only what WebSearch results show or what the user pastes; never log in, never fetch profile pages, never automate either site (CONTRIBUTING.md rejects LinkedIn scraping). A tenure or headcount that only a logged-in page shows stays `unknown` unless the user supplies it. Never fabricate a number, a name, or a date. A field with no source is written as `unknown` — not blank, not a guess — so a later refresh knows it's still open.
 
 Every value that *is* filled in carries its source and an as-of date, because staff counts and role tenure go stale fast:
 
@@ -96,7 +96,7 @@ Local only — never uploaded, never used to generate CV/cover-letter/interview 
   - {Role}: {person or "unknown"} — in role since {date or "unknown"} (source: {url or "user-provided"}, as of {date})
 - **Stack / tech signals:** {notes with sources}
 - **Social / network observations:** {narrative notes}
-- **OpenQube review:** {rating}/10 — {pros/cons summary} (openqube.io) | not listed
+- **OpenQube review:** {rating, on the scale the page shows} ({N} reviews) — {pros/cons summary} (openqube.io) | not listed
 - **Last refreshed:** {YYYY-MM-DD}
 - **Changelog:**
   - {YYYY-MM-DD}: added to watchlist
@@ -104,5 +104,5 @@ Local only — never uploaded, never used to generate CV/cover-letter/interview 
 
 ## Cross-references
 
-- `interview-prep` and `deep` may read `data/company-watch.md` for narrative context on a company the user is actively interviewing with — it is background color for interview prep, same trust tier as `article-digest.md`'s narrative use, **never** a source for a quantified claim in generated content.
+- `interview-prep` and `deep` may read `data/company-watch.md` as company context for a company the user is actively interviewing with (who holds a role, what the stack looks like), the same way they use web research. It is never a claim about the candidate and never a source for any quantified claim in generated content (same tier as auto-memory, per AGENTS.md).
 - Job-posting history for stack signals: cross-check `data/scan-history.tsv` (grep by company) rather than re-deriving it from scratch — the scanner has already been recording that company's postings over time.
