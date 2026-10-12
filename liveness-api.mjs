@@ -35,6 +35,7 @@
 
 import { DEFAULT_USER_AGENT } from './user-agent.mjs';
 import { parseWwrFeed } from './providers/weworkremotely.mjs';
+import { WORKDAY_JOB_PATH_RE } from './providers/workday.mjs';
 import { atsVendorOf } from './ats-vendor.mjs';
 
 const TIMEOUT_MS = 8_000;
@@ -181,7 +182,7 @@ const ATS_PROVIDERS = [
     match(u) {
       if (atsVendorOf(u.href) !== 'workday') return null;
       const m = `${u.hostname}${u.pathname}`.match(
-        /^([\w-]+)\.(wd[\w-]*)\.myworkdayjobs\.com\/(?:[a-z]{2}-[A-Z]{2}\/)?([^/?#]+)\/job\/(.+?)\/?$/
+        WORKDAY_JOB_PATH_RE
       );
       if (!m) return null;
       const [, tenant, shard, site, jobPath] = m;

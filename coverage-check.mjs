@@ -22,6 +22,7 @@ import { getCareerOpsRoot } from './path-resolver.mjs';
 import { localToday } from './lib/local-today.mjs';
 import { isMainModule } from './lib/is-main-module.mjs';
 import { flagValue, validateFlags } from './lib/cli-flags.mjs';
+import { stripWorkdayLocale } from './providers/workday.mjs';
 
 const CODE_ROOT = path.dirname(fileURLToPath(import.meta.url));
 const DATA_ROOT = getCareerOpsRoot();
@@ -68,7 +69,7 @@ export function atsFromUrl(url) {
   if (wd) {
     // /{locale}/{site}/job/... or /{site}/job/...: the site is the segment before "job".
     const jobIdx = seg.indexOf('job');
-    const site = (jobIdx > 0 ? seg[jobIdx - 1] : seg.find(s => !/^[a-z]{2}-[A-Z]{2}$/.test(s))) || '';
+    const site = (jobIdx > 0 ? seg[jobIdx - 1] : stripWorkdayLocale(seg)[0]) || '';
     return { ats: 'workday', slug: `${wd[1]}|${wd[2]}|${site}`.toLowerCase(), host };
   }
   const ic = host.match(/^(?:careers-)?([^.]+)\.icims\.com$/);

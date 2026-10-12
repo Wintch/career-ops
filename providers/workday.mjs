@@ -334,7 +334,31 @@ export function pageIsPastWindow(pageJobs, sinceMs) {
 }
 
 // A careers page: `https://{tenant}.{instance}.myworkdayjobs.com[/{locale}]/{site}`.
-const CAREERS_RE = /^https:\/\/([\w-]+)\.(wd[\w-]*)\.myworkdayjobs\.com\/(?:[a-z]{2}-[A-Z]{2}\/)?([^/?#]+)/;
+// The locale is `xx-XX` (`en-US`) or a bare language (`/es/`, `/pt/`, the form
+// Latin American careers pages tend to link). A bare language counts only when
+// it is one of WORKDAY_BARE_LOCALES and a site follows it that is not `job` or
+// `details`, so a two-letter site keeps its name: `/us`, `/us/login` and
+// `/us/job/...` all read `us` as the site. Read without the bare form,
+// `/es/Rappi_jobs` took `es` as the site and the board answered 404.
+//
+// The other Workday URL readers (history-ats-seeds, discover-ats,
+// coverage-check, liveness-api) share these definitions, so one URL resolves
+// to the same site everywhere.
+export const WORKDAY_BARE_LOCALES = Object.freeze(['de', 'en', 'es', 'fr', 'ja', 'ko', 'nl', 'pl', 'pt', 'ru', 'sv', 'tr', 'zh']);
+/** Regex source for one locale path segment plus its slash, site-guarded. */
+export const WORKDAY_LOCALE_PREFIX = `(?:(?:[a-z]{2}-[A-Z]{2}|${WORKDAY_BARE_LOCALES.join('|')})\/(?!(?:job|details)(?:[/?#]|$))(?=[^/?#]))`;
+/** Drop a leading locale segment from a Workday path's segments, by the same rule. */
+export function stripWorkdayLocale(segments) {
+  const [first, next] = segments;
+  const isLocale = /^[a-z]{2}-[A-Z]{2}$/.test(first || '') || WORKDAY_BARE_LOCALES.includes(first);
+  return isLocale && next && next !== 'job' && next !== 'details' ? segments.slice(1) : segments;
+}
+const HOST = '([\\w-]+)\\.(wd[\\w-]*)\\.myworkdayjobs\\.com\\/';
+const CAREERS_RE = new RegExp(`^https:\/\/${HOST}${WORKDAY_LOCALE_PREFIX}?([^/?#]+)`);
+/** A careers URL, http or https, to tenant/instance/site (discover-ats). */
+export const WORKDAY_CAREERS_RE = new RegExp(`^https?:\/\/${HOST}${WORKDAY_LOCALE_PREFIX}?([^/?#]+)`);
+/** `{host}{path}` of a posting to tenant/shard/site/jobPath (liveness-api). */
+export const WORKDAY_JOB_PATH_RE = new RegExp(`^${HOST}${WORKDAY_LOCALE_PREFIX}?([^/?#]+)\/job\/(.+?)\/?$`);
 // The CXS endpoint itself: `https://{host}.{instance}.myworkdayjobs.com/wday/cxs/{tenant}/{site}[/jobs|/job/...]`.
 // This is the *resolved* form, not a careers page — it already carries the
 // tenant and site in its path. It also passes CAREERS_RE (same host shape),
