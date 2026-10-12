@@ -199,6 +199,17 @@ try {
     ),
     (jobs) => jobs.length === 1 && jobs[0].url.includes('g-1'),
   );
+
+  // softserve.parseVacanciesPage — for…of over data.vacancies; urlSegment feeds the posting URL.
+  const { parseVacanciesPage } = await load('softserve.mjs');
+  check(
+    'softserve.parseVacanciesPage',
+    () => parseVacanciesPage({ data: { vacancies: [
+      { id: 1, urlSegment: `${LONE}bad`, name: 'Bad' },
+      { id: 2, urlSegment: 'good-2', name: 'Good' },
+    ] } }).jobs,
+    (jobs) => jobs.length === 1 && jobs[0].url.endsWith('/vacancies/good-2'),
+  );
 } catch (e) {
   fail(`per-provider surrogate tests crashed: ${e.message}`);
 }
@@ -225,7 +236,7 @@ try {
   // regression this list catches.
   const CONVERTED = [
     'alibaba.mjs', 'arbeitsagentur.mjs', 'bamboohr.mjs', 'feishu-jobs.mjs', 'garena.mjs', 'jibeapply.mjs',
-    'manfred.mjs', 'meituan.mjs', 'mokahr.mjs', 'phenom.mjs', 'thehub.mjs', 'tkms.mjs', 'vdab.mjs',
+    'manfred.mjs', 'meituan.mjs', 'mokahr.mjs', 'phenom.mjs', 'softserve.mjs', 'thehub.mjs', 'tkms.mjs', 'vdab.mjs',
   ];
 
   // Bare `encodeURIComponent` on a url line that is reviewed as safe: the value
