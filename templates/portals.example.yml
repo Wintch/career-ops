@@ -1263,6 +1263,7 @@ search_queries:
 #
 # - name: Example YC Startup
 #   careers_url: https://www.workatastartup.com/companies/exampleco   # or www.ycombinator.com/companies/<slug>/jobs
+#   # reading is public; applying goes through a free YC / Work at a Startup account (no employer apply URL is exposed)
 #   enabled: true
 #
 # - name: Example Rippling Co
@@ -1807,7 +1808,7 @@ search_queries:
 #   enabled: true
 #
 # - name: Hacker News Jobs (YC)           # YC startups' job posts from news.ycombinator.com/jobs
-#   provider: hackernews-jobs             # official HN API; dated, employer-linked, newest ~30 only
+#   provider: hackernews-jobs             # official HN API; dated, employer-linked, newest maxItems only (default 30)
 #   maxItems: 30                          # optional, 1-60 (one request per post)
 #   enabled: true
 #
