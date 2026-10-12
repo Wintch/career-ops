@@ -1902,8 +1902,8 @@ search_queries:
 #
 # - name: Games Jobs Direct               # games-industry board, all disciplines (server-rendered HTML)
 #   provider: gamesjobsdirect             # robots.txt Crawl-Delay 5: paced 5 s/page, ~100 postings/day
-#   maxAgeDays: 2                         # optional, default 2
-#   maxPages: 12                          # optional, default 12, max 30
+#   maxAgeDays: 2                         # optional, default 2 (alias: since_days)
+#   maxPages: 25                          # optional, default 25, max 30 (alias: max_pages); warns if it stops on the cap
 #   enabled: true
 #
 # - name: Jobspresso                      # curated remote roles (public WordPress feed)
