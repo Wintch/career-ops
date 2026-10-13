@@ -3253,6 +3253,13 @@ tracked_companies:
     notes: "Cross-border payments (UY/AR). Remote within LatAm."
     enabled: true
 
+  - name: Claro Argentina (AMX)
+    careers_url: https://claroempleos-aup.com/
+    provider: successfactors
+    api: https://claroempleos-aup.com
+    notes: "Telecom (Claro, AMX Argentina; also lists Paraguay and Uruguay). Official careers site linked from claro.com.ar, a SuccessFactors RMK board: 67 postings on 2026-10-12, read through the successfactors provider with robots.txt allowing the list (it disallows /services/, which this board does not use). The IT category is small; no Claro video-specific postings were open that day."
+    enabled: true
+
   - name: Despegar
     careers_url: https://jobs.lever.co/despegar
     notes: "Online travel (AR HQ)."
