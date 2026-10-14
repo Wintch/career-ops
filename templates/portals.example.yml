@@ -1577,6 +1577,10 @@ search_queries:
 #   provider: deutschebahn                # optional — db.jobs host also auto-detects
 #   enabled: true
 #
+# - name: Games Workshop                  # single-company; one GET of the server-rendered listing
+#   careers_url: https://jobs.games-workshop.com/search-and-apply
+#   enabled: true
+#
 # - name: Garena                          # single-company; public zero-auth POST API
 #   careers_url: https://careers.garena.com/global   # auto-detects on careers.garena.com
 #   provider: garena                      # optional — careers.garena.com host also auto-detects
