@@ -1898,6 +1898,11 @@ search_queries:
 #   maxAgeDays: 10                        # optional, default 10
 #   enabled: true
 #
+# - name: ArtStation Jobs                 # art / games / film jobs (public JSON feed; page HTML is 403 to scanners)
+#   provider: artstation                  # location says "Remote" / "Relocation offered" when the posting does
+#   maxPages: 3                           # optional, default 3, max 10 (alias: max_pages); 100 postings/page
+#   enabled: true
+#
 # - name: Games Jobs Direct               # games-industry board, all disciplines (server-rendered HTML)
 #   provider: gamesjobsdirect             # robots.txt Crawl-Delay 5: paced 5 s/page, ~100 postings/day
 #   maxAgeDays: 2                         # optional, default 2 (alias: since_days)
