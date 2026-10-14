@@ -3904,7 +3904,10 @@ async function main() {
   const config = rawConfig && typeof rawConfig === 'object' ? rawConfig : {};
   const companies = Array.isArray(config.tracked_companies) ? config.tracked_companies : [];
   const boards = Array.isArray(config.job_boards) ? config.job_boards : [];
-  const titleFilter = buildTitleFilter(config.title_filter);
+  // `title_filter_overrides` (see buildTitleFilterOverrides) widens the positive net for the
+  // tracked companies it names, matched by the entry's `name`. No overrides, or a company
+  // that is not listed, behaves exactly like the plain title filter.
+  const titleFilter = buildTitleFilterWithOverrides(config.title_filter, buildTitleFilterOverrides(config.title_filter_overrides));
 
   // Seniority tier classifier integration
   let classifyTier = null;
@@ -4252,7 +4255,7 @@ async function main() {
         let sawAbsentField = false;
         for (const field of declaredFields) {
           if (field === 'title') {
-            if (!titleFilter(job.title)) { failedField = field; break; }
+            if (!titleFilter(job.title, company.name)) { failedField = field; break; }
           } else {
             const value = declaredFieldValue(job, field);
             if (isFieldAbsent(value)) sawAbsentField = true;

@@ -633,7 +633,7 @@ title_filter:
     - "Head"
     - "Director"
 
-# -- Title filter overrides (optional, scan-ats-full.mjs only) --
+# -- Title filter overrides (optional, scan.mjs and scan-ats-full.mjs) --
 # The reverse ATS sweep (scan-ats-full.mjs) applies ONE global title_filter
 # to every company in the public dataset it walks. Some employers legitimately
 # deserve a WIDER title net than everyone else, without loosening the global
@@ -647,6 +647,10 @@ title_filter:
 # same value scan-ats-full.mjs logs as the board name on fetch errors).
 # `positive_extra` keywords are ADDITIVE to (never a replacement for)
 # title_filter.positive above, and the global `negative` list still applies.
+#
+# In scan.mjs the same key applies to your tracked_companies: `companies` matches
+# the entry's `name` (case-insensitive), e.g. ["Scholastic"] widens the net for that
+# publisher alone ("Designer", "Art Director" for an illustration search).
 #
 # v1 keeps matching simple and explicit: a literal slug list, no
 # company-type inference and no domain heuristics. A company not listed in
