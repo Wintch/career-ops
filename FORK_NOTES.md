@@ -40,6 +40,9 @@ hand: change the topic branch, then merge it in again or rebuild `integration`.
 | `feat/watch-mode` | `watch` mode, a company watchlist |
 | `feat/yc-hn-jobs` | `yc-jobs` and `hackernews-jobs` providers, `--hiring-only` for YC seeds |
 | `feat/games-boards` | Games-industry boards (Remote Game Jobs, Work With Indies, Games Jobs Direct) |
+| `feat/artstation-provider` | ArtStation Jobs provider, from the public JSON feed (carries remote and relocation flags) |
+| `feat/gamesworkshop-provider` | Games Workshop careers provider |
+| `feat/scan-title-overrides` | `scan.mjs` applies `title_filter_overrides` to tracked companies |
 | `feat/djinni-provider` | Djinni provider (Ukraine IT) |
 | `feat/softserve-provider` | SoftServe careers provider |
 | `feat/streaming-infra-employers` | Streaming/video and cloud-native employers in the example config |
@@ -61,6 +64,9 @@ local branches: `feat/alternativateatral-provider` (its listing names no employe
 so it fails rule 1) and `local/art-boards-scan` (it read two boards that refuse the
 declared client through a browser User-Agent, with no `robots.txt` check). The
 local `integration-pre-rebuild-20261012` holds `integration` as it was before.
+What `local/art-boards-scan` read is now covered without a browser User-Agent: ArtStation and
+Games Workshop have their own providers, the publishers use `title_filter_overrides` on tracked
+companies, and the games boards were already providers.
 
 ### Resyncing with upstream
 
