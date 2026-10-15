@@ -372,7 +372,7 @@ It **filters**, exactly like `--posted-after` does — same semantics as
 
 The bound is also passed to providers as an **early-stop hint** — whichever
 lower bound ends up in effect, so `--posted-after` unlocks this too. Providers
-that return postings newest-first (currently `workday.mjs`) can stop paginating
+that return postings newest-first (currently `providers/workday.mjs`) can stop paginating
 once a page's oldest dated posting is past that bound instead of grinding to
 their `max_pages` cap.
 
@@ -402,7 +402,7 @@ Notes:
   off.** A posting whose provider exposes no date passes every date filter here,
   and a tenant that exposes no dates *at all* is protected — providers are
   explicitly told not to skip it. A tenant that **mixes** dated and undated
-  postings is not: `workday.mjs` decides the early stop from the page's dated
+  postings is not: `providers/workday.mjs` decides the early stop from the page's dated
   postings only, so once those are past the bound pagination halts and undated
   postings on later pages are never fetched. This is the one case where the
   early stop narrows results instead of only saving time. If a tenant's undated

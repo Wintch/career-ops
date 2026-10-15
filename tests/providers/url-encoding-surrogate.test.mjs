@@ -210,6 +210,18 @@ try {
     ] } }).jobs,
     (jobs) => jobs.length === 1 && jobs[0].url.endsWith('/vacancies/good-2'),
   );
+
+  // platsbanken.postingUrl — the ad id is the only segment of the permalink, and
+  // the helper's null (rather than a throw) is what lets one bad row drop.
+  const { postingUrl: platsbankenPostingUrl } = await load('platsbanken.mjs');
+  check(
+    'platsbanken.postingUrl',
+    () => [
+      platsbankenPostingUrl(`${LONE}bad`),
+      platsbankenPostingUrl('31581608'),
+    ],
+    ([bad, good]) => bad === null && good === 'https://arbetsformedlingen.se/platsbanken/annonser/31581608',
+  );
 } catch (e) {
   fail(`per-provider surrogate tests crashed: ${e.message}`);
 }
@@ -236,7 +248,8 @@ try {
   // regression this list catches.
   const CONVERTED = [
     'alibaba.mjs', 'arbeitsagentur.mjs', 'bamboohr.mjs', 'feishu-jobs.mjs', 'garena.mjs', 'jibeapply.mjs',
-    'manfred.mjs', 'meituan.mjs', 'mokahr.mjs', 'phenom.mjs', 'softserve.mjs', 'thehub.mjs', 'tkms.mjs', 'vdab.mjs',
+    'kalibrr.mjs', 'manfred.mjs', 'meituan.mjs', 'mokahr.mjs', 'phenom.mjs', 'platsbanken.mjs', 'softserve.mjs',
+    'techinasia.mjs', 'thehub.mjs', 'tkms.mjs', 'vdab.mjs',
   ];
 
   // Bare `encodeURIComponent` on a url line that is reviewed as safe: the value

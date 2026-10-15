@@ -12,7 +12,8 @@
  * leading pipe, so the first real column ("#"/num) is index 1.
  */
 
-import { readFileSync } from 'fs';
+import { existsSync, readFileSync, readdirSync } from 'fs';
+import { join } from 'path';
 
 /** The original fixed 9-column layout (num … notes at indices 1 … 9). */
 export const LEGACY_COLMAP = {
@@ -702,4 +703,28 @@ export function normalizeTextKey(value, separator = '') {
     .replace(/̇/gu, '')
     .replace(/[^\p{L}\p{M}\p{N}]+/gu, separator)
     .trim();
+}
+
+/**
+ * The posting URL recorded in the first of `reportNumbers` whose report file in
+ * `reportsRoot` has a `**URL:**` line that `accept` takes. Lives here, not in
+ * history-ats-seeds.mjs, because liveness-core.mjs needs it and the web app
+ * loads liveness-core: it must not pull in tracker-utils.mjs and its npm
+ * dependencies, which the web install does not have.
+ */
+export function reportUrlForNumbers(reportNumbers, reportsRoot, accept) {
+  if (!reportsRoot || !existsSync(reportsRoot) || reportNumbers.length === 0) return null;
+  let filenames;
+  try { filenames = readdirSync(reportsRoot); } catch { return null; }
+  for (const reportNum of reportNumbers) {
+    const reportName = filenames.find((name) => new RegExp(`^0*${reportNum}-.*\\.md$`, 'i').test(name));
+    if (!reportName) continue;
+    let report;
+    try { report = readFileSync(join(reportsRoot, reportName), 'utf-8'); } catch { continue; }
+    const match = report.match(/\*\*URL:\*\*[ \t]*(\S+)/);
+    if (!match) continue;
+    const url = match[1].replace(/[),.;]+$/, '').replace(/^<|>$/g, '');
+    if (accept(url)) return url;
+  }
+  return null;
 }
