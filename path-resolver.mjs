@@ -1,4 +1,4 @@
-import { resolve, dirname, join } from 'path';
+import { resolve, dirname, join, basename, parse, sep } from 'path';
 import { fileURLToPath } from 'url';
 import { existsSync, readFileSync, realpathSync } from 'fs';
 
@@ -47,6 +47,55 @@ export function canonicalizeTrackerPath(path) {
   } catch {
     return absolutePath;
   }
+}
+
+/**
+ * The spelling the Go dashboard canonicalizes a path to, for the tracker lock.
+ *
+ * Only the lock may use it. Every other path in the repository is compared with
+ * realpathSync() spellings, so returning it from canonicalizeTrackerPath() made
+ * a short %TEMP% fail containment and backup-path checks across the tracker
+ * scripts.
+ *
+ * @param {string} path - An absolute path, already through realpathSync.
+ * @returns {string} The path with each component as the filesystem stores it on
+ *   Windows; unchanged elsewhere.
+ */
+export function storedSpelling(path) {
+  return process.platform === 'win32' ? namesAsStoredOnWindows(path) : path;
+}
+
+/**
+ * Spell each component of a Windows path the way the filesystem stores it.
+ *
+ * realpathSync() resolves links but keeps a component as it was written, so an
+ * 8.3 short name (`C:\Users\RUNNER~1\...`, which %TEMP% often is) stays short.
+ * The Go dashboard canonicalizes with filepath.EvalSymlinks, which writes the
+ * long name, and the lock name is a hash of the path string: the two languages
+ * derived two lock directories for one tracker and stopped excluding each other
+ * (#4957). realpathSync.native() would expand the short name, but it also
+ * resolves a `subst` drive to the directory behind it, which Go keeps as
+ * written, so it would trade this divergence for another. Only each
+ * component's own name is taken from it; the drive or share stays as given,
+ * except that a drive letter is upper-cased, as EvalSymlinks writes it
+ * (realpathSync keeps `c:\` as it was typed).
+ *
+ * @param {string} path - An absolute path with no links left in it.
+ * @returns {string}
+ */
+function namesAsStoredOnWindows(path) {
+  const { root } = parse(path);
+  let out = /^[a-z]:/.test(root) ? root[0].toUpperCase() + root.slice(1) : root;
+  for (const part of path.slice(root.length).split(sep).filter(Boolean)) {
+    let name = part;
+    try {
+      name = basename(realpathSync.native(join(out, part)));
+    } catch {
+      // Unreadable here: keep the component as realpathSync wrote it.
+    }
+    out = join(out, name);
+  }
+  return out;
 }
 
 /**

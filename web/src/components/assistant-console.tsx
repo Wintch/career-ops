@@ -11,6 +11,7 @@ import { useJobs } from "@/components/jobs/job-store";
 import { usePipeline } from "@/components/pipeline/pipeline-provider";
 import { useApply } from "@/components/apply/apply-provider";
 import { useExplore } from "@/components/explore/explore-provider";
+import { workerBatchSummary, workerDetailsLabel } from "@/lib/worker-feedback.mjs";
 import { WorkerCard } from "@/components/jobs/worker-card";
 import { Button } from "@/components/ui/button";
 import { dispatch, type ActionCtx, type DoneInfo } from "@/app/actions/registry";
@@ -29,6 +30,7 @@ type Part =
   | { type: "batch"; batchId: string; jobIds: string[] }
   | { type: "confirm"; cid: string; summary: string; state: "pending" | "done" | "cancelled" };
 type Msg = { role: "user" | "assistant"; parts: Part[] };
+type RequestFeedback = { id: number; phase: "working" | "ready" | "error"; announce: boolean };
 
 const CONFIG_KEY = "career-ops:config";
 const CHAT_KEY = "career-ops:chat";
@@ -149,6 +151,32 @@ export function AssistantConsole() {
   const saveQueue = useRef<Promise<void>>(Promise.resolve());
   const [input, setInput] = useState("");
   const [busy, setBusy] = useState(false);
+  const [requestFeedback, setRequestFeedback] = useState<RequestFeedback | null>(null);
+  const [announcement, setAnnouncement] = useState("");
+  const requestSequence = useRef(0);
+  const lastAnnounced = useRef("");
+  const openRef = useRef(open);
+  openRef.current = open;
+  const latestReplyRef = useRef<HTMLDivElement>(null);
+  const feedbackId = useId();
+  const latestReplyIndex = messages.findLastIndex((m) => m.role === "assistant");
+  const latestReply = messages[latestReplyIndex];
+  const pendingConfirmations = messages.reduce((count, m) => count + (m.role === "assistant" ? m.parts.filter((p) => p.type === "confirm" && p.state === "pending").length : 0), 0);
+  const confirmationText = pendingConfirmations ? ` ${pendingConfirmations} ${pendingConfirmations === 1 ? "action needs" : "actions need"} confirmation.` : "";
+  const feedbackText = requestFeedback?.phase === "working" ? `Processing your request.${confirmationText}`
+    : requestFeedback?.phase === "error" ? "Request failed. Review the error."
+    : requestFeedback?.phase === "ready" ? `Reply ready.${confirmationText}` : "";
+
+  // Only request transitions notify. Tokens, card decisions and history mounts
+  // do not. Mark closed-panel events consumed so reopening never replays them.
+  useEffect(() => {
+    if (!requestFeedback) return;
+    const event = `${requestFeedback.id}:${requestFeedback.phase}`;
+    if (lastAnnounced.current === event) return;
+    lastAnnounced.current = event;
+    setAnnouncement(openRef.current && requestFeedback.announce ? feedbackText : "");
+  }, [requestFeedback, feedbackText]);
+  useEffect(() => { if (!open) setAnnouncement(""); }, [open]);
   const router = useRouter();
   const pathname = usePathname();
   const scrollRef = useRef<HTMLDivElement>(null);
@@ -172,6 +200,8 @@ export function AssistantConsole() {
   }
   function closeAssistant() {
     focusOnClose.current = !!panelRef.current?.contains(document.activeElement);
+    openRef.current = false;
+    setAnnouncement("");
     setOpen(false);
   }
 
@@ -371,6 +401,8 @@ export function AssistantConsole() {
       setMessages(next);
       setInput("");
       confirmRuns.current.clear();
+      setRequestFeedback(null);
+      setAnnouncement("");
     } catch (e) { setSaveError(e instanceof Error ? e.message : "Could not switch conversations"); }
     finally { setChatPending(false); }
   }
@@ -397,6 +429,8 @@ export function AssistantConsole() {
       setMessages([]);
       setInput("");
       confirmRuns.current.clear();
+      setRequestFeedback(null);
+      setAnnouncement("");
       setSaveError("");
     } finally { setChatPending(false); }
   }
@@ -419,6 +453,8 @@ export function AssistantConsole() {
       messagesRef.current = [];
       setMessages([]);
       confirmRuns.current.clear();
+      setRequestFeedback(null);
+      setAnnouncement("");
       await refreshChats();
     } catch (e) { setSaveError(e instanceof Error ? e.message : "Could not delete conversation"); }
     finally { setChatPending(false); }
@@ -535,6 +571,7 @@ export function AssistantConsole() {
       confirmRuns.current.set(cid, res.run);
       appendParts([{ type: "confirm", cid, summary: res.summary, state: "pending" }]);
     }
+    return res.status !== "ignored" || Boolean(res.note?.trim());
   }
 
   function resolveConfirm(cid: string, accept: boolean) {
@@ -589,16 +626,22 @@ export function AssistantConsole() {
     messagesRef.current = next;
     setMessages(next);
     setBusy(true);
+    const requestId = ++requestSequence.current;
+    setRequestFeedback({ id: requestId, phase: "working", announce: true });
+    let failed = false;
+    let reachedAssistant = false;
     handledRef.current = new Set();
     const shimsDone = new Set<string>();
     try {
       await flushChat();
+      reachedAssistant = true;
       const res = await fetch("/api/assistant", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ message: text, cliId, history, pageContext: describePage(pathname) + pipelineContext() + applyContext() }),
       });
       if (!res.ok || !res.body) {
+        failed = true;
         const err = await res.json().catch(() => ({}));
         setStreamText(`⚠️ ${err.error || "Assistant unavailable."}`);
         return;
@@ -606,6 +649,8 @@ export function AssistantConsole() {
       const reader = res.body.getReader();
       const dec = new TextDecoder();
       let acc = "";
+      let display = "";
+      let hasActionOutput = false;
       for (;;) {
         const { done, value } = await reader.read();
         if (done) break;
@@ -614,7 +659,7 @@ export function AssistantConsole() {
         const { complete, hidePartialFrom } = parseEnvelopes(acc);
         const cuts: [number, number][] = complete.map((e) => [e.start, e.end]);
         if (hidePartialFrom >= 0) cuts.push([hidePartialFrom, acc.length]);
-        let display = removeRanges(acc, cuts);
+        display = removeRanges(acc, cuts);
 
         // back-compat shims (strip + queue) on the cleaned text
         const shimNavs: string[] = [];
@@ -639,27 +684,35 @@ export function AssistantConsole() {
           } catch {
             continue;
           }
-          runDispatch(e.id, args);
+          hasActionOutput = runDispatch(e.id, args) || hasActionOutput;
         }
         for (const p of shimNavs) {
           const k = `go:${p}`;
           if (!shimsDone.has(k)) {
             shimsDone.add(k);
-            runDispatch("navigate", { path: p });
+            hasActionOutput = runDispatch("navigate", { path: p }) || hasActionOutput;
           }
         }
         for (const f of shimRems) {
           const k = `rem:${f}`;
           if (f && !shimsDone.has(k)) {
             shimsDone.add(k);
-            runDispatch("remember", { fact: f });
+            hasActionOutput = runDispatch("remember", { fact: f }) || hasActionOutput;
           }
         }
       }
-      if (!acc.trim()) setStreamText("_(no output — is the CLI authenticated?)_");
-    } catch {
-      setStreamText("⚠️ Connection error.");
+      // Hidden/truncated envelopes are wire data, not a usable reply. A valid
+      // action-only response still counts, without approving its confirmation.
+      if (!display.trim() && !hasActionOutput) {
+        failed = true;
+        setStreamText("_(no output — is the CLI authenticated?)_");
+      }
+    } catch (error) {
+      failed = true;
+      setStreamText(reachedAssistant ? "⚠️ Connection error." : `⚠️ Request not sent: ${error instanceof Error ? error.message : "conversation could not be saved"}`);
     } finally {
+      // flushChat already exposes save failures via its existing alert.
+      setRequestFeedback({ id: requestId, phase: failed ? "error" : "ready", announce: reachedAssistant });
       setBusy(false);
       router.refresh();
       pipelineRef.current.refetch();
@@ -712,6 +765,7 @@ export function AssistantConsole() {
 
   return (
     <>
+      <div role="status" aria-label="Assistant request status" aria-live="polite" aria-atomic="true" className="sr-only">{announcement}</div>
       {!open && (
         <button
           ref={openerRef}
@@ -777,7 +831,14 @@ export function AssistantConsole() {
               const hasVisible = m.parts.some((p) => (p.type === "text" && p.text.trim()) || p.type !== "text");
               const isLast = i === messages.length - 1;
               return (
-                <div key={i} className={cn("flex", m.role === "user" ? "justify-end" : "justify-start")}>
+                <div
+                  key={i}
+                  ref={i === latestReplyIndex ? latestReplyRef : undefined}
+                  role={m.role === "assistant" ? "group" : undefined}
+                  aria-label={m.role === "assistant" ? (i === latestReplyIndex ? "Latest assistant reply" : "Assistant reply") : undefined}
+                  tabIndex={m.role === "assistant" ? -1 : undefined}
+                  className={cn("flex rounded focus-visible:outline-2 focus-visible:outline-brand", m.role === "user" ? "justify-end" : "justify-start")}
+                >
                   <div
                     className={cn(
                       "max-w-[88%] rounded-2xl px-3.5 py-2 text-sm",
@@ -861,6 +922,24 @@ export function AssistantConsole() {
                 {busy ? <Loader2 className="size-4 animate-spin" /> : <Send className="size-4" />}
               </button>
             </div>
+            <div className="mt-2 space-y-1 text-xs">
+              {feedbackText && <p id={feedbackId} className="text-muted">{feedbackText}</p>}
+              <div className="flex flex-wrap gap-x-3 gap-y-1">
+                {!busy && latestReply?.parts.some((p) => p.type !== "text" || p.text.trim()) && (
+                  <button type="button" aria-describedby={feedbackText ? feedbackId : undefined} onClick={() => {
+                    latestReplyRef.current?.focus({ preventScroll: true });
+                    latestReplyRef.current?.scrollIntoView({ block: "start", behavior: "instant" });
+                  }} className="text-brand-text underline">
+                    {requestFeedback?.phase === "error" ? "Review error" : "Read latest reply"}
+                  </button>
+                )}
+                {pendingConfirmations > 0 && (
+                  <button type="button" onClick={() => scrollRef.current?.querySelector<HTMLElement>('[data-assistant-confirmation="pending"]')?.focus()} className="text-brand-text underline">
+                    Review pending actions
+                  </button>
+                )}
+              </div>
+            </div>
           </div>
         </div>
       )}
@@ -903,7 +982,7 @@ function PartView({
         job={job}
         variant="inline"
         trailing={
-          <Link href={`/jobs/${job.id}`} className="text-faint transition-colors hover:text-brand" aria-label="Open worker">
+          <Link href={`/jobs/${job.id}`} className="text-faint transition-colors hover:text-brand" aria-label={workerDetailsLabel(job)}>
             <ArrowUpRight className="size-3.5" />
           </Link>
         }
@@ -911,25 +990,24 @@ function PartView({
     );
   }
   if (part.type === "batch") {
-    const children = part.jobIds.map((id) => jobs.find((j) => j.id === id)).filter(Boolean);
-    const done = children.filter((j) => j!.status === "done").length;
+    const children = part.jobIds.map((id) => jobs.find((j) => j.id === id)).filter((j) => j != null);
     return (
       <div className="rounded-xl border border-border bg-surface/40 p-2.5">
         <div className="mb-1.5 flex items-center gap-1.5 text-xs font-medium">
           <Sparkles className="size-3.5 text-brand" />
           {part.jobIds.length} evaluations
           <span className="ml-auto tabular-nums text-faint">
-            {done}/{part.jobIds.length} done
+            {workerBatchSummary(children, part.jobIds.length)}
           </span>
         </div>
         <div className="space-y-1.5">
           {children.map((j) => (
             <WorkerCard
-              key={j!.id}
-              job={j!}
+              key={j.id}
+              job={j}
               variant="inline"
               trailing={
-                <Link href={`/jobs/${j!.id}`} className="text-faint transition-colors hover:text-brand" aria-label="Open worker">
+                <Link href={`/jobs/${j.id}`} className="text-faint transition-colors hover:text-brand" aria-label={workerDetailsLabel(j)}>
                   <ArrowUpRight className="size-3.5" />
                 </Link>
               }
@@ -972,7 +1050,7 @@ function ConfirmationCard({ part, onConfirm }: {
   }
 
   return (
-    <div role="group" aria-labelledby={summaryId} className="rounded-xl border border-brand/40 bg-brand-soft p-2.5">
+    <div role="group" aria-labelledby={summaryId} data-assistant-confirmation={part.state} tabIndex={-1} className="rounded-xl border border-brand/40 bg-brand-soft p-2.5 focus-visible:outline-2 focus-visible:outline-brand">
       <div id={summaryId} className="text-xs font-medium text-foreground">{part.summary}</div>
       {part.state === "pending" ? (
         <div className="mt-2 flex gap-2">

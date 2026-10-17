@@ -1,4 +1,5 @@
-import { resolveColumns, parseTrackerRow, extractTrackerReportNumbers, reportUrlForNumbers } from './tracker-parse.mjs';
+import { resolveColumns, parseTrackerRow, linkedReportNumbers, reportUrlForNumbers } from './tracker-parse.mjs';
+import { parseScanHistoryLine } from './lib/scan-history-columns.mjs';
 
 // Portals write closure banners with typographic punctuation and accents:
 // WTTJ renders "Cette offre n’est plus disponible." with U+2019, not ASCII "'".
@@ -68,6 +69,11 @@ const HARD_EXPIRED_PATTERNS = [
   // VDAB keeps a closed vacancy's page, "Solliciteer nu" button and all, under
   // this banner.
   /deze vacature is niet meer gepubliceerd/i,
+  // getManfred keeps a closed posting's page up without its Apply button and
+  // dates the closure above the title. Postings written in English often have
+  // an FAQ button such as "Can I apply from anywhere?", which reads as an Apply
+  // control, so this has to be a hard pattern.
+  /\boferta cerrada el \d{1,2}\/\d{1,2}\/\d{4}/i,
   // French closure banners. Spelled accent-free on purpose: normalizeForMatch
   // strips diacritics, so "expiree" here matches "expirée" on the page.
   /offre (expiree|n'est plus disponible)/i,
@@ -150,6 +156,10 @@ const APPLY_PATTERNS = [
   /wyslij (cv|aplikacj)/i,
   // Dutch (VDAB, Recruitee career sites in Dutch): "Solliciteer nu", "Solliciteren".
   /\bsollicit(?:eer|eren)\b/i,
+  // Spanish (getManfred): "¡Apúntame!", "sign me up". Not the verb "aplicar":
+  // most getManfred postings, closed ones too, have an FAQ button such as
+  // "¿Puedo aplicar si vivo fuera de España?".
+  /\bapuntame\b/i,
   // Chinese MokaHR and Feishu Jobs detail pages use these exact control texts.
   // Keep them narrow: bare “申请” appears in descriptive prose, while longer
   // labels containing “投递” can be status/history controls rather than Apply.
@@ -344,7 +354,11 @@ export function planExpiredHistoryRows(scanHistoryText = '', verdicts = [], norm
 
   // slice(1) skips the header, the same convention collectSeenUrls uses.
   for (const line of String(scanHistoryText ?? '').split('\n').slice(1)) {
-    const [url, , portal = '', title = '', company = '', status = '', location = ''] = line.split('\t');
+    // parseScanHistoryLine undoes the formula escaping the writer applied. The
+    // planned rows go back through appendToScanHistory, which escapes again, so
+    // reading the stored cells raw added one more leading apostrophe to a title,
+    // company or location starting with = + - or @ on every record.
+    const { url, portal, title, company, status, location } = parseScanHistoryLine(line);
     if (!url) continue;
     const key = normalizeUrl(url);
     if (!knownByKey.has(key)) knownByKey.set(key, new Map());
@@ -382,6 +396,9 @@ export const DEFAULT_TRACKER_STATUSES = ['evaluated', 'applied'];
 
 const isWebUrl = (url) => /^https?:\/\//i.test(url);
 
+const rowPostingUrl = (row, reportsRoot) => (isWebUrl(row.url) ? row.url
+  : reportUrlForNumbers(linkedReportNumbers(row.report, row.notes), reportsRoot, isWebUrl));
+
 /**
  * Which tracker rows a liveness sweep checks, and at which posting URL: the
  * row's own URL cell, else the **URL:** of its report.
@@ -400,12 +417,48 @@ export function trackerLivenessTargets(trackerText, { statuses = DEFAULT_TRACKER
   for (const line of lines) {
     const row = parseTrackerRow(line, colmap);
     if (!row || !wanted.has(row.status.trim().toLowerCase())) continue;
-    const url = isWebUrl(row.url) ? row.url
-      : reportUrlForNumbers(extractTrackerReportNumbers(row.report, row.notes), reportsRoot, isWebUrl);
+    const url = rowPostingUrl(row, reportsRoot);
     if (!url) { noUrl.push(row.num); continue; }
     if (seen.has(url)) continue;
     seen.add(url);
     targets.push({ num: row.num, company: row.company, role: row.role, status: row.status, url });
   }
   return { targets, noUrl };
+}
+
+export const DEFAULT_DISCARD_STATUSES = ['evaluated'];
+
+/**
+ * Closed-posting note stamped onto Discarded rows.
+ * @param {string} [day] YYYY-MM-DD (defaults to caller-supplied today)
+ */
+export function postingClosedNote(day) {
+  return `posting closed ${day}`;
+}
+
+/**
+ * Every tracker row in `statuses` whose posting URL is in `expiredUrls`.
+ * Unlike trackerLivenessTargets, this keeps duplicate rows that share a URL
+ * so a single expired verdict can discard every Evaluated copy.
+ *
+ * @param {string} trackerText
+ * @param {Iterable<string>} expiredUrls
+ * @param {{statuses?: string[], reportsRoot?: string}} [options]
+ * @returns {{num: number, company: string, role: string, status: string, url: string}[]}
+ */
+export function planExpiredDiscards(trackerText, expiredUrls, { statuses = DEFAULT_DISCARD_STATUSES, reportsRoot } = {}) {
+  const wanted = new Set(statuses.map((s) => s.trim().toLowerCase()).filter(Boolean));
+  const expired = new Set([...expiredUrls].filter(Boolean));
+  if (expired.size === 0 || wanted.size === 0) return [];
+  const lines = String(trackerText ?? '').split(/\r?\n/);
+  const colmap = resolveColumns(lines);
+  const rows = [];
+  for (const line of lines) {
+    const row = parseTrackerRow(line, colmap);
+    if (!row || !wanted.has(row.status.trim().toLowerCase())) continue;
+    const url = rowPostingUrl(row, reportsRoot);
+    if (!url || !expired.has(url)) continue;
+    rows.push({ num: row.num, company: row.company, role: row.role, status: row.status, url });
+  }
+  return rows;
 }

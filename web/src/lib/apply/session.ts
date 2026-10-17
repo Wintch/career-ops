@@ -4,6 +4,7 @@ import { parseGreenhouse, fetchGreenhouseSchema } from "./greenhouse";
 import { statusBlock, dismissConsent, tryApplyTrigger, dropNewTabs, classifyEmpty, captchaWarning, multiStepInfo, verifyFill, type ApplyIssue } from "./diagnose";
 import { interpretFormWithAgent } from "./agent-interpret";
 import { pickComboboxOption } from "./option-match.mjs";
+import { isResumeLabel } from "./resume-label.mjs";
 import { resolveCli } from "../clis";
 import { fencingReport } from "../cli-fencing.mjs";
 import { CAPS } from "../worker-capabilities.mjs";
@@ -411,7 +412,7 @@ export type FillStep = { fieldId: string; label: string; ok: boolean; thumb?: st
 /** True for a file field that wants the candidate's résumé/CV (vs. cover letter,
  *  portfolio, or a generic attachment we leave for the user). */
 function isResumeField(f: ApplyField): boolean {
-  return f.type === "file" && /resume|résumé|\bcv\b|curriculum|lebenslauf|currículum/i.test(f.label || "");
+  return f.type === "file" && isResumeLabel(f.label);
 }
 
 /** Fill the real form with verified answers, screenshotting after each field.

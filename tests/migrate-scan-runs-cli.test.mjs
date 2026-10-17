@@ -5,6 +5,7 @@ import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { describeSpawn } from './helpers/describe-spawn.mjs';
 
 const SCRIPT = fileURLToPath(new URL('../migrate-scan-runs.mjs', import.meta.url));
 const OLD_RUNS = 'timestamp\tstatus\tcompanies\tboards\tfound\tfiltered_title\tfiltered_tier\tfiltered_location\tfiltered_salary\tfiltered_content\tfiltered_cooldown\tdupes\tnew_added\terrors\n' +
@@ -37,7 +38,7 @@ for (const flag of ['--help', '-h']) {
     const result = run(root, ['--file', file, '--apply', flag]);
     assert.equal(readFileSync(file, 'utf8'), OLD_RUNS);
     assert.equal(existsSync(`${file}.bak`), false);
-    assert.equal(result.status, 0, result.stderr);
+    assert.equal(result.status, 0, describeSpawn(result));
     assert.match(result.stdout, /^Usage:.*migrate-scan-runs\.mjs/m);
     assert.equal(result.stderr, '');
   });
@@ -47,8 +48,8 @@ for (const flag of ['--help', '-h']) {
     const full = fixture(t);
     const missingResult = run(empty.root, [flag]);
     const fullResult = run(full.root, [flag]);
-    assert.equal(missingResult.status, 0, missingResult.stderr);
-    assert.equal(fullResult.status, 0, fullResult.stderr);
+    assert.equal(missingResult.status, 0, describeSpawn(missingResult));
+    assert.equal(fullResult.status, 0, describeSpawn(fullResult));
     assert.equal(fullResult.stdout, missingResult.stdout);
     for (const option of ['--apply', '--file', '--json', '--help', '-h']) {
       assert.ok(fullResult.stdout.includes(option), `usage is missing ${option}`);
@@ -107,13 +108,13 @@ test('preview and --apply retain their behavior for both --file forms', (t) => {
     writeFileSync(target, OLD_RUNS);
     const fileArgs = equalsForm ? [`--file=${target}`] : ['--file', target];
     const preview = run(root, [...fileArgs, '--json']);
-    assert.equal(preview.status, 0, preview.stderr);
+    assert.equal(preview.status, 0, describeSpawn(preview));
     assert.equal(JSON.parse(preview.stdout).applied, false);
     assert.equal(readFileSync(target, 'utf8'), OLD_RUNS);
     assert.equal(existsSync(`${target}.bak`), false);
 
     const apply = run(root, [...fileArgs, '--json', '--apply']);
-    assert.equal(apply.status, 0, apply.stderr);
+    assert.equal(apply.status, 0, describeSpawn(apply));
     assert.equal(JSON.parse(apply.stdout).applied, true);
     assert.notEqual(readFileSync(target, 'utf8'), OLD_RUNS);
     assert.equal(readFileSync(`${target}.bak`, 'utf8'), OLD_RUNS);

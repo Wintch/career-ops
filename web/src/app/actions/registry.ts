@@ -14,6 +14,13 @@ import { normalizeTextKey } from "@/lib/core/normalize-text-key.mjs";
 import { coercePersonalization, SECTIONS } from "@/lib/personalization.mjs";
 import { formatBatchSpendConfirmation, requiresBatchSpendConfirmation } from "@/lib/run-cost-estimate.mjs";
 
+/** Tracker numbers compare numerically, so "007" finds row 7. */
+function applicationByNumber<T extends { n: string }>(apps: T[], n: string): T | undefined {
+  if (!/^\d+$/.test(n)) return undefined;
+  const target = Number(n);
+  return apps.find((a) => Number(a.n) === target);
+}
+
 export const BATCH_CAP = 12; // hard ceiling on a single fan-out
 
 // Canonical states (templates/states.yml) — the web validates against the same set.
@@ -98,6 +105,9 @@ function isAllowedPath(p: string): boolean {
   if (/^(https?:)?\/\//i.test(p)) return false;
   const path = p.split(/[?#]/)[0];
   if (path === "/") return true;
+  // The apply checklist is the one two-segment route. A wider pattern would
+  // also allow /explore/:x/apply and similar paths this app does not have.
+  if (/^\/pipeline\/[^/]+\/apply$/.test(path)) return true;
   return /^\/(explore|pipeline|portals|analytics|cv|config|apply|jobs)(\/[^/]+)?$/.test(path);
 }
 
@@ -251,7 +261,7 @@ const ACTIONS: Record<string, ActionDef> = {
     run: (raw, ctx) => {
       const n = String(raw.n ?? "").trim();
       if (!n) return { status: "ignored", note: "need an application #" };
-      const app = ctx.applications.find((a) => a.n === n);
+      const app = applicationByNumber(ctx.applications, n);
       const id = ctx.startJob({ title: `CV PDF · ${app?.company ?? `#${n}`}`, subtitle: "tailored CV", kind: "pdf", input: n, page: `/pipeline/${n}` });
       return { status: "done", jobIds: id ? [id] : [] };
     },
@@ -264,7 +274,7 @@ const ACTIONS: Record<string, ActionDef> = {
       const status = String(raw.status ?? "").trim();
       const canon = CANON_STATUS.find((s) => s.toLowerCase() === status.toLowerCase());
       if (!n || !canon) return { status: "ignored", note: "need an application # and a canonical status" };
-      const app = ctx.applications.find((a) => a.n === n);
+      const app = applicationByNumber(ctx.applications, n);
       const label = app ? `${app.company} · ${app.role}` : `#${n}`;
       return {
         status: "confirm",

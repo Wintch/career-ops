@@ -22,6 +22,7 @@ import { spawnSync } from 'node:child_process';
 import { dirname, join } from 'node:path';
 import { tmpdir } from 'node:os';
 import { fileURLToPath } from 'node:url';
+import { describeSpawn } from './helpers/describe-spawn.mjs';
 
 const ROOT = dirname(dirname(fileURLToPath(import.meta.url)));
 const NO_PORTALS = join(tmpdir(), 'career-ops-no-such-portals.yml');
@@ -41,7 +42,7 @@ function runScan(...args) {
 
 test('--help prints usage and exits 0, without reaching the portals check', () => {
   const r = runScan('--help');
-  assert.equal(r.status, 0, `expected exit 0, got ${r.status}: ${r.all}`);
+  assert.equal(r.status, 0, describeSpawn(r, `expected exit 0, got ${r.status}`));
   assert.match(r.stdout, /Usage:/);
   assert.match(r.stdout, /node scan\.mjs/);
   assert.doesNotMatch(r.all, PORTALS_NOT_FOUND, '--help must exit before any scan logic runs');
@@ -49,7 +50,7 @@ test('--help prints usage and exits 0, without reaching the portals check', () =
 
 test('-h prints usage and exits 0, without reaching the portals check', () => {
   const r = runScan('-h');
-  assert.equal(r.status, 0, `expected exit 0, got ${r.status}: ${r.all}`);
+  assert.equal(r.status, 0, describeSpawn(r, `expected exit 0, got ${r.status}`));
   assert.match(r.stdout, /Usage:/);
   assert.doesNotMatch(r.all, PORTALS_NOT_FOUND);
 });
