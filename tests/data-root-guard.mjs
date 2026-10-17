@@ -82,6 +82,7 @@ export const CHECKOUT_KEY_PREFIX = '<checkout>/';
  */
 export const UNGUARDED_USER_PATHS = {
   '.career-ops-web': "the dashboard's run logs and memory under the data root, written whenever it is in use: a suite run beside an open dashboard would report it every time",
+  'FORK_NOTES.md': 'fork-only docs (local/fork-notes branch), committed on purpose and never shipped by upstream',
 };
 
 /**
