@@ -84,6 +84,24 @@ companies, and the games boards were already providers.
 6. Push the topic branches, `fork/main`, and `integration` with
    `--force-with-lease` (a rebuild rewrites it).
 
+## Watching upstream
+
+Check upstream (career-ops-hq) at least weekly; it moves fast (81 commits on `main` in the day before the first check).
+
+```bash
+git fetch origin --tags
+git log --format='%h %ad %s' --date=short integration..origin/main | head -40    # what is new
+git merge-tree --write-tree --name-only integration origin/main | tail -15       # would a merge conflict?
+node update-system.mjs check                                                      # published release only
+git show origin/release-please--branches--main:CHANGELOG.md | head -40            # next release notes
+```
+
+Resync only when a release lands or a fix is wanted: follow "Rebuild recipe" above (rebase topics in a separate worktree, rebuild `integration`, `node test-all.mjs`, confirm before any push).
+
+| Checked | Upstream main | Release | Notes |
+| --- | --- | --- | --- |
+| 2026-10-20 | `ca5e70b9` (81 ahead of our base `090f787e`) | v1.37.0 published; v1.38.0 release PR open | A merge conflicts only in `docs/SCRIPTS.md` and `docs/SUPPORTED_JOB_BOARDS.md` (both-sides-added, keep both). Worth pulling: `fix(apply)` keeps apply inside the project and off the user's Chrome (#5499), dealbreaker gate before Block A (#5466, #5493), Workable JD fetching (#5484), scan can record titles the filter rejects (#2732) and optionally disable the remote-title location fallback (#5490), `learn.mjs` gate for learned rules (#5461), followup-cadence reads the apply date from status-log (#5469). |
+
 ## Source backlog
 
 From a survey of about 160 sources on 2026-10-11. Every probe used the scanner's
