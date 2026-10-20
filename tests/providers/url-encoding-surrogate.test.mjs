@@ -63,6 +63,17 @@ try {
     (jobs) => jobs.length === 1 && jobs[0].url === 'https://x.bamboohr.com/careers/5',
   );
 
+  // hibob.parseHibobResponse — for…of over jobAdDetails; the ad id is the URL segment.
+  const { parseHibobResponse } = await load('hibob.mjs');
+  check(
+    'hibob.parseHibobResponse',
+    () => parseHibobResponse(
+      { jobAdDetails: [{ id: `${LONE}bad`, title: 'Bad Id' }, { id: 'good-1', title: 'Good Id' }] },
+      'X', 'https://x.careers.hibob.com',
+    ),
+    (jobs) => jobs.length === 1 && jobs[0].url === 'https://x.careers.hibob.com/jobs/good-1',
+  );
+
   // jibeapply.parseJibeapplyResponse — .map().filter(Boolean) over one page.
   const { parseJibeapplyResponse } = await load('jibeapply.mjs');
   const jibeEntry = { name: 'Acme', careers_url: 'https://acme.jibeapply.com/jobs' };
@@ -249,7 +260,7 @@ try {
   // import _safe-url.mjs and call safeEncodeURIComponent; dropping either is the
   // regression this list catches.
   const CONVERTED = [
-    'alibaba.mjs', 'arbeitsagentur.mjs', 'bamboohr.mjs', 'feishu-jobs.mjs', 'garena.mjs', 'jibeapply.mjs',
+    'alibaba.mjs', 'arbeitsagentur.mjs', 'bamboohr.mjs', 'feishu-jobs.mjs', 'garena.mjs', 'hibob.mjs', 'jibeapply.mjs',
     'kalibrr.mjs', 'manfred.mjs', 'meituan.mjs', 'mokahr.mjs', 'phenom.mjs', 'platsbanken.mjs',
     'techinasia.mjs', 'thehub.mjs', 'tkms.mjs', 'vdab.mjs', 'zoho-recruit.mjs',
   ];
