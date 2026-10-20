@@ -16,6 +16,10 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 - **Interests are a targeting input, not a CV claim.** Priorities such as remote-first, interesting projects, games/modding or media go into the profile and the triage brief (user layer), where they raise fit scores. The same facts reach application content only if `cv.md` supports them.
 - **Skill-gap list.** `node upskill.mjs` aggregates the gaps across reports. Turn the top of that list into a learning plan with a practice project per skill, and add a skill to the CV only after real use.
 - **Parallel agents.** Reserve report numbers first (`reserve-report-num.mjs`). Give every worker its own temp files: a shared scratch file such as `jd.txt` gets overwritten by a sibling. After the workers finish, check that each report's archived JD belongs to its own posting, then run `merge-tracker.mjs` once.
+- **Learn the person first, then search.** The best results came from reading everything the candidate already published about themselves (CV, personal site, public repositories) and from asking a few direct questions: what to avoid, what is exciting, what pay is acceptable for an exciting project, what a "fallback" role is. Write the answers into the user-layer profile and triage brief (`modes/_profile.md`, `modes/_brief.md`), where they steer scoring, not into the CV. Re-ask when a concrete case shows a rule is missing (for example how much less is acceptable for an interesting project).
+- **Pay is not the only price.** A role where one person carries the whole stack carries responsibility a salary band does not describe; price it above the general floor and say so in the evaluation. An acceptable but unexciting role can be tagged "fallback": apply to gain experience while the search continues.
+- **Leads from a web search decay fast.** In one pass, two of five leads were already 404 and two more showed no apply control. Run `check-liveness.mjs` on every lead and confirm at the employer's own board before evaluating anything.
+- **Noisy boards need a country filter or stay off.** A "remote" startup board whose listings are mostly restricted to the US or the EU fills the pipeline with roles the candidate cannot take. Dry-run a new board (`node scan.mjs --company "<name>" --dry-run`) and keep it only if the eligible share is worth the review time.
 - **Prefer APIs and the scanner's HTTP client** over driving a person's logged-in browser. Automating the candidate's own browser session can disturb work in progress. When a site refuses automated reads, say so and ask for the pasted text.
 - **Never submit.** Drafts, answers and PDFs are prepared; the candidate presses Submit.
 
@@ -65,6 +69,12 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 
 - Often answer 403 to bare HTTP clients. Read them through the provider modules, which use the scanner's HTTP client and respect robots rules; do not retry with browser impersonation.
 - Their listings should be confirmed at the employer before applying.
+
+### Boards for AI startups, games and creative tech
+
+- **AI/agent startups:** the a16z speedrun talent network, Hacker News "Who is hiring" jobs (YC) and the agentic-jobs listing are cheap to scan, but most roles are on-site in the US. Rely on the title and location filters, and expect few eligible hits per run.
+- **Games:** Remote Game Jobs and Work With Indies are small RSS feeds with mostly remote roles; Games Jobs Direct is a paced HTML scraper (respect its crawl delay, scan at most daily). Engine roles (Unity, Unreal) usually name the engine in the title, so add those words to `title_filter.positive`. Many listings are design or junior positions; filter by seniority.
+- **Staffing firms that sell AI work** (LATAM-based consultancies, outsourced engineering) post many "remote, LATAM only" roles. Eligibility is explicit in the text, so read the residence requirement before anything else.
 
 ### Employer-run career sites with long processes
 
