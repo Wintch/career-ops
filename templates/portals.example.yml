@@ -1228,6 +1228,7 @@ search_queries:
 #   recruitee       <slug>.recruitee.com
 #   bamboohr        <tenant>.bamboohr.com               (or api: field)
 #   breezy          <tenant>.breezy.hr                  (or api: field)
+#   hibob           <tenant>.careers.hibob.com          (or api: field)
 #   solidjobs       solid.jobs/public-api/offers/<division>
 #   comeet          api: https://www.comeet.co/careers-api/2.0/company/<uid>/positions?token=<token>
 #   personio        <slug>.jobs.personio.(de|com)
@@ -1337,6 +1338,10 @@ search_queries:
 #
 # - name: Example Breezy Co
 #   careers_url: https://exampleco.breezy.hr              # any *.breezy.hr host
+#   enabled: true
+#
+# - name: Example HiBob Co
+#   careers_url: https://exampleco.careers.hibob.com      # any <tenant>.careers.hibob.com host
 #   enabled: true
 #
 # - name: Example Pinpoint Co
@@ -3448,6 +3453,11 @@ tracked_companies:
   - name: Simetrik
     careers_url: https://jobs.ashbyhq.com/simetrik
     notes: "Remote LatAm + US. Financial reconciliation."
+    enabled: false
+
+  - name: Ualá
+    careers_url: https://uala.careers.hibob.com
+    notes: "Argentina / Mexico, hybrid. Fintech and neobank. HiBob career site (hibob provider); 18 postings measured 2026-10-20, 13 in Argentina and 5 in Mexico."
     enabled: false
 
   # -- Cybersecurity (vendors, offensive security, bug bounty) --
