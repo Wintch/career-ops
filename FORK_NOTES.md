@@ -53,6 +53,7 @@ hand: change the topic branch, then merge it in again or rebuild `integration`.
 | `docs/ukraine-sources-evaluated` | Ukrainian and Russian boards evaluated and not supported |
 | `docs/sources-evaluated-2026-10` | The 2026-10-11 survey's unsupported boards (stacked on `docs/ukraine-sources-evaluated`) |
 | `docs/job-site-handling` | Generic notes on how each kind of job site behaves (ATS APIs, Workday, iCIMS, Get on Board, Djinni, LATAM aggregators) and the working concepts of the funnel |
+| `feat/djinni-liveness` | `check-liveness.mjs` rung for Djinni: reads the posting page (JobPosting + validThrough, or the 'no longer active' notice) so Djinni leads stop coming back `uncertain` (based on `090f787e`; rebase at the next resync) |
 | `local/fork-notes` | This file |
 
 Retired on 2026-10-11 and deleted from the fork, kept only as local branches:
@@ -108,6 +109,11 @@ From a survey of about 160 sources on 2026-10-11. Every probe used the scanner's
 own client and User-Agent from an Argentine network. Boards that failed the Source
 Indexing Policy are recorded in `docs/SUPPORTED_JOB_BOARDS.md` under "Evaluated, not
 supported".
+
+### Considered and not built (2026-10-20)
+
+- **Upwork, Fiverr:** freelancers pay to apply (Upwork Connects), Upwork's job search needs an approved OAuth app, and no official Fiverr buyer-request API was found. They fail rule 1 of the Source Indexing Policy or need a third-party account, so they stay manual (see `docs/JOB_SITE_NOTES.md`).
+- **Workana, Reddit job subreddits, modding forums:** not evaluated yet (no terms or robots check done); listings are often individuals, not identifiable employers (rule 1).
 
 ### To build, in priority order
 
