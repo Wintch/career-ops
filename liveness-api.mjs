@@ -298,6 +298,29 @@ const ATS_PROVIDERS = [
     },
   },
   {
+    id: 'djinni',
+    // djinni.co/jobs/{id}-{slug}/. Djinni has no JSON endpoint for one posting,
+    // but the server-rendered page answers 200 whether the ad is open or gone:
+    // an open ad embeds one schema.org JobPosting (with its id and a
+    // validThrough date), a closed one shows "The job ad is no longer active"
+    // and carries no JobPosting. Measured 2026-10-20 with the scanner's client;
+    // robots.txt allows /jobs/{id}-{slug}/ (the disallowed paths are /jobs2,
+    // /q, /developers, /free-jobs and /set_lang). Liveness comes from the body,
+    // never from the status.
+    match(u) {
+      if (u.hostname !== 'djinni.co') return null;
+      const m = u.pathname.match(/^\/jobs\/(\d+)-([A-Za-z0-9-]+)\/?$/);
+      return m ? { id: m[1], slug: m[2] } : null;
+    },
+    api: ({ id, slug }) => `https://djinni.co/jobs/${id}-${slug}/`,
+    accept: 'text/html',
+    async interpret(res, { id }) {
+      let html;
+      try { html = await res.text(); } catch { return null; }
+      return classifyDjinniPosting(html, id);
+    },
+  },
+  {
     id: 'arbeitsagentur',
     match(u) {
       if (u.hostname !== 'www.arbeitsagentur.de') return null;
@@ -521,6 +544,39 @@ export function classifyZohoPostingPage(html, id) {
   }
   return /This job posting is no longer available/i.test(html)
     ? { result: 'expired', code: 'zoho_recruit_unavailable', reason: 'Zoho Recruit shows "This job posting is no longer available."' }
+    : null;
+}
+
+/**
+ * Decide liveness for one Djinni posting page. Pure + deterministic (no I/O
+ * besides `now`), mirroring classifyZohoPostingPage.
+ *
+ *   JobPosting for this id, validThrough in the past   -> expired
+ *   JobPosting for this id, open                       -> active
+ *   no JobPosting + "The job ad is no longer active"   -> expired
+ *   anything else (another id, a challenge page)       -> null, the browser decides
+ *
+ * @param {string} html - the posting page
+ * @param {string} id - the numeric id from the posting URL
+ * @param {number} [now] - epoch ms, injectable for tests
+ * @returns {{ result: 'active' | 'expired', code: string, reason: string } | null}
+ */
+export function classifyDjinniPosting(html, id, now = Date.now()) {
+  if (typeof html !== 'string' || !html) return null;
+  const scripts = html.matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/gi);
+  for (const [, body] of scripts) {
+    let data;
+    try { data = JSON.parse(body); } catch { continue; }
+    for (const node of Array.isArray(data) ? data : [data]) {
+      if (node?.['@type'] !== 'JobPosting' || String(node.identifier) !== String(id)) continue;
+      const until = Date.parse(node.validThrough ?? '');
+      return Number.isFinite(until) && until < now
+        ? { result: 'expired', code: 'djinni_valid_through_passed', reason: `Djinni JobPosting validThrough (${node.validThrough}) has passed` }
+        : { result: 'active', code: 'djinni_jobposting_ok', reason: 'Djinni posting page carries the open JobPosting (live)' };
+    }
+  }
+  return /The job ad is no longer active/i.test(html)
+    ? { result: 'expired', code: 'djinni_ad_inactive', reason: 'Djinni shows "The job ad is no longer active"' }
     : null;
 }
 
