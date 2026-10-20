@@ -52,6 +52,7 @@ hand: change the topic branch, then merge it in again or rebuild `integration`.
 | `docs/openqube-latam` | Points `deep` and `oferta` at openqube.io for LatAm employers |
 | `docs/ukraine-sources-evaluated` | Ukrainian and Russian boards evaluated and not supported |
 | `docs/sources-evaluated-2026-10` | The 2026-10-11 survey's unsupported boards (stacked on `docs/ukraine-sources-evaluated`) |
+| `docs/job-site-handling` | Generic notes on how each kind of job site behaves (ATS APIs, Workday, iCIMS, Get on Board, Djinni, LATAM aggregators) and the working concepts of the funnel |
 | `local/fork-notes` | This file |
 
 Retired on 2026-10-11 and deleted from the fork, kept only as local branches:
