@@ -115,7 +115,7 @@ supported".
 
 - **Upwork, Fiverr:** freelancers pay to apply (Upwork Connects), Upwork's job search needs an approved OAuth app, and no official Fiverr buyer-request API was found. They fail rule 1 of the Source Indexing Policy or need a third-party account, so they stay manual (see `docs/JOB_SITE_NOTES.md`).
 - **Darwinbox (2026-10-20):** the careers app is a JS shell; its job-list calls (`POST /ms/candidateapi/job/alljobs`) answer a Cloudflare WAF 403 to the scanner's client on every real tenant measured, so a provider would need browser-minted cookies or tokens. Ruled out by the provider guide; revisit only if a no-auth path appears.
-- **Workana, Reddit job subreddits, modding forums:** not evaluated yet (no terms or robots check done); listings are often individuals, not identifiable employers (rule 1).
+- **Workana:** not evaluated yet (no terms or robots check done). **Reddit job subreddits and modding forums:** not built; their posts are requests from individuals rather than identifiable employers (rule 1), and their terms and robots were not checked.
 
 ### To build, in priority order
 
