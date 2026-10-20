@@ -70,7 +70,7 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 
 ### Freelance marketplaces (Upwork, Fiverr and similar)
 
-- **Not scanned.** Applying on Upwork costs the freelancer "Connects", Upwork's job-search API needs an approved OAuth app, and no official Fiverr API for buyer requests was found. A source that charges candidates to apply, or whose automation terms are unclear, does not meet the Source Indexing Policy, and driving a logged-in marketplace account with a script is the kind of automation these platforms restrict.
+- **Not scanned.** Applying on Upwork costs the freelancer "Connects", so it fails the "free for candidates" rule of the Source Indexing Policy. Third-party documentation says Upwork's job-search API needs an approved OAuth app (verify in the vendor's developer portal), and no official Fiverr API for buyer requests was found (absence of evidence, not a confirmed statement from Fiverr). Driving a logged-in marketplace account with a script is the kind of automation these platforms restrict; read each platform's current terms before any experiment.
 - **What works instead.** Set saved searches and e-mail alerts inside the candidate's own account, paste the interesting request into career-ops, and triage it against the candidate's floor and profile. Keep profile and gig texts as drafts built from `cv.md` only; the candidate publishes them.
 - **Gig fit.** A gig that sells a deliverable the CV can back (a streaming server setup, Linux hardening, a media-tooling script) is easier to price and defend than a general "DevOps" listing.
 
@@ -87,7 +87,7 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 
 ### Employer-run career sites with long processes
 
-- Some open-source and platform companies run multi-month processes (written application, psychometric test, several interviews) and limit how many roles one candidate can pursue at once. Choose a single role deliberately and check the employer's hiring-process page first.
+- Some large open-source and platform employers describe a multi-month process (a written application, a psychometric test, several interviews) on their own hiring-process page. Read that page first and check whether it limits how many roles one candidate may apply to in a period; one report of such a limit was not verified against the employer's terms.
 
 ### LinkedIn
 
