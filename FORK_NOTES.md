@@ -54,6 +54,7 @@ hand: change the topic branch, then merge it in again or rebuild `integration`.
 | `docs/sources-evaluated-2026-10` | The 2026-10-11 survey's unsupported boards (stacked on `docs/ukraine-sources-evaluated`) |
 | `docs/job-site-handling` | Generic notes on how each kind of job site behaves (ATS APIs, Workday, iCIMS, Get on Board, Djinni, LATAM aggregators) and the working concepts of the funnel |
 | `feat/djinni-liveness` | `check-liveness.mjs` rung for Djinni: reads the posting page (JobPosting + validThrough, or the 'no longer active' notice) so Djinni leads stop coming back `uncertain` (based on `090f787e`; rebase at the next resync) |
+| `feat/hibob-provider` | HiBob career-site ATS adapter (`<tenant>.careers.hibob.com/api/job-ad` with the public `companyIdentifier` header; whole board in one call). Measured on five tenants, one an Argentine fintech with 18 postings (based on `090f787e`) |
 | `local/fork-notes` | This file |
 
 Retired on 2026-10-11 and deleted from the fork, kept only as local branches:
@@ -113,6 +114,7 @@ supported".
 ### Considered and not built (2026-10-20)
 
 - **Upwork, Fiverr:** freelancers pay to apply (Upwork Connects), Upwork's job search needs an approved OAuth app, and no official Fiverr buyer-request API was found. They fail rule 1 of the Source Indexing Policy or need a third-party account, so they stay manual (see `docs/JOB_SITE_NOTES.md`).
+- **Darwinbox (2026-10-20):** the careers app is a JS shell; its job-list calls (`POST /ms/candidateapi/job/alljobs`) answer a Cloudflare WAF 403 to the scanner's client on every real tenant measured, so a provider would need browser-minted cookies or tokens. Ruled out by the provider guide; revisit only if a no-auth path appears.
 - **Workana, Reddit job subreddits, modding forums:** not evaluated yet (no terms or robots check done); listings are often individuals, not identifiable employers (rule 1).
 
 ### To build, in priority order
@@ -142,7 +144,7 @@ Next:
   Multitrabajos, Bumeran PE and MX) to add to `scan-navent.mjs` `SITES`, which has
   only Bumeran and ZonaJobs today; their search API is not yet tested.
 - Niche: Golangprojects (RSS), GitJobs (CNCF, 19 jobs).
-- New ATS adapters: HiBob (used by Ualá), Darwinbox (used by Synamedia).
+- New ATS adapters: HiBob done (`feat/hibob-provider`); Darwinbox blocked (see "Considered and not built").
 
 ### Waiting on a maintainer decision
 
