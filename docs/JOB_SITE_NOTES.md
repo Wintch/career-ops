@@ -57,13 +57,22 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 - The apply form has a free-text message plus a recruiter question; answer the question explicitly (see "Honest gap handling").
 - Location tags such as "Remote (Europe)" or "Remote (UA)" restrict where candidates may live. "Worldwide" listings can still carry a language field such as "Ukrainian: Native", which in practice is a hard filter.
 - The "average salary of similar jobs" figure is the site's analytics, not an offer from the employer.
-- `check-liveness.mjs` returns `uncertain` because of the login wall.
+- `check-liveness.mjs` reads the posting page itself (a `djinni` rung in `liveness-api.mjs`): an open ad embeds one schema.org `JobPosting` with its id and a `validThrough` date, a closed one shows "The job ad is no longer active" and has none. Both are decided without a browser; only an unrecognizable page (a challenge, another id) falls back to `uncertain`.
 
 ### Bumeran, ZonaJobs and Computrabajo (Argentina and LATAM)
 
 - Client-rendered and empty to plain fetches and to `WebFetch`. Use a dedicated light-touch scanner for listings where one exists (it should read `robots.txt`, pace requests and stop on a challenge), and ask the candidate to paste the posting text when a detail page is needed.
 - Many postings hide the employer behind a recruiting agency. Treat an unidentifiable employer as a legitimacy signal (Block G), never guess it.
 - Salaries are usually in local currency and may fall far below a USD floor; ask for range and currency before investing effort.
+
+- Bumeran and ZonaJobs serve one shared inventory (identical result counts per keyword), so searching both only burns the scanner's per-run navigation cap. Search Bumeran only.
+- Small and mid-size Argentine employers often title the one-person infrastructure role "Responsable de Sistemas", "Jefe de Sistemas", "Administrador de Servidores" or "Analista de Infraestructura" instead of DevOps or SRE. Add those titles to `title_filter.positive` and expect a hybrid on-site schedule and a salary in local currency.
+
+### Freelance marketplaces (Upwork, Fiverr and similar)
+
+- **Not scanned.** Applying on Upwork costs the freelancer "Connects", Upwork's job-search API needs an approved OAuth app, and no official Fiverr API for buyer requests was found. A source that charges candidates to apply, or whose automation terms are unclear, does not meet the Source Indexing Policy, and driving a logged-in marketplace account with a script is the kind of automation these platforms restrict.
+- **What works instead.** Set saved searches and e-mail alerts inside the candidate's own account, paste the interesting request into career-ops, and triage it against the candidate's floor and profile. Keep profile and gig texts as drafts built from `cv.md` only; the candidate publishes them.
+- **Gig fit.** A gig that sells a deliverable the CV can back (a streaming server setup, Linux hardening, a media-tooling script) is easier to price and defend than a general "DevOps" listing.
 
 ### Remote aggregators (We Work Remotely, Remotive and similar)
 
