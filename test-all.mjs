@@ -860,6 +860,8 @@ const scripts = [
   { name: 'company-funded.mjs --self-test', expectExit: 0 },
   { name: 'invite-match.mjs --self-test', expectExit: 0 },
   { name: 'tracker-sync-check.mjs --self-test', expectExit: 0 },
+  { name: 'linkedin-join.mjs --self-test', expectExit: 0 },
+  { name: 'validate-profile.mjs --self-test', expectExit: 0 },
   { name: 'updater-migration-tests.mjs', expectExit: 0 },
   { name: 'validate-portals.mjs --file templates/portals.example.yml', expectExit: 0 },
   { name: 'validate-system-paths-coverage.mjs --self-test', expectExit: 0 },
@@ -2383,6 +2385,9 @@ for (const f of skillEntrypoints) {
   try {
     copyFileSync(join(ROOT, 'validate-system-paths-coverage.mjs'), join(probeDir, 'validate-system-paths-coverage.mjs'));
     copyFileSync(join(ROOT, 'update-system.mjs'), join(probeDir, 'update-system.mjs'));
+    // The manifest too, so the only thing the guard lacks is a git tree.
+    mkdirSync(join(probeDir, 'lib'));
+    copyFileSync(join(ROOT, 'lib', 'update-manifest.mjs'), join(probeDir, 'lib', 'update-manifest.mjs'));
     const probe = spawnSync(process.execPath, [join(probeDir, 'validate-system-paths-coverage.mjs')], {
       cwd: probeDir,
       encoding: 'utf-8',
@@ -2974,7 +2979,7 @@ if (
   fail('update-system does not rebuild dashboard binary after dashboard Go source or dependency updates');
 }
 
-if (updateSystemScript.includes("'CODEX.md'")) {
+if (readFile('lib/update-manifest.mjs').includes("'CODEX.md'")) {
   pass('update-system preserves CODEX.md as a system-layer wrapper');
 } else {
   fail('update-system does not preserve CODEX.md');
@@ -4663,13 +4668,13 @@ for (const mode of ['discover', 'text']) {
 
 const dataContractDoc = readFile('DATA_CONTRACT.md');
 const gitignoreDoc = readFile('.gitignore');
-const updaterSrc = readFile('update-system.mjs');
+const updateManifestSrc = readFile('lib/update-manifest.mjs');
 if (
   dataContractDoc.includes('data/offers/') &&
   dataContractDoc.includes('modes/offer-prep.md') &&
   gitignoreDoc.includes('data/offers/*') &&
   gitignoreDoc.includes('!data/offers/.gitkeep') &&
-  updaterSrc.includes("'modes/offer-prep.md'")
+  updateManifestSrc.includes("'modes/offer-prep.md'")
 ) {
   pass('offer-prep registered in data contract, gitignore, and updater manifest');
 } else {
@@ -15371,7 +15376,7 @@ try {
   }
 
   // The template MUST be in SYSTEM_PATHS so updates deliver/refresh it.
-  const sysBlock = (updater.match(/SYSTEM_PATHS\s*=\s*\[([\s\S]*?)\]/) || [, ''])[1];
+  const sysBlock = (readFileSync(join(ROOT, 'lib', 'update-manifest.mjs'), 'utf-8').match(/SYSTEM_PATHS\s*=\s*\[([\s\S]*?)\]/) || [, ''])[1];
   if (sysBlock.includes("'modes/_custom.template.md'")) {
     pass('modes/_custom.template.md is in SYSTEM_PATHS (shipped + updatable)');
   } else {
@@ -16394,8 +16399,9 @@ try {
 
   // Updater registration (SYSTEM vs USER split).
   const upd = readFileSync(join(ROOT, 'update-system.mjs'), 'utf8');
-  if (["'plugins/'", "'plugins.mjs'", "'config/plugins.example.yml'"].every(s => upd.includes(s))) pass('plugins/, plugins.mjs, config/plugins.example.yml registered as SYSTEM paths');
-  else fail('plugin SYSTEM paths not fully registered in update-system.mjs');
+  const manifest = readFileSync(join(ROOT, 'lib', 'update-manifest.mjs'), 'utf8');
+  if (["'plugins/'", "'plugins.mjs'", "'config/plugins.example.yml'"].every(s => manifest.includes(s))) pass('plugins/, plugins.mjs, config/plugins.example.yml registered as SYSTEM paths');
+  else fail('plugin SYSTEM paths not fully registered in lib/update-manifest.mjs');
   if (["'config/plugins.yml'", "'plugins.local/'"].every(s => upd.includes(s))) pass('config/plugins.yml + plugins.local/ registered as USER paths (never auto-updated)');
   else fail('plugin USER paths not registered in update-system.mjs');
 
@@ -16444,8 +16450,8 @@ for (const f of ['interview-prep/sessions/.gitkeep', 'interview-prep/sessions/RE
 
 // The scaffold must be in SYSTEM_PATHS (the updater delivers/refreshes it).
 {
-  const updater = readFile('update-system.mjs');
-  const sysBlock = (updater.match(/SYSTEM_PATHS\s*=\s*\[([\s\S]*?)\]/) || [, ''])[1];
+  const manifest = readFile('lib/update-manifest.mjs');
+  const sysBlock = (manifest.match(/SYSTEM_PATHS\s*=\s*\[([\s\S]*?)\]/) || [, ''])[1];
   for (const p of ['interview-prep/sessions/.gitkeep', 'interview-prep/sessions/README.md']) {
     if (sysBlock.includes(`'${p}'`)) {
       pass(`Session scaffold in SYSTEM_PATHS: ${p}`);
@@ -18255,10 +18261,10 @@ try {
     fail('AGENTS.md missing the titles Skill Modes row');
   }
 
-  const updaterSrc = readFile('update-system.mjs');
-  const titlesSysBlock = (updaterSrc.match(/SYSTEM_PATHS\s*=\s*\[([\s\S]*?)\]/) || [, ''])[1];
+  const manifestSrc = readFile('lib/update-manifest.mjs');
+  const titlesSysBlock = (manifestSrc.match(/SYSTEM_PATHS\s*=\s*\[([\s\S]*?)\]/) || [, ''])[1];
   if (titlesSysBlock.includes("'modes/titles.md'")) {
-    pass('modes/titles.md is in update-system.mjs SYSTEM_PATHS (shipped + updatable)');
+    pass('modes/titles.md is in SYSTEM_PATHS (shipped + updatable)');
   } else {
     fail('modes/titles.md is NOT in SYSTEM_PATHS — updates would never deliver it');
   }
@@ -19280,10 +19286,10 @@ console.log('\n70. Table-freshness validator wiring + read-only boundary (#2036)
 try {
   const freshnessSrc = readFile('check-table-freshness.mjs');
 
-  const updaterSrc = readFile('update-system.mjs');
-  const freshSysBlock = (updaterSrc.match(/SYSTEM_PATHS\s*=\s*\[([\s\S]*?)\]/) || [, ''])[1];
+  const manifestSrc = readFile('lib/update-manifest.mjs');
+  const freshSysBlock = (manifestSrc.match(/SYSTEM_PATHS\s*=\s*\[([\s\S]*?)\]/) || [, ''])[1];
   if (freshSysBlock.includes("'check-table-freshness.mjs'")) {
-    pass('check-table-freshness.mjs is in update-system.mjs SYSTEM_PATHS (shipped + updatable)');
+    pass('check-table-freshness.mjs is in SYSTEM_PATHS (shipped + updatable)');
   } else {
     fail('check-table-freshness.mjs is NOT in SYSTEM_PATHS — updates would never deliver it');
   }

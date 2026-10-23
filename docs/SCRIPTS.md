@@ -43,6 +43,7 @@ All scripts live in the project root as `.mjs` modules. Most are exposed via
 | `npm run validate:portals` | `validate-portals.mjs` | Validate portals.yml shape before scanning |
 | `npm run tracker` | `tracker.mjs` | SQLite derived index over applications.md — sync/query/history/export |
 | `npm run find` | `find.mjs` | Resolve a report#/tracker#/company query to its full pipeline identity |
+| `npm run ics-interview -- invite.ics` | `ics-interview.mjs` | Read an interview invite's `.ics` (first VEVENT: start/end/length, time zone, link, organizer) and print a row to paste into `data/active-interviews.md` (read-only) |
 | `npm run invite-match` | `invite-match.mjs` | Fuzzy-match a pasted interview-invite email against `data/applications.md` |
 | `npm run application:init` | `application-artifacts.mjs` | Initialize one versioned application-scoped JD/CV/PDF artifact bundle |
 | `npm run paste-reply` | `paste-reply.mjs` | Manual/no-Gmail input into the `reply-watch.mjs` classification pipeline |
@@ -87,7 +88,25 @@ npm run doctor
 
 ## verify
 
-Health check for pipeline data integrity. Validates `data/applications.md` against nine rules: canonical statuses (per `templates/states.yml`), no duplicate company+role pairs, all report links point to existing files, scores match `X.XX/5` / `N/A` / `DUP`, rows have proper pipe-delimited format, no pending TSVs in `batch/tracker-additions/`, no markdown bold in scores, no two `reports/*.md` files covering the same company+role, and no orphan reports without a tracker row (#1425). The report checks are warning-level: duplicate reports can be legitimate (re-evaluation after a JD change), so they never fail the run.
+Health check for pipeline data integrity. Runs 17 checks over `data/applications.md` and the files around it, numbered as in `verify-pipeline.mjs`. Checks marked *warning* are reported but never fail the run; the rest are errors.
+
+1. Statuses are canonical (a `templates/states.yml` id or alias), with no markdown bold and no date in the cell.
+2. No two rows share a company+role pair (*warning*).
+3. Every report link points to an existing file. A report that cannot be inspected (a permission or I/O error) is a *warning*, since it may exist.
+4. Scores read as a number followed by `/5` (e.g. `4/5`, `4.25/5`), or one of the no-score values `N/A`, `DUP`, `—`, `-`.
+5. Every row has a cell for each of the tracker's columns.
+6. No pending TSVs in `batch/tracker-additions/` (*warning*).
+7. No markdown bold in scores (*warning*).
+8. Stale report-number reservations (`reports/NNN-RESERVED.md` files older than 4 hours, left by `reserve-report-num.mjs`) are deleted. This is the only check that writes; each removal is a *warning*.
+9. No two `reports/*.md` files cover the same company+role, unless each carries its own distinct `**URL:**` (*warning*, #1425). Duplicate reports can be legitimate, e.g. a re-evaluation after a JD change.
+10. Every report has a tracker row referencing it (*warning*, #1425).
+11. Via channel consistency: an unknown employer (`?`) must name its agency in the Via column (a *warning* instead when the tracker has no Via column yet); a company written as a confidentiality placeholder and the same company+role reached through two channels are *warnings*.
+12. No `#` value is used by more than one row.
+13. Statuses in `applications.md` and `data/active-interviews.md` agree, via `tracker-sync-check.mjs` (drift is a *warning*; a sync check that cannot run is an error).
+14. `data/follow-ups.md`, when present, has a table `stats.mjs` and `followup-cadence.mjs` can parse (an error when no row parses, a *warning* when only some rows would be skipped).
+15. Every enabled `portals.yml` entry is claimed by a provider, checked offline. An entry that sets `scan_method` is handed off to the agent instead and is not flagged; an unclaimed or unnamed entry without one is a *warning*, an unknown `provider` is an error.
+16. No invisible control characters in tracker cells.
+17. Every report has an archived JD, via `check-jd-archive.mjs` (a missing archive is an error, review-due findings are *warnings*).
 
 ```bash
 npm run verify
@@ -99,7 +118,7 @@ npm run verify
 
 ## normalize
 
-Maps non-canonical statuses to their canonical equivalents and strips markdown bold and dates from the status column. Aliases like `Enviada` become `Aplicado`, `CERRADA` becomes `Descartado`, etc. DUPLICADO info is moved to the notes column.
+Maps non-canonical statuses to the canonical states in `templates/states.yml` (`Evaluated`, `Applied`, `Responded`, `Assessment`, `Interview`, `Offer`, `Hired`, `Rejected`, `Discarded`, `SKIP`) and strips markdown bold from the status column (and from the score on any row whose status it changes). Aliases are read from `states.yml`, so `Enviada` becomes `Applied`, `CERRADA` becomes `Discarded`, `Mülakat` becomes `Interview`, etc. A few legacy forms are handled in the script itself: `Aplicado 2026-03-02` / `Rechazado 2026-03-02` lose the date, and `DUPLICADO` / `DUP`, `Repost #NNN` and an empty, `—` or `-` status become `Discarded`, with the DUPLICADO / DUP / Repost text moved to the notes column. Anything else it cannot map is listed as unknown and left as it is.
 
 ```bash
 npm run normalize             # apply changes
@@ -108,7 +127,7 @@ npm run normalize -- --dry-run  # preview without writing
 
 Creates a `.bak` backup of `applications.md` before writing.
 
-**Exit codes:** `0` always (changes or no changes).
+**Exit codes:** `0` always (changes or no changes), `1` on an unknown flag or when the tracker lock cannot be acquired.
 
 ---
 
@@ -445,7 +464,14 @@ node assessment-log.mjs add --company Acme --report 042 --platform eSkill --subj
 node assessment-log.mjs             # JSON
 node assessment-log.mjs --summary   # per-event + per-platform table
 node assessment-log.mjs --self-test
+
+# Take-home / demo-recording assignments (#5733)
+node assessment-log.mjs add --kind take-home --company Acme --platform "candidate portal" --subject "Demo lesson" --deadline 2026-11-02T17:00:00-08:00 --deliverable video --requirements-url https://example.com/guide
+node assessment-log.mjs submit --company Acme --subject "Demo lesson" --submitted-at 2026-11-01T10:00:00-05:00 --proof "on-screen thanks, no email"
+node assessment-log.mjs open [--tz America/Toronto] [--json]
 ```
+
+Take-home rows add optional trailing columns `kind, deadline, deliverable (video|file|link), requirements_url, submitted_at, proof`; older rows parse unchanged as `skills-test`. The deadline must carry the sender's UTC offset (or Z). `submit` appends a new row (the log is never rewritten) and `open` folds rows per company + report# + subject. `open` converts deadlines to `--tz`, else `location.timezone` in `config/profile.yml` when it is an Area/City IANA name, else the machine timezone, and marks deadlines within 48 hours (and overdue ones) when no `submitted_at` is recorded. The tool only records and reminds; it never submits anything.
 
 Log line format (TSV, one per line, `#`-prefixed lines are comments; for `report#`, `threshold%`, and `score%`, `-` or an absent trailing cell = unknown; an empty `stale_note` means no staleness was observed, not unknown):
 
@@ -559,8 +585,8 @@ node github-evidence.mjs          # writes output/github-evidence-{date}.{md,jso
 node github-evidence.mjs --json   # same, and prints the JSON on stdout
 ```
 
-- Only PRs you authored count. Your own repos (owning is not authorship) and
-  forks are listed by name and count only, never as evidence.
+- Only PRs and commits you authored count. Your own repos (owning is not
+  authorship) and forks are listed by name and counts only, never as evidence.
 - A private repo is evidence only when listed in `config/profile.yml`:
   `github_evidence.private_allowlist: ["owner/repo"]` (empty by default). Any
   other private repo, or one whose visibility could not be read, appears by
@@ -569,8 +595,33 @@ node github-evidence.mjs --json   # same, and prints the JSON on stdout
   does not name. `claimCheck.namedNoMerge`: repos `cv.md` names where you have
   no merged PR. Matching is literal and case-insensitive (`owner/repo`, then
   the repo name, then the owner), and each row says which one matched.
+- Commits you authored on each repo's default branch (the commit author is your
+  GitHub account) are counted too, so a repo you push to directly, with no PR,
+  still shows up. Each row carries `commits`: `count`, `first` and `last` date,
+  and `exact`. They sit apart from the PR counts and are never added to them,
+  since a squash-merged PR is also an authored commit. Dates appear only where
+  PR titles would (public and allowlisted repos); other private repos and forks
+  show the count only. Commit messages and diffs are never read.
+  `claimCheck.commitsNotNamed`: third-party repos with commits, no merged PR,
+  and no mention in `cv.md`.
+- Commits are found with one commit search (`search/commits?q=author:<you>`,
+  newest first, 100 per page, pages one second apart, since GitHub rate-limits
+  commit search harder than the rest of the API). It covers every repo your
+  token can read, private and organization repos included. Your own repos and
+  the allowlisted ones are then counted from the repo itself
+  (`repos/<owner>/<repo>/commits?author=<you>&per_page=1`: the `Link` header's
+  last page is the count, and that page holds the oldest commit). Calls on top
+  of the PR step: one search page per 100 authored commits (at most 10); one
+  count call per own or allowlisted repo that is not a fork, plus one for its
+  oldest date when it has more than one commit and its dates are shown; one
+  metadata call per allowlisted repo neither search returned. A repo only the
+  commit search found takes its visibility and fork flag from that result, so
+  its stars read `?`.
 - GitHub search returns at most 1000 results per query; the `truncated` flags
-  say when a list may be incomplete.
+  say when a list may be incomplete, and a commit count with `exact: false` is
+  then a lower bound with `first: null` (the search reads newest first). A failed or partial commit search does not change the
+  exit code: the report is written as usual, and `commitSearch.status` (`ok`,
+  `partial`, `failed`) and `commitSearch.detail` say what happened.
 
 **Exit codes:** `0` report written, `1` usage error or `candidate.github`
 missing/malformed (normalized as in `expand`'s Input step, so a repo link such
@@ -758,7 +809,9 @@ career-ops v1.32.0
 
 ## update
 
-Applies the upstream update. Creates a timestamped backup branch (`backup-pre-update-<version>-<YYYYMMDDTHHMMSSZ>`), fetches the latest published release from the canonical repo (`--channel main`: main's tip instead), checks out only system-layer files, runs `npm install`, and commits. The timestamp is derived from UTC ISO time with separators and milliseconds removed (for example, `backup-pre-update-1.8.1-20260608T071302Z`). User-owned files (`cv.md`, `config/profile.yml`, and files in `data/`, `reports/`, `output/`, and `jds/`) are preserved; only the exact system-owned `.gitkeep` scaffolds listed in `DATA_CONTRACT.md` may be replaced. Each current-format backup has an internal paired target ref at `refs/backup-pre-update-target/<backup-branch>` so rollback can identify files introduced by that update. Target refs are retained while their backup branch exists; a later update prunes only paired refs whose backup branch was deleted.
+Applies the upstream update. Creates a timestamped backup branch (`backup-pre-update-<version>-<YYYYMMDDTHHMMSSZ>`), fetches the latest published release from the canonical repo (`--channel main`: main's tip instead), checks out only system-layer files, runs `npm install`, and commits. The timestamp is derived from UTC ISO time with separators and milliseconds removed (for example, `backup-pre-update-1.8.1-20260608T071302Z`). User-owned files (`cv.md`, `config/profile.yml`, and files in `data/`, `reports/`, `output/`, and `jds/`) are preserved; only the system-owned scaffold files listed in `DATA_CONTRACT.md` may be replaced: the exact `.gitkeep` files, and the `README.md` in `documents/`, `interview-prep/sessions/` and `writing-samples/`. Each current-format backup has an internal paired target ref at `refs/backup-pre-update-target/<backup-branch>` so rollback can identify files introduced by that update. Target refs are retained while their backup branch exists; a later update prunes only paired refs whose backup branch was deleted.
+
+A system file this install has changed is not replaced. `update` lists it, tries to save a `.bak` copy beside it, and keeps your version, which then stops receiving upstream changes. `--force` replaces it with the upstream version. The updater's own files are the exception: `update` must run the new versions of those, so it always replaces them and leaves your version only in the `.bak`. If a `.bak` cannot be written, `update` says so next to the file and continues, so with `--force` that file is replaced without a copy. See "The Rule" in `DATA_CONTRACT.md`.
 
 ```bash
 npm run update
@@ -773,6 +826,8 @@ npm run update
 ## rollback
 
 Restores system-layer files from the most recent backup branch created during an update. Rollback prefers the newest timestamped branch matching `backup-pre-update-<version>-<YYYYMMDDTHHMMSSZ>` and still accepts legacy `backup-pre-update-<version>` branches for older installs.
+
+Rollback does not keep local edits the way `update` does. It checks the backup's version of each system file out over the one on disk, apart from paths it reports as unsafe and leaves alone. An uncommitted change to a restored file is lost, with no `.bak` copy. Commit or copy such changes before you roll back. User-layer files are never touched.
 
 ```bash
 npm run rollback
@@ -889,7 +944,11 @@ Pass `--history-seeds` to derive board seeds locally from posting URLs already
 in the user's tracker and `data/scan-history.tsv`. A normal run does not read
 either history source. With the flag, known ATS hosts route to the
 matching installed provider; an unknown host remains its hostname rather than
-being discarded. Known vendor labels become scannable automatically if a
+being discarded. Add `--probe-unknown-hosts` to also make one plain GET per
+distinct unknown host (verdict cached, response read capped) and route hosts
+whose page carries SuccessFactors markers (branded RMK/CSB career sites) to the
+`successfactors` provider; a failed or blocked probe leaves the label unchanged,
+and nothing is written back to `portals.yml`. Known vendor labels become scannable automatically if a
 matching provider is added later. This is read-only input: no tracker column or
 apply-time browser capture is required, and history is never uploaded or pooled.
 
@@ -1048,6 +1107,7 @@ node tracker.mjs sync                     # (re)build applications.db from appli
 node tracker.mjs sync --check             # diagnose corruption only, no write (exit 1 if issues found)
 node tracker.mjs query --status Applied --since 2026-05-01
 node tracker.mjs query --company acme --json
+node tracker.mjs query --since 2026-09-01 --csv > output/tracker.csv  # open in a spreadsheet
 node tracker.mjs query --status Evaluated --min-score 4  # scored 4.0/5 or higher, not yet applied to
 node tracker.mjs history --id 42          # status transitions from status-log.tsv (Applied → Interview → ...)
 node tracker.mjs export                   # inverse: index → markdown table on stdout
@@ -1062,6 +1122,8 @@ node tracker.mjs delete --num 42          # remove row 42 from applications.md (
 `sync` detects and reports the corruption classes markdown accumulates — mojibake placeholder cells, scores stranded in the status column, non-canonical statuses (resolved via `templates/states.yml` aliases), missing/malformed/duplicate ids, stray pipes — and normalizes them **in the index only**; the markdown is never modified. Fix at the source with `normalize-statuses.mjs` / `dedup-tracker.mjs`, then re-sync. `history` reads a `status_events` table that each sync rebuilds from the transition ledger, `status-log.tsv` beside the tracker (written by `set-status.mjs`, folded with `funnel-velocity.mjs`'s `foldObservations()` so `correction` and retraction lines apply), so every transition keeps its own date and two changes between syncs stay two (#5555). A status the ledger does not explain — one changed by hand in `applications.md` — is recorded as an event dated with the sync that saw it and shown as `(no ledger row; observed at sync)`. That event is the only part of the index a rebuild cannot reproduce.
 
 `delete` removes the row numbered `--num` from `applications.md` under the same lock as `merge-tracker.mjs`, after copying the tracker to `applications.md.bak`, and then rebuilds the index. `--dry-run` previews and writes nothing, the backup included. The row's report file is left on disk and named in the output.
+
+`query --csv` prints one row per application with a header row: `id,date,company,role,score,status,pdf,report,notes`. The score is a plain number (empty when the row has none), `pdf` is `yes` or `no`, and `report` is the report's path. A cell that starts with `=`, `+`, `-` or `@` gets a leading `'` so a spreadsheet does not run it as a formula. Every other `query` flag filters the rows the same way.
 
 `export` is the inverse of `sync`. It writes to stdout by default and never touches `applications.md` unless you explicitly pass it as `--out`. Phase 2 of #918 (DB becomes source of truth, markdown becomes a rendered view) is a separate, explicit per-user opt-in — not part of this script yet.
 
@@ -1110,6 +1172,20 @@ Multiple matches print as a table; zero matches print a clean message.
 **Exit codes:** `0` at least one match, `1` no match, missing query, or no `applications.md`.
 
 ---
+
+## ics-interview
+
+Reads the `.ics` that usually comes with an interview invite (#5743) — the one place holding the exact start, end, time zone and link — and prints, for the first `VEVENT`: start/end as sent (original `TZID` kept), the same instant in the display zone, `durationMinutes` (from `DTEND` or `DURATION`), summary, location, a meeting URL found in `LOCATION`/`DESCRIPTION`/`URL`, organizer and attendee names, and a ready-to-paste `| Company | Role | Round | Date/Time | Interviewer | Status | Notes |` row for `data/active-interviews.md`. It never writes that table.
+
+```
+node ics-interview.mjs invite.ics [--summary] [--tz America/Toronto] [--match "<invite text or file>"]
+node ics-interview.mjs < invite.ics
+```
+
+- Display zone: `--tz`, else `config/profile.yml` `location.timezone` (when Intl recognizes it), else the machine zone. A value that is not a zone is reported, not guessed.
+- Unreadable fields are an em dash in the row. All-day events are reported as a date, floating times (no zone, no `Z`) as written without conversion, and a `TZID` that is not an IANA name (e.g. a Windows zone name) as `unknown-tzid` without conversion. `RRULE` is ignored with a warning.
+- `--match` hands the invite text (or a file holding it) to `invite-match.mjs` to suggest the tracker row; Company and Role are filled in only when exactly one candidate matches the company exactly. The length shown comes from the `.ics`.
+- Hand-written parser for the handful of properties needed; zero-LLM, no dependency.
 
 ## paste-reply
 
