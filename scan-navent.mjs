@@ -67,7 +67,7 @@
  */
 
 import { readFileSync, existsSync, mkdirSync } from 'fs';
-import * as yaml from 'js-yaml';
+import { loadYaml } from './lib/yaml-document.mjs';
 import {
   appendToPipeline, appendToScanHistory, loadSeenUrls, unrecordedOffers, PORTALS_PATH, SCAN_HISTORY_PATH,
   buildTitleFilter, buildLocationFilter, parseSinceDays, resolveEffectiveAfter, buildPostedDateFilter,
@@ -553,7 +553,7 @@ async function main(args) {
   }
 
   let config = {};
-  if (existsSync(PORTALS_PATH)) config = yaml.load(readFileSync(PORTALS_PATH, 'utf-8')) || {};
+  if (existsSync(PORTALS_PATH)) config = loadYaml(readFileSync(PORTALS_PATH, 'utf-8')) || {};
 
   let searches = resolveSearches(config.navent_searches);
   if (onlySite) searches = searches.filter((s) => s.site === onlySite.toLowerCase());
