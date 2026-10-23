@@ -2,7 +2,7 @@
 
 Read and display the tracker file (resolved relative to the data root, defaulting to `{DATA_ROOT}/data/applications.md` or overridden by `CAREER_OPS_TRACKER`).
 
-**Read through the index, not the whole file.** Mid-search trackers run to hundreds of rows, and reading and re-printing all of them costs tens of thousands of tokens for an answer that needs a few. Use `node tracker.mjs query` with the narrowest filters that answer the question: `--status Applied`, `--company acme`, `--role engineer`, `--since 2026-09-01`, `--id 42`, `--limit 20`, or `--json` when you need fields. It resyncs the index on its own when `applications.md` changed, so its rows are never stale. `query` returns nine columns (`id`, `date`, `company`, `role`, `score`, `status`, `pdf`, `report`, `notes`). When the answer needs `Via`, `Location` or `URL`, for example to tell agency rows apart, read those rows in `data/applications.md`. Read the full file only when the user asks to see every row.
+**Read through the index, not the whole file.** Mid-search trackers run to hundreds of rows, and reading and re-printing all of them costs tens of thousands of tokens for an answer that needs a few. Use `node tracker.mjs query` with the narrowest filters that answer the question: `--status Applied`, `--company acme`, `--role engineer`, `--since 2026-09-01`, `--min-score 4`, `--id 42`, `--limit 20`, or `--json` when you need fields. It resyncs the index on its own when `applications.md` changed, so its rows are never stale. `query` returns nine columns (`id`, `date`, `company`, `role`, `score`, `status`, `pdf`, `report`, `notes`). When the answer needs `Via`, `Location` or `URL`, for example to tell agency rows apart, read those rows in `data/applications.md`. Read the full file only when the user asks to see every row.
 
 **Tracker Format:**
 
@@ -59,3 +59,5 @@ coverage, follow-up compliance), run `node stats.mjs --summary` and present its
 output. Zero tokens — never recompute these numbers manually.
 
 If any company in the tracker shows a `silent-on-you` responsiveness label, also offer `node company-history.mjs --summary` — the per-company evidence cards (hygiene nudge first, then silent-first) give the user the underlying facts before they decide how to prioritize.
+
+**After the candidate's evidence changes:** once `cv.md`, `article-digest.md`, `config/profile.yml` or `modes/_profile.md` has been updated (after `expand` or `add`, for example), run `node reeval-candidates.mjs --summary`. It lists the `Evaluated` rows whose last evaluation predates that change, with the file that changed after each one (`--status Evaluated,Applied` widens it). It is read-only and only points: offer to re-evaluate the rows the user picks, and let the merge update each row, rather than changing a score by hand.
