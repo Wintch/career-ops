@@ -89,6 +89,16 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 
 - Some large open-source and platform employers describe a multi-month process (a written application, a psychometric test, several interviews) on their own hiring-process page. Read that page first and check whether it limits how many roles one candidate may apply to in a period; one report of such a limit was not verified against the employer's terms.
 
+### Canonical (Greenhouse)
+
+- Many Canonical postings are standing/evergreen requisitions, not time-bound openings: three independent evaluations (2026-10) found reqs open 7 months to 2.5+ years with no salary published. Don't read posting freshness the normal way for this employer — check `scan-history.tsv`'s `postedAt` and weigh it as a Block G "Proceed with Caution" context note, not an automatic ghost-job flag, since the company is actively hiring elsewhere.
+- Canonical's own application form states that **AI-generated answer content disqualifies the application** (observed 2026-10-24). Any written answers for a Canonical application must be hand-written by the candidate, not drafted by this tool and copy-pasted as-is.
+- Comp is paid by geographic PPP; US-sourced salary figures (Levels.fyi, Blind) do not transfer to a non-US hire and should not be used to score the Comp block for an Argentina-based candidate.
+
+### NVIDIA (Workday)
+
+- 2026-10-24: every `nvidia.wd5.myworkdayjobs.com` posting URL from that day's scan redirected — via WebFetch, via a real headless-browser fetch (`browser-extract.mjs`), and via `check-liveness.mjs`'s browser path — to the generic `nvidia.com/en-us/about-nvidia/careers/` page with no job id preserved in the final URL. All three independent methods failed the same way, which reads as a tenant-wide outage that day, not a bot block or dead links. If this recurs, retry on a different day before concluding the postings are gone.
+
 ### LinkedIn
 
 - Follow the LinkedIn guard in AGENTS.md: one bounded attempt, then ask for pasted text. Never treat a loading failure as a closed posting.
