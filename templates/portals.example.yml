@@ -2002,6 +2002,11 @@ search_queries:
 #   maxPages: 25                          # optional, default 25, max 30 (alias: max_pages); warns if it stops on the cap
 #   enabled: true
 #
+# - name: EntertainmentCareers.net        # US film/TV/media crew board (server-rendered HTML)
+#   provider: entertainmentcareers        # page 1 only per keyword — robots.txt blocks the site's own pagination
+#   searchKeywords: [video editor, colorist, editor]  # required — one search per keyword, ~25 results each
+#   enabled: true                         # "Members Only" badged listings are dropped (paywalled to candidates)
+#
 # - name: Jobspresso                      # curated remote roles (public WordPress feed)
 #   provider: jobspresso
 #   enabled: true
