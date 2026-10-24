@@ -354,6 +354,7 @@ export const USER_PATHS = [
   'opencode.json',
   '.claude/settings.json',
   '.claude/hooks/',
+  'FORK_NOTES.md',
 ];
 
 // Local user layer — a fork's own files, declared OUTSIDE the system layer.

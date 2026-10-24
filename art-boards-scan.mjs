@@ -7,12 +7,12 @@ import { execFileSync } from 'child_process';
 import { readFileSync } from 'fs';
 import { fileURLToPath } from 'url';
 import path from 'path';
-import * as yaml from 'js-yaml';
 import {
   PORTALS_PATH, buildTitleFilter, buildLocationFilter, loadSeenUrls, normalizeUrlForDedup,
   appendToPipeline, appendToScanHistory,
 } from './scan.mjs';
 import { localToday } from './lib/local-today.mjs';
+import { loadYaml } from './lib/yaml-document.mjs';
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const args = process.argv.slice(2);
@@ -184,7 +184,7 @@ const workwithindies = () => rssFeed('https://www.workwithindies.com/careers/rss
 
 const SOURCES = { artstation, gamesjobsdirect, gamesworkshop, publishers, remotegamejobs, workwithindies };
 
-const config = yaml.load(readFileSync(PORTALS_PATH, 'utf-8')) || {};
+const config = loadYaml(readFileSync(PORTALS_PATH, 'utf-8')) || {};
 const titleFilter = buildTitleFilter(config.title_filter);
 const vetoOnly = buildTitleFilter({ negative: config.title_filter?.negative });
 const passesTitle = p => (p.curated ? vetoOnly(p.title)
