@@ -93,7 +93,29 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 
 - Follow the LinkedIn guard in AGENTS.md: one bounded attempt, then ask for pasted text. Never treat a loading failure as a closed posting.
 
-## 3. When a site blocks the agent
+## 3. Not scanned — search these yourself
+
+Sites career-ops cannot read automatically: a terms-of-service block, a bot challenge, a paywall, or the site is itself a meta-aggregator the Source Indexing Policy keeps out. None of these are touched by `scan.mjs`, so without manual coverage they are off the radar entirely. The full global audit (70+ boards evaluated and excluded — including many with no relevance to this candidate's targeting, e.g. national public-sector boards in Japan, the Netherlands, Kazakhstan) lives in `docs/SUPPORTED_JOB_BOARDS.md` → "Evaluated, not supported", with the exact technical reason and the date checked. This table is the filtered subset actually worth knowing about for this candidate's targeting (remote tech/infra, games/AI, video/color-grading, Argentina/LatAm):
+
+| Site | Why it's not scanned | How to search it by hand |
+| --- | --- | --- |
+| Indeed | Its terms forbid scraping. | Set up a saved search + daily email alert inside your own Indeed account. Paste any interesting posting here to triage/evaluate it. |
+| JobYap | Meta-aggregates ~941 companies' postings onto its own pages with no link back to the employer (no canonical URL, rules 2 and 5); `robots.txt` disallows `/api/` for every bot, including AI crawlers. | Browse jobyap.com's own filters by hand. Paste a posting here — it gets confirmed at the real employer before anything else, same as any aggregator hit. |
+| Upwork | Applying costs the freelancer "Connects" (fails the free-for-candidates rule); the job-search API needs an approved OAuth app. | Saved searches + email alerts inside your own account. Paste the gig text here for a fit check against your floor. |
+| Fiverr | No official buyer-request API found. | Check buyer-request notifications in your own account. Paste text here. |
+| Glassdoor | A reference scraper for this board needs active bot-detection evasion (stealth mode) — out of scope on principle, independent of `robots.txt`. | Browse manually. It often mirrors a LinkedIn/Indeed posting, so confirming at the employer's own board is usually faster anyway. |
+| Dice | Same stealth-mode requirement as Glassdoor. | Browse manually; mostly US-based tech contracts. |
+| Jooble | A meta-aggregator across other boards (rule 5). | Skip — whatever it has is already covered by its source boards. |
+| Arc.dev | Hides the employer behind "Arc Exclusive" on every listing (fails rule 1); applying needs an Arc account. | Skip unless you already have an Arc account and want to browse manually. |
+| ArtStation Jobs | Needs a real browser — plain fetches are refused (403) — so it is outside the zero-token scanner's contract. | Relevant to the color-grading/video interest. Browse by hand periodically, or ask to run `node browser-extract.mjs <url>` on a specific posting. |
+| Mandy, Mediabistro, BroadcastJobs.com | Bot-blocked (403 / CAPTCHA), or `robots.txt` names Claude's crawler directly. | Relevant to media/crew roles. Browse manually; paste anything promising. |
+| Catho (Brazil), Trabajando.com (Chile) | Push candidates to a paid tier (fails the no-paywall bar). | LatAm boards worth an occasional manual look if targeting those markets specifically. |
+
+Everywhere in this table: paste the posting text or URL and it gets triaged/evaluated exactly like a scanned one — manual discovery skips the scan step, not the funnel. Ask for a re-check of this filtered list if targeting changes (a new country, a new role type) — the full table in `SUPPORTED_JOB_BOARDS.md` may already have something relevant that was left out here as not applicable at the time.
+
+LinkedIn is handled differently: it is not in this table because it is scanned/read under a bounded guard (one browser attempt per posting per run, then ask for pasted text — see AGENTS.md's LinkedIn JD loading guard), not skipped outright.
+
+## 4. When a site blocks the agent
 
 1. Say so plainly and name the site.
 2. Do not work around the block (no header spoofing, no retries with another tool).

@@ -220,7 +220,6 @@ future evaluation doesn't repeat the same investigation from scratch.
 | infosec-jobs.com / isecjobs.com (foorilla) | Its own `/api/llms.txt` describes a paid-subscription platform whose API needs a PRO+ key, and it aggregates other boards (rule 5). | 2026-10-11 |
 | CyberSecurityJobs.com | The job search and feed answer 403 with a Cloudflare challenge, `robots.txt` included. | 2026-10-11 |
 | Mandy, Mediabistro (media / crew) | 403 Cloudflare block and 405 "Human Verification". | 2026-10-11 |
-| EntertainmentCareers.net | Candidates pay for early access ("Members see new listings before they reach the general public"), which fails the no-paywall bar. | 2026-10-11 |
 | Streaming Media, SVTA | No job board: `/Jobs` and `/careers/` return 404. Streaming employers are reachable through their own ATS boards. | 2026-10-11 |
 | Catho (Brazil) | Listing pages are readable, but candidates are pushed to a paid subscription tier, which fails the no-paywall bar (rule 1). | 2026-10-11 |
 | Trabajando.com (Chile) | Offers candidates a paid "premium" tier (rule 1), and the listing is a client-rendered shell over an API that was not identified. | 2026-10-11 |
