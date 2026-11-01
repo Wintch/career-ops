@@ -202,6 +202,15 @@ future evaluation doesn't repeat the same investigation from scratch.
 | Trabajando.com (Chile) | Offers candidates a paid "premium" tier (rule 1), and the listing is a client-rendered shell over an API that was not identified. | 2026-10-11 |
 | BroadcastJobs.com, Youthall | `robots.txt` has a group naming Claude's crawler that disallows the job paths (same precedent as TopDev). | 2026-10-11 |
 | EPAM careers | `robots.txt` disallows `/api`, `?query` and `?page`, which covers every path a provider would need. | 2026-10-11 |
+| Remote Rocketship | Aggregator (rule 5). Its server-rendered `__NEXT_DATA__` carries the 20 newest postings per page with the employer's ATS URL, but deeper pages need `/api`, which `robots.txt` disallows. Useful by hand as an employer-discovery feed: add the employers' ATS boards to `tracked_companies` and let the existing providers read them. | 2026-11-01 |
+| DailyRemote | Aggregator (rule 5). Listing cards are readable, but the employer is shown as "Company hidden" and the JD and apply link sit behind a sign-up wall, so a posting cannot be confirmed at the employer (rule 1). | 2026-11-01 |
+| JustRemote, Remote.co | Aggregators (rule 5). On the check, the DevOps categories were US-restricted and Remote.co's indexed listings were stale. | 2026-11-01 |
+| Hitmarker (games / esports) | The `/jobs` listing is client-rendered: the HTML carries no job links, so it needs a browser, which is outside the zero-token contract. `robots.txt` allows search and user-fetch agents and disallows training crawlers. Much of it re-lists studio postings; the studios' own ATS boards are the better target. | 2026-11-01 |
+| GameJobs.co, InGameJob | Games-industry aggregators (rule 5). InGameJob also failed plain fetches. | 2026-11-01 |
+| Habr Career (Russia) | Technically readable (public RSS `/vacancies/rss` and JSON `/api/frontend/vacancies`, not disallowed by `robots.txt`). Not built: in a 301-vacancy snapshot of remote infra roles, none allowed working from outside Russia (ruble pay, Russian residency). Worth a provider only for candidates based in Russia. | 2026-11-01 |
+| BairesDev, Andela, Howdy, Lemon.io, Proxify, Index.dev, Crossover | Talent networks with no public requisitions: you join a pool, which needs an account (same as Revelo/Talently). | 2026-11-01 |
+| ProductionHUB, StaffMeUp, Twine, Freelancer.com (media / freelance) | Crew-booking and freelance-bid marketplaces: details or applying need an account. On the check, listings were mostly US on-site crew work (ProductionHUB, StaffMeUp) or low-budget bid work (Twine, Freelancer.com). | 2026-11-01 |
+| Telegram job bots (e.g. Getmatch) | No public listing: you have to talk to a bot and hand over a profile first. Public channels are readable through `telegram-channel`, but posts are anonymous and need confirming at the employer. | 2026-11-01 |
 
 The rows dated 2026-10-11 come from one survey of national, relocation, public-sector
 and niche boards. Every source was probed with the scanner's own client and declared
