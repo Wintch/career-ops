@@ -113,6 +113,7 @@ Resync only when a release lands or a fix is wanted: follow "Rebuild recipe" abo
 | 2026-10-22 | merged into `integration` | v1.37.0 | Merged clean (kept both sides on a few doc/test conflicts). `scan-navent.mjs` now reads YAML via `lib/yaml-document.mjs` (upstream #5464) — carry that into `feat/navent-scanner` on its next rebase. |
 | 2026-10-23 | v1.38.0 applied via `update-system.mjs apply --confirm` | v1.38.0 | **Kept the fork's `providers/computrabajo.mjs`** — upstream's rewrite is incompatible with the real `portals.yml` entry's `searchKeywords`/`max_pages` shape; swapping it would silently break that board. `scan-ats-full.mjs` merged (upstream's timeout fix + fork-only `--hiring-only`). All tests green. |
 | 2026-10-23 | — | — | Tried the full topic-branch rebuild; most `feat/*`/`fix/*` branches aren't cleanly based on `origin/main` (they were cut from old `integration` merge history), so an ordinary rebase replays dozens of unrelated commits. Only 4 branches rebased clean (noted in the branch table above). **`integration` was not rebuilt** — still at the v1.38.0 commit above. Next attempt: check branch ancestry first; anything that fails needs its unique commits extracted onto a fresh base before rebasing is useful. |
+| 2026-11-01 | `6825dc60` (164 ahead of the 2026-10-27 sync base `82d20c85`), merged into `integration` as `2afaf0ea` | still v1.38.0 | Merged after the 2026-11-01 docs/portals branches. Four both-sides conflicts, all kept both: `docs/SUPPORTED_JOB_BOARDS.md` (Bumeran/ZonaJobs + upstream's Bulldogjob), `templates/portals.example.yml` (hibob + upstream's deel stanzas; upstream's own LatAm employer section + `feat/latam-employers`), `liveness-api.mjs` (our `djinni` entry + upstream's `ultipro`, as two separate objects), `tests/providers/url-encoding-surrogate.test.mjs` (sorted union). Upstream's new plugin directories copy `.agents/skills/career-ops/SKILL.md` and test it byte for byte, so the fork's `watch` router line needed `572a6254` on `integration`. **Carry `572a6254` into `feat/watch-mode` when it is next rebased.** Full suite: 19833 passed, 0 failed. Worth using: `deel` provider (jobs.deel.com tenants), scan years-of-experience filter read from the JD (#6154), `keyword-match` against a posting URL (#6191), oferta role-clarity check (#6095), invite-match pre-interview email (#6100), batch `--mode match` (#5404), privacy guard for the non-Claude LLM runners (#5571). |
 
 ## Known-fixed boards (2026-10-23)
 
@@ -141,6 +142,17 @@ supported".
 - **Upwork, Fiverr:** freelancers pay to apply (Upwork Connects), Upwork's job search needs an approved OAuth app, and no official Fiverr buyer-request API was found. They fail rule 1 of the Source Indexing Policy or need a third-party account, so they stay manual (see `docs/JOB_SITE_NOTES.md`).
 - **Darwinbox (2026-10-20):** the careers app is a JS shell; its job-list calls (`POST /ms/candidateapi/job/alljobs`) answer a Cloudflare WAF 403 to the scanner's client on every real tenant measured, so a provider would need browser-minted cookies or tokens. Ruled out by the provider guide; revisit only if a no-auth path appears.
 - **Workana:** not evaluated yet (no terms or robots check done). **Reddit job subreddits and modding forums:** not built; their posts are requests from individuals rather than identifiable employers (rule 1), and their terms and robots were not checked.
+
+### Considered and not built (2026-11-01)
+
+A no-account sweep of remote and regional platforms; the reasons are in `docs/SUPPORTED_JOB_BOARDS.md` ("Evaluated, not supported", rows dated 2026-11-01) and the handling notes in `docs/JOB_SITE_NOTES.md`.
+
+- **Remote Rocketship:** aggregator, so not a provider. It is the best *employer-discovery* feed found so far: its server-rendered `__NEXT_DATA__` carries each posting's employer ATS URL, which is how the 61 remote-LatAm employers in `templates/portals.example.yml` were found (branch `feat/latam-employers`). Re-run that discovery by hand every few weeks; `robots.txt` disallows `/api`.
+- **DailyRemote, JustRemote, Remote.co, GameJobs.co, InGameJob:** aggregators (rule 5); DailyRemote also hides the employer.
+- **Hitmarker:** client-rendered listing (browser only).
+- **Habr Career:** readable (RSS/JSON) but useless outside Russia; build only if a Russia-based user asks.
+- **Telegram job channels/bots:** documented only; the `telegram-channel` provider stays opt-in.
+- **Deel job boards** (`jobs.deel.com/<slug>`): upstream shipped a `deel` provider in this sync (#6189). Many remote-LatAm employers post there; worth a discovery pass to add tenants.
 
 ### To build, in priority order
 
