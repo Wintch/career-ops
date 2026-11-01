@@ -3658,6 +3658,325 @@ tracked_companies:
     notes: "Remote US. Bug bounty platform."
     enabled: false
 
+  # -- Hiring remotely from Latin America (nearshore firms, staffing, remote-first) --
+  # Employers whose own ATS board had at least one infra / DevOps / SRE /
+  # platform role open to Argentina or LatAm-based candidates on 2026-11-01,
+  # found through Remote Rocketship's employer links and an ATS sweep. Many are
+  # nearshore or staff-augmentation firms (the end client is often undisclosed),
+  # and most boards mix countries: read each JD's residence requirement.
+  # Left `enabled: false` like every other example; enable the ones whose
+  # countries match yours.
+
+  - name: "CodeRoad"
+    careers_url: https://job-boards.greenhouse.io/coderoad
+    notes: "Nearshore firm for US clients; LatAm remote DevOps as USA contractor, USD pay. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Caylent"
+    careers_url: https://job-boards.greenhouse.io/caylent
+    notes: "AWS Premier partner, fully remote; hires platform engineers in Argentina directly, USD. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Chainlink Labs"
+    careers_url: https://jobs.ashbyhq.com/chainlink-labs
+    notes: "Crypto oracle infra; SRE roles list Argentina as an approved hiring jurisdiction. Verified 2026-11-01. Ashby posting-API answers 404 for this slug (postings themselves are live), so disabled; check the board by hand."
+    enabled: false
+
+  - name: "Time Doctor"
+    careers_url: https://timedoctor.recruitee.com
+    notes: "Remote-first SaaS; DevOps open to LatAm with US Eastern overlap. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Helpware"
+    careers_url: https://helpware-inc.breezy.hr
+    notes: "BPO/tech services; platform/DevOps remote within MX/BR/AR. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Jobsity"
+    careers_url: https://cc-jobs-jobsity.na.teamtailor.com
+    provider: teamtailor
+    notes: "Nearshore staffing; SRE/AWS roles open to Argentina. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Devlane"
+    careers_url: https://careers.devlane.com
+    provider: teamtailor
+    notes: "LatAm staff augmentation (Teamtailor on a branded domain); remote LatAm DevOps, USD. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Prometeo Talent"
+    careers_url: https://jobs.prometeotalent.com
+    provider: teamtailor
+    notes: "Recruiting agency (Teamtailor on a branded domain); 'anywhere in LatAm' DevOps roles; end client usually undisclosed. Verified 2026-11-01."
+    enabled: false
+
+  - name: "NetBox Labs"
+    careers_url: https://jobs.ashbyhq.com/netboxlabs
+    notes: "Network automation / observability; DevOps roles list LATAM remote. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Azumo"
+    careers_url: https://apply.workable.com/azumo
+    notes: "Nearshore AI/software firm, remote anywhere in LatAm, USD. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Hire Hangar"
+    careers_url: https://jobs.ashbyhq.com/hirehangar
+    notes: "Staffing firm; contract LLM-infra roles listing Argentina among many countries. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Atmosera"
+    careers_url: https://jobs.lever.co/atmosera
+    notes: "Azure/cloud MSP; cloud infra roles 'Remote - LATAM - ARG'. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Truelogic"
+    careers_url: https://jobs.ashbyhq.com/truelogic
+    notes: "Nearshore software firm; LatAm remote DevOps/DevSecOps, USD. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Kraken"
+    careers_url: https://jobs.ashbyhq.com/kraken.com
+    notes: "Crypto exchange; some SRE roles list Argentina among LatAm locations. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Sezzle"
+    careers_url: https://job-boards.greenhouse.io/sezzle
+    notes: "Fintech; security platform / infra roles in Argentina and LatAm with published USD monthly bands. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Silver.dev"
+    careers_url: https://jobs.ashbyhq.com/silver
+    notes: "Argentine agency placing senior AR talent at US companies; mostly backend/AI, occasional infra. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Anyone AI"
+    careers_url: https://jobs.ashbyhq.com/anyone-ai
+    notes: "AI human-data company; platform roles remote LatAm/US. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Dev.Pro"
+    careers_url: https://apply.workable.com/devpro
+    notes: "US outsourcing firm hiring LatAm contractors; DevOps roles. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Glacier"
+    careers_url: https://jobs.ashbyhq.com/glacier
+    notes: "Robotics/recycling; remote LatAm fleet-support systems roles at USD 3-4.5K/mo (shift coverage). Verified 2026-11-01."
+    enabled: false
+
+  - name: "Inca Digital"
+    careers_url: https://job-boards.greenhouse.io/incadigitalinc
+    notes: "Data/intelligence firm; fully remote global roles incl. Argentina (seen: senior video editor). Verified 2026-11-01."
+    enabled: false
+
+  - name: "Intuition Machines (hCaptcha)"
+    careers_url: https://apply.workable.com/imachines
+    notes: "hCaptcha maker; Wellfound lists SRE as Remote (Everywhere), contract. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Alpaca"
+    careers_url: https://job-boards.greenhouse.io/alpaca
+    notes: "Brokerage API fintech; SRE 'Remote - Global' and Americas variants. Verified 2026-11-01."
+    enabled: false
+
+  - name: "G2i"
+    careers_url: https://jobs.ashbyhq.com/g2i
+    notes: "Talent network; per-country AI-training SWE contracts (Argentina and LATAM variants, USD 100-200/h, 10-20 h/week) plus DevOps contracts. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Gamebreaking Studios"
+    careers_url: https://gamebreaking-studios-inc.breezy.hr
+    notes: "Game studio hiring backend engineers remote within LatAm (Argentina not always listed). Verified 2026-11-01."
+    enabled: false
+
+  - name: "Nitrado"
+    careers_url: https://nitrado.jobs.personio.de
+    notes: "Game-server hosting (GameFabric); SRE 'remote, hybrid or office' with 'Work from Abroad'; German contract; eligibility outside the EU is not stated. Verified 2026-11-01."
+    enabled: false
+
+  - name: "Tether"
+    careers_url: https://tether.recruitee.com
+    notes: "Verified 2026-11-01, sample posting: DevOps Engineer (100% remote) Remote Buenos Aires, Buenos Aires, Argentina"
+    enabled: false
+
+  - name: "Nexus"
+    careers_url: https://jobs.ashbyhq.com/nexus.xyz
+    notes: "Verified 2026-11-01, sample posting: Principal Infrastructure Engineer (Contract – LATAM) ... We're investing deeply in the Latin American engineer"
+    enabled: false
+
+  - name: "Zencore"
+    careers_url: https://jobs.lever.co/zencore
+    notes: "Verified 2026-11-01, sample posting: Senior Cloud Engineer, Infrastructure Location: LATAM Team: Infrastructure"
+    enabled: false
+
+  - name: "Airtm"
+    careers_url: https://jobs.lever.co/airtm
+    notes: "Verified 2026-11-01, sample posting: Infrastructure Engineer Location: LATAM Team: Tech Team This role is open for LATAM based candidates"
+    enabled: false
+
+  - name: "Outpost"
+    careers_url: https://jobs.ashbyhq.com/outpost
+    notes: "Verified 2026-11-01, sample posting: Location: Remote — Latin America preferred ... full-time contract position ... We've built this model successf"
+    enabled: false
+
+  - name: "HomeVision"
+    careers_url: https://jobs.ashbyhq.com/homevision
+    notes: "Verified 2026-11-01, sample posting: Infrastructure Software Engineer, AI & Data Security (Contract, Argentina) Location: Argentina Type: FullTime "
+    enabled: false
+
+  - name: "Swamp Club"
+    careers_url: https://jobs.ashbyhq.com/swamp-club
+    notes: "Verified 2026-11-01, sample posting: Platform Engineer Location: Worldwide Type: FullTime Work model: Remote"
+    enabled: false
+
+  - name: "Anagram"
+    careers_url: https://jobs.ashbyhq.com/anagram
+    notes: "Verified 2026-11-01, sample posting: Site Reliability Engineer Location: Anywhere ... SITE RELIABILITY ENGINEER (SRE) – WEB3 INFRASTRUCTURE ... Rem"
+    enabled: false
+
+  - name: "Featherless AI"
+    careers_url: https://jobs.ashbyhq.com/featherlessai
+    notes: "Verified 2026-11-01, sample posting: Machine Learning Engineer — Inference Optimization Location: Remote (world) Type: FullTime"
+    enabled: false
+
+  - name: "Admios"
+    careers_url: https://job-boards.greenhouse.io/admios
+    notes: "Verified 2026-11-01, sample posting: Python Cloud Engineer Location: Remote/Anywhere in Latin America"
+    enabled: false
+
+  - name: "Factored"
+    careers_url: https://job-boards.greenhouse.io/factored
+    notes: "Verified 2026-11-01, sample posting: Senior MLOps Engineer Location: Latin America Req ID: 16 Fully remote | Complete engagement job"
+    enabled: false
+
+  - name: "Institute of Free Technology"
+    careers_url: https://job-boards.greenhouse.io/iftother
+    notes: "Verified 2026-11-01, sample posting: DevOps Engineer (DST) Location: Remote (Worldwide) Req ID: BACK-1524"
+    enabled: false
+
+  - name: "Zipdev"
+    careers_url: https://apply.workable.com/zipdev
+    notes: "Verified 2026-11-01, sample posting: Senior Site Reliability Engineer Description: We're hiring a Senior SRE based in Latin America to work alongsi"
+    enabled: false
+
+  - name: "Somnio Software"
+    careers_url: https://somniosoftware.recruitee.com
+    notes: "Verified 2026-11-01, sample posting: Senior DevOps Engineer ... Location: Remote from anywhere in LATAM, working mainly on Eastern Time (EST) ... 1"
+    enabled: false
+
+  - name: "Chainstack"
+    careers_url: https://chainstack.bamboohr.com
+    notes: "Verified 2026-11-01, sample posting: Infrastructure Engineer (LATAM time zone) ... Americas time zone ... Certified Kubernetes Administrator (CKA)"
+    enabled: false
+
+  - name: "AgilityFeat"
+    careers_url: https://agilityfeat.bamboohr.com
+    notes: "Verified 2026-11-01, sample posting: Senior DevOps Engineer (LATAM) Location: Remote from LatAm Working hours: Full-time, aligned w/ Eastern or Cen"
+    enabled: false
+
+  - name: "Avahi"
+    careers_url: https://avahi.bamboohr.com
+    notes: "Verified 2026-11-01, sample posting: DevOps Engineer ... This position is open to candidates based in Mexico, Brazil, and Argentina only."
+    enabled: false
+
+  - name: "Domus Global"
+    careers_url: https://domusglobal.bamboohr.com
+    notes: "Verified 2026-11-01, sample posting: Senior MLOps Engineer | Kubernetes | Docker | AWS/Azure/GCP (BambooHR detail: atsLocation country Argentina, l"
+    enabled: false
+
+  - name: "In All Media"
+    careers_url: https://inallmedia-llc.breezy.hr
+    notes: "Verified 2026-11-01, sample posting: Brazil / Colombia / Argentina / Costa Rica / Dominican Republic - Remote ... Location: Remote from LATAM ... 1"
+    enabled: false
+
+  - name: "Cashea"
+    careers_url: https://cashea.na.teamtailor.com
+    provider: teamtailor
+    notes: "Verified 2026-11-01, sample posting: Ingeniería · LATAM · Completamente remoto  DevSecOps Engineer ... Ubicación LATAM Estado remoto Completamente "
+    enabled: false
+
+  - name: "Marvik"
+    careers_url: https://marvik.na.teamtailor.com
+    provider: teamtailor
+    notes: "Verified 2026-11-01, sample posting: Technology · Multiple locations · Fully Remote ... Locations Mexico, Peru, Colombia, Argentina, Uruguay Remote"
+    enabled: false
+
+  - name: "Flux IT"
+    careers_url: https://fluxit.breezy.hr
+    notes: "Verified 2026-11-01, sample posting: DevOps Sr. - Argentina. 'Formarás parte de nuestro equipo DevOps... Infraestructura como código, el diseño e i"
+    enabled: false
+
+  - name: "Redbee"
+    careers_url: https://jobs.lever.co/redbee
+    notes: "Verified 2026-11-01, sample posting: DevOps / SRE Senior (Capital Federal). 'Somos redbee, una empresa argentina de tecnologia... Buscamos Sr DevOp"
+    enabled: false
+
+  - name: "Mutt Data"
+    careers_url: https://jobs.lever.co/muttdata
+    notes: "Verified 2026-11-01, sample posting: Senior DataOps Engineer (Buenos Aires). 'remote-first startup... long-term project with a leading financial in"
+    enabled: false
+
+  - name: "Blue Coding"
+    careers_url: https://jobs.lever.co/bluecoding
+    notes: "Verified 2026-11-01, sample posting: Senior DevOps Engineer (V). 'Location: Remote Latam... we specialize in hiring excellent developers and amazin"
+    enabled: false
+
+  - name: "Particle41"
+    careers_url: https://job-boards.greenhouse.io/particle41llc
+    notes: "Verified 2026-11-01, sample posting: Devops Engineer (Azure) - 'Location: Argentina - Remote'. Same template exists as DevOps Engineer (AWS) and (G"
+    enabled: false
+
+  - name: "Coderio"
+    careers_url: https://jobs.lever.co/coderio
+    notes: "Verified 2026-11-01, sample posting: Senior Devops Engineer (Bogota, remote): AWS ECS/EKS, Terraform/CloudFormation, Buildkite/GitHub Actions, Data"
+    enabled: false
+
+  - name: "Pavago"
+    careers_url: https://apply.workable.com/pavago
+    notes: "Verified 2026-11-01, sample posting: Cloud / Network / Cybersecurity Engineer - Infrastructure & Security, Remote, Full-Time, 'Working Hours: U.S. "
+    enabled: false
+
+  - name: "ResilientCo"
+    careers_url: https://jobs.lever.co/resilientco
+    notes: "Verified 2026-11-01, sample posting: DevOps Engineer. Location: Argentina. Team: Engineering. Buscan DevOps Engineer Semi Senior / Senior ... Domin"
+    enabled: false
+
+  - name: "Luxury Presence"
+    careers_url: https://jobs.lever.co/luxurypresence
+    notes: "Verified 2026-11-01, sample posting: Senior DevOps Engineer - LATAM (Remote). Location: Latin America"
+    enabled: false
+
+  - name: "Private Identity"
+    careers_url: https://job-boards.greenhouse.io/privateidentity
+    notes: "Verified 2026-11-01, sample posting: Senior DevOps Engineer. Location: Latin America (multi-cloud AWS/GCP, Terraform, Kubernetes; 7+ years)"
+    enabled: false
+
+  - name: "ClickHouse"
+    careers_url: https://jobs.ashbyhq.com/clickhouse
+    notes: "Verified 2026-11-01, sample posting: Senior Software Engineer - Cloud Infrastructure - (US Remote) | Location: NAMER and LatAm (Additional location"
+    enabled: false
+
+  - name: "Railway"
+    careers_url: https://jobs.ashbyhq.com/railway
+    notes: "Verified 2026-11-01, sample posting: Infrastructure Engineer | Location: Global | Work model: Remote. 'This is a remote position available anywhere"
+    enabled: false
+
+  - name: "fal"
+    careers_url: https://jobs.ashbyhq.com/fal-ai
+    notes: "Verified 2026-11-01, sample posting: Software Engineer, Site Reliability | Location: Remote - Global | Type: FullTime. Owns Kubernetes infrastructu"
+    enabled: false
+
+  - name: "Metabase"
+    careers_url: https://jobs.lever.co/metabase
+    notes: "Verified 2026-11-01, sample posting: Senior SRE/DevOps Engineer | Location: Global Remote. JD describes an asynchronous, remote-first environment; "
+    enabled: false
+
+  - name: "Consensys"
+    careers_url: https://job-boards.greenhouse.io/consensys
+    notes: "Verified 2026-11-01, sample posting: Senior Systems Administrator | Location: UNITED STATES - Remote, EMEA - Remote, LATAM - Remote, CANADA - Remot"
+    enabled: false
+
   # -- US K-12 school districts & community colleges (single-employer boards) --
   # Examples of the applitrack / neogov / redrover / schoolspring providers.
   # Disabled: these are one region's boards — copy the pattern for your own
