@@ -25,6 +25,9 @@ model avoids.
 `integration` is `origin/main` plus a `--no-ff` merge of every topic branch. It is
 the branch that runs locally and that the Hermes deployment syncs. Never edit it by
 hand: change the topic branch, then merge it in again or rebuild `integration`.
+The only commits made straight on `integration` are the ones no topic branch can
+hold: a fix to a merge resolution, or removing a file that only `integration`
+carries. Each one is listed under "Commits made on integration" below.
 
 `fork/main` mirrors `origin/main`; push it at every resync (it lags otherwise).
 
@@ -77,7 +80,9 @@ declared client through a browser User-Agent, with no `robots.txt` check). The
 local `integration-pre-rebuild-20261012` holds `integration` as it was before.
 What `local/art-boards-scan` read is now covered without a browser User-Agent: ArtStation and
 Games Workshop have their own providers, the publishers use `title_filter_overrides` on tracked
-companies, and the games boards were already providers.
+companies, and the games boards were already providers. A copy of the scanner, with
+`notify-new.py`, came back straight onto `integration` on 2026-10-23 (`4ac95763`) and was
+removed again on 2026-11-02 (`623d7613`), once nothing was calling either file.
 
 ### Resyncing with upstream
 
@@ -106,7 +111,7 @@ node update-system.mjs check                                                    
 git show origin/release-please--branches--main:CHANGELOG.md | head -40            # next release notes
 ```
 
-Resync only when a release lands or a fix is wanted: follow "Rebuild recipe" above (rebase topics in a separate worktree, rebuild `integration`, `node test-all.mjs`, confirm before any push).
+Resync only when a release lands or a fix is wanted: follow the rebuild steps above (rebase topics in a separate worktree, rebuild `integration`, `node test-all.mjs`, confirm before any push).
 
 | Checked | Upstream main | Release | Notes |
 | --- | --- | --- | --- |
@@ -141,7 +146,7 @@ supported".
 
 - **Upwork, Fiverr:** freelancers pay to apply (Upwork Connects), Upwork's job search needs an approved OAuth app, and no official Fiverr buyer-request API was found. They fail rule 1 of the Source Indexing Policy or need a third-party account, so they stay manual (see `docs/JOB_SITE_NOTES.md`).
 - **Darwinbox (2026-10-20):** the careers app is a JS shell; its job-list calls (`POST /ms/candidateapi/job/alljobs`) answer a Cloudflare WAF 403 to the scanner's client on every real tenant measured, so a provider would need browser-minted cookies or tokens. Ruled out by the provider guide; revisit only if a no-auth path appears.
-- **Workana:** not evaluated yet (no terms or robots check done). **Reddit job subreddits and modding forums:** not built; their posts are requests from individuals rather than identifiable employers (rule 1), and their terms and robots were not checked.
+- **Workana:** answers the scanner with a Cloudflare 403 (probed 2026-10-11, see `docs/SUPPORTED_JOB_BOARDS.md`); terms not reviewed. **Reddit job subreddits and modding forums:** not built; their posts are requests from individuals rather than identifiable employers (rule 1), and their terms and robots were not checked.
 
 ### Considered and not built (2026-11-01)
 
@@ -154,11 +159,67 @@ A no-account sweep of remote and regional platforms; the reasons are in `docs/SU
 - **Telegram job channels/bots:** documented only; the `telegram-channel` provider stays opt-in.
 - **Deel job boards** (`jobs.deel.com/<slug>`): upstream shipped a `deel` provider in this sync (#6189). Many remote-LatAm employers post there; worth a discovery pass to add tenants. Discovery pass done 2026-11-01: Deel has no tenant directory, but a WebSearch restricted to `jobs.deel.com` (with infra keywords) surfaces about 25 tenants. Only one had an infra role open to LatAm (IT Tech Hub, a staffing firm whose board slug is a UUID); it went into the `feat/latam-employers` example section. Slugs are case-sensitive (`Range` works, `range` does not).
 
+### Built and considered (2026-11-02)
+
+- **Mercor** (`feat/mercor-provider`, provider `mercor`): `work.mercor.com/explore` server-renders the whole public inventory (about 316 contracts) in one `__NEXT_DATA__` blob, with eligible countries, pay and dates; `robots.txt` allows it. It ships disabled in the example config. For upstream it still needs a `docs/SOURCE_INDEXING_LOG.md` entry and probably a source proposal: it is a talent marketplace, and applying needs a Mercor account.
+- **AI-training and contract platforms**, probed 2026-11-02 with a plain client after reading `robots.txt`:
+  - Invisible Technologies (Greenhouse board `agency`, about 830 postings, some marked Argentina or LATAM/worldwide remote), Turing (Greenhouse `turing`) and Toloka (Greenhouse `toloka`) need no code; they are ordinary `tracked_companies` entries.
+  - Alignerr exposes only the first 60 of about 5,600 listings.
+  - DataAnnotation and Mindrift publish evergreen category pages, with nothing to diff.
+  - Handshake AI's contractor reqs are US PhD roles.
+  - Appen, Welocalize and HumanSignal have no technical roles for this region.
+  - Braintrust and Contra are client-rendered; Toptal and Gun.io sit behind Cloudflare; A.Team returns 404.
+  - micro1, Outlier, Revelo and Snorkel have no public listings.
+  - web3.career has JSON-LD on every page, but its "Anywhere" location tag is boilerplate.
+- **Remote Rocketship** is still not a provider, for the reason above. Reading page 1 of a few `/country/<c>/jobs/<title>/` pages is within `robots.txt`, and the research pass rated it the next thing worth building. It would be an aggregator provider that emits employer ATS URLs, so it needs a source proposal first.
+- **`scheduled-chain.mjs`** (`feat/scheduled-chain`): one command for an external scheduler. Asked for by the bridgeai deployment, which schedules the scans at off-peak hours.
+
+### Commits made on integration
+
+| Commit | What | Where it went |
+| --- | --- | --- |
+| `4ac95763` | `art-boards-scan.mjs` and `notify-new.py` | Removed in `623d7613` |
+| `760e8779`, `08eeb474` | EntertainmentCareers.net provider and its manifest entry | Moved to `feat/entertainmentcareers-provider` (2026-11-02) |
+| `23afd799` | `docs/applicant-privacy/disney.md` | Moved to `docs/applicant-privacy` (2026-11-02) |
+| `572a6254` | Plugin-directory SKILL.md copies synced with the router | Carry into `feat/watch-mode` when it is offered upstream |
+| `623d7613` | Removal of the two scripts above | Stays: no topic branch can hold a removal of an integration-only file |
+| `8cf5fbfd` | Cherry-pick of the ArtStation unsupported-row fix from `feat/games-boards` | That branch never merges into `integration` (its content landed another way, and it conflicts in the example config), so only the fix was carried over |
+
+### Fork review (2026-11-02)
+
+A four-axis review of everything the fork adds (code, privacy, upstream overlap, docs), with every finding re-checked by a second reviewer. The fixes went to the owning topic branches. Fixed:
+
+- EntertainmentCareers throws when every keyword fails and drops cards with no employer.
+- `scan-navent.mjs` honours `data/blacklist.md`.
+- `scan.mjs` hands `title_filter_overrides` to Workday's placeholder pre-filter.
+- The duplicate Chainguard example is gone.
+- `docs/JOB_SITE_NOTES.md` is generic again, with no account history.
+- The ArtStation, Bulldogjob and YC rows agree with their providers.
+- The Disney consent note no longer points at one application.
+- The watch mode's cross-reference is accurate.
+
+Still open:
+
+- **Branches whose content is already in `integration`:** `feat/argentina-portals-example`, `feat/plata-portal`, `feat/contacto-public-post` and `feat/games-boards`. Keep them as PR sources; they merge cleanly into `origin/main`.
+- **Branches to drop:**
+  - `fix/gitignore-agent-inbox`: upstream already ignores the file.
+  - `personalized` and `feat/latam-sources`: superseded catch-alls.
+  - `local/art-boards-scan`: superseded.
+  - `feat/alternativateatral-provider`: fails rule 1.
+- **Backups:** `backup-pre-rebuild-20261023`, `backup-pre-update-1.37.0-*` and `integration-pre-sync-*` are ancestors of `integration`, so they can be pruned. `integration-pre-rebuild-20261012` and `backup/pre-reorg-2026-10-11` hold commits found nowhere else.
+- **Closest to an upstream PR:**
+  - `feat/mercor-provider`, after a `SOURCE_INDEXING_LOG` entry.
+  - `feat/games-boards`, `feat/plata-portal`, `feat/argentina-portals-example` and the `docs/*` branches.
+  - `fix/workday-bare-locale`, after a rebase.
+- **Need a rebase first:** the rest have mechanical conflicts, or carry dozens of unrelated commits that call for a cherry-pick.
+- **Board-type providers missing a `docs/SOURCE_INDEXING_LOG.md` entry:** djinni, gamesjobsdirect, remotegamejobs, workwithindies, artstation, hackernews-jobs, entertainmentcareers, mercor and computrabajo. Upstream keeps one for every listed source, and each provider needs one before it is offered upstream.
+- **`computrabajo`** replaces upstream's provider under the same id, with a different config shape (`searchKeywords`). Upstream's `SOURCE_INDEXING_LOG` entry and its Computrabajo Colombia example describe the old shape. Settle this before offering it.
+- **Old commits on the public fork branches** still contain the deployment notes that were removed from `docs/HERMES.md`, and every commit carries the author's e-mail. Removing either means rewriting public history, which is the owner's call.
+
 ### To build, in priority order
 
 | Source | Region | Access path measured | Effort | Notes |
 | --- | --- | --- | --- | --- |
-| JobTech / Platsbanken | Sweden | `jobsearch.api.jobtechdev.se/search` (JSON, no key) | S | Employer name and the employer's apply URL; 78 "devops" hits |
 | SwissDevJobs + GermanTechJobs | CH / DE | `/api/jobsLight` on both hosts (whole inventory in one call) | S | Keep GermanTechJobs to `isPartner:false`: 810 of 901 are partner backfill. Whether that is enough under rule 5 is a maintainer question |
 | Prospective career-center | Switzerland | `ohws.prospective.ch/public/v1/medium/1000624/jobs` | S | Behind jobs.admin.ch; the same vendor also serves Swisscom, SRG and others |
 | jobs.ch + jobup.ch (JobCloud) | Switzerland | `/en/vacancies/?term=&page=N` (JSON-LD list) | S-M | One provider, two hosts |
@@ -170,7 +231,7 @@ A no-account sweep of remote and regional platforms; the reasons are in `docs/SU
 
 Next:
 
-- Europe: karriere.at, jobs.cz, ITJobs.pt (1 s crawl delay), dev.bg, Berlin Startup
+- Europe: karriere.at, ITJobs.pt (1 s crawl delay), dev.bg, Berlin Startup
   Jobs (RSS), Infostud, kariyer.net, staff.am, jobs.ge (5 s crawl delay),
   BestJobs.eu, MojPosao.hr.
 - Public services: UN Careers (`careers.un.org` JSON), NHS Jobs, CBOP Poland (keyword
@@ -228,7 +289,7 @@ EuropeLanguageJobs.
 
 ### Employers not covered by a supported ATS
 
-Globant (custom site), Ualá (HiBob), EPAM (`robots.txt`), BairesDev (Cloudflare
+Globant (custom site), EPAM (`robots.txt`), BairesDev (Cloudflare
 challenge, even on `robots.txt`), Akamai (careers link not found), Synamedia
 (Darwinbox), and Brightcove, Vimeo, Wowza, Haivision, Daily, Agora, Vidyard, Evertz,
 Ross, Telestream and Globo (no supported ATS link found).
