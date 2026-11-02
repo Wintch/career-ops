@@ -104,5 +104,5 @@ Local only — never uploaded, never used to generate CV/cover-letter/interview 
 
 ## Cross-references
 
-- `interview-prep` and `deep` may read `data/company-watch.md` as company context for a company the user is actively interviewing with (who holds a role, what the stack looks like), the same way they use web research. It is never a claim about the candidate and never a source for any quantified claim in generated content (same tier as auto-memory, per AGENTS.md).
+- No other mode reads `data/company-watch.md` today: `deep` and `interview-prep` do their own research and do not consult the watchlist. If a mode is ever pointed at it, it is company context only (who holds a role, what the stack looks like), never a claim about the candidate and never a source for any quantified claim in generated content (same tier as auto-memory, per AGENTS.md).
 - Job-posting history for stack signals: cross-check `data/scan-history.tsv` (grep by company) rather than re-deriving it from scratch — the scanner has already been recording that company's postings over time.
