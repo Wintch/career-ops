@@ -643,6 +643,9 @@ export function workdayDedupKey(job) {
 // Anchored, and `Locations?` singular-tolerant: it must not fire on a real
 // place that merely contains a digit and the word ("100 Locations Plaza").
 const MULTI_LOCATION_PLACEHOLDER_RE = /^\s*\d+\s+locations?\s*$/i;
+// The " · Remote" withFullyRemote appends. Both the placeholder check and the
+// detail enrichment read it with this one pattern so they agree on spacing.
+const REMOTE_SUFFIX_RE = /\s*·\s*remote\s*$/i;
 
 /**
  * True when a Workday list location is the count-placeholder rather than a place.
@@ -652,7 +655,22 @@ const MULTI_LOCATION_PLACEHOLDER_RE = /^\s*\d+\s+locations?\s*$/i;
  * @returns {boolean}
  */
 export function isMultiLocationPlaceholder(location) {
-  return typeof location === 'string' && MULTI_LOCATION_PLACEHOLDER_RE.test(location);
+  if (typeof location !== 'string') return false;
+  // A fully-remote count is still a count. The marker is appended before this
+  // check; leave it on and the detail GET never runs.
+  const bare = location.replace(REMOTE_SUFFIX_RE, '');
+  return MULTI_LOCATION_PLACEHOLDER_RE.test(bare);
+}
+
+/** Keep the list endpoint's "Fully Remote" on the location string.
+ *  Partially Remote is hybrid and stays the city. A place that already says
+ *  remote is not doubled.
+ *  @param {string} location
+ *  @param {unknown} remoteType */
+function withFullyRemote(location, remoteType) {
+  const fully = typeof remoteType === 'string' && remoteType.trim().toLowerCase() === 'fully remote';
+  if (!fully || /remote/i.test(location)) return location;
+  return location ? `${location} · Remote` : 'Remote';
 }
 
 // How many detail GETs one entry may spend to resolve placeholders — every
@@ -795,7 +813,7 @@ export function parseWorkdayResponse(json, entry) {
       // (the "-1"/"-2" suffix stripped above), so it cannot be the per-posting key
       // externalId promises (CodeRabbit, #4297).
       requisitionId: reqFromWorkday(j),
-      location: j.locationsText || locationFromPath(j.externalPath),
+      location: withFullyRemote(j.locationsText || locationFromPath(j.externalPath), j.remoteType),
       postedAt: parsePostedOn(j.postedOn),
     });
   }
@@ -1138,7 +1156,13 @@ export default {
           referer: `${ep.jobBase}/`,
         },
       };
-      const placeholders = jobs.filter((j) => isMultiLocationPlaceholder(j.location));
+      // A caller that will drop postings on their title (scan.mjs passes its
+      // title_filter as ctx.titleWanted) gets no detail GET spent on them: on a
+      // large tenant most placeholders belong to titles the scan discards.
+      const titleWanted = typeof ctx.titleWanted === 'function' ? ctx.titleWanted : null;
+      const allPlaceholders = jobs.filter((j) => isMultiLocationPlaceholder(j.location));
+      const placeholders = titleWanted ? allPlaceholders.filter((j) => titleWanted(j.title)) : allPlaceholders;
+      const skippedByTitle = allPlaceholders.length - placeholders.length;
       // The detail document lives at the same externalPath under the CXS host.
       // `job.url` is `jobBase + externalPath` (parseWorkdayResponse), so the
       // path is recovered by removing the prefix rather than by re-parsing a
@@ -1199,7 +1223,11 @@ export default {
         }
         const places = locationsFromDetail(detail);
         if (places === '') { failed++; continue; }
+        // The list row may already say "5 Locations · Remote". Replacing it
+        // with the city would drop the only signal a Remote allow-list sees.
+        const wasFullyRemote = typeof job.location === 'string' && REMOTE_SUFFIX_RE.test(job.location);
         job.location = places;
+        if (wasFullyRemote && !/remote/i.test(places)) job.location = `${places} · Remote`;
         resolved++;
         // Only on a posting whose location actually resolved: the date is a
         // by-product of a request made for the location, never a reason to make
@@ -1211,7 +1239,7 @@ export default {
           redated++;
         }
       }
-      if (placeholders.length > 0) {
+      if (allPlaceholders.length > 0) {
         const capped = pending.length > attempted ? `, ${pending.length - attempted} left unresolved by the ${MAX_DETAIL_REQUESTS}-request cap` : '';
         const unreadable = failed > 0 ? `, ${failed} detail document(s) unreadable` : '';
         const unroutable = unaddressable > 0 ? `, ${unaddressable} with no site-relative path` : '';
@@ -1219,7 +1247,8 @@ export default {
         // detail document can carry places but no parseable startDate. Folding
         // them into one number would hide that.
         const dated = redated > 0 ? `, ${redated} dated exactly from the detail document` : '';
-        console.error(`ℹ️  workday: ${entry.name} resolved ${resolved} of ${placeholders.length} multi-location placeholder(s)${unreadable}${unroutable}${capped}${dated}`);
+        const notWanted = skippedByTitle > 0 ? `, ${skippedByTitle} skipped by the title filter` : '';
+        console.error(`ℹ️  workday: ${entry.name} resolved ${resolved} of ${placeholders.length} multi-location placeholder(s)${unreadable}${unroutable}${capped}${dated}${notWanted}`);
       }
     }
 
