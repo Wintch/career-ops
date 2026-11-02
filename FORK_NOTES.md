@@ -152,7 +152,7 @@ A no-account sweep of remote and regional platforms; the reasons are in `docs/SU
 - **Hitmarker:** client-rendered listing (browser only).
 - **Habr Career:** readable (RSS/JSON) but useless outside Russia; build only if a Russia-based user asks.
 - **Telegram job channels/bots:** documented only; the `telegram-channel` provider stays opt-in.
-- **Deel job boards** (`jobs.deel.com/<slug>`): upstream shipped a `deel` provider in this sync (#6189). Many remote-LatAm employers post there; worth a discovery pass to add tenants.
+- **Deel job boards** (`jobs.deel.com/<slug>`): upstream shipped a `deel` provider in this sync (#6189). Many remote-LatAm employers post there; worth a discovery pass to add tenants. Discovery pass done 2026-11-01: Deel has no tenant directory, but a WebSearch restricted to `jobs.deel.com` (with infra keywords) surfaces about 25 tenants. Only one had an infra role open to LatAm (IT Tech Hub, a staffing firm whose board slug is a UUID); it went into the `feat/latam-employers` example section. Slugs are case-sensitive (`Range` works, `range` does not).
 
 ### To build, in priority order
 
