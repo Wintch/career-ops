@@ -86,6 +86,17 @@ try {
     (jobs) => jobs.length === 1 && jobs[0].url === 'https://x.careers.hibob.com/jobs/good-1',
   );
 
+  // keka.parseKekaResponse — for…of over the top-level jobs array.
+  const { parseKekaResponse } = await load('keka.mjs');
+  check(
+    'keka.parseKekaResponse',
+    () => parseKekaResponse(
+      [{ id: `${LONE}bad`, title: 'Bad Id' }, { id: 5, title: 'Good Id' }],
+      'X', 'https://x.keka.com',
+    ),
+    (jobs) => jobs.length === 1 && jobs[0].url === 'https://x.keka.com/careers/jobdetails/5',
+  );
+
   // jibeapply.parseJibeapplyResponse — .map().filter(Boolean) over one page.
   const { parseJibeapplyResponse } = await load('jibeapply.mjs');
   const jibeEntry = { name: 'Acme', careers_url: 'https://acme.jibeapply.com/jobs' };
@@ -353,7 +364,7 @@ try {
   // regression this list catches.
   const CONVERTED = [
     'alibaba.mjs', 'apple.mjs', 'arbeitsagentur.mjs', 'bamboohr.mjs', 'bulldogjob.mjs', 'deel.mjs', 'dover.mjs',
-    'feishu-jobs.mjs', 'garena.mjs', 'hibob.mjs', 'jibeapply.mjs', 'kalibrr.mjs', 'manfred.mjs', 'meituan.mjs', 'mokahr.mjs',
+    'feishu-jobs.mjs', 'garena.mjs', 'hibob.mjs', 'jibeapply.mjs', 'kalibrr.mjs', 'keka.mjs', 'manfred.mjs', 'meituan.mjs', 'mokahr.mjs',
     'paylocity.mjs', 'phenom.mjs', 'platsbanken.mjs', 'softserve.mjs',
     'techinasia.mjs', 'thehub.mjs', 'tkms.mjs', 'vdab.mjs', 'zoho-recruit.mjs',
   ];
