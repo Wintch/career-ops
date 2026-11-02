@@ -4034,6 +4034,11 @@ tracked_companies:
     notes: "Verified 2026-11-01, sample posting: Senior Systems Administrator | Location: UNITED STATES - Remote, EMEA - Remote, LATAM - Remote, CANADA - Remot"
     enabled: false
 
+  - name: "IT Tech Hub"
+    careers_url: https://jobs.deel.com/5526b9c1-6ac4-4139-97c2-b772af588854
+    notes: "Staffing firm on Deel (deel provider; the board slug is a UUID). Verified 2026-11-01, sample posting: Senior DevOps Engineer (part-time, AWS/Terraform), LATAM remote contractor for an undisclosed US client."
+    enabled: false
+
   # -- US K-12 school districts & community colleges (single-employer boards) --
   # Examples of the applitrack / neogov / redrover / schoolspring providers.
   # Disabled: these are one region's boards — copy the pattern for your own
