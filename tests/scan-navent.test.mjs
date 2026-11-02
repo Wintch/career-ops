@@ -53,7 +53,7 @@ try {
   const {
     SITES, PAGE_SIZE, DEFAULT_MAX_PAGES, MAX_PAGES_CAP, MAX_KEYWORDS, MAX_NAVIGATIONS, NAV_DELAY_MS,
     slugifyKeyword, buildSearchUrl, resolveSearches, parseRobots, isAllowedByRobots, detectChallenge,
-    parsePublished, parseSearchResponse, loadSearchPage, runSearch, ChallengeError, InconclusiveError, robotsBlockedBy,
+    parsePublished, parseSearchResponse, loadSearchPage, runSearch, ChallengeError, InconclusiveError, robotsBlockedBy, classifyOffer,
   } = mod;
 
   // Importing must never open a browser or touch the pipeline (the main-module guard).
@@ -397,6 +397,35 @@ try {
     const err = await rejectsMsg(() => loadSearchPage(page, 'https://www.bumeran.com.ar/empleos-busqueda-x.html', { site: 'bumeran' }));
     if (err instanceof ChallengeError) pass('loadSearchPage(): a challenge page is a ChallengeError even when the results call never happens');
     else fail('challenge without results call not detected');
+  }
+  // ── data/blacklist.md is honoured, as in scan.mjs and the other scanners ──
+  {
+    const { parseBlacklist } = await import(pathToFileURL(join(ROOT, 'scan.mjs')).href);
+    const mkGate = (blacklistText) => ({
+      blacklist: parseBlacklist(blacklistText),
+      matchesTitle: (t) => /devops/i.test(t),
+      matchesLocation: () => true,
+      matchesDate: () => true,
+      seen: new Set(),
+      roleKeys: new Set(),
+    });
+    const offer = (id, company, title = `Ingeniero DevOps ${id}`) => ({ url: `https://www.bumeran.com.ar/empleos/${id}.html`, company, title, location: 'Remoto' });
+    const table = '| Company | Since | Scope | Reason |\n|---|---|---|---|\n| Acme | 2026-10-01 | company | no |\n';
+
+    const gate = mkGate(table);
+    if (classifyOffer(offer(1, 'ACME S.A.'), mkGate('')) === null) pass('classifyOffer(): an empty blacklist admits the offer');
+    else fail('classifyOffer: empty blacklist should not drop anything');
+    if (classifyOffer(offer(2, 'Acme'), gate) === 'blacklisted') pass('classifyOffer(): a blacklisted employer is dropped as blacklisted');
+    else fail('classifyOffer: blacklisted employer not dropped');
+    if (classifyOffer(offer(3, 'Acme', 'Contador Senior'), gate) === 'blacklisted') pass('classifyOffer(): the blacklist is judged before the title filter');
+    else fail('classifyOffer: blacklist should win over the title filter');
+    if (!gate.seen.has(offer(2, 'Acme').url) && gate.roleKeys.size === 0) pass('classifyOffer(): a blacklisted offer is not remembered, so removing the entry lets it through');
+    else fail('classifyOffer: blacklisted offer leaked into seen/roleKeys');
+    if (classifyOffer(offer(4, 'Globex'), gate) === null && classifyOffer(offer(4, 'Globex'), gate) === 'dupe') pass('classifyOffer(): another employer passes once, then is a duplicate');
+    else fail('classifyOffer: non-blacklisted employer/duplicate verdicts drifted');
+    const domain = mkGate('| Company | Since | Scope | Reason |\n|---|---|---|---|\n| bumeran.com.ar | 2026-10-01 | domain | no |\n');
+    if (classifyOffer(offer(5, 'Globex'), domain) === 'blacklisted') pass('classifyOffer(): a domain-scoped entry matches the posting URL');
+    else fail('classifyOffer: domain-scoped blacklist entry ignored');
   }
 } catch (error) {
   fail(`scan-navent tests could not run: ${error.stack || error.message}`);
