@@ -2926,11 +2926,6 @@ tracked_companies:
     notes: "WireGuard-based networking. Remote."
     enabled: true
 
-  - name: Chainguard
-    careers_url: https://job-boards.greenhouse.io/chainguard
-    notes: "Software supply-chain security, secure container images."
-    enabled: true
-
   - name: PagerDuty
     careers_url: https://job-boards.greenhouse.io/pagerduty
     notes: "Incident response / on-call platform."
