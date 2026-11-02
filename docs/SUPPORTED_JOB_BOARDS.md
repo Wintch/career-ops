@@ -173,8 +173,7 @@ future evaluation doesn't repeat the same investigation from scratch.
 | Hoorya (hoorya.eu, Ukraine) | A meta-aggregator: its postings link out to other boards and employer sites (e.g. `dou.eu/jobs/…`, `altexsoft.com/vacancy/…`), and listings scraped from a board are attributed to the board as if it were the employer ("DOU Polska"), which fails rule 1's identifiable-employer bar. Its `robots.txt` also disallows `/*?*`, `/search/` and `/wp-json/`. | 2026-10-11 |
 | StepStone.de (Germany) | Listing pages and `robots.txt` itself answer 403 "Access Denied" to the scanner's declared User-Agent. | 2026-10-11 |
 | Totaljobs (UK, StepStone group) | `robots.txt` itself answers 403 to the scanner's declared User-Agent. | 2026-10-11 |
-| Pracuj.pl (Poland) | Listing pages and `robots.txt` answer 403 with a Cloudflare managed challenge. Poland stays covered by JustJoin.it, No Fluff Jobs and SolidJobs. | 2026-10-11 |
-| Bulldogjob (Poland) | Same failure mode as Pracuj.pl: 403 Cloudflare challenge on the listing. | 2026-10-11 |
+| Pracuj.pl (Poland) | Listing pages and `robots.txt` answer 403 with a Cloudflare managed challenge. Poland stays covered by JustJoin.it, No Fluff Jobs, SolidJobs and Bulldogjob (the `bulldogjob` provider reads its server-rendered search pages; only the bare listing URL answers 403). | 2026-10-11 |
 | Profesia.sk (Slovakia) | Listing and `robots.txt` answer 403 from CloudFront. | 2026-10-11 |
 | StartupJobs.cz (Czechia) | The `/nabidky` listing is built in the browser (no postings in the HTML, employer only on detail pages), and the data host it calls, `back.startupjobs.cz`, has `Disallow: /` in its `robots.txt`. | 2026-10-11 |
 | jobs.bg (Bulgaria) | Listing and `robots.txt` answer 403 with a Cloudflare challenge. | 2026-10-11 |
