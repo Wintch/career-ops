@@ -110,7 +110,18 @@
  *                               Omitted when the source doesn't say. Consumed
  *                               by scan.mjs's opt-in
  *                               `scan_history.dedup_include_language` and
- *                               written to scan-history.tsv.
+ *                               `preferred_languages`, and written to
+ *                               scan-history.tsv. A source that
+ *                               serves every language version of a posting at
+ *                               one URL, told apart by a `language` / `lang` /
+ *                               `locale` param, returns one Job per version,
+ *                               each with `language` set and that param on its
+ *                               `url`, the posting's own default language
+ *                               first: the URL dedup resolves a seen row of
+ *                               unknown language to the first version when no
+ *                               title tells it apart. A candidate's language
+ *                               is only ever this field, never read from its
+ *                               URL, so a version without it stays a duplicate.
  */
 
 /**
@@ -152,7 +163,9 @@
  */
 
 /**
- * Options forwarded to the underlying `fetch` call.
+ * Options forwarded to the underlying `fetch` call, plus the body ceiling the
+ * capped readers consume themselves (never reaching fetch — undici ignores
+ * unknown init keys either way).
  *
  * @typedef {object} FetchOptions
  * @property {number}                [timeoutMs]
@@ -160,6 +173,7 @@
  * @property {string}                [method]
  * @property {(string|null)}         [body]
  * @property {('error'|'follow'|'manual')} [redirect]
+ * @property {number}                [maxBytes] Response-body ceiling for fetchJson/fetchText; defaults to _http.mjs DEFAULT_MAX_BODY_BYTES. Over-cap throws `code: 'response_too_large'`.
  */
 
 /**
@@ -183,6 +197,27 @@
  *                              paginating providers (avature, workday) to throttle between page
  *                              requests. May be absent — providers fall back to a native
  *                              `setTimeout`-based delay.
+ * @property {boolean} [dedupIncludeLanguage] Whether the scan keeps language versions of
+ *                              one posting apart (`scan_history.dedup_include_language`).
+ *                              A provider whose extra language versions cost extra
+ *                              requests fetches them only when this is true; otherwise
+ *                              the scan keeps one version per posting and drops the rest.
+ * @property {(language: string) => number} [preferredLanguageRank] Present only when
+ *                              portals.yml sets `preferred_languages`: the place of a
+ *                              language code in that list, best first, or -1 when it is
+ *                              not there. It compares codes by the scan's own rules
+ *                              (`en-GB` = `en`), so a provider passes its codes as the
+ *                              source names them. A provider that returns language
+ *                              versions selectively also returns the ranked ones, after
+ *                              each posting's default version; scan.mjs then keeps the
+ *                              best-ranked version where it keeps one per posting.
+ * @property {{get: (key: string) => any, set: (key: string, value: any) => void, delete: (key: string) => void}} [idCache]
+ *                              This provider's slice of the store in provider-id-cache.mjs:
+ *                              values it resolved on an earlier scan (a board id that only
+ *                              a careers-page request reveals), kept between runs. Present
+ *                              in scan.mjs and scan-ats-full.mjs runs, absent elsewhere
+ *                              (verify-portals, tests), so a provider must work without it.
+ *                              Values are stored as JSON.
  */
 
 /**
