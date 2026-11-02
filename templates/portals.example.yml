@@ -1282,6 +1282,7 @@ search_queries:
 #   breezy          <tenant>.breezy.hr                  (or api: field)
 #   hibob           <tenant>.careers.hibob.com          (or api: field)
 #   deel            jobs.deel.com/<slug>                (Deel job board; a tenant that redirects off-host is not readable)
+#   mercor          work.mercor.com                     (Mercor's contract marketplace; one request reads the whole explore page)
 #   inrecruiting    <tenant>.intervieweb.it             (Zucchetti InRecruiting career page; /en/career etc. picks the language)
 #   solidjobs       solid.jobs/public-api/offers/<division>
 #   comeet          api: https://www.comeet.co/careers-api/2.0/company/<uid>/positions?token=<token>
@@ -1431,6 +1432,10 @@ search_queries:
 #
 # - name: Example Deel Board Co
 #   careers_url: https://jobs.deel.com/exampleco          # the tenant slug is the first path segment
+#   enabled: true
+#
+# - name: Mercor
+#   careers_url: https://work.mercor.com/explore          # any work.mercor.com URL; always reads /explore
 #   enabled: true
 #
 # - name: Example ClearCompany Co
@@ -2366,6 +2371,11 @@ tracked_companies:
     careers_url: https://app.mokahr.com/social-recruitment/high-flyer/140576
     keywords: ["AI", "大模型", "Agent"]
     enabled: true
+
+  - name: Mercor
+    careers_url: https://work.mercor.com/explore
+    notes: "AI-training and expert contracts for AI labs, plus engineering engagements; hourly pay. Most listings name eligible countries (written into the location), many are US-only. Applying needs a Mercor account."
+    enabled: false
 
   # -- Voice AI & Conversational AI --
 
