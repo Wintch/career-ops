@@ -240,6 +240,17 @@ const PAGE = `<div class="summary"><b>3</b> jobs found.</div>${MEMBERS_ONLY_CARD
 }
 
 // ── fetch(): outside a probe, one bad keyword doesn't lose the others (recall-first) ──
+/** Capture console.warn output while `fn` runs. */
+async function withWarnings(fn) {
+  const warnings = [];
+  const original = console.warn;
+  console.warn = (...args) => { warnings.push(args.join(' ')); };
+  try {
+    return { result: await fn(), warnings };
+  } finally {
+    console.warn = original;
+  }
+}
 {
   const pages = new Map([
     ['https://www.entertainmentcareers.net/jobs/s/colorist', `<div class="summary"><b>1</b> jobs found.</div>${FREE_CARD}`],
@@ -251,12 +262,52 @@ const PAGE = `<div class="summary"><b>3</b> jobs found.</div>${MEMBERS_ONLY_CARD
       return pages.get(url) ?? '<div class="summary"><b>0</b> jobs found.</div>';
     },
   };
-  const jobs = await entertainmentcareers.fetch({ searchKeywords: ['video editor', 'colorist'] }, flakyCtx);
+  const { result: jobs, warnings } = await withWarnings(() => entertainmentcareers.fetch({ searchKeywords: ['video editor', 'colorist'] }, flakyCtx));
   if (jobs.length === 1 && jobs[0].company === 'Sinclair') {
     pass('fetch(): a non-probing run keeps results from keywords that succeeded despite one that failed');
   } else {
     fail(`recall-first drift: ${JSON.stringify(jobs)}`);
   }
+  if (warnings.length === 1 && /1 of 2 keyword search/.test(warnings[0])) pass('fetch(): a partial keyword failure warns once with the count');
+  else fail(`partial-failure warning drift: ${JSON.stringify(warnings)}`);
+}
+
+// ── fetch(): every keyword failing is a broken source, not an empty board ──
+{
+  const blockedCtx = {
+    sleep: async () => {},
+    fetchText: async (url) => { const e = new Error(`HTTP 403 for ${url}`); e.status = 403; throw e; },
+  };
+  try {
+    const jobs = await entertainmentcareers.fetch({ searchKeywords: ['video editor', 'colorist'] }, blockedCtx);
+    fail(`fetch() must throw when every keyword fails, got ${JSON.stringify(jobs)}`);
+  } catch (err) {
+    if (/403/.test(String(err && err.message))) pass('fetch(): every keyword failing rethrows the last error instead of returning []');
+    else fail(`unexpected error: ${err}`);
+  }
+}
+
+// ── fetch(): cards with no identifiable employer are dropped, never labelled with the board's name ──
+{
+  const noEmployerCard = `
+    <div class="result_block">
+      <div class="result_title"><a href="/x/no-employer/job/111111/">Video Editor</a></div>
+      <div class="result-location"><span class="loc-label">Location:</span> Austin, TX</div>
+    </div>`;
+  const confidentialCard = `
+    <div class="result_block">
+      <div class="result_title"><a href="/x/confidential/job/222222/">Colorist</a></div>
+      <div class="result-company">Confidential</div>
+    </div>`;
+  const page = `<div class="summary"><b>3</b> jobs found.</div>${noEmployerCard}${confidentialCard}${FREE_CARD}`;
+  const ctx = { sleep: async () => {}, fetchText: async () => page };
+  const { result: jobs, warnings } = await withWarnings(() => entertainmentcareers.fetch({ name: 'EntertainmentCareers.net', searchKeywords: ['editor'] }, ctx));
+  if (jobs.length === 1 && jobs[0].company === 'Sinclair') pass('fetch(): absent and placeholder employers are dropped, the attributed card stays');
+  else fail(`unattributed drop drift: ${JSON.stringify(jobs)}`);
+  if (!jobs.some((j) => /entertainmentcareers/i.test(j.company))) pass("fetch(): the board entry's own name is never used as the company");
+  else fail(`board name leaked into company: ${JSON.stringify(jobs)}`);
+  if (warnings.length === 1 && /dropped 2 posting/.test(warnings[0])) pass('fetch(): dropped unattributed postings are counted in one warning');
+  else fail(`unattributed warning drift: ${JSON.stringify(warnings)}`);
 }
 
 // ── fetch(): rejects a config with no usable searchKeywords ──

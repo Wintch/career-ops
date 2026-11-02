@@ -29,6 +29,10 @@
 // "the source's own page may travel as secondary attribution" when no
 // employer URL is reachable without violating robots.txt).
 //
+// A card with no employer name (or a placeholder such as "Confidential") is
+// DROPPED and counted, one warning per fetch — the board entry's own name is
+// never substituted, since "EntertainmentCareers.net" is not who is hiring.
+//
 // Wire in via a `job_boards:` entry: `provider: entertainmentcareers` plus
 // `searchKeywords: [video editor, colorist, editor, post production, ...]`.
 
@@ -40,6 +44,17 @@ const TRUSTED_HOST = 'www.entertainmentcareers.net';
 
 /** Pacing between successive keyword searches against the same host. */
 const INTER_SEARCH_DELAY_MS = 250;
+
+/**
+ * True when `company` is empty or a placeholder (no identifiable employer).
+ * Same rule as isUnattributed() in providers/_rss.mjs, kept local because that
+ * module is not on every base this provider is merged into.
+ * @param {string} company
+ */
+function isUnattributed(company) {
+  const c = String(company || '').trim();
+  return !c || /^(confidential|confidencial|anonymous|undisclosed)$/i.test(c);
+}
 
 /** @param {string} keyword */
 function slugFor(keyword) {
@@ -198,6 +213,10 @@ export default {
 
     const seen = new Set();
     const jobs = [];
+    let failed = 0;
+    let unattributed = 0;
+    /** @type {unknown} */
+    let lastError;
     for (let i = 0; i < toFetch.length; i++) {
       if (i > 0) await sleep(INTER_SEARCH_DELAY_MS, ctx);
       const keyword = toFetch[i];
@@ -211,7 +230,11 @@ export default {
         }
       } catch (err) {
         if (probing) throw err; // never swallow a probe-budget rejection
-        continue; // recall-first: one bad keyword doesn't lose the others
+        // recall-first: one bad keyword doesn't lose the others, but if every
+        // keyword fails (block, outage) that is a broken source, not an empty board.
+        failed++;
+        lastError = err;
+        continue;
       }
 
       const { jobs: pageJobs, cardCount } = parseSearchPage(html);
@@ -227,8 +250,19 @@ export default {
       for (const job of pageJobs) {
         if (seen.has(job.url)) continue;
         seen.add(job.url);
-        jobs.push({ ...job, company: job.company || entry?.name || '' });
+        if (isUnattributed(job.company)) {
+          unattributed++;
+          continue;
+        }
+        jobs.push(job);
       }
+    }
+    if (failed > 0 && failed === toFetch.length) throw lastError;
+    if (failed > 0) {
+      console.warn(`entertainmentcareers: ${failed} of ${toFetch.length} keyword search(es) failed, kept the rest (last error: ${/** @type {any} */ (lastError)?.message ?? lastError})`);
+    }
+    if (unattributed > 0) {
+      console.warn(`entertainmentcareers: dropped ${unattributed} posting(s) with no identifiable employer (absent or placeholder name)`);
     }
     return jobs;
   },
