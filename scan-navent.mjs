@@ -71,7 +71,7 @@ import { loadYaml } from './lib/yaml-document.mjs';
 import {
   appendToPipeline, appendToScanHistory, loadSeenUrls, unrecordedOffers, PORTALS_PATH, SCAN_HISTORY_PATH,
   buildTitleFilter, buildLocationFilter, parseSinceDays, resolveEffectiveAfter, buildPostedDateFilter,
-  companyRoleDedupKey,
+  companyRoleDedupKey, loadBlacklist, findBlacklistEntry,
 } from './scan.mjs';
 import { getCareerOpsRoot } from './path-resolver.mjs';
 import { localToday } from './lib/local-today.mjs';
@@ -538,6 +538,31 @@ async function fetchRobots(context, site) {
   return res.text();
 }
 
+/**
+ * Which cut, if any, drops one result: 'blacklisted', 'title', 'location', 'date',
+ * 'dupe', or null when it is new. A blacklisted employer is judged first, as in
+ * scan.mjs, so data/blacklist.md wins over every other filter and a later edit
+ * to the blacklist lets the posting through again. A new posting joins `seen`
+ * and `roleKeys`, so a second copy later in the run is a duplicate.
+ *
+ * @param {{url: string, company?: string, title?: string, location?: string, postedAt?: number}} offer
+ * @param {{blacklist: Map<string, object>, matchesTitle: Function, matchesLocation: Function, matchesDate: Function, seen: Set<string>, roleKeys: Set<string>}} gate
+ */
+export function classifyOffer(offer, { blacklist, matchesTitle, matchesLocation, matchesDate, seen, roleKeys }) {
+  if (findBlacklistEntry(blacklist, offer.company || '', offer.url)) return 'blacklisted';
+  if (!matchesTitle(offer.title)) return 'title';
+  if (!matchesLocation(offer.location, offer.url, offer.title)) return 'location';
+  if (!matchesDate(offer.postedAt)) return 'date';
+  if (seen.has(offer.url)) return 'dupe';
+  seen.add(offer.url);
+  // The same posting is often published on both boards, or once per branch:
+  // one company + role is one entry in this run.
+  const roleKey = companyRoleDedupKey(offer.company, offer.title);
+  if (roleKeys.has(roleKey)) return 'dupe';
+  roleKeys.add(roleKey);
+  return null;
+}
+
 async function main(args) {
   const DRY_RUN = hasFlag(args, '--dry-run');
   const onlySite = flagValue(args, '--site') ?? null;
@@ -585,6 +610,8 @@ async function main(args) {
   const dateSkipped = [];
   const dupeSkipped = [];
   const roleKeys = new Set();
+  const gate = { blacklist: loadBlacklist(), matchesTitle, matchesLocation, matchesDate, seen, roleKeys };
+  let blacklistedCount = 0;
   const seenInRun = new Set();
   const robotsCache = new Map();
   const refusals = { n: 0 };
@@ -640,16 +667,14 @@ async function main(args) {
         if (seenInRun.has(offer.url)) continue;
         seenInRun.add(offer.url);
         totalFound++;
-        if (!matchesTitle(offer.title)) { titleSkipped.push(offer); continue; }
-        if (!matchesLocation(offer.location, offer.url, offer.title)) { locationSkipped.push(offer); continue; }
-        if (!matchesDate(offer.postedAt)) { dateSkipped.push(offer); continue; }
-        if (seen.has(offer.url)) { dupeSkipped.push(offer); continue; }
-        seen.add(offer.url);
-        // The same posting is often published on both boards, or once per branch:
-        // one company + role is one entry in this run.
-        const roleKey = companyRoleDedupKey(offer.company, offer.title);
-        if (roleKeys.has(roleKey)) { dupeSkipped.push(offer); continue; }
-        roleKeys.add(roleKey);
+        const reason = classifyOffer(offer, gate);
+        // Blacklist skips are counted, not written to scan-history, as in
+        // scan.mjs: removing the entry later lets the posting through again.
+        if (reason === 'blacklisted') { blacklistedCount++; continue; }
+        if (reason === 'title') { titleSkipped.push(offer); continue; }
+        if (reason === 'location') { locationSkipped.push(offer); continue; }
+        if (reason === 'date') { dateSkipped.push(offer); continue; }
+        if (reason === 'dupe') { dupeSkipped.push(offer); continue; }
         newOffers.push(offer);
       }
       if (challenge) { stopped = challenge.message; break; }
@@ -683,6 +708,7 @@ async function main(args) {
   console.log(`No employer (dropped): ${anonymousDropped}`);
   console.log(`Filtered by title:  ${titleSkipped.length}`);
   console.log(`Filtered location:  ${locationSkipped.length}`);
+  console.log(`Blacklisted:        ${blacklistedCount}`);
   console.log(`Filtered by date:   ${dateSkipped.length}`);
   console.log(`Duplicates:         ${dupeSkipped.length}`);
   console.log(`New offers:         ${newOffers.length}`);
