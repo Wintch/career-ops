@@ -17,7 +17,9 @@ Public information only. Nothing here is about a particular applicant.
 | Rights | Access, correction, deletion, complaint to a regulator. Withdrawing consent or deleting data may end the application. |
 | Contact | privacycontact@twdc.com (general), EMEA.dataprotection@disney.com (UK/EU). |
 
-## Application form consents (Disney Careers, Buenos Aires)
+## Application form consents (Disney Careers application form)
+
+The consents the form presents can differ by country or territory, so check the form itself before relying on this list.
 
 | Consent | Required to apply | Effect |
 |---|---|---|
