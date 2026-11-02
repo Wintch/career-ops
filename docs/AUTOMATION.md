@@ -76,6 +76,34 @@ absorb the days you don't need — `0 9 * * *` — or on weekdays only, at 8am:
 
 macOS also runs cron, but launchd below survives sleep better.
 
+#### One command for a scheduler: `scheduled-chain.mjs`
+
+When a scheduler should run more than the main scan, or should report what a run
+found, point it at `scheduled-chain.mjs` instead of chaining scripts in a shell
+line. It runs the zero-token steps one at a time under one lock and prints one
+JSON summary on stdout:
+
+```cron
+30 7 * * * cd /path/to/career-ops && /usr/local/bin/node scheduled-chain.mjs --with-liveness >> data/scheduled-chain.log 2>&1
+```
+
+- Steps, in order: `scan.mjs --verify`; `scan-navent.mjs` with `--with-navent`
+  (needs `navent_searches` in `portals.yml` and Playwright Chromium);
+  `check-liveness.mjs --no-fallback --tracker --status=Evaluated,Applied` with
+  `--with-liveness`; then `closing-soon.mjs`. No step opens a visible browser or
+  calls a model.
+- The summary carries `newAdded` per scanner, `pendingInbox` (unchecked lines in
+  `data/pipeline.md`), `expired` (tracker postings found closed), `closingSoon` /
+  `overdue`, and one entry per step with `ok`, `exitCode`, `seconds`, and a short
+  `stderrTail` when the step failed. A notifier only has to format that.
+- A run that finds another one still holding `data/.scheduled-chain.lock` prints
+  `{"status":"busy"}` and exits 0. The exit code is 2 only when every network step
+  failed, so an alert on a non-zero exit means an outage, not one dead board.
+- `--step-timeout <seconds>` stops a step that runs past a host's limit (some
+  agent schedulers kill a job after an hour). The long reverse-ATS sweep,
+  `scan-ats-full.mjs`, is not part of the chain: it can take hours, so give it its
+  own overnight slot.
+
 #### macOS — launchd
 
 Save as `~/Library/LaunchAgents/io.career-ops.scan.plist`, then
