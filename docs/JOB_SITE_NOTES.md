@@ -21,6 +21,10 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 - **Leads from a web search decay fast.** In one pass, two of five leads were already 404 and two more showed no apply control. Run `check-liveness.mjs` on every lead and confirm at the employer's own board before evaluating anything.
 - **Noisy boards need a country filter or stay off.** A "remote" startup board whose listings are mostly restricted to the US or the EU fills the pipeline with roles the candidate cannot take. Dry-run a new board (`node scan.mjs --company "<name>" --dry-run`) and keep it only if the eligible share is worth the review time.
 - **Prefer APIs and the scanner's HTTP client** over driving a person's logged-in browser. Automating the candidate's own browser session can disturb work in progress. When a site refuses automated reads, say so and ask for the pasted text.
+- **Pre-filter gaps to read by hand (observed 2026-11).** A location pre-filter that keeps "remote" postings lets through restrictions written in unusual shapes: "Remote - Greece", "Work from Home, Bulgaria", "IND-Work from Home-Remote", "Remote Arizona", a US-state list, or only a URL slug such as `.../job/Remote/...-Remote-US_...` while the location field says just "Remote". After the dry run, read the survivors' location and URL before triage and discard those by hand with a reason (and a line in `data/discard.log`). A short allow-list of the candidate's own region plus "worldwide"/"anywhere" is safer than a long deny-list.
+- **Tracing where a posting came from.** When an evaluation needs to know "how did this reach me?" (for example the agency gate), look the URL up in `data/scan-history.tsv`: the `portal` column names the provider (`himalayas-api`, `getonbrd-api`, ...), `first_seen` the day the scanner saw it and `posted_at` the board's own date. A posting the scanner found is not one a recruiter sent; the intermediary is whoever the posting names ("posted by X on behalf of Y"), not the portal. Say that plainly when asking the candidate to confirm the agency.
+- **Republished requisitions.** The same role comes back under a new id after the old one closed (one Djinni requirement reappeared three times within two months). Before spending an evaluation, search the tracker by company and title; if the text is unchanged, link the new posting to the old row in the notes instead of treating it as a new opening. `precheck-duplicate.mjs` can miss it when the old row is already Discarded and the id differs.
+- **Hourly contract pay needs hours to mean anything.** Convert it into a monthly figure at a stated hours-per-week range before comparing it with a monthly floor (floor ÷ weekly hours ÷ 4.33 = the hourly rate needed). A listing that gives a rate band but no hours, duration or client cannot be compared, and a band several times wider than its lower bound says little about the rate actually paid.
 - **Never submit.** Drafts, answers and PDFs are prepared; the candidate presses Submit.
 
 ## 2. Site-by-site handling
@@ -52,6 +56,9 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 - A candidate account is required. Its privacy policy states that deleting the account removes the applications; read it before applying.
 - Staffing/consultancy postings are often evergreen (hundreds of applications over months). Salary is frequently absent.
 
+- Some postings are published by a staffing company "on behalf of" a named client. That triggers the agency gate (ask the candidate which channel it came through) and the end employer, when named, goes in the tracker's company column with the staffing company as Via.
+- `fetch-jd.mjs` can exit 1 with empty output for a Get on Board posting (the API route it uses does not always answer); `browser-extract.mjs` reads the same page. Use one attempt of each and then stop (observed 2026-11).
+
 ### Djinni (Eastern-Europe-centered board)
 
 - Job pages are readable without login; applying requires a profile. Profiles go through moderation before they are public, which can delay applying by a day or more.
@@ -59,6 +66,8 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 - Location tags such as "Remote (Europe)" or "Remote (UA)" restrict where candidates may live. "Worldwide" listings can still carry a language field such as "Ukrainian: Native", which in practice is a hard filter.
 - The "average salary of similar jobs" figure is the site's analytics, not an offer from the employer.
 - `check-liveness.mjs` reads the posting page itself (a `djinni` rung in `liveness-api.mjs`): an open ad embeds one schema.org `JobPosting` with its id and a `validThrough` date, a closed one shows "The job ad is no longer active" and has none. Both are decided without a browser; only an unrecognizable page (a challenge, another id) falls back to `uncertain`.
+
+- An outstaff/outsourcing company can list a role as "Worldwide" on Djinni while its own careers site shows the same text restricted to a region (for example "Ukraine/Europe", with local payroll schemes such as sole-proprietor support). Open the employer's site before treating Djinni's location tag as the eligibility answer, and re-check the requisition id: the same role was republished under new ids several times.
 
 ### Bumeran, ZonaJobs and Computrabajo (Argentina and LATAM)
 
@@ -80,6 +89,17 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 
 - Often answer 403 to bare HTTP clients. Read them through the provider modules, which use the scanner's HTTP client and respect robots rules; do not retry with browser impersonation.
 - Their listings should be confirmed at the employer before applying.
+
+### Expert and AI-training marketplaces (micro1, Mercor and similar)
+
+- **Pattern.** One company publishes dozens of domain-expert contract roles in days (law, finance, engineering, video, ...) as a talent pool for unnamed customers. In one 12-day window the scanner saw about 28 postings from a single such company. Postings are "Contractor", hourly, remote worldwide, with no client, hours per week, duration, deliverables or manager.
+- **Evaluate them honestly, not as vacancies.** The role-clarity check (`role-clarity.mjs`) misses most of its six points; Block G reads "Proceed with Caution". Price the hourly band at a realistic hours-per-week range (see "Hourly contract pay needs hours") and say that work is not guaranteed. A title that matches the candidate's craft (for example a video role for someone with a studio) raises fit, not certainty of work.
+- **Applying creates an account** on the marketplace's own platform, often with an AI-run first interview. Log the account in `data/accounts-registry.md` before creating it.
+
+### Himalayas (remote jobs board)
+
+- The API provider lists postings reliably, but the posting pages sit behind a Cloudflare challenge: `fetch-jd.mjs` and `browser-extract.mjs` both fail on them (observed 2026-11). Follow "When a site blocks the agent": do not retry, ask the candidate to paste the posting text, and mark the report's verification line as unconfirmed (JD pasted by the candidate).
+- Most of a marketplace company's listings here are US-only; the title/location filters remove them. Read the location field of the few that survive.
 
 ### Boards for AI startups, games and creative tech
 
