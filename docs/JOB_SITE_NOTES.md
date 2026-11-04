@@ -43,6 +43,7 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 - Multi-step: contact data, work-authorization questions, a confidentiality/NDA acknowledgement, optional cover-letter upload, final review.
 - The "County" address field generally means province or state outside the US. Use the real administrative division, not the city's metropolitan name.
 - Read the employer's privacy policy link on step 1 and note what data it retains.
+- **Reading the posting (2026-11):** many iCIMS career sites embed the job in an iframe (`...?in_iframe=1`) inside the employer's own site. `node browser-extract.mjs <url>` then returns only the surrounding site chrome (`empty_text`) and a bare HTTP fetch gets nothing, so the posting looks unreadable even though it is live. Headless Playwright reads it from the child frame (`page.frames()`, the one with the long body text); no login and no visible window are needed. If that is not available, paste the posting text.
 
 ### Get on Board (LATAM-focused board)
 
