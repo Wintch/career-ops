@@ -1,12 +1,43 @@
 # Fork notes
 
-This fork of career-ops aims to be a general job-search tool: more countries, more
-boards, and non-tech boards (games). Nothing personal lives in git: CV,
-profile, `portals.yml`, `data/`, `reports/` and `output/` stay in the gitignored user
-layer (see `DATA_CONTRACT.md`).
+## Purpose
+
+This fork of career-ops is a general job-search tool for people who do not live in
+the markets upstream was built around. Its first user searches from Argentina, so
+the work so far centres on Latin America, and the goal is the same for any country:
+find the employers that hire where the candidate is, and the ones that hire from
+abroad.
+
+What the fork adds on top of upstream:
+
+- **Sources.** Providers and scanners for regional and niche boards (Computrabajo,
+  Bumeran and ZonaJobs, Djinni, games and streaming boards, Mercor),
+  each one only if it passes the Source Indexing Policy. Boards that do not are
+  recorded, with the reason, in `docs/SUPPORTED_JOB_BOARDS.md` ("Evaluated, not supported").
+- **Employers.** Example sections in `templates/portals.example.yml` for employers
+  that hire a remote candidate from the country (remote-LatAm firms, nearshore
+  agencies, remote-first companies) and for local employers.
+- **Tooling for a daily check.** `scheduled-chain.mjs`, `prescreen-location.mjs`
+  and the field notes in `docs/JOB_SITE_NOTES.md`.
+
+Rule for adding an employer: it has local hiring, or at least one open posting that
+names the candidate's country, its region or "worldwide remote". The evidence goes in
+the entry's `notes`. A board that only lists US or EU roles is left out, because
+every extra board adds to the time of each scan.
+
+What the fork does not do: it never applies for anyone (drafts stop before Submit),
+it does not run scheduled scans on its own, and nothing personal lives in git. CV,
+profile, `portals.yml`, `data/`, `reports/` and `output/` stay in the gitignored
+user layer (see `DATA_CONTRACT.md`).
 
 This file is the fork's own bookkeeping, kept on `local/fork-notes` and never meant
 for upstream.
+
+> **State since 2026-11-04:** the topic branches described below were collapsed
+> locally; only `integration` and `main` exist in the working copy, and fixes now go
+> straight to `integration`. The remote topic branches on the fork are older copies
+> and do not carry later fixes. The branch table and the resync recipe describe the
+> model they were built under.
 
 ## Branch model
 
