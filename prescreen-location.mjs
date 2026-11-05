@@ -33,7 +33,7 @@
 
 import { existsSync, readFileSync, writeFileSync, appendFileSync } from 'fs';
 import { join } from 'path';
-import * as yaml from 'js-yaml';
+import { loadYaml } from './lib/yaml-document.mjs';
 import { getCareerOpsRoot } from './path-resolver.mjs';
 import { isMainModule } from './lib/is-main-module.mjs';
 import { withPipelineLock } from './pipeline-lock.mjs';
@@ -163,7 +163,7 @@ export function homeTermsFromPortals(root) {
   const p = join(root, 'portals.yml');
   if (!existsSync(p)) return [];
   let doc;
-  try { doc = yaml.load(readFileSync(p, 'utf8')); } catch { return []; }
+  try { doc = loadYaml(readFileSync(p, 'utf8')); } catch { return []; }
   const lf = doc?.location_filter || {};
   const terms = [...(lf.always_allow || []), ...(lf.allow || [])];
   return terms.map(String).filter((t) => !/^(remote|hybrid)$/i.test(t.trim()));

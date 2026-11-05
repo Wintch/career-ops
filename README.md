@@ -363,6 +363,7 @@ All of them share one router, `.agents/skills/career-ops/SKILL.md`, and the same
 | [`tracker`](modes/tracker.md) | Application status overview |
 | [`followup`](modes/followup.md) | Follow-up cadence: flag overdue applications, generate drafts |
 | [`reply-watch`](modes/reply-watch.md) | Classify employer replies and suggest tracker updates |
+| [`watch`](modes/watch.md) | Track a few hand-picked companies over time: staff size, role tenure, stack signals (local only, never a content source) |
 | [`outcome`](modes/outcome.md) | Record an application's outcome and archive its artifacts |
 | [`offer-prep`](modes/offer-prep.md) | Read a received offer or contract with you: clause walk and questions for a lawyer (not legal advice) |
 

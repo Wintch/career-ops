@@ -69,7 +69,7 @@
 import { readFileSync, existsSync, mkdirSync } from 'fs';
 import { loadYaml } from './lib/yaml-document.mjs';
 import {
-  appendToPipeline, appendToScanHistory, loadSeenUrls, unrecordedOffers, PORTALS_PATH, SCAN_HISTORY_PATH,
+  appendToPipeline, appendToScanHistory, loadSeenUrls, appendUnrecordedToScanHistory, PORTALS_PATH,
   buildTitleFilter, buildLocationFilter, parseSinceDays, resolveEffectiveAfter, buildPostedDateFilter,
   companyRoleDedupKey, loadBlacklist, findBlacklistEntry,
 } from './scan.mjs';
@@ -695,11 +695,8 @@ async function main(args) {
     // written under today's setting would bury the posting once it changes.
     // skipped_location is observational (no dedup weight) and, like skipped_dup,
     // is written once per URL rather than once per scan.
-    const historyText = existsSync(SCAN_HISTORY_PATH) ? readFileSync(SCAN_HISTORY_PATH, 'utf-8') : '';
-    const newLocationRows = unrecordedOffers(locationSkipped, 'skipped_location', historyText);
-    const newDupeRows = unrecordedOffers(dupeSkipped, 'skipped_dup', historyText);
-    if (newLocationRows.length > 0) await appendToScanHistory(newLocationRows, date, 'skipped_location');
-    if (newDupeRows.length > 0) await appendToScanHistory(newDupeRows, date, 'skipped_dup');
+    await appendUnrecordedToScanHistory(locationSkipped, date, 'skipped_location');
+    await appendUnrecordedToScanHistory(dupeSkipped, date, 'skipped_dup');
   }
 
   printScanSummaryHeader('Navent Scan (Bumeran / ZonaJobs)', date);
