@@ -2360,11 +2360,13 @@ search_queries:
 tracked_companies:
 
   - name: YMCA of Greater Toronto
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://recruiting.ultipro.ca/YMC5001YMGT/JobBoard/7fde8f3e-7920-4d9d-8394-87bd44cc2330/
     provider: ultipro
     enabled: false
 
   - name: Ivey Business School
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ffe28c5e-dcff-41b8-b801-1ae1a70edb00&ccId=19000101_000001
     provider: adp-workforcenow
     enabled: false
@@ -2372,27 +2374,32 @@ tracked_companies:
   # -- AI Labs & LLM providers --
 
   - name: Anthropic
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/anthropic
     api: https://boards-api.greenhouse.io/v1/boards/anthropic/jobs
     enabled: true
 
   - name: OpenAI
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://openai.com/careers
     scan_method: websearch
     scan_query: 'site:openai.com/careers "Solutions" OR "Forward Deployed" OR "AI Engineer"'
     enabled: true
 
   - name: ByteDance
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.bytedance.com
     keywords: ["AI", "大模型", "Agent"]
     enabled: true
 
   - name: DeepSeek
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://app.mokahr.com/social-recruitment/high-flyer/140576
     keywords: ["AI", "大模型", "Agent"]
     enabled: true
 
   - name: Mercor
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://work.mercor.com/explore
     notes: "AI-training and expert contracts for AI labs, plus engineering engagements; hourly pay. Most listings name eligible countries (written into the location), many are US-only. Applying needs a Mercor account."
     enabled: false
@@ -2400,36 +2407,42 @@ tracked_companies:
   # -- Voice AI & Conversational AI --
 
   - name: PolyAI
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://job-boards.eu.greenhouse.io/polyai
     api: https://boards-api.greenhouse.io/v1/boards/polyai/jobs
     notes: "UK. Voice AI for enterprise contact centers."
     enabled: true
 
   - name: Parloa
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://job-boards.eu.greenhouse.io/parloa
     api: https://boards-api.greenhouse.io/v1/boards/parloa/jobs
     notes: "Berlin EMEA. Voice AI enterprise."
     enabled: true
 
   - name: Intercom
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/intercom
     api: https://boards-api.greenhouse.io/v1/boards/intercom/jobs
     notes: "Dublin EMEA. Fin AI agent."
     enabled: true
 
   - name: Plata
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://plata.careers/vacancy
     api: https://boards-api.greenhouse.io/v1/boards/platacard/jobs
     notes: "Mexico fintech/bank (Plata Card). Branded Framer front on a Greenhouse board (platacard); many remote/Worldwide roles."
     enabled: true
 
   - name: Hume AI
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/humeai
     api: https://boards-api.greenhouse.io/v1/boards/humeai/jobs
     notes: "NYC. Empathic voice AI."
     enabled: true
 
   - name: ElevenLabs
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/elevenlabs
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/elevenlabs'
@@ -2437,6 +2450,7 @@ tracked_companies:
     enabled: true
 
   - name: Deepgram
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/deepgram
     scan_method: websearch
     scan_query: 'site:deepgram.com/careers OR "deepgram" "Solutions" OR "AI Engineer" site:jobs.ashbyhq.com'
@@ -2444,6 +2458,7 @@ tracked_companies:
     enabled: true
 
   - name: Vapi
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/vapi
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/vapi'
@@ -2451,6 +2466,7 @@ tracked_companies:
     enabled: true
 
   - name: Bland AI
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/bland
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/bland'
@@ -2460,52 +2476,61 @@ tracked_companies:
   # -- AI-native platforms (FDE/SA teams) --
 
   - name: Retool
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.gem.com/retool
     provider: gem
     notes: "London. Popularized Deployed Engineer role."
     enabled: true
 
   - name: Gem
+    tags: {regions: [us], sectors: [ai, tech]}
     api: https://api.gem.com/job_board/v0/gem/job_posts/
     provider: gem
     notes: "San Francisco. Recruiting platform — example of Gem's documented REST Job Board API (verified vanity path, not guessed from the company name)."
     enabled: true
 
   - name: Airtable
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/airtable
     api: https://boards-api.greenhouse.io/v1/boards/airtable/jobs
     notes: "No-code + AI platform."
     enabled: true
 
   - name: Vercel
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/vercel
     api: https://boards-api.greenhouse.io/v1/boards/vercel/jobs
     notes: "AI SDK, v0.dev. Frontend AI tooling."
     enabled: true
 
   - name: Temporal
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/temporal
     notes: "Workflow orchestration."
     enabled: true
 
   - name: Arize AI
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/arizeai
     api: https://boards-api.greenhouse.io/v1/boards/arizeai/jobs
     notes: "LLMOps / AI observability."
     enabled: true
 
   - name: RunPod
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/runpod
     notes: "GPU cloud for AI."
     enabled: true
 
   - name: Weights & Biases (CoreWeave)
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/coreweave
     api: https://boards-api.greenhouse.io/v1/boards/coreweave/jobs
     notes: "Acquired by CoreWeave (announced March 2025, closed May 2025). W&B roles now live on CoreWeave's Greenhouse board. Old Lever URL (jobs.lever.co/wandb) returns 404."
     enabled: true
 
   - name: Glean
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/gleanwork
     api: https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs
     notes: "Enterprise AI search."
@@ -2514,12 +2539,14 @@ tracked_companies:
   # -- Contact Center AI & CX --
 
   - name: Ada
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/ada18
     api: https://boards-api.greenhouse.io/v1/boards/ada18/jobs
     notes: "Toronto + remote. AI customer service. The Greenhouse board is ada18 (its postings point to ada.cx); greenhouse.io/ada is gone."
     enabled: true
 
   - name: LivePerson
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://liveperson.com/company/careers
     scan_method: websearch
     scan_query: 'site:liveperson.com/careers OR "liveperson" "Solutions" OR "AI" site:job-boards.greenhouse.io'
@@ -2527,6 +2554,7 @@ tracked_companies:
     enabled: true
 
   - name: Sierra
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/sierra
     scan_method: websearch
     scan_query: '"sierra.ai" "AI" "Forward Deployed" OR "Applied" OR "Solutions" site:jobs.ashbyhq.com'
@@ -2534,6 +2562,7 @@ tracked_companies:
     enabled: true
 
   - name: Decagon
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/decagon
     scan_method: websearch
     scan_query: '"decagon" "AI" "Forward Deployed" OR "Solutions" site:jobs.ashbyhq.com'
@@ -2543,6 +2572,7 @@ tracked_companies:
   # -- Enterprise comms & contact center --
 
   - name: Talkdesk
+    tags: {regions: [us], sectors: [tech]}
     careers_url: https://www.talkdesk.com/careers
     scan_method: websearch
     scan_query: 'site:talkdesk.com/careers "AI" OR "Solutions Architect" OR "AI Engineer"'
@@ -2550,6 +2580,7 @@ tracked_companies:
     enabled: true
 
   - name: Twilio
+    tags: {regions: [us], sectors: [tech]}
     careers_url: https://jobs.twilio.com
     scan_method: websearch
     scan_query: 'site:jobs.twilio.com "AI" OR "Voice" "Solutions" OR "Architect"'
@@ -2557,6 +2588,7 @@ tracked_companies:
     enabled: true
 
   - name: Dialpad
+    tags: {regions: [us], sectors: [tech]}
     careers_url: https://www.dialpad.com/careers
     scan_method: websearch
     scan_query: '"dialpad" "AI" "Solutions" OR "Engineer" site:job-boards.greenhouse.io OR site:jobs.ashbyhq.com'
@@ -2564,6 +2596,7 @@ tracked_companies:
     enabled: true
 
   - name: Gong
+    tags: {regions: [us], sectors: [tech]}
     careers_url: https://www.gong.io/careers
     scan_method: websearch
     scan_query: 'site:gong.io/careers "AI" OR "Solutions" OR "Architect"'
@@ -2571,6 +2604,7 @@ tracked_companies:
     enabled: true
 
   - name: Genesys
+    tags: {regions: [us], sectors: [tech]}
     careers_url: https://www.genesys.com/careers
     scan_method: websearch
     scan_query: 'site:genesys.com/careers "AI" "Solutions Architect" OR "AI Engineer"'
@@ -2578,6 +2612,7 @@ tracked_companies:
     enabled: true
 
   - name: Salesforce
+    tags: {regions: [us], sectors: [tech]}
     careers_url: https://careers.salesforce.com
     scan_method: websearch
     scan_query: 'site:careers.salesforce.com "Forward Deployed" OR "AI Engineer" OR "Agentforce"'
@@ -2587,6 +2622,7 @@ tracked_companies:
   # -- AI infra & LLMOps --
 
   - name: Langfuse
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://langfuse.com/careers
     scan_method: websearch
     scan_query: '"langfuse" careers OR jobs "engineer" OR "solutions"'
@@ -2594,6 +2630,7 @@ tracked_companies:
     enabled: true
 
   - name: Lindy
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/lindy
     scan_method: websearch
     scan_query: '"lindy.ai" "AI" "Forward Deployed" OR "Solutions" site:jobs.ashbyhq.com'
@@ -2601,6 +2638,7 @@ tracked_companies:
     enabled: false
 
   - name: Cognigy
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://careers.cognigy.com
     scan_method: websearch
     scan_query: '"cognigy" careers "AI" OR "Solutions" OR "Engineer"'
@@ -2608,6 +2646,7 @@ tracked_companies:
     enabled: true
 
   - name: Speechmatics
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/speechmatics
     api: https://boards-api.greenhouse.io/v1/boards/speechmatics/jobs
     notes: "Cambridge UK. Speech recognition platform."
@@ -2616,6 +2655,7 @@ tracked_companies:
   # -- No-Code/Low-Code & Automation --
 
   - name: n8n
+    tags: {regions: [us], sectors: [tech]}
     careers_url: https://jobs.ashbyhq.com/n8n
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/n8n'
@@ -2623,6 +2663,7 @@ tracked_companies:
     enabled: true
 
   - name: Zapier
+    tags: {regions: [us], sectors: [tech]}
     careers_url: https://jobs.ashbyhq.com/zapier
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/zapier'
@@ -2630,6 +2671,7 @@ tracked_companies:
     enabled: true
 
   - name: Make.com (Celonis)
+    tags: {regions: [us], sectors: [tech]}
     careers_url: https://www.make.com/en/careers
     scan_method: websearch
     scan_query: 'site:make.com/en/careers OR "make.com" "engineer" OR "solutions" site:jobs.ashbyhq.com'
@@ -2637,6 +2679,7 @@ tracked_companies:
     enabled: true
 
   - name: Boomi
+    tags: {regions: [us], sectors: [tech]}
     careers_url: https://job-boards.greenhouse.io/boomilp
     api: https://boards-api.greenhouse.io/v1/boards/boomilp/jobs
     notes: "Integration and automation platform."
@@ -2645,16 +2688,19 @@ tracked_companies:
   # -- Ashby-based (Playwright direct) --
 
   - name: Cohere
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://jobs.ashbyhq.com/cohere
     notes: "AI/LLM provider. Toronto + remote."
     enabled: true
 
   - name: LangChain
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://jobs.ashbyhq.com/langchain
     notes: "LangChain/LangSmith framework."
     enabled: true
 
   - name: Pinecone
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://jobs.ashbyhq.com/pinecone
     notes: "Vector database."
     enabled: true
@@ -2662,11 +2708,13 @@ tracked_companies:
   # -- Lever-based (Playwright direct) --
 
   - name: Mistral AI
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://jobs.ashbyhq.com/mistral.ai
     notes: "Paris. European AI lab. Moved from Lever to Ashby (mistral.ai/careers links here)."
     enabled: true
 
   - name: Palantir
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://jobs.lever.co/palantir
     notes: "FDE roles. Mostly US/London."
     enabled: true
@@ -2674,39 +2722,46 @@ tracked_companies:
   # -- Canada / Vancouver tech & AI --
 
   - name: Later
+    tags: {regions: [ca], sectors: [tech, ai]}
     careers_url: https://job-boards.greenhouse.io/later
     api: https://boards-api.greenhouse.io/v1/boards/later/jobs
     notes: "Vancouver/Toronto. Social media and creator platform."
     enabled: true
 
   - name: Safari AI
+    tags: {regions: [ca], sectors: [tech, ai]}
     careers_url: https://job-boards.greenhouse.io/safariai
     api: https://boards-api.greenhouse.io/v1/boards/safariai/jobs
     notes: "Miami HQ / Vancouver engineering. Computer vision AI for operations in the physical economy."
     enabled: true
 
   - name: Hootsuite
+    tags: {regions: [ca], sectors: [tech, ai]}
     careers_url: https://job-boards.greenhouse.io/hootsuite
     api: https://boards-api.greenhouse.io/v1/boards/hootsuite/jobs
     notes: "Vancouver. Social media management platform."
     enabled: true
 
   - name: Klue
+    tags: {regions: [ca], sectors: [tech, ai]}
     careers_url: https://jobs.ashbyhq.com/klue
     notes: "Vancouver. Competitive intelligence SaaS."
     enabled: true
 
   - name: Glacis AI
+    tags: {regions: [ca], sectors: [tech, ai]}
     careers_url: https://jobs.ashbyhq.com/glacis-ai
     notes: "Ho Chi Minh City. AI agents for supply chain and logistics workflows."
     enabled: true
 
   - name: Sanctuary AI
+    tags: {regions: [ca], sectors: [tech, ai]}
     careers_url: https://jobs.lever.co/sanctuary
     notes: "Vancouver. Humanoid robotics and embodied AI."
     enabled: false
 
   - name: Semios
+    tags: {regions: [ca], sectors: [tech, ai]}
     careers_url: https://apply.workable.com/semios/
     scan_method: websearch
     scan_query: 'site:apply.workable.com/semios'
@@ -2714,6 +2769,7 @@ tracked_companies:
     enabled: true
 
   - name: Ratehub
+    tags: {regions: [ca], sectors: [tech, ai]}
     careers_url: https://ratehubinc.applytojob.com/apply
     notes: "Toronto. Personal finance comparison platform (mortgages, credit cards, insurance)."
     enabled: true
@@ -2721,11 +2777,13 @@ tracked_companies:
   # -- European tech (EMEA-friendly) --
 
   - name: Factorial
+    tags: {regions: [eu], sectors: [tech]}
     careers_url: https://careers.factorialhr.com
     notes: "Barcelona. HR SaaS unicorn. Its own board on its own ATS (provider: factorial)."
     enabled: true
 
   - name: Attio
+    tags: {regions: [eu], sectors: [tech]}
     careers_url: https://jobs.ashbyhq.com/attio
     scan_method: websearch
     scan_query: 'site:attio.com/careers OR site:jobs.ashbyhq.com/attio'
@@ -2733,11 +2791,13 @@ tracked_companies:
     enabled: true
 
   - name: Tinybird
+    tags: {regions: [eu], sectors: [tech]}
     careers_url: https://jobs.lever.co/tinybird
     notes: "Remote. Real-time data platform."
     enabled: true
 
   - name: Clarity AI
+    tags: {regions: [eu], sectors: [tech]}
     careers_url: https://jobs.lever.co/clarity-ai
     scan_method: websearch
     scan_query: 'site:clarity.ai/careers OR site:jobs.lever.co/clarity-ai'
@@ -2745,6 +2805,7 @@ tracked_companies:
     enabled: false
 
   - name: Travelperk
+    tags: {regions: [eu], sectors: [tech]}
     careers_url: https://jobs.ashbyhq.com/perk
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/perk'
@@ -2752,11 +2813,13 @@ tracked_companies:
     enabled: true
 
   - name: Channable
+    tags: {regions: [eu], sectors: [tech]}
     careers_url: https://channable.recruitee.com
     notes: "Utrecht. Product feed management for e-commerce."
     enabled: true
 
   - name: Shiji Group
+    tags: {regions: [eu], sectors: [tech]}
     careers_url: https://shijigroup.zohorecruit.com/jobs/Careers
     notes: "Katowice / Barcelona. International hubs of a Beijing-based hospitality technology group."
     enabled: true
@@ -2770,6 +2833,7 @@ tracked_companies:
   # -- DACH AI labs & frontier model providers --
 
   - name: Aleph Alpha
+    tags: {regions: [dach], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/AlephAlpha
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/AlephAlpha'
@@ -2777,6 +2841,7 @@ tracked_companies:
     enabled: true
 
   - name: DeepL
+    tags: {regions: [dach], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/DeepL
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/DeepL'
@@ -2784,11 +2849,13 @@ tracked_companies:
     enabled: true
 
   - name: Black Forest Labs
+    tags: {regions: [dach], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/black-forest-labs
     notes: "Freiburg DE / SF. FLUX image models, ex-Stable Diffusion team."
     enabled: true
 
   - name: Helsing
+    tags: {regions: [dach], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/helsing
     api: https://boards-api.greenhouse.io/v1/boards/helsing/jobs
     notes: "Munich / Berlin / London / Paris. Defence AI unicorn. 100+ roles, ML & FDE."
@@ -2797,30 +2864,35 @@ tracked_companies:
   # -- DACH enterprise & SaaS (AI-heavy) --
 
   - name: Celonis
+    tags: {regions: [dach], sectors: [tech]}
     careers_url: https://job-boards.greenhouse.io/celonis
     api: https://boards-api.greenhouse.io/v1/boards/celonis/jobs
     notes: "Munich / NYC. Process intelligence, Applied AI Engineer roles, Field CTOs."
     enabled: true
 
   - name: Contentful
+    tags: {regions: [dach], sectors: [tech]}
     careers_url: https://job-boards.greenhouse.io/contentful
     api: https://boards-api.greenhouse.io/v1/boards/contentful/jobs
     notes: "Berlin / Denver. Headless CMS, AI content workflows."
     enabled: true
 
   - name: GetYourGuide
+    tags: {regions: [dach], sectors: [tech]}
     careers_url: https://job-boards.greenhouse.io/getyourguide
     api: https://boards-api.greenhouse.io/v1/boards/getyourguide/jobs
     notes: "Berlin. Travel marketplace, ML & data platform roles."
     enabled: true
 
   - name: HelloFresh
+    tags: {regions: [dach], sectors: [tech]}
     careers_url: https://job-boards.greenhouse.io/hellofresh
     api: https://boards-api.greenhouse.io/v1/boards/hellofresh/jobs
     notes: "Berlin. Meal kit unicorn, large data/ML org."
     enabled: true
 
   - name: Allianz
+    tags: {regions: [dach], sectors: [tech]}
     careers_url: https://careers.allianz.com
     provider: phenom
     notes: "Munich. Insurance group."
@@ -2829,24 +2901,28 @@ tracked_companies:
   # -- DACH fintech --
 
   - name: N26
+    tags: {regions: [dach], sectors: [finance, tech]}
     careers_url: https://job-boards.greenhouse.io/n26
     api: https://boards-api.greenhouse.io/v1/boards/n26/jobs
     notes: "Berlin / Barcelona. Mobile bank, ~50 roles, ML & risk."
     enabled: true
 
   - name: Trade Republic
+    tags: {regions: [dach], sectors: [finance, tech]}
     careers_url: https://job-boards.greenhouse.io/traderepublicbank
     api: https://boards-api.greenhouse.io/v1/boards/traderepublicbank/jobs
     notes: "Berlin / London / Paris. Neobroker, ~50 roles, platform & data."
     enabled: true
 
   - name: SumUp
+    tags: {regions: [dach], sectors: [finance, tech]}
     careers_url: https://job-boards.greenhouse.io/sumup
     api: https://boards-api.greenhouse.io/v1/boards/sumup/jobs
     notes: "Berlin / London. Payments fintech, EU + LATAM hiring."
     enabled: true
 
   - name: Qonto
+    tags: {regions: [dach], sectors: [finance, tech]}
     careers_url: https://jobs.ashbyhq.com/qonto
     notes: "Paris / Berlin / Barcelona / Milan. SMB neobank, MLOps for AI Product roles. Moved from Lever to Ashby (qonto.com/en/careers links here)."
     enabled: true
@@ -2854,6 +2930,7 @@ tracked_companies:
   # -- DACH logistics / mobility --
 
   - name: Forto
+    tags: {regions: [dach], sectors: [logistics]}
     careers_url: https://jobs.ashbyhq.com/forto
     notes: "Berlin DE. Digital freight forwarder, product & data roles, German + English."
     enabled: true
@@ -2861,6 +2938,7 @@ tracked_companies:
   # -- DACH IT services / digital transformation consulting --
 
   - name: Nortal
+    tags: {regions: [dach], sectors: [consulting, tech]}
     careers_url: https://careers-en-nortal.icims.com/jobs/search?ss=1  # any *.icims.com host
     notes: "Tallinn HQ, German offices. Digital transformation consulting. This English-language board also carries the Ukraine, Finland, Estonia, Poland, Serbia and Bulgaria roles (careers.nortal.com/ukraine lists the same postings)."
     enabled: true
@@ -2868,6 +2946,7 @@ tracked_companies:
   # -- Switzerland / Austria AI --
 
   - name: Lakera
+    tags: {regions: [dach], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/lakera.ai
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/lakera.ai'
@@ -2875,12 +2954,14 @@ tracked_companies:
     enabled: true
 
   - name: Scandit
+    tags: {regions: [dach], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/scandit
     api: https://boards-api.greenhouse.io/v1/boards/scandit/jobs
     notes: "Zurich CH. Computer vision / smart data capture, ML roles."
     enabled: true
 
   - name: Cradle
+    tags: {regions: [dach], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/cradlebio
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/cradlebio'
@@ -2890,6 +2971,7 @@ tracked_companies:
   # -- France AI ecosystem --
 
   - name: Hugging Face
+    tags: {regions: [fr, eu], sectors: [ai, tech]}
     careers_url: https://apply.workable.com/huggingface/
     scan_method: websearch
     scan_query: 'site:apply.workable.com/huggingface'
@@ -2897,6 +2979,7 @@ tracked_companies:
     enabled: true
 
   - name: Photoroom
+    tags: {regions: [fr, eu], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/photoroom
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/photoroom'
@@ -2904,11 +2987,13 @@ tracked_companies:
     enabled: true
 
   - name: Pigment
+    tags: {regions: [fr, eu], sectors: [ai, tech]}
     careers_url: https://jobs.lever.co/pigment
     notes: "Paris FR / NYC / London. AI-powered FP&A planning platform."
     enabled: true
 
   - name: Diabolocom
+    tags: {regions: [fr, eu], sectors: [ai, tech]}
     careers_url: https://jobs.eu.lever.co/diabolocom
     notes: "Paris FR. AI-native contact center (CCaaS) platform — Frost & Sullivan 2026 AI CX Leader in Europe; hybrid LLM/SLM architecture powering Agent Assist, Voice Analytics, and automated QA."
     enabled: true
@@ -2916,29 +3001,34 @@ tracked_companies:
   # -- UK & Ireland AI (EU-friendly hiring) --
 
   - name: Wayve
+    tags: {regions: [uk, eu], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/wayve
     notes: "London UK. Embodied AI for self-driving, ML & robotics roles."
     enabled: true
 
   - name: Isomorphic Labs
+    tags: {regions: [uk, eu], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/isomorphiclabs
     api: https://boards-api.greenhouse.io/v1/boards/isomorphiclabs/jobs
     notes: "London / Lausanne / Cambridge MA. DeepMind spin-out for drug discovery AI."
     enabled: true
 
   - name: PhysicsX
+    tags: {regions: [uk, eu], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/physicsx
     api: https://boards-api.greenhouse.io/v1/boards/physicsx/jobs
     notes: "London UK. Physics-informed ML for engineering, ~40 roles."
     enabled: true
 
   - name: Stability AI
+    tags: {regions: [uk, eu], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/stabilityai
     api: https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs
     notes: "London / SF. Generative AI image/video research lab."
     enabled: true
 
   - name: Synthesia
+    tags: {regions: [uk, eu], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/synthesia
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/synthesia OR site:job-boards.greenhouse.io/synthesia'
@@ -2946,6 +3036,7 @@ tracked_companies:
     enabled: true
 
   - name: Faculty
+    tags: {regions: [uk, eu], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/faculty
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/faculty'
@@ -2953,6 +3044,7 @@ tracked_companies:
     enabled: true
 
   - name: Causaly
+    tags: {regions: [uk, eu], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/causaly
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/causaly'
@@ -2962,6 +3054,7 @@ tracked_companies:
   # -- Nordics AI --
 
   - name: Lovable
+    tags: {regions: [nordics, eu], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/lovable
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/lovable'
@@ -2969,6 +3062,7 @@ tracked_companies:
     enabled: true
 
   - name: Legora
+    tags: {regions: [nordics, eu], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/legora
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/legora'
@@ -2976,11 +3070,13 @@ tracked_companies:
     enabled: true
 
   - name: Spotify
+    tags: {regions: [nordics, eu], sectors: [ai, tech]}
     careers_url: https://jobs.lever.co/spotify
     notes: "Stockholm SE / NYC / London. Audio platform, large ML/personalization org."
     enabled: true
 
   - name: Vinted
+    tags: {regions: [nordics, eu], sectors: [ai, tech]}
     careers_url: https://careers.vinted.com
     notes: "Vilnius LT / Berlin. C2C marketplace unicorn, data science & ML roles. Greenhouse-backed custom board."
     enabled: true
@@ -2988,6 +3084,7 @@ tracked_companies:
   # -- ATS migration refreshes (2026-08): boards moved off Greenhouse/Lever --
 
   - name: Revolut
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://www.revolut.com/careers
     scan_method: websearch
     scan_query: 'site:revolut.com/careers "Java" OR "Backend" OR "Platform" OR "Engineer"'
@@ -2995,11 +3092,13 @@ tracked_companies:
     enabled: true
 
   - name: Klarna
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://jobs.deel.com/klarna
     notes: "Stockholm. Fintech. Hosted on the Deel job board (jobs.deel.com/<slug>); the scanner reads it directly."
     enabled: true
 
   - name: Bolt
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://bolt.eu/en/careers/positions/
     scan_method: websearch
     scan_query: 'site:bolt.eu/en/careers/positions'
@@ -3007,6 +3106,7 @@ tracked_companies:
     enabled: true
 
   - name: Bosch
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://jobs.bosch.com
     scan_method: websearch
     scan_query: 'site:jobs.bosch.com "Java" OR "Backend" OR "Cloud"'
@@ -3014,6 +3114,7 @@ tracked_companies:
     enabled: true
 
   - name: BMW Group
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://jobs.bmwgroup.com
     provider: successfactors
     api: https://jobs.bmwgroup.com
@@ -3021,6 +3122,7 @@ tracked_companies:
     enabled: true
 
   - name: CARIAD (Volkswagen)
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://jobs.volkswagen-group.com/cariad
     provider: successfactors
     api: https://jobs.volkswagen-group.com
@@ -3028,6 +3130,7 @@ tracked_companies:
     enabled: true
 
   - name: Shopify
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://www.shopify.com/careers
     scan_method: websearch
     scan_query: 'site:shopify.com/careers OR site:shopify.com/careers/* "Engineer" OR "Backend" OR "Platform"'
@@ -3035,6 +3138,7 @@ tracked_companies:
     enabled: true
 
   - name: Aiven
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://aiven.io/careers
     scan_method: websearch
     scan_query: 'site:aiven.io/careers "Engineer" OR "Backend" OR "Platform"'
@@ -3042,6 +3146,7 @@ tracked_companies:
     enabled: true
 
   - name: Zendesk
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://careers.zendesk.com
     scan_method: websearch
     scan_query: 'site:careers.zendesk.com "Engineer" OR "Backend" OR "Platform"'
@@ -3049,11 +3154,13 @@ tracked_companies:
     enabled: true
 
   - name: Mollie
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://jobs.ashbyhq.com/mollie
     notes: "Amsterdam. Payments fintech."
     enabled: true
 
   - name: MessageBird
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://bird.com/careers
     scan_method: websearch
     scan_query: 'site:bird.com/careers "Engineer" OR "Backend" OR "Platform"'
@@ -3061,6 +3168,7 @@ tracked_companies:
     enabled: true
 
   - name: Tiqets
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://www.tiqets.com/jobs
     scan_method: websearch
     scan_query: 'site:tiqets.com/jobs "Engineer" OR "Backend" OR "Platform"'
@@ -3068,11 +3176,13 @@ tracked_companies:
     enabled: true
 
   - name: Hotjar
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://jobs.lever.co/contentsquare
     notes: "Remote EU. Analytics, part of Contentsquare. Lever board jobs.lever.co/contentsquare."
     enabled: true
 
   - name: Toggl
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://jobs.ashbyhq.com/toggl
     ashby:
       embed: true        # the board is live but its public posting API answers 404
@@ -3080,6 +3190,7 @@ tracked_companies:
     enabled: true
 
   - name: Doist
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://jobs.ashbyhq.com/todoist-inc
     notes: "Remote global. Productivity (Todoist). Moved from Workable to Ashby (todoist.com/careers links here)."
     enabled: true
@@ -3087,6 +3198,7 @@ tracked_companies:
   # -- Denmark AI / tech --
 
   - name: Corti
+    tags: {regions: [dk, eu], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/corti
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/corti'
@@ -3094,6 +3206,7 @@ tracked_companies:
     enabled: true
 
   - name: Pleo
+    tags: {regions: [dk, eu], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/pleo
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/pleo'
@@ -3101,6 +3214,7 @@ tracked_companies:
     enabled: true
 
   - name: Templafy
+    tags: {regions: [dk, eu], sectors: [ai, tech]}
     careers_url: https://templafy.teamtailor.com
     notes: "Copenhagen DK. Document-generation / content-enablement platform. Moved from Greenhouse to Teamtailor (templafy.com careers links here)."
     enabled: true
@@ -3108,6 +3222,7 @@ tracked_companies:
   # -- Iberia AI --
 
   - name: Amplemarket
+    tags: {regions: [es, eu], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/amplemarket
     api: https://boards-api.greenhouse.io/v1/boards/amplemarket/jobs
     notes: "Lisbon PT / Remote. AI-native sales platform."
@@ -3116,6 +3231,7 @@ tracked_companies:
   # -- Italy (Zucchetti InRecruiting career pages) --
 
   - name: Maggioli
+    tags: {regions: [it, eu], sectors: [tech]}
     careers_url: https://maggioli.intervieweb.it/it/career
     notes: "Santarcangelo di Romagna IT. Software and services for public administration; developer, data and analyst roles across Italy."
     enabled: false
@@ -3123,6 +3239,7 @@ tracked_companies:
   # -- AI / Developer Tools --
 
   - name: Perplexity
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/perplexity
     scan_method: websearch
     scan_query: ‘site:jobs.ashbyhq.com/perplexity "AI" OR "Applied AI" OR "Forward Deployed" OR "Engineer"’
@@ -3130,6 +3247,7 @@ tracked_companies:
     enabled: true
 
   - name: Clay Labs
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/claylabs
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/claylabs "AI" OR "Developer Experience" OR "Growth" OR "Engineer"'
@@ -3137,18 +3255,21 @@ tracked_companies:
     enabled: true
 
   - name: Runway
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/runwayml
     api: https://boards-api.greenhouse.io/v1/boards/runwayml/jobs
     notes: "Generative AI video and creative tooling platform."
     enabled: false
 
   - name: Hightouch
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/hightouch
     api: https://boards-api.greenhouse.io/v1/boards/hightouch/jobs
     notes: "Data activation platform with AI agents and solutions engineering roles."
     enabled: false
 
   - name: WorkOS
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/workos
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/workos "Solutions Engineer" OR "Developer Success" OR "Engineer"'
@@ -3156,6 +3277,7 @@ tracked_companies:
     enabled: true
 
   - name: CloudBees
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://recruiting.paylocity.com/Recruiting/Jobs/All/a432d829-f701-4cf3-9108-56ef703b2ac5
     notes: "CI/CD and software delivery platform."
     enabled: true
@@ -3163,6 +3285,7 @@ tracked_companies:
   # -- Dev Tools / AI Infra (DevRel, SA, FDE focus) --
 
   - name: Supabase
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/supabase
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/supabase'
@@ -3170,6 +3293,7 @@ tracked_companies:
     enabled: true
 
   - name: Resend
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/resend
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/resend'
@@ -3177,6 +3301,7 @@ tracked_companies:
     enabled: true
 
   - name: Clerk
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/clerk
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/clerk'
@@ -3184,6 +3309,7 @@ tracked_companies:
     enabled: true
 
   - name: Inngest
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://jobs.ashbyhq.com/inngest
     scan_method: websearch
     scan_query: 'site:jobs.ashbyhq.com/inngest'
@@ -3191,12 +3317,14 @@ tracked_companies:
     enabled: true
 
   - name: PlanetScale
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://job-boards.greenhouse.io/planetscale
     api: https://boards-api.greenhouse.io/v1/boards/planetscale/jobs
     notes: "Serverless MySQL platform. Customer Engineering, Engineering, Sales."
     enabled: true
 
   - name: Zep AI
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://www.getzep.com/careers
     scan_method: websearch
     scan_query: '"Zep" "Forward Deployed" OR "Developer Relations" OR "Founding" site:workatastartup.com OR site:getzep.com'
@@ -3204,6 +3332,7 @@ tracked_companies:
     enabled: true
 
   - name: Maxim AI
+    tags: {regions: [us], sectors: [ai, tech]}
     careers_url: https://www.getmaxim.ai/careers
     scan_method: websearch
     scan_query: '"Maxim AI" OR "getmaxim" careers "engineer" OR "product"'
@@ -3214,115 +3343,137 @@ tracked_companies:
   # Video delivery, encoding, players and CDN/edge employers on supported ATS.
 
   - name: Twitch
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://job-boards.greenhouse.io/twitch
     notes: "Live video streaming (Amazon). Video infrastructure, SRE and platform roles."
     enabled: true
 
   - name: Roku
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://job-boards.greenhouse.io/roku
     notes: "Streaming platform and devices. Playback, CDN and cloud platform teams."
     enabled: true
 
   - name: Netflix
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://netflix.eightfold.ai/careers
     notes: "Streaming. ~460 postings as of 2026-10-11 (10 per page); the provider default of 200 pages reads the whole board."
     enabled: true
 
   - name: Disney
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://www.disneycareers.com/en/search-jobs
     provider: radancy
     notes: "Includes Disney Streaming (Disney+, Hulu, ESPN+). Very large board (all countries)."
     enabled: true
 
   - name: Warner Bros. Discovery
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://careers.wbd.com/global/en
     provider: phenom
     notes: "Max, Discovery+, CNN. Video engineering and compression roles."
     enabled: true
 
   - name: Paramount
+    tags: {regions: [global], sectors: [media]}
     careers_url: https://careers.paramount.com/
     provider: successfactors
     notes: "Paramount+, Pluto TV, CBS; Telefe in Argentina."
     enabled: true
 
   - name: DAZN
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://dazn.pinpointhq.com
     notes: "Sports streaming. Includes broadcast / master control room roles."
     enabled: true
 
   - name: Dolby
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://dolby.eightfold.ai/careers?domain=dolby.com
     max_pages: 15
     notes: "Includes THEO Technologies (video players). Keep the ?domain= parameter: this board answered 422 without it (2026-10-11)."
     enabled: true
 
   - name: Harmonic
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://egmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs
     notes: "Video delivery and broadcast (VOS, encoders). Not jobs.ashbyhq.com/harmonic, an unrelated company (checked 2026-10-11)."
     enabled: true
 
   - name: Ateme
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://ateme.teamtailor.com
     notes: "Video compression and delivery (France)."
     enabled: true
 
   - name: Kaltura
+    tags: {regions: [global], sectors: [media, tech]}
     api: https://www.comeet.co/careers-api/2.0/company/E2.00D/positions?token=2EDEA12ED017688C7147B1A555DA2ED
     notes: "Video platform. Public Comeet token as embedded in Kaltura's own job pages."
     enabled: true
 
   - name: Bitmovin
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://job-boards.greenhouse.io/bitmovin
     notes: "Video encoding and player infrastructure (Austria / remote)."
     enabled: true
 
   - name: Conviva
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://job-boards.greenhouse.io/conviva
     notes: "Streaming analytics and QoE."
     enabled: true
 
   - name: JW Player (JWP)
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://job-boards.greenhouse.io/jwp
     notes: "Video player and streaming platform."
     enabled: true
 
   - name: Mux
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://jobs.ashbyhq.com/mux
     notes: "Video API infrastructure."
     enabled: true
 
   - name: LiveKit
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://jobs.ashbyhq.com/livekit
     notes: "Open-source WebRTC real-time video / audio infrastructure."
     enabled: true
 
   - name: Restream
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://jobs.ashbyhq.com/restream
     notes: "Multistreaming platform; remote-friendly in Europe."
     enabled: true
 
   - name: Wistia
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://jobs.ashbyhq.com/wistia
     notes: "Video hosting for businesses."
     enabled: true
 
   - name: Cloudinary
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://jobs.lever.co/cloudinary
     notes: "Image and video media pipelines."
     enabled: true
 
   - name: Vecima
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://recruiting.ultipro.ca/VEC5000VECI/JobBoard/398abd11-b7b6-4ed8-97a3-1917adaf2676
     notes: "Video delivery and cable access technology (Canada)."
     enabled: true
 
   - name: Fastly
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://job-boards.greenhouse.io/fastly
     notes: "Edge cloud / CDN."
     enabled: true
 
   - name: Cloudflare
+    tags: {regions: [global], sectors: [media, tech]}
     careers_url: https://job-boards.greenhouse.io/cloudflare
     notes: "Edge network, CDN, Stream. Large board (all countries)."
     enabled: true
@@ -3330,51 +3481,61 @@ tracked_companies:
   # -- Cloud-native, observability & infrastructure (remote-friendly) --
 
   - name: Grafana Labs
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://job-boards.greenhouse.io/grafanalabs
     notes: "Observability (Grafana, Loki, Mimir, Tempo). Remote-first."
     enabled: true
 
   - name: GitLab
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://job-boards.greenhouse.io/gitlab
     notes: "DevSecOps platform. All-remote."
     enabled: true
 
   - name: Canonical
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://job-boards.greenhouse.io/canonical
     notes: "Ubuntu, Kubernetes, OpenStack. Remote-first, hires worldwide."
     enabled: true
 
   - name: Datadog
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://job-boards.greenhouse.io/datadog
     notes: "Observability and security platform."
     enabled: true
 
   - name: Elastic
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://job-boards.greenhouse.io/elastic
     notes: "Search, observability, security. Distributed company."
     enabled: true
 
   - name: Tailscale
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://job-boards.greenhouse.io/tailscale
     notes: "WireGuard-based networking. Remote."
     enabled: true
 
   - name: PagerDuty
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://job-boards.greenhouse.io/pagerduty
     notes: "Incident response / on-call platform."
     enabled: true
 
   - name: Cockroach Labs
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://job-boards.greenhouse.io/cockroachlabs
     notes: "Distributed SQL database."
     enabled: true
 
   - name: Kong
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://jobs.ashbyhq.com/kong
     notes: "API gateway and service connectivity. Includes SRE roles."
     enabled: true
 
   - name: Sysdig
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://jobs.lever.co/sysdig
     notes: "Cloud-native security and monitoring (Falco)."
     enabled: true
@@ -3406,6 +3567,7 @@ tracked_companies:
   # ============================================================
 
   - name: Trendyol
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://www.trendyol.com/kariyerimiz
     scan_method: websearch
     scan_query: 'site:trendyol.com/kariyerimiz OR "trendyol" "Software Engineer" OR "Backend" OR "Frontend" careers'
@@ -3413,6 +3575,7 @@ tracked_companies:
     enabled: false
 
   - name: Hepsiburada
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://www.hepsiburada.com/kariyer
     scan_method: websearch
     scan_query: '"hepsiburada" careers "Software Engineer" OR "Backend" OR "Frontend" OR "Yazılım"'
@@ -3420,6 +3583,7 @@ tracked_companies:
     enabled: false
 
   - name: Getir
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://jobs.lever.co/getir
     scan_method: websearch
     scan_query: 'site:jobs.lever.co/getir OR "getir" careers "Software Engineer" OR "Backend" OR "Frontend"'
@@ -3427,6 +3591,7 @@ tracked_companies:
     enabled: false
 
   - name: Insider
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://useinsider.com/careers
     scan_method: websearch
     scan_query: '"useinsider" OR "insider" careers "Software Engineer" OR "Backend" OR "Frontend" site:jobs.lever.co OR site:jobs.ashbyhq.com'
@@ -3434,6 +3599,7 @@ tracked_companies:
     enabled: false
 
   - name: Dream Games
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://www.dreamgames.com/careers
     scan_method: websearch
     scan_query: '"dreamgames" OR "dream games" careers "Software Engineer" OR "Backend" OR "Frontend"'
@@ -3441,6 +3607,7 @@ tracked_companies:
     enabled: false
 
   - name: Peak Games (Zynga)
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://www.peakgames.net/en/career
     scan_method: websearch
     scan_query: '"peak games" careers "Software Engineer" OR "Backend" OR "Frontend"'
@@ -3448,6 +3615,7 @@ tracked_companies:
     enabled: false
 
   - name: Yemeksepeti (Delivery Hero)
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://www.yemeksepeti.com/kariyer
     scan_method: websearch
     scan_query: '"yemeksepeti" careers "Software Engineer" OR "Backend" OR "Frontend" OR "Yazılım"'
@@ -3455,6 +3623,7 @@ tracked_companies:
     enabled: false
 
   - name: Sahibinden.com
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://www.sahibinden.com/kariyer
     scan_method: websearch
     scan_query: '"sahibinden" careers "Software Engineer" OR "Backend" OR "Frontend" OR "Yazılım Geliştirici"'
@@ -3462,6 +3631,7 @@ tracked_companies:
     enabled: false
 
   - name: Garanti BBVA Technology
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://www.garantibbvateknoloji.com.tr/kariyer
     scan_method: websearch
     scan_query: '"garanti bbva teknoloji" OR "garantibbvateknoloji" careers "Software Engineer" OR "Backend" OR "Frontend"'
@@ -3469,6 +3639,7 @@ tracked_companies:
     enabled: false
 
   - name: Akbank Tech
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://www.akbank.com/tr-tr/sayfalar/kariyer.aspx
     scan_method: websearch
     scan_query: '"akbank" careers "Software Engineer" OR "Yazılım Mühendisi" OR "Backend" OR "Frontend"'
@@ -3476,6 +3647,7 @@ tracked_companies:
     enabled: false
 
   - name: Turkcell
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://kariyer.turkcell.com.tr
     scan_method: websearch
     scan_query: 'site:kariyer.turkcell.com.tr OR "turkcell" careers "Software Engineer" OR "Backend" OR "Frontend"'
@@ -3483,6 +3655,7 @@ tracked_companies:
     enabled: false
 
   - name: Iyzico (PayU)
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://iyzico.com/kariyer
     scan_method: websearch
     scan_query: '"iyzico" careers "Software Engineer" OR "Backend" OR "Frontend" OR "Yazılım"'
@@ -3490,6 +3663,7 @@ tracked_companies:
     enabled: false
 
   - name: Papara
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://papara.com/kariyer
     scan_method: websearch
     scan_query: '"papara" careers "Software Engineer" OR "Backend" OR "Frontend"'
@@ -3497,6 +3671,7 @@ tracked_companies:
     enabled: false
 
   - name: Craftgate
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://craftgate.io/career
     scan_method: websearch
     scan_query: '"craftgate" careers "Software Engineer" OR "Backend" OR "Frontend"'
@@ -3504,6 +3679,7 @@ tracked_companies:
     enabled: false
 
   - name: n11.com (Doğuş)
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://www.n11.com/kurumsal/kariyer
     scan_method: websearch
     scan_query: '"n11" careers "Software Engineer" OR "Backend" OR "Frontend" OR "Yazılım"'
@@ -3513,6 +3689,7 @@ tracked_companies:
   # -- Ukraine / CEE IT services --
 
   - name: SoftServe
+    tags: {regions: [ua, eu], sectors: [consulting, tech]}
     careers_url: https://career.softserveinc.com/en-us/vacancies
     enabled: false
     notes: "Ukraine HQ; also hires in PL, BG, RO, DE, ES, UK, UAE, US, MX, CO, CL. The whole global list is scanned; all countries are returned and the location column shows the country."
@@ -3531,18 +3708,21 @@ tracked_companies:
   # serve. Left `enabled: false` like every other example.
 
   - name: Moniepoint
+    tags: {regions: [africa], sectors: [tech]}
     careers_url: https://job-boards.greenhouse.io/moniepoint
     api: https://boards-api.greenhouse.io/v1/boards/moniepoint/jobs
     notes: "Lagos. Fintech (business banking, payments). Verified 2026-08-17: 120 postings, the largest group in Lagos and Remote-Nigeria; also hires Remote in Bangalore, Poland and Spain."
     enabled: false
 
   - name: Jumia
+    tags: {regions: [africa], sectors: [tech]}
     careers_url: https://job-boards.greenhouse.io/jumia
     api: https://boards-api.greenhouse.io/v1/boards/jumia/jobs
     notes: "Pan-African e-commerce. Verified 2026-08-17: 25 postings across Nigeria, Ghana, Uganda, Egypt and Kenya — the widest continental spread of the three."
     enabled: false
 
   - name: Andela
+    tags: {regions: [africa], sectors: [tech]}
     careers_url: https://jobs.ashbyhq.com/andela
     api: https://api.ashbyhq.com/posting-api/job-board/andela
     notes: "African-founded talent marketplace. Verified 2026-08-17: 19 postings, but mostly North America and the UK with a single Kenya role — enable it for the company, not for African coverage."
@@ -3553,21 +3733,25 @@ tracked_companies:
   # multi-country; every country is kept.
 
   - name: Mercado Libre
+    tags: {regions: [latam, ar], sectors: [commerce, finance, tech]}
     careers_url: https://mercadolibre.eightfold.ai/careers?domain=mercadolibre.com
     notes: "Largest LatAm e-commerce/fintech (AR, BR, MX, CO, CL, UY). ~810 postings as of 2026-10-11 (10 per page; the default 200-page cap reads them all). Keep ?domain=: the board answered 422 without it."
     enabled: true
 
   - name: Nubank
+    tags: {regions: [latam], sectors: [tech]}
     careers_url: https://jobs.ashbyhq.com/nubank
     notes: "Digital bank (BR, MX, CO). Its Greenhouse board existed but was empty on 2026-10-11."
     enabled: true
 
   - name: dLocal
+    tags: {regions: [latam, ar], sectors: [finance, tech]}
     careers_url: https://jobs.lever.co/dlocal
     notes: "Cross-border payments (UY/AR). Remote within LatAm."
     enabled: true
 
   - name: Claro Argentina (AMX)
+    tags: {regions: [latam, ar, uy], sectors: [telecom]}
     careers_url: https://claroempleos-aup.com/
     provider: successfactors
     api: https://claroempleos-aup.com
@@ -3575,46 +3759,55 @@ tracked_companies:
     enabled: true
 
   - name: Despegar
+    tags: {regions: [latam, ar], sectors: [commerce, tech]}
     careers_url: https://jobs.lever.co/despegar
     notes: "Online travel (AR HQ)."
     enabled: true
 
   - name: Kavak
+    tags: {regions: [latam], sectors: [tech]}
     careers_url: https://jobs.lever.co/kavak
     notes: "Used-car platform (MX). Tech roles; operations roles live on its Workday board."
     enabled: true
 
   - name: Rappi
+    tags: {regions: [latam, ar], sectors: [commerce, tech]}
     careers_url: https://rappi.wd12.myworkdayjobs.com/Rappi_jobs
     notes: "Delivery super-app (CO, MX, AR, BR…). Use the wd12 tenant; the older wd3 one answered 500/422 on 2026-10-11."
     enabled: true
 
   - name: Stone
+    tags: {regions: [latam, br], sectors: [tech]}
     careers_url: https://job-boards.greenhouse.io/stone
     notes: "Brazilian fintech / payments. Mostly Brazil, many sales roles."
     enabled: true
 
   - name: Wizeline
+    tags: {regions: [latam], sectors: [consulting, tech]}
     careers_url: https://job-boards.greenhouse.io/wizeline
     notes: "Engineering services (MX, CO, remote LatAm)."
     enabled: true
 
   - name: Endava
+    tags: {regions: [latam, ar], sectors: [consulting, tech]}
     careers_url: https://jobs.smartrecruiters.com/Endava
     notes: "IT services; LatAm delivery centres incl. Argentina."
     enabled: true
 
   - name: Delivery Hero (PedidosYa)
+    tags: {regions: [latam, ar], sectors: [commerce, tech]}
     careers_url: https://jobs.smartrecruiters.com/DeliveryHero
     notes: "Includes PedidosYa (UY/AR); empleos.pedidosya.com is a front end over this board. ~950 postings as of 2026-10-11, all countries; the provider reads up to 50 pages of 100."
     enabled: true
 
   - name: Okta
+    tags: {regions: [latam, ar], sectors: [tech]}
     careers_url: https://job-boards.greenhouse.io/okta
     notes: "Identity (Auth0 started in Argentina). Large board."
     enabled: true
 
   - name: Accenture
+    tags: {regions: [latam], sectors: [tech]}
     careers_url: https://accenture.wd103.myworkdayjobs.com/AccentureCareers
     notes: "Global consultancy, very large board (thousands of postings, all countries, 2026-10-11). Disabled by default for its size."
     enabled: false
@@ -3629,48 +3822,85 @@ tracked_companies:
   # Left `enabled: false` like every other example.
 
   - name: Clara
+    tags: {regions: [latam, br, mx, co], sectors: [tech]}
     careers_url: https://job-boards.greenhouse.io/clara
     notes: "Brazil / Mexico / Colombia. Corporate cards and spend management."
     enabled: false
 
   - name: EBANX
+    tags: {regions: [latam, ar, br], sectors: [tech]}
     careers_url: https://job-boards.greenhouse.io/ebanx
     notes: "Brazil, some Argentina and UK. Payments."
     enabled: false
 
   - name: Yuno
+    tags: {regions: [latam, ar, br, mx, co, cl], sectors: [tech]}
     careers_url: https://jobs.lever.co/yuno
     notes: "Remote LatAm (Colombia, Mexico, Brazil, Argentina, Chile) + UK. Payments orchestration."
     enabled: false
 
   - name: Addi
+    tags: {regions: [latam, co], sectors: [tech]}
     careers_url: https://jobs.ashbyhq.com/addi
     notes: "Colombia. Buy-now-pay-later."
     enabled: false
 
   - name: Platzi
+    tags: {regions: [latam, mx, co], sectors: [tech]}
     careers_url: https://apply.workable.com/platzi
     notes: "Mexico / Colombia. Online tech education."
     enabled: false
 
   - name: Deuna
+    tags: {regions: [latam, mx, co], sectors: [tech]}
     careers_url: https://jobs.lever.co/deuna
     notes: "Mexico / US / Colombia, mostly remote. Payments."
     enabled: false
 
   - name: Cobre
+    tags: {regions: [latam, mx, co], sectors: [tech]}
     careers_url: https://job-boards.greenhouse.io/cobre
     notes: "Colombia / Mexico. B2B payments."
     enabled: false
 
   - name: Simetrik
+    tags: {regions: [latam], sectors: [tech]}
     careers_url: https://jobs.ashbyhq.com/simetrik
     notes: "Remote LatAm + US. Financial reconciliation."
     enabled: false
 
   - name: Ualá
+    tags: {regions: [latam, ar, mx], sectors: [finance, tech]}
     careers_url: https://uala.careers.hibob.com
     notes: "Argentina / Mexico, hybrid. Fintech and neobank. HiBob career site (hibob provider); 18 postings measured 2026-10-20, 13 in Argentina and 5 in Mexico."
+    enabled: false
+
+  - name: Globant
+    tags: {regions: [latam, ar], sectors: [consulting, tech]}
+    careers_url: https://career-legacy.globant.com
+    provider: successfactors
+    api: https://career-legacy.globant.com
+    notes: "Argentine IT services group. The legacy jobs2web board lists about 100 postings, including Buenos Aires and Argentina-remote DevOps and cloud roles. The newer career.globant.com is a Next.js app the scanner cannot read, so coverage is partial. Measured 2026-11-05."
+    enabled: false
+
+  - name: Santander Tecnologia
+    tags: {regions: [latam, br, mx], sectors: [finance, tech]}
+    careers_url: https://santander.wd3.myworkdayjobs.com/SantanderCareers
+    notes: "Santander Group technology arm, one global Workday board of about 1000 postings (Spain, UK, Brazil, Mexico, Germany); the global title_filter does the narrowing. Measured 2026-11-05."
+    enabled: false
+
+  - name: Banco Galicia
+    tags: {regions: [latam, ar], sectors: [finance]}
+    careers_url: https://empleos.galicia.com.ar/bancogalicia
+    provider: successfactors
+    api: https://empleos.galicia.com.ar
+    notes: "Largest private bank in Argentina. SuccessFactors RMK board, 12 postings measured 2026-11-05."
+    enabled: false
+
+  - name: Making Sense
+    tags: {regions: [latam, ar], sectors: [consulting, tech]}
+    careers_url: https://makingsense.hiringroom.com/portal/jobs
+    notes: "Argentine software firm on a HiringRoom portal (the /portal/jobs layout, JSON-LD). 1 posting measured 2026-11-05."
     enabled: false
 
   # -- Cybersecurity (vendors, offensive security, bug bounty) --
@@ -3681,61 +3911,73 @@ tracked_companies:
   # says where it actually hires. Left `enabled: false`.
 
   - name: Huntress
+    tags: {regions: [global], sectors: [security, tech]}
     careers_url: https://job-boards.greenhouse.io/huntress
     notes: "US / UK. Managed EDR and SOC for SMBs."
     enabled: false
 
   - name: Sophos
+    tags: {regions: [global], sectors: [security, tech]}
     careers_url: https://jobs.lever.co/sophos
     notes: "Remote; UK / US, some Brazil. Endpoint and MDR vendor."
     enabled: false
 
   - name: Wiz
+    tags: {regions: [global], sectors: [security, tech]}
     careers_url: https://job-boards.greenhouse.io/wizinc
     notes: "US / UK / Brazil / Mexico. Cloud security."
     enabled: false
 
   - name: Abnormal Security
+    tags: {regions: [global], sectors: [security, tech]}
     careers_url: https://job-boards.greenhouse.io/abnormalsecurity
     notes: "US / UK. Email security."
     enabled: false
 
   - name: 1Password
+    tags: {regions: [global], sectors: [security, tech]}
     careers_url: https://jobs.ashbyhq.com/1password
     notes: "Remote US / UK. Identity and password management."
     enabled: false
 
   - name: Chainguard
+    tags: {regions: [global], sectors: [security, tech]}
     careers_url: https://job-boards.greenhouse.io/chainguard
     notes: "Remote US / UK. Software supply-chain security."
     enabled: false
 
   - name: Semgrep
+    tags: {regions: [global], sectors: [security, tech]}
     careers_url: https://jobs.ashbyhq.com/semgrep
     notes: "Remote US. Static analysis / AppSec."
     enabled: false
 
   - name: Bishop Fox
+    tags: {regions: [global], sectors: [security, tech]}
     careers_url: https://job-boards.greenhouse.io/bishopfox
     notes: "Remote US + Mexico. Offensive security consultancy."
     enabled: false
 
   - name: Praetorian
+    tags: {regions: [global], sectors: [security, tech]}
     careers_url: https://job-boards.greenhouse.io/praetorian
     notes: "Remote US. Offensive security consultancy."
     enabled: false
 
   - name: Coalfire
+    tags: {regions: [global], sectors: [security, tech]}
     careers_url: https://jobs.lever.co/coalfire
     notes: "Remote US. Pentest and compliance (FedRAMP, PCI)."
     enabled: false
 
   - name: Bugcrowd
+    tags: {regions: [global], sectors: [security, tech]}
     careers_url: https://job-boards.greenhouse.io/bugcrowd
     notes: "Remote US / UK / Brazil. Bug bounty platform."
     enabled: false
 
   - name: HackerOne
+    tags: {regions: [global], sectors: [security, tech]}
     careers_url: https://jobs.ashbyhq.com/hackerone
     notes: "Remote US. Bug bounty platform."
     enabled: false
@@ -3750,316 +3992,378 @@ tracked_companies:
   # countries match yours.
 
   - name: "CodeRoad"
+    tags: {regions: [latam], sectors: [consulting, tech], remote: latam}
     careers_url: https://job-boards.greenhouse.io/coderoad
     notes: "Nearshore firm for US clients; LatAm remote DevOps as USA contractor, USD pay. Verified 2026-11-01."
     enabled: false
 
   - name: "Caylent"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://job-boards.greenhouse.io/caylent
     notes: "AWS Premier partner, fully remote; hires platform engineers in Argentina directly, USD. Verified 2026-11-01."
     enabled: false
 
   - name: "Chainlink Labs"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/chainlink-labs
     notes: "Crypto oracle infra; SRE roles list Argentina as an approved hiring jurisdiction. Verified 2026-11-01. Ashby posting-API answers 404 for this slug (postings themselves are live), so disabled; check the board by hand."
     enabled: false
 
   - name: "Time Doctor"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://timedoctor.recruitee.com
     notes: "Remote-first SaaS; DevOps open to LatAm with US Eastern overlap. Verified 2026-11-01."
     enabled: false
 
   - name: "Helpware"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://helpware-inc.breezy.hr
     notes: "BPO/tech services; platform/DevOps remote within MX/BR/AR. Verified 2026-11-01."
     enabled: false
 
   - name: "Jobsity"
+    tags: {regions: [latam, ar], sectors: [consulting, tech], remote: latam}
     careers_url: https://cc-jobs-jobsity.na.teamtailor.com
     provider: teamtailor
     notes: "Nearshore staffing; SRE/AWS roles open to Argentina. Verified 2026-11-01."
     enabled: false
 
   - name: "Devlane"
+    tags: {regions: [latam], sectors: [consulting, tech], remote: latam}
     careers_url: https://careers.devlane.com
     provider: teamtailor
     notes: "LatAm staff augmentation (Teamtailor on a branded domain); remote LatAm DevOps, USD. Verified 2026-11-01."
     enabled: false
 
   - name: "Prometeo Talent"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.prometeotalent.com
     provider: teamtailor
     notes: "Recruiting agency (Teamtailor on a branded domain); 'anywhere in LatAm' DevOps roles; end client usually undisclosed. Verified 2026-11-01."
     enabled: false
 
   - name: "NetBox Labs"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/netboxlabs
     notes: "Network automation / observability; DevOps roles list LATAM remote. Verified 2026-11-01."
     enabled: false
 
   - name: "Azumo"
+    tags: {regions: [latam], sectors: [consulting, tech], remote: latam}
     careers_url: https://apply.workable.com/azumo
     notes: "Nearshore AI/software firm, remote anywhere in LatAm, USD. Verified 2026-11-01."
     enabled: false
 
   - name: "Hire Hangar"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/hirehangar
     notes: "Staffing firm; contract LLM-infra roles listing Argentina among many countries. Verified 2026-11-01."
     enabled: false
 
   - name: "Atmosera"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.lever.co/atmosera
     notes: "Azure/cloud MSP; cloud infra roles 'Remote - LATAM - ARG'. Verified 2026-11-01."
     enabled: false
 
   - name: "Truelogic"
+    tags: {regions: [latam], sectors: [consulting, tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/truelogic
     notes: "Nearshore software firm; LatAm remote DevOps/DevSecOps, USD. Verified 2026-11-01."
     enabled: false
 
   - name: "Kraken"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/kraken.com
     notes: "Crypto exchange; some SRE roles list Argentina among LatAm locations. Verified 2026-11-01."
     enabled: false
 
   - name: "Sezzle"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://job-boards.greenhouse.io/sezzle
     notes: "Fintech; security platform / infra roles in Argentina and LatAm with published USD monthly bands. Verified 2026-11-01."
     enabled: false
 
   - name: "Silver.dev"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/silver
     notes: "Argentine agency placing senior AR talent at US companies; mostly backend/AI, occasional infra. Verified 2026-11-01."
     enabled: false
 
   - name: "Anyone AI"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/anyone-ai
     notes: "AI human-data company; platform roles remote LatAm/US. Verified 2026-11-01."
     enabled: false
 
   - name: "Dev.Pro"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://apply.workable.com/devpro
     notes: "US outsourcing firm hiring LatAm contractors; DevOps roles. Verified 2026-11-01."
     enabled: false
 
   - name: "Glacier"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/glacier
     notes: "Robotics/recycling; remote LatAm fleet-support systems roles at USD 3-4.5K/mo (shift coverage). Verified 2026-11-01."
     enabled: false
 
   - name: "Inca Digital"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://job-boards.greenhouse.io/incadigitalinc
     notes: "Data/intelligence firm; fully remote global roles incl. Argentina (seen: senior video editor). Verified 2026-11-01."
     enabled: false
 
   - name: "Intuition Machines (hCaptcha)"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://apply.workable.com/imachines
     notes: "hCaptcha maker; Wellfound lists SRE as Remote (Everywhere), contract. Verified 2026-11-01."
     enabled: false
 
   - name: "Alpaca"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://job-boards.greenhouse.io/alpaca
     notes: "Brokerage API fintech; SRE 'Remote - Global' and Americas variants. Verified 2026-11-01."
     enabled: false
 
   - name: "G2i"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/g2i
     notes: "Talent network; per-country AI-training SWE contracts (Argentina and LATAM variants, USD 100-200/h, 10-20 h/week) plus DevOps contracts. Verified 2026-11-01."
     enabled: false
 
   - name: "Gamebreaking Studios"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://gamebreaking-studios-inc.breezy.hr
     notes: "Game studio hiring backend engineers remote within LatAm (Argentina not always listed). Verified 2026-11-01."
     enabled: false
 
   - name: "Nitrado"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://nitrado.jobs.personio.de
     notes: "Game-server hosting (GameFabric); SRE 'remote, hybrid or office' with 'Work from Abroad'; German contract; eligibility outside the EU is not stated. Verified 2026-11-01."
     enabled: false
 
   - name: "Tether"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://tether.recruitee.com
     notes: "Verified 2026-11-01, sample posting: DevOps Engineer (100% remote) Remote Buenos Aires, Buenos Aires, Argentina"
     enabled: false
 
   - name: "Nexus"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/nexus.xyz
     notes: "Verified 2026-11-01, sample posting: Principal Infrastructure Engineer (Contract – LATAM) ... We're investing deeply in the Latin American engineer"
     enabled: false
 
   - name: "Zencore"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.lever.co/zencore
     notes: "Verified 2026-11-01, sample posting: Senior Cloud Engineer, Infrastructure Location: LATAM Team: Infrastructure"
     enabled: false
 
   - name: "Airtm"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.lever.co/airtm
     notes: "Verified 2026-11-01, sample posting: Infrastructure Engineer Location: LATAM Team: Tech Team This role is open for LATAM based candidates"
     enabled: false
 
   - name: "Outpost"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/outpost
     notes: "Verified 2026-11-01, sample posting: Location: Remote — Latin America preferred ... full-time contract position ... We've built this model successf"
     enabled: false
 
   - name: "HomeVision"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/homevision
     notes: "Verified 2026-11-01, sample posting: Infrastructure Software Engineer, AI & Data Security (Contract, Argentina) Location: Argentina Type: FullTime "
     enabled: false
 
   - name: "Swamp Club"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/swamp-club
     notes: "Verified 2026-11-01, sample posting: Platform Engineer Location: Worldwide Type: FullTime Work model: Remote"
     enabled: false
 
   - name: "Anagram"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/anagram
     notes: "Verified 2026-11-01, sample posting: Site Reliability Engineer Location: Anywhere ... SITE RELIABILITY ENGINEER (SRE) – WEB3 INFRASTRUCTURE ... Rem"
     enabled: false
 
   - name: "Featherless AI"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/featherlessai
     notes: "Verified 2026-11-01, sample posting: Machine Learning Engineer — Inference Optimization Location: Remote (world) Type: FullTime"
     enabled: false
 
   - name: "Admios"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://job-boards.greenhouse.io/admios
     notes: "Verified 2026-11-01, sample posting: Python Cloud Engineer Location: Remote/Anywhere in Latin America"
     enabled: false
 
   - name: "Factored"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://job-boards.greenhouse.io/factored
     notes: "Verified 2026-11-01, sample posting: Senior MLOps Engineer Location: Latin America Req ID: 16 Fully remote | Complete engagement job"
     enabled: false
 
   - name: "Institute of Free Technology"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://job-boards.greenhouse.io/iftother
     notes: "Verified 2026-11-01, sample posting: DevOps Engineer (DST) Location: Remote (Worldwide) Req ID: BACK-1524"
     enabled: false
 
   - name: "Zipdev"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://apply.workable.com/zipdev
     notes: "Verified 2026-11-01, sample posting: Senior Site Reliability Engineer Description: We're hiring a Senior SRE based in Latin America to work alongsi"
     enabled: false
 
   - name: "Somnio Software"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://somniosoftware.recruitee.com
     notes: "Verified 2026-11-01, sample posting: Senior DevOps Engineer ... Location: Remote from anywhere in LATAM, working mainly on Eastern Time (EST) ... 1"
     enabled: false
 
   - name: "Chainstack"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://chainstack.bamboohr.com
     notes: "Verified 2026-11-01, sample posting: Infrastructure Engineer (LATAM time zone) ... Americas time zone ... Certified Kubernetes Administrator (CKA)"
     enabled: false
 
   - name: "AgilityFeat"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://agilityfeat.bamboohr.com
     notes: "Verified 2026-11-01, sample posting: Senior DevOps Engineer (LATAM) Location: Remote from LatAm Working hours: Full-time, aligned w/ Eastern or Cen"
     enabled: false
 
   - name: "Avahi"
+    tags: {regions: [latam, ar, br, mx], sectors: [tech], remote: latam}
     careers_url: https://avahi.bamboohr.com
     notes: "Verified 2026-11-01, sample posting: DevOps Engineer ... This position is open to candidates based in Mexico, Brazil, and Argentina only."
     enabled: false
 
   - name: "Domus Global"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://domusglobal.bamboohr.com
     notes: "Verified 2026-11-01, sample posting: Senior MLOps Engineer | Kubernetes | Docker | AWS/Azure/GCP (BambooHR detail: atsLocation country Argentina, l"
     enabled: false
 
   - name: "In All Media"
+    tags: {regions: [latam, ar, br, co], sectors: [tech], remote: latam}
     careers_url: https://inallmedia-llc.breezy.hr
     notes: "Verified 2026-11-01, sample posting: Brazil / Colombia / Argentina / Costa Rica / Dominican Republic - Remote ... Location: Remote from LATAM ... 1"
     enabled: false
 
   - name: "Cashea"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://cashea.na.teamtailor.com
     provider: teamtailor
     notes: "Verified 2026-11-01, sample posting: Ingeniería · LATAM · Completamente remoto  DevSecOps Engineer ... Ubicación LATAM Estado remoto Completamente "
     enabled: false
 
   - name: "Marvik"
+    tags: {regions: [latam, ar, mx, co, uy, pe], sectors: [tech], remote: latam}
     careers_url: https://marvik.na.teamtailor.com
     provider: teamtailor
     notes: "Verified 2026-11-01, sample posting: Technology · Multiple locations · Fully Remote ... Locations Mexico, Peru, Colombia, Argentina, Uruguay Remote"
     enabled: false
 
   - name: "Flux IT"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://fluxit.breezy.hr
     notes: "Verified 2026-11-01, sample posting: DevOps Sr. - Argentina. 'Formarás parte de nuestro equipo DevOps... Infraestructura como código, el diseño e i"
     enabled: false
 
   - name: "Redbee"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://jobs.lever.co/redbee
     notes: "Verified 2026-11-01, sample posting: DevOps / SRE Senior (Capital Federal). 'Somos redbee, una empresa argentina de tecnologia... Buscamos Sr DevOp"
     enabled: false
 
   - name: "Mutt Data"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://jobs.lever.co/muttdata
     notes: "Verified 2026-11-01, sample posting: Senior DataOps Engineer (Buenos Aires). 'remote-first startup... long-term project with a leading financial in"
     enabled: false
 
   - name: "Blue Coding"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.lever.co/bluecoding
     notes: "Verified 2026-11-01, sample posting: Senior DevOps Engineer (V). 'Location: Remote Latam... we specialize in hiring excellent developers and amazin"
     enabled: false
 
   - name: "Particle41"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://job-boards.greenhouse.io/particle41llc
     notes: "Verified 2026-11-01, sample posting: Devops Engineer (Azure) - 'Location: Argentina - Remote'. Same template exists as DevOps Engineer (AWS) and (G"
     enabled: false
 
   - name: "Coderio"
+    tags: {regions: [latam, co], sectors: [tech], remote: latam}
     careers_url: https://jobs.lever.co/coderio
     notes: "Verified 2026-11-01, sample posting: Senior Devops Engineer (Bogota, remote): AWS ECS/EKS, Terraform/CloudFormation, Buildkite/GitHub Actions, Data"
     enabled: false
 
   - name: "Pavago"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://apply.workable.com/pavago
     notes: "Verified 2026-11-01, sample posting: Cloud / Network / Cybersecurity Engineer - Infrastructure & Security, Remote, Full-Time, 'Working Hours: U.S. "
     enabled: false
 
   - name: "ResilientCo"
+    tags: {regions: [latam, ar], sectors: [tech], remote: latam}
     careers_url: https://jobs.lever.co/resilientco
     notes: "Verified 2026-11-01, sample posting: DevOps Engineer. Location: Argentina. Team: Engineering. Buscan DevOps Engineer Semi Senior / Senior ... Domin"
     enabled: false
 
   - name: "Luxury Presence"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.lever.co/luxurypresence
     notes: "Verified 2026-11-01, sample posting: Senior DevOps Engineer - LATAM (Remote). Location: Latin America"
     enabled: false
 
   - name: "Private Identity"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://job-boards.greenhouse.io/privateidentity
     notes: "Verified 2026-11-01, sample posting: Senior DevOps Engineer. Location: Latin America (multi-cloud AWS/GCP, Terraform, Kubernetes; 7+ years)"
     enabled: false
 
   - name: "ClickHouse"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/clickhouse
     notes: "Verified 2026-11-01, sample posting: Senior Software Engineer - Cloud Infrastructure - (US Remote) | Location: NAMER and LatAm (Additional location"
     enabled: false
 
   - name: "Railway"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/railway
     notes: "Verified 2026-11-01, sample posting: Infrastructure Engineer | Location: Global | Work model: Remote. 'This is a remote position available anywhere"
     enabled: false
 
   - name: "fal"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.ashbyhq.com/fal-ai
     notes: "Verified 2026-11-01, sample posting: Software Engineer, Site Reliability | Location: Remote - Global | Type: FullTime. Owns Kubernetes infrastructu"
     enabled: false
 
   - name: "Metabase"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.lever.co/metabase
     notes: "Verified 2026-11-01, sample posting: Senior SRE/DevOps Engineer | Location: Global Remote. JD describes an asynchronous, remote-first environment; "
     enabled: false
 
   - name: "Consensys"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://job-boards.greenhouse.io/consensys
     notes: "Verified 2026-11-01, sample posting: Senior Systems Administrator | Location: UNITED STATES - Remote, EMEA - Remote, LATAM - Remote, CANADA - Remot"
     enabled: false
 
   - name: "IT Tech Hub"
+    tags: {regions: [latam], sectors: [tech], remote: latam}
     careers_url: https://jobs.deel.com/5526b9c1-6ac4-4139-97c2-b772af588854
     notes: "Staffing firm on Deel (deel provider; the board slug is a UUID). Verified 2026-11-01, sample posting: Senior DevOps Engineer (part-time, AWS/Terraform), LATAM remote contractor for an undisclosed US client."
     enabled: false
@@ -4069,21 +4373,25 @@ tracked_companies:
   # Disabled: these are one region's boards — copy the pattern for your own
   # district or college. Verified 2026-09-21 (postings when checked).
   - name: Clark College (Faculty)
+    tags: {regions: [us], sectors: [education, public]}
     careers_url: https://www.schooljobs.com/careers/clarkcollege/facultypositions
     notes: "NEOGOV, scoped to the faculty careers page. 28 postings when checked."
     enabled: false
 
   - name: Vancouver Public Schools
+    tags: {regions: [us], sectors: [education, public]}
     careers_url: https://vansd.schoolspring.com/
     notes: "SchoolSpring. 65 postings when checked."
     enabled: false
 
   - name: Ridgefield School District
+    tags: {regions: [us], sectors: [education, public]}
     careers_url: https://jobs.redroverk12.com/org/1651
     notes: "Red Rover K12. 4 public postings (5 more are internal-only) when checked."
     enabled: false
 
   - name: Camas School District
+    tags: {regions: [us], sectors: [education, public]}
     careers_url: https://www.applitrack.com/camas/onlineapp/default.aspx?all=1
     default_location: "Camas, WA"
     notes: "Frontline AppliTrack. 25 postings when checked."
@@ -4095,21 +4403,25 @@ tracked_companies:
   # University titles follow the employer's rank names ("IT Officer",
   # "Assistant IT Director"), so widen title_filter before expecting matches.
   - name: The University of Hong Kong
+    tags: {regions: [global], sectors: [education, public]}
     careers_url: https://careers.pageuppeople.com/932/cw/en/listing/
     notes: "PageUp. All staff categories on one board (academic, research, administrative, IT). 363 postings when checked."
     enabled: false
 
   - name: Bank of China (Hong Kong)
+    tags: {regions: [global], sectors: [education, public]}
     careers_url: https://careers.pageuppeople.com/798/cw/en/listing/
     notes: "PageUp. 258 postings when checked."
     enabled: false
 
   - name: Oklahoma State University
+    tags: {regions: [global], sectors: [education, public]}
     careers_url: https://careers.pageuppeople.com/1216/cw/en-us/listing/
     notes: "PageUp. US tenants use the en-us locale segment. 367 postings when checked."
     enabled: false
 
   - name: Freshworks
+    tags: {regions: [global], sectors: [education, public]}
     careers_url: https://careers.smartrecruiters.com/freshworks
     notes: "SmartRecruiters. 123 postings when checked."
     enabled: true

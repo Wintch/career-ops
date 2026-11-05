@@ -281,6 +281,21 @@ The default path is `portals.yml`, overridable with `--file` or the `CAREER_OPS_
 
 ---
 
+## select-portals
+
+Picks which employers of the example catalog a person's `portals.yml` scans. Every tracked company in `templates/portals.example.yml` carries `tags: {regions: [...], sectors: [...], remote: ...}`; the script turns "where I live and what field I work in" into a deterministic edit of the person's own file, so nobody has to ask an agent to rewrite it (an agent doing that once collapsed a list of 151 companies to 11 unnoticed).
+
+```bash
+node select-portals.mjs --list-tags                                        # the vocabulary the catalog uses
+node select-portals.mjs --regions ar,latam --sectors tech --summary        # plan, writes nothing
+node select-portals.mjs --regions ar,latam --sectors tech --write          # apply to <data root>/portals.yml
+node select-portals.mjs --regions br --sectors media,games --remote worldwide,friendly --enable-existing --disable-others --write
+```
+
+A company is selected when its sectors meet `--sectors` and (its regions meet `--regions`, or its `remote` level is in `--remote`, default `latam,worldwide`). `friendly` means remote roles exist but each posting's country eligibility still has to be read, so it is opt-in. `regions: [global]` matches only through `remote`. Companies with no `tags` are never selected.
+
+The edit is text-level: comments, order and every line the person wrote stay put. By default it only **adds** selected companies that are missing (copied from the catalog, enabled). A company already in the file but switched off stays off, because the person may have done that on purpose; `--enable-existing` switches those on. `--disable-others` switches off catalog companies that do not match, which is how a person stops scanning a field that is not theirs. Companies the person added themselves are never touched and nothing is deleted. `--write` copies the file to `portals.yml.bak-<timestamp>` first and rerunning is a no-op. Zero network, zero LLM.
+
 ## audit-portals
 
 Content audit of `portals.yml`, the companion to `verify-portals.mjs`. `verify-portals` asks "does this endpoint answer with postings?" and is the right gate for a broken slug. It cannot ask the question that actually costs coverage: *whose* postings are these? An entry can rot into uselessness in two ways a reachability check reports as healthy: no provider claims its `careers_url` (so `scan.mjs` skips it silently on every run while it still reads as coverage), or it points at a real, healthy board belonging to the wrong entity (a parent company, a regional subsidiary, an unrelated same-named tenant).

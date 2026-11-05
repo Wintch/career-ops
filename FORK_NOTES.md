@@ -20,6 +20,13 @@ What the fork adds on top of upstream:
 - **Tooling for a daily check.** `scheduled-chain.mjs`, `prescreen-location.mjs`
   and the field notes in `docs/JOB_SITE_NOTES.md`.
 
+Catalog tags (2026-11-05): every tracked company in `templates/portals.example.yml`
+carries `tags: {regions, sectors, remote}`, and `select-portals.mjs` turns a person's
+country and field into an additive edit of their own `portals.yml` (see `docs/SCRIPTS.md`).
+A new employer needs its tags when it is added; `node select-portals.mjs --list-tags`
+shows the vocabulary in use, and a test fails if a catalog entry has none. Adding a country
+means adding employers tagged with its code (`br`, `mx`, ...) plus the group (`latam`).
+
 Rule for adding an employer: it has local hiring, or at least one open posting that
 names the candidate's country, its region or "worldwide remote". The evidence goes in
 the entry's `notes`. A board that only lists US or EU roles is left out, because
@@ -331,3 +338,19 @@ Ross, Telestream and Globo (no supported ATS link found).
   its `robots.txt` was read; that file disallows both. Nothing more was sent.
 - UK Find a job got one request with a browser User-Agent, only to show that its 503
   depends on the User-Agent. No content was read with it.
+
+## Argentine employers without a readable board (checked 2026-11-05)
+
+Searched for the board of each employer below. None could be added; recheck every few months.
+
+| Employer | Finding |
+| --- | --- |
+| Baufest | Avature tenant at `baufest.avature.net/jobs`; the `avature` provider expects `/careers/SearchJobs` and fails on this markup ("listing markup changed"). Entry kept disabled in the user's `portals.yml`. A provider fix would unlock it. |
+| Pomelo | The careers page (`pomelo.la/empresa/trabaja-con-nosotros`) links to no known ATS host; third-party aggregators carry its postings. |
+| Lemon Cash | `lemon.me/careers` loads its vacancies dynamically ("0 vacantes abiertas" in the static HTML) and links a talent pool, not a board. |
+| Naranja X | Announces searches on LinkedIn; its site answered HTTP 500 to a plain fetch. |
+| Wolox | Part of Accenture since 2021; its postings are on Accenture's board. |
+| Mercado Pago | Posts on the Mercado Libre board, already tracked. |
+| Belo, Ripio, Buenbit, Zemoga, Intraway, Nubi, Digital House, Technisys, Clarín, OLX | No supported ATS found, or the board that `discover-ats.mjs` matched lists 0 postings and is probably another company's tenant. |
+
+Added the same day, with the reason in each entry's `notes`: Globant (the legacy jobs2web host, partial coverage), Santander Tecnologia (Workday), Banco Galicia (SuccessFactors RMK) and Making Sense (HiringRoom `/portal/jobs`).
