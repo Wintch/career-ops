@@ -29,6 +29,12 @@ means adding employers tagged with its code (`br`, `mx`, ...) plus the group (`l
 The roles a person keeps come from `templates/role-families.yml` (`select-portals.mjs --roles`),
 so a new kind of work needs a family there as well as employers tagged with its sector.
 
+Shared fetch (2026-11-05): `docs/SHARED_FETCH.md` describes one fetcher that reads each job
+site once and keeps the responses, and scans that only parse them (`CAREER_OPS_HTTP_CACHE_DIR`,
+`..._ONLY`, `..._STORE_NO_STORE`, `union-portals.mjs`). Measured: a reader scan makes 0 requests
+and takes seconds. Workday's `no-store` is why the biggest board costs 559 requests per person
+without it; keeping it is the operator's call.
+
 Rule for adding an employer: it has local hiring, or at least one open posting that
 names the candidate's country, its region or "worldwide remote". The evidence goes in
 the entry's `notes`. A board that only lists US or EU roles is left out, because

@@ -5,6 +5,7 @@ import { tmpdir } from 'node:os';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { execFileSync, spawnSync } from 'node:child_process';
+import { describeSpawn, exitedNonZero } from './helpers/describe-spawn.mjs';
 import { parseCompanyBlocks, matches, plan, applyPlan, listTags, loadRoleFamilies, mergeTitlePositives } from '../select-portals.mjs';
 import { buildTitleFilter } from '../scan.mjs';
 
@@ -191,9 +192,9 @@ test('CLI: plan writes nothing, --write backs up first, rerun is a no-op', () =>
 
 test('CLI: missing --regions/--sectors and unknown flags fail', () => {
   const noArgs = spawnSync('node', [SCRIPT], { encoding: 'utf8' });
-  assert.notEqual(noArgs.status, 0);
+  assert.ok(exitedNonZero(noArgs), describeSpawn(noArgs, 'no arguments must be refused'));
   const bad = spawnSync('node', [SCRIPT, '--regions', 'ar', '--sectors', 'tech', '--bogus'], { encoding: 'utf8' });
-  assert.notEqual(bad.status, 0);
+  assert.ok(exitedNonZero(bad), describeSpawn(bad, 'an unknown flag must be refused'));
 });
 
 test('the shipped catalog is fully tagged and parses', () => {
@@ -284,10 +285,10 @@ test('CLI: --roles alone edits only the title filter; unknown families are refus
     assert.match(after, /- "Graphic Designer"/);
     assert.ok(after.includes('name: Own Only Co   # hand added'), 'companies untouched');
     const bad = spawnSync('node', [SCRIPT, '--into', into, '--roles', 'astronaut'], { encoding: 'utf8' });
-    assert.notEqual(bad.status, 0);
+    assert.ok(exitedNonZero(bad), describeSpawn(bad, 'an unknown role family must be refused'));
     assert.match(bad.stderr, /unknown role family: astronaut/);
     const half = spawnSync('node', [SCRIPT, '--into', into, '--regions', 'ar'], { encoding: 'utf8' });
-    assert.notEqual(half.status, 0, '--regions without --sectors is refused');
+    assert.ok(exitedNonZero(half), describeSpawn(half, '--regions without --sectors must be refused'));
   } finally {
     rmSync(dir, { recursive: true, force: true });
   }

@@ -301,7 +301,7 @@ function main() {
   validateFlags(args, [
     '--regions', '--sectors', '--remote', '--disable-others', '--enable-existing', '--into', '--catalog',
     '--write', '--summary', '--list-tags', '--list-roles', '--roles', '--help', '-h',
-  ], USAGE, { valueFlags: ['--regions', '--sectors', '--remote', '--into', '--catalog', '--roles'] });
+  ], USAGE, { valueFlags: ['--regions', '--sectors', '--remote', '--into', '--catalog', '--roles'], requireOperand: true });
 
   const catalogPath = flagValue(args, '--catalog') || CATALOG_PATH;
   if (!existsSync(catalogPath)) { console.error(`catalog not found: ${catalogPath}`); process.exit(1); }

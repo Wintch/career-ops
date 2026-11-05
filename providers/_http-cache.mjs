@@ -50,15 +50,27 @@ async function prune(dir, now) {
   }));
 }
 
+// Two options exist for a shared store that several people's scans read, filled by
+// one fetcher so a job site sees one polite reader instead of one per person:
+//   cacheOnly    a request that is not fresh in the store fails with
+//                `code: 'cache_only_miss'` instead of reaching the network. This only
+//                covers requests made through fetchJson / fetchText; a provider that
+//                calls fetch itself is outside it, so enforce the rule with the
+//                network as well (see docs/SHARED_FETCH.md).
+//   storeNoStore keep a body the server marked `Cache-Control: no-store`. Without it
+//                such a body is never kept (Workday answers `no-store, no-cache`). Set
+//                it only on the fetcher that serves the shared store.
 export function withHttpCache(options, fn) {
   const store = {
     dir: options.dir,
     ttlMs: options.ttlMs,
     now: options.now ?? (() => Date.now()),
     write: options.write !== false,
+    cacheOnly: options.cacheOnly === true,
+    storeNoStore: options.storeNoStore === true,
     memory: new Map(),
     inflight: new Map(),
-    stats: { hits: 0, misses: 0, revalidated: 0 },
+    stats: { hits: 0, misses: 0, revalidated: 0, absent: 0 },
   };
   const run = () => storage.run(store, fn);
   if (!store.write) return run();
@@ -162,6 +174,13 @@ async function plain(url, opts, load) {
   return loaded.body;
 }
 
+function cacheOnlyMiss(store) {
+  store.stats.absent++;
+  const err = new Error('not in the shared fetch store (cache-only mode)');
+  err.code = 'cache_only_miss';
+  return err;
+}
+
 async function fulfill(store, key, url, opts, load, method) {
   const entry = await readEntry(store, key);
   if (isFresh(entry, store)) {
@@ -169,6 +188,7 @@ async function fulfill(store, key, url, opts, load, method) {
     opts.onResponse?.(savedResponse());
     return entry.body;
   }
+  if (store.cacheOnly) throw cacheOnlyMiss(store);
   const conditional = method === 'GET' && entry?.etag
     ? { ifNoneMatch: entry.etag }
     : { ifNoneMatch: null };
@@ -191,7 +211,7 @@ async function fulfill(store, key, url, opts, load, method) {
     etag: typeof loaded.etag === 'string' && loaded.etag ? loaded.etag : null,
   };
   store.stats.misses++;
-  if (loaded.noStore) return saved.body;
+  if (loaded.noStore && !store.storeNoStore) return saved.body;
   store.memory.set(key, saved);
   await writeEntry(store, key, saved);
   return saved.body;
@@ -205,7 +225,9 @@ export function cachedText(url, opts, load) {
   if (!store) return plain(url, opts, load);
   const method = String(opts.method || 'GET').toUpperCase();
   const body = bodyText(opts.body);
-  if (body === null || (method !== 'GET' && method !== 'POST')) return plain(url, opts, load);
+  if (body === null || (method !== 'GET' && method !== 'POST')) {
+    return store.cacheOnly ? Promise.reject(cacheOnlyMiss(store)) : plain(url, opts, load);
+  }
   const key = cacheKey(method, url, opts, body);
   const pending = store.inflight.get(key);
   if (pending) {

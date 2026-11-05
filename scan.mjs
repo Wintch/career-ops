@@ -4922,17 +4922,23 @@ async function main() {
     await companyFetches();
   } else {
     const ttlMs = resolveHttpCacheTtlMs(process.env.CAREER_OPS_HTTP_CACHE_TTL_MS);
+    // A shared store (one fetcher fills it, several people's scans read it) lives
+    // outside any one person's data root; see docs/SHARED_FETCH.md.
+    const sharedDir = process.env.CAREER_OPS_HTTP_CACHE_DIR;
     await withHttpCache({
-      dir: path.join(DATA_ROOT, 'data', 'cache', 'http'),
+      dir: sharedDir ? path.resolve(sharedDir) : path.join(DATA_ROOT, 'data', 'cache', 'http'),
       ttlMs,
       write: !dryRun,
+      cacheOnly: process.env.CAREER_OPS_HTTP_CACHE_ONLY === '1',
+      storeNoStore: process.env.CAREER_OPS_HTTP_CACHE_STORE_NO_STORE === '1',
     }, async () => {
       await companyFetches();
       const stats = httpCacheStats();
-      if (!stats || (stats.hits === 0 && stats.revalidated === 0)) return;
+      if (!stats || (stats.hits === 0 && stats.revalidated === 0 && stats.absent === 0)) return;
       const parts = [];
       if (stats.hits > 0) parts.push(`reused ${stats.hits} board responses saved in the last ${formatHttpCacheWindow(ttlMs)}`);
       if (stats.revalidated > 0) parts.push(`rechecked ${stats.revalidated} older board responses`);
+      if (stats.absent > 0) parts.push(`${stats.absent} requests were not in the shared fetch store and were not made`);
       process.stderr.write(`scan: ${parts.join(', and ')}. Set CAREER_OPS_HTTP_CACHE=0 to always download.\n`);
     });
   }

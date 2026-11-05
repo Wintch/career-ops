@@ -1,0 +1,99 @@
+import { test } from 'node:test';
+import assert from 'node:assert/strict';
+import { mkdtempSync, writeFileSync, readFileSync, rmSync } from 'node:fs';
+import { tmpdir } from 'node:os';
+import { join, dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { execFileSync, spawnSync } from 'node:child_process';
+import { describeSpawn, exitedNonZero } from './helpers/describe-spawn.mjs';
+import { mergeEntries, mergeNavent, unionPortals } from '../union-portals.mjs';
+import { loadYaml } from '../lib/yaml-document.mjs';
+
+const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
+const SCRIPT = join(ROOT, 'union-portals.mjs');
+
+test('the same board named differently by two people is one request', () => {
+  const out = mergeEntries([
+    { name: 'Acme', careers_url: 'https://jobs.lever.co/acme', notes: 'mine', tags: { regions: ['ar'] }, enabled: true },
+    { name: 'ACME Inc', enabled: true, careers_url: 'https://jobs.lever.co/acme', api: undefined },
+  ]);
+  assert.equal(out.length, 1);
+  assert.equal(out[0].name, 'Acme');
+  assert.equal(out[0].notes, undefined, 'notes never travel into the union');
+  assert.equal(out[0].tags, undefined);
+});
+
+test('disabled, websearch and agent-only entries are left out', () => {
+  const out = mergeEntries([
+    { name: 'Off', careers_url: 'https://a.example', enabled: false },
+    { name: 'Web', careers_url: 'https://b.example', scan_method: 'websearch', scan_query: 'x', enabled: true },
+    { name: 'On', careers_url: 'https://c.example' },
+  ]);
+  assert.deepEqual(out.map((e) => e.name), ['On']);
+});
+
+test('entries that differ only in keywords merge, and searchKeywords split again at 8', () => {
+  const kw = (n, from) => Array.from({ length: n }, (_, i) => `word${from + i}`);
+  const out = mergeEntries([
+    { name: 'Computrabajo — AR (1/2)', careers_url: 'https://ar.computrabajo.com/', searchKeywords: kw(8, 0), max_pages: 6, enabled: true },
+    { name: 'Computrabajo — AR (2/2)', careers_url: 'https://ar.computrabajo.com/', searchKeywords: [...kw(4, 6), 'WORD0'], max_pages: 3, enabled: true },
+  ]);
+  assert.equal(out.length, 2);
+  assert.deepEqual(out.map((e) => e.name), ['Computrabajo — AR (1/2)', 'Computrabajo — AR (2/2)']);
+  assert.ok(out.every((e) => e.searchKeywords.length <= 8));
+  assert.equal(out.flatMap((e) => e.searchKeywords).length, 10, 'word0 not repeated, case-insensitively');
+  assert.ok(out.every((e) => e.max_pages === 6), 'the larger page cap wins');
+});
+
+test('entries that differ in what they ask for stay separate', () => {
+  const out = mergeEntries([
+    { name: 'A', careers_url: 'https://x.example', provider: 'greenhouse', enabled: true },
+    { name: 'B', careers_url: 'https://x.example', provider: 'lever', enabled: true },
+  ]);
+  assert.equal(out.length, 2);
+});
+
+test('navent searches merge per site', () => {
+  const out = mergeNavent([
+    [{ site: 'bumeran', keywords: ['devops'], max_pages: 2 }],
+    [{ site: 'bumeran', keywords: ['DevOps', 'sre'], max_pages: 1 }, { site: 'zonajobs', keywords: ['qa'] }],
+    undefined,
+  ]);
+  assert.deepEqual(out, [
+    { site: 'bumeran', keywords: ['devops', 'sre'], max_pages: 2 },
+    { site: 'zonajobs', keywords: ['qa'], max_pages: 1 },
+  ]);
+});
+
+test('title filter: union of positives (prefix-insensitive), negatives only what everyone rejects', () => {
+  const out = unionPortals([
+    { title_filter: { positive: ['DevOps', 'word:Colorist'], negative: ['Junior', 'Intern'] } },
+    { title_filter: { positive: ['devops', 'Graphic Designer', 'Colorist'], negative: ['junior'] } },
+  ]);
+  assert.deepEqual(out.title_filter.positive, ['DevOps', 'word:Colorist', 'Graphic Designer']);
+  assert.deepEqual(out.title_filter.negative, ['Junior']);
+});
+
+test('CLI: summary without --out writes nothing; --out writes a file that loads', () => {
+  const dir = mkdtempSync(join(tmpdir(), 'union-portals-'));
+  try {
+    const a = join(dir, 'a.yml'); const b = join(dir, 'b.yml'); const out = join(dir, 'union.yml');
+    writeFileSync(a, 'title_filter:\n  positive: [x]\n  negative: []\ntracked_companies:\n  - name: One\n    careers_url: https://jobs.lever.co/one\n    enabled: true\n');
+    writeFileSync(b, 'title_filter:\n  positive: [y]\n  negative: []\ntracked_companies:\n  - name: One again\n    careers_url: https://jobs.lever.co/one\n  - name: Two\n    careers_url: https://jobs.lever.co/two\n');
+    const dry = JSON.parse(execFileSync('node', [SCRIPT, '--from', `${a},${b}`], { encoding: 'utf8' }));
+    assert.equal(dry.written, false);
+    assert.equal(dry.trackedIn, 3);
+    assert.equal(dry.trackedOut, 2);
+    const real = JSON.parse(execFileSync('node', [SCRIPT, '--from', `${a},${b}`, '--out', out], { encoding: 'utf8' }));
+    assert.equal(real.written, true);
+    const doc = loadYaml(readFileSync(out, 'utf8'));
+    assert.deepEqual(doc.tracked_companies.map((e) => e.careers_url), ['https://jobs.lever.co/one', 'https://jobs.lever.co/two']);
+    assert.match(readFileSync(out, 'utf8'), /^# Generated by union-portals\.mjs/);
+    const noFrom = spawnSync('node', [SCRIPT], { encoding: 'utf8' });
+    assert.ok(exitedNonZero(noFrom), describeSpawn(noFrom, '--from is required'));
+    const missing = spawnSync('node', [SCRIPT, '--from', join(dir, 'missing.yml')], { encoding: 'utf8' });
+    assert.ok(exitedNonZero(missing), describeSpawn(missing, 'a missing file must be refused'));
+  } finally {
+    rmSync(dir, { recursive: true, force: true });
+  }
+});
