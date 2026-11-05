@@ -366,3 +366,33 @@ Searched for the board of each employer below. None could be added; recheck ever
 | Belo, Ripio, Buenbit, Zemoga, Intraway, Nubi, Digital House, Technisys, Clarín, OLX | No supported ATS found, or the board that `discover-ats.mjs` matched lists 0 postings and is probably another company's tenant. |
 
 Added the same day, with the reason in each entry's `notes`: Globant (the legacy jobs2web host, partial coverage), Santander Tecnologia (Workday), Banco Galicia (SuccessFactors RMK) and Making Sense (HiringRoom `/portal/jobs`).
+
+## Where things stand (2026-11-05)
+
+Built and pushed to `fork/integration` (suite 20783 passing, 0 failing):
+
+| Piece | Where | Note |
+| --- | --- | --- |
+| Tagged employer catalog | `templates/portals.example.yml` | 288 entries carry `tags: {regions, sectors, remote}`; Brazil has only 7, so the next country is mostly loading employers |
+| Employer and role selection | `select-portals.mjs`, `templates/role-families.yml` | additive by default, never deletes, keeps a `.bak`; 13 role families, English and Spanish |
+| Run timings | `scheduled-chain.mjs` writes `data/run-timings.tsv` | one row per chain run; the 2026-11-05 baseline is seeded |
+| Shared fetch store | `providers/_http-cache.mjs`, `scan.mjs`, `union-portals.mjs` | `CAREER_OPS_HTTP_CACHE_DIR`, `_ONLY`, `_STORE_NO_STORE`; contract in `docs/SHARED_FETCH.md` |
+| Postings pool | `lib/postings-pool.mjs`, `scan-ats-full.mjs --pool`, `pool-derive.mjs` | records what a sweep reads before any filter; a person's list in 0.2 s |
+
+Measured on 2026-11-05: the daily check took 2 h 59 min, of which `scan-ats-full` was 2 h 37 min (88 percent);
+`scan.mjs` 13 min, of which NVIDIA's Workday board was 559 of 1012 requests because Workday sends `no-store`;
+a reader scan against the shared store made 0 requests and returned the same result as the fetcher.
+
+Open, in order:
+
+1. **A full `scan-ats-full.mjs --pool` run** to validate the pool's real size and time. About 2 h 37 min at the
+   default DNS cap; see `docs/SHARED_FETCH.md` for what a higher cap does and does not buy.
+2. **Check the resolver chain** before raising the cap on any machine (encrypted DNS and plain fallbacks).
+3. **The `no-store` decision** for the shared fetcher, and the egress rule for readers (both in `docs/SHARED_FETCH.md`).
+4. **bridgeai side:** call `select-portals.mjs` and `union-portals.mjs` from the person setup, mount the store read-only,
+   and give the pool to `pool-derive.mjs`. Nothing in that repo changed yet.
+5. **Not measured yet:** a cold full `scan.mjs` (hot-cache runs only), and the CV build step by step.
+6. **Ideas not started:** adaptive scan frequency per board from its hit rate, a per-query cache for Bumeran,
+   a shared cache of public job text and liveness by URL, search queries generated from the role families,
+   pruning for the pool, and more Brazilian employers.
+

@@ -144,10 +144,38 @@ known key so that it is never reported as new again.
 ### The sweep's DNS pace
 
 The sweep caps resolver lookups at 400 a minute (`CAREER_OPS_DNS_LOOKUPS_PER_MIN`), to protect a home
-resolver (a Pi-hole breaks at 1000). iCIMS, BambooHR and Workday give each employer its own host, so most
-of the 55,000 boards cost a lookup each, and on 2026-11-05 the sweep took 2 h 37 min. On a 458-board
-BambooHR slice, 400 a minute took 67 s and no cap took 16 s (4.2 times faster). Raise it only after
-checking that the machine's resolver can take the rate; `0` disables the cap.
+resolver (a Pi-hole breaks at 1000). iCIMS, BambooHR and Workday give each employer its own host, so those
+boards cost a lookup each. On 2026-11-05 the whole sweep took 2 h 37 min. Measured on slices, dry run:
+
+| Slice | Cap 400 | Cap 1500 | No cap |
+| --- | --- | --- | --- |
+| BambooHR, 458 boards | 67 s | 19 s (3.6 times faster) | 16 s |
+| iCIMS, 177 boards | 58 s | 47 s (1.2 times) | not run |
+| Workday, 124 boards | 308 s | 308 s (no change) | not run |
+
+So the cap matters for BambooHR and little for the rest: iCIMS is held back by dead boards and per-posting
+date lookups, Workday by paging each tenant. Extrapolating the slice rates to the full lists, a higher cap
+saves roughly 35 to 40 minutes of the 157, not the hour and a half it first looked like. A first estimate that
+the sweep would drop under an hour was wrong and is withdrawn.
+
+How much a machine's resolver takes (distinct host names, no failures counted as passes):
+
+| Lookups a minute | Median latency | 95th percentile |
+| --- | --- | --- |
+| 423 | 10 ms | 185 ms |
+| 1492 | 58 ms | 242 ms |
+| 2497 | 1.8 s | 4.3 s |
+| about 2000 at a 7200 target | 8.5 s | 16 s |
+
+On the machine measured, about 1500 a minute is comfortable and 2500 saturates. Past that, queries wait for the
+resolver's timeout, and a system resolver that lists fallback servers then tries them.
+
+**Encrypted DNS.** If the machine resolves through an encrypting stub (DNS over HTTPS, for example
+dnscrypt-proxy), check that `/etc/resolv.conf` lists only the stub. Extra plain-text fallback servers, such as
+the router or a public resolver on port 53, are used whenever the stub times out or answers with an error, which a
+raised cap makes more likely. Remove them (NetworkManager: ignore the automatic DNS and set the stub as the only
+server) or block plain port 53 to anything but loopback. A shared fetcher on a VM needs the same check for the
+VM and for its containers, which inherit the host's resolver list.
 
 ## Pairing with the rest
 
