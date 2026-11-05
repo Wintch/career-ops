@@ -102,6 +102,53 @@ so the store stays about that size; a request nobody makes any more is pruned af
 fetcher run. Nothing in the store names a person or what a person searched for: a key is a hash of
 method, URL and body.
 
+## The postings pool: recycle the full sweep
+
+`scan-ats-full.mjs` reads about 55,000 boards and keeps only what one person's title filter wants, so
+its hours serve one person. With `--pool <dir>` (or `CAREER_OPS_POOL_DIR`) it also records every posting
+it reads, before any filter, and `pool-derive.mjs` builds any person's list from that record.
+
+```bash
+# once per machine, by the fetcher
+CAREER_OPS_POOL_DIR=/shared/pool node scan-ats-full.mjs --since 3
+
+# per person, no network
+CAREER_OPS_POOL_DIR=/shared/pool node pool-derive.mjs --summary
+```
+
+The pool is an append-only TSV (`postings.tsv`): a posting is written once, the first time its key is
+seen, with that day as `first_seen`. Later sweeps add only what is new, so a day's growth is small after
+the first one. That also gives undated postings (iCIMS, BambooHR, some Workday tenants) a date of our
+own; a sweep on its own drops them (372,488 on 2026-11-05).
+
+What `pool-derive.mjs` considers news: a posting dated inside the window, or an undated one first seen
+inside it. It applies the person's title filter (with overrides), location filter, blacklist and scan
+history. It does **not** apply `content_filter` or `domain_filter`: the pool keeps no posting body and no
+board context, so a person who relies on either gets more candidates than a sweep of their own would.
+
+Measured on a 450-board slice: the sweep wrote 998 postings, and for two ATS that date their listings
+(Ashby, Lever) the derived list matched the sweep's own matches exactly, salary included; a person with
+an empty history got their list in 0.2 s.
+
+**The first sweep of a board is its baseline.** BambooHR and iCIMS list pages carry no date, and the
+sweep only asks for one per posting that passes the filter. In the pool those postings are undated, and
+on the first sweep of a board they are marked `baseline` and not reported as news (otherwise one sweep
+would report every posting a board has ever listed). From the next sweep, a new undated posting counts
+by its `first_seen`. Cost: an undated posting that was already open the first time its board was seen is
+reported only to whoever ran the sweep, not to people deriving from the pool.
+
+**Size.** About 250 bytes per posting; the first sweep writes a few hundred thousand rows and each later
+one adds only what is new. Nothing is pruned yet, so the file grows; a posting that has closed stays as a
+known key so that it is never reported as new again.
+
+### The sweep's DNS pace
+
+The sweep caps resolver lookups at 400 a minute (`CAREER_OPS_DNS_LOOKUPS_PER_MIN`), to protect a home
+resolver (a Pi-hole breaks at 1000). iCIMS, BambooHR and Workday give each employer its own host, so most
+of the 55,000 boards cost a lookup each, and on 2026-11-05 the sweep took 2 h 37 min. On a 458-board
+BambooHR slice, 400 a minute took 67 s and no cap took 16 s (4.2 times faster). Raise it only after
+checking that the machine's resolver can take the rate; `0` disables the cap.
+
 ## Pairing with the rest
 
 - `select-portals.mjs --regions ... --sectors ... --roles ...` decides what a person's file

@@ -35,6 +35,10 @@ site once and keeps the responses, and scans that only parse them (`CAREER_OPS_H
 and takes seconds. Workday's `no-store` is why the biggest board costs 559 requests per person
 without it; keeping it is the operator's call.
 
+Postings pool (2026-11-05): `scan-ats-full.mjs --pool <dir>` records every posting a sweep reads and
+`pool-derive.mjs` builds a person's list from it without the network (`docs/SHARED_FETCH.md`). The
+sweep's 2 h 37 min is mostly the DNS cap of 400 lookups a minute; 4.2 times faster without it on a slice.
+
 Rule for adding an employer: it has local hiring, or at least one open posting that
 names the candidate's country, its region or "worldwide remote". The evidence goes in
 the entry's `notes`. A board that only lists US or EU roles is left out, because

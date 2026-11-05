@@ -78,6 +78,7 @@ import { printScanSummaryHeader } from './lib/scan-summary-marker.mjs';
 import { SEED_SOURCES, toPortalEntry } from './seeds/vc-portfolios.mjs';
 import { validateFlags, flagValue, hasFlag } from './lib/cli-flags.mjs';
 import { isMainModule } from './lib/is-main-module.mjs';
+import { openPool } from './lib/postings-pool.mjs';
 import { boardKey, loadDeadBoards, recordBoardFailure, recordBoardResult, saveDeadBoards, shouldSkipDeadBoard } from './dead-boards.mjs';
 import { getCareerOpsRoot } from './path-resolver.mjs';
 import { barePrefixDomainKeywords, buildDomainFilter } from './title-keywords.mjs';
@@ -444,13 +445,13 @@ export const SOURCES = {
 
 const KNOWN_FLAGS = [
   '--since', '--limit', '--ats', '--seeds', '--hiring-only', '--history-seeds', '--probe-unknown-hosts', '--dry-run', '--liveness',
-  '--verbose', '--md-out', '--json', '--include-undated', '--include-blacklisted',
+  '--verbose', '--md-out', '--pool', '--json', '--include-undated', '--include-blacklisted',
   '--shuffle', '--resume', '--help', '-h',
 ];
 
 // Flags that consume the next argv token as a value (space-separated form —
 // the `--flag=value` form is self-contained and never needs this).
-const VALUE_FLAGS = ['--since', '--limit', '--ats', '--seeds', '--md-out'];
+const VALUE_FLAGS = ['--since', '--limit', '--ats', '--seeds', '--md-out', '--pool'];
 
 const USAGE = `Usage:
   node scan-ats-full.mjs                      # scan all ATS directories, last 3 days
@@ -466,6 +467,7 @@ const USAGE = `Usage:
   node scan-ats-full.mjs --include-blacklisted # audit: let data/blacklist.md matches through, annotated
   node scan-ats-full.mjs --verbose            # log per-board fetch failures
   node scan-ats-full.mjs --md-out <dir>       # also write a dated markdown digest to <dir>
+  node scan-ats-full.mjs --pool <dir>         # also record every posting read in <dir> (CAREER_OPS_POOL_DIR), for pool-derive.mjs
   node scan-ats-full.mjs --resume             # continue an interrupted sweep from its checkpoint
   node scan-ats-full.mjs --help               # print this usage block and exit`;
 
@@ -571,6 +573,7 @@ export function parseArgs(argv) {
     liveness: args.includes('--liveness'),
     verbose: args.includes('--verbose'),
     mdOut: valueOf('--md-out'),
+    pool: valueOf('--pool') || process.env.CAREER_OPS_POOL_DIR || null,
     json: args.includes('--json'),
     includeUndated: args.includes('--include-undated'),
     includeBlacklisted: args.includes('--include-blacklisted'),
@@ -1421,6 +1424,13 @@ async function main() {
   // recheck window against using the local day (#3070). Stamping it in UTC put
   // the two sides of that comparison on different clocks.
   const date = localToday();
+  // Opt-in (--pool / CAREER_OPS_POOL_DIR): every posting read is also written to a
+  // shared pool BEFORE the title, location or domain filter drops it, so other
+  // people's lists can be built from this one sweep (lib/postings-pool.mjs).
+  // A dry run keeps its promise of leaving no trace.
+  const pool = opts.pool && !opts.dryRun
+    ? openPool(path.resolve(opts.pool), { today: date, keyOf: (job, source) => dedupTokenFor(job, providerForSource(source)) })
+    : null;
 
   // Same defensive default as completedSources/counters below: a version-1
   // checkpoint that lost its offers array would otherwise set this to undefined
@@ -1680,6 +1690,7 @@ async function main() {
           if (typeof source.provider.fetchListing === 'function') {
             const listing = await source.provider.fetchListing(entry, sourceCtx);
             if (!listingMayMatch(listing, { cutoff, titleFilter, companySlug: entry.name })) {
+              pool?.addAll(name, entry.name, listing, cutoff);
               if (!opts.includeUndated) droppedNoDate += undatedInListing(listing, cutoff);
               recordBoardResult(deadBoards, name, deadBoard, 200);
               consecutiveResolverFailures = 0;
@@ -1687,6 +1698,9 @@ async function main() {
             }
           }
           const jobs = await source.provider.fetch(entry, sourceCtx);
+          // Before the domain gate and processJobs: the pool is what the sweep SAW,
+          // not what this person's filters kept.
+          pool?.addAll(name, entry.name, jobs, cutoff);
           recordBoardResult(deadBoards, name, deadBoard, 200);
           consecutiveResolverFailures = 0;
           // Queued BEFORE the gate, deliberately: a board the gate cannot yet
@@ -1753,6 +1767,9 @@ async function main() {
         progress(`  ${done}/${entries.length} scanned, ${newOffers.length} total matches\r`);
       }
       if (done % CHECKPOINT_EVERY === 0 && !opts.dryRun) {
+        // Same moment as the checkpoint, so a resume never replays a board whose
+        // postings were still only in memory.
+        try { pool?.flush(); } catch { /* the pool is a by-product; never fail the sweep over it */ }
         saveDeadBoardsBestEffort(deadBoards);
         // So a sweep that dies later keeps the ids it resolved so far.
         void saveProviderIdCacheBestEffort(idCaches);
@@ -1792,6 +1809,7 @@ async function main() {
           await boardScope(source, `${name}/${entry.name} (retry)`, COMPANY_TIMEOUT_MS, async (signal) => {
             retrySignal = signal;
             const jobs = await source.provider.fetch(entry, sourceCtx);
+            pool?.addAll(name, entry.name, jobs, cutoff);
             recordBoardResult(deadBoards, name, boardKey(entry), 200);
             // Where a board deferred by the parallel sweep is actually decided.
             // A board the sweep already admitted is never gated here, and one
@@ -1834,6 +1852,7 @@ async function main() {
     }
     totalErrors += errors;
     totalRetiredBoardsSkipped += deadBoardsSkipped;
+    try { pool?.flush(); } catch { /* by-product, see above */ }
     if (!opts.dryRun) {
       saveDeadBoardsBestEffort(deadBoards);
       await saveProviderIdCacheBestEffort(idCaches);
@@ -1939,6 +1958,10 @@ async function main() {
       ? ` (incl. ${noDateSkipJobs} from ${noDateSkipCompanies} workday companies with no postedOn)`
       : '';
     log(`Undated dropped: ${droppedNoDate}${breakdown}${opts.includeUndated ? '' : '. Use --include-undated to keep'}`);
+  }
+  if (pool) {
+    try { pool.flush(); } catch { /* by-product, see above */ }
+    log(`Pool:               +${pool.stats.added} new postings (${pool.stats.baseline} from boards seen for the first time), ${pool.stats.known} already known, ${pool.size()} in the pool`);
   }
   if (blacklist.size > 0) {
     if (opts.includeBlacklisted) {
