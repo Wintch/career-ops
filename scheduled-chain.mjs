@@ -25,13 +25,17 @@
 // {"status":"busy"} and exits 0: that is a skipped run, not a failure. scan.mjs
 // still takes the pipeline lock itself, so an interactive edit is safe either way.
 //
+// Every real run also appends one row to data/run-timings.tsv (see TIMINGS_HEADER):
+// seconds per step plus how many companies the scan covered and how many postings it
+// read. A schedule suggestion should come from these rows, not from a guess.
+//
 // Exit code: 2 only when every network step that ran failed (a total outage:
 // scan.mjs exits 2 when no target could be read). One failed step among working
 // ones exits 0 and shows `ok: false` on that step. check-liveness.mjs exiting 1
 // means it found expired or uncertain postings, which is a result, not a failure.
 
 import { spawn } from 'node:child_process';
-import { existsSync, readFileSync } from 'node:fs';
+import { appendFileSync, existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { getCareerOpsRoot } from './path-resolver.mjs';
@@ -129,6 +133,51 @@ export function parseLivenessExpired(stdout) {
     out.push({ label: m[1].trim(), url: m[2], reason: /^\s{4,}\S/.test(next) ? next.trim() : '' });
   }
   return out;
+}
+
+export const TIMINGS_HEADER = 'started_at\tstatus\ttotal_s\tscan_s\tnavent_s\tliveness_s\tclosing_s\tcompanies\tfound\tnew_added\tpending_inbox\tfailed_steps\n';
+
+/**
+ * The last data row of scan-runs.tsv as {column: value}, or null when there is
+ * none or it is older than `sinceIso` (the scan crashed before writing a row).
+ * @param {string} text
+ * @param {string} [sinceIso]
+ */
+export function lastScanRunRow(text, sinceIso) {
+  const rows = typeof text === 'string' ? text.split('\n').filter((l) => l.trim()) : [];
+  if (rows.length < 2) return null;
+  const head = rows[0].split('\t');
+  const cells = rows[rows.length - 1].split('\t');
+  const row = Object.fromEntries(head.map((h, i) => [h, cells[i]]));
+  if (sinceIso && !(row.timestamp >= sinceIso)) return null;
+  return row;
+}
+
+/**
+ * One run-timings.tsv line (no trailing newline). Seconds are blank for a step
+ * that did not run, so "skipped" and "took 0 s" stay different.
+ * @param {{startedAt: string, finishedAt: string, status: string, steps: Array<{name: string, ok: boolean, seconds: number}>, newAddedTotal: number, pendingInbox: number}} summary
+ * @param {Record<string, string> | null} scanRow
+ */
+export function buildTimingRow(summary, scanRow) {
+  const secs = (name) => {
+    const st = summary.steps.find((x) => x.name === name);
+    return st ? String(st.seconds) : '';
+  };
+  const total = Math.max(0, Math.round((Date.parse(summary.finishedAt) - Date.parse(summary.startedAt)) / 100) / 10);
+  const failed = summary.steps.filter((x) => !x.ok).map((x) => x.name).join(',');
+  return [
+    summary.startedAt, summary.status, String(Number.isFinite(total) ? total : ''),
+    secs('scan'), secs('navent'), secs('liveness'), secs('closing'),
+    scanRow?.companies ?? '', scanRow?.found ?? '', String(summary.newAddedTotal), String(summary.pendingInbox), failed,
+  ].join('\t');
+}
+
+/** @param {string} filePath @param {string} row */
+export function appendTimingRow(filePath, row) {
+  mkdirSync(dirname(filePath), { recursive: true });
+  if (!existsSync(filePath)) writeFileSync(filePath, TIMINGS_HEADER, 'utf8');
+  appendFileSync(filePath, `${row}\n`, 'utf8');
 }
 
 /** @param {string} text */
@@ -268,6 +317,13 @@ async function main() {
     summary = await runChain({ root, pipelinePath: process.env.CAREER_OPS_PIPELINE, ...opts });
   } finally {
     releaseOrWarn(lock);
+  }
+  try {
+    const runsPath = join(root, 'data', 'scan-runs.tsv');
+    const scanRow = lastScanRunRow(existsSync(runsPath) ? readFileSync(runsPath, 'utf8') : '', summary.startedAt);
+    appendTimingRow(join(root, 'data', 'run-timings.tsv'), buildTimingRow(summary, scanRow));
+  } catch (err) {
+    console.error(`scheduled-chain: could not record timings: ${err.message}`);
   }
   console.log(JSON.stringify(summary, null, 2));
   if (summary.status === 'outage') process.exitCode = 2;

@@ -12,7 +12,8 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
 const ROOT = dirname(dirname(fileURLToPath(import.meta.url)));
-const { parseArgs, planSteps, countPending, newAddedFromScanRuns, parseNaventNew, parseLivenessExpired, runChain } =
+const { parseArgs, planSteps, countPending, newAddedFromScanRuns, parseNaventNew, parseLivenessExpired, runChain,
+  lastScanRunRow, buildTimingRow, appendTimingRow, TIMINGS_HEADER } =
   await import(pathToFileURL(join(ROOT, 'scheduled-chain.mjs')).href);
 const { tryAcquireDirLockSync, releaseOrWarn } = await import(pathToFileURL(join(ROOT, 'lib/dir-lock.mjs')).href);
 
@@ -151,6 +152,54 @@ test('the CLI prints {"status":"busy"} and exits 0 when another run holds the lo
     assert.ok(existsSync(join(root, 'data', '.scheduled-chain.lock')), 'a busy run must not remove the holder\'s lock');
   } finally {
     releaseOrWarn(lock);
+    rmSync(root, { recursive: true, force: true });
+  }
+});
+
+test('lastScanRunRow returns the newest row only when this run wrote it', () => {
+  const text = `${RUNS_HEADER}2026-11-01T00:00:00Z\tcompleted\t10\t2\t500\t400\t0\t7\t0\n2026-11-05T12:00:00Z\tcompleted\t215\t32\t37000\t34000\t9\t59\t1\n`;
+  const row = lastScanRunRow(text, '2026-11-05T11:00:00Z');
+  assert.equal(row.companies, '215');
+  assert.equal(row.found, '37000');
+  assert.equal(lastScanRunRow(text, '2026-11-05T13:00:00Z'), null, 'a row older than the run is not this run');
+  assert.equal(lastScanRunRow(RUNS_HEADER), null);
+  assert.equal(lastScanRunRow(undefined), null);
+});
+
+test('buildTimingRow lines up with the header and keeps a skipped step blank, not zero', () => {
+  const summary = {
+    status: 'ok', startedAt: '2026-11-05T10:00:00.000Z', finishedAt: '2026-11-05T10:22:00.000Z',
+    steps: [
+      { name: 'scan', ok: true, seconds: 767.8 },
+      { name: 'liveness', ok: false, seconds: 334.8 },
+      { name: 'closing', ok: true, seconds: 0.1 },
+    ],
+    newAddedTotal: 60, pendingInbox: 60,
+  };
+  const cells = buildTimingRow(summary, { companies: '215', found: '37422' }).split('\t');
+  const cols = TIMINGS_HEADER.trim().split('\t');
+  assert.equal(cells.length, cols.length);
+  const at = Object.fromEntries(cols.map((c, i) => [c, cells[i]]));
+  assert.equal(at.total_s, '1320');
+  assert.equal(at.scan_s, '767.8');
+  assert.equal(at.navent_s, '', 'navent did not run');
+  assert.equal(at.liveness_s, '334.8');
+  assert.equal(at.companies, '215');
+  assert.equal(at.failed_steps, 'liveness');
+  assert.equal(buildTimingRow(summary, null).split('\t')[7], '', 'no scan row, no company count');
+});
+
+test('appendTimingRow writes the header once and appends', () => {
+  const root = tempRoot();
+  try {
+    const file = join(root, 'data', 'run-timings.tsv');
+    appendTimingRow(file, 'a\tb');
+    appendTimingRow(file, 'c\td');
+    const lines = readFileSync(file, 'utf8').split('\n').filter(Boolean);
+    assert.equal(lines.length, 3);
+    assert.equal(lines[0] + '\n', TIMINGS_HEADER);
+    assert.deepEqual(lines.slice(1), ['a\tb', 'c\td']);
+  } finally {
     rmSync(root, { recursive: true, force: true });
   }
 });
