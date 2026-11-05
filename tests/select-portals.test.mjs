@@ -5,7 +5,8 @@ import { tmpdir } from 'node:os';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { execFileSync, spawnSync } from 'node:child_process';
-import { parseCompanyBlocks, matches, plan, applyPlan, listTags } from '../select-portals.mjs';
+import { parseCompanyBlocks, matches, plan, applyPlan, listTags, loadRoleFamilies, mergeTitlePositives } from '../select-portals.mjs';
+import { buildTitleFilter } from '../scan.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const SCRIPT = join(ROOT, 'select-portals.mjs');
@@ -200,4 +201,94 @@ test('the shipped catalog is fully tagged and parses', () => {
   const t = listTags(text);
   assert.equal(t.untagged, 0, 'every tracked company in the example catalog carries tags');
   assert.ok(t.regions.latam > 0 && t.sectors.tech > 0);
+});
+
+const FILTER_BLOCK = `title_filter:
+  # comment before the list
+  positive:
+    - "DevOps"
+    - word:Colorist
+    # a comment between items
+    - 'SRE'
+
+  negative:
+    - "Junior"
+location_filter:
+  allow: ["Argentina"]
+`;
+
+test('mergeTitlePositives appends to a block list after its last item and keeps everything else', () => {
+  const r = mergeTitlePositives(FILTER_BLOCK, ['Graphic Designer', 'colorist', 'sre', 'Video Editor']);
+  assert.deepEqual(r.added, ['Graphic Designer', 'Video Editor']);
+  assert.deepEqual(r.skipped, ['colorist', 'sre'], 'compared without word:, ignoring case');
+  const lines = r.text.split('\n');
+  const at = lines.indexOf("    - 'SRE'");
+  assert.equal(lines[at + 1], '    - "Graphic Designer"');
+  assert.equal(lines[at + 2], '    - "Video Editor"');
+  assert.equal(lines[at + 3], '');
+  assert.equal(lines[at + 4], '  negative:');
+  assert.ok(r.text.includes('    # a comment between items\n'));
+  assert.ok(r.text.endsWith('location_filter:\n  allow: ["Argentina"]\n'));
+});
+
+test('mergeTitlePositives handles a one-line flow list and refuses a multi-line one', () => {
+  const flow = 'title_filter:\n  positive: ["DevOps", SRE]   # mine\n  negative: []\n';
+  const r = mergeTitlePositives(flow, ['Linux', 'devops']);
+  assert.deepEqual(r.added, ['Linux']);
+  assert.match(r.text, /^  positive: \["DevOps", SRE, "Linux"\]\s+# mine$/m);
+  const multi = 'title_filter:\n  positive: [\n    "a",\n  ]\n';
+  assert.throws(() => mergeTitlePositives(multi, ['x']), /multi-line flow list/);
+  assert.throws(() => mergeTitlePositives('other: 1\n', ['x']), /no title_filter/);
+  assert.throws(() => mergeTitlePositives('title_filter:\n  negative: []\n', ['x']), /no title_filter\.positive/);
+});
+
+test('mergeTitlePositives is idempotent and returns the same text when nothing is new', () => {
+  const once = mergeTitlePositives(FILTER_BLOCK, ['Graphic Designer']).text;
+  const again = mergeTitlePositives(once, ['Graphic Designer']);
+  assert.equal(again.text, once);
+  assert.deepEqual(again.added, []);
+});
+
+test('the shipped role families are well-formed and the scanner filter accepts their titles', () => {
+  const fams = loadRoleFamilies(readFileSync(join(ROOT, 'templates/role-families.yml'), 'utf8'));
+  const names = Object.keys(fams);
+  assert.ok(names.includes('sysadmin-devops') && names.includes('graphic-design'));
+  for (const [name, fam] of Object.entries(fams)) {
+    assert.ok(fam.label, `${name} needs a label`);
+    assert.ok(Array.isArray(fam.positive) && fam.positive.length > 0, `${name} needs keywords`);
+    const keys = fam.positive.map((k) => k.replace(/^(?:word|stem):/i, '').toLowerCase());
+    assert.equal(new Set(keys).size, keys.length, `${name} repeats a keyword`);
+  }
+  const filter = buildTitleFilter({ positive: Object.values(fams).flatMap((f) => f.positive), negative: ['Junior'] });
+  assert.equal(filter('Senior Graphic Designer'), true);
+  assert.equal(filter('Diseñador Gráfico Sr'), true);
+  assert.equal(filter('Administrador de Sistemas Linux'), true);
+  assert.equal(filter('Junior Graphic Designer'), false);
+  assert.equal(filter('Payroll Accountant'), false);
+});
+
+test('CLI: --roles alone edits only the title filter; unknown families are refused', () => {
+  const dir = mkdtempSync(join(tmpdir(), 'select-portals-roles-'));
+  try {
+    const into = join(dir, 'portals.yml');
+    writeFileSync(into, BASE.replace('positive: ["devops"]', 'positive:\n    - "devops"'));
+    const before = readFileSync(into, 'utf8');
+    const dry = JSON.parse(execFileSync('node', [SCRIPT, '--into', into, '--roles', 'graphic-design'], { encoding: 'utf8' }));
+    assert.equal(dry.written, false);
+    assert.equal(readFileSync(into, 'utf8'), before);
+    assert.ok(dry.titleKeywordsAdded.includes('Graphic Designer'));
+    assert.equal(dry.counts.catalog, 0, 'no employers were picked');
+    const real = JSON.parse(execFileSync('node', [SCRIPT, '--into', into, '--roles', 'graphic-design', '--write'], { encoding: 'utf8' }));
+    assert.equal(real.written, true);
+    const after = readFileSync(into, 'utf8');
+    assert.match(after, /- "Graphic Designer"/);
+    assert.ok(after.includes('name: Own Only Co   # hand added'), 'companies untouched');
+    const bad = spawnSync('node', [SCRIPT, '--into', into, '--roles', 'astronaut'], { encoding: 'utf8' });
+    assert.notEqual(bad.status, 0);
+    assert.match(bad.stderr, /unknown role family: astronaut/);
+    const half = spawnSync('node', [SCRIPT, '--into', into, '--regions', 'ar'], { encoding: 'utf8' });
+    assert.notEqual(half.status, 0, '--regions without --sectors is refused');
+  } finally {
+    rmSync(dir, { recursive: true, force: true });
+  }
 });

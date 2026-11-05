@@ -26,6 +26,8 @@ country and field into an additive edit of their own `portals.yml` (see `docs/SC
 A new employer needs its tags when it is added; `node select-portals.mjs --list-tags`
 shows the vocabulary in use, and a test fails if a catalog entry has none. Adding a country
 means adding employers tagged with its code (`br`, `mx`, ...) plus the group (`latam`).
+The roles a person keeps come from `templates/role-families.yml` (`select-portals.mjs --roles`),
+so a new kind of work needs a family there as well as employers tagged with its sector.
 
 Rule for adding an employer: it has local hiring, or at least one open posting that
 names the candidate's country, its region or "worldwide remote". The evidence goes in

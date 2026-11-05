@@ -290,11 +290,16 @@ node select-portals.mjs --list-tags                                        # the
 node select-portals.mjs --regions ar,latam --sectors tech --summary        # plan, writes nothing
 node select-portals.mjs --regions ar,latam --sectors tech --write          # apply to <data root>/portals.yml
 node select-portals.mjs --regions br --sectors media,games --remote worldwide,friendly --enable-existing --disable-others --write
+node select-portals.mjs --list-roles                                       # role families and their keyword counts
+node select-portals.mjs --regions ar,latam --sectors media --roles graphic-design,video-production --write
+node select-portals.mjs --roles sysadmin-devops                            # titles only, no employers
 ```
 
 A company is selected when its sectors meet `--sectors` and (its regions meet `--regions`, or its `remote` level is in `--remote`, default `latam,worldwide`). `friendly` means remote roles exist but each posting's country eligibility still has to be read, so it is opt-in. `regions: [global]` matches only through `remote`. Companies with no `tags` are never selected.
 
-The edit is text-level: comments, order and every line the person wrote stay put. By default it only **adds** selected companies that are missing (copied from the catalog, enabled). A company already in the file but switched off stays off, because the person may have done that on purpose; `--enable-existing` switches those on. `--disable-others` switches off catalog companies that do not match, which is how a person stops scanning a field that is not theirs. Companies the person added themselves are never touched and nothing is deleted. `--write` copies the file to `portals.yml.bak-<timestamp>` first and rerunning is a no-op. Zero network, zero LLM.
+The edit is text-level: comments, order and every line the person wrote stay put. By default it only **adds** selected companies that are missing (copied from the catalog, enabled). A company already in the file but switched off stays off, because the person may have done that on purpose; `--enable-existing` switches those on. `--disable-others` switches off catalog companies that do not match, which is how a person stops scanning a field that is not theirs. Companies the person added themselves are never touched and nothing is deleted. `--write` copies the file to `portals.yml.bak-<timestamp>` first and rerunning is a no-op. **Roles.** The roles a person keeps come from `title_filter`, not from the employers, so `--roles` appends a family's keywords (`templates/role-families.yml`: sysadmin-devops, ai-ml, graphic-design, ui-ux-design, video-production, games-dev, games-art, xr, qa-testing, it-support, security, data, software-dev; English and Spanish titles) to `title_filter.positive`. It only adds: a keyword already there (compared without its `word:` or `stem:` prefix, ignoring case) is skipped, and nothing in the filter is edited or removed. A multi-line flow list is refused rather than guessed at. `--regions` and `--sectors` go together; `--roles` works with or without them.
+
+Zero network, zero LLM.
 
 ## audit-portals
 

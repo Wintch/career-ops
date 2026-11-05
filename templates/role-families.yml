@@ -1,0 +1,218 @@
+# Role families: ready-made `title_filter.positive` keywords by kind of work.
+#
+# `select-portals.mjs --roles sysadmin-devops,ai-ml` appends these keywords to a
+# person's own `title_filter.positive` (never removes or edits an existing one).
+# The employers a person scans come from the catalog's `sectors` / `regions` tags;
+# the roles it keeps come from the title filter, so the two are chosen together.
+#
+# Matching follows `title_filter` in portals.yml: a plain entry is a
+# case-insensitive substring, a 2-3 letter entry (SRE, VR, QA) matches on word
+# boundaries, and `word:` demands a whole word at any length. Spanish titles are
+# listed next to the English ones because the same posting is often written either way.
+#
+# Keep a family to the titles that really name the work. A broad word (Engineer,
+# Developer, Analyst alone) floods the inbox, and every extra keyword is a title
+# the zero-token triage then has to throw away.
+
+families:
+  sysadmin-devops:
+    label: Systems administration, DevOps, SRE, cloud and platform
+    positive:
+      - DevOps
+      - SRE
+      - Site Reliability
+      - Platform Engineer
+      - Infrastructure Engineer
+      - Infrastructure Lead
+      - Systems Engineer
+      - System Administrator
+      - Sysadmin
+      - Linux
+      - Cloud Engineer
+      - Reliability Engineer
+      - Automation Engineer
+      - Observability
+      - Kubernetes
+      - word:NOC
+      - Administrador de Sistemas
+      - Administrador de Servidores
+      - Analista de Infraestructura
+      - Responsable de Sistemas
+      - Jefe de Sistemas
+      - Ingeniero DevOps
+      - Ingeniero de Infraestructura
+      - IT Manager
+
+  ai-ml:
+    label: AI, machine learning and LLM engineering
+    positive:
+      - AI Engineer
+      - Machine Learning
+      - ML Engineer
+      - MLOps
+      - LLM
+      - GenAI
+      - Generative AI
+      - AI Agent
+      - AI Infrastructure
+      - ML Platform
+      - AI Platform
+      - Evals
+      - Data Scientist
+      - Inteligencia Artificial
+      - word:IA
+      - IA Generativa
+      - Agentes
+      - Ingeniero de IA
+
+  graphic-design:
+    label: Graphic, brand and visual design
+    positive:
+      - Graphic Designer
+      - Visual Designer
+      - Brand Designer
+      - Art Director
+      - Motion Designer
+      - Illustrator
+      - Packaging Designer
+      - Diseñador Gráfico
+      - Diseñadora Gráfica
+      - Diseño Gráfico
+      - Diseñador Visual
+      - Director de Arte
+      - Ilustrador
+      - Ilustradora
+
+  ui-ux-design:
+    label: UI, UX and product design
+    positive:
+      - UX Designer
+      - UI Designer
+      - UX/UI
+      - Product Designer
+      - UX Researcher
+      - Interaction Designer
+      - Diseñador UX
+      - Diseñador UI
+      - Diseñador de Producto
+
+  video-production:
+    label: Video editing, color, motion graphics and broadcast
+    positive:
+      - Video Editor
+      - word:Colorist
+      - Motion Graphics
+      - Video Production
+      - Videographer
+      - Camera Operator
+      - Post Production
+      - Broadcast
+      - Streaming
+      - Editor de Video
+      - Colorista
+      - Camarógrafo
+      - Operador de Cámara
+      - Productor Audiovisual
+      - Técnico Audiovisual
+      - Posproducción
+
+  games-dev:
+    label: Game programming, tools and live operations
+    positive:
+      - Game Developer
+      - Game Engineer
+      - Gameplay
+      - Engine Programmer
+      - Unreal
+      - word:Unity
+      - Game Server
+      - Game Infrastructure
+      - Game Tools
+      - Tools Engineer
+      - Graphics Engineer
+      - Live Ops
+      - LiveOps
+      - Modding
+      - Desarrollador de Videojuegos
+
+  games-art:
+    label: Game art, animation and design
+    positive:
+      - Game Artist
+      - 3D Artist
+      - Technical Artist
+      - Concept Artist
+      - Character Artist
+      - Environment Artist
+      - Animator
+      - VFX Artist
+      - Level Designer
+      - Game Designer
+      - Artista 3D
+      - Animador
+
+  xr:
+    label: Virtual and augmented reality
+    positive:
+      - OpenXR
+      - VR
+      - XR
+      - AR/VR
+
+  qa-testing:
+    label: Quality assurance and test automation
+    positive:
+      - QA Engineer
+      - QA Analyst
+      - Quality Assurance
+      - Test Automation
+      - SDET
+      - Tester
+      - Analista QA
+      - Analista de Calidad
+
+  it-support:
+    label: IT support, help desk and technical support
+    positive:
+      - IT Support
+      - Help Desk
+      - Service Desk
+      - Technical Support Engineer
+      - Support Engineer
+      - Soporte Técnico
+      - Soporte IT
+      - Mesa de Ayuda
+
+  security:
+    label: Security engineering and operations
+    positive:
+      - Security Engineer
+      - SOC Analyst
+      - AppSec
+      - Penetration Tester
+      - Cloud Security
+      - DevSecOps
+      - Analista de Seguridad
+      - Seguridad Informática
+
+  data:
+    label: Data engineering and analytics
+    positive:
+      - Data Engineer
+      - Data Analyst
+      - Analytics Engineer
+      - BI Developer
+      - Analista de Datos
+      - Ingeniero de Datos
+
+  software-dev:
+    label: General software development
+    positive:
+      - Backend Engineer
+      - Frontend Engineer
+      - Full Stack
+      - Fullstack
+      - Software Engineer
+      - Desarrollador Backend
+      - Desarrollador Frontend
+      - Desarrollador Full Stack
