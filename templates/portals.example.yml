@@ -2513,6 +2513,7 @@ tracked_companies:
 
   # Polymer's public demo tenant. Disabled so copying this file does not scan it.
   - name: Aperture Labs
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://jobs.polymer.co/aperturelabs
     enabled: false
 
@@ -2831,6 +2832,7 @@ tracked_companies:
     enabled: true
 
   - name: ServiceNow
+    tags: {regions: [us], sectors: [ai, tech]}
     # Its SmartRecruiters Posting API host disallows crawlers in robots.txt;
     # the careers site's own sitemap is open to all agents and lists every
     # live job. Detail pages challenge non-browser clients, so titles come
@@ -2941,6 +2943,7 @@ tracked_companies:
     enabled: true
 
   - name: Productsup
+    tags: {regions: [dach], sectors: [tech]}
     careers_url: https://productsup.careers.hibob.com/jobs
     notes: "Berlin. Product content syndication SaaS."
     enabled: true
@@ -2988,11 +2991,13 @@ tracked_companies:
     enabled: true
 
   - name: Remote
+    tags: {regions: [global], sectors: [tech], remote: friendly}
     careers_url: https://apply.remote.com/jobs
     notes: "Fully remote. Employer-of-record / global HR platform. Each posting names its hiring regions (EMEA, NORAM, LATAM, APAC)."
     enabled: true
 
   - name: ALDI Nord
+    tags: {regions: [dach], sectors: [commerce, tech]}
     careers_url: https://www.aldi-nord.de/karriere/jobs.html
     aldi_nord:
       categories: ['10420', '19000']   # example: Tech & IT, Data Analytics & Research; omit for every category
@@ -3000,6 +3005,7 @@ tracked_companies:
     enabled: false
 
   - name: AMCS Group
+    tags: {regions: [eu], sectors: [tech]}
     careers_url: https://amcsgroup.hirehive.com/
     notes: "Limerick / Dublin / Berlin. Software for the waste, recycling and utilities industry."
     enabled: true
@@ -3401,6 +3407,7 @@ tracked_companies:
 
   # Trakstar Hire's public demo client. Disabled so copying this file does not scan the demo board.
   - name: Trakstar demo board
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://demoaccount.hire.trakstar.com
     enabled: false
 
@@ -4612,6 +4619,7 @@ tracked_companies:
 
   # -- Middle East & Pakistan --
   - name: Careem
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://jobs.careem.com/
     api: https://boards-api.greenhouse.io/v1/boards/careem/jobs
     notes: "Greenhouse. Technology and operations roles in Pakistan and the Middle East."
