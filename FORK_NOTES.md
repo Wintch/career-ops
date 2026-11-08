@@ -400,3 +400,11 @@ Open, in order:
    a shared cache of public job text and liveness by URL, search queries generated from the role families,
    pruning for the pool, and more Brazilian employers.
 
+
+## Upstream sync (2026-11-08)
+
+- Merged upstream `main` 946416b3 (134 commits past v1.39.0, no new release) through `sync/upstream-20261108`; backup branch `integration-pre-sync-20261108`. 11 conflicts, all resolved; `scan.mjs` keeps `title_filter_overrides` working through upstream's new `titleGate` (a test combining overrides with `rescue_title_misses` is still missing). Upstream's `hibob` provider replaced the fork's.
+- New fork provider `epam` (careers.epam.com search API, offset param is `from`, size capped at 50; 707 postings in 15 requests). Built under the rewritten rule 6 (#6691): careers.epam.com robots.txt still disallows `/api`, documented in `docs/SOURCE_INDEXING_LOG.md`.
+- Suite: 21732 passing, 1 failing: the aggregate "web pdf write-scope unit suites" run, where upstream's `web/tests/lib/stat-file-cache.test.mjs` ("a changed header alias table reparses…") or `pdf-render.test.mjs` fail under load; both pass when run alone, and both fail on pristine upstream in a worktree too.
+- Employers once listed as "no supported ATS link found" that are readable after all (checked 2026-11-08): Baufest (upstream `sitemap` provider on its Avature job sitemap, 15 postings; the avature provider still cannot parse `div.itemJob` cards, a candidate upstream fix), Ripio (Teamtailor), Agora (Rippling), Wowza and Telestream (Workable), OLX (Lever EU). Still unreadable: Akamai, Technisys, Synamedia (403), Vidyard (Kula), Ross Video, Lemon Cash, Brightcove, Vimeo, Haivision, Evertz, Daily, BairesDev, Pomelo, Belo, Buenbit, Nubi, Digital House, Clarín, Globo, Zemoga, Intraway, Naranja X.
+- Backlog changes: HiBob, GermanTechJobs (RSS) and a generic sitemap provider now ship upstream. ReliefWeb is the only API-key source worth asking for (free `appname`), deferred by the owner. Next builds: avature `div.itemJob` fix, Navent siblings (Laborum, Multitrabajos, Konzerta, Bumeran MX/PE) in `scan-navent.mjs`.
