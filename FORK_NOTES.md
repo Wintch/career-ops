@@ -319,7 +319,9 @@ upstream issue before any code.
 
 Stopped by this fork's own rules, recorded in "Evaluated, not supported": Catho and
 Trabajando (paid candidate tiers), BroadcastJobs.com and Youthall (`robots.txt`
-names Claude's crawler), EPAM (`robots.txt` disallows the paths a provider needs).
+names Claude's crawler). EPAM was on this list for its `robots.txt` too; upstream
+rewrote rule 6 on 2026-11-08 (`robots.txt` is no longer a gate), so EPAM now has a
+provider (`providers/epam.mjs`) and BroadcastJobs.com and Youthall can be revisited the same way.
 
 ### Needs an API key
 
@@ -339,7 +341,7 @@ EuropeLanguageJobs.
 
 ### Employers not covered by a supported ATS
 
-Globant (custom site), EPAM (`robots.txt`), BairesDev (Cloudflare
+Globant (custom site), BairesDev (Cloudflare
 challenge, even on `robots.txt`), Akamai (careers link not found), Synamedia
 (Darwinbox), and Brightcove, Vimeo, Wowza, Haivision, Daily, Agora, Vidyard, Evertz,
 Ross, Telestream and Globo (no supported ATS link found).
@@ -347,7 +349,9 @@ Ross, Telestream and Globo (no supported ATS link found).
 ### Disclosures
 
 - EPAM got two requests (`/api/jobs/v2/search/careers` and `/en/jobs?query=…`) before
-  its `robots.txt` was read; that file disallows both. Nothing more was sent.
+  its `robots.txt` was read; that file disallows both. Nothing more was sent. (Under
+  rule 6 as rewritten on 2026-11-08 that is no longer a stop; the `epam` provider reads
+  the same API.)
 - UK Find a job got one request with a browser User-Agent, only to show that its 503
   depends on the User-Agent. No content was read with it.
 
