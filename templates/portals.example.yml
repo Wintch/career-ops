@@ -1362,6 +1362,7 @@ search_queries:
 #   meituan         zhaopin.meituan.com  (zh-CN board; each keywords: entry queried server-side, results deduped)
 #   alibaba         talent.alibaba.com   (zh-CN board; each keywords: entry queried server-side, results deduped)
 #   aldi-nord       www.aldi-nord.de, www.aldi.(nl|be|lu|fr|es|pt|pl)  (ALDI Nord's own country sites; optional aldi_nord: block, see below)
+#   epam            careers.epam.com  (EPAM Systems' own search API, whole inventory; see the stanza below)
 #   gupy            portal.gupy.io       (pt-BR board-wide Gupy search; each gupy.keywords entry swept separately, results
 #                   deduped. A single tenant's <slug>.gupy.io career page is NOT claimed)
 #   feishu-jobs     jobs.bytedance.com or <tenant>.jobs.feishu.cn
@@ -1871,6 +1872,14 @@ search_queries:
 #   max_pages: 500                        # optional, 10 postings/page (default 500, max 1000); a whole list is
 #                                         # 2 requests per locale, since the API returns pages cumulatively
 #   enabled: true
+#
+# - name: EPAM Systems                    # single-company; careers.epam.com's own search API
+#   careers_url: https://careers.epam.com/en/jobs   # any careers.epam.com URL auto-detects
+#   provider: epam                        # optional — the careers.epam.com host also auto-detects
+#   max_pages: 15                         # optional, 50 postings/page (default 15, max 60); the whole inventory
+#                                         # (~700 postings) is 15 requests, paged by `from` offset
+#   enabled: true                         # most postings list several countries and a Remote/Hybrid marker in the
+#                                         # location column, so a location_filter can keep the ones open to you
 #
 # - name: Dassault Systèmes              # single-company; Exalead card_search_api
 #   careers_url: https://www.3ds.com/careers/jobs   # auto-detects on *.3ds.com
@@ -3984,6 +3993,12 @@ tracked_companies:
     careers_url: https://jobs.smartrecruiters.com/Endava
     notes: "IT services; LatAm delivery centres incl. Argentina."
     enabled: true
+
+  - name: EPAM Systems
+    tags: {regions: [latam, ar], sectors: [consulting, tech], remote: latam}
+    careers_url: https://careers.epam.com/en/jobs
+    notes: "IT services group. About 700 open postings, most of them remote or hybrid and open to several countries at once (Argentina, other LatAm and Europe), often one posting per client project. Read from careers.epam.com's own search API; the location column lists the countries plus Remote/Hybrid. Measured 2026-11-08."
+    enabled: false
 
   - name: Delivery Hero (PedidosYa)
     tags: {regions: [latam, ar], sectors: [commerce, tech]}

@@ -18,6 +18,32 @@ The rule 6 notes in the entries below stay as the record of the old rule. The so
 
 ---
 
+## EPAM Systems
+
+| | |
+|---|---|
+| **Proposed by** | Fork maintainer (no affiliation with the source) |
+| **Provider** | `providers/epam.mjs` |
+| **PR** | this fork's `integration` branch |
+| **Merged** | 2026-11-08 |
+| **Status** | Provider listed; the catalog entry in `templates/portals.example.yml` is `enabled: false`. |
+
+A single-company adapter for `careers.epam.com`, EPAM's own careers site. Measured on 2026-11-08 with the scanner's own HTTP client (`makeHttpCtx`, default User-Agent, no key, cookie or session): `GET /api/jobs/v2/search/careers?size=50&from=N` answers 200 JSON with `data.total` 707 and 707 distinct rows over 15 pages. `www.epam.com` answers 403 and is not used.
+
+**Rule 1 (real listings, identifiable employer, free for candidates).** Met by construction: every posting is EPAM's own, and reading and applying cost the candidate nothing.
+
+**Rule 2 (canonical URL is the employer's).** Each row carries its own public path (`seo.url`, `/en/vacancy/{title-slug}-{uid}_en`); the provider links `https://careers.epam.com` plus that path. Verified: three sampled URLs returned 200 with the scanner's client, as did the `/en/vacancy/{uid}_en` form used when a row has no usable `seo.url`. Applying goes through EPAM's own application page, which the provider never requests.
+
+**Rule 3 (complete inventory, no paid placement).** The walk is paged by the `from` offset and stops at the reported total, so it reads all 707 rows. A first version keyed on `page` read the same 50 rows over and over: the server ignores `page` (20 requests returned 1,000 rows and 50 distinct uids), which is why the provider pages by `from` and drops repeated rows. No promoted or sponsored field exists in the payload; `is_hot` marks urgency only and is not used.
+
+**Rule 4 (operator declared).** Not applicable: a single-company adapter for the employer's own site.
+
+**Rule 5 (aggregation stays in core).** The provider reads one source, `careers.epam.com`, and refuses any other host before a request.
+
+**Rule 6 (read like a visitor, for one person).** The API path `/api`, and `?query` / `?page` URLs, are disallowed for `User-agent: *` in `https://careers.epam.com/robots.txt` (read 2026-11-08). The earlier version of this log's rule 6 made that a stop, and EPAM was recorded in "Evaluated, not supported" on 2026-10-11 for it. Under rule 6 as rewritten on 2026-11-08 (see "Rule 6 changed" above), `robots.txt` is not a gate; the checks that remain are met: the API is what the site's own search page calls for any signed-out visitor, with no login and no CAPTCHA; the provider sends at most 15 list requests per run (default `max_pages`, hard cap 60) about 400 ms apart, and a health probe sends one; the site states no `Crawl-delay`; it requests no application page (`/en/application` is also disallowed) and builds no index, keeping what it reads only in the user's own files. EPAM has not asked career-ops not to read the site. Before this change the source had received two requests, one of them to the API path, before its `robots.txt` was read (see the disclosure in `FORK_NOTES.md`).
+
+---
+
 ## remotli.ch
 
 | | |

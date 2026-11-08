@@ -403,6 +403,17 @@ try {
     ).jobs,
     (jobs) => jobs.length === 1 && jobs[0].url === 'https://www.aldi-nord.de/karriere/detail/good-id-101.html',
   );
+
+  // epam.parseSearchResponse — the uid feeds the fallback posting URL when seo.url is unusable.
+  const { parseSearchResponse: parseEpam } = await load('epam.mjs');
+  check(
+    'epam.parseSearchResponse',
+    () => parseEpam({ data: { total: 2, jobs: [
+      { uid: `${LONE}1`, name: 'Bad Id' },
+      { uid: 'blt101', name: 'Good Id' },
+    ] } }).jobs,
+    (jobs) => jobs.length === 1 && jobs[0].url === 'https://careers.epam.com/en/vacancy/blt101_en',
+  );
 } catch (e) {
   fail(`per-provider surrogate tests crashed: ${e.message}`);
 }
@@ -440,6 +451,7 @@ try {
     'darwinbox.mjs',
     'deel.mjs',
     'dover.mjs',
+    'epam.mjs',
     'feishu-jobs.mjs',
     'garena.mjs',
     'hibob.mjs',
