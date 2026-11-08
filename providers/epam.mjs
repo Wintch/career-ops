@@ -15,7 +15,9 @@
 // reads the same 50 postings over and over (measured 2026-11-08: 20 requests,
 // 1,000 rows, 50 distinct). The walk here uses `from` and stops at `data.total`,
 // on a short or empty page, or at max_pages; it also drops repeated rows by
-// `uid`, so a posting the source repeats is never emitted twice.
+// posting URL (which embeds the `uid`), so a posting the source repeats is
+// never emitted twice. A failure after page one keeps the pages already read
+// and warns; only the first page's failure fails the board.
 //
 // One public page per posting: https://careers.epam.com{seo.url}, the
 // `/en/vacancy/{title-slug}-{uid}_en` path the payload carries for each row and
@@ -104,24 +106,31 @@ function toEpochMs(value) {
  * Cities (as "City, Country") when the row names them, else the distinct
  * countries; then " · Remote" / " · Hybrid" from `vacancy_type`. An on-site
  * posting carries no marker. A remote row with no place reads just "Remote".
+ * A Remote row that names a city keeps the other countries it lists after the
+ * city ("Bogota, Colombia, Mexico, Brazil · Remote"): the city is where the
+ * recruiter sits, the countries are where the role is open, and a
+ * location_filter must still see all of them. A Hybrid or Office row stays
+ * tied to its cities.
  * @param {any} row
  */
 export function formatLocation(row) {
   const places = [];
+  const cityCountries = new Set();
   for (const c of Array.isArray(row?.city) ? row.city : []) {
     const name = text(c?.name);
     const country = text(c?.country?.name);
+    if (country) cityCountries.add(country);
     const place = [name, country].filter(Boolean).join(', ');
     if (place && !places.includes(place)) places.push(place);
   }
-  if (places.length === 0) {
-    for (const c of Array.isArray(row?.country) ? row.country : []) {
-      const name = text(c?.name);
-      if (name && !places.includes(name)) places.push(name);
-    }
-  }
   const mode = text(row?.vacancy_type);
   const marker = /^(remote|hybrid)$/i.test(mode) ? mode[0].toUpperCase() + mode.slice(1).toLowerCase() : '';
+  if (places.length === 0 || /^remote$/i.test(mode)) {
+    for (const c of Array.isArray(row?.country) ? row.country : []) {
+      const name = text(c?.name);
+      if (name && !cityCountries.has(name) && !places.includes(name)) places.push(name);
+    }
+  }
   return [places.join(', '), marker].filter(Boolean).join(' · ');
 }
 
@@ -217,11 +226,21 @@ export default {
     let offset = 0;
     for (let page = 1; page <= pageBudget; page++) {
       if (page > 1) await sleep(INTER_REQUEST_DELAY_MS, ctx);
-      const json = await fetchJsonWithRetry(ctx, `${API_URL}?size=${PAGE_SIZE}&from=${offset}`, {
-        redirect: 'error',
-        headers: { accept: 'application/json' },
-      });
-      const result = parseSearchResponse(json);
+      let result;
+      try {
+        const json = await fetchJsonWithRetry(ctx, `${API_URL}?size=${PAGE_SIZE}&from=${offset}`, {
+          redirect: 'error',
+          headers: { accept: 'application/json' },
+        });
+        result = parseSearchResponse(json);
+      } catch (err) {
+        // A failed or reshaped first page is a broken board, not an empty one,
+        // and a probe needs the rejection unwrapped. Past page one in a real
+        // scan, keep the pages already read and say so.
+        if (page === 1 || probing) throw err;
+        console.error(`⚠️  epam: truncated at page ${page} (${jobs.length} postings): ${err.message}`);
+        break;
+      }
       for (const job of result.jobs) {
         if (seenUrls.has(job.url)) continue;
         seenUrls.add(job.url);

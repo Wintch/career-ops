@@ -140,6 +140,13 @@ test('formatLocation: countries then work mode; cities win over countries', () =
     })),
     'Mexico City, Mexico · Hybrid',
   );
+  // Remote with a city keeps the other countries the row is open in; Hybrid stays on its city.
+  const bogota = [{ name: 'Bogota', country: { name: 'Colombia' } }];
+  const open3 = [{ name: 'Mexico' }, { name: 'Colombia' }, { name: 'Brazil' }];
+  assert.equal(formatLocation(row(1, { city: bogota, country: open3 })), 'Bogota, Colombia, Mexico, Brazil · Remote');
+  assert.equal(formatLocation(row(1, { city: bogota, country: open3, vacancy_type: 'Hybrid' })), 'Bogota, Colombia · Hybrid');
+  assert.equal(formatLocation(row(1, { city: bogota, country: open3, vacancy_type: 'Office' })), 'Bogota, Colombia');
+  assert.equal(formatLocation(row(1, { city: bogota, country: [{ name: 'Colombia' }] })), 'Bogota, Colombia · Remote');
   assert.equal(formatLocation(row(1, { country: [], city: null })), 'Remote');
   assert.equal(formatLocation(row(1, { country: [{ name: 'Poland' }, { name: 'Poland' }, {}], vacancy_type: 'Office' })), 'Poland');
   assert.equal(formatLocation(null), '');
@@ -285,6 +292,21 @@ test('fetch() throws on an envelope change and on a failed first page', async ()
   await assert.rejects(provider.fetch(entry(), makeCtx(() => ({ results: [] })).ctx), /epam: unexpected response/);
   const boom = Object.assign(new Error('HTTP 404'), { status: 404 });
   await assert.rejects(provider.fetch(entry(), makeCtx(() => boom).ctx), /HTTP 404/);
+});
+
+test('fetch() keeps the pages already read when a later page fails or changes shape', async () => {
+  const src = source(300);
+  const boom = Object.assign(new Error('HTTP 503'), { status: 503 });
+  let run = await captureErrors(() => provider.fetch(entry(), makeCtx((from) => (from === 100 ? boom : src(from))).ctx));
+  assert.equal(run.result.length, 100);
+  assert.match(run.lines.join('\n'), /epam: truncated at page 3 \(100 postings\): HTTP 503/);
+  assert.ok(!/max_pages/.test(run.lines.join('\n')), 'no raise-max_pages advice on a fetch error');
+  run = await captureErrors(() => provider.fetch(entry(), makeCtx((from) => (from === 50 ? { results: [] } : src(from))).ctx));
+  assert.equal(run.result.length, 50);
+  assert.match(run.lines.join('\n'), /truncated at page 2 \(50 postings\): epam: unexpected response/);
+  // A probe still sees the failure.
+  const probeCtx = makeCtx((from) => (from === 50 ? boom : src(from)), { maxPages: 2 });
+  await assert.rejects(provider.fetch(entry(), probeCtx.ctx), /HTTP 503/);
 });
 
 test('fetch() works from an api: entry too', async () => {
