@@ -1923,6 +1923,13 @@ search_queries:
 #     workplace_types: [remote, hybrid]  # optional: remote / hybrid / on-site
 #     # job_types: [vacancy_type_effective]  # optional: platform job-type ids
 #     # state: São Paulo  # optional state filter
+#     # Remote postings carry no city, state or country in this API, so the
+#     # location label is just "Remoto". A location_filter.allow list of Brazilian
+#     # states and cities drops them (16 of 42 postings for "DevOps", measured
+#     # 2026-11-06). Whether to let them through is the candidate's call: a
+#     # Brazil-only CLT remote role can still require residency. To keep them,
+#     # add "Remoto" to location_filter.allow in portals.yml by hand
+#     # (onboard-write.mjs refuses it, since "Remote" is not a place).
 #   max_pages: 5          # optional page cap per keyword (100 jobs/page, default 5, max 100)
 #   enabled: true
 #
@@ -3733,13 +3740,13 @@ tracked_companies:
   # multi-country; every country is kept.
 
   - name: Mercado Libre
-    tags: {regions: [latam, ar], sectors: [commerce, finance, tech]}
+    tags: {regions: [latam, ar, br], sectors: [commerce, finance, tech]}
     careers_url: https://mercadolibre.eightfold.ai/careers?domain=mercadolibre.com
     notes: "Largest LatAm e-commerce/fintech (AR, BR, MX, CO, CL, UY). ~810 postings as of 2026-10-11 (10 per page; the default 200-page cap reads them all). Keep ?domain=: the board answered 422 without it."
     enabled: true
 
   - name: Nubank
-    tags: {regions: [latam], sectors: [tech]}
+    tags: {regions: [latam, br], sectors: [tech]}
     careers_url: https://jobs.ashbyhq.com/nubank
     notes: "Digital bank (BR, MX, CO). Its Greenhouse board existed but was empty on 2026-10-11."
     enabled: true
@@ -3771,7 +3778,7 @@ tracked_companies:
     enabled: true
 
   - name: Rappi
-    tags: {regions: [latam, ar], sectors: [commerce, tech]}
+    tags: {regions: [latam, ar, br], sectors: [commerce, tech]}
     careers_url: https://rappi.wd12.myworkdayjobs.com/Rappi_jobs
     notes: "Delivery super-app (CO, MX, AR, BR…). Use the wd12 tenant; the older wd3 one answered 500/422 on 2026-10-11."
     enabled: true
@@ -3780,6 +3787,18 @@ tracked_companies:
     tags: {regions: [latam, br], sectors: [tech]}
     careers_url: https://job-boards.greenhouse.io/stone
     notes: "Brazilian fintech / payments. Mostly Brazil, many sales roles."
+    enabled: true
+
+  - name: QuintoAndar
+    tags: {regions: [latam, br], sectors: [commerce, tech]}
+    careers_url: https://job-boards.greenhouse.io/quintoandar
+    notes: "Brazilian real-estate platform (rent/buy). Greenhouse board answered on 2026-11-06 with 94 postings, 16 of them engineering/dev titles."
+    enabled: true
+
+  - name: VTEX
+    tags: {regions: [latam, br], sectors: [commerce, tech]}
+    careers_url: https://job-boards.greenhouse.io/vtex
+    notes: "Brazilian e-commerce platform vendor. Greenhouse board answered on 2026-11-06 with 33 postings, 11 of them engineering titles."
     enabled: true
 
   - name: Wizeline

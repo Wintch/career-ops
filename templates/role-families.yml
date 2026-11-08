@@ -9,6 +9,8 @@
 # case-insensitive substring, a 2-3 letter entry (SRE, VR, QA) matches on word
 # boundaries, and `word:` demands a whole word at any length. Spanish titles are
 # listed next to the English ones because the same posting is often written either way.
+# Brazilian Portuguese is listed too, with the masculine and feminine form of Engenheiro/
+# Engenheira written out: the match is a substring, so one does not find the other.
 #
 # Keep a family to the titles that really name the work. A broad word (Engineer,
 # Developer, Analyst alone) floods the inbox, and every extra keyword is a title
@@ -41,6 +43,16 @@ families:
       - Jefe de Sistemas
       - Ingeniero DevOps
       - Ingeniero de Infraestructura
+      - Engenheiro de Infraestrutura
+      - Engenheira de Infraestrutura
+      - Analista de Infraestrutura
+      - Engenheiro de Plataforma
+      - Engenheira de Plataforma
+      - Engenheiro de Cloud
+      - Engenheira de Cloud
+      - Analista de Cloud
+      - Analista de Observabilidade
+      - Analista de Redes
       - IT Manager
 
   ai-ml:
@@ -64,6 +76,9 @@ families:
       - IA Generativa
       - Agentes
       - Ingeniero de IA
+      - Engenheiro de IA
+      - Engenheira de IA
+      - Cientista de Dados
 
   graphic-design:
     label: Graphic, brand and visual design
@@ -170,6 +185,11 @@ families:
       - Tester
       - Analista QA
       - Analista de Calidad
+      - Analista de Testes
+      - Analista de QA
+      - Analista de Qualidade
+      - Engenheiro de Qualidade
+      - Engenheira de Qualidade
 
   it-support:
     label: IT support, help desk and technical support
@@ -182,6 +202,9 @@ families:
       - Soporte Técnico
       - Soporte IT
       - Mesa de Ayuda
+      - Suporte Técnico
+      - Suporte TI
+      - Analista de Suporte
 
   security:
     label: Security engineering and operations
@@ -194,6 +217,10 @@ families:
       - DevSecOps
       - Analista de Seguridad
       - Seguridad Informática
+      - Analista de Segurança
+      - Segurança da Informação
+      - Engenheiro de Segurança
+      - Engenheira de Segurança
 
   data:
     label: Data engineering and analytics
@@ -204,6 +231,8 @@ families:
       - BI Developer
       - Analista de Datos
       - Ingeniero de Datos
+      - Engenheiro de Dados
+      - Engenheira de Dados
 
   software-dev:
     label: General software development
@@ -216,3 +245,19 @@ families:
       - Desarrollador Backend
       - Desarrollador Frontend
       - Desarrollador Full Stack
+      # Masculine and feminine forms are separate substrings (Desenvolvedor Backend does
+      # not find Desenvolvedora Backend), so both are written out.
+      - Desenvolvedor Backend
+      - Desenvolvedor Back-end
+      - Desenvolvedor Frontend
+      - Desenvolvedor Front-end
+      - Desenvolvedor Full Stack
+      - Desenvolvedor Fullstack
+      - Desenvolvedora Backend
+      - Desenvolvedora Back-end
+      - Desenvolvedora Frontend
+      - Desenvolvedora Front-end
+      - Desenvolvedora Full Stack
+      - Desenvolvedora Fullstack
+      - Engenheiro de Software
+      - Engenheira de Software
