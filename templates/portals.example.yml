@@ -2545,6 +2545,7 @@ tracked_companies:
     enabled: false
 
   - name: ADP
+    tags: {regions: [global], sectors: [tech]}
     careers_url: https://myjobs.adp.com/apply/cx/job-listing
     provider: adp-myjobs
     enabled: false
