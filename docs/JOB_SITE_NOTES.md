@@ -34,10 +34,12 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 - `check-liveness.mjs` answers from the public API and needs no browser; `fetch-jd.mjs` returns the JD text.
 - Greenhouse boards often carry a "Spontaneous Application" or "General Application" posting. It is evergreen, not an open requisition: evaluate it as a long shot, and look for a real open role on the same board first.
 - An old posting date on a Greenhouse job is the first publication date, not proof of staleness; check `updated_at` and whether the board is maintained.
+- **Greenhouse EU region (observed 2026-11):** an employer's own careers site can embed a board hosted on Greenhouse's EU region (links to `*.recruiting.eu.greenhouse.io`, job ids ending in `...101`). If its board slug isn't public, `boards-api.eu.greenhouse.io` has nothing to answer under the obvious slugs, and a jobs sitemap that lists only bare ids gives the scanner no titles. Neither the greenhouse nor the sitemap provider can read such a board. Record that in the entry's note and disable it, rather than leaving an entry no provider claims.
 
 ### Workday (multi-step candidate forms)
 
 - Posting pages are client-rendered; use the API-first liveness path.
+- A branded careers page ("careers.example.com") can be a front end for a Workday tenant. Look for a `*.myworkdayjobs.com/<Site>` link in the page HTML and use that as `careers_url` so the workday provider claims it. One case seen 2026-11: an acquired product's careers page pointed at its parent's tenant.
 - **Observed on one large tenant (2026-10):** on the "My Experience" step, "Save and Continue" kept only the entries added or edited during the current visit to that step. Entries merely displayed from an earlier save were dropped. Autofill-from-resume entries count as new.
 - **Workaround:** in one visit to the step, touch every entry (retype a date, for example), save once, then verify the list on the final Review page before submitting. Not confirmed by the vendor; re-check on the next application.
 - Some employers state in a public hiring FAQ that applications may be screened by AI and allow an opt-out. Read the FAQ before the "Application Questions" step and decide consciously.
