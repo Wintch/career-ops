@@ -65,6 +65,7 @@ import { loadProviders, resolveProvider } from './providers/_registry.mjs';
 import { openProviderIdCache, PROVIDER_ID_CACHE_DIR } from './provider-id-cache.mjs';
 import { mergeProviderPlugins } from './plugins/_engine.mjs';
 import { classifyFetchError } from './verify-portals.mjs';
+import { scanPrescreenFromConfig, classifyPosting } from './prescreen-location.mjs';
 import { portalTopLevelTypos } from './validate-portals.mjs';
 import { fingerprintText, findCrossListings } from './fingerprint-core.mjs';
 import { computeListingFingerprint } from './listing-fingerprint.mjs';
@@ -4655,6 +4656,13 @@ async function main() {
   const entrySkipTiers = entry => (Array.isArray(entry.skip_tiers) ? tierList(entry.skip_tiers) : skipTiers);
 
   const locationFilter = buildLocationFilter(config.location_filter);
+  // Fork addition: portals.yml → prescreen_location (opt-in). The rule
+  // prescreen-location.mjs applies to pending pipeline lines, applied here
+  // instead, before dedup and --verify: a posting on-site elsewhere or remote
+  // only for another region is counted and recorded like a location_filter
+  // miss (skipped_location), so it costs no liveness check.
+  const scanPrescreen = scanPrescreenFromConfig(config);
+  if (scanPrescreen) console.log(`Location pre-screen on (prescreen_location): keeping ${scanPrescreen.terms.join(', ')}, worldwide and unrestricted remote`);
   const postingAgeFilter = buildPostingAgeFilter(config.max_posting_age_days);
   const postedDateFilter = buildPostedDateFilter(effectiveAfter, postedBefore);
 
@@ -5180,6 +5188,11 @@ async function main() {
           continue;
         }
         if (!company._isBoard) employerLocationAccepted.add(locationUrl);
+        if (scanPrescreen && classifyPosting({ url: job.url, location: typeof job.location === 'string' ? job.location : '' }, scanPrescreen.keepRe).reason !== null) {
+          totalFilteredLocation++;
+          if (!dryRun) locationFilteredOffers.push({ ...job, source: sourceName });
+          continue;
+        }
         if (!postingAgeFilter(job.postedAt)) {
           totalFilteredPostingAge++;
           if (!dryRun) ageFilteredOffers.push({ ...job, source: sourceName });

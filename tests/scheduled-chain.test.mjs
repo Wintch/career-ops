@@ -43,9 +43,9 @@ function fakeRunner(root, handlers = {}) {
 }
 
 test('parseArgs reads the opt-in steps and the per-step timeout, and refuses anything else', () => {
-  assert.deepEqual(parseArgs([]), { withNavent: false, withLiveness: false, stepTimeoutSec: 0, help: false });
+  assert.deepEqual(parseArgs([]), { withNavent: false, withLiveness: false, livenessMinScore: null, stepTimeoutSec: 0, help: false });
   assert.deepEqual(parseArgs(['--with-navent', '--with-liveness', '--step-timeout', '90']),
-    { withNavent: true, withLiveness: true, stepTimeoutSec: 90, help: false });
+    { withNavent: true, withLiveness: true, livenessMinScore: null, stepTimeoutSec: 90, help: false });
   assert.equal(parseArgs(['--step-timeout=30']).stepTimeoutSec, 30);
   assert.throws(() => parseArgs(['--step-timeout', 'soon']), /seconds/);
   assert.throws(() => parseArgs(['--headed-fallback']), /unknown argument/);
@@ -58,6 +58,17 @@ test('planSteps keeps the fixed order and always passes --verify and --no-fallba
   assert.deepEqual(all[0].args, ['--verify']);
   assert.ok(all[2].args.includes('--no-fallback') && all[2].args.includes('--tracker'));
   assert.ok(all.every((s) => !s.args.some((a) => /headed/.test(a))));
+});
+
+test('--liveness-min-score reaches check-liveness as --min-score, and needs --with-liveness', () => {
+  assert.equal(parseArgs(['--with-liveness', '--liveness-min-score', '3.5']).livenessMinScore, 3.5);
+  assert.equal(parseArgs(['--with-liveness', '--liveness-min-score=3']).livenessMinScore, 3);
+  assert.throws(() => parseArgs(['--liveness-min-score', '3.5']), /requires --with-liveness/);
+  assert.throws(() => parseArgs(['--with-liveness', '--liveness-min-score', 'high']), /score from 0 to 5/);
+  const steps = planSteps({ withNavent: false, withLiveness: true, livenessMinScore: 3.5 });
+  assert.ok(steps.find((s) => s.name === 'liveness').args.includes('--min-score=3.5'));
+  const plain = planSteps({ withNavent: false, withLiveness: true });
+  assert.ok(!plain.find((s) => s.name === 'liveness').args.some((a) => a.startsWith('--min-score')));
 });
 
 test('the small parsers read what the scripts actually print', () => {

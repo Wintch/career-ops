@@ -264,6 +264,23 @@
 # location_filter.workplace_policy (see docs/WORKPLACE_GEOGRAPHY.md). Unlike
 # an allow entry of "Remote", this checks where remote applicants may work.
 
+# -- Location pre-screen in the scan (fork addition, optional, opt-in) --
+# The rule of prescreen-location.mjs, applied by scan.mjs before --verify: a new
+# posting on-site outside these places, or remote but restricted to another
+# region ("Remote - US", "Remote, Germany", a US state list), is recorded as
+# skipped_location and never reaches pipeline.md or the liveness check.
+# Unrestricted "Remote", worldwide postings and postings with no location pass.
+# Terms from location_filter (always_allow + allow) count as keep terms too.
+# Unlike location_filter, a bare "Remote" is kept, so it suits a candidate who
+# can only work from one country but takes remote roles from anywhere.
+# prescreen_location:
+#   enabled: true
+#   keep:
+#     - "Argentina"
+#     - "Buenos Aires"
+#     - "LatAm"
+#     - "Latin America"
+
 # -- Country-eligibility filter (optional, opt-in, #2093) --
 # location_filter only reads the ATS provider's STRUCTURED location field
 # (e.g. "Remote"). Many US companies tag every remote requisition "Remote"

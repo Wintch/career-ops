@@ -99,8 +99,18 @@ export function buildKeepRe(terms) {
  */
 export function classifyLine(line, keepRe) {
   const parts = line.slice(6).split(' | ');
-  const url = (parts[0] || '').trim();
-  const loc = (parts[3] || '').trim();
+  return classifyPosting({ url: parts[0], location: parts[3] }, keepRe);
+}
+
+/**
+ * Classify one posting by its URL and location string, the same rule
+ * classifyLine applies to a pipeline line. scan.mjs calls this before it
+ * verifies new postings (portals.yml → prescreen_location), so a posting
+ * this rule would discard is never checked for liveness.
+ */
+export function classifyPosting({ url: rawUrl, location }, keepRe) {
+  const url = String(rawUrl ?? '').trim();
+  const loc = String(location ?? '').trim();
 
   if (MULTI_RE.test(loc)) {
     // "3 Locations": the real places are not on the line; the URL slug may say.
@@ -158,15 +168,40 @@ function parseArgs(argv) {
   return opts;
 }
 
-/** Home-region terms from portals.yml → location_filter (generic words removed). */
+/**
+ * Home-region terms from a parsed portals.yml: location_filter (always_allow +
+ * allow) plus prescreen_location.keep, generic words removed.
+ */
+export function homeTermsFromConfig(doc) {
+  const lf = doc?.location_filter || {};
+  const pk = doc?.prescreen_location?.keep;
+  const list = (v) => (Array.isArray(v) ? v : []);
+  const terms = [...list(lf.always_allow), ...list(lf.allow), ...list(pk)];
+  return terms.map(String).map((t) => t.trim()).filter((t) => t && !/^(remote|hybrid)$/i.test(t));
+}
+
+/** Home-region terms from portals.yml (see homeTermsFromConfig). */
 export function homeTermsFromPortals(root) {
   const p = join(root, 'portals.yml');
   if (!existsSync(p)) return [];
   let doc;
   try { doc = loadYaml(readFileSync(p, 'utf8')); } catch { return []; }
-  const lf = doc?.location_filter || {};
-  const terms = [...(lf.always_allow || []), ...(lf.allow || [])];
-  return terms.map(String).filter((t) => !/^(remote|hybrid)$/i.test(t.trim()));
+  return homeTermsFromConfig(doc);
+}
+
+/**
+ * The keep matcher scan.mjs applies before verifying new postings, or null
+ * when the pre-screen is off. Opt-in: portals.yml → prescreen_location.enabled
+ * must be true, and there must be at least one home-region term (with none,
+ * every located posting would be discarded, so the pre-screen stays off).
+ * @param {object} config parsed portals.yml
+ * @returns {{keepRe: RegExp, terms: string[]} | null}
+ */
+export function scanPrescreenFromConfig(config) {
+  if (config?.prescreen_location?.enabled !== true) return null;
+  const terms = homeTermsFromConfig(config);
+  if (!terms.length) return null;
+  return { keepRe: buildKeepRe(terms), terms };
 }
 
 async function main() {

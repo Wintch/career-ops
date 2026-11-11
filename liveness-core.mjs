@@ -568,23 +568,59 @@ const rowPostingUrl = (row, reportsRoot) => (isWebUrl(row.url) ? row.url
  * @param {{statuses?: string[], reportsRoot?: string}} options
  * @returns {{targets: {num: number, company: string, role: string, status: string, url: string}[], noUrl: number[]}}
  */
-export function trackerLivenessTargets(trackerText, { statuses = DEFAULT_TRACKER_STATUSES, reportsRoot } = {}) {
+export function trackerLivenessTargets(trackerText, { statuses = DEFAULT_TRACKER_STATUSES, reportsRoot, minScore = null, scoreStatuses = MIN_SCORE_STATUSES } = {}) {
   const wanted = new Set(statuses.map((s) => s.trim().toLowerCase()).filter(Boolean));
+  const scored = new Set(scoreStatuses.map((s) => s.trim().toLowerCase()).filter(Boolean));
   const lines = String(trackerText ?? '').split(/\r?\n/);
   const colmap = resolveColumns(lines);
   const targets = [];
   const noUrl = [];
+  const belowScore = [];
   const seen = new Set();
   for (const line of lines) {
     const row = parseTrackerRow(line, colmap);
     if (!row || !wanted.has(row.status.trim().toLowerCase())) continue;
+    if (minScore !== null && scored.has(row.status.trim().toLowerCase())) {
+      const score = numericScore(row.score);
+      if (score !== null && score < minScore) { belowScore.push(row.num); continue; }
+    }
     const url = rowPostingUrl(row, reportsRoot);
     if (!url) { noUrl.push(row.num); continue; }
     if (seen.has(url)) continue;
     seen.add(url);
     targets.push({ num: row.num, company: row.company, role: row.role, status: row.status, url });
   }
-  return { targets, noUrl };
+  return { targets, noUrl, belowScore };
+}
+
+/**
+ * Statuses a `minScore` applies to. A row the candidate has acted on (Applied
+ * and later) is checked whatever its score: its posting matters because they
+ * applied, not because of how it scored.
+ */
+export const MIN_SCORE_STATUSES = ['evaluated'];
+
+/**
+ * The number in a tracker score cell (`3.4/5`, `**3,4/5**`), or null for a
+ * sentinel (`N/A`, `—`, `-`) or anything else without a number. Null is never
+ * "below" a threshold: an unscored row stays checked.
+ * @param {string} cell
+ * @returns {number | null}
+ */
+export function numericScore(cell) {
+  const m = String(cell ?? '').replace(/\*\*/g, '').trim().match(/^(\d+(?:[.,]\d+)?)\s*\/\s*5$/);
+  return m ? parseFloat(m[1].replace(',', '.')) : null;
+}
+
+/**
+ * Parse a `--min-score` operand: a number from 0 to 5.
+ * @param {unknown} raw
+ * @returns {number | null} the threshold, or null when the operand is not one
+ */
+export function parseMinScore(raw) {
+  if (typeof raw !== 'string' || !/^\d+(?:[.,]\d+)?$/.test(raw.trim())) return null;
+  const n = parseFloat(raw.trim().replace(',', '.'));
+  return n >= 0 && n <= 5 ? n : null;
 }
 
 export const DEFAULT_DISCARD_STATUSES = ['evaluated'];

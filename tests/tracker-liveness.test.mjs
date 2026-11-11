@@ -12,6 +12,8 @@ import {
   planExpiredDiscards,
   postingClosedNote,
   DEFAULT_DISCARD_STATUSES,
+  numericScore,
+  parseMinScore,
 } from '../liveness-core.mjs';
 
 const tracker = [
@@ -47,6 +49,45 @@ test('open tracker rows resolve to their report posting URL, once per URL', (t) 
     { num: 3, company: 'Acme', role: 'Platform Engineer', status: 'evaluated', url: 'https://jobs.example.test/acme/3' },
   ]);
   assert.deepEqual(noUrl, [1, 6]);
+});
+
+test('minScore skips Evaluated rows below it but keeps Applied rows whatever their score', (t) => {
+  const { targets, noUrl, belowScore } = trackerLivenessTargets(tracker, { reportsRoot: reportsRoot(t), minScore: 4.5 });
+  assert.deepEqual(targets.map((row) => row.num), [2]);
+  assert.deepEqual(belowScore, [1, 3, 5]);
+  assert.deepEqual(noUrl, [6]);
+  const none = trackerLivenessTargets(tracker, { reportsRoot: reportsRoot(t) });
+  assert.deepEqual(none.belowScore, []);
+});
+
+test('minScore never drops an unscored row, and a score at the threshold is kept', (t) => {
+  const text = tracker
+    .replace('| 3 | 2026-09-03 | Acme | Platform Engineer | 4.1/5 |', '| 3 | 2026-09-03 | Acme | Platform Engineer | N/A |');
+  const { targets } = trackerLivenessTargets(text, { reportsRoot: reportsRoot(t), minScore: 4.5 });
+  assert.deepEqual(targets.map((row) => row.num), [2, 3]);
+  const atThreshold = trackerLivenessTargets(tracker, { reportsRoot: reportsRoot(t), minScore: 4.1 });
+  assert.deepEqual(atThreshold.targets.map((row) => row.num), [2, 3]);
+});
+
+test('numericScore and parseMinScore read only real scores', () => {
+  assert.equal(numericScore('3.4/5'), 3.4);
+  assert.equal(numericScore('**3,5/5**'), 3.5);
+  assert.equal(numericScore('N/A'), null);
+  assert.equal(numericScore('—'), null);
+  assert.equal(parseMinScore('3.5'), 3.5);
+  assert.equal(parseMinScore('3,5'), 3.5);
+  assert.equal(parseMinScore('6'), null);
+  assert.equal(parseMinScore('x'), null);
+  assert.equal(parseMinScore(undefined), null);
+});
+
+test('check-liveness refuses a bad --min-score and one without --tracker', () => {
+  const bad = spawnSync(process.execPath, ['check-liveness.mjs', '--tracker', '--min-score=high'], { cwd: ROOT, encoding: 'utf8' });
+  assert.equal(bad.status, 1);
+  assert.match(bad.stderr, /--min-score needs a score from 0 to 5/);
+  const noTracker = spawnSync(process.execPath, ['check-liveness.mjs', '--min-score=3', 'https://jobs.example.test/x'], { cwd: ROOT, encoding: 'utf8' });
+  assert.equal(noTracker.status, 1);
+  assert.match(noTracker.stderr, /--min-score requires --tracker/);
 });
 
 test('--status picks which rows are swept', (t) => {

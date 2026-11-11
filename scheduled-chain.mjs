@@ -6,6 +6,9 @@
 //   node scheduled-chain.mjs                                  # scan.mjs --verify only
 //   node scheduled-chain.mjs --with-navent --with-liveness    # + Bumeran/ZonaJobs, + tracker liveness
 //   node scheduled-chain.mjs --step-timeout 1500              # kill any step that runs past 25 min
+//   node scheduled-chain.mjs --with-liveness --liveness-min-score 3.5
+//                                     # liveness skips Evaluated rows below 3.5 (a nightly run);
+//                                     # leave it off on a weekly run so every row is still checked
 //   node scheduled-chain.mjs --help
 //
 // Steps, in order (each a child `node` process in the checkout, so every script
@@ -13,7 +16,7 @@
 //   1. scan      node scan.mjs --verify
 //   2. navent    node scan-navent.mjs                                    (--with-navent)
 //   3. liveness  node check-liveness.mjs --no-fallback --tracker --status=Evaluated,Applied
-//                                                                        (--with-liveness)
+//                [--min-score=N]                                         (--with-liveness)
 //   4. closing   node closing-soon.mjs                                   (always; no network)
 //
 // Headless and zero-token by construction: no step can open a visible browser
@@ -41,24 +44,25 @@ import { fileURLToPath } from 'node:url';
 import { getCareerOpsRoot } from './path-resolver.mjs';
 import { tryAcquireDirLockSync, releaseOrWarn } from './lib/dir-lock.mjs';
 import { isMainModule } from './lib/is-main-module.mjs';
+import { parseMinScore } from './liveness-core.mjs';
 
 const CODE_ROOT = dirname(fileURLToPath(import.meta.url));
 const LIVENESS_STATUSES = 'Evaluated,Applied';
 const TAIL_LINES = 8;
 
-const USAGE = `Usage: node scheduled-chain.mjs [--with-navent] [--with-liveness] [--step-timeout <seconds>]
+const USAGE = `Usage: node scheduled-chain.mjs [--with-navent] [--with-liveness [--liveness-min-score <0-5>]] [--step-timeout <seconds>]
 
 Runs scan.mjs --verify, then optionally scan-navent.mjs and
-check-liveness.mjs --no-fallback --tracker --status=${LIVENESS_STATUSES},
+check-liveness.mjs --no-fallback --tracker --status=${LIVENESS_STATUSES} [--min-score=N],
 then closing-soon.mjs, one at a time under one lock, and prints one JSON summary.
 Exit 2 only on a total outage; a busy lock prints {"status":"busy"} and exits 0.`;
 
 /**
  * @param {string[]} argv
- * @returns {{withNavent: boolean, withLiveness: boolean, stepTimeoutSec: number, help: boolean}}
+ * @returns {{withNavent: boolean, withLiveness: boolean, livenessMinScore: number | null, stepTimeoutSec: number, help: boolean}}
  */
 export function parseArgs(argv) {
-  const opts = { withNavent: false, withLiveness: false, stepTimeoutSec: 0, help: false };
+  const opts = { withNavent: false, withLiveness: false, livenessMinScore: null, stepTimeoutSec: 0, help: false };
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
     if (a === '--with-navent') opts.withNavent = true;
@@ -69,21 +73,29 @@ export function parseArgs(argv) {
       const n = Number(raw);
       if (!Number.isFinite(n) || n < 0) throw new Error(`--step-timeout needs a number of seconds, got ${JSON.stringify(raw)}`);
       opts.stepTimeoutSec = n;
+    } else if (a === '--liveness-min-score' || a.startsWith('--liveness-min-score=')) {
+      const raw = a.includes('=') ? a.slice(a.indexOf('=') + 1) : argv[++i];
+      const n = parseMinScore(raw);
+      if (n === null) throw new Error(`--liveness-min-score needs a score from 0 to 5, got ${JSON.stringify(raw)}`);
+      opts.livenessMinScore = n;
     } else throw new Error(`unknown argument: ${a}`);
   }
+  if (opts.livenessMinScore !== null && !opts.withLiveness) throw new Error('--liveness-min-score requires --with-liveness');
   return opts;
 }
 
 /**
  * The steps a run will execute, in order.
- * @param {{withNavent: boolean, withLiveness: boolean}} opts
+ * @param {{withNavent: boolean, withLiveness: boolean, livenessMinScore?: number | null}} opts
  * @returns {Array<{name: string, script: string, args: string[], network: boolean}>}
  */
-export function planSteps({ withNavent, withLiveness }) {
+export function planSteps({ withNavent, withLiveness, livenessMinScore = null }) {
   const steps = [{ name: 'scan', script: 'scan.mjs', args: ['--verify'], network: true }];
   if (withNavent) steps.push({ name: 'navent', script: 'scan-navent.mjs', args: [], network: true });
   if (withLiveness) {
-    steps.push({ name: 'liveness', script: 'check-liveness.mjs', args: ['--no-fallback', '--tracker', `--status=${LIVENESS_STATUSES}`], network: true });
+    const args = ['--no-fallback', '--tracker', `--status=${LIVENESS_STATUSES}`];
+    if (livenessMinScore !== null) args.push(`--min-score=${livenessMinScore}`);
+    steps.push({ name: 'liveness', script: 'check-liveness.mjs', args, network: true });
   }
   steps.push({ name: 'closing', script: 'closing-soon.mjs', args: [], network: false });
   return steps;
@@ -234,10 +246,10 @@ export function runNodeScript(step, { timeoutMs }) {
 
 /**
  * Run the chain and build the summary. `run` is injectable for tests.
- * @param {{root: string, pipelinePath?: string, withNavent?: boolean, withLiveness?: boolean, stepTimeoutSec?: number,
+ * @param {{root: string, pipelinePath?: string, withNavent?: boolean, withLiveness?: boolean, livenessMinScore?: number | null, stepTimeoutSec?: number,
  *          run?: typeof runNodeScript, now?: () => Date}} opts
  */
-export async function runChain({ root, pipelinePath, withNavent = false, withLiveness = false, stepTimeoutSec = 0, run = runNodeScript, now = () => new Date() }) {
+export async function runChain({ root, pipelinePath, withNavent = false, withLiveness = false, livenessMinScore = null, stepTimeoutSec = 0, run = runNodeScript, now = () => new Date() }) {
   const pipeline = pipelinePath || join(root, 'data', 'pipeline.md');
   const scanRuns = join(root, 'data', 'scan-runs.tsv');
   const read = (p) => (existsSync(p) ? readFileSync(p, 'utf8') : '');
@@ -259,7 +271,7 @@ export async function runChain({ root, pipelinePath, withNavent = false, withLiv
   };
 
   const networkOk = [];
-  for (const step of planSteps({ withNavent, withLiveness })) {
+  for (const step of planSteps({ withNavent, withLiveness, livenessMinScore })) {
     const runsBefore = step.name === 'scan' ? read(scanRuns) : '';
     const r = await run(step, { timeoutMs: stepTimeoutSec * 1000 });
     const failed = stepFailed(step.name, r);

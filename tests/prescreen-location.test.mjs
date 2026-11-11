@@ -4,7 +4,8 @@ import { tmpdir } from 'os';
 import { spawnSync } from 'child_process';
 import { pass, fail, ROOT, NODE } from './helpers.mjs';
 import {
-  buildKeepRe, classifyLine, screenLines, isRestricted, REASON_ONSITE, REASON_RESTRICTED,
+  buildKeepRe, classifyLine, classifyPosting, screenLines, isRestricted, REASON_ONSITE, REASON_RESTRICTED,
+  homeTermsFromConfig, scanPrescreenFromConfig,
 } from '../prescreen-location.mjs';
 
 console.log('\nprescreen-location (zero-token location pre-screen)');
@@ -28,6 +29,28 @@ check('"Work from Home, Bulgaria" is discarded', reasonOf('https://x.test/a', 'W
 check('"IND-Work from Home-Remote" is discarded', reasonOf('https://x.test/a', 'IND-Work from Home-Remote') === REASON_RESTRICTED);
 check('a US state list is discarded', reasonOf('https://x.test/a', 'Remote - Texas · Remote - Florida') === REASON_RESTRICTED);
 check('lowercase "in" is not the country code', !isRestricted('Remote in the region'));
+
+// classifyPosting: the rule scan.mjs applies before --verify, same as classifyLine.
+const posting = (url, location) => classifyPosting({ url, location }, keepRe).reason;
+for (const [url, loc] of [['https://x.test/a', 'Argentina'], ['https://x.test/a', 'Chicago, IL'],
+  ['https://x.test/a', 'Remote - Greece'], ['https://x.test/Remote-US_JR1', 'Remote'], ['https://x.test/a', ''],
+  ['https://x.test/a', '3 Locations']]) {
+  check(`classifyPosting agrees with classifyLine for "${loc}" (${url})`, posting(url, loc) === reasonOf(url, loc));
+}
+check('classifyPosting tolerates a missing location', posting('https://x.test/a', undefined) === null);
+
+check('homeTermsFromConfig joins location_filter and prescreen_location.keep, minus Remote/Hybrid',
+  JSON.stringify(homeTermsFromConfig({ location_filter: { always_allow: ['Argentina'], allow: ['Remote'] }, prescreen_location: { keep: ['LatAm', 'Hybrid'] } }))
+    === JSON.stringify(['Argentina', 'LatAm']));
+check('scan pre-screen is off unless prescreen_location.enabled is true',
+  scanPrescreenFromConfig({ prescreen_location: { keep: ['Argentina'] } }) === null
+    && scanPrescreenFromConfig({}) === null);
+check('scan pre-screen stays off with no home-region terms',
+  scanPrescreenFromConfig({ prescreen_location: { enabled: true, keep: ['Remote'] } }) === null);
+const sp = scanPrescreenFromConfig({ prescreen_location: { enabled: true, keep: ['Argentina'] } });
+check('scan pre-screen keeps the home region and drops on-site elsewhere',
+  sp && classifyPosting({ url: 'https://x.test/a', location: 'Buenos Aires, Argentina' }, sp.keepRe).reason === null
+    && classifyPosting({ url: 'https://x.test/a', location: 'Austin, TX' }, sp.keepRe).reason === REASON_ONSITE);
 check('bare Remote with a restricting URL slug is discarded',
   reasonOf('https://acme.wd1.myworkdayjobs.com/x/job/Remote/Sr-SRE--Remote-US_JR1', 'Remote') === REASON_RESTRICTED);
 check('slug "Remote---Greece" is discarded',

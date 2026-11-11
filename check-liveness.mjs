@@ -30,7 +30,7 @@ import {
 } from './liveness-browser.mjs';
 import { checkLivenessViaApi } from './liveness-api.mjs';
 import { robotsAllows } from './robots-check.mjs';
-import { planExpiredHistoryRows, trackerLivenessTargets, DEFAULT_TRACKER_STATUSES, planExpiredDiscards, postingClosedNote, DEFAULT_DISCARD_STATUSES, discardableExpiredUrls } from './liveness-core.mjs';
+import { planExpiredHistoryRows, trackerLivenessTargets, parseMinScore, DEFAULT_TRACKER_STATUSES, planExpiredDiscards, postingClosedNote, DEFAULT_DISCARD_STATUSES, discardableExpiredUrls } from './liveness-core.mjs';
 import { appendToScanHistory, seenJobKey, SCAN_HISTORY_PATH } from './scan.mjs';
 import { withPipelineLock } from './pipeline-lock.mjs';
 import { isMainModule } from './lib/is-main-module.mjs';
@@ -48,13 +48,14 @@ const USAGE = `Usage:
   node check-liveness.mjs [--no-fallback] [--throttle[=ms]] [--no-record] <url1> [url2] ...
   node check-liveness.mjs [--no-fallback] [--throttle[=ms]] [--no-record] --file urls.txt
   node check-liveness.mjs --tracker [--status=Evaluated,Applied]   # postings of tracker rows in these statuses
+  node check-liveness.mjs --tracker --min-score=3.5                # skip Evaluated rows scored below 3.5 (Applied and later always checked)
   node check-liveness.mjs --tracker --discard-expired [--apply]    # dry-run move expired Evaluated rows to Discarded; --apply writes
   node check-liveness.mjs --no-record             # check only; write nothing to scan-history
   node check-liveness.mjs --help                  # print this usage block and exit
   node check-liveness.mjs -h                      # alias for --help`;
 
 const KNOWN_FLAGS = [
-  '--no-fallback', '--throttle', '--no-record', '--file', '--tracker', '--status',
+  '--no-fallback', '--throttle', '--no-record', '--file', '--tracker', '--status', '--min-score',
   '--discard-expired', '--apply', '--help', '-h',
 ];
 
@@ -91,11 +92,11 @@ function urlPositionals(args) {
   for (let i = 0; i < args.length; i++) {
     const a = args[i];
     if (typeof a !== 'string') continue;
-    if (a.startsWith('--file=') || a.startsWith('--status=') || a.startsWith('--throttle=')) {
+    if (a.startsWith('--file=') || a.startsWith('--status=') || a.startsWith('--throttle=') || a.startsWith('--min-score=')) {
       skip.add(i);
       continue;
     }
-    if (a === '--file' || a === '--status') {
+    if (a === '--file' || a === '--status' || a === '--min-score') {
       skip.add(i);
       if (args[i + 1] !== undefined) skip.add(i + 1);
       continue;
@@ -229,7 +230,7 @@ async function main() {
   // status-flag test locks, so the missing-operand check stays here rather
   // than in requireOperand. See tests/validate-flags-value-operand.test.mjs.
   validateFlags(args, KNOWN_FLAGS, USAGE, {
-    valueFlags: ['--file', '--status', '--throttle'],
+    valueFlags: ['--file', '--status', '--throttle', '--min-score'],
   });
 
   if (hasFlag(args, '--file')) {
@@ -265,10 +266,23 @@ async function main() {
     process.exitCode = 1;
     return;
   }
+  const minScoreGiven = hasFlag(args, '--min-score');
+  const minScore = minScoreGiven ? parseMinScore(flagValue(args, '--min-score')) : null;
+  if (minScoreGiven && minScore === null) {
+    console.error('--min-score needs a score from 0 to 5, e.g. --min-score=3.5');
+    process.exitCode = 1;
+    return;
+  }
   const fromTracker = args.includes('--tracker');
   const discardExpired = args.includes('--discard-expired');
   const applyDiscards = args.includes('--apply');
   const positional = urlPositionals(args);
+
+  if (minScoreGiven && !fromTracker) {
+    console.error('--min-score requires --tracker.');
+    process.exitCode = 1;
+    return;
+  }
 
   if (discardExpired && !fromTracker) {
     console.error('--discard-expired requires --tracker.');
@@ -298,8 +312,8 @@ async function main() {
     }
     trackerText = readFileSync(trackerPath, 'utf-8');
     const statuses = statusGiven ? statusValue.split(',').map((s) => s.trim()).filter(Boolean) : DEFAULT_TRACKER_STATUSES;
-    const { targets, noUrl } = trackerLivenessTargets(trackerText, { statuses, reportsRoot });
-    console.log(`Tracker rows with status ${statuses.join(' or ')}: ${targets.length} with a posting URL${noUrl.length ? `, ${noUrl.length} without (${noUrl.map((n) => `#${n}`).join(' ')})` : ''}`);
+    const { targets, noUrl, belowScore } = trackerLivenessTargets(trackerText, { statuses, reportsRoot, minScore });
+    console.log(`Tracker rows with status ${statuses.join(' or ')}: ${targets.length} with a posting URL${noUrl.length ? `, ${noUrl.length} without (${noUrl.map((n) => `#${n}`).join(' ')})` : ''}${belowScore.length ? `, ${belowScore.length} Evaluated below ${minScore} skipped (--min-score)` : ''}`);
     for (const t of targets) labels.set(t.url, `#${t.num} ${t.company} · ${t.role} (${t.status})`);
     urls = targets.map((t) => t.url);
   } else if (hasFlag(args, '--file')) {
