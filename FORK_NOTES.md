@@ -393,8 +393,10 @@ Open, in order:
    default DNS cap; see `docs/SHARED_FETCH.md` for what a higher cap does and does not buy.
 2. **Check the resolver chain** before raising the cap on any machine (encrypted DNS and plain fallbacks).
 3. **The `no-store` decision** for the shared fetcher, and the egress rule for readers (both in `docs/SHARED_FETCH.md`).
-4. **bridgeai side:** call `select-portals.mjs` and `union-portals.mjs` from the person setup, mount the store read-only,
-   and give the pool to `pool-derive.mjs`. Nothing in that repo changed yet.
+4. **bridgeai side:** the hub's `jobfetch` source, the store mount and `jobpush`'s store switch are built there but not
+   installed on the VM. Split agreed 2026-11-11 (`docs/SHARED_FETCH.md`, "Shared and personal"): shared boards once a night
+   by the fetcher, each person's own list by their bot's cron. Needs a read-only store mode here first (store hits read,
+   misses to the network, nothing written to the store); `CACHE_ONLY` would drop a person's own entries silently.
 5. **Not measured yet:** a cold full `scan.mjs` (hot-cache runs only), and the CV build step by step.
 6. **Ideas not started:** adaptive scan frequency per board from its hit rate, a per-query cache for Bumeran,
    a shared cache of public job text and liveness by URL, search queries generated from the role families,

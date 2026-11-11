@@ -177,6 +177,69 @@ raised cap makes more likely. Remove them (NetworkManager: ignore the automatic 
 server) or block plain port 53 to anything but loopback. A shared fetcher on a VM needs the same check for the
 VM and for its containers, which inherit the host's resolver list.
 
+## Shared and personal: who runs what (agreed 2026-11-11, not built)
+
+People share most of what they scan (the catalog employers, general boards such as Computrabajo
+or Get on Board) and each one also keeps a personal list (a designer's art and design boards, a
+company only they care about). The agreed split:
+
+- **Shared, once a night, with the store.** The fetcher reads everything several people ask
+  for, in the quiet window, before any reader runs. In bridgeai this is the hub's `jobfetch`
+  source (`aibridge/hub/HUB.md`, "The job scan"), which runs its own checkout of this repo.
+- **Personal, on demand, in the person's own bot.** Each bot's own cron runs that person's scan
+  after the nightly fetch, and again when the person asks. What the store holds is read from it;
+  the person's own entries go to the network from their stack, as today.
+- **Always per person**, whoever fetched the boards: `--verify` of their new postings, tracker
+  liveness, Bumeran/ZonaJobs (`scan-navent.mjs` searches by their keywords), the location
+  pre-screen, and triage/evaluation (their criteria, their model).
+
+### Why a new read mode is needed
+
+`CAREER_OPS_HTTP_CACHE_ONLY=1` makes a request that is not in the store fail without touching the
+network. That suits a reader whose whole `portals.yml` is in the union. A reader with personal
+entries would lose them silently while the store is fresh: only the count of skipped requests in
+the scan's output says so. The fetcher builds its union from profiles of catalog tags
+(`select-portals.mjs`), on purpose, so that a person cannot make the hub request an address of
+their own; their personal entries are therefore never in the store.
+
+The split above needs a third mode, **not built yet**: `CAREER_OPS_HTTP_CACHE_READONLY=1` (name to
+confirm). A fresh hit is read from the store; a miss goes to the network as it does without a store;
+nothing is written to the store (it is mounted read-only in the stacks), and the person's own
+misses are kept in the person's own cache instead. With it, one scan per person covers both halves,
+and the misses are exactly the personal part. `ONLY=1` stays for a reader that must never reach
+the job sites.
+
+### Who does what
+
+| Piece | Repo | State |
+| --- | --- | --- |
+| Store modes (`_DIR`, `_ONLY`, `_STORE_NO_STORE`, the new read-only mode) | jobfinder, `providers/_http-cache.mjs` | read-only mode to build |
+| `union-portals.mjs`, `select-portals.mjs`, the tagged catalog | jobfinder | built; `select-portals --boards` still open |
+| Scan, verify, liveness, pre-screen, `scheduled-chain.mjs` | jobfinder | built (`--liveness-min-score`, `prescreen_location`) |
+| The fetcher's schedule, checkout, union of profiles, the store on disk | bridgeai, hub `jobfetch` | built, not installed on the VM |
+| Mounting the store read-only in each stack (`/hub-shared`) | bridgeai | built, tried in one stack |
+| Each bot's cron that runs the person's scan (`jobpush`) | bridgeai | built; switch its store mode to read-only when that exists |
+| A person's profile (`hub jobs-profile`) and their personal list | the person, through their bot | profile built; the personal list is their own `portals.yml` |
+
+### Open questions
+
+- **Keyword-built requests on a shared site.** Computrabajo and a few others build the request from
+  the entry's keywords (`searchKeywords`). `union-portals.mjs` unions everybody's words, so the
+  fetcher's request differs from each person's and their own request is a miss. Either such a site
+  is treated as personal (each person asks with their own words, as now), or readers learn to read
+  the union's answer and filter it by their own title filter. bridgeai decided to keep these
+  requests out of the shared store for now (`HUB_JOBFETCH_UNION_ARGS`, the switch is still to build
+  here).
+- **Which shared boards a profile covers.** `select-portals.mjs` picks catalog employers by tag,
+  not boards. Until `--boards` exists, a general board is shared only if the operator puts it in the
+  fetcher's baseline profile.
+- **Order and timing.** The fetch must finish before the first bot's cron. Measured 2026-11-11 for one
+  person: fetch-only scan 436 s, a full chain 1413 s (scan 790, Bumeran 218, liveness 405). With the
+  pre-screen and `--liveness-min-score 3.5` the per-person part is expected near 10 min; not measured
+  yet as a nightly run.
+- **`scan-ats-full.mjs`** (2 h 37 min) belongs to the fetcher, once per machine, with `--pool`; each
+  person derives from the pool (`pool-derive.mjs`). Not scheduled anywhere yet.
+
 ## Pairing with the rest
 
 - `select-portals.mjs --regions ... --sectors ... --roles ...` decides what a person's file
