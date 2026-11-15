@@ -47,6 +47,7 @@ import { installPiiInterceptor } from './lib/pii-interceptor.mjs';
 import {
   isPostingUrl, normalizedTrackerScore, parseScoreSummary, slugifyCompany, tsvSafe,
 } from './lib/tracker-addition.mjs';
+import { NO_INVENTED_PAY_RULE, normalizeEvaluationText } from './lib/eval-evidence.mjs';
 
 // Ambient guard over global fetch (idempotent); the explicit gate below is the
 // primary layer, this covers anything the script hands to fetch directly.
@@ -58,7 +59,10 @@ tracker.recordZeroToken('pdf payload');
 
 try {
   const { config } = await import('dotenv');
-  config();
+  // The data root's .env first: doctor.mjs, remember-cli.mjs, scan.mjs and the
+  // plugin engine all read it there. The working directory's .env, the only one
+  // read before, still supplies what the data root's leaves unset.
+  config({ path: [join(getCareerOpsRoot(), '.env'), join(process.cwd(), '.env')] });
 } catch { /* dotenv optional */ }
 
 const ROOT = dirname(fileURLToPath(import.meta.url));
@@ -295,6 +299,7 @@ const { contextBody, budgetReport } = buildBudgetedPrompt({
   profileContent,
   customContent,
   jdText,
+  jdInContext: false, // The user message carries the JD; still budget it once.
   noCompress,
   modelName,
 });
@@ -323,7 +328,7 @@ ${contextBody}
 IMPORTANT OPERATING RULES FOR THIS SESSION
 ═══════════════════════════════════════════════════════
 1. You do NOT have access to WebSearch, Playwright, or file writing tools.
-   - Block D (Comp research): use training-data salary estimates; note them as estimates.
+   - ${NO_INVENTED_PAY_RULE}
    - Block G (Legitimacy): analyze JD text only; skip URL/page freshness checks.
    - Post-evaluation file saving is handled by the script, not by you.
 2. ${languageInstruction}
@@ -378,9 +383,12 @@ function buildTokenLimit(limit, host) {
 // ---------------------------------------------------------------------------
 // Call the OpenAI-compatible endpoint
 // ---------------------------------------------------------------------------
-const timeoutMs = parseInt(process.env.OPENAI_TIMEOUT_MS || '300000', 10);
-if (Number.isNaN(timeoutMs) || timeoutMs <= 0) {
-  console.error(`❌  Invalid OPENAI_TIMEOUT_MS: "${process.env.OPENAI_TIMEOUT_MS}" — must be a positive integer (milliseconds).`);
+// Digits only (parseInt read "300s" as a 300 ms timeout) and at most 2^31-1 ms:
+// AbortSignal.timeout() fires a longer delay after 1 ms, and throws past 2^32-1.
+const timeoutRaw = (process.env.OPENAI_TIMEOUT_MS || '300000').trim();
+const timeoutMs = /^\d+$/.test(timeoutRaw) ? Number(timeoutRaw) : NaN;
+if (!Number.isSafeInteger(timeoutMs) || timeoutMs <= 0 || timeoutMs > 2_147_483_647) {
+  console.error(`❌  Invalid OPENAI_TIMEOUT_MS: "${process.env.OPENAI_TIMEOUT_MS}" — must be a positive integer of at most 2147483647 (milliseconds).`);
   process.exit(1);
 }
 
@@ -409,6 +417,7 @@ if (apiKey) headers['Authorization'] = `Bearer ${apiKey}`;
 Object.assign(headers, endpointHeaders(endpointHost, SESSION_ID, careerOpsVersion));
 
 let evaluationText;
+let evaluationUsage = null;
 try {
   // Privacy gate: inspect the complete serialized request before it leaves the
   // machine. Shared boundary so openai-eval and openai-tailor cannot diverge.
@@ -460,52 +469,97 @@ try {
     process.exit(1);
   }
 
-  // SSE-Zeilen akkumulieren: content + reasoning_content getrennt
+  // Keep transport EOF distinct from a successfully completed generation.
   const parts = [];
   const reader = res.body.getReader();
-  const decoder = new TextDecoder();
+  const decoder = new TextDecoder('utf-8', { fatal: true });
+  // Bound each decoded line and joined event to 1 Mi UTF-16 code units, not the
+  // transport chunk or total reply: a chunk may contain many small events.
+  const recordLimit = 1024 * 1024;
   let sseBuf = '';
   let thinkOpen = false;
-  let streamUsage;
+  let streamDone = false;
   let finishReason = null;
-  while (true) {
-    const { done, value } = await reader.read();
-    if (done) break;
-    sseBuf += decoder.decode(value, { stream: true });
-    let nl;
-    while ((nl = sseBuf.indexOf('\n')) >= 0) {
-      const line = sseBuf.slice(0, nl).trim();
-      sseBuf = sseBuf.slice(nl + 1);
-      if (!line.startsWith('data:')) continue;
-      const payload = line.slice(5).trim();
-      if (payload === '[DONE]') continue;
-      let delta;
-      try { delta = JSON.parse(payload); } catch { continue; }
-      streamUsage = delta.usage ?? delta.x_groq?.usage ?? streamUsage;
-      finishReason = delta.choices?.[0]?.finish_reason ?? finishReason;
-      const d = delta.choices?.[0]?.delta ?? {};
-      if (d.reasoning_content) {
-        if (!thinkOpen) { parts.push('\n<think>\n'); thinkOpen = true; }
-        parts.push(d.reasoning_content);
-      } else {
-        if (thinkOpen) { parts.push('\n</think>\n\n'); thinkOpen = false; }
-        if (d.content) parts.push(d.content);
+  let answer = '';
+  let eventData = [];
+  let eventSize = 0;
+  const consumeEvent = () => {
+    if (!eventData.length) return;
+    const payload = eventData.join('\n').trim();
+    eventData = [];
+    eventSize = 0;
+    if (payload === '[DONE]') { streamDone = true; return; }
+    const obj = JSON.parse(payload);
+    if (obj.error) throw new Error(String(obj.error.message || obj.error).slice(0, 300));
+    // Some compatible endpoints report running totals or Groq-shaped usage.
+    // Keep the latest complete counts, including a genuine measured zero.
+    const usage = obj.usage ?? obj.x_groq?.usage;
+    if (Number.isFinite(usage?.prompt_tokens) && usage.prompt_tokens >= 0
+        && Number.isFinite(usage?.completion_tokens) && usage.completion_tokens >= 0) {
+      evaluationUsage = {
+        ...usage,
+        total_tokens: usage.total_tokens ?? usage.prompt_tokens + usage.completion_tokens,
+      };
+    }
+    const choice = obj.choices?.[0];
+    if (choice?.finish_reason != null) {
+      finishReason = choice.finish_reason;
+      if (finishReason === 'length') {
+        console.error(`⚠️   The reply stopped at the ${maxTokens}-token output cap, so the evaluation may be truncated (missing blocks or score summary).`);
+        console.error(`    Raise CAREER_OPS_MAX_TOKENS to allow a longer reply.`);
+      }
+      if (finishReason !== 'stop') throw new Error(`Incomplete evaluation: finish_reason=${finishReason}`);
+    }
+    const d = choice?.delta ?? {};
+    if (d.tool_calls?.length || d.function_call) {
+      throw new Error('The endpoint returned an unsupported tool call instead of an evaluation.');
+    }
+    if (d.reasoning_content) {
+      if (!thinkOpen) { parts.push('\n<think>\n'); thinkOpen = true; }
+      parts.push(d.reasoning_content);
+    }
+    if (d.content) {
+      if (thinkOpen) { parts.push('\n</think>\n\n'); thinkOpen = false; }
+      parts.push(d.content);
+      answer += d.content;
+    }
+  };
+  const consumeLine = line => {
+    if (line.length > recordLimit) throw new Error('Stream line exceeds the 1 Mi code-unit limit');
+    line = line.replace(/\r$/, '');
+    if (!line) consumeEvent();
+    else if (line.startsWith('data:')) {
+      const data = line.slice(5).replace(/^ /, '');
+      eventSize += data.length + (eventData.length ? 1 : 0);
+      if (eventSize > recordLimit) throw new Error('Stream event exceeds the 1 Mi code-unit limit');
+      eventData.push(data);
+    }
+  };
+  try {
+    while (!streamDone) {
+      const { done, value } = await reader.read();
+      sseBuf += done ? decoder.decode() : decoder.decode(value, { stream: true });
+      let nl;
+      while (!streamDone && (nl = sseBuf.indexOf('\n')) >= 0) {
+        consumeLine(sseBuf.slice(0, nl));
+        sseBuf = sseBuf.slice(nl + 1);
+      }
+      if (!streamDone && sseBuf.length > recordLimit) throw new Error('Stream line exceeds the 1 Mi code-unit limit');
+      if (done) {
+        if (sseBuf) consumeLine(sseBuf);
+        consumeEvent();
+        break;
       }
     }
+  } finally {
+    await reader.cancel().catch(() => {});
+    reader.releaseLock();
   }
+  if (!streamDone && finishReason !== 'stop') throw new Error('Incomplete evaluation: stream ended before completion');
+  if (!answer.trim()) throw new Error('The endpoint returned an empty response.');
   if (thinkOpen) parts.push('\n</think>\n');
-  if (streamUsage) tracker.record('evaluation', normalizeOpenAIUsage(streamUsage));
   evaluationText = parts.join('').trim();
-  // Before the empty check: a thinking model can spend the whole cap on
-  // reasoning, and then this is the only explanation the user gets.
-  if (finishReason === 'length') {
-    console.error(`⚠️   The reply stopped at the ${maxTokens}-token output cap, so the evaluation may be truncated (missing blocks or score summary).`);
-    console.error(`    Raise CAREER_OPS_MAX_TOKENS to allow a longer reply.`);
-  }
-  if (!evaluationText) {
-    console.error('❌  The endpoint returned an empty response.');
-    process.exit(1);
-  }
+  if (evaluationUsage) tracker.record('evaluation', normalizeOpenAIUsage(evaluationUsage));
 } catch (err) {
   if (err.name === 'TimeoutError') {
     console.error(`❌  Request timed out after ${Math.round(timeoutMs / 1000)}s.`);
@@ -519,6 +573,8 @@ try {
 // ---------------------------------------------------------------------------
 // Display evaluation
 // ---------------------------------------------------------------------------
+evaluationText = normalizeEvaluationText(evaluationText, jdText);
+
 console.log('\n' + '═'.repeat(66));
 console.log('  CAREER-OPS EVALUATION — powered by ' + modelName + ' (' + endpointHost + ')');
 console.log('═'.repeat(66) + '\n');
@@ -641,4 +697,6 @@ console.log('\n' + '─'.repeat(66));
 console.log(`  Score: ${score}/5  |  Archetype: ${archetype}  |  Legitimacy: ${legitimacy}`);
 console.log('─'.repeat(66) + '\n');
 
-console.log(formatBreakdown(tracker, modelName, 'openai'));
+console.log(evaluationUsage
+  ? formatBreakdown(tracker, modelName, 'openai')
+  : `Token breakdown:\n  evaluation:    usage unavailable (endpoint did not report token counts)\n  (metadata: model=${modelName}, provider=openai)`);

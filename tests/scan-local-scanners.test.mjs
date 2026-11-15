@@ -9,10 +9,13 @@ import {
   slugify, decodeHtml,
   createLocalGate, writeRunLog,
 } from '../scan-local-lib.mjs';
+import { companyRoleDedupKey, buildLocationFilter } from '../scan.mjs';
+import { normalizeCompanyName } from '../invite-match.mjs';
 import {
   buildSeekUrl, parseSeekPage, extractReduxJson,
   scanSeekSearch, loadSearches as seekSearches,
 } from '../scan-seek.mjs';
+import { PORTAL_TOP_LEVEL_KEYS, portalTopLevelTypos } from '../validate-portals.mjs';
 
 const ROOT = fileURLToPath(new URL('..', import.meta.url));
 
@@ -62,6 +65,63 @@ test('local gate: title, seen URL, same-role dedup within and across runs', () =
     seenRoles: new Set([gate.roleKey(a)]),
   });
   assert.strictEqual(known.check({ ...a, url: 'https://y.test/1' }), 'duplicate-role');
+});
+
+test('a locationless seen role still blocks a located local offer, and another city does not', () => {
+  const open = {
+    titleFilter: () => true,
+    locationFilter: () => true,
+    blacklist: new Map(),
+    seen: new Set(),
+  };
+  const config = { location_filter: { workplace_policy: { onsite_locations: ['Harbor Bay'] } } };
+  const bare = companyRoleDedupKey('Lumenfield', 'Automation Analyst', normalizeCompanyName);
+  const blocked = createLocalGate({
+    config,
+    gateOptions: open,
+    seenRoles: new Set([bare]),
+  });
+  assert.strictEqual(
+    blocked.check({ url: 'https://boards.example/jobs/1', company: 'Lumenfield', title: 'Automation Analyst', location: 'Harbor Bay' }),
+    'duplicate-role',
+  );
+
+  const pebble = companyRoleDedupKey('Lumenfield', 'Automation Analyst', normalizeCompanyName, 'Pebbleford, TX');
+  const otherCity = createLocalGate({
+    config,
+    gateOptions: { ...open, seen: new Set() },
+    seenRoles: new Set([pebble]),
+  });
+  assert.strictEqual(
+    otherCity.check({ url: 'https://boards.example/jobs/2', company: 'Lumenfield', title: 'Automation Analyst', location: 'Harbor Bay' }),
+    null,
+  );
+});
+
+test('a located role blocks a later offer with no city, and a different city still comes through', () => {
+  const open = {
+    titleFilter: () => true,
+    locationFilter: () => true,
+    blacklist: new Map(),
+    seen: new Set(),
+  };
+  const config = { location_filter: { workplace_policy: { onsite_locations: ['Harbor Bay'] } } };
+  const harbor = { url: 'https://boards.example/jobs/1', company: 'Lumenfield', title: 'Automation Analyst', location: 'Harbor Bay' };
+  const noCity = { url: 'https://boards.example/jobs/2', company: 'Lumenfield', title: 'Automation Analyst' };
+  const pebble = { url: 'https://boards.example/jobs/3', company: 'Lumenfield', title: 'Automation Analyst', location: 'Pebbleford, TX' };
+
+  const locatedFirst = createLocalGate({ config, gateOptions: open, seenRoles: new Set() });
+  assert.strictEqual(locatedFirst.check(harbor), null);
+  assert.strictEqual(locatedFirst.check(noCity), 'duplicate-role');
+  assert.strictEqual(locatedFirst.check(pebble), null);
+
+  const bareFirst = createLocalGate({
+    config,
+    gateOptions: { ...open, seen: new Set() },
+    seenRoles: new Set(),
+  });
+  assert.strictEqual(bareFirst.check(noCity), null);
+  assert.strictEqual(bareFirst.check({ ...harbor, url: 'https://boards.example/jobs/4' }), 'duplicate-role');
 });
 
 test('writeRunLog appends a scan-runs.tsv row stats.mjs can read by header name', async () => {
@@ -224,6 +284,44 @@ test('seek page parsing reads SEEK_REDUX_DATA, dedups ids, decodes text', () => 
   assert.strictEqual(offers[1].postedAt, '');
 });
 
+const SEEK_HTML_LOCATIONS = `<html><script>window.SEEK_REDUX_DATA = ${JSON.stringify({
+  results: { results: { jobs: [
+    { id: '82000001', title: 'Senior .NET Developer', advertiser: { description: 'Harbour Tech' },
+      locations: [{ countryCode: 'NZ', label: 'Auckland CBD, Auckland' }],
+      workArrangements: { data: [{ id: '3', label: { text: 'Remote' } }], displayText: 'Remote' } },
+    { id: '82000002', title: 'Senior C# Engineer', advertiser: { description: 'Harbour Tech' },
+      locations: [{ countryCode: 'NZ', label: 'Wellington Central, Wellington' }],
+      workArrangements: { data: [{ id: '2', label: { text: 'Hybrid' } }], displayText: 'Hybrid' } },
+    { id: '82000003', title: 'Software Engineer', advertiser: { description: 'Harbour Tech' },
+      locations: [{ countryCode: 'NZ', label: 'Masterton, Wairarapa' }],
+      workArrangements: { data: [{ id: '1', label: { text: 'On-site' } }] } },
+    { id: '82000004', title: 'Developer', advertiser: { description: 'Harbour Tech' } },
+  ] } },
+})};</script></html>`;
+
+test('seek page parsing reads the locations array and work arrangement', () => {
+  const offers = parseSeekPage(SEEK_HTML_LOCATIONS);
+  assert.deepStrictEqual(offers.map((o) => [o.location, o.workArrangement]), [
+    ['Auckland CBD, Auckland, New Zealand', 'Remote'],
+    ['Wellington Central, Wellington, New Zealand', 'Hybrid'],
+    ['Masterton, Wairarapa, New Zealand', 'On-site'],
+    ['', undefined],
+  ]);
+  assert.ok(!('workArrangement' in offers[3]));
+});
+
+test('seek work arrangement reaches the workplace_policy: remote NZ admitted, hybrid elsewhere dropped', () => {
+  const filter = buildLocationFilter({
+    always_allow: ['New Zealand'],
+    allow: ['New Zealand'],
+    workplace_policy: { onsite_locations: ['Masterton'], remote_countries: ['New Zealand'] },
+  });
+  const [remote, hybrid, onsite] = parseSeekPage(SEEK_HTML_LOCATIONS);
+  assert.strictEqual(filter(remote.location, remote.url, remote.title, remote), true);
+  assert.strictEqual(filter(hybrid.location, hybrid.url, hybrid.title, hybrid), false);
+  assert.strictEqual(filter(onsite.location, onsite.url, onsite.title, onsite), true);
+});
+
 test('seek page parsing throws descriptively for blocked/malformed pages', () => {
   assert.throws(
     () => parseSeekPage('<html>blocked</html>'),
@@ -254,6 +352,17 @@ test('seek searches config: minimal { keyword, location? } schema plus optional 
     ],
   );
   assert.deepStrictEqual(seekSearches({}), []);
+});
+
+test('seek_searches is a registered portals.yml key, so a typo is reported', () => {
+  // Same class of bug as `tracked_companys` and the TopDev key: a valid list
+  // plus a `seek_searche` miss beside it used to validate clean, and the
+  // scanner would read the real list and silently ignore the extra search.
+  assert.ok(PORTAL_TOP_LEVEL_KEYS.includes('seek_searches'));
+  assert.deepStrictEqual(
+    portalTopLevelTypos({ seek_searches: [{ keyword: 'devops' }], seek_searche: [{ keyword: 'qa' }] }),
+    [{ key: 'seek_searche', suggestion: 'seek_searches' }],
+  );
 });
 
 // ── CLI ──────────────────────────────────────────────────────────────

@@ -57,6 +57,7 @@
 
 import { fetchTextWithRetry, sleep } from './_http.mjs';
 import { decodeEntities } from './_html-entities.mjs';
+import { markTruncated } from '../lib/board-truncation.mjs';
 
 /** Country hosts that answered with real listings on 2026-10-04. */
 const COUNTRIES = new Set([
@@ -475,6 +476,11 @@ export default {
 
     if (truncated.length) {
       console.warn(`computrabajo: ${country} stopped at max_pages=${maxPages} for "${truncated.join('", "')}" with more results available — raise max_pages on this entry`);
+    }
+    // A partly read board says so in the return value, so scan.mjs logs it
+    // `partial` instead of `reachable` (lib/board-truncation.mjs, upstream #7041).
+    if (!probing && (aborted || truncated.length)) {
+      markTruncated(jobs, aborted ? 'fetch-error' : 'page-cap', { fetched: jobs.length });
     }
     return jobs;
   },

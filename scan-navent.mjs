@@ -69,7 +69,7 @@
 import { readFileSync, existsSync, mkdirSync } from 'fs';
 import { loadYaml } from './lib/yaml-document.mjs';
 import {
-  appendToPipeline, appendToScanHistory, loadSeenUrls, appendUnrecordedToScanHistory, PORTALS_PATH,
+  appendToPipeline, appendToScanHistory, loadSeenUrls, appendUnrecordedToScanHistory, PORTALS_PATH, scanHistoryPolicy,
   buildTitleFilter, buildLocationFilter, parseSinceDays, resolveEffectiveAfter, buildPostedDateFilter,
   companyRoleDedupKey, loadBlacklist, findBlacklistEntry,
 } from './scan.mjs';
@@ -601,7 +601,7 @@ async function main(args) {
   const matchesDate = buildPostedDateFilter(effectiveAfter, null);
 
   mkdirSync(`${getCareerOpsRoot()}/data`, { recursive: true });
-  const { seen } = loadSeenUrls();
+  const { seen } = loadSeenUrls(scanHistoryPolicy(config));
   const date = localToday();
 
   const newOffers = [];

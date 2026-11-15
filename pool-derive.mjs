@@ -34,7 +34,7 @@ import { localToday } from './lib/local-today.mjs';
 import { readPool, parseSalaryCell } from './lib/postings-pool.mjs';
 import {
   buildLocationFilter, buildTitleFilterOverrides, buildTitleFilterWithOverrides,
-  loadSeenUrls, appendToPipeline, appendToScanHistory, loadBlacklist,
+  loadSeenUrls, scanHistoryPolicy, appendToPipeline, appendToScanHistory, loadBlacklist,
   PORTALS_PATH, PIPELINE_PATH,
 } from './scan.mjs';
 import {
@@ -112,7 +112,7 @@ async function main() {
   if (!Number.isFinite(sinceDays) || sinceDays <= 0) { console.error('--since needs a number of days above 0'); process.exit(1); }
   const config = loadYaml(readFileSync(PORTALS_PATH, 'utf-8')) || {};
   const today = localToday();
-  const { seen } = loadSeenUrls({}, {
+  const { seen } = loadSeenUrls(scanHistoryPolicy(config), {
     extraTokensFor: (url, portal) => providerForSource(portal)?.dedupKey?.({ url }),
   });
   const { offers, counts, cutoffDay } = derive({

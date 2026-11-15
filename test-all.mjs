@@ -900,6 +900,7 @@ const scripts = [
   { name: 'detect-reposts.mjs --self-test', expectExit: 0 },
   { name: 'rank-pipeline.mjs --self-test', expectExit: 0 },
   { name: 'discover-ats.mjs --self-test', expectExit: 0 },
+  { name: 'harvest-buildlist.mjs --self-test', expectExit: 0 },
   { name: 'process-quality.mjs --self-test', expectExit: 0 },
   { name: 'company-history.mjs --self-test', expectExit: 0 },
   { name: 'rejection-latency.mjs --self-test', expectExit: 0 },
@@ -2642,43 +2643,36 @@ const leakPatterns = [
 ];
 
 const scanExtensions = ['md', 'yml', 'html', 'mjs', 'sh', 'go', 'json'];
-const allowedFiles = [
-  // English README + localized translations (all legitimately credit Santiago)
-  'README.md', 'README.ar.md', 'README.da.md', 'README.de.md', 'README.es.md', 'README.fr.md', 'README.hi.md',
-  'README.ja.md', 'README.ko-KR.md', 'README.pl.md', 'README.pt-BR.md', 'README.ru.md', 'README.ta.md', 'README.cn.md',
-  'README.ua.md', 'README.zh-TW.md', 'README.tr.md',
+
+// Every exemption is an EXACT repo-relative path. An earlier version tested
+// allowedFiles.some(a => file.includes(a)), a substring match: an entry like
+// 'README.md' or 'package.json' also exempted any nested file that merely
+// shares the name, such as a future fixtures/package.json or
+// snapshots/tests/hired-wall.test.mjs (luochen211, #4144 review). #4131 added
+// a separate exact list for that reason; the two lists are now one, so a new
+// exemption covers exactly the file it names and nothing else.
+const allowedFiles = new Set([
+  // Root READMEs are matched by isRootReadme() below, not listed here.
+  // A nested README is listed explicitly: the scaffolder's own README credits
+  // the project it scaffolds from.
+  'scaffolder/README.md',
   // Standard project files
-  'LICENSE', 'CITATION.cff', 'CONTRIBUTING.md', 'CHANGELOG.md', 'TRADEMARK.md',
-  'package.json', '.github/FUNDING.yml', 'CLAUDE.md', 'AGENTS.md', 'go.mod', 'test-all.mjs',
+  'CONTRIBUTING.md', 'CHANGELOG.md', 'TRADEMARK.md',
+  'package.json', 'scaffolder/package.json', 'AGENTS.md', 'test-all.mjs',
   '.claude-plugin/marketplace.json', '.claude-plugin/plugin.json', '.github/plugin/plugin.json',
+  // The claude-directory manifest credits its developer like the root
+  // .claude-plugin one above.
+  'claude-directory/.claude-plugin/plugin.json',
   // Community / governance files (added in v1.3.0, all legitimately reference the maintainer)
-  'CODE_OF_CONDUCT.md', 'GOVERNANCE.md', 'SECURITY.md', 'SUPPORT.md',
+  'CODE_OF_CONDUCT.md', 'SECURITY.md', 'SUPPORT.md',
   // Manifesto: the author signs it publicly; the ledger carries signers' names by design
   'MANIFESTO.md', 'SIGNATURES.md', '.github/PULL_REQUEST_TEMPLATE/sign-manifesto.md',
   '.github/SECURITY.md',
-  // Dashboard credit string
-  'dashboard/internal/ui/screens/pipeline.go',
-  'dashboard/internal/ui/screens/progress.go',
-];
-
-// Paths added for #4131, checked by EXACT match rather than folded into
-// allowedFiles above. allowedFiles.some(a => file.includes(a)) is a
-// substring test, which every pre-existing entry already relies on (a
-// nested path containing e.g. "README.md" is exempted too) — widening that
-// same list with plain root-relative basenames like 'funding.json' or
-// 'HIRED.md' would also silently exempt an unrelated tracked file that
-// merely shares a basename, such as a future fixtures/funding.json or
-// snapshots/tests/hired-wall.test.mjs (luochen211, #4144 review). These are
-// the ones this PR actually intends to allow, so they get the tighter
-// check instead of loosening the shared one.
-const exactAllowedFiles = new Set([
-  // Exempt only the root Indonesian README, not similarly named files.
-  'README.id.md',
   // GitHub Sponsors funding target + Codex plugin manifest (#4131) — same
   // maintainer-credit shape as the .claude-plugin/.github/plugin ones above.
   'funding.json', '.codex-plugin/plugin.json',
   // The OpenAI plugin directory listing names its developer, like the
-  // claude-directory manifest that '.claude-plugin/plugin.json' above covers.
+  // claude-directory manifest above.
   'openai-directory/plugin.json',
   // The Antigravity Marketplace manifest credits its author the same way.
   'antigravity-directory/plugin.json',
@@ -2686,11 +2680,23 @@ const exactAllowedFiles = new Set([
   // scripts/tests that build and cover that feature necessarily carry the
   // same URL (#4131).
   'HIRED.md', 'hired-wall-build.mjs', 'tests/hired-wall.test.mjs', 'tests/project-identity.test.mjs',
-  // Dashboard credit string (#4131) — same substring-vs-exact reasoning as
-  // the entries above; the pre-existing pipeline.go/progress.go entries stay
-  // in the broad allowedFiles list above since they predate this PR.
+  // Dashboard credit string
+  'dashboard/internal/ui/screens/pipeline.go',
+  'dashboard/internal/ui/screens/progress.go',
   'dashboard/internal/ui/screens/stats.go',
+  // An employer registry manifest names who granted its license, by design
+  // (signed_by, employers/README.md). This one is the maintainer's own.
+  'employers/contributions/2026-11-08-santifer.json',
+  // The registry README names its licensor and the address an employer writes
+  // to for removal, by design (employers/README.md, License and Removal).
+  'employers/README.md',
 ]);
+
+// The English README and every localized translation at the repo root
+// legitimately credit Santiago. Matched by shape instead of one entry per
+// language, so a new translation needs no edit here. Root only: no '/' in
+// the path. Same filename shape as tests/how-it-works-diagram.test.mjs.
+const isRootReadme = (file) => !file.includes('/') && /^README(\.[\w-]+)?\.md$/.test(file);
 
 // Build pathspec for git grep — only scan tracked files matching these
 // extensions. This is what `grep -rn` was trying to do, but git-aware:
@@ -2740,9 +2746,7 @@ for (const pattern of leakPatterns) {
   if (result) {
     for (const file of result.split('\0')) {
       if (!file) continue;
-      if (allowedFiles.some(a => file.includes(a))) continue;
-      if (exactAllowedFiles.has(file)) continue;
-      if (file.includes('dashboard/go.mod')) continue;
+      if (allowedFiles.has(file) || isRootReadme(file)) continue;
       warn(`Possible personal data in ${file}: "${pattern}"`);
       leakFound = true;
     }
@@ -4077,8 +4081,9 @@ if (
         /New York State|not\s+NYC|not\s+sufficient/i.test(nyRow.candidate_residency_condition);
 
       // CodeRabbit finding 2 (#2896): the EU AI Act's high-risk obligations
-      // for stand-alone Annex III systems were provisionally deferred (May
-      // 2026 Digital Omnibus agreement) from 2026-08-02 to 2027-12-02, and
+      // for stand-alone Annex III systems were deferred (Regulation (EU)
+      // 2026/1744, the Digital Omnibus on AI, final law) from 2026-08-02 to
+      // 2027-12-02, and
       // official_source.url must point at an actual EU institutional source
       // (EUR-Lex or a *.europa.eu page) — not a third-party summary site.
       const euRow = j['EU'];
@@ -4089,16 +4094,17 @@ if (
         /europa\.eu/i.test(euRow.official_source.url) &&
         /Digital Omnibus/i.test(euRow.enforcement_notes || '') &&
         /2026-08-02/.test(euRow.enforcement_notes || '') &&
-        /provisional/i.test(euRow.enforcement_notes || '');
+        /2026\/1744/.test(euRow.enforcement_notes || '') &&
+        !/provisional/i.test(euRow.enforcement_notes || '');
 
       if (
         nyRowCityKeyed &&
         rowComplete(j['US-IL']) && j['US-IL'].law_name.includes('820 ILCS 42') &&
         euRowCorrected
       ) {
-        pass('jurisdiction-ai-screening-disclosure.yml parses and all three seeds carry corrected facts: US-NY-NYC (Local Law 144, city-keyed with explicit job_location_condition + candidate_residency_condition, no leftover state-wide US-NY key), US-IL (820 ILCS 42), EU AI Act 2024/1689 (effective 2027-12-02 per the provisional Digital Omnibus deferral, official_source on a europa.eu domain) (#2896 CodeRabbit findings 1+2)');
+        pass('jurisdiction-ai-screening-disclosure.yml parses and all three seeds carry corrected facts: US-NY-NYC (Local Law 144, city-keyed with explicit job_location_condition + candidate_residency_condition, no leftover state-wide US-NY key), US-IL (820 ILCS 42), EU AI Act 2024/1689 (effective 2027-12-02 per the final-law Digital Omnibus deferral, Regulation (EU) 2026/1744, official_source on a europa.eu domain) (#2896 CodeRabbit findings 1+2)');
       } else {
-        fail('jurisdiction-ai-screening-disclosure.yml seeds incomplete/incorrect — needs US-NY-NYC (not state-wide US-NY) with job_location_condition + candidate_residency_condition (five-boroughs, explicitly excluding a generic New York State match), US-IL (820 ILCS 42), and EU (AI Act 2024/1689, effective 2027-12-02, official_source.url on a europa.eu domain, enforcement_notes documenting the provisional Digital Omnibus deferral from the original 2026-08-02 date) (#2896)');
+        fail('jurisdiction-ai-screening-disclosure.yml seeds incomplete/incorrect — needs US-NY-NYC (not state-wide US-NY) with job_location_condition + candidate_residency_condition (five-boroughs, explicitly excluding a generic New York State match), US-IL (820 ILCS 42), and EU (AI Act 2024/1689, effective 2027-12-02, official_source.url on a europa.eu domain, enforcement_notes documenting the final-law Digital Omnibus deferral (Regulation (EU) 2026/1744) from the original 2026-08-02 date) (#2896)');
       }
 
       if (
@@ -5948,21 +5954,21 @@ try {
   }
 
   // ── 2. a16z HTML parsing ───────────────────────────────────────────
-  // Sample HTML fixture with data-company-name attributes (the most reliable strategy).
-  const a16zHtml = `
-    <div class="portfolio-grid">
-      <a href="https://github.com" data-company-name="GitHub" data-company-url="https://github.com" class="portfolio-card"></a>
-      <a href="https://lyft.com" data-company-name="Lyft" data-company-url="https://lyft.com" class="portfolio-card"></a>
-      <a href="https://slack.com" data-company-name="Slack" data-company-url="https://slack.com" class="portfolio-card"></a>
-    </div>
-  `;
+  // The live page embeds its list as HTML-escaped JSON in a data-companies
+  // attribute (tests/vc-portfolios-a16z.test.mjs covers the real markup).
+  const a16zList = [
+    { id: '1', name: 'GitHub', company_url: 'https://github.com', acquirer: '' },
+    { id: '2', name: 'Lyft', company_url: 'https://lyft.com', acquirer: '' },
+    { id: '3', name: 'Slack', company_url: 'https://slack.com', acquirer: '' },
+  ];
+  const a16zHtml = `<div x-data="wr25Portfolio()" data-companies="${JSON.stringify(a16zList).replace(/"/g, '&quot;')}"></div>`;
   const a16zEntries = parseA16zPayload(a16zHtml);
   const a16zOk =
     a16zEntries.length === 3 &&
     a16zEntries.some(e => e.name === 'GitHub' && e.source === 'a16z' && e.url === 'https://github.com') &&
     a16zEntries.some(e => e.name === 'Lyft' && e.source === 'a16z') &&
     a16zEntries.some(e => e.name === 'Slack' && e.source === 'a16z');
-  if (a16zOk) pass('parseA16zPayload: extracts companies from data-company-name HTML attributes');
+  if (a16zOk) pass('parseA16zPayload: extracts companies from the data-companies attribute');
   else fail(`parseA16zPayload: output wrong — got ${a16zEntries.length} entries: ${JSON.stringify(a16zEntries.map(e => e.name))}`);
 
   // parseSeedEntries() delegating to a16z.
@@ -6008,9 +6014,9 @@ try {
   // ── 5. toPortalEntry — no ATS hint, slug-based fallback ───────────
   const noHint = toPortalEntry({ name: 'NewCo', slug: 'newco', url: 'https://newco.io', source: 'yc' });
   const noHintOk =
-    noHint.careers_url === 'https://job-boards.greenhouse.io/newco' && // Greenhouse is the default probe
+    noHint.careers_url === 'https://jobs.ashbyhq.com/newco' && // first of the Ashby, Greenhouse, Lever slug probes
     noHint.name === 'NewCo';
-  if (noHintOk) pass('toPortalEntry: no ATS hint falls back to Greenhouse URL from slug (provider.detect() validates at scan time)');
+  if (noHintOk) pass('toPortalEntry: no ATS hint → first slug probe (Ashby); the scan also tries Greenhouse and Lever');
   else fail(`toPortalEntry fallback wrong — got: ${noHint.careers_url}`);
 
   // ── 5b. toPortalEntry — website fallback when slug is empty ───────
@@ -12106,11 +12112,13 @@ try {
     // more-advanced status (both below Applied, so the advanced-status safety
     // guard doesn't block the collapse), so dedup promotes #50's status and
     // rewrites the row — exercising rebuildRow() on a no-trailing-pipe row.
+    // Discarded still loses to Evaluated. Rejected does not: a title match
+    // keeps that row, so it no longer drives this rewrite.
     writeFileSync(tracker,
       '# Applications Tracker\n\n' +
       '| # | Date | Company | Role | Score | Status | PDF | Report | Notes |\n' +
       '|---|------|---------|------|-------|--------|-----|--------|-------|\n' +
-      '| 50 | 2026-02-01 | Globex | Widget Engineer | 4.5/5 | Rejected | ❌ | [50](../reports/050-widget.md) | KEEPER_NOTE_SENTINEL\n' +
+      '| 50 | 2026-02-01 | Globex | Widget Engineer | 4.5/5 | Discarded | ❌ | [50](../reports/050-widget.md) | KEEPER_NOTE_SENTINEL\n' +
       '| 51 | 2026-02-02 | Globex | Widget Engineer | 3.0/5 | Evaluated | ❌ | [51](../reports/051-widget.md) | dup row |\n');
 
     const r = run(NODE, ['dedup-tracker.mjs'], { env: { ...process.env, CAREER_OPS_TRACKER: tracker } });
@@ -12290,11 +12298,13 @@ try {
     const tracker = join(locTmp, 'data', 'applications.md');
     // Two dup rows (same company+role) with a Location column. Keeper #60 has the
     // higher score but the lower status; dedup must promote its Status cell.
+    // Discarded still loses to Evaluated. Rejected is kept on a title match,
+    // so it would not move the Status cell this check is watching.
     writeFileSync(tracker,
       '# Applications Tracker\n\n' +
       '| # | Date | Company | Role | Location | Score | Status | PDF | Report | Notes |\n' +
       '|---|------|---------|------|----------|-------|--------|-----|--------|-------|\n' +
-      '| 60 | 2026-02-01 | Globex | Widget Engineer | Berlin | 4.5/5 | Rejected | ❌ | [60](r.md) | LOC_SENTINEL |\n' +
+      '| 60 | 2026-02-01 | Globex | Widget Engineer | Berlin | 4.5/5 | Discarded | ❌ | [60](r.md) | LOC_SENTINEL |\n' +
       '| 61 | 2026-02-02 | Globex | Widget Engineer | Berlin | 3.0/5 | Evaluated | ❌ | [61](r.md) | dup |\n');
 
     const r = run(NODE, ['dedup-tracker.mjs'], { env: { ...process.env, CAREER_OPS_TRACKER: tracker } });
@@ -14988,6 +14998,7 @@ try {
   }
 
   const cjkFilledTemplate = () => cjkTemplateSrc
+    .replace(/\{\{PAPER\}\}/g, 'letterpaper')
     .replace(/\{\{NAME\}\}/g, 'Test Candidate')
     .replace(/\{\{CONTACT_LINE\}\}/g, 'Toronto, ON')
     .replace(/\{\{EMAIL_URL\}\}/g, 'test@example.com')
