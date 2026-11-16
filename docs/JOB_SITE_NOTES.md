@@ -98,6 +98,13 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 - **Evaluate them honestly, not as vacancies.** The role-clarity check (`role-clarity.mjs`) misses most of its six points; Block G reads "Proceed with Caution". Price the hourly band at a realistic hours-per-week range (see "Hourly contract pay needs hours") and say that work is not guaranteed. A title that matches the candidate's craft (for example a video role for someone with a studio) raises fit, not certainty of work.
 - **Applying creates an account** on the marketplace's own platform, often with an AI-run first interview. Log the account in `data/accounts-registry.md` before creating it.
 
+- **Field notes (2026-11-16).** Three patterns seen in one batch of these postings. (1) A company that offers several "AI task auditor" specialties may consider each candidate for **one specialty only**: compare them and apply to the single best fit. (2) Some screen with a **take-home plus a recorded video walkthrough** (Loom) and no interview, which tests spoken English as much as the skill. (3) "Application user" tasks for a specific OS run **on your own desktop**: the listing may require that exact OS version as your daily system, a minimum screenshot resolution (one example: above 2.5 megapixels, met by two 1920×1080 monitors), and a time tracker that takes periodic screenshots. Pay bands are hourly with no guaranteed hours; projects can end without notice.
+
+### BambooHR (employer career sites)
+
+- The public posting page is rendered in the browser, so a plain fetch returns only the word "BambooHR". The same tenant serves the posting as JSON at `https://{tenant}.bamboohr.com/careers/{id}/detail` (description, location tag, compensation when published, employment status).
+- **The location tag can contradict the text.** One posting said "work from home" with no country limit while its location tag named a single country, and aggregators copied the tag as an on-site role there. Read both, and ask the employer when they disagree.
+
 ### Himalayas (remote jobs board)
 
 - The API provider lists postings reliably, but the posting pages sit behind a Cloudflare challenge: `fetch-jd.mjs` and `browser-extract.mjs` both fail on them (observed 2026-11). Follow "When a site blocks the agent": do not retry, ask the candidate to paste the posting text, and mark the report's verification line as unconfirmed (JD pasted by the candidate).
