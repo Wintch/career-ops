@@ -105,6 +105,12 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 - The public posting page is rendered in the browser, so a plain fetch returns only the word "BambooHR". The same tenant serves the posting as JSON at `https://{tenant}.bamboohr.com/careers/{id}/detail` (description, location tag, compensation when published, employment status).
 - **The location tag can contradict the text.** One posting said "work from home" with no country limit while its location tag named a single country, and aggregators copied the tag as an on-site role there. Read both, and ask the employer when they disagree.
 
+### Fountain (high-volume hiring ATS)
+
+- Used by remote-staffing employers that hire in volume across several countries; each country gets its own copy of the opening (`…/opening/{country}-{role}`). The page is client-rendered, so a plain fetch returns only "Fountain Applicant UI"; read it in a browser or ask for the pasted text.
+- The first step asks only for legal name, email and phone (consent to calls and texts about the application), with two optional marketing opt-ins that can stay unchecked; later steps appear one at a time, so the full form is not knowable in advance.
+- One healthcare-staffing employer's flow (seen 2026-11, from its own video linked in the form): resume and questions, a **technical check of the candidate's own computer** (a specific Windows edition, RAM and CPU minimums, webcam, noise-canceling headset, wired connection with a minimum speed), an **interview with an AI agent** plus a short written test (one retry), then human interviews and the client. Look for such a video before starting: the hardware and OS requirements can rule a Linux-only setup out.
+
 ### Himalayas (remote jobs board)
 
 - The API provider lists postings reliably, but the posting pages sit behind a Cloudflare challenge: `fetch-jd.mjs` and `browser-extract.mjs` both fail on them (observed 2026-11). Follow "When a site blocks the agent": do not retry, ask the candidate to paste the posting text, and mark the report's verification line as unconfirmed (JD pasted by the candidate).
