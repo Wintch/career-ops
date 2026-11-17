@@ -47,6 +47,7 @@ All scripts live in the project root as `.mjs` modules. Most are exposed via
 | `npm run scan:dayforce` | `scan-dayforce.mjs` | Dayforce (Ceridian) scanner via Playwright. `--dry-run` writes nothing to the pipeline or scan history; `--tenant NAME` scans one board |
 | `npm run scan:topdev` | `scan-topdev.mjs` | TopDev (Vietnam) scanner via Playwright (the listing is hydrated in the browser). `--dry-run` writes nothing to the pipeline or scan history; `--keyword TEXT` scans one keyword |
 | `node web/scripts/scheduled-jobs-runner.mjs` | `web/scripts/scheduled-jobs-runner.mjs` | Run one due local scheduled scan (normally invoked by the OS scheduler: Task Scheduler, launchd or cron) |
+| `node web/scripts/scheduled-jobs-task.mjs` | `web/scripts/scheduled-jobs-task.mjs` | What the Windows scan task runs: sets the path overrides passed as `--env KEY=VALUE`, then runs the scheduled-jobs runner with its errors appended to `--log` (written by `install-scan-schedule.ps1`) |
 | `powershell.exe -NoProfile -ExecutionPolicy Bypass -File web/scripts/install-scan-schedule.ps1` | `web/scripts/install-scan-schedule.ps1` | Install the 15-minute Windows scheduled-jobs queue worker for the logged-in current user |
 | `npm run scan:navent` | `scan-navent.mjs` | Light-touch Playwright scanner for Bumeran and ZonaJobs (Argentina). Configure `navent_searches` in `portals.yml`; reads `robots.txt` each run, paces navigations, never opens detail pages, stops on a recognized challenge or refusal (HTTP 401/403/429/451/5xx, challenge-page text, repeated failed results calls) without bypassing it; drops postings with no identifiable employer. Flags: `--dry-run`, `--site`, `--keyword`, `--since` |
 | `sh web/scripts/install-scan-schedule.sh` | `web/scripts/install-scan-schedule.sh` | Install the 15-minute scheduled-jobs queue worker on macOS (launchd) or Linux (cron) for the current user |
@@ -666,11 +667,16 @@ mode (#4691) before any cold WebSearch — "do I already have a saved contact
 at this company?" A real prior relationship (a past interviewer, or a contact
 from an earlier, different-role application) is a far stronger outreach
 target than a fresh search, so a match is surfaced first and offered as an
-`internal-referral` ask. Matching is exact-key via `normalizeCompany()`
-(`tracker-utils.mjs`) — the same key `merge-tracker.mjs`/`set-status.mjs`/
-`company-history.mjs` use for same-company lookups — deliberately not
-`linkedin-join.mjs`'s fuzzy token matching, since `contacts.tsv`'s company
-column is normally written from the same string already in the tracker.
+`internal-referral` ask. A contact matches when its company has the same
+`normalizeCompany()` key as `--company`, or when
+`companiesMatchIgnoringCorporateForm()` accepts the pair, so a contact saved
+as "Acme Inc." surfaces for "Acme". Both helpers live in `tracker-utils.mjs`
+and are the rule `set-status.mjs` and `outcome.mjs` use to find a company's
+tracker row. The corporate-form rule only lets the names differ by a trailing
+legal suffix or generic descriptor ("Acme Robotics" never matches "Acme"), and
+it is deliberately not `linkedin-join.mjs`'s fuzzy token matching, since
+`contacts.tsv`'s company column is normally written from the same string
+already in the tracker.
 
 ```bash
 node contact-lookup.mjs --company "Acme"            # JSON: saved contacts at "Acme"
@@ -1196,7 +1202,7 @@ parser:
 
 Use `args` only for reusable parsers that intentionally accept runtime parameters such as `{careers_url}` or `{company}`.
 
-The script must resolve inside the repo root (security boundary in `providers/local-parser.mjs`). Keep a private, non-contributed parser under a gitignored path — `local/` is ignored by default — so it is never staged; `portals.yml` itself is already gitignored. Use `scripts/parsers/` only for a parser you intend to upstream. See [local-parser-cookbook.md](local-parser-cookbook.md).
+The script must resolve inside the repo root or the data root's `local/` folder (security boundary in `providers/local-parser.mjs`). Keep a private, non-contributed parser in `local/`: gitignored in a checkout, so it is never staged, and under the data root in a Claude Code plugin install, where a plugin update replaces the code root. `portals.yml` itself is already gitignored. Use `scripts/parsers/` only for a parser you intend to upstream. See [local-parser-cookbook.md](local-parser-cookbook.md).
 
 If a parser writes full extraction artifacts for debugging or audit, store them under `data/parser-output/{company}/`. `scan.mjs` reads stdout and does not require those JSON files after parsing. Keep generated JSON artifacts out of git; `.gitkeep` placeholders are the only exception for preserving directory structure.
 

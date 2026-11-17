@@ -90,6 +90,7 @@ import { getCareerOpsRoot, getProfilePath, hasProfileOverride } from './path-res
 import { checkLivenessViaApi } from './liveness-api.mjs';
 import { robotsAllows } from './robots-check.mjs';
 import { resolveExperienceFilter, applyExperienceFilter } from './jd-years.mjs';
+import { normalizeEmploymentType, parseEmploymentTypeFilterConfig } from './providers/_employment-type.mjs';
 
 const CODE_ROOT = path.dirname(fileURLToPath(import.meta.url));
 export const DATA_ROOT = getCareerOpsRoot();
@@ -1376,6 +1377,42 @@ export function buildVisaFilter(visaFilter) {
     if (!requireMention) return true;
     if (positive.length === 0) return true;
     return positive.some(k => lower.includes(k));
+  };
+}
+
+// ── Employment-type filter ──────────────────────────────────────────
+// Optional. If `employment_type_filter` is absent from portals.yml, all jobs
+// pass, byte-identical to before the filter existed.
+//
+// Reads the structured `job.employmentType` a provider sets from the source's
+// own field (providers/_employment-type.mjs; today Himalayas, We Work Remotely,
+// Remotive, Ashby and Lever), never the title or description. A local parser
+// may emit a raw label ("Contractor"); it is normalized here the same way.
+//
+// Semantics:
+//   - a type in `allow` → pass
+//   - a type not in `allow` → reject
+//   - no type (the source doesn't say, or says something unrecognized) → pass,
+//     unless `include_unknown: false`. Most providers expose no type at all,
+//     so dropping unknowns by default would silently empty every such board.
+//
+// Config shape (portals.yml), parsed once by parseEmploymentTypeFilterConfig():
+//   employment_type_filter:
+//     allow: [contract, part_time]
+//     include_unknown: true   # default
+
+/**
+ * Build the employment_type_filter predicate.
+ * @param {unknown} block - portals.yml `employment_type_filter`.
+ * @returns {(employmentType: unknown) => boolean} true when the job passes.
+ * @throws {Error} when the block is malformed (see parseEmploymentTypeFilterConfig).
+ */
+export function buildEmploymentTypeFilter(block) {
+  const cfg = parseEmploymentTypeFilterConfig(block);
+  if (!cfg) return () => true;
+  return (employmentType) => {
+    const type = normalizeEmploymentType(employmentType);
+    return type ? cfg.allow.has(type) : cfg.includeUnknown;
   };
 }
 
@@ -3572,6 +3609,9 @@ export function formatScanHistoryRow(offer, date, status = 'added') {
     language: typeof offer.language === 'string' ? offer.language : '',
     listing_key: typeof offer.listingKey === 'string' ? offer.listingKey : '',
     closes_at: closesAtIso(offer.closesAt) || closesAtIso(offer),
+    // Job.employmentType, normalized again so a local parser's raw label
+    // ("Contractor") is stored the way a provider's is; '' when unknown.
+    employment_type: normalizeEmploymentType(offer.employmentType) ?? '',
   };
   return SCAN_HISTORY_COLUMNS.map((name) => sanitizeTsvField(record[name])).join('\t');
 }
@@ -4650,6 +4690,44 @@ const KNOWN_FLAGS = [
 // form is self-contained and never needs this). --throttle is deliberately
 // excluded: only its bare and `--throttle=<ms>` forms are read below, so a
 // following token is never its value.
+const TRACKED_COMPANIES_ROW = '(tracked companies)';
+
+function newBoardStat() {
+  return { fetched: 0, source: 0, sourceDetail: {}, title: 0, location: 0, age: 0, other: 0, seen: 0, passed: 0, new: 0, error: false };
+}
+
+/**
+ * Print where every source's jobs went. Columns add up per row:
+ * fetched = source + title + location + age + other + seen + passed, and
+ * (with --verify) passed - new are the offers liveness verification dropped.
+ * @param {Map<string, ReturnType<typeof newBoardStat>>} stats
+ * @param {{verify?: boolean}} [opts]
+ */
+export function printBoardStats(stats, { verify = false } = {}) {
+  if (stats.size === 0) return;
+  const cols = ['fetched', 'source', 'title', 'location', 'age', 'other', 'seen'];
+  if (verify) cols.push('verify');
+  cols.push('new');
+  const value = (st, col) => (col === 'verify' ? st.passed - st.new : st[col]);
+  const rows = [...stats.entries()].sort((x, y) => y[1].new - x[1].new || x[0].localeCompare(y[0]));
+  const nameWidth = Math.max(6, ...rows.map(([name]) => name.length + (rows.some(([, st]) => st.error) ? 2 : 0)));
+  const total = newBoardStat();
+  for (const [, st] of rows) for (const col of Object.keys(total)) if (typeof total[col] === 'number') total[col] += st[col];
+  const line = (label, st) => `  ${label.padEnd(nameWidth)}${cols.map(col => String(value(st, col)).padStart(col === 'location' ? 9 : 8)).join('')}`;
+  console.log('\nPer source (each row: fetched = source + title + location + age + other + seen' + (verify ? ' + verify' : '') + ' + new):');
+  console.log(`  ${'Source'.padEnd(nameWidth)}${cols.map(col => col.padStart(col === 'location' ? 9 : 8)).join('')}`);
+  for (const [name, st] of rows) console.log(line(st.error ? `${name} ✗` : name, st));
+  console.log(line('Total', total));
+  const detail = rows.filter(([, st]) => st.source > 0);
+  if (detail.length > 0) {
+    console.log('\nDropped at the source (offers a provider dropped by its own settings):');
+    for (const [name, st] of detail) {
+      console.log(`  ${name}: ${Object.entries(st.sourceDetail).map(([reason, n]) => `${reason} ${n}`).join(', ')}`);
+    }
+  }
+  console.log('  other = tier, declared field, salary, employment type, content, country, visa, cooldown and blacklist; seen = already in your history');
+}
+
 const VALUE_FLAGS = ['--company', '--posted-after', '--posted-before', '--since'];
 
 const USAGE = `Usage:
@@ -4828,6 +4906,15 @@ async function main() {
   // Derived by the same helper so the hint and the filter cannot disagree.
   const earlyStopSinceMs = resolveEarlyStopMs(effectiveAfter, config.max_posting_age_days);
   const salaryFilter = buildSalaryFilter(config.salary_filter);
+  // A malformed block exits here, before any network call: a typo in `allow`
+  // would otherwise drop every posting of the type it meant to keep.
+  let employmentTypeFilter;
+  try {
+    employmentTypeFilter = buildEmploymentTypeFilter(config.employment_type_filter);
+  } catch (err) {
+    console.error(`Error: ${err.message}`);
+    process.exit(1);
+  }
   const workplaceFilter = buildWorkplaceFilter(config.workplace_filter);
   const trustValidator = buildTrustValidator(config.trust_filter);
   const contentFilter = buildContentFilterOrExit(config.content_filter);
@@ -5087,6 +5174,9 @@ async function main() {
   let totalFilteredPostingAge = 0;
   let totalFilteredPostedDate = 0;
   let totalFilteredSalary = 0;
+  // Summary line and receipt total only, like totalFilteredDeclaredField:
+  // scan-runs.tsv keeps its columns.
+  let totalFilteredEmploymentType = 0;
   let totalFilteredWorkplace = 0;
   let totalFilteredContent = 0;
   // #6020. Title misses that content_filter.rescue_title_misses kept on their
@@ -5137,6 +5227,18 @@ async function main() {
     });
   }
 
+  // Per-source funnel for the run summary: where each source's jobs went.
+  // Every job board gets its own row; tracked companies share one.
+  const boardStats = new Map();
+  const offerStat = new Map(); // offer -> its source row, to count the offers that survive verification
+  const urlStat = new Map(); // offer url -> its source row, for offers a later step copied or re-pointed
+  const statOf = (offer) => offerStat.get(offer) ?? urlStat.get(offer.url) ?? urlStat.get(offer.previousUrl);
+  const boardStat = (company) => {
+    const key = company._isBoard ? company.name : TRACKED_COMPANIES_ROW;
+    if (!boardStats.has(key)) boardStats.set(key, newBoardStat());
+    return boardStats.get(key);
+  };
+
   // Values providers resolve once and reuse on later scans (provider-id-cache.mjs).
   const idCaches = openProviderIdCache(path.join(DATA_ROOT, PROVIDER_ID_CACHE_DIR));
 
@@ -5154,6 +5256,7 @@ async function main() {
   const retriedTargets = new Set();
   const tasks = targets.map(company => async () => {
     let provider = company._provider;
+    const st = boardStat(company);
     const observation = { requests: 0, successfulResponses: 0, lastStatus: null };
     // includeUndated is deliberately ALWAYS true, independent of the window.
     // It does not mean "include undated postings in the results" — scan.mjs
@@ -5198,6 +5301,8 @@ async function main() {
     let sourceName = provider.id === 'local-parser' ? 'local-parser' : `${provider.id}-api`;
     const recordError = (err, { retryable = false } = {}) => {
       failedTargets++;
+      st.failures = (st.failures || 0) + 1;
+      st.error = true;
       const entry = {
         company: company.name,
         error: err.message,
@@ -5230,6 +5335,14 @@ async function main() {
         throw new Error(`${provider.id}: fetch() did not return an array`);
       }
       totalFound += jobs.length;
+      // A provider that drops offers itself (for example through a `workplace`
+      // setting) may report the counts on jobs.providerStats so they show in the
+      // summary; providers that do not are shown with `source` 0.
+      const sourceDropped = jobs.providerStats?.dropped || {};
+      const sourceDroppedTotal = Object.values(sourceDropped).reduce((sum, n) => sum + n, 0);
+      st.fetched += jobs.length + sourceDroppedTotal;
+      st.source += sourceDroppedTotal;
+      for (const [reason, n] of Object.entries(sourceDropped)) st.sourceDetail[reason] = (st.sourceDetail[reason] || 0) + n;
       const truncation = boardTruncation(jobs);
       // Boards (job_boards: aggregators) too: unlike an empty result, which is
       // routine for a keyword search, a capped or failed walk is a real gap.
@@ -5287,6 +5400,7 @@ async function main() {
           if (blEntry) {
             if (!includeBlacklisted) {
               totalFilteredBlacklist++;
+              st.other++;
               continue;
             }
             annotatedBlacklisted++;
@@ -5325,16 +5439,19 @@ async function main() {
         }
         if (failedField === 'title') {
           totalFilteredTitle++;
+          st.title++;
           if (!dryRun) titleFilteredOffers.push({ ...job, source: sourceName });
           continue;
         }
         if (failedField !== null) {
           totalFilteredDeclaredField++;
+          st.other++;
           continue;
         }
         if (sawAbsentField) totalPassedFieldAbsent++;
         if (classifyTier && companySkipTiers.includes(classifyTier(job.title))) {
           totalFilteredTier++;
+          st.other++;
           continue;
         }
         // job.title is passed so a role whose remoteness is stated in the title
@@ -5345,6 +5462,7 @@ async function main() {
         if (employerRejected || !locationFilter(job.location, job.url, job.title, job)) {
           if (!company._isBoard) employerLocationRejected.add(locationUrl);
           totalFilteredLocation++;
+          st.location++;
           if (!dryRun) locationFilteredOffers.push({ ...job, source: sourceName });
           continue;
         }
@@ -5356,38 +5474,50 @@ async function main() {
         }
         if (!postingAgeFilter(job.postedAt)) {
           totalFilteredPostingAge++;
+          st.age++;
           if (!dryRun) ageFilteredOffers.push({ ...job, source: sourceName });
           continue;
         }
         if (!postedDateFilter(job.postedAt)) {
           totalFilteredPostedDate++;
+          st.age++;
           continue;
         }
         if (!salaryFilter(job.salary)) {
           totalFilteredSalary++;
+          st.other++;
           continue;
         }
         if (!workplaceFilter(job.workplaceType)) {
           totalFilteredWorkplace++;
           continue;
         }
+        if (!employmentTypeFilter(job.employmentType)) {
+          totalFilteredEmploymentType++;
+          st.other++;
+          continue;
+        }
         if (titleMissed) {
           if (!contentFilter(job.description, [], { titleMissed: true })) {
             totalFilteredTitle++;
+            st.title++;
             if (!dryRun) titleFilteredOffers.push({ ...job, source: sourceName });
             continue;
           }
           totalRescuedByContent++;
         } else if (!contentFilter(job.description, matchedTitleKeywords(job.title, config.title_filter))) {
           totalFilteredContent++;
+          st.other++;
           continue;
         }
         if (!countryEligibilityFilter(countryEligibilityText(job))) {
           totalFilteredCountryEligibility++;
+          st.other++;
           continue;
         }
         if (!visaFilter(visaFilterText(job))) {
           totalFilteredVisa++;
+          st.other++;
           continue;
         }
         const dedupUrl = seenJobKey(job.url);
@@ -5406,6 +5536,7 @@ async function main() {
           );
           if (!newLanguageVersion) {
             totalDupes++;
+            st.seen++;
             continue;
           }
         }
@@ -5433,6 +5564,7 @@ async function main() {
           languages: seenCompanyRoleLanguages, locatedLanguages: locatedLanguagesByBase },
         requisition, dedupIncludeLanguage ? language : [])) {
           totalDupes++;
+          st.seen++;
           continue;
         }
         const cooldownResult = cooldownFilter(job);
@@ -5440,6 +5572,7 @@ async function main() {
           markOfferSeen(job, seenUrls);
           recordUrlVariant(seenUrlVariants, dedupUrl, language, job.title);
           totalFilteredCooldown++;
+          st.other++;
           cooldownOffers.push({
             job: { ...job, source: sourceName },
             status: cooldownResult.reason,
@@ -5475,6 +5608,9 @@ async function main() {
           careersUrlDomain,
         };
         newOffers.push(offerForVerification);
+        offerStat.set(offerForVerification, st);
+        urlStat.set(offerForVerification.url, st);
+        st.passed++;
         if (verify) verifyDedupKeys.set(offerForVerification, {
           key, baseKey, requisition, language, newLanguageVersion,
         });
@@ -5514,6 +5650,10 @@ async function main() {
       const at = errors.indexOf(entry);
       if (at !== -1) errors.splice(at, 1);
       failedTargets--;
+      // The row stays marked failed only while a board in it still has a failure.
+      const retriedStat = boardStat(company);
+      retriedStat.failures = Math.max(0, (retriedStat.failures || 0) - 1);
+      retriedStat.error = retriedStat.failures > 0;
       await new Promise((r) => setTimeout(r, TRANSIENT_RETRY_GAP_MS));
       await tasks[targets.indexOf(company)]();
     }
@@ -5592,6 +5732,7 @@ async function main() {
     // Keep the first accepted offer for each strong identity, and only then
     // publish the identity token to this run's dedup set. Rejected aliases do
     // not hide a later live URL.
+    const dedupInput = verifiedOffers;
     const countBeforeIdentityDedup = verifiedOffers.length;
     verifiedOffers = retainVerifiedListingIdentities(verifiedOffers, seenUrls, result.verificationStatusByOffer);
     totalDupes += countBeforeIdentityDedup - verifiedOffers.length;
@@ -5624,6 +5765,13 @@ async function main() {
       acceptedOffers.push(offer);
     }
     verifiedOffers = acceptedOffers;
+    // Offers dropped as duplicates after verification belong to `seen`, not `verify`.
+    const keptAfterDedup = new Set(acceptedOffers);
+    for (const offer of dedupInput) {
+      if (keptAfterDedup.has(offer)) continue;
+      const owner = statOf(offer);
+      if (owner) { owner.seen++; owner.passed--; }
+    }
   }
 
   // 5.6. Experience filter: read each new offer's stated years. Only a required
@@ -5640,6 +5788,11 @@ async function main() {
     });
     verifiedOffers = kept;
     experienceDropped = dropped;
+    // Experience rejections count under `other`, like the other declared-field filters.
+    for (const offer of dropped) {
+      const owner = statOf(offer);
+      if (owner) { owner.other++; owner.passed--; }
+    }
   }
 
   // 5.7. Cross-listing check (#1597): fingerprint each new offer's JD body and
@@ -5760,6 +5913,9 @@ async function main() {
   if (config.salary_filter || totalFilteredSalary > 0) {
     console.log(`Filtered by salary:    ${totalFilteredSalary} removed`);
   }
+  if (config.employment_type_filter) {
+    console.log(`Filtered by employment type: ${totalFilteredEmploymentType} removed`);
+  }
   if (config.workplace_filter || totalFilteredWorkplace > 0) {
     console.log(`Filtered by workplace: ${totalFilteredWorkplace} removed`);
   }
@@ -5792,6 +5948,12 @@ async function main() {
       console.log(`Blacklisted:           ${totalFilteredBlacklist} skipped (blacklist)`);
     }
   }
+  for (const offer of verifiedOffers) {
+    const owner = statOf(offer);
+    if (owner) owner.new++;
+  }
+  printBoardStats(boardStats, { verify });
+
   if (experienceDropped.length > 0) {
     console.log(`\nRemoved by experience_filter (the JD's lowest stated requirement is above your band):`);
     for (const offer of experienceDropped) {
@@ -6049,7 +6211,7 @@ async function main() {
   if (jsonMode) {
     const filtered = totalFilteredTitle + totalFilteredDeclaredField + totalFilteredTier + totalFilteredLocation
       + totalFilteredPostingAge + totalFilteredPostedDate + totalFilteredSalary + totalFilteredWorkplace
-      + totalFilteredContent + totalFilteredCountryEligibility + totalFilteredBlacklist
+      + totalFilteredEmploymentType + totalFilteredContent + totalFilteredCountryEligibility + totalFilteredBlacklist
       + totalFilteredVisa + totalFilteredCooldown;
     emitJsonReceipt({
       version: 'careerops.scan.receipt@1',

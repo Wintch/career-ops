@@ -32,6 +32,7 @@ table in `AGENTS.md` (mirrored in `CLAUDE.md`).
 | `email.md` | `email` | Application email drafts (draft-only) |
 | `contacto.md` | `contacto` | LinkedIn outreach messages; greeting opener; public "looking for X" search post with readiness checklist and launch plan |
 | `deep.md` | `deep` | Deep company-research prompt |
+| `gambit.md` | `gambit` | Create-a-role pitch for a role the company has not posted (records `Speculative`) |
 | `interview.md` | `interview` | Interactive profile & CV onboarding |
 | `master-profile.md` | `master-profile` | Source-backed Master Career Profile import and review |
 | `intake.md` | `intake` | Build or enrich the profile from documents in `documents/` (confirm-before-write) |
