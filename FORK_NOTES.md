@@ -434,3 +434,12 @@ Open, in order:
 - **`fetch-jd.mjs` cannot read BambooHR**, but `https://{tenant}.bamboohr.com/careers/{id}/detail` returns JSON (`result.jobOpening`: `description` HTML, `atsLocation`, `compensation`, `employmentStatusLabel`). It read all nine BambooHR postings the triage could not. Candidate fork enhancement for `fetch-jd.mjs`. Workday postings that the API path misses stay unreadable without a browser.
 - **CV render keeps literal `**bold**`.** Summaries written with markdown bold reach the PDF as asterisks (seen on every CV built 11-15/16); fixed per file by converting to `<strong>`. The builder should convert or reject it.
 - **`verify-cv-facts.mjs` reads a tool inside parentheses with the closing parenthesis** (`(Resolve, Kdenlive)` → `kdenlive)`), so an `allow_facts` entry never matches it. Workaround: write tool lists without parentheses.
+
+## Upstream sync (2026-11-17)
+
+- Merged upstream `main` 8831748b (92 commits past v1.40.0, no new release) through `sync/upstream-20261117`, fast-forwarded into `integration` as `a2edcf36`; backup branch `integration-pre-sync-20261117`.
+- 11 conflicts, all mechanical: the fork keeps playwright 1.65.1 (upstream bumped to 1.65.0) in `package.json` and both Dockerfiles; the five `SKILL.md` argument-hints take upstream's `gambit` plus the fork's `watch`; `AGENTS.md` and `DATA_CONTRACT.md` keep both sides' rows; `docs/SUPPORTED_JOB_BOARDS.md` keeps the fork's ArtStation row with upstream's updated Ashby row.
+- Upstream's new catalog entries Avalara (CareerPuck) and Doctolib (Ashby) arrived untagged; tagged so `select-portals` stays fully tagged (same as ADP on 11-09).
+- Suite: 24961 passing, 1 failing before the tag fix (`select-portals`, fixed). `verify-pipeline.mjs` on real data: 0 errors.
+- New upstream that matters here: opt-in `employment_type_filter` (himalayas, weworkremotely, remotive, ashby, lever); per-source funnel table in the scan summary; Cloudflare challenges named and not retried; Workday postings keyed the same with or without `/en-US/`; `gambit` mode and the `Speculative` state; `keyword-match` lists CV skills the JD does not name; `cv-facts` warns on borrowed metrics in cover prose. The employer registry (`employers/`) grew by ~9,400 boards, but no script reads it yet.
+- Still open upstream (not fixed by this sync): the `scan-ats-full --history-seeds` hang on idle sockets and `fetch-jd.mjs` reading BambooHR (see Field findings above).
