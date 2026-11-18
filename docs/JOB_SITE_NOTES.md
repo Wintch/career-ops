@@ -73,12 +73,13 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 
 ### Bumeran, ZonaJobs and Computrabajo (Argentina and LATAM)
 
-- **Bumeran and ZonaJobs** are client-rendered and empty to plain fetches and to `WebFetch`. Use a dedicated light-touch scanner for listings where one exists (it should read `robots.txt`, pace requests and stop on a challenge), and ask the candidate to paste the posting text when a detail page is needed.
+- **Bumeran and ZonaJobs** are client-rendered and empty to plain fetches and to `WebFetch`. Use a dedicated light-touch scanner for listings where one exists (it should read `robots.txt`, pace requests and stop on a challenge), and ask the candidate to paste the posting text when a detail page is needed. A single detail page also reads with a headless browser render, one page at a time (seen 2026-11-18); fall back to pasted text on a challenge or an empty body.
 - **Computrabajo** is different: its listing pages are server-rendered over plain HTTPS (about 20 cards per page, no login, no JS), and `providers/computrabajo.mjs` reads them from a `job_boards:` entry, one per country, with search keywords. A card carries employer, location, a relative posted date and sometimes salary and modality, but no employer URL; applying needs a free candidate account.
 - Many postings hide the employer behind a recruiting agency. Treat an unidentifiable employer as a legitimacy signal (Block G), never guess it.
 - Salaries are usually in local currency and may fall far below a USD floor; ask for range and currency before investing effort.
 
 - Bumeran and ZonaJobs serve one shared inventory (identical result counts per keyword), so searching both only burns the scanner's per-run navigation cap. Search Bumeran only.
+- The title filter needs the Spanish titles as well as the English ones ("Editor de Video" beside "Video Editor", "Administrador de Redes", "Infraestructura IT"). A keyword searched on the board does not get past the title filter by itself.
 - Small and mid-size Argentine employers often title the one-person infrastructure role "Responsable de Sistemas", "Jefe de Sistemas", "Administrador de Servidores" or "Analista de Infraestructura" instead of DevOps or SRE. Add those titles to `title_filter.positive` and expect a hybrid on-site schedule and a salary in local currency.
 
 ### Freelance marketplaces (Upwork, Fiverr and similar)
@@ -104,6 +105,12 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 
 - The public posting page is rendered in the browser, so a plain fetch returns only the word "BambooHR". The same tenant serves the posting as JSON at `https://{tenant}.bamboohr.com/careers/{id}/detail` (description, location tag, compensation when published, employment status).
 - **The location tag can contradict the text.** One posting said "work from home" with no country limit while its location tag named a single country, and aggregators copied the tag as an on-site role there. Read both, and ask the employer when they disagree.
+
+### HiringRoom (Argentine ATS)
+
+- Each employer or agency has its own `{tenant}.hiringroom.com` microsite, and there is no directory of tenants. Web search finds them through indexed vacancy pages (`{tenant}.hiringroom.com/jobs/get_vacancy/{id}`), but a `site:hiringroom.com` query often returns nothing, so search for the role words plus "hiringroom" instead.
+- Two layouts: legacy `/jobs` (server-rendered cards) and `/portal/jobs` (JSON-LD). A legacy tenant answers `/portal/jobs` with a 307 back to `/jobs`. A tenant whose `/jobs` answers 404 and whose portal redirects there has switched its microsite off, even when search still shows its old vacancies.
+- Most tenants found this way are recruiting agencies placing roles for unnamed clients, so their postings need the agency to be confirmed before evaluation. Read each board once (`audit-portals.mjs --company`) before adding it, since many agencies post mostly non-IT work.
 
 ### Fountain (high-volume hiring ATS)
 
