@@ -75,6 +75,8 @@ Companion docs: `docs/SUPPORTED_JOB_BOARDS.md` (what the scanner can read), `pro
 
 - **Bumeran and ZonaJobs** are client-rendered and empty to plain fetches and to `WebFetch`. Use a dedicated light-touch scanner for listings where one exists (it should read `robots.txt`, pace requests and stop on a challenge), and ask the candidate to paste the posting text when a detail page is needed. A single detail page also reads with a headless browser render, one page at a time (seen 2026-11-18); fall back to pasted text on a challenge or an empty body.
 - **Computrabajo** is different: its listing pages are server-rendered over plain HTTPS (about 20 cards per page, no login, no JS), and `providers/computrabajo.mjs` reads them from a `job_boards:` entry, one per country, with search keywords. A card carries employer, location, a relative posted date and sometimes salary and modality, but no employer URL; applying needs a free candidate account.
+- On Computrabajo the Apply control is a button labelled "Postularme" (start of the label; "¿Cómo postularme?" is a help link, not Apply). `liveness-core.mjs` reads it as `apply_control_visible`; before that was added every live posting read `no_apply_control` and `scan --verify` dropped it (fix cherry-picked from upstream PR #7382).
+- Many requests in a row from a raw headless browser get HTTP 403 from Computrabajo. Use the scanner's client or `browser-extract.mjs` one page at a time, and stop at the first refusal instead of working around it.
 - Many postings hide the employer behind a recruiting agency. Treat an unidentifiable employer as a legitimacy signal (Block G), never guess it.
 - Salaries are usually in local currency and may fall far below a USD floor; ask for range and currency before investing effort.
 
