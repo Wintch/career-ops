@@ -1,0 +1,63 @@
+# Trabalho por conta própria e microempreendimentos
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Programa Acredita no Primeiro Passo (MDS) - microcrédito para inscritos no CadÚnico** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/mds/pt-br/acoes-e-programas/programa-acredita-no-primeiro-passo
+  - O que é: Pessoas de 16 a 65 anos com dados atualizados no Cadastro Único (CadÚnico) que já têm um pequeno negócio ou querem abrir um. O programa dá atenção especial a mulheres, jovens, pessoas com deficiência, população negra e povos tradicionais.
+  - Requisitos: Idade de 16 a 65 anos; dados do CadÚnico atualizados; atenção especial a mulheres, jovens, pessoas com deficiência, população negra e povos tradicionais (ribeirinhos, quilombolas). Não exige experiência para as trilhas de aprendizagem e emprego
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Microcrédito com juros baixos; valores, prazos e taxas não aparecem na página. Também oferece cursos de qualificação, apoio a quem procura emprego e apoio ao empreendedorismo
+  - Prazo ou ciclo: Programa permanente, sem prazo de inscrição na página; notícias de junho de 2026 mostram novos lançamentos locais (Barbacena-MG, Japeri e Paracambi-RJ, Distrito Federal)
+  - Como se candidatar: https://www.gov.br/mds/pt-br/acoes-e-programas/programa-acredita-no-primeiro-passo
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página não descreve a inscrição individual nem informa se está aberta; a confirmação deve ser feita no portal do programa ou no CRAS/gestão do CadÚnico do município.
+  - Esclarecimento: O crédito é concedido por instituições parceiras: Banco do Nordeste e Banco da Amazônia já atendem; Banco do Brasil e Caixa estavam em preparação.
+  - Esclarecimento: O endereço específico do portal do programa não foi confirmado.
+- **Crediamigo - microcrédito urbano do Banco do Nordeste** (aberta ou vigente, verificada 2 vezes) https://www.bnb.gov.br/crediamigo
+  - O que é: Donos de pequenos negócios (formais ou informais) atendidos pelo Banco do Nordeste. Há linha específica para mulheres empreendedoras (Crediamigo Delas).
+  - Requisitos: Desconhecido: as páginas lidas não listam critérios, documentos nem valores. O formulário pede nome, CPF ou CNPJ, telefone, CEP e número do endereço. Aceita pessoa física (CPF) ou jurídica (CNPJ)
+  - Pagamento ou benefício: Crédito (não é salário). Produtos: Crediamigo Delas (mulheres empreendedoras), Giro Solidário, Giro Individual (capital de giro) e Investimento Fixo (equipamentos, reforma). Valores e juros: desconhecidos, não aparecem nas páginas
+  - Prazo ou ciclo: Contínuo, sem prazo. Solicitação por WhatsApp. Rodapé '© 2026 Banco do Nordeste do Brasil S.A.'.
+  - Como se candidatar: https://www.bnb.gov.br/crediamigo/faca-um-crediamigo
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A área de atuação não foi confirmada; por ser um banco regional voltado ao Nordeste, convém verificar se o endereço do interessado é atendido.
+  - Esclarecimento: Valores, juros, critérios e documentos não constam nas páginas consultadas.
+  - Esclarecimento: Solicitação por WhatsApp (http://wa.me/558599730700) ou formulário, com retorno posterior.
+- **Sebrae - guia de como se tornar MEI (Microempreendedor Individual)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/pt-br/servicos/realizar-registro-como-microempreendedor-individual-mei
+  - O que é: Quem quer formalizar uma atividade própria como Microempreendedor Individual.
+  - Requisitos: Atividade na lista permitida (Tabelas A ou B do Anexo XI da Resolução CGSN 140/2018); faturamento anual até R$ 81.000 (Tabela A) ou R$ 251.600 (Tabela B), conforme a página gov.br; não ser sócio, administrador ou titular de outra empresa; no máximo um empregado; conta gov.br nível prata ou ouro (bronze para estrangeiros); RG, dados de contato, endereço e informações da atividade. Idade mínima de 18 anos ou emancipação consta em guias secundários, não na página oficial vista
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Registro gratuito ("Este serviço é gratuito para o cidadão"). Valores mensais do DAS não foram vistos
+  - Prazo ou ciclo: Sem prazo: o registro de MEI é feito a qualquer momento, 24 horas por dia, com processamento imediato segundo a página oficial do gov.br
+  - Como se candidatar: https://www.gov.br/empresas-e-negocios/pt-br/empreendedor
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página do Sebrae é apenas uma lista de artigos; os requisitos e o passo a passo vêm do serviço oficial do gov.br (última atualização informada: 15/12/2025).
+  - Esclarecimento: Profissões intelectuais regulamentadas (médicos, advogados etc.) não podem ser MEI, segundo resultado de busca.
+- **Portal do Empreendedor (gov.br) - formalização como MEI e serviços ao empreendedor** (aberta ou vigente, verificada 1 vez) https://www.gov.br/empresas-e-negocios/pt-br/empreendedor
+  - O que é: Quem quer abrir ou regularizar um MEI. É o canal oficial de formalização, conforme o que o Sebrae descreve como processo virtual.
+  - Requisitos: Ver registro de MEI: conta gov.br prata ou ouro, RG, atividade permitida, sem ser sócio de outra empresa, no máximo um empregado
+  - Pagamento ou benefício: Gratuito para o cidadão (registro de MEI)
+  - Prazo ou ciclo: Aberto de forma contínua: serviço de registro de MEI disponível 24h por dia; prazo da declaração anual (DASN-SIMEI) não confirmado
+  - Como se candidatar: https://mei.receita.economia.gov.br/inscricao/login
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A confirmação vem da página oficial do serviço de MEI no gov.br, que cita este portal como ponto de entrada e informa o link de inscrição (mei.receita.economia.gov.br/inscricao/login).
+  - Esclarecimento: O conteúdo do próprio portal e da página de perguntas frequentes não pôde ser lido por exigirem verificação por captcha.
+- **Banco do Povo Paulista - microcrédito do Governo de São Paulo com prefeituras** (não verificada, verificada 1 vez) https://www.sjc.sp.gov.br/servicos/inovacao-e-desenvolvimento-economico/apoio-ao-empreendedor/banco-do-povo-paulista/
+  - O que é: Empreendedores com atividade produtiva em município paulista atendido pelo programa, com ou sem CNPJ.
+  - Requisitos: Na página de São José dos Campos: exercer atividade produtiva formal ou informal no município e não ter restrição no Serasa ou Cadin; documentação necessária não listada
+  - Pagamento ou benefício: Microcrédito produtivo; valores e juros: desconhecidos
+  - Prazo ou ciclo: A página não diz se o programa segue aberto nem dá prazos
+  - Como se candidatar: https://www.sjc.sp.gov.br/servicos/inovacao-e-desenvolvimento-economico/apoio-ao-empreendedor/banco-do-povo-paulista/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O endereço consultado é a página municipal de São José dos Campos (SP), não um site estadual; o programa vale apenas para quem tem atividade nesse município, e outras cidades têm posto próprio.
+  - Esclarecimento: A existência do programa como produto permanente em todo o estado não foi confirmada.
+- **Sebrae - Portal oficial de apoio a quem quer começar ou crescer um negócio** (não verificada, verificada 1 vez) https://www.sebrae.com.br/sites/PortalSebrae
+  - O que é: Quem quer começar, crescer ou transformar um negócio (a página usa essa formulação), incluindo microempreendedores individuais.
+  - Requisitos: Desconhecido; sem experiência exigida mencionada
+  - Pagamento ou benefício: Desconhecido: a página não informa se os serviços são gratuitos
+  - Prazo ou ciclo: Sem prazo; o portal oferece orientações e capacitações continuamente, mas o conteúdo obtido não detalha datas
+  - Como se candidatar: https://www.sebrae.com.br/sites/PortalSebrae
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O conteúdo consultado não mostra como se inscrever, contatar um consultor nem os custos, e por isso um caminho de acesso aberto não foi confirmado.
+  - Esclarecimento: A página sobre microcrédito do MDS indica as Salas do Empreendedor (Sebrae) da cidade como porta de entrada.

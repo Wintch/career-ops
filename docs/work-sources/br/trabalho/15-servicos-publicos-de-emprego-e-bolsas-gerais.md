@@ -1,0 +1,102 @@
+# Serviços públicos de emprego e bolsas gerais
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **CATe - Centros de Apoio ao Trabalho e Empreendedorismo (Prefeitura de São Paulo, SMDET)** (aberta ou vigente, verificada 2 vezes) https://prefeitura.sp.gov.br/web/desenvolvimento/w/espaco_do_trabalhador/248918
+  - O que é: Moradores e trabalhadores que buscam vagas na capital paulista; há apoio para pessoas com deficiência (Central de Libras).
+  - Requisitos: Não informados na página: documentos e idade mínima não constam. Nenhuma experiência exigida para o cadastro. Atendimento voltado a quem busca trabalho na cidade de São Paulo.
+  - Pagamento ou benefício: Não se aplica (serviço público gratuito de intermediação de vagas; cursos gratuitos)
+  - Prazo ou ciclo: Aberto todo o ano (atendimento de segunda a sexta, das 8h às 17h). A página consultada foi atualizada em 26/06/2025; não foram vistas datas de mutirões ou de eventos do Cate Móvel em novembro de 2026.
+  - Como se candidatar: https://cate.prefeitura.sp.gov.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página foi atualizada em 26/06/2025 e não traz datas de mutirões ou de eventos do Cate Móvel em novembro de 2026.
+  - Esclarecimento: O cadastro é feito no Portal Cate, e as equipes entram em contato quando o perfil do candidato combina com vagas.
+  - Esclarecimento: O atendimento é restrito ao município de São Paulo; os endereços das 41 unidades estão em página vinculada.
+  - Esclarecimento: O portal cate.prefeitura.sp.gov.br respondeu HTTP 403 a uma consulta automatizada, então o fluxo de cadastro não foi descrito.
+- **Carteira de Trabalho Digital: vagas do SINE no aplicativo** (aberta ou vigente, verificada 2 vezes) sem dados (página oficial do Ministério do Trabalho e Emprego não localizada; a matéria cita o aplicativo CTPS Digital e o Portal Emprega Brasil)
+  - O que é: Quem tem celular Android ou iOS e quer ver e se candidatar a vagas do SINE. Substitui o extinto aplicativo Sine Fácil.
+  - Requisitos: Conta no Portal Gov.br; dados pessoais e objetivos profissionais atualizados no aplicativo. Sem exigência de experiência ou escolaridade para usar o serviço; cada vaga tem os seus requisitos.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (varia por vaga; serviço gratuito)
+  - Prazo ou ciclo: Serviço permanente, sem prazo. Vagas acessadas pelo ícone de maleta ou aba 'emprego' do app, com acompanhamento em 'processos seletivos'.
+  - Como se candidatar: Aplicativo Carteira de Trabalho e Previdência Social (CTPS) Digital, aba "emprego" ou ícone de maleta, com login Gov.br
+  - Leitura automática possível: Não observado.
+  - Esclarecimento: Existe página oficial do Ministério do Trabalho e Emprego sobre o tema (publicada em 21/01/2025, atualizada em 26/10/2026): https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2025/janeiro/vagas-de-emprego-do-sine-podem-ser-visualizadas-na-carteira-de-trabalho-digital.
+  - Esclarecimento: Outras páginas oficiais relacionadas: https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine e https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/sistema-nacional-de-emprego-sine/portal-emprega-brasil.
+  - Esclarecimento: O aplicativo envia notificação quando surge vaga na região.
+- **Seguro-Desemprego (trabalhador formal) – solicitação** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego
+  - O que é: Trabalhador formal dispensado sem justa causa, sem renda própria suficiente para o sustento da família.
+  - Requisitos: Trabalhador formal dispensado sem justa causa, sem renda própria suficiente e sem outro benefício previdenciário continuado (exceções: auxílio-acidente, auxílio suplementar e abono de permanência). Carência: 1º pedido, 12 meses de salário nos 18 meses anteriores; 2º pedido, 9 meses nos 12 anteriores; demais pedidos, os 6 meses anteriores. Documentos: Requerimento do Seguro-Desemprego (entregue pelo empregador na demissão) e CPF. Não serve para quem nunca teve emprego formal.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: Benefício pago em parcelas a cada 30 dias. O valor e o número de parcelas não aparecem na página; são consultados na plataforma de acompanhamento ou no aplicativo.
+  - Prazo ou ciclo: Aberto o ano todo, após cada demissão sem justa causa. A página (última modificação 25/09/2026) não informa o prazo para pedir o benefício.
+  - Como se candidatar: https://portalcidadao.dataprev.gov.br/#/trabalho
+  - Leitura automática possível: Não observado.
+  - Esclarecimento: Não é vaga de emprego, mas apoio de renda para quem foi dispensado.
+  - Esclarecimento: Canais: Portal de Serviços (Dataprev), aplicativo Carteira de Trabalho Digital, atendimento presencial agendado (plataforma FACILITA) e telefone 158; o acompanhamento é feito em servicos.mte.gov.br/spme-v2/#/login.
+  - Esclarecimento: O pagamento é feito em conta bancária em nome do trabalhador (não conta-salário nem conjunta), depois poupança Caixa, depois poupança social digital; na falta delas, cartões e agências da Caixa.
+  - Esclarecimento: O prazo para pedir o benefício não consta na página.
+- **SINE Minas Gerais – Encontrar uma vaga de emprego (modalidade virtual)** (aberta ou vigente, verificada 2 vezes) https://www.mg.gov.br/servico/encontrar-uma-vaga-de-emprego-modalidade-virtual
+  - O que é: Trabalhadores e empregadores de Minas Gerais.
+  - Requisitos: Aberto a trabalhadores que buscam vaga. A página não lista documentos obrigatórios nem exige experiência; o cadastro pede dados pessoais e profissionais na plataforma Emprega Brasil. Alguns empregadores pedem documentos (o aplicativo informa) e algumas vagas exigem pré-seleção na unidade do SINE indicada.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Gratuito
+  - Prazo ou ciclo: Aberto o ano todo. A página não traz data de início ou fim (última atualização em 21/05/2026).
+  - Como se candidatar: https://empregabrasil.mte.gov.br/
+  - Leitura automática possível: Painel de Vagas do SINE em Power BI (filtros por município e ocupação), linkado na página.
+  - Esclarecimento: Serviço da Secretaria de Estado de Desenvolvimento Social (SEDESE).
+  - Esclarecimento: Passos: consultar o Painel de Vagas do SINE (filtro por município e ocupação), cadastrar-se no Emprega Brasil, candidatar-se às vagas e agendar entrevista.
+  - Esclarecimento: Intermedia vagas efetivas, temporárias, de aprendiz e de estágio.
+  - Esclarecimento: A tabela de unidades na página está incompleta (cita Centros Públicos de Promoção do Trabalho em Ouro Branco, Divisópolis, Pitangui, Conselheiro Lafaiete e Unaí).
+- **Agência do Trabalhador do Paraná** (aberta ou vigente, verificada 2 vezes) https://www.trabalho.pr.gov.br/
+  - O que é: Trabalhadores do Paraná em busca de vagas; também seguro-desemprego e atendimento ao imigrante.
+  - Requisitos: A página inicial não lista requisitos de elegibilidade nem explica o cadastro de candidato. Cada programa de qualificação tem regras próprias, não verificadas.
+  - Pagamento ou benefício: sem dados (a página inicial não informa valores; a intermediação de vagas é serviço público)
+  - Prazo ou ciclo: Aberto o ano todo. Programas de qualificação de 2026 aparecem em destaque (Qualifica Paraná 2026, Bora Circular 2026, Evento Seguro 2026), sem prazos verificados.
+  - Como se candidatar: https://www.trabalho.pr.gov.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Portal da Secretaria do Trabalho, Qualificação e Renda do Paraná (SETR-PR).
+  - Esclarecimento: O serviço vale para quem busca vaga no Paraná.
+- **Vagas.com (Vagas.com.br)** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-emprego
+  - O que é: Candidatos de todo o Brasil. A listagem consultada mostrou vagas de atendimento, logística, serviços gerais, vendas, enfermagem, TI, contabilidade, estágios e Jovem Aprendiz; nível auxiliar/operacional é o mais comum (32 de 85 vagas na amostra).
+  - Requisitos: Cadastro de perfil com e-mail. A página não informa idade nem escolaridade mínimas; cada vaga tem seus requisitos. Há anúncios "sem experiência" e de primeiro emprego, e filtros de Auxiliar/Operacional, Estágio, Júnior/Trainee e Jovem Aprendiz. Não há filtro específico de primeiro emprego.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Cadastro gratuito para candidatos ("Cadastre-se gratuitamente"). Salários variam por anúncio.
+  - Prazo ou ciclo: Aberto de forma contínua. Em 23/11/2026, cabeçalho com 85 vagas. Anúncios datados de 12/08/2026 a 14/11/2026, além de itens 'Há 4/6/7 dias'. Botão 'Cadastre-se gratuitamente'.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-emprego
+  - Leitura automática possível: Não observado.
+  - Esclarecimento: A página alerta para desconfiar de propostas que exijam qualquer pagamento.
+  - Esclarecimento: Algumas vagas restringem candidatos por estado.
+  - Esclarecimento: Plataforma privada de empregos.
+- **Trabalha Brasil** (aberta ou vigente, verificada 2 vezes) https://www.trabalhabrasil.com.br/
+  - O que é: Candidatos de todo o Brasil; o site diz ter cerca de 4,8 milhões de vagas, com filtro por estado, cidade, cargo e área.
+  - Requisitos: Cadastro de currículo (o site diz levar menos de cinco minutos). Sem requisitos gerais de idade ou escolaridade informados; cada vaga define os seus. Não há categoria específica "sem experiência"; há a categoria Jovem Aprendiz e um artigo sobre primeiro emprego.
+  - Pagamento ou benefício: Envio de currículo apresentado como gratuito. Um banner de "99% off" para candidatos leva a uma página de anúncio, o que sugere serviço pago opcional; conferir os termos antes de pagar qualquer coisa.
+  - Prazo ou ciclo: Aberto o ano todo. O site afirma atualização diária de vagas.
+  - Como se candidatar: https://www.trabalhabrasil.com.br/
+  - Leitura automática possível: Não observado.
+  - Esclarecimento: Os números de vagas e empresas são do próprio site e não foram confirmados de forma independente; a página traz valores discrepantes (4.829.122 vagas na seção principal e 'Mais de 2 milhões' adiante).
+  - Esclarecimento: Um banner de '99% off' para candidatos leva a uma página de anúncio, o que sugere opção paga ao lado do cadastro gratuito.
+  - Esclarecimento: Plataforma privada.
+- **BNE – Banco Nacional de Empregos** (aberta ou vigente, verificada 2 vezes) https://www.bne.com.br/
+  - O que é: Candidatos de todo o Brasil. O site declara mais de 1,6 milhão de vagas ativas e cerca de 183 mil empresas recrutadoras (números do próprio site, não conferidos).
+  - Requisitos: Criar perfil e completar o currículo; o site diz que recrutadores priorizam currículos completos. Sem requisitos gerais de idade ou escolaridade informados. Não há categoria específica "sem experiência", mas há as categorias Jovem Aprendiz e Estagiário e um artigo no blog sobre conseguir emprego sem experiência.
+  - Pagamento ou benefício: Cadastro gratuito para candidatos; existe plano pago "VIP" opcional (destaque de currículo, relatórios salariais). Salários variam por vaga.
+  - Prazo ou ciclo: Aberto o ano todo. O site informa atuar desde 1998 e anuncia cerca de 1,66 milhão de vagas e 189 mil empresas contratantes (números do próprio site, não confirmados de forma independente).
+  - Como se candidatar: https://www.bne.com.br/
+  - Leitura automática possível: Não observado.
+  - Esclarecimento: Os números de vagas e empresas são do próprio site e não foram confirmados de forma independente.
+  - Esclarecimento: Existe plano pago 'VIP' não obrigatório ao lado do cadastro gratuito.
+  - Esclarecimento: Plataforma privada.
+- **Portal Emprega Brasil (SINE)** (não verificada, verificada 1 vez) https://servicos.mte.gov.br/ (carrega só o título; sem URL oficial corrigida confirmada)
+  - O que é: Trabalhadores que buscam vaga formal intermediada pela Rede SINE e empregadores cadastrados.
+  - Requisitos: sem dados no portal; conta Gov.br é exigida no aplicativo
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados (página sem conteúdo descritivo; outra fonte indica serviço contínuo)
+  - Como se candidatar: sem dados (alternativa verificada: aplicativo Carteira de Trabalho Digital)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A URL indicada carrega apenas o título 'Portal Emprega Brasil', sem texto sobre vagas ou cadastro; outras URLs tentadas deram 404 ou falha de conexão SSL.
+  - Esclarecimento: Matéria da Agência Brasil (jan. 2025) confirma que as vagas do SINE também são acessíveis pelo portal e pelo aplicativo Carteira de Trabalho Digital, mas o portal em si não foi confirmado como aberto.
+  - Esclarecimento: O caminho verificado para vagas do SINE é o aplicativo.

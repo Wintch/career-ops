@@ -1,0 +1,104 @@
+# Plataformas e trabalho por demanda
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **iFood Entregadores — Comece a entregar** (aberta ou vigente, verificada 2 vezes) https://entregador.ifood.com.br/comecar-a-entregar/
+  - O que é: Pessoas que queiram entregar comida e pedidos de bicicleta, moto ou carro, com horário flexível. Não é preciso experiência prévia (a página não cita exigência de experiência).
+  - Requisitos: Ter mais de 18 anos, conta bancária e celular Android ou iOS. Documentos: documento de identidade com foto (RG ou CNH) e CPF. Para entrega de moto ou carro, CNH válida na categoria correspondente. Bicicleta não exige CNH. Não pede experiência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: A página não informa valores. Diz que há antecipação de repasse sem taxa e que as gorjetas são repassadas com 100% do valor enviado pelos consumidores.
+  - Prazo ou ciclo: Cadastro aberto continuamente; a página diz que a aprovação pode ocorrer em poucas horas, conforme a região e a análise dos documentos.
+  - Como se candidatar: https://entregador.ifood.com.br/comecar-a-entregar/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Trata-se de trabalho autônomo por plataforma, sem vínculo de emprego CLT.
+  - Esclarecimento: O fluxo é baixar o aplicativo iFood para Entregadores, preencher os dados e, após a aprovação, começar a entregar; a página também oferece pré-cadastro.
+  - Esclarecimento: A página não declara expressamente que o cadastro é contínuo; apenas não exibe prazo.
+- **Uber — Dirija com a Uber (motorista parceiro)** (aberta ou vigente, verificada 2 vezes) https://www.uber.com/br/pt-br/drive/
+  - O que é: Motoristas com carro próprio ou alugado de locadora parceira da Uber. Sem exigência de experiência prévia.
+  - Requisitos: Idade mínima para dirigir na cidade (a página não indica um número). CNH definitiva com a anotação EAR (Exerce Atividade Remunerada); a Permissão para Dirigir não é aceita (página de requisitos). Veículo próprio ou alugado de parceiro: 4 portas, 5 lugares, ar-condicionado, CRLV digital, ano máximo conforme a cidade. Verificação de segurança a partir dos dados da CNH. Não exige experiência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Sem valores na página. Repasse semanal automático; repasse imediato após cada corrida com Uber Conta.
+  - Prazo ou ciclo: Cadastro contínuo, sem prazo (aberto o ano todo); requisitos variam por cidade.
+  - Como se candidatar: https://drivers.uber.com
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O cadastro é orientado pelo site ou app Uber Driver (drivers.uber.com).
+  - Esclarecimento: A página não informa valores de ganhos nem a disponibilidade de vagas por cidade.
+  - Esclarecimento: A página não declara expressamente que o cadastro é contínuo ou aberto o ano todo; apenas não exibe prazo.
+- **Uber Envios e Uber Direct — Entregas (entregador parceiro)** (aberta ou vigente, verificada 2 vezes) https://www.uber.com/br/pt-br/deliver/
+  - O que é: Pessoas que queiram fazer entregas de carro, moto ou bicicleta (Uber Envios e Uber Direct). A página não trata do Uber Eats. Sem exigência de experiência.
+  - Requisitos: Mais de 18 anos para entregar de moto ou a pé (idade para carro e bicicleta não informada). Fotos dos documentos originais (RG, CNH, RNE ou RNM; Carteira de Trabalho não vale como identidade); CPF ou comprovante de situação cadastral; foto de perfil nítida; verificação de segurança. Documentos do veículo conforme o modal. Não exige experiência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Valores não informados na página (ver seção Ganhos da central de ajuda). Repasse semanal; repasse antecipado ou imediato com Uber Conta; gorjetas 100% do entregador.
+  - Prazo ou ciclo: Cadastro contínuo, sem prazo (aberto o ano todo).
+  - Como se candidatar: https://drivers.uber.com
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página cobre Uber Envios e Uber Direct, não o Uber Eats.
+  - Esclarecimento: O cadastro é feito em drivers.uber.com, na opção de cadastro para entregar, com uso do app Uber Driver.
+  - Esclarecimento: A lista exata de documentos depende do veículo escolhido (moto, carro ou bicicleta).
+  - Esclarecimento: Há seguro de acidentes pessoais nas entregas, sem custo.
+- **Loggi — Seja um entregador parceiro** (aberta ou vigente, verificada 2 vezes) https://www.loggi.com/fazer-entregas
+  - O que é: Entregadores autônomos de moto, transportadores leves (van, carro, Fiorino, picape pequena) e transportadoras parceiras. Atua em entregas urbanas e intermunicipais.
+  - Requisitos: Entregador de moto: moto disponível, CNH válida categoria A, smartphone Android com internet (conforme a subpágina de entregadores). Transportador leve: van, carro, Fiorino ou caminhonete pequena. Idade e demais documentos: sem dados. Não exige experiência (não há menção).
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Pagamento semanal ou mensal direto na conta; valores por entrega: sem dados.
+  - Prazo ou ciclo: Cadastro contínuo, sem prazo declarado; a página não indica prazo nem ciclo.
+  - Como se candidatar: https://www.loggi.com/fazer-entregas#hub
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Há dois perfis: entregador autônomo (moto) e transportador leve (vans, carros, Fiorino e caminhonetes pequenas).
+  - Esclarecimento: Há o botão QUERO SER ENTREGADOR PARCEIRO na página.
+  - Esclarecimento: Idade, demais documentos e passo a passo não aparecem na página principal; ficam nas páginas de cada perfil e na Central de Ajuda.
+- **Lalamove — Motorista parceiro (moto, carro, utilitário, van, carreto)** (aberta ou vigente, verificada 2 vezes) https://www.lalamove.com/pt-br/motorista
+  - O que é: Motoristas e motociclistas com veículo próprio, de terceiros ou de locadora. Cidades atendidas segundo a página inicial: São Paulo, Campinas, Rio de Janeiro, Belo Horizonte, Curitiba, Porto Alegre, Brasília, Goiânia, Salvador, Recife, Fortaleza, Aracaju, Belém, Florianópolis, Ribeirão Preto, Maceió, São Luís e Manaus.
+  - Requisitos: CNH válida (EAR só para as categorias LalaPro e carreto); CRLV do veículo (cópia digital em PDF ou impressa); veículo próprio, de terceiros ou alugado, que não esteja em uso por outro motorista parceiro; smartphone com internet. Idade mínima não informada. Não exige experiência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Valores não informados; exige depósito de segurança após a aprovação (valor: sem dados).
+  - Prazo ou ciclo: Cadastro contínuo; a ativação depende da demanda da plataforma e pode demorar.
+  - Como se candidatar: https://www.lalamove.com/pt-br/motorista
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O cadastro é feito pelo aplicativo Lalamove para entregadores: dados pessoais e do veículo, envio de documentos e análise.
+  - Esclarecimento: Após a aprovação, é preciso pagar um depósito de segurança para começar a aceitar pedidos; o valor não aparece na página.
+  - Esclarecimento: Em caso de atraso na ativação, a Lalamove contata por WhatsApp ou pelo app.
+- **Rappi — Seja entregador (Rappi Brasil)** (aberta ou vigente, verificada 2 vezes) https://www.rappi.com.br/entregador
+  - O que é: Pessoas que queiram entregar pedidos escolhendo dias e horários. Atua em várias cidades, entre elas São Paulo, Rio de Janeiro, Brasília e Belo Horizonte.
+  - Requisitos: A página não especifica idade, documentos nem veículo (ícone de moto no passo a passo, sem exigência explícita). Sem depósito. Não exige experiência (não há menção).
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Pagamento por pedido entregue, gorjetas 100% do entregador, bônus por metas e indicação; repasse semanal em conta vinculada no app. O valor varia por região, tempo online e horário.
+  - Prazo ou ciclo: Cadastro contínuo, sem prazo (aberto o ano todo).
+  - Como se candidatar: https://www.rappi.com.br/entregador
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Os passos são baixar o app, informar dados básicos e enviar documentos, escolher dias e horários e ficar online.
+  - Esclarecimento: Não é preciso depositar dinheiro; a mochila é recomendada, não obrigatória.
+  - Esclarecimento: Há indicação de amigos e metas de pedidos com bônus.
+- **Shopee — Motorista parceiro de entrega (SPX)** (aberta ou vigente, verificada 2 vezes) https://spx.com.br/br/driver/seja-um-motorista-parceiro.html
+  - O que é: Motoristas de moto e carro que fazem entregas de pacotes da Shopee.
+  - Requisitos: Entrega e Entrega Rápida: CNH com EAR, CNPJ MEI ativo em nome do motorista com CNAE de entrega, EPIs (colete refletivo e bota certificada), veículo com até 20 anos em bom estado (moto com baú ou compartimento fechado de pelo menos 80 litros, carro, Fiorino ou van). Coleta e Transferência: CNPJ ME ou EPP, RNTRC e veículos de carga; Transferência exige ainda Inscrição Estadual, credenciamento SEFAZ, tag de pedágio, conta Pambank, rastreador e certificado e-CNPJ A1. Idade mínima não informada. Exige formalização (CNPJ), não experiência.
+  - Pagamento ou benefício: sem dados (não informado na página)
+  - Prazo ou ciclo: Sem prazo nem ciclo exibido; cadastro pelo aplicativo.
+  - Como se candidatar: https://spx.com.br/br/driver/seja-um-motorista-parceiro.html
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página é a do SPX Express, braço logístico da Shopee, com cadastro pelo aplicativo SPX Motorista Parceiro.
+  - Esclarecimento: Há quatro modalidades: Coleta, Transferência, Entrega e Entrega Rápida.
+  - Esclarecimento: Quem não tem CNPJ ou CNH com EAR não consegue se cadastrar.
+  - Esclarecimento: A página informa suporte por WhatsApp, (11) 2770-1438, de segunda a sábado, 8h às 20h (Brasília).
+- **99Freelas — Marketplace de freelancers** (aberta ou vigente, verificada 2 vezes) https://www.99freelas.com.br/
+  - O que é: Freelancers de qualquer área que queiram receber projetos de empresas e clientes. Sem exigência de experiência declarada na página.
+  - Requisitos: sem dados (idade, CPF e documentos não vistos; cadastro como freelancer é exigido para enviar propostas; experiência não declarada como exigência na página)
+  - Pagamento ou benefício: sem dados (varia por projeto; taxas e comissão da plataforma não vistas)
+  - Prazo ou ciclo: 1.088 projetos encontrados na lista (10 por página); sem prazo, pois cada projeto tem seu próprio andamento.
+  - Como se candidatar: https://www.99freelas.com.br/register/freelancer
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A quantidade de propostas por projeto vai de 0 a mais de 300, o que indica concorrência alta em alguns anúncios.
+  - Esclarecimento: Alguns projetos são exclusivos, visíveis a um grupo limitado por um tempo antes de abrir a todos.
+  - Esclarecimento: Comissão, planos pagos, idade mínima e gratuidade do cadastro de freelancer não foram confirmados; só a publicação de projeto é indicada como grátis para clientes.
+  - Esclarecimento: É uma plataforma privada, sem vínculo oficial; os números de freelancers cadastrados (4.092.527) e de projetos concluídos (146.938) não têm data.
+- **Sebrae — O que é MEI e como funciona (status legal do trabalhador autônomo)** (não verificada, verificada 1 vez) https://sebrae.com.br/empreendedores/guiaparaomei/querosermei/o-que-e-mei-e-como-funciona-
+  - O que é: Quem trabalha por conta própria e quer se formalizar como Microempreendedor Individual, exigência de algumas plataformas (por exemplo, Loggi).
+  - Requisitos: sem dados (não confirmado na página lida; verificar no Portal do Empreendedor: faturamento anual máximo, atividades permitidas, número de empregados, documentos)
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Sem prazo visto; a página não traz datas. O ciclo "aberto de forma contínua" não pôde ser confirmado nesta verificação.
+  - Como se candidatar: sem dados (formalização do MEI é feita no portal oficial do governo, que não pôde ser lido nesta verificação)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É uma página informativa sobre um status legal, não uma vaga nem um programa com inscrição.
+  - Esclarecimento: Limite de faturamento, contribuição mensal (DAS), atividades permitidas e data de atualização não foram confirmados; convém conferir as regras vigentes no Portal do Empreendedor.

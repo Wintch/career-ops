@@ -1,0 +1,147 @@
+# Ofícios e construção civil
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Sine e os serviços oferecidos (intermediação, qualificação e certificação profissional)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/sistema-nacional-de-emprego-sine/sine-e-os-servicos-oferecidos/
+  - O que é: Trabalhadores em geral; inclui orientação profissional, qualificação social e profissional e certificação profissional, útil para quem atua em ofícios sem diploma formal.
+  - Requisitos: Requisitos para o trabalhador não informados na página. Não exige experiência nem escolaridade para a intermediação, mas isso não está dito expressamente; vagas específicas podem ter exigências próprias.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Gratuito (serviços do Sine sem custo). Valores de seguro-desemprego não constam da página.
+  - Prazo ou ciclo: Serviço permanente, sem prazo. A página não lista datas nem editais; a oferta local de cursos varia por unidade.
+  - Como se candidatar: https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Serviço Público de Emprego do Brasil, com serviços gratuitos e universais, descrito em página oficial do Ministério do Trabalho e Emprego.
+  - Esclarecimento: O acesso online para trabalhadores é https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine.
+  - Esclarecimento: A página não menciona o aplicativo Sine Fácil nem endereços de unidades, e vagas específicas podem ter exigências próprias.
+- **SENAI-RJ (Firjan SENAI): aprendizagem, qualificação e técnico; formação gratuita para baixa renda** (aberta ou vigente, verificada 2 vezes) https://www.firjan.com.br/senai/
+  - O que é: Jovens de 14 a 24 anos (aprendizagem), alunos do ensino médio, adultos para qualificação e aperfeiçoamento; página cita formação profissional gratuita para cidadãos de baixa renda.
+  - Requisitos: Aprendizagem básica: de 14 a 24 anos, contratado por empresa com contrato de até dois anos. Aprendizagem técnica: estar no 2º ou 3º ano do Ensino Médio ou tê-lo concluído, e ter mais de 14 e menos de 24 anos. Critério de renda da gratuidade: sem dados. Sem exigência de experiência indicada.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Formação gratuita para pessoas de baixa renda (critério exato: sem dados). Aprendizagem: contrato de trabalho de aprendiz até 2 anos, valor: sem dados.
+  - Prazo ou ciclo: Aberto, por turmas; datas de inscrição não constam na página (sem dados). Contato: 0800 0231 231.
+  - Como se candidatar: https://firjansenai.com.br/
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: A página não traz link direto de inscrição nem datas, e a página de gratuidade tentada (firjan.com.br/senai/educacao/gratuidade/) retornou 404.
+  - Esclarecimento: Os links de cursos citados na página são firjansenai.com.br e cursosenairio.com.br.
+  - Esclarecimento: A página menciona o projeto Dupla Escola com a rede estadual e modalidades presenciais, a distância e em empresa.
+- **SENAI-SC: cursos profissionais, técnicos, Aprendizagem Industrial e Editais de Gratuidade** (aberta ou vigente, verificada 2 vezes) https://www.sc.senai.br/
+  - O que é: Pessoas que queiram cursos profissionais ou técnicos na indústria; a página tem link para editais de gratuidade.
+  - Requisitos: Variam por edital (renda familiar, idade e escolaridade não constam na página; ver o PDF de cada edital). Prioridade para trabalhadores de indústrias contribuintes; vagas remanescentes abertas à comunidade. Aprendizagem Industrial: página própria https://sc.senai.br/aprendizagem-industrial-estudante (não aberta).
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Vagas gratuitas nos editais de gratuidade; bolsa ou remuneração: sem dados.
+  - Prazo ou ciclo: Editais de gratuidade em fluxo contínuo; exemplo visto: qualificação (Lab 365) com inscrições até 31/01/2027. Vários editais têm datas sem ano na página (sem dados). Seleção de graduação 2027 anunciada, sem data.
+  - Como se candidatar: https://sc.senai.br/editais-gratuidade-senai
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Os editais de gratuidade dão prioridade a trabalhadores de indústrias contribuintes, com vagas remanescentes para a comunidade em geral.
+  - Esclarecimento: Exemplos de editais: Eletricidade Residencial para Mulheres (Porto União), Técnico em Eletrotécnica (Mafra) e Técnico em Eletromecânica; a lista pode conter outros editais.
+  - Esclarecimento: Os requisitos de cada edital estão nos PDFs correspondentes.
+  - Esclarecimento: A página de Aprendizagem Industrial é https://sc.senai.br/aprendizagem-industrial-estudante.
+- **CFT: registro profissional de técnicos industriais (eletrotécnica, edificações, mecânica, soldagem, refrigeração e ar-condicionado)** (aberta ou vigente, verificada 2 vezes) https://www.cft.org.br/
+  - O que é: Técnicos industriais de nível médio que exercem a profissão regulamentada; relevante para quem concluiu curso técnico em áreas como eletrotécnica ou edificações.
+  - Requisitos: Formação de técnico de nível médio (curso técnico industrial). Lista exata de documentos: sem dados na página consultada. Não serve a quem ainda não tem curso técnico.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: Não é emprego. Taxa de análise do registro: R$ 53,02; anuidade: sem dados.
+  - Prazo ou ciclo: Sem prazo nem período na página; o registro é solicitado por link externo e a página não indica abertura ou encerramento.
+  - Como se candidatar: https://corporativo.sinceti.net.br/app/view/sight/externo.php?form=CadastrarProfissional
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Não é fonte de vagas: é registro profissional no Conselho Federal dos Técnicos Industriais, com conselhos regionais (CRTs), para quem já tem formação técnica de nível médio.
+  - Esclarecimento: Segundo o FAQ, tecnólogos, técnicos agrícolas e técnicos em segurança do trabalho não se registram no CFT, e o registro do CREA não vale automaticamente no CFT.
+  - Esclarecimento: A página não informa requisitos nem se o registro está aberto o ano todo; o caráter permanente do registro é inferência.
+  - Esclarecimento: Telefone do técnico: 0800 016-1515.
+- **Vagas.com: vagas de eletricista (e pedreiro) em CLT** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-eletricista
+  - O que é: Candidatos a vagas de eletricista; existe página análoga para pedreiro (https://www.vagas.com.br/vagas-de-pedreiro).
+  - Requisitos: Variam por vaga: comumente curso profissionalizante ou técnico, certificação NR-10, experiência prévia e CNH B em alguns casos. Há vagas de nível auxiliar/operacional; nem todas exigem experiência, mas as vistas pedem curso ou certificação. Cadastro gratuito para candidatar-se.
+  - Pagamento ou benefício: Varia por vaga; a página consultada não mostrou faixas salariais (sem dados).
+  - Prazo ou ciclo: 56 vagas de eletricista em 23/11/2026 (55 CLT e 1 PJ), com anúncios datados de 02/10/2026 a 13/11/2026 e cinco com data relativa; sem vagas de pedreiro.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-eletricista
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Vagas.com é agregador/quadro de vagas, não empregador, e o cadastro é gratuito.
+  - Esclarecimento: A página de eletricista não traz vagas de pedreiro, embora o título da fonte as cite.
+  - Esclarecimento: A vaga da Vale (Nova Lima/MG) é exclusiva para PcD.
+  - Esclarecimento: As vagas incluem empregadores como Colgate-Palmolive, Linha Amarela, CPFL Energia, Vale e bp bioenergy.
+- **Randstad Brasil: vagas operacionais e industriais (agência de emprego)** (aberta ou vigente, verificada 2 vezes) https://www.randstad.com.br/vagas/
+  - O que é: Candidatos a vagas administrativas, técnicas e operacionais em indústria, varejo, logística e ofícios, permanentes e temporárias.
+  - Requisitos: Variam por vaga; consultar cada anúncio. Nenhuma exigência geral informada na página. Cadastro de currículo no My Randstad.
+  - Pagamento ou benefício: Varia por vaga; exemplos vistos de R$ 1.501 a R$ 6.500 por mês (faixas informadas na página).
+  - Prazo ou ciclo: Aberto, com vagas renovadas continuamente; em 23/11/2026 a busca mostrava 1108 vagas, com anúncios de 20/11/2026
+  - Como se candidatar: https://www.randstad.com.br/vagas/
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Randstad é agência de emprego, com vagas efetivas e temporárias.
+  - Esclarecimento: Exemplos de vagas: mecânico de produção (Estância/SE, temporário), operador de máquinas de corte e dobra (Maracanaú/CE, efetivo), técnico de manutenção industrial (Guaíba/RS, temporário), operador de processos de produção II (Jundiaí/SP, efetivo) e técnico em manutenção mecânica (Dias d'Ávila/BA).
+  - Esclarecimento: O cadastro de currículo é feito pelo portal My Randstad.
+- **GetNinjas: plataforma para profissionais autônomos de reformas e reparos** (aberta ou vigente, verificada 2 vezes) https://www.getninjas.com.br/seja-um-profissional
+  - O que é: Autônomos que prestam serviços a clientes, como reformas e reparos, assistência técnica e serviços domésticos.
+  - Requisitos: A página não lista documentos, qualificação nem experiência (sem dados); exige aceite dos Termos de Uso e da Política de Privacidade. Não exige experiência formal, mas o cliente decide pela contratação.
+  - Pagamento ou benefício: Sem salário: o profissional cobra o valor que combinar com o cliente e fica com 100% dele; paga pelas moedas usadas para liberar contatos (preços: sem dados).
+  - Prazo ou ciclo: Sem prazo; cadastro contínuo, sem datas na página.
+  - Como se candidatar: https://www.getninjas.com.br/seja-um-profissional
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Não é emprego CLT: é trabalho autônomo, com custo para obter contatos.
+  - Esclarecimento: O cadastro é gratuito e sem mensalidade e ver os pedidos não tem custo, mas há custo por contato: o profissional compra moedas para liberar o contato do cliente.
+  - Esclarecimento: O cadastro é feito por e-mail e celular, e há aplicativo para Android e iOS.
+  - Esclarecimento: A página não informa expressamente que o cadastro fica aberto o ano todo.
+- **Triider: plataforma de serviços para eletricistas, encanadores, pintores e instaladores** (aberta ou vigente, verificada 2 vezes) https://www.triider.com.br/
+  - O que é: Profissionais de serviços hidráulicos, elétricos, ar-condicionado, pequenos reparos, instalações, pintura, pisos e montagem de móveis que queiram clientes na plataforma.
+  - Requisitos: Cadastro como autônomo ou empresa; documentos e informações adicionais para verificação (quais exatamente: sem dados); nenhuma exigência de CNPJ/MEI ou de experiência mencionada na página
+  - Pagamento ou benefício: Sem salário fixo: renda por serviço executado; taxa sobre serviços no modo pós-pago (percentual sem dados)
+  - Prazo ou ciclo: Sem prazo na página; cadastro por link 'Seja um profissional', sem datas, em 17 cidades.
+  - Como se candidatar: https://www.triider.com.br/seja-um-profissional/
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: A plataforma atua apenas em cidades específicas (17 no guia de cidades), o que restringe a elegibilidade por local.
+  - Esclarecimento: O cadastro tem três etapas: cadastro inicial (autônomo ou empresa), cadastro completo com documentos para verificação de segurança e aprovação interna.
+  - Esclarecimento: A página não detalha requisitos nem custos do cadastro, e não afirma expressamente que cada ofício é aceito.
+  - Esclarecimento: Existem as modalidades pré-paga e pós-paga, esta com envio de orçamentos gratuito.
+- **SENAI-SP: cursos livres, técnicos e Aprendizagem Industrial (construção civil, soldagem, elétrica, automotiva, manutenção)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.sp.senai.br/
+  - O que é: Pessoas que queiram aprender ou certificar um ofício industrial ou da construção; inclui trilha de aprendizagem para jovens e cursos livres curtos.
+  - Requisitos: Aprendizagem Industrial: ter concluído o Ensino Fundamental II (ou estar cursando e concluir até o início das aulas); comprovar matrícula no Ensino Médio ou conclusão até o início das aulas; ter no mínimo 14 anos na data de início do curso e não completar 24 anos antes do fim (exceções no Anexo I do edital). Seleção por prova de 60 questões (Português, Matemática e Ciências, nível Fundamental II). Não exige experiência prévia. Requisitos dos demais processos: sem dados.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Curso gratuito na Aprendizagem Industrial Comunidade; bolsa ou remuneração: sem dados (consultar o edital). Demais modalidades: sem dados.
+  - Prazo ou ciclo: Processos seletivos periódicos. Aprendizagem Industrial Comunidade 2026: inscrições de 23/10/2026 a 09/11/2026 (encerradas em 23/11/2026), prova de 10/11 a 27/11/2026, resultado em 14/12/2026, matrícula de 14 a 18/12/2026. Novo ciclo esperado para as turmas seguintes; mês exato sem dados.
+  - Como se candidatar: https://www.sp.senai.br/processo-seletivo/aprendizagem-industrial-comunidade
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Correção de datas: as inscrições da Aprendizagem Industrial Comunidade 2026 encerraram em 09/11/2026 (21h), e não em 23/11/2026; a página exibe 'INSCRIÇÕES ENCERRADAS'.
+  - Esclarecimento: Na Aprendizagem Industrial por Empresas, a pessoa é contratada como aprendiz pela empresa parceira.
+  - Esclarecimento: A página inicial lista seis processos seletivos e cursos por área, como Metalurgia e Soldagem.
+- **Qualificação Profissional do MTE (QualificaPRO e encaminhamento a cursos via Sine / Pronatec)** (não verificada, verificada 1 vez) https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/qualificacao-profissional
+  - O que é: Trabalhadores em geral que queiram qualificação profissional gratuita antes de buscar vaga; cursos são encaminhados pela Rede Sine.
+  - Requisitos: Não informados na página.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados. A página não lista editais, turmas nem datas.
+  - Como se candidatar: https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Página oficial do MTE que descreve a política federal de qualificação: o MTE atua com o MEC no Pronatec e encaminha trabalhadores aos cursos por meio dos órgãos do Sine.
+  - Esclarecimento: O QualificaPRO aparece apenas como link de menu, sem informação, e nenhum curso, edital ou prazo aberto foi confirmado.
+  - Esclarecimento: Para cursos, é necessário procurar a unidade do Sine local.
+- **SENAI: portal nacional (Portal da Indústria), porta de entrada para os departamentos regionais** (não verificada, verificada 1 vez) https://www.senai.portaldaindustria.com.br/
+  - O que é: Portal institucional do SENAI; cada estado tem departamento regional com seus cursos e processos de matrícula.
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados
+  - Como se candidatar: sem dados
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: A página carregou quase vazia, sem links para departamentos regionais, cursos, gratuidade ou aprendizagem, e a função de porta de entrada não foi confirmada.
+  - Esclarecimento: Os departamentos regionais verificados (SP, RJ/Firjan e SC) têm sites próprios e são a via real de inscrição.
+- **MEI (Microempreendedor Individual): formalização para autônomos de ofícios, guia do Sebrae** (não verificada, verificada 1 vez) https://sebrae.com.br/empreendedores/guiaparaomei/querosermei/o-que-e-o-mei
+  - O que é: Autônomos que queiram atuar formalmente, incluindo muitos ofícios e serviços de reforma, desde que a atividade conste na lista de ocupações permitidas ao MEI.
+  - Requisitos: Atividade constar na lista de ocupações permitidas ao MEI; demais critérios (limite de faturamento, impedimentos): sem dados nas páginas lidas
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Não se aplica (formalização, não vaga); custo mensal do DAS: sem dados
+  - Prazo ou ciclo: Permanente (não depende de edital); DAS mensal. Não foi possível confirmar valores de 2026.
+  - Como se candidatar: https://www.gov.br/empresas-e-negocios/pt-br/empreendedor
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Não é vaga: trata-se de formalização como Microempreendedor Individual.
+  - Esclarecimento: Em página relacionada do Sebrae consta que é possível cadastrar até 15 ocupações no mesmo CNPJ e que o relatório mensal de receitas brutas é obrigação.
+  - Esclarecimento: Limite de faturamento, valores do DAS em 2026 e passo a passo não puderam ser confirmados; recomenda-se consultar o Portal do Empreendedor (gov.br/empresas-e-negocios).
+- **SindusCon-SP: Curso de Mestre de Obras e programas com o SENAI (ConstruSer, PSS)** (não verificada, verificada 1 vez) https://www.sindusconsp.com.br/
+  - O que é: Profissionais e empresas da construção civil, principalmente em São Paulo; associados podem aderir a projetos em parceria com o SENAI.
+  - Requisitos: sem dados; ConstruSer e PSS aparecem como benefícios para associados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados (nenhuma inscrição aberta encontrada em 2026)
+  - Como se candidatar: sem dados (contato com a Regional do SindusCon-SP ou com a Escola SENAI correspondente)
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Não deve ser tratado como vaga aberta: ConstruSer e PSS são projetos exclusivos para empresas associadas, em parceria com o SENAI.
+  - Esclarecimento: Os programas parecem voltados a associados e a trabalhadores já do setor, não sendo porta de entrada para quem não tem experiência.
+  - Esclarecimento: A turma do Mestre de Obras em São José do Rio Preto teve 435 h e 17 alunos, na Escola SENAI Antônio Devisate, iniciada em maio, sem datas de novas inscrições.
+  - Esclarecimento: Contatos na home: (11) 3334-5600 e (11) 3334-5602.

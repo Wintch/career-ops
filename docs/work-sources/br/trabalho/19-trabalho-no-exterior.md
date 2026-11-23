@@ -1,0 +1,135 @@
+# Trabalho no exterior
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Portugal - visto de mobilidade CPLP (documentação instrutória)** (aberta ou vigente, verificada 2 vezes) https://vistos.mne.gov.pt/pt/vistos-nacionais/documentacao-instrutoria/cplp
+  - O que é: Nacionais de Estados em que esteja em vigor o Acordo de Mobilidade da CPLP (Luanda, 17/7/2021). Se o Acordo vale para o Brasil: verificar com o consulado de Portugal.
+  - Requisitos: Formulário oficial assinado; duas fotos recentes; certidão de antecedentes criminais do país de origem (ou de residência há mais de 1 ano) com Apostila de Haia ou legalizada (menores de 16 anos dispensados); meios de subsistência (dispensados com declaração de responsabilidade da entidade de acolhimento para estudantes, trabalhadores, estagiários e voluntários; para os demais, termo de responsabilidade de residente em Portugal com extratos bancários e IRS; alunos admitidos no ensino superior estão isentos); menores precisam de autorização dos pais.
+  - Pagamento ou benefício: Não se aplica (visto, não emprego).
+  - Prazo ou ciclo: Caminho aberto, sem prazo nem cota informados na página (a página não lista datas nem cota; a validade do visto também não consta).
+  - Como se candidatar: https://vistos.mne.gov.pt/pt/vistos-nacionais/documentacao-instrutoria/cplp
+  - Leitura automática possível: no
+  - Esclarecimento: Aplica-se somente a nacionais de países onde o Acordo de Mobilidade da CPLP está em vigor; convém verificar com o consulado de Portugal se vale para o Brasil.
+  - Esclarecimento: A página lista apenas a documentação; onde pedir e prazos constam em outras páginas do mesmo site e no portal e-Visa.
+  - Esclarecimento: Não é oferta de emprego, é um visto de mobilidade.
+- **Portugal - visto Schengen para trabalho sazonal de curta duração** (aberta ou vigente, verificada 2 vezes) https://vistos.mne.gov.pt/pt/vistos-schengen/documentacao-instrutoria/curta-duracao-trabalho-sazonal
+  - O que é: Trabalhadores com contrato ou promessa de contrato de trabalho sazonal em Portugal (setores de emprego sazonal definidos por Portugal).
+  - Requisitos: Formulário oficial; passaporte válido; uma foto; passagem de regresso; seguro de viagem com cobertura médica e repatriamento; contrato ou promessa de contrato de trabalho sazonal (local, horário, tipo, duração, remuneração, férias); meios de subsistência (pode ser declaração do empregador); proteção de saúde e seguro de acidentes de trabalho pelo empregador; alojamento adequado; cumprimento da lei portuguesa em profissões regulamentadas. Exige oferta prévia de emprego.
+  - Pagamento ou benefício: Definido no contrato de trabalho (a página exige constar a remuneração); valor: sem dados.
+  - Prazo ou ciclo: Caminho aberto e contínuo, sem prazo, cota ou data informados na página (somente o Despacho n.º 745/2018, de 17/1/2018, que define os setores).
+  - Como se candidatar: https://vistos.mne.gov.pt/pt/vistos-schengen/documentacao-instrutoria/curta-duracao-trabalho-sazonal
+  - Leitura automática possível: no
+  - Esclarecimento: Exige contrato ou promessa de contrato de trabalho sazonal com empregador sediado em Portugal ou empresa de trabalho temporário; o primeiro passo é conseguir a oferta.
+  - Esclarecimento: Setores elegíveis (Despacho 745/2018): agricultura, pecuária, caça, silvicultura e pesca; alojamento e restauração; indústrias alimentares, de bebidas e tabaco; comércio por grosso e a retalho; construção; transporte terrestre.
+  - Esclarecimento: A página não descreve os passos de submissão.
+- **EUA - J-1 Au Pair (BridgeUSA)** (aberta ou vigente, verificada 2 vezes) https://j1visa.state.gov/programs/au-pair/
+  - O que é: Jovens de 18 a 26 anos com ensino médio completo, para morar 12 meses com uma família americana cuidando de crianças.
+  - Requisitos: Idade de 18 a 26 anos; inglês falado proficiente; ensino médio completo ou equivalente; exame físico; entrevista pessoal em inglês com o patrocinador; verificação de antecedentes (escola, 3 referências não familiares, antecedentes criminais ou equivalente, perfil psicométrico). Não é exigida experiência para o programa em geral. Habilitação de motorista: a página não menciona.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Bolsa semanal mínima paga pela família (valor não informado na página), mais hospedagem e alimentação. Valor: sem dados.
+  - Prazo ou ciclo: Caminho aberto o ano todo: a inscrição é feita por patrocinadores designados, sem prazo único. Estadia de 12 meses, com extensão opcional de 6, 9 ou 12 meses.
+  - Como se candidatar: https://j1visa.state.gov/sponsors/sponsor-by-country/?program=all
+  - Leitura automática possível: no
+  - Esclarecimento: A página traz nota sobre uma possível nova regra ("Au Pair Rule"); o Departamento de Estado diz ser prematuro comentar e não há decisão.
+  - Esclarecimento: Carga de até 10 h/dia e 45 h/semana de cuidado infantil (EduCare: 30 h/semana), com um fim de semana completo livre por mês e pelo menos 2 semanas de férias remuneradas por ano.
+  - Esclarecimento: Exige no mínimo 6 horas de crédito acadêmico em instituição pós-secundária dos EUA (EduCare: 12 horas); a página é inconsistente sobre quem paga até US$ 500 do curso.
+  - Esclarecimento: Famílias com crianças menores de 2 anos exigem 200 h documentadas de experiência com bebês; o treinamento em cuidado infantil é de pelo menos 32 h antes do início.
+- **Nova Zelândia - Brazil Working Holiday Visa** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.immigration.govt.nz/visas/brazil-working-holiday-visa/
+  - O que é: Cidadãos brasileiros de 18 a 30 anos, para até 12 meses de estadia com trabalho temporário e estudo.
+  - Requisitos: Cidadão brasileiro de 18 a 30 anos; passaporte válido por pelo menos 3 meses após o fim do visto; nunca ter tido visto working holiday da Nova Zelândia; NZD 4.200 em fundos; seguro-saúde completo; boa saúde e boa conduta; intenção genuína de sair do país ao fim da estadia. Não exige experiência profissional nem diploma.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Sem salário: é um visto, não um emprego. Taxa a partir de NZD 770; exigem-se pelo menos NZD 4.200 em fundos para manutenção.
+  - Prazo ou ciclo: Fechado para 2026 (a página diz: 'This visa is closed for 2026. You can apply next year'). Cota anual de 300 vistos. Data de abertura de 2027: sem dados (a página não informa; o aviso de abertura em 8/10/2026 citado na fonte não foi visto na página).
+  - Como se candidatar: https://www.immigration.govt.nz/visas/brazil-working-holiday-visa/
+  - Leitura automática possível: no
+  - Esclarecimento: A página não informa a data de abertura de 2027.
+  - Esclarecimento: A solicitação é feita online, em inglês, por conta no Immigration New Zealand.
+  - Esclarecimento: Verificação policial e exame médico podem ser pedidos depois.
+  - Esclarecimento: O visto permite trabalhar durante a estadia.
+- **EUA - J-1 Summer Work Travel (BridgeUSA)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://j1visa.state.gov/programs/summer-work-travel/
+  - O que é: Estudantes universitários em tempo integral, fora dos EUA, que queiram trabalhar e viajar nas férias de verão.
+  - Requisitos: Estudante em tempo integral de instituição pós-secundária credenciada fora dos EUA; ao menos um semestre concluído; inglês suficiente para trabalhar; para países que exigem visto, emprego pré-arranjado; estadia máxima de 4 meses. Exige ser universitário, portanto não serve a quem não tem ensino superior em curso.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: No mínimo o maior valor entre o salário mínimo estadual e o federal dos EUA, conforme exigência aos patrocinadores.
+  - Prazo ou ciclo: Programa anual de verão do hemisfério norte; as datas dependem do patrocinador. A página remete a um 'Program Date Chart' de 2024 (PDF, conteúdo não lido) e mostra um aviso antigo de 21/11/2021, possivelmente desatualizado. Datas atuais para o Brasil: sem dados.
+  - Como se candidatar: https://j1visa.state.gov/participants/how-to-apply/
+  - Leitura automática possível: no
+  - Esclarecimento: A página oficial não menciona o Brasil; a situação atual do programa para brasileiros deve ser confirmada com um patrocinador.
+  - Esclarecimento: A inscrição passa por um patrocinador de programa; quem vem de país que exige visto precisa de emprego pré-colocado antes da entrada.
+  - Esclarecimento: A estadia máxima é de 4 meses e é preciso voltar para casa antes do início do período letivo.
+  - Esclarecimento: São vedados empregos como venda só por comissão, trabalho doméstico em residência particular e direção.
+- **Orientação para o trabalho no exterior (cartilha MJSP, MRE e OIM)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/mj/pt-br/assuntos/sua-protecao/trafico-de-pessoas/copy5_of_OrientacaoTrabalhoExterior_preview_06.pdf
+  - O que é: Qualquer pessoa que receba proposta de trabalho no exterior; a edição lida é voltada a modelos, jogadores de futebol e outros profissionais, mas traz recomendações gerais de viagem segura.
+  - Requisitos: Nenhum. Material de acesso livre.
+  - Pagamento ou benefício: Não se aplica.
+  - Prazo ou ciclo: Referência permanente, sem prazo nem ciclo. Edição de 2023 (metadados do PDF: criado em 22/10/2023, modificado em 30/04/2024).
+  - Como se candidatar: https://www.gov.br/mj/pt-br/assuntos/sua-protecao/trafico-de-pessoas/copy5_of_OrientacaoTrabalhoExterior_preview_06.pdf
+  - Leitura automática possível: no
+  - Esclarecimento: Não é oferta de vaga nem programa, e sim material de prevenção ao tráfico de pessoas.
+  - Esclarecimento: A edição de 2023 é voltada a modelos, jogadores de futebol e outros profissionais, com recomendações gerais de viagem segura.
+  - Esclarecimento: A URL contém "copy5_of" e "preview", sinal de cópia de pré-visualização que pode mudar de endereço; vale conferir a página-mãe do MJSP sobre tráfico de pessoas.
+- **OIT - Iniciativa de Recrutamento Justo (Fair Recruitment)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.ilo.org/topics-and-sectors/fair-recruitment
+  - O que é: Trabalhadores que buscam emprego fora do país e quem quer entender como reconhecer agências de recrutamento e intermediários irregulares.
+  - Requisitos: Nenhum. Material de acesso livre, em inglês.
+  - Pagamento ou benefício: Não se aplica.
+  - Prazo ou ciclo: Referência permanente, sem prazo nem ciclo. Iniciativa lançada em 2014.
+  - Como se candidatar: https://www.ilo.org/topics-and-sectors/fair-recruitment
+  - Leitura automática possível: no
+  - Esclarecimento: A página é da OIT e está em inglês.
+  - Esclarecimento: Os recursos são voltados sobretudo a governos, empregadores, recrutadores, inspetores e instrutores, não a candidatos a emprego.
+  - Esclarecimento: Não informa linha de denúncia nem ferramenta direta para quem busca trabalho; serve como referência de princípios (por exemplo, o candidato não deve pagar taxas de recrutamento).
+  - Esclarecimento: Não é oferta de emprego.
+- **Austrália - visto Work and Holiday (subclasse 462) para brasileiros: situação das cotas** (não verificada, verificada 1 vez) https://immi.homeaffairs.gov.au/what-we-do/whm-program/status-of-country-caps
+  - O que é: Jovens brasileiros de 18 a 30 anos que queiram passar até 12 meses na Austrália com trabalho e estudo de curta duração. Sem necessidade de oferta de emprego prévia (a confirmar na página do visto).
+  - Requisitos: sem dados (não confirmado em página lida)
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados. A página oficial retornou HTTP 403 (bloqueio ao acesso automatizado) em duas tentativas, incluindo a página do visto 462; o status 'paused' e o reinício em 2 de julho não puderam ser confirmados.
+  - Como se candidatar: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462
+  - Leitura automática possível: no
+  - Esclarecimento: A página oficial não pôde ser lida (HTTP 403), e por isso a cota anual de 500 vistos, o status 'paused' e o reinício em 2 de julho não foram confirmados.
+  - Esclarecimento: Não deve ser indicado como aberto; a tabela de cotas deve ser consultada diretamente na fonte oficial.
+- **Japão - visto Working Holiday Brasil-Japão (novo, a partir de dezembro de 2026)** (não verificada, verificada 1 vez) sem dados
+  - O que é: Brasileiros de 18 a 30 anos residentes no Brasil, para estadia de até 1 ano no Japão com autorização para trabalhar como atividade complementar às férias.
+  - Requisitos: Segundo a reportagem (não oficial): 18 a 30 anos na data do pedido; passagem de volta ou fundos para comprá-la; reserva financeira inicial; seguro-saúde válido por todo o período; certidão de antecedentes criminais regular; boa saúde; intenção de experiência cultural. Sem exigência de experiência vista.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Sem salário: visto de permanência de até 1 ano com permissão de trabalho complementar (segundo a reportagem).
+  - Prazo ou ciclo: Segundo a reportagem (22/8/2026), vale a partir de 1º/12/2026. Não confirmado em fonte oficial. Cota e periodicidade: sem dados.
+  - Como se candidatar: sem dados
+  - Leitura automática possível: no
+  - Esclarecimento: A fonte é uma reportagem, não uma página oficial do governo japonês.
+  - Esclarecimento: A vigência a partir de 1º/12/2026 não foi confirmada em fonte oficial.
+  - Esclarecimento: A reportagem não informa onde nem como solicitar o visto, nem as cotas.
+- **França - visto Vacances-Travail (PVT) para brasileiros** (não verificada, verificada 1 vez) https://france-visas.gouv.fr/en-US/web/france-visas/young-traveller
+  - O que é: Jovens brasileiros de 18 a 30 anos, para até 1 ano na França com trabalho permitido sem autorização prévia.
+  - Requisitos: sem dados
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados. A página retornou HTTP 403; a pesquisa na página do Ministério das Relações Exteriores da França (France Diplomatie) não trouxe informação sobre o Brasil.
+  - Como se candidatar: sem dados
+  - Leitura automática possível: no
+  - Esclarecimento: Cota para brasileiros, idade e janela de pedidos não foram confirmadas em página oficial.
+  - Esclarecimento: A existência do acordo (2013, Decreto 9.342/2018) vem apenas do texto da fonte e não foi verificada em página oficial.
+  - Esclarecimento: Não se deve afirmar que há abertura de pedidos.
+- **Lista oficial de patrocinadores designados J-1 (BridgeUSA)** (não verificada, verificada 1 vez) https://j1visa.state.gov/sponsors/sponsor-by-country/?program=all
+  - O que é: Qualquer pessoa elegível a um programa J-1 (Summer Work Travel, Au Pair, estágio, trainee etc.) que precise de um patrocinador legítimo.
+  - Requisitos: Não se aplica à lista em si; os requisitos do participante estão na página do programa.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Lista mantida de forma contínua. Os registros mostram data de criação e edição de 20/11/2026 15:10, o que indica carga em bloco, não atualização individual.
+  - Como se candidatar: https://j1visa.state.gov/sponsors/sponsor-by-country/?program=all
+  - Leitura automática possível: no
+  - Esclarecimento: A página não exibe categoria Au Pair, então não foi confirmado que sirva para localizar patrocinadores de au pair.
+  - Esclarecimento: Para au pair, a lista por país (https://j1visa.state.gov/sponsors/sponsor-by-country/?program=all, rotulada 2024) mostra, com o Brasil como origem, entre outros: Agent Au Pair, Au Pair 4 Me, Au Pair International, AuPairCare, goAuPair (American Cultural Exchange), Au Pair in America (AIFS), Cultural Care Au Pair e Cultural Homestay International.
+  - Esclarecimento: A leitura da lista foi parcial, então pode haver mais nomes; nenhum patrocinador foi conferido no site próprio.
+  - Esclarecimento: Os registros têm data de criação e edição de 20/11/2026, o que indica carga em bloco, não atualização individual.
+- **Alerta do Itamaraty sobre falsas ofertas de emprego no Sudeste Asiático (fev/2026)** (não verificada, verificada 1 vez) sem dados
+  - O que é: Jovens com conhecimento de informática recrutados por redes sociais; qualquer pessoa que receba oferta de trabalho no Sudeste Asiático.
+  - Requisitos: Nenhum. Material informativo.
+  - Pagamento ou benefício: Não se aplica.
+  - Prazo ou ciclo: Alerta de 24/02/2026 (matéria de 25/02/2026). Sem prazo; o tema é permanente.
+  - Como se candidatar: sem dados
+  - Leitura automática possível: no
+  - Esclarecimento: É fonte jornalística (SBT News), não oficial; a nota original no site do Itamaraty (gov.br/mre) não foi localizada.
+  - Esclarecimento: A orientação é não aceitar ofertas no Sudeste Asiático com ganhos altos, contratação rápida ou intermediação informal.
+  - Esclarecimento: A matéria não traz canais de contato; não é oferta de emprego, serve só como alerta de segurança.

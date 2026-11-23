@@ -1,0 +1,79 @@
+# Educação e cuidado infantil
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Seduc-RS - Banco de Cadastro Temporário da Rede Estadual (Contratos Temporários)** (aberta ou vigente, verificada 2 vezes) https://estado.rs.gov.br/inscricoes-para-o-banco-de-cadastro-temporario-da-rede-estadual-sao-prorrogadas-ate-25-de-novembro
+  - O que é: Professores da educação básica e profissional, especialistas em educação (orientação, supervisão etc.) e quadro de apoio escolar e técnico agrícola para contratos temporários nas escolas estaduais. Há reserva de vagas para pessoas com deficiência, negras, trans e indígenas.
+  - Requisitos: Documentos que comprovem identidade, formação acadêmica e experiência profissional (varia por cargo; ver cada edital). Arquivos digitalizados em PDF. Para quadro de apoio, os requisitos específicos por função estão no edital correspondente. Experiência prévia: exigência específica por cargo, não detalhada na notícia.
+  - Pagamento ou benefício: sem dados (não informado na notícia oficial)
+  - Prazo ou ciclo: Inscrições até 25/11/2026, 18h (prorrogação publicada em edição extra do Diário Oficial de 19/11/2026). Validade da lista: 1 ano para professores; 2 anos para especialistas e apoio/técnicos agrícolas, contados da homologação da classificação final.
+  - Como se candidatar: Site da Seduc-RS, aba Contratos Temporários (URL exata da página de inscrição não confirmada: o domínio seduc.rs.gov.br falha por certificado)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: São três editais: Especialista, Professor e Apoio Escolar e Técnicos Agrícolas, com versão em Libras.
+  - Esclarecimento: A inscrição é feita em duas etapas: formulário (professor escolhe disciplina e CRE; apoio escolhe município, CRE e função) e envio dos documentos em PDF com o código de acesso enviado ao e-mail.
+  - Esclarecimento: A inscrição só vale após a validação dos documentos pela comissão da CRE.
+  - Esclarecimento: A URL oficial do domínio seduc.rs.gov.br apresentou erro de certificado SSL; as informações foram confirmadas pela notícia oficial do Governo do RS.
+- **SESI-SP e SENAI-SP - Vagas de instrutor e professor (Trabalhe Conosco)** (aberta ou vigente, verificada 2 vezes) https://sesisenaisp.empregare.com/
+  - O que é: Candidatos a instrutor de formação profissional, instrutor técnico (ex.: música), instrutor de programas corporativos e professor de educação superior (banco de talentos) nas unidades paulistas do SENAI e do SESI.
+  - Requisitos: Definidos em cada anúncio (escolaridade e experiência variam; vagas de instrutor e analista costumam exigir formação e experiência na área, não detalhadas na lista). Não é porta de entrada para quem não tem experiência ou formação, salvo anúncio específico.
+  - Pagamento ou benefício: Varia por vaga, exemplos vistos: Oficial de Manutenção II R$ 3.642,05; Instrutor Técnico Musical R$ 4.744,55; Instrutor de Programas Corporativo R$ 4.457,89; Fisioterapeuta R$ 3.667,09; Analista Técnico Educacional R$ 8.736,83 (mensal); algumas vagas sem salário informado.
+  - Prazo ou ciclo: Contínuo, vagas rotativas. Na leitura de 23/11/2026: 52 vagas em 33 anúncios; algumas com prazo no último dia.
+  - Como se candidatar: https://sesisenaisp.empregare.com/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página não lista requisitos por vaga na visão geral, e o banco de talentos para Professor de Educação Superior não tem o funcionamento explicado.
+  - Esclarecimento: A candidatura é feita pelo botão Candidate-se em cada vaga ou por WhatsApp (QR Code).
+  - Esclarecimento: Há filtro para vagas PcD e canal de denúncia de golpes.
+- **Sesc (Departamento Nacional) - Trabalhe Conosco** (aberta ou vigente, verificada 2 vezes) https://trabalheconosco.vagas.com.br/sesc?btn=enc
+  - O que é: Quem quer trabalhar no Departamento Nacional do Sesc: Sede, Polo Educacional Sesc (RJ) e Polo Sociocultural Paraty. Há listas separadas de estágio e jovem aprendiz. Cada Departamento Regional do Sesc tem seu próprio processo seletivo.
+  - Requisitos: Não informados na página (dependem de cada vaga futura). Cadastro de currículo no banco de talentos sem prazo.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Caminho aberto o ano todo (banco de talentos), mas sem vagas abertas em 23/11/2026.
+  - Como se candidatar: https://trabalheconosco.vagas.com.br/sesc?btn=enc (botão Quero trabalhar aqui / Deixe seu currículo)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não há vaga concreta no momento; o caminho aberto é apenas o cadastro de currículo no banco de talentos.
+  - Esclarecimento: Cobre só o Departamento Nacional; os Sesc regionais de cada estado têm processos seletivos próprios.
+  - Esclarecimento: O Polo Pantanal tem site próprio.
+- **Prova Nacional Docente (PND) - Inep / MEC (Mais Professores)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/prova-nacional-docente
+  - O que é: Concluintes de licenciatura e licenciados que queiram usar a nota em concursos ou processos seletivos de redes públicas (estados, DF e municípios) que aderiram à PND. Não é concurso nem emprego: a nota funciona como etapa classificatória, complementar ou eliminatória definida por cada rede.
+  - Requisitos: A página oficial lida não detalha quem pode se inscrever (as regras estão nas seções Editais e Orientações, não lidas). Estrutura: parte de formação geral (30 questões objetivas e 1 redação) e componente específico (50 questões de múltipla escolha), 5h30 no total. Público: professores e futuros professores.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Taxa de inscrição de R$ 85 na edição 2026 (segundo resultado de busca, não confirmado na página oficial). A prova não é emprego nem concurso.
+  - Prazo ou ciclo: Edição 2026 com inscrições encerradas (prorrogadas até 10/07/2026, segundo a imprensa). Resultado final previsto para 15/12/2026. Sem inscrição aberta em 23/11/2026.
+  - Como se candidatar: https://pnd.inep.gov.br
+  - Leitura automática possível: Planilha de municípios de aplicação: https://download.inep.gov.br/pnd/municipios_aplicacao_pnd_2026.xlsx (vista como link na página do Inep, não aberta).
+  - Esclarecimento: A prova é um exame do MEC/Inep, não é concurso nem emprego; o uso da nota depende da adesão de estados, DF e municípios e não garante vaga.
+  - Esclarecimento: Segundo a imprensa, o Edital nº 67 é de 22/05/2026, as inscrições foram prorrogadas até 10/07/2026, a prova foi marcada para 20/09/2026 e a reaplicação para 18/10/2026; isso não foi confirmado em fonte oficial.
+  - Esclarecimento: A taxa de R$ 85 e o público de concluintes de licenciaturas inscritos no Enade também vêm da imprensa e não foram confirmados na página oficial.
+  - Esclarecimento: Para a edição de 2027, convém acompanhar o portal do Inep.
+- **Seduc-PR - Processo Seletivo Simplificado (PSS) de professores** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.educacao.pr.gov.br/pss
+  - O que é: Candidatos a contratação temporária como Professor e Professor Pedagogo na rede estadual do Paraná; também há editais específicos (intérprete de Libras, educação indígena e quilombola, CELEM, educação profissional).
+  - Requisitos: Não constam na página. Os requisitos (formação, documentos, idade, experiência) estão em cada edital; sem dados aqui.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Editais renovados todo ano: em 2026 constam Edital 52/2026 (Professor e Professor Pedagogo, alterado pelos editais 55, 56, 61, 64, 66, 92 e 101/2026), Edital 15/2026 (educação profissional e tecnológica; classificação final já divulgada pelo 22/2026), Edital 98/2026 (escolas indígenas, quilombolas e itinerantes, CELEM, Centro Digital de Idiomas, DANCEP, intérpretes) e Edital 46/2026. Datas de inscrição: sem dados (estão nos documentos de cada edital).
+  - Como se candidatar: https://www.educacao.pr.gov.br/pss
+  - Leitura automática possível: Consulta pública do sistema: pss.pr.gov.br/pss/consulta.do (link visto na página, não aberto).
+  - Esclarecimento: A recorrência anual é indicada pelo Edital 46/2026, que altera editais de 2024 (73 e 132) e de 2025 (40).
+  - Esclarecimento: A página não informa datas de inscrição nem quais editais estão abertos; é preciso abrir cada edital no Documentador do Governo do Paraná.
+  - Esclarecimento: O Edital 15/2026 já tem resultado final, portanto não é chamada aberta.
+- **SEE-MG - Cadastro de Reserva e contratação temporária (SIAGEPE)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.agenciaminas.mg.gov.br/noticia/secretaria-de-educacao-abre-prazo-para-escolha-de-vagas-de-contratacao-temporaria-para-2026/
+  - O que é: Candidatos a Professor de Educação Básica (PEB), Especialista em Educação Básica, Analista Educacional/Inspetor Escolar e quadro administrativo (ASB, ATB, AEB) em contratação e convocação temporárias na rede estadual.
+  - Requisitos: Critérios por cargo e edital (escolaridade/habilitação específica do cargo). Inscrição gratuita e somente online. Cargos administrativos (AEB, ATB, ASB) e de magistério (ANE/IE, EEB, PEB).
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Ciclo anual no segundo semestre: 2024 (inscrições 23/10 a 02/11), 2025 (editais nº 09 e nº 10/2025, inscrições de 8 a 24/10/2025, validade até 31/12/2026). Em 2026 houve ainda inscrição extemporânea (22 a 31/05/2026, pelo Siagepe). Edição 2026/2027: sem dados; não encontrada aberta em 23/11/2026.
+  - Como se candidatar: Siagepe (Sistema de Administração e Gestão de Pessoal Temporário), link na página da SEE-MG
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A URL de origem é a matéria de 23/10/2024, e não a edição atual.
+  - Esclarecimento: Na edição 2024, a inscrição era só pela internet no Siagepe, com até 6 inscrições por candidato, e a inscrição numa SRE valia para todas as escolas da região (exceto educação indígena).
+  - Esclarecimento: Os dados de 2025 e da inscrição extemporânea de 2026 vêm de resultados de busca, não da leitura direta dos editais, e as datas de 2024 e 2025 não foram verificadas na página.
+  - Esclarecimento: Convém acompanhar o site da SEE-MG e o Siagepe por volta de outubro.
+- **CAPES - Pibid (Programa Institucional de Bolsa de Iniciação à Docência)** (não verificada, verificada 1 vez) https://www.gov.br/pt-br/servicos/obter-bolsa-de-iniciacao-a-docencia
+  - O que é: Estudantes de licenciatura que querem iniciar a prática docente em escolas públicas, via projetos de instituições de ensino superior (a seleção dos bolsistas costuma ser feita pela instituição: não confirmado na página lida).
+  - Requisitos: Estar matriculado em curso de licenciatura e ser selecionado pelo edital da IES participante; detalhes no edital CAPES e na Portaria CAPES nº 90/2024.
+  - Pagamento ou benefício: sem dados (valor da bolsa não visto nas páginas lidas)
+  - Prazo ou ciclo: Sem chamada nacional aberta confirmada. Seleções de bolsistas ocorrem por instituição de ensino superior (IES) ao longo de 2026, em datas próprias; novo edital CAPES: sem dados (o serviço gov.br indica prazo "Não estimado ainda").
+  - Como se candidatar: Coordenação de licenciaturas / edital de cada IES participante
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não é emprego: é bolsa de formação para estudantes de licenciatura, e o candidato individual se inscreve pela sua instituição de ensino superior, não pela CAPES.
+  - Esclarecimento: Os editais de IES encontrados para 2026 são, em sua maioria, já encerrados e se baseiam no Edital CAPES/Pibid nº 10/2024 e na Portaria CAPES nº 90/2024.
+  - Esclarecimento: A página do programa é apenas de identificação, sem descrição, valores ou prazos; o serviço gov.br indica prazo de novo edital como "Não estimado ainda".

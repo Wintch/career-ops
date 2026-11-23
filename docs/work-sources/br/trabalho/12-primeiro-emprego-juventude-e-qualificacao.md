@@ -1,0 +1,97 @@
+# Primeiro emprego, juventude e qualificação
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **IEL Carreiras - vagas de estágio e emprego (Instituto Euvaldo Lodi, CNI)** (aberta ou vigente, verificada 2 vezes) https://carreiras.iel.org.br
+  - O que é: Estudantes em todo o Brasil. O portal tem filtros por localização, tipo de vaga, curso, modalidade e vagas exclusivas para PcD.
+  - Requisitos: Não listados na página inicial; variam por vaga. Estágios em geral exigem matrícula em curso. Para a vaga de emprego vista (Secretário Administrativo), a exigência de experiência não foi informada.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Exemplos vistos: estágio de R$ 535,33 a R$ 1.200,00; vaga de emprego de R$ 1.621,00 (varia por vaga e região).
+  - Prazo ou ciclo: Em 23/11/2026 a página listava anúncios com datas entre 06/08/2026 e 19/11/2026 (por exemplo 19/11/2026, OGMO-ES, Vitória/ES). Sem prazo de encerramento exibido.
+  - Como se candidatar: https://carreiras.iel.org.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Os anúncios têm datas entre 06/08/2026 e 19/11/2026, além de alguns de 10/03/2026 e 24/03/2026; as datas não são rotuladas como publicação ou encerramento.
+  - Esclarecimento: A página não declara expressamente que é permanente nem informa prazo de encerramento.
+  - Esclarecimento: Há vagas presenciais de estágio, aprendizagem e algumas de emprego em vários estados; cada anúncio deve ser aberto para ver os requisitos específicos.
+  - Esclarecimento: Contato: (61) 3317-8879.
+- **Itaú Unibanco - Carreiras: Jovem Aprendiz e Estágio (vagas na Gupy)** (aberta ou vigente, verificada 2 vezes) https://carreiras.itau.com.br
+  - O que é: Jovens até 22 anos (Jovem Aprendiz) e universitários (Estágio 2026/2027). A Gupy do Itaú lista vagas de aprendiz por cidade, como Londrina/PR, Serra/ES e Cariacica/ES.
+  - Requisitos: Jovem Aprendiz: jovens de até 22 anos (outros critérios não informados na página). Estágio: matrícula regular em graduação (bacharelado ou tecnólogo) em Exatas ou Humanas, pelo menos 6 meses disponíveis antes da formatura, 6 h por dia, híbrido ou presencial em São Paulo conforme a área, conclusão de todas as etapas e testes online.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (não informado nas páginas vistas).
+  - Prazo ou ciclo: Sem datas de abertura ou prazo visíveis na página em 23/11/2026.
+  - Como se candidatar: https://vemproitau.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A candidatura é pelo botão 'Buscar vagas': o estágio leva a estagioitauunibanco.com.br e o Jovem Aprendiz, à Gupy do Itaú (vemproitau.gupy.io).
+  - Esclarecimento: O estágio tem processo 100% online (teste de raciocínio analítico e lógico, e de inglês em Negócios Atacado, entrevista e oferta) e duração máxima de 2 anos.
+  - Esclarecimento: O estágio exige graduação e não serve a quem não cursa faculdade.
+  - Esclarecimento: A página não informa datas de abertura ou encerramento.
+- **Senac - Programa Senac de Gratuidade (PSG) e Jovem Aprendiz** (aberta ou vigente, verificada 2 vezes) https://www.es.senac.br/programa-senac-de-gratuidade
+  - O que é: PSG: pessoas de baixa renda, com prioridade para quem é estudante e trabalhador. Jovem Aprendiz comercial: jovens de 14 a 18 anos no Senac ES (a página do Senac PA cita 14 a 24 anos em notícia), em escola pública ou bolsista 100%.
+  - Requisitos: PSG: renda familiar per capita de até 2 salários mínimos; estar matriculado na educação básica ou tê-la concluído; estar empregado ou desempregado (prioridade a quem atende às duas condições); ter CPF e documentos que comprovem o requisito de acesso ao curso; assinar autodeclaração de renda e termo de compromisso. Não há idade informada. Não é exigida experiência. Jovem Aprendiz: segue a Lei da Aprendizagem, sem detalhes na página.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Cursos gratuitos para quem atende aos critérios. Remuneração de aprendiz: sem dados.
+  - Prazo ou ciclo: Caminho aberto durante o ano. A página não traz datas de inscrição nem de início de aulas e orienta acompanhar os avisos do Senac de cada estado. A informação é do Senac ES, e o programa existe em todo o país por convênio com o Governo Federal (desde 2009).
+  - Como se candidatar: https://www.es.senac.br/programa-senac-de-gratuidade (procurar o Senac da região; para Aprendiz, a inscrição é pela empresa contratante)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A informação é do Senac ES; outros estados têm páginas próprias, e o volume de vagas e os prazos variam por unidade e por curso.
+  - Esclarecimento: A inscrição no PSG é feita no Senac da região, com ficha de inscrição, e as vagas são preenchidas por ordem de inscrição.
+  - Esclarecimento: Desistir sem justificativa pode impedir novo pedido de vaga do PSG no mesmo ano.
+- **Pronatec - Bolsa-Formação (cursos gratuitos e Painel de Oportunidades)** (se repete (hoje sem chamada aberta), verificada 1 vez) https://www.gov.br/mec/pt-br/assuntos/noticias/2026/agosto/pronatec-tem-mais-de-2-mil-vagas-verdes-para-qualificacao-profissional
+  - O que é: Estudantes da rede pública, trabalhadores, pessoas de baixa renda e beneficiários de programas sociais têm prioridade, segundo guia de 2026 (fonte não oficial). O público de cada oferta é definido no edital.
+  - Requisitos: Cumprir os pré-requisitos de cada curso e edital da instituição ofertante. A notícia não lista critérios gerais de idade, escolaridade ou documentos: sem dados.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Curso gratuito (qualificação profissional). Valor de auxílio: sem dados.
+  - Prazo ou ciclo: Ofertas por edital de cada instituição ao longo do ano. Em 27/08/2026, 24 cursos de Vagas Verdes em 23 estados (2.399 vagas), com cursos em setembro de 2026. Sem edital aberto confirmado em 23/11/2026.
+  - Como se candidatar: https://app.powerbi.com/view?r=eyJrIjoiYTRjMTlkNDUtNjBlYy00NjIyLTkxYjQtNGE3MzNmZDc0OWUwIiwidCI6ImI4YzI1OTMyLTVlNzYtNGIyYi05YzUzLWQ0MTc0NWU5YzkyZCJ9
+  - Leitura automática possível: Painel de Oportunidades em Power BI (link completo não obtido).
+  - Esclarecimento: Cada edital tem regras próprias, e a inscrição é feita na instituição ofertante ou no site dela.
+  - Esclarecimento: O Painel de Oportunidades (Power BI, filtro Vagas Verdes) é a ferramenta indicada para localizar cursos.
+  - Esclarecimento: As datas dos editais atuais não foram identificadas, e a prioridade de público citada vem de guia de 2026 de fonte não oficial.
+- **Petrobras - Programa Jovem Aprendiz** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://petrobras.com.br/jovem-aprendiz
+  - O que é: Jovens de 14 anos até 21 anos e 7 meses (PcD sem limite); mínimo de 18 anos nas turmas com prática em unidades da empresa. Há listas para ampla concorrência, autodeclarados negros e PcD.
+  - Requisitos: Edital 2025: 14 a 21 anos e 7 meses (turmas com prática em unidades Petrobras exigem 18 anos ou mais; outra seção cita limites de 22 anos e 3 a 8 meses, então confirmar no edital). Sem limite de idade para pessoas com deficiência. Aprendizagem básica: mínimo do 5º ano. Aprendizagem técnica: mínimo do 2º ano do ensino médio. Quem não concluiu o ensino médio deve estar matriculado e frequentando. Não exige experiência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Salário mínimo integral para 4 horas por dia, de segunda a sexta. Inclui 13º salário, férias remuneradas, vale-transporte e FGTS. Opcionais: previdência complementar e programa de atividade física.
+  - Prazo ou ciclo: Anual. Inscrições: 6 a 12/10/2025 (resultado final em 04/12/2025); 03 a 16/12/2024; 03 a 16/12/2023. Em 23/11/2026 a página informa que não há oportunidades abertas e que novos processos serão divulgados nela.
+  - Como se candidatar: https://petrobras.com.br/jovem-aprendiz
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página é inconsistente nos limites de idade (outra seção cita 22 anos e 3 a 8 meses) e na duração (15, 20 ou 21 meses conforme a seção), então convém confirmar no edital.
+  - Esclarecimento: A edição 2026 não estava anunciada na página em 23/11/2026.
+  - Esclarecimento: A contratação é digital, com curso no SENAI da região, em cerca de 23 cidades.
+  - Esclarecimento: Dúvidas: 0800 728 9001.
+- **Jovens Valores ES - Estágio no governo do Espírito Santo** (se repete (hoje sem chamada aberta), verificada 2 vezes) http://jovensvalores.es.gov.br/
+  - O que é: Estudantes a partir de 16 anos, do ensino médio, técnico e superior, para estágio na administração estadual do ES.
+  - Requisitos: 16 anos ou mais na inscrição. Estar matriculado e frequentando ensino médio (inclusive EJA profissional), técnico ou superior em instituição pública ou privada. Conta Gov.br, e-mail válido, documentos pessoais e dos responsáveis, comprovantes de endereço e renda, e não ter vínculo empregatício. Morar em bairro atendido pelo Programa Estado Presente soma pontos na nota socioeconômica. Não exige experiência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Estágio de 20 horas semanais. Segundo a página: R$ 899,82 (ensino médio), R$ 974,79 (técnico) e R$ 1.124,77 (superior). Notícias citam até R$ 1.081,51 e vale-transporte.
+  - Prazo ou ciclo: Edital nº 021/2026: inscrição de 19/06 a 01/07/2026 (lista principal, encerrada); nova lista de convocação desde 08/07/2026. Se a inscrição segue aberta em lista secundária: não confirmado em 23/11/2026. Programa com novos editais ao longo dos anos.
+  - Como se candidatar: https://sigest.es.gov.br/captacao-de-estagiarios
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Os valores de bolsa divergem: a página mostra R$ 899,82 (médio), R$ 974,79 (técnico) e R$ 1.124,77 (superior), enquanto notícias citam até R$ 1.081,51; convém conferir o valor vigente no edital.
+  - Esclarecimento: A página remete ao Edital nº 021/2026 sem informar datas no texto.
+  - Esclarecimento: Notícias de junho de 2026 (es.gov.br) citam cerca de 3.292 vagas em 53 órgãos do Executivo estadual.
+  - Esclarecimento: A inscrição é feita no site do programa, com conta Gov.br.
+- **CIEE - portal do estudante (estágio e aprendizagem)** (não verificada, verificada 1 vez) https://portal.ciee.org.br/
+  - O que é: Estudantes e jovens que buscam estágio e vaga de aprendiz (o endereço antigo ciee.org.br/portal/estudante e /portal/aprendiz redireciona para este portal).
+  - Requisitos: Segundo fontes de terceiros: estágio a partir de 16 anos, com matrícula em ensino médio, técnico ou superior em instituição conveniada; Jovem Aprendiz de 14 a 24 anos (sem limite para PCD), cursando ou tendo concluído o ensino fundamental ou médio. Não confirmado na página oficial.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aparentemente aberto o ano todo, segundo notícias e blogs. A página oficial não pôde ser confirmada.
+  - Como se candidatar: https://portal.ciee.org.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página oficial respondeu com HTTP 403 e não foi lida; requisitos e ciclo vêm de notícias e blogs de terceiros.
+  - Esclarecimento: Segundo essas fontes, o cadastro é gratuito, com acesso por CPF e senha, e o CIEE faz processos seletivos regionais.
+  - Esclarecimento: Recomenda-se verificar no próprio portal antes de divulgar.
+- **Vale - Programa Jovem Aprendiz (PJA 2026)** (não verificada, verificada 1 vez) https://vale.com/pt/jovem-aprendiz
+  - O que é: Jovens de 18 a 21 anos e 11 meses para prática na empresa, ou de 16 a 17 anos e 11 meses para prática em ambiente simulado na escola; PcD sem limite de idade. Vagas no ES, MA, MG, PA e RJ.
+  - Requisitos: Aprendiz técnico: 14 a 21 anos e 11 meses na admissão. Contrato com prática na Vale: 18 a 21 anos e 11 meses. Prática simulada em escola: 16 a 17 anos e 11 meses. Sem limite de idade para pessoas com deficiência. Ensino médio concluído, exceto menores de 18 anos, que podem estar cursando. Residir na localidade da vaga e ter disponibilidade de horário. Não exige experiência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: R$ 1.035,20 (jornada de 4 horas) e R$ 1.380,00 (jornada de 6 horas), mais vale-transporte, alimentação (em contratos com prática na empresa), assistência médica e seguro de vida.
+  - Prazo ou ciclo: Datas não informadas na página. A página cita o PJA de 2026 e diz que o prazo de resposta varia conforme o cronograma de cada cidade. Próxima abertura: sem dados.
+  - Como se candidatar: https://vale.com/pt/jovem-aprendiz
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página não mostra processo seletivo aberto nem datas, de modo que vaga aberta e ciclo anual não estão confirmados.
+  - Esclarecimento: A empresa afirma não cobrar nenhuma taxa e alerta contra golpes; inscrições só no site vale.com ou nos perfis oficiais.
+  - Esclarecimento: As etapas são provas online de português e matemática, dinâmica de grupo, painel com líderes, avaliação psicológica, exames médicos e documentos.
+  - Esclarecimento: A duração é de até 24 meses.

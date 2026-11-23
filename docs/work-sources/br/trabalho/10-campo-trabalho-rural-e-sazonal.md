@@ -1,0 +1,142 @@
+# Campo, trabalho rural e sazonal
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Buscar Emprego no Sistema Nacional de Emprego (Sine) / Portal Emprega Brasil** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine
+  - O que é: Qualquer pessoa em busca de trabalho, incluindo quem não tem experiência. Atende também vagas rurais e de safra cadastradas por empregadores locais, conforme a região.
+  - Requisitos: Aberto a qualquer pessoa em busca de trabalho, sem exigência de experiência. Para uso online: conta gov.br nível Bronze, Prata ou Ouro e documentos pessoais para o cadastro. É preciso manter atualizados o perfil, as ocupações e as regiões de interesse, pois o cruzamento com as vagas depende disso.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Gratuito para o trabalhador; o salário depende de cada vaga.
+  - Prazo ou ciclo: Aberto todo o ano (serviço contínuo). A página do serviço indica atualização em 15/12/2025.
+  - Como se candidatar: https://servicos.mte.gov.br/spme-v2/#/login
+  - Leitura automática possível: Não observado. O acesso é por login no portal ou no aplicativo.
+  - Esclarecimento: O cadastro e a candidatura podem ser feitos online (Portal Emprega Brasil e aplicativo Carteira de Trabalho Digital) ou presencialmente nos postos do Sine.
+  - Esclarecimento: A página não menciona vagas de safra ou sazonais.
+  - Esclarecimento: Contato: sine@trabalho.gov.br.
+- **Casa do Trabalhador (unidades de atendimento do Sine)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/sistema-nacional-de-emprego-sine/casa-do-trabalhador/
+  - O que é: Pessoas que buscam trabalho, orientação, qualificação ou seguro-desemprego, e empregadores que buscam candidatos.
+  - Requisitos: Atendimento a qualquer pessoa em busca de renda, orientação profissional, qualificação, seguro-desemprego ou carteira de trabalho digital, e a empregadores. Documentos dependem do serviço. Sem exigência de experiência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Atendimento gratuito; não é uma vaga de emprego, e sim um serviço de intermediação.
+  - Prazo ou ciclo: Atendimento contínuo ao longo do ano; a página não mostra data de atualização e não lista horários (dependem de cada unidade).
+  - Como se candidatar: https://www.gov.br/trabalho-e-emprego/pt-br/canais_atendimento/unidades-de-atendimento
+  - Leitura automática possível: Não observado.
+  - Esclarecimento: Não é vaga de emprego, e sim serviço de intermediação; a página não traz endereços nem link de candidatura.
+  - Esclarecimento: Os endereços estão em Canais de Atendimento > Contatos Regionais (filtro por estado) e no mapa de agências do Sine.
+  - Esclarecimento: A Unidade Móvel do Trabalhador atende áreas sem posto, principalmente com emissão da carteira de trabalho.
+- **Senar Play (cursos online gratuitos)** (aberta ou vigente, verificada 2 vezes) https://ead.senar.org.br/senar-play
+  - O que é: Qualquer pessoa interessada em capacitação rural, inclusive quem está começando. A página fala de mais de 250 cursos em programas temáticos (vídeos, séries, podcasts, cartilhas, trilhas).
+  - Requisitos: A página não lista requisitos; exige apenas criar uma conta. Não exige experiência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Alguns cursos são gratuitos; os demais não foram detalhados. Não há remuneração.
+  - Prazo ou ciclo: Fluxo contínuo: a página tem uma seção "Matrículas abertas" e não mostra prazos nem datas de início. Suporte: 0800 642 7070, de segunda a sexta, das 8h às 18h (Brasília).
+  - Como se candidatar: https://ead.senar.org.br/senar-play
+  - Leitura automática possível: Não observado.
+  - Esclarecimento: A página promove "cursos gratuitos", mas não afirma que todos sejam gratuitos.
+  - Esclarecimento: Não há confirmação de quais cursos têm matrícula aberta em 2026-11-23.
+  - Esclarecimento: A inscrição é feita pelo botão Cadastrar ou Entrar.
+- **Senar Etec: cursos técnicos de nível médio (Processo Seletivo 2027/1)** (aberta ou vigente, verificada 2 vezes) https://www.etec.senar.org.br/processo-seletivo
+  - O que é: Quem quer formação técnica em agro (Agricultura, Agronegócio, Agropecuária, Cafeicultura, Florestas, Fruticultura, Segurança do Trabalho no Agro, Zootecnia), em modalidade EaD ou presencial. Há também uma aprendizagem técnica em Fruticultura (Edital nº 005/2026).
+  - Requisitos: sem dados (definidos no edital e no regulamento classificatório de cada curso; cursos técnicos de nível médio costumam exigir ensino fundamental ou médio, conforme a modalidade, mas isso não foi visto na página).
+  - Pagamento ou benefício: sem dados (taxa e mensalidade não aparecem na página; consultar o edital).
+  - Prazo ou ciclo: Processo seletivo 2027/1 com inscrições abertas na data da consulta (2026-11-23), mas o prazo final não aparece na página: a contagem regressiva mostra 00d 00h 00m. A divergência entre 24 e 27 de novembro de 2026 citada nas notícias da CNA não pôde ser confirmada (a busca na web ficou indisponível). Conferir o edital sem demora. Ciclo anual (processo seletivo 2027/1).
+  - Como se candidatar: https://etec-proc-seletivo.dotgroup.com.br
+  - Leitura automática possível: Editais em PDF vinculados na própria página.
+  - Esclarecimento: O prazo final de inscrição não aparece na página (a contagem regressiva mostra 00d 00h 00m); notícias da CNA citam divergência entre 24 e 27 de novembro de 2026, não confirmada, e o edital deve ser conferido sem demora.
+  - Esclarecimento: Taxa, mensalidade e requisitos constam nos editais e regulamentos de cada curso, não na página.
+  - Esclarecimento: Editais: nº 001/2027 (técnicos, com errata), nº 002/2027 (concomitante), nº 003/2027 (especialização) e nº 005/2026 (aprendizagem).
+- **Sistema de Denúncias DETRAE/SIT (Ipê): denúncia de trabalho análogo ao de escravo e irregularidades** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/pt-br/servicos/realizar-denuncia-trabalhista
+  - O que é: Qualquer pessoa que presencie ou sofra trabalho irregular, em especial no campo (alojamento precário, falta de registro, retenção de documentos ou de pagamento). Para trabalho infantil há um canal separado, o Alô Trabalho: https://ipetrabalhoinfantil.trabalho.gov.br/#!/
+  - Requisitos: Qualquer pessoa pode denunciar. Na denúncia de trabalho escravo, segundo o gov.br, não é exigida identificação. Na denúncia trabalhista geral é preciso informar dados pessoais, ter conta gov.br de nível Bronze, Prata ou Ouro e CPF, e o canal geral não aceita denúncia anônima (os dados do denunciante ficam em sigilo). Tempo estimado de 15 minutos, sem acompanhamento do caso pelo canal geral.
+  - Pagamento ou benefício: Gratuito. Não paga nem concede nada.
+  - Prazo ou ciclo: Canal permanente, aberto todo o ano (sem prazo).
+  - Como se candidatar: https://ipe.sit.trabalho.gov.br/#!/
+  - Leitura automática possível: Não observado.
+  - Esclarecimento: Não é fonte de vagas de emprego: serve para denunciar condições de trabalho.
+  - Esclarecimento: A denúncia trabalhista geral é feita em outro canal (denuncia.sit.trabalho.gov.br), exige login gov.br, é sigilosa mas não pode ser anônima.
+  - Esclarecimento: Existe um Ipê próprio para trabalho infantil (ipetrabalhoinfantil.trabalho.gov.br).
+  - Esclarecimento: O endereço é um aplicativo em JavaScript; a confirmação veio de páginas oficiais do gov.br.
+- **Raízen: carreiras (sucroenergia, inclui cana)** (aberta ou vigente, verificada 2 vezes) https://www.raizen.com.br/programas-de-talentos
+  - O que é: Candidatos a vagas operacionais, técnicas e administrativas. Páginas separadas para trainee, estágio e aprendiz: https://carreiras.raizen.com.br/aprendiz
+  - Requisitos: Varia por vaga. Para o programa Aprendiz, segundo o site oficial: jovens de 16 a 21 anos que estejam cursando ou tenham concluído o Ensino Médio, para a primeira experiência profissional (exige menos experiência; não exige experiência prévia). Estágio: estudantes. Demais vagas: ver cada anúncio.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Fluxo contínuo. Em 2026-11-23 a página de vagas mostrava 282 vagas em 29 páginas, com banco de talentos. A página inicial do site da empresa informa um programa Jovem Aprendiz com mais de 340 vagas e inscrições a partir de 3 de novembro (ano não informado na página).
+  - Como se candidatar: https://genteraizen.gupy.io/
+  - Leitura automática possível: Portal Gupy (página de vagas).
+  - Esclarecimento: O endereço informado redireciona para www.raizen.com.br; as vagas ficam em genteraizen.gupy.io.
+  - Esclarecimento: A página inicial menciona programa Jovem Aprendiz com mais de 340 vagas e inscrições a partir de 3 de novembro, sem informar o ano.
+  - Esclarecimento: Estágio e Estágio Acelerar: inscrição em raizen.kolab.ee; Aprendiz: aprendizraizen.com; Trainee: carreiras.raizen.com.br/talentos/. As páginas de programas não trazem datas nem número de vagas.
+- **C.Vale (cooperativa agroindustrial, PR/SC/MT/MS/RS/GO): portal de vagas** (aberta ou vigente, verificada 2 vezes) https://vagas.cvale.com.br/
+  - O que é: Candidatos a vagas nas áreas Agronômica e Agropecuária, Processo Produtivo de Grãos, Indústria e outras. Há categoria 'Estágio e Jovem Aprendiz' para quem está começando.
+  - Requisitos: Não constam na página inicial; estão em cada vaga.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Fluxo contínuo, com banco de talentos ('Cadastre seu currículo'). Não foram vistas vagas individuais nem datas.
+  - Como se candidatar: https://vagas.cvale.com.br/
+  - Leitura automática possível: Portal de vagas com página de busca acessível (/search/).
+  - Esclarecimento: A quantidade de vagas abertas não está confirmada, pois a busca não exibiu resultados.
+  - Esclarecimento: A cooperativa atua em PR, SC, MT, MS, RS, GO e Paraguai.
+  - Esclarecimento: Há busca por palavra-chave e localização.
+- **Cocamar (cooperativa agroindustrial, Maringá/PR): Trabalhe Conosco** (aberta ou vigente, verificada 2 vezes) https://cocamar.gupy.io/
+  - O que é: Candidatos a vagas de produção, transportes e outras. Na consulta apareciam auxiliar de produção (fábrica de rações, suplementos minerais, armazém de resíduos) e assistentes de transportes, todas em Maringá/PR, além de banco de talentos para agrônomos, para motoristas e para pessoas com deficiência.
+  - Requisitos: Varia por vaga e não aparece na página inicial. Vagas como Auxiliar de Produção podem ter exigência menor, mas isso deve ser conferido em cada anúncio.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Fluxo contínuo. Em 2026-11-23 a página mostrava 30 vagas em 3 páginas, além de bancos de talentos.
+  - Como se candidatar: https://cocamar.gupy.io/
+  - Leitura automática possível: Portal Gupy (página de vagas).
+  - Esclarecimento: A candidatura é feita abrindo a vaga desejada na plataforma Gupy.
+  - Esclarecimento: As vagas vistas eram do tipo Efetivo, todas em Maringá/PR.
+  - Esclarecimento: Há bancos de talentos geral, de motorista de carreta/truck, de engenheiros agrônomos e exclusivo para pessoas com deficiência.
+- **Citrosuco: carreiras (laranja, SP)** (aberta ou vigente, verificada 2 vezes) https://carreiras.citrosuco.com.br/
+  - O que é: Candidatos a vagas e projetos da empresa. A página não menciona contratação para a colheita.
+  - Requisitos: Varia por vaga; não constam na página inicial.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Fluxo contínuo. Estágio e processos seletivos pontuais aparecem em ciclos, mas nenhuma data atual foi vista (matérias de 2023 sobre estágio encerraram).
+  - Como se candidatar: https://carreiras.citrosuco.com.br/
+  - Leitura automática possível: Não observado.
+  - Esclarecimento: O endereço originalmente listado retorna erro 404; o portal oficial é carreiras.citrosuco.com.br.
+  - Esclarecimento: O portal lista vagas por área e apresenta os programas #semear, Para Todos e Compromisso Social.
+  - Esclarecimento: A contagem de cerca de 24 vagas no Indeed, inclusive operacionais em Catanduva, Santos e Matão, não é datada e não foi confirmada no portal oficial.
+  - Esclarecimento: O portal não menciona banco de talentos.
+- **Senar: cursos gratuitos de Formação Profissional Rural (presenciais e a distância)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://cnabrasil.org.br/perguntas-frequentes
+  - O que é: Produtores rurais, trabalhadores rurais e suas famílias. Útil para quem quer aprender uma função de campo (por exemplo, operação de máquinas, manejo, uso seguro de defensivos) e apresentar certificado a empregadores.
+  - Requisitos: Voltado a produtores rurais, trabalhadores rurais e seus familiares. Cada curso define idade e escolaridade mínimas. Não exige experiência profissional prévia de forma geral, mas isso varia por curso.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Gratuito; não há remuneração informada.
+  - Prazo ou ciclo: Sem calendário único; as turmas presenciais seguem a agenda de cada estado e município, consultada no sindicato rural ou na unidade estadual do Senar. Cursos a distância têm prazo de 14 a 75 dias para concluir as atividades, conforme o curso.
+  - Como se candidatar: https://cnabrasil.org.br/senar/institucional-senar/#mapa
+  - Leitura automática possível: Não observado.
+  - Esclarecimento: A matrícula presencial é feita por parceiros regionais (sindicato rural, associação, prefeitura ou secretaria municipal).
+  - Esclarecimento: A página não informa datas das turmas presenciais.
+  - Esclarecimento: Cursos técnicos (e-Tec) são separados e têm processo seletivo.
+  - Esclarecimento: Cursos a distância: ead.senar.org.br.
+- **Cartilha 'Formas de Contratação no Meio Rural' (MTE)** (não verificada, verificada 1 vez) https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/trabalho-sustentavel/cartilhas/digital-cartilha-formas-de-contratacao-no-meio-rural-mte.pdf/view
+  - O que é: Trabalhadores e empregadores rurais. Serve para saber se o trabalho de safra ou temporário está sendo formalizado corretamente.
+  - Requisitos: Não se aplica (documento informativo).
+  - Pagamento ou benefício: Não se aplica.
+  - Prazo ou ciclo: Documento de referência, sem prazo. A página indica publicação em 27/08/2026 às 17h49.
+  - Como se candidatar: Não é uma vaga. Consultar o PDF antes de aceitar um trabalho de safra. Em geral, o vínculo de safra deve constar na CTPS e no eSocial, conforme a Lei 5.889/1973, art. 14 (informação vinda de resultado de busca).
+  - Leitura automática possível: PDF.
+  - Esclarecimento: Não é vaga, programa nem candidatura; é material de apoio, e essa finalidade se infere apenas do título.
+  - Esclarecimento: O PDF (cerca de 20 MB) não teve o conteúdo conferido.
+- **Cooxupé (cooperativa de café, Guaxupé/MG): Portal de Vagas e cartilha trabalhista da cafeicultura** (não verificada, verificada 1 vez) https://www.cooxupe.com.br/
+  - O que é: Candidatos às vagas da cooperativa. A página inicial do site não menciona vagas de safra. A cooperativa também publica uma cartilha de práticas trabalhistas na cafeicultura (abril de 2026): https://www.cooxupe.com.br/cartilha-praticas-trabalhistas-na-cafeicultura/, útil para quem vai trabalhar na colheita de café na região.
+  - Requisitos: sem dados. Não constam na página; devem estar em cada vaga.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados. Nenhuma vaga nem data foi vista; a página só exibiu o título 'Portal de Talentos Senior - Vagas de Emprego'.
+  - Como se candidatar: https://cooxupe.portaldetalentos.senior.com.br/
+  - Leitura automática possível: Não observado.
+  - Esclarecimento: O portal não mostrou vagas, locais nem banco de talentos, e o site oficial não menciona contratação de safra ou temporária.
+  - Esclarecimento: A cartilha trabalhista da cafeicultura não foi localizada nem verificada.
+  - Esclarecimento: O endereço é o oficial, linkado em "Trabalhe Conosco" > "Vagas" no site da cooperativa.
+- **Amaggi (agro, soja/milho/algodão): Trabalhe na Amaggi** (não verificada, verificada 1 vez) https://www.amaggi.com.br/trabalhe-na-amaggi/
+  - O que é: Candidatos às vagas da empresa, com área Agro (fazendas de soja, milho e algodão), Commodities, Logística e Energia.
+  - Requisitos: Varia por vaga. Na seleção, apenas o currículo é solicitado, segundo a página.
+  - Pagamento ou benefício: sem dados. A empresa não divulga faixa salarial nas vagas.
+  - Prazo ou ciclo: sem dados. A página oficial indica que as vagas abertas são publicadas continuamente, mas nenhuma vaga foi vista.
+  - Como se candidatar: https://amaggi.inhire.app/vagas
+  - Leitura automática possível: Portal inhire.
+  - Esclarecimento: A página oficial remete às vagas em amaggi.inhire.app/vagas e em vagas.com.br/amaggi, e nenhuma vaga específica foi confirmada.
+  - Esclarecimento: A empresa afirma que as vagas oficiais são divulgadas apenas no seu site e redes sociais, que não cobra taxa e que o único documento pedido na seleção é o currículo.
+  - Esclarecimento: Os processos seletivos em Cuiabá ocorrem apenas na sede.
+  - Esclarecimento: A página não menciona banco de talentos nem programas de estágio ou trainee com datas.

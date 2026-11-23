@@ -1,0 +1,74 @@
+# Indústria, fábricas e manutenção
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **WEG — vagas no portal de carreiras (Gupy)** (aberta ou vigente, verificada 2 vezes) https://weg.gupy.io/
+  - O que é: Candidatos a vagas de fábrica e apoio, como Operador de Montagem, Op Produção, Pintor, Almoxarife, além de áreas técnicas e administrativas. Algumas vagas são exclusivas para pessoas com deficiência.
+  - Requisitos: Varia por vaga (não lidas individualmente); cadastro na plataforma Gupy; funções operacionais podem não exigir experiência, mas isso não foi confirmado
+  - Pagamento ou benefício: sem dados (não informado na listagem)
+  - Prazo ou ciclo: Aberto de forma contínua: em 23/11/2026 a página mostrava 68 vagas (10 por página, 7 páginas), com banco de talentos permanente
+  - Como se candidatar: https://weg.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: As 10 vagas visíveis são todas do tipo Efetivo, sem vagas de Aprendiz ou Estágio nessa lista: a página remete a sites separados para estágio e aprendiz.
+  - Esclarecimento: Há botão 'Participar do banco de talentos' para quem não encontrou a vaga.
+  - Esclarecimento: As exigências constam em cada anúncio.
+- **Ambev — vagas no portal de carreiras (Gupy)** (aberta ou vigente, verificada 2 vezes) https://ambev.gupy.io/
+  - O que é: Candidatos a vagas de produção, armazém, distribuição e área comercial. Tipos de contrato exibidos: Efetivo, Aprendiz e Banco de talentos.
+  - Requisitos: Varia por vaga (não lidas individualmente); vagas de Aprendiz seguem a lei da aprendizagem (faixa de idade típica de 14 a 24 anos, não confirmada na página); cadastro na plataforma Gupy
+  - Pagamento ou benefício: sem dados (não informado na listagem)
+  - Prazo ou ciclo: Aberto de forma contínua: 320 vagas listadas em 23/11/2026 (10 por página), com banco de talentos permanente
+  - Como se candidatar: https://ambev.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Na primeira página havia vagas Efetivo, três vagas de Aprendiz (Cervejaria Juatuba/MG, Diadema/SP e Sete Lagoas/MG) e duas de Banco de talentos.
+  - Esclarecimento: A página não detalha o programa de aprendizes, e os requisitos constam em cada anúncio.
+  - Esclarecimento: Os locais incluem Piracicaba/SP, São Luís/MA, Camaçari/BA, Cuiabá/MT, Piraí/RJ, Maceió/AL e Santa Cruz do Sul/RS, além dos já citados.
+- **Randon Corp — vagas no portal de carreiras (Gupy)** (aberta ou vigente, verificada 2 vezes) https://randoncorp.gupy.io/
+  - O que é: Candidatos a vagas em fábrica e administrativas em Caxias do Sul/RS, Sorocaba/SP, Araraquara/SP e Cascavel/PR. Exemplos de cargos: Almoxarife I, Analista da Qualidade, Montador de Componentes, Formação de Soldadores (em página anterior).
+  - Requisitos: Varia por vaga. A página não lista exigência geral. As vagas vistas são de nível júnior/operacional, com requisitos na descrição de cada uma. Jovem Aprendiz: elegibilidade não detalhada na página (verificar no link informativo). Experiência exigida: depende da vaga.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto de forma contínua; 105 vagas listadas em 2026-11-23 (10 por página, cerca de 11 páginas), mais banco de talentos para quem não encontra vaga adequada.
+  - Como se candidatar: https://randoncorp.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Página hospedada na Gupy e identificada como Randoncorp; todas as vagas listadas são do tipo Efetivo.
+  - Esclarecimento: Há ao menos uma vaga reservada a pessoa com deficiência (PCD).
+  - Esclarecimento: A página traz links informativos sobre Jovem Aprendiz e o programa Qualificar, sem detalhes de elegibilidade.
+- **Portal de Vagas Gupy (busca em vagas de empresas que usam a Gupy)** (aberta ou vigente, verificada 2 vezes) https://portal.gupy.io/
+  - O que é: Qualquer pessoa. É a principal via de candidatura de várias indústrias que publicam suas vagas na Gupy, como WEG, Ambev e Randon Corp (confirmados nas páginas acima).
+  - Requisitos: Não informado na página inicial. Os requisitos variam por vaga e por empresa.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto de forma contínua. A página oferece os botões "Buscar vagas" e "Explorar todas as vagas".
+  - Como se candidatar: https://portal.gupy.io/
+  - Scanner: a plataforma já é suportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Esclarecimento: Foi confirmada apenas a existência da busca; a página não informa se há cadastro obrigatório nem detalha o processo de candidatura.
+  - Esclarecimento: Agrega vagas de empresas clientes da Gupy e funciona como rota principal de candidatura em muitas empresas brasileiras.
+- **SENAI — Aprendizagem Industrial (Jovem Aprendiz SENAI), página nacional** (se repete (hoje sem chamada aberta), verificada 1 vez) https://www.senai.portaldaindustria.com.br/web/senai/para-voce/voce-jovem-aprendiz
+  - O que é: Jovens de 14 a 24 anos que buscam o primeiro emprego formal na indústria (mecânica, eletroeletrônica, manufatura avançada, logística, construção civil, TI, gestão, saúde). Curso gratuito combinado com contrato de trabalho de aprendiz em empresa parceira.
+  - Requisitos: Idade de 14 a 24 anos; ensino fundamental (9º ano) ou médio concluído conforme a vaga; nenhuma experiência exigida (programa de primeiro emprego); regras específicas por estado e por empresa contratante
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Remuneração proporcional ao salário-mínimo hora da categoria; jornada de 4, 6 ou 8 horas; férias, 13º, vale-transporte e FGTS; curso gratuito; duração de até 2 anos
+  - Prazo ou ciclo: Recorrente e regional: processos seletivos abrem por estado, em geral uma ou duas vezes por ano. Notícia do Portal da Indústria de 23/07/2026 confirma 22.894 vagas gratuitas para o 2º semestre de 2026 em 16 estados e no DF (MG 3.634, SP 3.206, RJ 2.154, BA 2.008, PR 1.962). A página nacional não traz datas.
+  - Como se candidatar: https://www.senai.portaldaindustria.com.br/web/senai/para-voce/voce-jovem-aprendiz (botão 'Quero ser jovem aprendiz' e seletor de estado)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página nacional não traz critérios nem link de inscrição e orienta procurar o SENAI do estado.
+  - Esclarecimento: A seleção e a contratação final cabem às empresas parceiras, e as áreas variam por região.
+  - Esclarecimento: Há regras adaptadas para pessoas com deficiência.
+  - Esclarecimento: O programa inclui mentor e mais de 120 h de formação.
+- **Sistema Nacional de Emprego (SINE) — intermediação de mão de obra** (não verificada, verificada 1 vez) https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/sistema-nacional-de-emprego-sine
+  - O que é: Qualquer trabalhador em busca de vaga, inclusive em fábricas e manutenção. Um dos três eixos do programa é a intermediação de mão de obra, junto com o seguro-desemprego e a qualificação profissional.
+  - Requisitos: sem dados. A página não lista idade, documentos nem escolaridade. Não consta exigência de experiência ou diploma na página vista.
+  - Pagamento ou benefício: sem dados (varia por vaga)
+  - Prazo ou ciclo: Serviço permanente e gratuito, sem prazo de inscrição. A página o descreve como serviço público e gratuito de emprego, criado em 1975.
+  - Como se candidatar: https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/sistema-nacional-de-emprego-sine
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página cita como canais a Casa do Trabalhador, o Portal Emprega Brasil e a Carteira de Trabalho Digital.
+  - Esclarecimento: Documentos, requisitos e passo a passo não são descritos na página e não puderam ser confirmados.
+- **QualificaPRO — Qualificação profissional (MTE)** (não verificada, verificada 1 vez) https://servicos.mte.gov.br/qualificacao/
+  - O que é: sem dados (a página retornou apenas o título "Qualifica Pro BR - Governo Federal"). O programa aparece no menu do MTE junto à Qualificação Profissional, que leva ao QualificaPRO.
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados
+  - Como se candidatar: https://servicos.mte.gov.br/qualificacao/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página carregou apenas com o título "Qualifica Pro BR - Governo Federal", provavelmente por ser uma aplicação renderizada no navegador.
+  - Esclarecimento: Cursos, públicos, datas, custo e forma de inscrição não puderam ser confirmados; convém confirmar manualmente antes de tratar como oportunidade aberta.

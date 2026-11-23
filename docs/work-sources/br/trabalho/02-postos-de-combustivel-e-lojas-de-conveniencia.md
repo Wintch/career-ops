@@ -1,0 +1,119 @@
+# Postos de combustível e lojas de conveniência
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Ipiranga: Trabalhe no posto (curso Bora pro Posto + banco de currículos)** (aberta ou vigente, verificada 2 vezes) https://www.ipiranga.com.br/wps/portal/pt-br/ipiranga/a-ipiranga/institucional/carreiras/trabalhe-no-posto
+  - O que é: Pessoas que querem trabalhar como frentista (Vendedor Ipiranga, VIP) em postos da bandeira Ipiranga, inclusive sem experiência prévia.
+  - Requisitos: Fazer o curso online Bora pro Posto ("Operando o posto" ou "Curso de frentista", com certificado) para acessar o banco de candidatos e cadastrar o currículo. A página não informa idade, documentos nem experiência prévia, e não indica exigência de experiência. A conclusão do curso não garante vaga.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto todo o ano; o currículo fica 2 anos no banco, com e-mail antes de expirar. Cada curso deve ser concluído em até 6 meses do início, ou o progresso reinicia.
+  - Como se candidatar: https://www.ipiranga.com.br/wps/portal/pt-br/ipiranga/a-ipiranga/institucional/carreiras/trabalhe-no-posto
+  - Leitura automática possível: sem dados (página HTML)
+  - Esclarecimento: A Ipiranga não contrata diretamente para os postos: cada posto revendedor independente analisa os currículos, faz a seleção e o contato.
+  - Esclarecimento: Os treinamentos são oferecidos somente a postos que aderiram ao Ipiranga Mais.
+  - Esclarecimento: A plataforma de cursos e o banco de candidatos são operados por empresas parceiras, cada uma com sua própria ajuda.
+- **Ipiranga: Carreiras (Gupy, estágio, trainee, PcD, banco de talentos)** (aberta ou vigente, verificada 2 vezes) https://ipiranga.gupy.io/
+  - O que é: Candidatos a vagas corporativas, de distribuição e de operação da Ipiranga (não são vagas de frentista em postos de revendedores).
+  - Requisitos: Varia por vaga. Vagas vistas: advogado, analista, trader assistente, consultor comercial júnior (São Paulo-SP e Rio de Janeiro-RJ, maioria híbrida). Há uma vaga de banco de talentos para operador(a) de abastecimento em São Paulo-SP. Segundo a página de carreiras da Ipiranga (faca-parte-do-nosso-time): estágio exige cursar penúltimo ou último ano de curso listado, 20 ou 30 horas semanais e inglês intermediário; trainee exige formação concluída há no máximo 4 anos, inglês intermediário e disponibilidade para mudar de cidade. Todas as vagas são abertas a PcD, e algumas são exclusivas.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: 24 vagas efetivas no portal Gupy; nenhum prazo visível; nenhum programa de estágio ou trainee com inscrição aberta localizado.
+  - Como se candidatar: https://ipiranga.gupy.io/
+  - Leitura automática possível: sem dados (HTML da Gupy)
+  - Esclarecimento: A Ipiranga informa que só divulga vagas no LinkedIn, no Vagas.com e no site próprio, e alerta para anúncios em outros lugares.
+  - Esclarecimento: O estágio (Ipiranga Talent) é inscrito pelo portal Academia do Universitário; não foi localizada inscrição aberta de estágio ou trainee, e o ciclo Ipiranga Talent 2025 consta como encerrado.
+  - Esclarecimento: Estágio e trainee exigem formação superior em andamento ou concluída, então não servem a quem não tem diploma.
+  - Esclarecimento: A página não detalha o Jovem Aprendiz.
+- **Ipiranga: página geral de Carreiras (entrada para postos e corporativo)** (aberta ou vigente, verificada 2 vezes) https://www.ipiranga.com.br/wps/portal/pt-br/ipiranga/a-ipiranga/institucional/carreiras
+  - O que é: Qualquer pessoa que queira entender os dois caminhos: trabalhar em posto ou na empresa.
+  - Requisitos: A página geral não traz requisitos. Os requisitos aparecem nas subpáginas "Faça parte do nosso time" e "Trabalhe no posto".
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto todo o ano; sem prazos na página
+  - Como se candidatar: https://www.ipiranga.com.br/wps/portal/pt-br/ipiranga/a-ipiranga/institucional/carreiras/faca-parte-do-nosso-time
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É a página-mãe e não descreve como se candidatar; as entradas práticas ficam nas subpáginas "Faça parte do nosso time" e "Trabalhe no posto".
+  - Esclarecimento: Traz também cultura, valores e relatórios de transparência salarial.
+- **Raízen (marca Shell): Carreiras e vagas na Gupy** (aberta ou vigente, verificada 2 vezes) https://www.raizen.com.br/sobre-a-raizen/carreiras
+  - O que é: Candidatos a vagas corporativas, industriais e de distribuição da Raízen. Não há vagas de frentista para postos Shell nas páginas lidas.
+  - Requisitos: Varia por vaga. Vagas vistas: advogado, agente de controle empresarial, almoxarife júnior, em São Paulo-SP, Piracicaba-SP, Lagoa da Prata-MG e outras cidades, todas efetivas. Não foi visto requisito de experiência por vaga. O portal oferece banco de talentos.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Vagas efetivas em fluxo contínuo (282 abertas em 2026-11-23). Aprendiz, estágio e trainee: a página oficial de carreiras informa que nenhum programa está com inscrições abertas em 2026-11-23; ciclo anual não confirmado.
+  - Como se candidatar: https://genteraizen.gupy.io/
+  - Leitura automática possível: sem dados (HTML da Gupy)
+  - Esclarecimento: O rodapé do site raizen.com.br ("Trabalhe Conosco") leva a esta página da Gupy.
+  - Esclarecimento: As páginas dos programas Aprendiz, Estágio e Trainee não puderam ser lidas, portanto seus requisitos não foram confirmados.
+  - Esclarecimento: Não foi confirmado que a Gupy seja só da Raízen e não da Shell Brasil; a Raízen é a empregadora.
+- **Vibra Energia (Petrobras Distribuidora): vagas na Gupy** (aberta ou vigente, verificada 2 vezes) https://vibraenergia.gupy.io/
+  - O que é: Candidatos a vagas corporativas e de logística da Vibra. Não há vaga de frentista na Gupy; os postos Petrobras são geridos por revendedores.
+  - Requisitos: Varia por vaga; as vagas vistas são de nível analista (pleno/sênior), com experiência. Sem vaga de entrada confirmada.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Fluxo contínuo: a página mostrava 48 vagas abertas, sem filtros, em 2026-11-23
+  - Como se candidatar: https://vibraenergia.gupy.io/
+  - Leitura automática possível: sem dados (HTML da Gupy)
+  - Esclarecimento: Não foi possível confirmar vaga de estágio ou jovem aprendiz; a afirmação sobre estágio anual e programa Jovem Aprendiz não foi verificada nesta página.
+  - Esclarecimento: As vagas da primeira página são todas efetivas, a maioria no Rio de Janeiro/RJ.
+- **Ale (Postos Ale): Oportunidades na Gupy** (aberta ou vigente, verificada 2 vezes) https://oportunidadesale.gupy.io/
+  - O que é: Candidatos a vagas administrativas, de logística, comerciais e de operações da ALE. Não são vagas de frentista.
+  - Requisitos: Varia por vaga. O banco de talentos é voltado a pessoas com deficiência. Não foi confirmada vaga sem exigência de experiência; o cargo de assistente de operações pode ser o mais acessível, mas os requisitos não foram vistos.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Fluxo contínuo: a página mostrava 8 vagas abertas em 2026-11-23
+  - Como se candidatar: https://oportunidadesale.gupy.io/
+  - Leitura automática possível: sem dados (HTML da Gupy)
+  - Esclarecimento: Nenhuma vaga de aprendiz ou estágio foi vista; sete vagas são efetivas e uma é banco de talentos para pessoa com deficiência (São Paulo/SP).
+  - Esclarecimento: Não foi confirmada vaga sem exigência de experiência.
+- **Portal Emprega Brasil / SINE (intermediação pública e gratuita de mão de obra)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/sistema-nacional-de-emprego-sine/portal-emprega-brasil/
+  - O que é: Qualquer trabalhador, inclusive sem experiência. É uma das rotas para vagas de frentista e de loja de conveniência publicadas por postos locais.
+  - Requisitos: Cadastro com dados pessoais, formação e experiência. Não há exigência de experiência indicada na página. Os requisitos de elegibilidade e de conta gov.br não foram informados na página. As vagas dependem do município de residência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto o ano todo (cadastro contínuo, pela web ou presencialmente em um posto do SINE)
+  - Como se candidatar: https://servicos.mte.gov.br/spme-v2/#/login
+  - Leitura automática possível: sem dados
+  - Esclarecimento: As vagas dependem do município de residência.
+  - Esclarecimento: A página não informa se a conta gov.br é obrigatória nem o custo; a gratuidade não está dita no texto visto.
+  - Esclarecimento: O atendimento também pode ser presencial, em um posto do SINE.
+- **Aprendizagem Profissional (Jovem Aprendiz): cursos e entidades habilitadas** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/aprendizagem-profissional
+  - O que é: Adolescentes e jovens de 14 a 24 anos, e pessoas com deficiência sem limite de idade, para o primeiro emprego com contrato de aprendizagem. Útil para quem busca entrada em postos ou redes que contratam aprendizes.
+  - Requisitos: Idade de 14 a 24 anos; sem limite de idade para pessoa com deficiência. É obrigatória a matrícula em curso de aprendizagem. Não exige experiência prévia (primeiro emprego), embora a exigência de escolaridade não tenha sido vista na página.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (a página não informa; consultar o Manual da Aprendizagem Profissional)
+  - Prazo ou ciclo: Contratação contínua pelas empresas; a lista de cursos autorizados é atualizada mensalmente (página atualizada em 06/07/2026)
+  - Como se candidatar: https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/aprendizagem-profissional
+  - Leitura automática possível: Planilha de cursos autorizados em CSV: https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/aprendizagem-profissional/arquivos-aprendizagem-profissional/consulta-cursos-aprovados-ods
+  - Esclarecimento: A página não descreve um processo de candidatura para jovens: o aprendiz é contratado por empresa de médio ou grande porte e matriculado em curso de aprendizagem, por meio de uma entidade habilitada.
+  - Esclarecimento: Norma vigente: Portaria MTE nº 3.872/2023; o Manual da Aprendizagem Profissional detalha salário e duração, que a página não cobre.
+  - Esclarecimento: Contato do órgão: (61) 2031-6915, aprendizagem.sede@trabalho.gov.br.
+- **Bora pro Posto (plataforma de cursos para frentistas, citada pela Ipiranga)** (não verificada, verificada 2 vezes) https://www.ipiranga.com.br/wps/portal/pt-br/ipiranga/a-ipiranga/institucional/carreiras/trabalhe-no-posto
+  - O que é: Candidatos a frentista que precisam do certificado exigido pelo banco de currículos da Ipiranga.
+  - Requisitos: A página oficial da Ipiranga descreve dois cursos ("Operando o posto" e "Curso de frentista") com certificado. O site da plataforma retornou HTTP 403 em duas tentativas (com e sem www), então custo e requisitos de inscrição não foram vistos; idade e documentos desconhecidos.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Não confirmado diretamente; a página da Ipiranga informa fluxo contínuo e prazo de 6 meses para concluir cada curso
+  - Como se candidatar: https://www.ipiranga.com.br/wps/portal/pt-br/ipiranga/a-ipiranga/institucional/carreiras/trabalhe-no-posto
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A existência do curso está confirmada apenas pela página oficial da Ipiranga, que informa que a plataforma é operada por parceiro.
+  - Esclarecimento: Custo e requisitos de inscrição não foram confirmados; não é possível afirmar que o curso seja gratuito.
+  - Esclarecimento: Os treinamentos são oferecidos somente a postos que aderiram ao Ipiranga Mais, e a capacitação não garante contratação.
+- **Fecombustíveis: Sindicatos estaduais de revendedores de combustíveis** (não verificada, verificada 1 vez) https://www.fecombustiveis.org.br/sindicatos
+  - O que é: Quem quer saber quais entidades representam os postos (empregadores) em cada estado, para perguntar sobre a rotina, as regras e as redes locais de postos. São sindicatos patronais, não de empregados, e não são canal de vagas.
+  - Requisitos: Não se aplica: a página não oferece vagas.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados (não há vagas nem fluxo de candidatura)
+  - Como se candidatar: sem dados
+  - Leitura automática possível: sem dados (tabela HTML)
+  - Esclarecimento: São sindicatos patronais, não de empregados, e a página não é canal de vagas nem tem seção de carreiras.
+  - Esclarecimento: Um dos registros do Rio de Janeiro (Abragás) não é claramente um sindicato estadual.
+- **Fecombustíveis: Curso NR-20 EAD (segurança com inflamáveis e combustíveis)** (não verificada, verificada 1 vez) https://www.fecombustiveis.org.br/revendedores/curso-nr20-ead/12
+  - O que é: Trabalhadores e empregadores de postos de combustíveis que precisam do treinamento da NR-20. Em geral é contratado pelo posto depois da admissão; o candidato não precisa fazê-lo para se candidatar (não confirmado na página lida).
+  - Requisitos: sem dados (não informado na página)
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados (a página não informa datas nem turmas)
+  - Como se candidatar: https://nr20ead.com.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É uma capacitação, não uma vaga de emprego; a inscrição é feita no site externo nr20ead.com.br.
+  - Esclarecimento: Preço, carga horária, quem pode se matricular e validade do certificado não aparecem na página; não se confirmou que pessoas físicas sem vínculo com um posto possam se inscrever.
+  - Esclarecimento: Contato: (21) 2221-6695, Av. Rio Branco, 103, 13º andar, Centro, Rio de Janeiro/RJ.

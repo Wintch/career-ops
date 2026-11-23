@@ -1,0 +1,106 @@
+# Programas inclusivos e populações específicas
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Carteira de Trabalho Digital e Portal Emprega Brasil (vagas do Sine)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/carteira-de-trabalho
+  - O que é: Qualquer trabalhador inscrito no CPF; porta de entrada geral, inclusive para pessoas com deficiência e migrantes com CPF.
+  - Requisitos: CPF. Não foram citados idade mínima, escolaridade nem experiência. Perfil atualizado no portal para receber vagas compatíveis.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Gratuito. Os salários variam conforme cada vaga e a página não informa valores.
+  - Prazo ou ciclo: Aberto todo o ano. Não há prazo nem ciclo, o cadastro é permanente.
+  - Como se candidatar: https://servicos.mte.gov.br/spme-v2/#/login
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Página oficial do Ministério do Trabalho e Emprego; a CTPS Digital é emitida previamente a todos os inscritos no CPF e dá acesso a serviços como Seguro-Desemprego e Abono Salarial.
+  - Esclarecimento: As vagas da cidade de residência compatíveis com o perfil aparecem no portal, no app Carteira de Trabalho Digital ou em um posto do Sine.
+  - Esclarecimento: A página não explica como ativar a CTPS Digital nem lista vagas específicas; manter o perfil atualizado melhora a correspondência com as vagas.
+- **Vagas.com - vagas para pessoas com deficiência (PcD)** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-pcd
+  - O que é: Pessoas com deficiência; a lista mostra vagas exclusivas para PcD e vagas abertas a todos.
+  - Requisitos: Variam por vaga. Várias exigem laudo médico que comprove a deficiência, e uma vaga administrativa citava ensino médio completo e pacote Office. Muitas vagas não detalham requisitos. Há vagas sem exigência de experiência, mas isso não foi visto de forma geral.
+  - Pagamento ou benefício: Varia por vaga e não aparece na listagem.
+  - Prazo ou ciclo: Contínuo. Em 2026-11-23 o cabeçalho da página indicava 285 vagas, das quais 141 exclusivas para PcD. Os anúncios mostravam datas de 04/08/2026 a 11/11/2026, sem prazo de encerramento.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-pcd
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Página de empresa privada, não oficial do governo; candidatar-se exige cadastro gratuito no site e cada anúncio tem sua própria página.
+  - Esclarecimento: A listagem mostra cerca de 40 anúncios por vez e carrega mais em 'mostrar mais vagas'; há vagas de nível auxiliar a técnico, Jovem Aprendiz e bancos de talentos (como Komatsu e União Química).
+  - Esclarecimento: Não foi verificado que seja a principal rota de vagas PcD; vale conferir também o Sine e os sites das empresas.
+- **Fórum Empresas com Refugiados (ACNUR e Pacto Global Rede Brasil)** (aberta ou vigente, verificada 2 vezes) https://www.empresascomrefugiados.com.br
+  - O que é: Pessoas refugiadas e solicitantes de refúgio; empresas que contratam refugiados.
+  - Requisitos: Não informados para quem procura emprego. A página trata de contratação de refugiados, sem exigências de candidatura.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Contínuo, sem prazo. O site é uma iniciativa permanente, mas não oferece um cadastro direto para quem procura emprego.
+  - Como se candidatar: https://www.empresascomrefugiados.com.br/redes-de-empregabilidade/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A iniciativa é voltada às empresas, e não há processo de candidatura direta para refugiados.
+  - Esclarecimento: A página descreve três formas de contratação: contratação local por organizações da região, interiorização de venezuelanos a partir de Roraima com apoio da Operação Acolhida, e plataformas de recrutamento especializadas.
+  - Esclarecimento: Pontos de partida indicados: Refugiados Empreendedores (refugiadosempreendedores.com.br) e Empoderando Refugiadas (empoderandorefugiadas.org.br); contato geral: empresascomrefugiados@pactoglobal.org.br.
+- **Redes de empregabilidade para refugiados e migrantes (PR, RS, AM)** (aberta ou vigente, verificada 2 vezes) https://www.empresascomrefugiados.com.br/redes-de-empregabilidade
+  - O que é: Refugiados e migrantes nos estados do Paraná e Rio Grande do Sul (Amazonas ainda sem conteúdo).
+  - Requisitos: Não informados na página. Cada organização define seus critérios.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Sem prazo nem ciclo. Apenas contatos (e-mails e telefones) de organizações; para participar é preciso contatar cada uma diretamente. Amazonas: 'Conteúdo em breve.'
+  - Como se candidatar: https://www.empresascomrefugiados.com.br/redes-de-empregabilidade/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A cobertura efetiva é Paraná (6 organizações) e Rio Grande do Sul (4); o Amazonas aparece só com 'Conteúdo em breve', sem organização identificada.
+  - Esclarecimento: A página não descreve processo de adesão nem requisitos; é preciso contatar cada organização diretamente.
+  - Esclarecimento: Exemplos de contato: FGTAS, imo@fgtas.rs.gov.br, (51) 98154-5025; Connect (UniCuritiba), +55 41 8806-2134; os contatos aparecem como estavam na página e não foram testados.
+- **Integração econômica de refugiados e solicitantes de refúgio (CTPS Digital e MEI)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/mj/pt-br/assuntos/seus-direitos/refugio/integracao-local/integracao-economica
+  - O que é: Refugiados e solicitantes de refúgio com situação migratória regular.
+  - Requisitos: Ter CPF para a CTPS Digital e conta gov.br. Para o MEI, informar o país de origem e apresentar Protocolo de Refúgio, DPRNM ou CRNM.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Contínuo, sem prazo. Orientação permanente sobre CTPS Digital e MEI.
+  - Como se candidatar: https://www.gov.br/empresas-e-negocios/pt-br/empreendedor
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não é vaga nem canal de candidatura, e sim página de orientação sobre direitos e formalização.
+  - Esclarecimento: A página não detalha o passo a passo do MEI; remete ao Portal do Empreendedor, a um curso online do Sebrae e a um guia de 2020 da cidade de São Paulo.
+  - Esclarecimento: A página não informa data de atualização.
+- **TransEmpregos - vagas e currículos para pessoas trans** (aberta ou vigente, verificada 2 vezes) https://www.transempregos.com.br
+  - O que é: Pessoas trans (o site se descreve como o maior portal de vagas e currículos para pessoas trans do Brasil).
+  - Requisitos: Não informados na página inicial; cada vaga define os seus (escolaridade aparece nos filtros). Há vagas de Jovem Aprendiz e estágio, que costumam não exigir experiência prévia.
+  - Pagamento ou benefício: sem dados (varia por vaga; não exibido)
+  - Prazo ou ciclo: Contínuo: banco de currículos e vagas com botão "candidatar" ativos na consulta de 2026-11-23
+  - Como se candidatar: https://www.transempregos.com.br/cadastro (cadastro de currículo); cada vaga tem o botão "candidatar"
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O portal se descreve como o maior de vagas e currículos para pessoas trans do Brasil e informa 2.791 empresas parceiras.
+  - Esclarecimento: Na consulta havia 12 vagas recentes (Atento, EY, Takeda, Vivest, Núclea e Clínica Pra Gente), incluindo Jovem Aprendiz, estágio 2027 e atendimento ao cliente.
+  - Esclarecimento: Datas de publicação e de encerramento das vagas não aparecem; os requisitos ficam na página de cada vaga. Não foi visto custo para candidatos.
+- **Lei de Cotas para pessoas com deficiência (Lei 8.213/1991, art. 93)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm
+  - O que é: Pessoas com deficiência e beneficiários reabilitados da Previdência; obrigação das empresas com 100 ou mais empregados.
+  - Requisitos: Ser pessoa com deficiência habilitada ou beneficiário reabilitado da Previdência Social. A forma de comprovação (laudo etc.) não foi lida nesta página e costuma ser definida por cada empresa.
+  - Pagamento ou benefício: Não se aplica. A lei não fixa salário.
+  - Prazo ou ciclo: Lei permanente em vigor. Não há prazo, a obrigação vale o ano todo para as empresas.
+  - Como se candidatar: https://servicos.mte.gov.br/spme-v2/#/login
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O art. 93 obriga empresa com 100 ou mais empregados a preencher de 2% a 5% dos cargos: 2% (100 a 200 empregados), 3% (201 a 500), 4% (501 a 1.000) e 5% (a partir de 1.001).
+  - Esclarecimento: A forma de comprovação da deficiência (laudo etc.) costuma ser definida por cada empresa.
+- **Serviço Jesuíta a Migrantes e Refugiados (SJMR)** (não verificada, verificada 1 vez) https://www.sjmrbrasil.org
+  - O que é: Migrantes e refugiados.
+  - Requisitos: sem dados (não informado no site; cada vaga do Gupy traz os seus)
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados (o portal de vagas Gupy está aberto, mas não foi vista vaga do SJMR nem programa de empregabilidade)
+  - Como se candidatar: https://jesuitasbrasil.gupy.io (vagas da rede, com opção de banco de talentos); contatos em https://www.sjmrbrasil.org/contato/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O link 'Vagas abertas' leva ao portal Gupy da rede Jesuítas Brasil (29 vagas); as vagas vistas são de colégios da rede, não do SJMR.
+  - Esclarecimento: A página não descreve programa de empregabilidade para migrantes e refugiados; o contato por escritório (Brasília, Boa Vista, Manaus, Belo Horizonte e São Leopoldo) é o caminho para saber de serviços de inserção laboral.
+  - Esclarecimento: Há divergência entre alguns e-mails exibidos e seus links, então convém confirmar o endereço.
+- **Maturi - vagas e comunidade 50+** (não verificada, verificada 1 vez) https://www.maturi.com.br
+  - O que é: Profissionais de 50 anos ou mais ('Sou 50+') e empresas interessadas em diversidade etária.
+  - Requisitos: Público 50+ (idade); demais requisitos sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados (há link de cadastro, mas nenhuma vaga foi vista na página)
+  - Como se candidatar: https://www.maturi.com.br/cadastro (cadastro para pessoas 50+; conteúdo não verificado)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O site se apresenta como plataforma de diversidade etária, com Maturi Jobs, Maturi Academy, comunidade, eventos (Maturi Day, MaturiFest, Meetup) e serviços para empresas.
+  - Esclarecimento: A página não lista vagas, empregadores, custo nem requisitos, e os dados de contato exibidos parecem espaços reservados.
+  - Esclarecimento: O caminho de candidatura e o volume de vagas não foram confirmados.
+- **Sebrae Delas - empreendedorismo feminino** (não verificada, verificada 1 vez) https://sebrae.com.br/subsites/sebrae-delas
+  - O que é: Mulheres que querem empreender ou fortalecer um negócio.
+  - Requisitos: sem dados (público: mulheres empreendedoras ou que querem empreender)
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados (a página carregada não traz datas nem ciclos)
+  - Como se candidatar: sem dados (Central de Relacionamento Sebrae: 0800 570 0800 ou unidade local)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É apoio a empreendedoras, não vaga de emprego.
+  - Esclarecimento: O conteúdo obtido não descreve serviços, custo, forma de inscrição, datas nem eventos, e o ciclo contínuo não foi confirmado.
+  - Esclarecimento: A página-mãe do Sebrae lista o programa em Soluções e informa a Central de Relacionamento 0800 570 0800.

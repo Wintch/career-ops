@@ -1,0 +1,105 @@
+# Comércio e supermercados
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Assaí Atacadista - vagas na Gupy (lojas, CDs e corporativo)** (aberta ou vigente, verificada 2 vezes) https://assai.gupy.io/
+  - O que é: Qualquer pessoa interessada em vagas de loja de atacado (açougueiro, empacotador, operador de loja e câmara fria, operador de loja triagem, prevenção) e também em CDs e áreas corporativas. Na consulta de 2026-11-23 a página listava 3.612 vagas, todas do tipo Efetivo, com os primeiros anúncios em Rondonópolis (MT), Indaiatuba, Campinas, São Paulo, Limeira e Itaquaquecetuba (SP).
+  - Requisitos: Não exibidos na listagem; cada vaga tem os seus na página individual. A listagem não declara exigência de experiência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto de forma contínua; 3.612 vagas encontradas em 2026-11-23, sem prazo de encerramento exibido
+  - Como se candidatar: https://assai.gupy.io/
+  - Leitura automática possível: sem dados (não verificado); a listagem é uma página HTML paginada com 10 vagas por página
+  - Esclarecimento: Alguns títulos trazem "Vaga para Efetivo: 01/09/2026", sem explicação na página, e isso não foi tratado como prazo.
+  - Esclarecimento: Quem não encontra vaga adequada pode entrar no banco de talentos.
+- **Assaí - página oficial 'Trabalhe conosco' (inclui Assaí 55+ e vagas PCD)** (aberta ou vigente, verificada 2 vezes) https://www.assai.com.br/trabalhe-conosco
+  - O que é: Pessoas de qualquer perfil. A página destaca categorias específicas: Assaí 55+ (descrita como 'Para você que sabe que a idade não é um limitador'), vagas exclusivas para pessoas com deficiência (PCD), Lojas, CDs e Corporativo, e Diversidade.
+  - Requisitos: A página não cita limite de idade, documentos nem experiência; a idade aparece só como tema do programa 55+. Detalhes ficam em cada vaga.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto de forma contínua (a página encaminha ao portal Gupy do Assaí)
+  - Como se candidatar: https://assai.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Os botões "Saiba mais" dos destaques Assaí 55+ e PCD são apenas marcadores, sem detalhes.
+  - Esclarecimento: A candidatura é feita no portal Gupy, pelo link "Clique aqui e confira nossas vagas".
+- **Grupo Pão de Açúcar (GPA) - página 'Trabalhe conosco' e portais por área** (aberta ou vigente, verificada 2 vezes) https://www.gpabr.com/trabalhe-conosco/
+  - O que é: Quem busca vaga em lojas, centrais de distribuição ou escritório; jovens de 17 a 22 anos (Jovem Aprendiz); estagiários; refugiados e imigrantes (banco de talentos específico); e funcionários atuais (programa interno Prosin).
+  - Requisitos: Jovem Aprendiz: idade entre 17 e 22 anos, conforme a página. Demais requisitos ficam em cada vaga. Não há exigência geral de experiência declarada.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto de forma contínua; sem prazo exibido
+  - Como se candidatar: https://www.gpabr.com/trabalhe-conosco/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página não afirma expressamente que os portais ficam abertos de forma contínua; a continuidade se deduz dos portais Gupy vinculados, que exibiam vagas.
+  - Esclarecimento: A candidatura é feita no portal de cada área: lojas, corporativo, centrais de distribuição, ou Jovem Aprendiz e Estágio.
+- **GPA - vagas de lojas na Gupy** (aberta ou vigente, verificada 2 vezes) https://gpa.gupy.io/
+  - O que é: Quem procura vaga em loja de supermercado do grupo; na consulta de 2026-11-23 havia 1.309 vagas, todas Efetivo, com os primeiros anúncios de Auxiliar de Limpeza e Açougueiro(a) na Grande São Paulo.
+  - Requisitos: Não exibidos na listagem; constam em cada vaga. A listagem não declara exigência de experiência.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto de forma contínua; 1.309 vagas encontradas em 2026-11-23, sem prazo exibido
+  - Como se candidatar: https://gpa.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Há banco de talentos para quem não encontra vaga adequada.
+- **GPA - Jovem Aprendiz e Estágio (Gupy)** (aberta ou vigente, verificada 2 vezes) https://estagiarioseaprendizesgpa.gupy.io/
+  - O que é: Jovens em primeiro emprego pelo programa de aprendizagem e estudantes que buscam estágio. Na consulta de 2026-11-23 havia 108 vagas, todas de Aprendiz, entre elas Aprendiz Operador(a) de Caixa (Goiânia, GO), Aprendiz Operador(a) em Aracaju (SE), Aprendiz Auxiliar Administrativo e Aprendiz de Logística (SP).
+  - Requisitos: Pela página oficial do GPA, Jovem Aprendiz é para quem tem entre 17 e 22 anos. Escolaridade e documentos constam em cada vaga. Vagas de aprendiz costumam ser de primeiro emprego, mas a listagem não declara isso expressamente.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto de forma contínua; 108 vagas encontradas em 2026-11-23, sem prazo exibido
+  - Como se candidatar: https://estagiarioseaprendizesgpa.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Nenhuma vaga de estágio apareceu na primeira página, embora o título cite estagiários.
+  - Esclarecimento: Há banco de talentos.
+- **Magalu Carreiras - encontre sua vaga (lojas, logística e escritórios)** (aberta ou vigente, verificada 2 vezes) https://carreiras.magazineluiza.com.br/encontre-sua-vaga/
+  - O que é: Quem busca vaga de loja (Assistente de Loja, Vendedor), aprendiz, logística ou escritório. Na consulta de 2026-11-23 havia 2.809 vagas, com filtros por tipo (inclui PcD), local, empresa e área (Escritórios, Logística, Lojas). Empresas do grupo listadas incluem Netshoes, KaBuM!, Magalu Pagamentos, Luizalabs e Livraria Cultura.
+  - Requisitos: Não listados na listagem; constam em cada vaga. Não há exigência de experiência declarada na listagem.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: 2.780 vagas encontradas em 23/11/2026, sem prazo de encerramento.
+  - Como se candidatar: https://carreiras.magazineluiza.com.br/encontre-sua-vaga/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O número de vagas oscila ao longo do dia (foram vistas 2.780 e 2.809).
+  - Esclarecimento: A candidatura é feita pelo link "Saiba mais" de cada vaga.
+- **Lojas Renner - vagas na Gupy** (aberta ou vigente, verificada 2 vezes) https://renner.gupy.io/
+  - O que é: Candidatos a vagas da Renner. Na consulta de 2026-11-23 havia 137 vagas, todas Efetivo; as 10 primeiras eram de analistas em Porto Alegre (RS) e São Paulo (SP), incluindo uma vaga afirmativa para PcD.
+  - Requisitos: Não exibidos na listagem; constam em cada vaga. As vagas vistas, de nível analista, tendem a exigir experiência, mas isso não foi confirmado na página.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto de forma contínua; 137 vagas encontradas em 2026-11-23, sem prazo exibido
+  - Como se candidatar: https://renner.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: As vagas vistas na primeira página eram corporativas, de nível analista; não foram vistas vagas de loja nem de primeiro emprego nessa amostra.
+  - Esclarecimento: Há banco de talentos.
+- **C&A - vagas na Gupy** (aberta ou vigente, verificada 2 vezes) https://cea.gupy.io/
+  - O que é: Candidatos a vagas da C&A. Na consulta de 2026-11-23 havia 59 vagas; as 10 primeiras eram corporativas, em Barueri (SP) ou remotas, com tipos Efetivo, Temporário e Associado.
+  - Requisitos: Varia por vaga. As vagas vistas são majoritariamente de analista (Júnior a Sênior), em geral em Barueri-SP, com modelo híbrido, e uma remota. Não foram vistas vagas de jovem aprendiz, estágio ou PcD na primeira página; a página só oferece cadastro no banco de talentos. Não confirma vagas sem experiência.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto todo o ano (fluxo contínuo de vagas); 59 vagas vistas em 2026-11-23, sem prazo único
+  - Como se candidatar: https://cea.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página não mostra vagas de loja nem programas de entrada; quem busca primeiro emprego deve conferir os filtros do portal.
+  - Esclarecimento: Há botão para participar do banco de talentos.
+- **Magalu Carreiras - como funciona o processo seletivo** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://carreiras.magazineluiza.com.br/processo-seletivo/
+  - O que é: Candidatos que querem entender as etapas antes de se inscrever.
+  - Requisitos: Nenhuma qualificação formal listada.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Página de referência permanente; não é uma chamada com prazo
+  - Como se candidatar: https://carreiras.magazineluiza.com.br/encontre-sua-vaga/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Serve de apoio, não de ponto de candidatura; a inscrição é feita na página de vagas.
+  - Esclarecimento: As etapas descritas estão sujeitas a mudança conforme a vaga.
+- **Grupo Carrefour Brasil (Carrefour e Atacadão) - carreiras e banco de talentos** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://grupocarrefourbrasil.gupy.io/
+  - O que é: Quem quer entrar no banco de talentos do grupo. O site do Atacadão (https://www.atacadao.com.br/trabalhe-conosco) tem o menu 'Trabalhe Conosco' apontando para https://grupocarrefourbrasil.com.br/carreira, que retornou erro 403 nesta consulta e não pôde ser verificado.
+  - Requisitos: Sem vagas listadas na consulta, então não há requisitos a registrar. O banco de talentos aceita cadastro de currículo; critérios de elegibilidade desconhecidos.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Em 2026-11-23 o portal mostrava "0 vagas encontradas" e "Não há vagas"; o banco de talentos continua aberto. Reconferir depois.
+  - Como se candidatar: https://grupocarrefourbrasil.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não se sabe se há ciclos periódicos de contratação; o caminho aberto é o banco de talentos permanente, não uma vaga aberta.
+- **Via (Casas Bahia, Ponto, Extra.com) - portal de vagas na Gupy** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://viavarejo.gupy.io/
+  - O que é: Quem quer entrar no banco de talentos do grupo Via, que a própria página associa a Casas Bahia, Ponto, Extra.com, banQi, Bartira e Asap Log.
+  - Requisitos: Sem vagas listadas na consulta, então não há requisitos a registrar. O banco de talentos aceita cadastro de currículo; critérios de elegibilidade desconhecidos.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Em 2026-11-23 o portal mostrava "0 vagas encontradas" e "Não há vagas"; o banco de talentos continua aberto. Reconferir depois.
+  - Como se candidatar: https://viavarejo.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não foi visto ciclo anual nem prazo; o único caminho aberto é o banco de talentos permanente.
