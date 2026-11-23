@@ -1,0 +1,151 @@
+# Oficios y construccion
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Fundación UOCRA - Formación laboral y oferta educativa (oficios de la construcción)** (abierta o vigente, verificada 2 veces) https://fundacion.uocra.org/oferta-educativa
+  - Que es: Personas que quieren aprender o formalizar un oficio de la construcción. El buscador filtra por nivel, localidad (unas 30 ciudades y provincias) y oficio. Hay también educación para adultos y carreras de nivel superior (Instituto UOCRA).
+  - Requisitos: La página no lista requisitos de ingreso, costos ni pasos de inscripción; se consultan con la Fundación. Oferta: cursos de formación profesional (albañilería, carpintería, electricidad, soldadura, pintura, climatización, instalación de gas, topografía), educación primaria y secundaria para adultos, carreras técnicas de nivel superior e industrias culturales.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no informa aranceles)
+  - Plazo o ciclo: Catálogo publicado con buscador por nivel, ubicación y curso; no se vieron fechas de inscripción. 'Abierto todo el año' no está confirmado: depende de cada sede.
+  - Como postular: https://fundacion.uocra.org/oferta-educativa
+  - Lectura automatica posible: Catálogos en PDF: https://fundacion.uocra.org/documentos/catalogo-de-disenos-curriculares.pdf y https://fundacion.uocra.org/documentos/catalogo-de-normas-de-competencias.pdf
+  - Aclaracion: Es formación, no una bolsa de empleo.
+  - Aclaracion: Hay sedes en CABA, GBA, provincia de Buenos Aires y otras provincias (Mendoza, Neuquén, Chubut, Río Negro, Salta, Misiones).
+  - Aclaracion: Contacto: Azopardo 954, CABA; tel. 4343-5629 o 6803; informes@fundacionuocra.org.
+- **Programa Fomentar Empleo (formación, prácticas y ayuda económica)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/fomentarempleo
+  - Que es: Personas de 18 a 64 años desocupadas, con foco en jóvenes de 18 a 24 con secundario como máximo, mujeres y varones con menores a cargo, personas con discapacidad y otros grupos con alto riesgo de exclusión.
+  - Requisitos: Tener entre 18 y 64 años, estar desocupado/a (sin ingresos registrados en los 3 meses previos a postularse). Pensado para personas con dificultades para acceder a un empleo formal. No pide experiencia ni título de forma expresa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos: la página remite a una sección 'Montos' que no se leyó.
+  - Plazo o ciclo: Sin fechas: la página está redactada en presente y no indica cierre. No dice expresamente que esté activo al 23/11/2026 y el portal de inscripción no cargó.
+  - Como postular: https://portalempleo.gob.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Ofrece orientación laboral, formación profesional, prácticas en ambientes de trabajo e inserción asistida.
+  - Aclaracion: La inscripción es en Portal Empleo, que devolvió error 500 el día de la verificación.
+  - Aclaracion: Conviene confirmar la vigencia del programa en el 0800-222-2220 o en portalempleo@trabajo.gob.ar.
+- **Acciones de Entrenamiento para el Trabajo (EPT) y Programa de Inserción Laboral (PIL)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/ept
+  - Que es: Desocupados que participan de Fomentar Empleo, Progresar u otros programas de la Secretaría: practican en empresas (incluidas constructoras y talleres). El PIL ofrece a la empresa un incentivo por contratarlos hasta 12 meses.
+  - Requisitos: Persona desocupada, mayor de 18 años, que participe en programas de la Secretaría de Trabajo (Fomentar, Volver al Trabajo) o en PROGRESAR. No se pide experiencia: es entrenamiento en una empresa. No hay relación laboral durante el entrenamiento, solo un convenio.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Ayuda económica mensual no remunerativa, según la página: microempresa $190.000 (paga la Secretaría, con un asterisco sin explicar); pequeña y mediana $160.000 de la Secretaría más $30.000 de la empresa; grande $105.000 más $85.000. Los montos pueden estar desactualizados.
+  - Plazo o ciclo: Sin fechas de cierre; depende de que haya empresas con proyectos cargados. La página no dice expresamente que esté vigente al 23/11/2026.
+  - Como postular: https://portalempleo.gob.ar
+  - Lectura automatica posible: Guía en PDF: https://www.argentina.gob.ar/sites/default/files/guia_de_programas_de_empleo_y_formacion_laboral_2026.pdf
+  - Aclaracion: Esta URL cubre solo EPT; el PIL tiene su propia página (https://www.argentina.gob.ar/trabajo/pil).
+  - Aclaracion: Durante el entrenamiento no hay relación laboral, solo un convenio.
+  - Aclaracion: Se postula en Portal Empleo (que devolvió error 500) o en una Agencia Territorial u Oficina de Empleo.
+  - Aclaracion: Contacto: 0800-222-2220, consultas@trabajo.gob.ar. Normativa: Res. 708/2010 y 905/2010.
+- **MetroGAS - Matriculación de gasistas (requisitos, categorías y listado de matriculados)** (abierta o vigente, verificada 2 veces) https://www.metrogas.com.ar/colaboradores/requisitos/
+  - Que es: Personas que quieren habilitarse como instalador de gas matriculado en CABA y partidos del Gran Buenos Aires atendidos por MetroGAS. Sin matrícula no se puede hacer instalaciones, modificaciones ni reparaciones de gas en viviendas.
+  - Requisitos: Foto actualizada, título o certificado analítico (para técnicos) en digital, CUIT/CUIL, DNI frente y dorso con domicilio dentro del área de concesión, carnet del Consejo Profesional al día (solo para matrícula de 1.ª categoría y Constructores Técnicos de 3.ª), resoluciones firmadas de puño y letra (hay un zip descargable) y la Solicitud de alta firmada. Se pide formación acreditada: hay cursos en centros CFP. No se publica un mínimo de experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es un sueldo: la matrícula habilita a trabajar de forma independiente como gasista. La página no indica aranceles.
+  - Plazo o ciclo: Trámite abierto sin fecha de cierre: la página no publica fechas ni convocatorias, solo la documentación a enviar por correo.
+  - Como postular: mailto:matriculados@metrogas.com.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un trámite de matriculación como instalador de gas, no una oferta de empleo en relación de dependencia.
+  - Aclaracion: La documentación se envía en forma digital a matriculados@metrogas.com.ar.
+  - Aclaracion: Solo se puede estar matriculado en una distribuidora a la vez, con alcance nacional.
+  - Aclaracion: Si el domicilio queda fuera del área de MetroGAS (CABA y partidos del sur del Gran Buenos Aires: Avellaneda, Lanús, Quilmes, Berazategui, Florencio Varela, Lomas de Zamora, Almirante Brown, Presidente Perón, San Vicente, Esteban Echeverría y Ezeiza), la matrícula se tramita en la distribuidora de esa zona.
+- **CAMARCO - Bolsa de Trabajo (empresas socias de la Cámara Argentina de la Construcción)** (abierta o vigente, verificada 2 veces) https://www.camarco.org.ar/bolsa-de-trabajo/
+  - Que es: Postulantes a puestos publicados por empresas constructoras socias. En las avisos vistos (oct-nov 2026) predominan puestos técnicos y de jefatura; hay también Mecánico/a Vial en CPC S.A. (mantenimiento de maquinaria vial).
+  - Requisitos: Varían por aviso. Vistos: Oficina Técnica pide ingeniero civil o estudiante avanzado; Jefe de obra (ELEPRINT) pide título de ingeniero civil. Requisitos de los demás: sin datos.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Avisos rotativos. El último visto estaba publicado el 2026-11-20, con otros del 11/11, 16/11 y 30/10. No se vio fecha límite.
+  - Como postular: https://www.camarco.org.ar/bolsa-de-trabajo/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Casi todos los avisos son perfiles profesionales o técnicos: no es una vía de entrada sin experiencia ni título.
+  - Aclaracion: Solo el puesto de Mecánico/a Vial sería de oficio.
+  - Aclaracion: El formulario de la página es solo para empresas que quieren publicar un aviso.
+  - Aclaracion: Para postularse hay que abrir cada aviso; esa parte no se pudo ver.
+- **Edenor - Trabajá en Edenor (portal de empleo SuccessFactors)** (abierta o vigente, verificada 2 veces) https://www.edenor.com/institucional/trabaja-en-edenor
+  - Que es: Postulantes a puestos de la empresa; en una distribuidora eléctrica suele haber puestos técnicos y de campo, pero no vi avisos concretos de electricista (sin datos).
+  - Requisitos: sin datos (dependen de cada aviso; la página institucional no los lista).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Avisos rotativos. Se confirma el camino de postulación, pero no se pudieron ver los avisos concretos de al 23/11/2026.
+  - Como postular: https://career4.successfactors.com/career?company=edenor
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Al abrir el portal directo solo se vio 'Loading...' y el formulario de búsqueda guardada y alertas por correo, sin listado de puestos, por lo que no se pueden citar puestos ni fechas.
+  - Aclaracion: Edenor es una distribuidora eléctrica grande del AMBA.
+- **Zolvers - Servicios para el hogar y oficios (plomería, gas, electricidad, pintura)** (abierta o vigente, verificada 2 veces) https://www.zolvers.com
+  - Que es: Plataforma que conecta clientes con personal doméstico y con oficios del hogar (plomería, gas, electricidad, pintura, aire acondicionado, reparaciones). El registro de trabajadores de oficios no está claro.
+  - Requisitos: El formulario no pide documentos. La página menciona perfil verificado, experiencia y referencias comprobables, así que la experiencia ayuda. No se declara un mínimo exigido. Las zonas listadas incluyen Capital Federal y Gran Buenos Aires.
+  - Pago o beneficio: sin datos (el sueldo lo pacta cada hogar; la comisión a profesionales de oficios no se vio publicada). Registro gratuito.
+  - Plazo o ciclo: Abierto todo el año: el registro de profesionales y trabajadoras está habilitado de forma permanente.
+  - Como postular: https://www.zolvers.com/reuniones
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página advierte que alguien pide dinero para activar cuentas y aclara que Zolvers es gratis para trabajadoras domésticas: cualquier pedido de pago debe tomarse como estafa.
+  - Aclaracion: El registro de quienes buscan trabajo se hace en https://www.zolvers.com/reuniones, con categorías Empleada Doméstica, Cuidado de Adultos u Otros Servicios para el Hogar; no está claro cómo se registran los trabajadores de oficios.
+  - Aclaracion: La portada invita a inscribirse, pero no dice expresamente que el registro sea permanente ni lista requisitos de alta.
+  - Aclaracion: No se vio la comisión que cobra a los oficios.
+- **IERIC - Certificación de competencias laborales (construcción)** (sin verificar, verificada 1 vez) https://www.ieric.org.ar/certificacion-de-competencias/
+  - Que es: Trabajadores de la construcción con experiencia que quieren un certificado oficial de su oficio, útil para conseguir empleo y avanzar.
+  - Requisitos: sin datos: la página solo describe qué es (evaluación y validación de los conocimientos de un trabajador del sector construcción). Los requisitos, costos y oficios habilitados están en subpáginas ('Proceso de Certificación', 'Oficios habilitados', 'Preguntas frecuentes') que no se pudieron leer: la del proceso devolvió error 500.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos: la página no indica convocatorias ni fechas, ni que esté abierto todo el año.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una certificación, no un empleo ni un subsidio.
+  - Aclaracion: No se pudo confirmar cómo ni cuándo se solicita: los requisitos, costos y oficios habilitados están en subpáginas, y la del proceso devolvió error 500.
+  - Aclaracion: Contacto: 011 4363-3800 y 0800-222-1500.
+- **IERIC - Trámites para trabajadores (Credencial de Registro Laboral, Ley 22.250)** (sin verificar, verificada 1 vez) https://www.ieric.org.ar/tramites/tramites-para-trabajadores/inscripcion-de-trabajadores/
+  - Que es: Obreros de la construcción y quienes contratan en el sector: para trabajar en forma registrada en obra, el empleador debe tramitar la Credencial de Registro Laboral (antes libreta).
+  - Requisitos: sin datos: ninguna de las páginas leídas detalla requisitos ni documentos. Cobertura de la Ley 22.250: trabajadores de la construcción.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no se informa costo)
+  - Plazo o ciclo: sin datos: no se vieron plazos. Los trámites figuran como permanentes, pero la página no lo dice.
+  - Como postular: https://www.ieric.org.ar/tramites/tramites-para-trabajadores/inscripcion-de-trabajadores/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página lista consultas en línea, libre deuda, inscripción fuera de término y constancia para trámite jubilatorio, y no menciona la 'Credencial de Registro Laboral'.
+  - Aclaracion: La inscripción de trabajadores tiene página propia y un sistema web (creden.ieric.org.ar/ieric).
+  - Aclaracion: Atención presencial en Paseo Colón 823, PB, CABA, de lunes a viernes de 8:30 a 15; teléfonos 011 4363-3800 y 0800-222-1500.
+  - Aclaracion: Las denuncias por trabajo no registrado se hacen al 0800 333 3133, que no gestiona trámites.
+- **Red de Oficinas de Empleo municipales y Agencias Territoriales** (sin verificar, verificada 2 veces) https://www.argentina.gob.ar/trabajo/agencias-territoriales
+  - Que es: Quien busque trabajo o formación y necesite ayuda presencial para registrarse en Portal Empleo, armar el CV, hacer orientación laboral o preinscribirse a cursos.
+  - Requisitos: sin datos: las páginas no lista requisitos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito según el carácter de servicio público; la página no informa costo.
+  - Plazo o ciclo: Atención permanente según la descripción, pero las páginas no indican horarios ni fechas.
+  - Como postular: https://www.argentina.gob.ar/trabajo/agencias-territoriales
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no tiene mapa ni buscador de oficinas, y la de Agencias Territoriales tampoco trae listado ni mapa; su enlace a 'Oficinas de Empleo' apunta a un marcador vacío.
+  - Aclaracion: Para ubicar la oficina más cercana hay que consultar al 0800-222-2220 o a la municipalidad.
+  - Aclaracion: Servicios mencionados: orientación sobre búsqueda de empleo y formación, asesoramiento laboral y orientación sindical.
+- **Certificación de competencias laborales (Secretaría de Trabajo, por oficio y sector)** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/trabajo/formacionycapacitacion/certificacioncompetencias
+  - Que es: Trabajadores que aprendieron su oficio en la práctica y quieren certificarlo (electricidad, soldadura, plomería, etc., según existan normas para cada oficio). Sin secundario se pueden certificar competencias socio-laborales básicas.
+  - Requisitos: Experiencia laboral demostrable en el oficio. Sin título secundario se puede certificar la vía de competencias básicas. No se vieron más requisitos publicados. Consultar por teléfono al 0800-222-2220 o por correo a certificacióncl@trabajo.gob.ar (dirección tal como figura en la página).
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (la página no menciona costo ni pago)
+  - Plazo o ciclo: No se vio un ciclo ni una fecha. La página no dice que esté abierto todo el año.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no indica costo, requisitos formales, cupos ni un enlace para postularse.
+  - Aclaracion: Certifican el Organismo Sectorial Certificador y la Subsecretaría de Empleo y Formación Laboral.
+  - Aclaracion: Las personas certificadas quedan registradas en el sistema STESS y los empleadores las encuentran en el Portal Empleo.
+  - Aclaracion: Quienes no tienen secundario pueden certificar competencias socio-laborales básicas, pensadas para puestos de entrada.
+- **Camuzzi Gas - Gasistas matriculados y Portal Matriculados (Pampeana y del Sur)** (sin verificar, verificada 1 vez) https://www.camuzzigas.com/guia-de-tramites/gasistas-matriculados/
+  - Que es: Gasistas que trabajan o quieren matricularse en la zona de Camuzzi (provincia de Buenos Aires fuera del área de otras distribuidoras, La Pampa, Patagonia). Los clientes consultan acá la lista de matriculados por localidad.
+  - Requisitos: sin datos (la página pública no los detalla; consultar a Camuzzi). Se vio que existen categorías Primera, Segunda y Tercera.
+  - Pago o beneficio: No es un sueldo. Es una matrícula para trabajar de forma independiente. Los aranceles no se vieron publicados.
+  - Plazo o ciclo: No se vio una convocatoria ni un ciclo. Solo se confirmó que el directorio y el portal funcionan.
+  - Como postular: mailto:matriculados@camuzzigas.com.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página pública no explica cómo matricularse; muestra un directorio de gasistas matriculados y detalla dónde pagar la matrícula (Banco Nación, Rapipago, Pagofácil, Provincia NET, RIPSA y otros).
+  - Aclaracion: El Portal Matriculados (https://matriculados.camuzzigas.com.ar/ingreso) es para quienes ya están matriculados: cargan obras, factibilidades (Formulario 3.4) e inspecciones.
+  - Aclaracion: Para conocer requisitos y aranceles de alta, la página remite a matriculados@camuzzigas.com.ar o al 54-11-5776-7000.
+  - Aclaracion: No se confirmó que sea un camino de postulación abierto todo el año.
+- **UOM - Formación para trabajadores metalúrgicos (soldadura y mecánica, a confirmar)** (sin verificar, verificada 1 vez) https://www.uom.org.ar
+  - Que es: Trabajadores del sector metalúrgico. La sección Formación remite a una red de centros de formación (reddecentros.uom.org.ar), pero ese dominio no resolvió, así que no pude ver los cursos.
+  - Requisitos: Diplomatura: perfil de trabajador del sector metalmecánico, técnico o estudiante avanzado de producción industrial; no se publican requisitos formales. Cursos de soldadura y mecánica: sin datos.
+  - Pago o beneficio: Beca del 100% en la Diplomatura (sin costo para quien la obtiene). Para el resto: sin datos.
+  - Plazo o ciclo: No se vio ciclo anual. La Diplomatura que sí se vio empezó el 2026-10-20, así que ya no se puede ingresar en esta cursada.
+  - Como postular: https://uom.org.ar/?p=3247
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se confirmó la oferta de soldadura y mecánica: el sitio no lista cursos de esos oficios y el dominio de la Red de Centros UOM (reddecentros.uom.org.ar) no cargó.
+  - Aclaracion: Lo único confirmado es la Diplomatura Universitaria en Eficiencia en el Uso de los Recursos, Sector Metalmecánica (UNTREF, promovida por UOM): online, martes y jueves de 18:30 a 21:00, con becas del 100% con cupo limitado.
+  - Aclaracion: Se postula con un formulario en https://uom.org.ar/?p=3247; está dirigida a profesionales, técnicos, operarios de planta, empresarios, mandos medios y estudiantes avanzados, así que no es una vía de entrada para quien no tiene experiencia.
+  - Aclaracion: Contacto de UOM: +54 11 6345-5000 y -5190, y formulario en https://uom.org.ar/#contacto.

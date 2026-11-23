@@ -1,0 +1,103 @@
+# Grupo 34: Profesionales de nivel medio de servicios juridicos, sociales y culturales
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Ministerio Público de la Provincia de Buenos Aires - Ingreso de personal administrativo (curso y evaluación virtual)** (abierta o vigente, verificada 2 veces) http://ingreso.mpba.gov.ar/
+  - Que es: Personas con domicilio en la provincia de Buenos Aires que quieran ingresar como personal administrativo del MPBA (fiscalías y defensorías). Abogados/as y estudiantes avanzados de Derecho quedan exentos de la parte de formación jurídica.
+  - Requisitos: Tener 18 años o más; secundario completo; domicilio en la provincia de Buenos Aires. No se pide experiencia previa ni título universitario.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año: la evaluación virtual se rinde en cualquier momento una vez registrado, sin fechas fijas
+  - Como postular: http://ingreso.mpba.gov.ar/
+  - Lectura automatica posible: ninguna vista (HTML)
+  - Aclaracion: La evaluación se aprueba con 6 puntos o más y tiene validez de 2 años.
+  - Aclaracion: El mail de confirmación del usuario puede tardar hasta 24 horas.
+  - Aclaracion: Aprobar la evaluación forma parte del ingreso, pero no equivale a un cargo asignado ni se informa la fecha de designaciones.
+  - Aclaracion: Consultas: consultasingreso@mpba.gov.ar.
+- **Suprema Corte de Justicia de Buenos Aires - Registro de aspirantes para recibir avisos de concursos** (abierta o vigente, verificada 2 veces) https://www.scba.gov.ar/postulantes/NuevasInscripciones.asp
+  - Que es: Profesionales (abogado/a, contador/a, ingeniero/a, médico/a, psicólogo/a, periodista, traductor/a u 'otro') que quieran enterarse de los concursos abiertos del Poder Judicial bonaerense.
+  - Requisitos: La página no fija criterios de elegibilidad; pide DNI, profesión, nombre completo y correo. Orientado a personas con una profesión de la lista.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fechas ni plazos publicados; formulario disponible el 2026-11-23. Contacto: Casa de Justicia, Av. 13 entre 47 y 48, La Plata.
+  - Como postular: https://www.scba.gov.ar/postulantes/NuevasInscripciones.asp
+  - Lectura automatica posible: ninguna vista (HTML)
+  - Aclaracion: Es un registro para recibir avisos de concursos, no una postulación a un cargo ni un empleo en sí.
+  - Aclaracion: La página no indica que el registro sea permanente ni cada cuánto llegan los avisos.
+  - Aclaracion: El registro está dirigido a profesionales.
+- **Colegio de Trabajadores Sociales de la Provincia de Buenos Aires - Matriculación** (abierta o vigente, verificada 2 veces) https://catspba.org.ar/requisitos-de-matriculacion/
+  - Que es: Trabajadores/as sociales y asistentes sociales con título comprendido en los arts. 3 y 4 de la Ley 10.751 que quieran matricularse en la provincia de Buenos Aires.
+  - Requisitos: Título comprendido en los arts. 3 y 4 de la Ley 10.751 (original legalizado y copia certificada; los títulos con firma digital no requieren la copia certificada); DNI y fotocopia; una foto 4x4 color; domicilio real y domicilio legal en la provincia de Buenos Aires; declaración jurada de no estar alcanzado por las inhabilitaciones del art. 7 de la Ley 10.751; pago del DIM. Requiere título universitario o terciario en Trabajo Social, por lo que no sirve a quien no tiene título.
+  - Sin experiencia previa: no
+  - Pago o beneficio: No es empleo. Se abona el Derecho de Inscripción en la Matrícula (DIM), igual al valor vigente de la matrícula; el monto no figura en esta página (remite a otra de valores)
+  - Plazo o ciclo: Abierto todo el año: la página no fija fechas ni plazos; el trámite se presenta en un Colegio de Distrito
+  - Como postular: Presencialmente en el Colegio de Distrito correspondiente, con dos ejemplares originales del formulario de solicitud (que tiene carácter de declaración jurada)
+  - Lectura automatica posible: ninguna vista (HTML)
+  - Aclaracion: Es una matrícula profesional, no una oferta laboral.
+  - Aclaracion: Quienes no tienen título en Trabajo Social no pueden cumplir el requisito.
+  - Aclaracion: El trámite incluye análisis del Consejo Directivo Distrital, aprobación del Consejo Superior y juramento de ley.
+  - Aclaracion: El carácter permanente del trámite se deduce de la ausencia de fechas; la página no lo dice expresamente.
+- **Aldeas Infantiles SOS Argentina - Trabaja con nosotros (búsquedas en Idealist)** (abierta o vigente, verificada 2 veces) https://www.aldeasinfantiles.org.ar/trabajaconnosotros
+  - Que es: Personas interesadas en trabajar en una organización de cuidado de niñez y adolescencia. Roles abiertos: sin datos (la página no los lista).
+  - Requisitos: sin datos: ni la página oficial ni el listado detallan requisitos; figuran en cada aviso de Idealist (no abiertos). Entre los puestos hay algunos de perfil operativo (captador/a de fondos y agente en vía pública, operador/a telefónico/a part-time, cuidadores/as sociales, mantenimiento) y otros profesionales (eventos y voluntariados corporativos, redacción de proyectos). No se verificó si piden experiencia.
+  - Pago o beneficio: sin datos (no se vieron salarios en el listado)
+  - Plazo o ciclo: Búsquedas abiertas en Idealist al 2026-11-23: 8 avisos, con fechas relativas ('hace 6 horas' a 'hace 23 días'); sin fecha de cierre visible. Las búsquedas rotan.
+  - Como postular: https://ideali.st/xa5v3D (enlace corto que la página oficial ofrece; redirige al perfil de la organización en Idealist: https://www.idealist.org/es/ong/eabb560d71e84a1bbb255bf5ccfa8073-aldeas-infantiles-sos-argentina-buenos-aires)
+  - Lectura automatica posible: ninguna vista (postings live on Idealist)
+  - Aclaracion: La página oficial solo remite a su perfil de Idealist, donde las búsquedas rotan.
+  - Aclaracion: Las ubicaciones son variadas y no todas corresponden a la Ciudad de Buenos Aires (también Zona Oeste, GBA, Mar del Plata, Luján y Oberá).
+  - Aclaracion: Los requisitos figuran en cada aviso de Idealist y no se detallan en el listado.
+- **Ministerio Público de la Defensa - Ingreso democrático y concursos de personal** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.mpd.gov.ar/index.php/secretaria-de-concursos-n/inscripciones-vigentes
+  - Que es: Personas que quieran ingresar como personal técnico jurídico, técnico administrativo o de servicios auxiliares del MPD, y profesionales (médico/a, psicólogo/a, trabajador/a social) en llamados puntuales.
+  - Requisitos: Personal: no se vieron requisitos en esta página (se fijan por agrupamiento y llamado). Magistrados (Concursos 227 y 228): cargo de Defensor Público Oficial Federal, que requiere título de abogado (no consta en la página; dato general del cargo).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin inscripciones vigentes para personal al 2026-11-23 (las cinco categorías muestran 'No hay Inscripciones Vigentes para el Agrupamiento'). Magistrados: Concurso Nº 227 (Defensor Público Oficial Federal del interior, Neuquén) del 26/10/26 al 13/11/26 (vencido); Concurso Nº 228 (Caleta Olivia, Santa Cruz) del 17/11/26 al 02/12/26 (abierto). Próxima fecha de personal: sin datos.
+  - Como postular: https://www.mpd.gov.ar/index.php/secretaria-de-concursos-n/inscripciones-vigentes
+  - Lectura automatica posible: ninguna vista (HTML)
+  - Aclaracion: Al 2026-11-23 no hay inscripciones vigentes para personal en ninguno de los cinco agrupamientos.
+  - Aclaracion: El único llamado abierto es el de magistrados (Concurso Nº 228), que corresponde a un cargo para abogados y requiere título.
+  - Aclaracion: No hay calendario anual publicado; conviene revisar la página periódicamente.
+- **Suprema Corte de Justicia de Buenos Aires - Llamados a concurso del Poder Judicial bonaerense** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.scba.gov.ar/novedades.asp?id=10&cat=24
+  - Que es: Postulantes a cargos periciales y técnicos del Poder Judicial bonaerense (en lo visto: bibliotecario/a, psicólogo/a, asistente social).
+  - Requisitos: Varía por llamado; no se leyeron los requisitos detallados. Los cargos vistos exigen perfil profesional o técnico (no hay evidencia de acceso sin experiencia ni título).
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Llamados puntuales con inscripción de pocos días, sin calendario fijo. Al 2026-11-23 ningún llamado vigente: Perito I Biblioteca San Isidro (inscripción 20, 21 y 22 de mayo de 2026, vencida); Perito I Biblioteca Bahía Blanca (15, 16 y 17 de octubre de 2025, vencida); tres llamados de Perito II de marzo de 2020 'suspendidos hasta nuevo aviso'.
+  - Como postular: https://www.scba.gov.ar/novedades.asp?id=10&cat=24
+  - Lectura automatica posible: ninguna vista (HTML)
+  - Aclaracion: Al 2026-11-23 no hay ningún llamado vigente.
+  - Aclaracion: Los cargos vistos son técnicos o profesionales; no hay evidencia de ingreso sin título.
+  - Aclaracion: No hay evidencia de un ciclo anual definido; los llamados son puntuales y de pocos días.
+- **Escuela de Guardavidas de la Ciudad de Buenos Aires (curso gratuito de un año)** (sin verificar, verificada 1 vez) https://buenosaires.gob.ar/jefatura-de-gabinete/deportes/escuela-de-guardavidas
+  - Que es: Personas mayores de 18 años que quieran formarse y titularse como guardavidas.
+  - Requisitos: Mayor de 18 años; título secundario legalizado o certificado de título en trámite (original y fotocopia); DNI (original y fotocopia); certificado médico de apto físico no recreativo (apto para alto rendimiento o curso de guardavidas); examen de ingreso eliminatorio (contenido no detallado). No se exige experiencia previa. La página no menciona prueba de natación.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Curso gratuito (no es empleo; el título habilita a trabajar como guardavidas)
+  - Plazo o ciclo: sin datos: la página no muestra fechas de inscripción ni de examen ni año de cursada; solo indica que el certificado médico se pide al inscribirse mediante un link que se envía luego
+  - Como postular: sin datos (la página no muestra formulario; contacto: promociondeportivaba@gmail.com, tel. 5030-9885 int. 2078; atención administrativa de lunes a viernes de 10 a 17 h en Av. Martín García 464)
+  - Lectura automatica posible: ninguna vista (HTML)
+  - Aclaracion: Es un curso de formación gratuito, no un empleo; el título habilita a trabajar como guardavidas.
+  - Aclaracion: No se halló anuncio vigente de convocatoria ni fechas de examen 2026/2027, solo páginas históricas; se recomienda consultar a la Dirección de Promoción Deportiva.
+  - Aclaracion: Las clases son de lunes a viernes de 18 a 22 h en el Polideportivo Chacabuco (Av. Eva Perón 1410).
+- **Instituto Gato Dumas - Bolsa de Trabajo para estudiantes y egresados** (sin verificar, verificada 1 vez) https://www.gatodumas.com.ar/institucional/bolsa-de-trabajo
+  - Que es: Estudiantes y egresados/as del instituto que buscan empleo o pasantías como cocineros/as en restaurantes, hoteles y empresas.
+  - Requisitos: Destinada a estudiantes y egresados del Instituto Gato Dumas; no es una bolsa abierta al público general. No se vieron requisitos para postulantes; el empleador define experiencia (ninguna, 1 año, 2 a 4 años, más de 4), condición de estudiante o egresado y otros requisitos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (el formulario de empleadores pide sueldo base mensual, pero no se vio ningún aviso publicado)
+  - Plazo o ciclo: sin datos: no se vieron avisos ni fechas; la página muestra solo el formulario para que los empleadores carguen ofertas
+  - Como postular: sin datos (no hay proceso de postulación visible para candidatos; las postulaciones llegan al correo que indica cada empleador. Contacto del instituto: info@gatodumas.com, tel. (011) 4811 6530)
+  - Lectura automatica posible: ninguna vista (HTML)
+  - Aclaracion: No es una bolsa abierta al público general: el acceso de candidatos parece restringido a estudiantes y egresados del instituto.
+  - Aclaracion: La página es un formulario de carga para empleadores y no muestra ofertas visibles.
+  - Aclaracion: Se mantiene sin confirmar.
+- **Dirección Nacional de Mediación y Métodos Participativos (Ministerio de Justicia) - Mediadores/as y formación** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/justicia/mediacion/capacitacion
+  - Que es: Personas que quieran trabajar como mediadores/as prejudiciales (Ley 26.589), o en mediación comunitaria y penitenciaria; también quienes busquen cursos de formación en mediación.
+  - Requisitos: sin datos: la página no detalla los requisitos para ser mediador/a ni la carga horaria de la formación; las capacitaciones continuas parecen dirigidas a quienes ya integran la matrícula. Enlaza a un listado de entidades formadoras de la Ley 26.589 (no consultado).
+  - Pago o beneficio: sin datos (la página remite a 'Pago de aranceles' y 'Honorarios - tablas' sin montos visibles)
+  - Plazo o ciclo: sin datos: ni la página principal ni la de capacitación muestran convocatorias ni fechas; la de capacitación dice que las ofertas de cursos y las convocatorias se envían por correo a todos los mediadores de la matrícula
+  - Como postular: sin datos (la página de capacitación indica como contacto contactodnm@jus.gov.ar, tel. (011) 5300-4000 int. 76795; enlaza a un sistema de acceso exclusivo para mediadores, MEPRE)
+  - Lectura automatica posible: ninguna vista (HTML)
+  - Aclaracion: No se puede confirmar una convocatoria abierta ni un ciclo anual.
+  - Aclaracion: La formación inicial se realiza en entidades formadoras habilitadas.
+  - Aclaracion: Las novedades visibles en la página principal son crónicas de eventos de 2024, no convocatorias.
+  - Aclaracion: La subpágina 'para-mediadores-prejudiciales' devolvió error 404.

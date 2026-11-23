@@ -1,0 +1,130 @@
+# Empleo publico y concursos
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Ejército Argentino - Incorporación de soldados voluntarios** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/defensa/ejercito/incorporacion-de-soldados
+  - Que es: Jóvenes que quieren ser soldados voluntarios; es el ingreso con menor exigencia de estudios. Antes de los 24 años se puede seguir como suboficial (Escuela 'Sargento Cabral') u oficial (Colegio Militar de la Nación).
+  - Requisitos: Ciudadano/a argentino/a. 18 a 24 años al momento del curso de admisión. Primario completo. Sin antecedentes penales. No requiere secundario ni experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Haber mensual más suplementos (monto: sin datos)
+  - Plazo o ciclo: Sin fechas ni cierre publicados en la página: el trámite es descargar el formulario DUPIE y entregarlo en el centro de incorporación más cercano, lo que funciona como vía abierta. La página no dice expresamente 'permanente'; confirmar en el centro.
+  - Como postular: https://www.argentina.gob.ar/defensa/ejercito/incorporacion-de-soldados
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: El formulario DUPIE lleva '2026' en el nombre del archivo, pero eso no es un plazo.
+  - Aclaracion: La página no dice expresamente que la inscripción sea permanente; conviene confirmarlo en el centro de incorporación.
+  - Aclaracion: La entrega es presencial y la página no indica una dirección concreta ni el listado de centros.
+- **Fuerza Aérea Argentina - Ingreso (soldado voluntario, oficiales, suboficiales, músicos)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/fuerzaaerea/ingreso-a-la-fuerza-aerea-argentina
+  - Que es: Portal de ingreso con cuatro vías: Carrera Militar (oficiales en la Escuela de Aviación Militar y suboficiales en las escuelas de Córdoba y Ezeiza), Incorporación Profesional, Soldado Voluntario y Músicos de bandas militares.
+  - Requisitos: Soldado voluntario (página oficial argentina.gob.ar/node/335627): argentino/a nativo/a, por opción o naturalizado/a; 18 a 24 años al inicio de la instrucción; soltero/a (puede tener hijos o personas a cargo); primario completo; sin antecedentes penales ni policiales desfavorables; aprobar examen psicofísico. Documentos: foto color 4x4, copia de DNI, partida de nacimiento, último certificado escolar y constancia de CUIL. No pide experiencia. Requisitos de oficiales y suboficiales: sin datos (la página no los lista).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Soldado voluntario: sueldo mensual, aguinaldo y obra social (monto: sin datos). Oficiales y suboficiales: sin datos
+  - Plazo o ciclo: Soldado voluntario: inscripción abierta de forma permanente (confirmado en la página oficial de soldados voluntarios). Oficial (Escuela de Aviación Militar) y suboficial (Escuela de Suboficiales de Córdoba): inscripción abierta hasta el 27/11/2026, a 4 días de al 23/11/2026. Escuela de Suboficiales de Ezeiza: la página muestra 27/11/2025, probablemente un error de tipeo o una fecha vencida; confirmar.
+  - Como postular: https://www.argentina.gob.ar/fuerzaaerea/ingreso-a-la-fuerza-aerea-argentina
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: La Escuela de Suboficiales de Ezeiza figura con cierre el 27/11/2025, fecha vencida o posible error de tipeo; no debe presentarse como abierta sin confirmar.
+  - Aclaracion: Soldado voluntario: compromiso de 2 años, renovable una vez hasta los 28 años; la inscripción es personal y gratuita, sin gestores.
+  - Aclaracion: Una nota de prensa habla de 18 a 28 años, pero la fuente oficial dice 18 a 24.
+- **Concursar - Portal de concursos del empleo público nacional (inscripción)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/jefatura/gestion-y-empleo-publico/concursar
+  - Que es: Cualquier persona que cumpla los requisitos excluyentes de cada puesto, en las convocatorias de 'Selección Abierta' para organismos de la Administración Pública Nacional. Las de 'Selección General' e 'Interna' son para quienes ya trabajan en el Estado.
+  - Requisitos: La página no lista requisitos generales; cada convocatoria define los suyos. Para postularse hay que autenticarse en el portal, completar 'Mi CV' y aplicar a cada llamado (guías en la propia página). Hay llamados de Selección Abierta (para cualquier persona que cumpla los requisitos del cargo) y otros solo internos.
+  - Pago o beneficio: sin datos (escala salarial según el escalafón y el cargo de cada convocatoria)
+  - Plazo o ciclo: Dos convocatorias visibles (Museos Nacionales y Autoridad Nacional de la Competencia), sin fechas de apertura ni de cierre en la página.
+  - Como postular: https://concursar.miportal.gob.ar/
+  - Lectura automatica posible: No se vio API ni feed; las convocatorias se publican en PDF.
+  - Aclaracion: Para postularse hay que autenticarse en Concursar 2.0, completar 'Mi CV' y aplicar a cada llamado.
+  - Aclaracion: Cada llamado debe consultarse en su propio detalle; las convocatorias de Ciencia y Técnica de la Cartelera tienen PDF de fecha dudosa (el del INA lleva '05-04-2022' en el nombre) y no deben darse por vigentes.
+- **Banco Nación - Ingresá tu currículum (Trabajá con nosotros)** (abierta o vigente, verificada 2 veces) https://www.bna.com.ar/Institucional/IngresaTuCurriculum
+  - Que es: Personas que buscan ingresar al banco público más grande del país (atención al cliente, tareas administrativas y comerciales). El perfil que se pide es de ingreso, aunque se valora experiencia en atención al cliente.
+  - Requisitos: Nacionalidad argentina (nativa o por opción); secundario completo; se prefiere estudiantes o graduados de carreras terciarias o universitarias afines a la banca; se valoran idiomas, cursos de finanzas y experiencia comprobable en tareas administrativas, comerciales o de atención al cliente (valorada, no obligatoria).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fechas de apertura ni cierre; carga de CV continua sin plazo indicado y sin vacantes listadas.
+  - Como postular: https://www.bna.com.ar/Institucional/IngresaTuCurriculum (enlace 'Cargá tu CV acá'). Consultas: Centro de Atención al Cliente 0810-666-4444
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página oficial no confirma que la carga de CV esté abierta todo el año ni fija fechas.
+  - Aclaracion: Las búsquedas activas se remiten al perfil de LinkedIn del banco y la página no lista vacantes.
+  - Aclaracion: Quienes sean extranjeros sin nacionalidad argentina o no tengan secundario completo no cumplen los requisitos.
+- **Servicio Penitenciario Federal: carreras e ingreso** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/spf/RRHH
+  - Que es: Personas que buscan carrera penitenciaria como oficial, suboficial o profesional. Suboficiales sin experiencia previa.
+  - Requisitos: Suboficiales: argentino/a nativo/a o por opción (no naturalizado/a); mínimo 21 años; máximo 32 (Cuerpo General, Auxiliar Oficinista y Auxiliar Intendencia) o 35 (Profesional); secundario legalizado (Oficinista, preferentemente con orientación administrativa o contable y ofimática; Apoyo Técnico, título de pregrado; Maestranza, secundario o idoneidad en el oficio; Intendencia, sin nivel educativo especificado y licencia profesional para choferes); Cuerpo General: altura mínima 160 cm varones y 155 cm mujeres. Curso de entre 3 y 6 meses en Ezeiza. Oficiales: argentino/a nativo/a o por opción, 17 a 27 años al 1 de marzo del año de ingreso, secundario legalizado (escalafón Administrativo requiere nivel medio con orientación contable); curso de 3 años; adaptación de un mes. No exige experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no se informa remuneración). Se mencionan 30 días de licencia anual, carrera de 25 años de servicio activo y bonificación académica para profesionales. Cualquier gasto de las etapas corre por cuenta del postulante.
+  - Plazo o ciclo: Escuela de Suboficiales: preinscripción permanente ('estará disponible -de forma permanente-'), sin convocatoria por ciclo. Escuela de Oficiales: no se vio ventana de inscripción; la página muestra 'Campaña Reclutamiento 2026' con la sección de vigencia vacía, por lo que la afirmación de 'una convocatoria por año' no se pudo confirmar.
+  - Como postular: https://incorporaciones.spf.gob.ar/
+  - Lectura automatica posible: No; HTML.
+  - Aclaracion: La URL es una portada que solo enlaza a los trámites; los requisitos salen de las páginas de servicio de cada escuela.
+  - Aclaracion: El trámite es personal, sin gestores.
+  - Aclaracion: Los profesionales con título tienen otra vía de ingreso: https://www.argentina.gob.ar/servicio/ingreso-para-profesionales.
+- **Gendarmería Nacional - Requisitos de ingreso de postulantes, cadetes y aspirantes a gendarmes** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/gendarmeria/requisitos-de-ingreso-de-postulantes-cadetes-y-aspirantes-gendarmes
+  - Que es: Personas de 17 a 25 años que quieran ser Cadetes (oficiales) o Aspirantes a Gendarmes (curso básico de un año en los Institutos de Formación). Preinscripción 100% web, sin ir a una unidad al comienzo.
+  - Requisitos: Argentino/a nativo/a o por opción (si nació en el exterior, hijo/a de padre o madre argentino/a). 17 a 25 años al 31/12 del año de la postulación. Estatura mínima 1,50 m. DNI vigente. Secundario completo (legalizado) o constancia de último año sin materias pendientes, con el título en trámite antes de la tercera etapa. Sin antecedentes penales (RNR) ni policiales provinciales, sin deuda en el registro de infractores al voto, sin baja disciplinaria de otra fuerza. Menores van con ambos padres o tutores. No pide experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Ciclo anual con preinscripción online en abril. La búsqueda mostró notas de prensa con la preinscripción 2025 del 8 al 19 de abril y la del ciclo lectivo 2027 habilitada hasta el 25 de abril de 2026. Al 23/11/2026 está cerrada; la próxima se espera hacia abril de 2027 (inferencia, no confirmado).
+  - Como postular: sin datos
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: La página oficial solo lista requisitos y etapas; no indica cómo ni cuándo inscribirse ni el sueldo.
+  - Aclaracion: Las fechas salen de notas de prensa de confiabilidad limitada, por lo que conviene confirmarlas en el sitio oficial de Gendarmería.
+  - Aclaracion: Los tatuajes se permiten si no se ven con el uniforme reglamentario y no son ofensivos.
+- **Prefectura Naval Argentina - Inscripciones a Cadetes y Aspirantes (Suboficiales)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://inscripciones.prefecturanaval.gob.ar/portal/requisitos.html
+  - Que es: Postulantes que quieren ingresar como Cadetes (oficiales) o Aspirantes a Suboficial. Trámite 100% virtual desde celular o computadora; las dependencias no reciben documentación de ingreso.
+  - Requisitos: Argentino/a nativo/a o por opción (con la opción tramitada antes de ingresar). Mayor de 17 al 31/12 del año de inscripción. Cadetes (oficiales): hasta 22 años al 31/12/2027. Aspirantes (suboficiales): hasta 27 años al 31/12/2027. Secundario completo (título y analítico, certificado de título en trámite válido 60 días o certificado de alumno regular de último año). Estatura mínima 1,65 m varones y 1,55 m mujeres; agudeza visual mínima 7/10 por ojo sin corrección; IMC proporcionado; tatuajes visibles en ciertas zonas o con contenido ofensivo descalifican. Documentos: DNI, partida de nacimiento, certificado de antecedentes penales (vigencia 90 días), declaración jurada certificada y estudios médicos. Menores de 18 con autorización de padres certificada. No pide experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Ciclo anual. El portal publica requisitos con límites de edad referidos al 31/12/2027 y programa evaluaciones intelectuales y estudios médicos para diciembre, es decir, ciclo de ingreso 2027 en curso. No se vio el período de inscripción ni si sigue abierto al 23/11/2026 (sin datos).
+  - Como postular: https://inscripciones.prefecturanaval.gob.ar/portal/requisitos.html
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: El portal Inscripciones 2.0 es la vía oficial: se reúnen los documentos y se suben por el formulario online.
+  - Aclaracion: La página no menciona 2026 ni fechas de inscripción; conviene verificar en el portal si todavía se puede cargar la documentación.
+- **Armada Argentina - Portal de Incorporación (Marinero voluntario, Escuela de Suboficiales, Escuela Naval, Liceos)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://incorporacion.armada.mil.ar/
+  - Que es: Portal con todas las vías: Servicio Militar Voluntario (Marineros, ingreso anual, ambos sexos), Escuela de Suboficiales (Aspirante Naval), Escuela Naval Militar (Cadete), CUINA y CUIM para quienes tienen título o conocimientos previos, Marina Mercante y Liceos Navales.
+  - Requisitos: Marinero voluntario: argentino/a nativo/a o por opción, 18 a 24 años, séptimo grado completo, soltero/a, aprobar examen psicofísico y curso de admisión. No pide experiencia ni título secundario. Requisitos de las demás escuelas: sin datos (no se vieron sus páginas).
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Marinero voluntario: la página dice que se incorpora anualmente; no muestra fecha ni cierre (sin datos). Las demás escuelas tampoco publican fechas en la página principal.
+  - Como postular: https://sinu.incorporacion.armada.mil.ar
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: La inscripción se hace online en sinu.incorporacion.armada.mil.ar (botón Inscribite) o en persona en las Delegaciones de Incorporación Naval.
+  - Aclaracion: Tras el curso de admisión, el Marinero se incorpora como Marinero Segundo por 2 años, renovable anualmente como Marinero Primero hasta los 28 años.
+  - Aclaracion: Los requisitos y fechas de las demás escuelas no se publican en la página principal.
+- **Ejército Argentino: carreras de oficial y suboficial (Colegio Militar y Escuela de Suboficiales)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/ejercito/incorporacion
+  - Que es: Jóvenes que buscan carrera como oficial (Colegio Militar de la Nación, 4 años, con título universitario) o suboficial (Escuela de Suboficiales Sargento Cabral, 2 años).
+  - Requisitos: El Colegio Militar dura 4 años y egresa como subteniente con título universitario. La Escuela de Suboficiales dura 2 años y egresa como cabo. Edad, estudios y demás requisitos no figuran en estas páginas; están en la Guía de ingreso y preguntas frecuentes del sitio de cada escuela. La inscripción es personal mediante declaración jurada.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos. La página de ingreso no informa remuneración. La Escuela de Suboficiales cobra gastos administrativos de inscripción, con montos 'en revisión'.
+  - Plazo o ciclo: Ciclo anual. El sitio de la Escuela de Suboficiales (esesc.ejercito.mil.ar) muestra 'INSCRIPCIÓN AÑO LECTIVO 2027 FINALIZADA'; no se vio fecha del ciclo siguiente. El sitio del Colegio Militar no pudo cargarse (error de certificado), por lo que su estado no se verificó.
+  - Como postular: https://esesc.ejercito.mil.ar/
+  - Lectura automatica posible: No; HTML.
+  - Aclaracion: Consultas de la Escuela de Suboficiales: esesc@ejercito.mil.ar, 11 6123-4798.
+- **Policía de la Ciudad de Buenos Aires: cadetes** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.policiadelaciudad.gob.ar/?q=sumate
+  - Que es: Personas que quieren ser cadetes de la Policía de la Ciudad; no se pide experiencia. Hay vías separadas para Agentes de Prevención y Bomberos.
+  - Requisitos: Edad de 18 a 30 años al ingresar; secundario completo (se admite título en trámite o constancia de último año); residencia a menos de 80 km de la Ciudad de Buenos Aires; ciudadanía argentina (nativa o por opción); aptitud psicofísica y conducta pública adecuada; estatura mínima y máxima según sexo (hombres 1,65 a 1,95 m; mujeres 1,55 a 1,85 m) y rangos de IMC. No se requiere experiencia previa. Documentación: DNI original y título o constancia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: La página no menciona sueldo ni beca (fuentes de búsqueda indican que los cadetes reciben una beca durante la formación; monto: sin datos).
+  - Plazo o ciclo: Sin fechas publicadas en la página. Hay cohortes anuales de cadetes en el Instituto Superior de Seguridad Pública (en 2026 se informó el inicio de clases de más de 2.000 cadetes de policía y bomberos). Consultar fechas de inscripción por teléfono 4323 8900.
+  - Como postular: https://www.policiadelaciudad.gob.ar/?q=sumate (enlace 'Formulario de incorporación de aspirante cadetes')
+  - Lectura automatica posible: No; HTML.
+  - Aclaracion: El formulario en línea es una declaración jurada.
+  - Aclaracion: No se vio una convocatoria con fecha de apertura o cierre; la apertura efectiva debe confirmarse con Incorporaciones o el ISSP.
+  - Aclaracion: No apareció una convocatoria 2026 abierta para cadetes de policía.
+- **Policía Federal Argentina - Ingreso como Cadete o Agente (preinscripción online)** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/seguridad/incorporacion-fuerzas-federales/policia-federal-argentina
+  - Que es: Personas argentinas nativas que quieren ser Cadetes (carrera de oficial) o Agentes (suboficiales) de la PFA. Aceptan postulantes de todo el país, aunque las primeras evaluaciones son unos 3 días hábiles en CABA.
+  - Requisitos: Argentino/a nativo/a. Cadete: 17 a 25 años al 31/12 del año en curso, secundario completo o cursando el último año sin materias previas adeudadas. Agente: 19 a 35 años, secundario completo y aprobado. Soltero/a y sin hijos. Estatura: varones 1,65 a 1,95 m, mujeres 1,60 a 1,85 m. Menores de 18 necesitan autorización de ambos padres o tutores. Aceptar estudios médicos y toxicológicos. No requiere experiencia previa ni residencia en un lugar determinado.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Beca mensual durante la formación más obra social (monto: sin datos)
+  - Plazo o ciclo: Sin fechas publicadas en la página oficial. No se vio una convocatoria con fecha ni un cierre; la edad se mide al 31 de diciembre del año en curso, lo que sugiere ciclo anual.
+  - Como postular: https://sistemaspfa.gov.ar/portal_ingresos/
+  - Lectura automatica posible: No se vio API ni feed; solo formulario web.
+  - Aclaracion: La página no informa si hay una convocatoria abierta; la inscripción comienza online en el Sistema de Preinscripción y un correo de confirmación explica cómo pedir turnos.
+  - Aclaracion: Los exámenes y la entrega de documentos son presenciales en CABA (División Incorporaciones); quienes viven fuera del AMBA deben prever unos 3 días hábiles en la ciudad.
+  - Aclaracion: Los estudios médicos corren por cuenta del postulante.
+- **Cartelera Pública Central de Ofertas de Empleo Público (SINEP y otros escalafones)** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/desregulacion/transformacion/cartelera-publica-central-de-ofertas-de-empleo-publico
+  - Que es: Cartelera oficial con las vacantes a concurso del convenio colectivo de la Administración Pública Nacional, ordenadas por escalafón: SINEP (Selección General, Abierta e Interna), Otros Escalafones y Ciencia y Técnica.
+  - Requisitos: Selección Abierta: abierta a cualquier postulante, sea o no empleado público, que cumpla los requisitos obligatorios del cargo. Selección General: para personal con estabilidad o contratado bajo SINEP. Convocatoria Interna: solo personal del organismo. Requisitos de cada cargo: sin datos (están en cada convocatoria; los PDF vistos no se pudieron leer).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Continuo según vacantes; la página en sí no lista convocatorias abiertas ni cierres (sin datos). La subpágina de convocatorias SINEP muestra 4 llamados 'Convocatoria Abierta' de Ciencia y Técnica (INA 26, IGN 39, SMN 73, SEGEMAR 105 = 243 cargos), sin fechas de cierre; el PDF del INA lleva '05-04-2022' en el nombre, lo que sugiere que son llamados viejos.
+  - Como postular: https://concursar.miportal.gob.ar/
+  - Lectura automatica posible: No se vio API ni feed; los llamados están en PDF.
+  - Aclaracion: No se confirmó que los 243 cargos de Ciencia y Técnica sigan vigentes: no hay fecha de cierre y el PDF del INA lleva '05-04-2022' en el nombre.
+  - Aclaracion: Esos cuatro llamados no deben considerarse abiertos sin revisar el PDF de cada uno.
+  - Aclaracion: La postulación se hace por el portal Concursar.

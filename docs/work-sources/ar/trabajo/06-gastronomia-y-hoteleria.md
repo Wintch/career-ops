@@ -1,0 +1,96 @@
+# Gastronomia y hoteleria
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Acciones de Entrenamiento para el Trabajo (EPT)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/acciones-de-entrenamiento-para-el-trabajo-ept
+  - Que es: Desocupados mayores de 18 años que participan de programas nacionales (Fomentar, Volver al Trabajo, Progresar) y empresas de cualquier tamaño que los entrenan en el puesto (restaurantes, hoteles, etc. pueden ofrecer entrenamientos).
+  - Requisitos: Mayores de 18 años, desocupados, que participen en programas nacionales: programas de la Secretaría de Trabajo, FOMENTAR, Volver al TRABAJO o PROGRESAR. Hay que cargar la historia laboral en el Portal Empleo antes de postularse. No se pide experiencia previa en la página. Documentación: no se detalla.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Asignación mensual no remunerativa. Según el tamaño de la empresa: micro hasta $190.000 del Estado; pequeña y mediana $160.000 Estado + $30.000 empresa; grande $105.000 Estado + $85.000 empresa (sin fecha en la página). Contacto: 0800-222-2220, consultas@trabajo.gob.ar, portalempleo@trabajo.gob.ar
+  - Plazo o ciclo: Sin fecha de cierre visible; la página no indica ciclo ni plazos. Vía abierta a través del Portal Empleo (la afirmación 'abierto todo el año' no está explícita en la página).
+  - Como postular: https://www.argentina.gob.ar/trabajo/acciones-de-entrenamiento-para-el-trabajo-ept
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los montos de la asignación no tienen fecha en la página, por lo que pueden estar desactualizados.
+  - Aclaracion: Se trata de un convenio de entrenamiento sin relación laboral; si la empresa luego contrata, accede a un beneficio de inserción laboral.
+  - Aclaracion: La página no declara estado vigente ni fechas; la vía de postulación permanente es el Portal Empleo.
+- **Accor – Empleos (hoteles en Argentina)** (abierta o vigente, verificada 2 veces) https://careers.accor.com/jobs
+  - Que es: Postulantes a puestos de hotel (recepción, alimentos y bebidas, housekeeping, etc.) y corporativos en Argentina.
+  - Requisitos: Varían por vacante. El portal tiene filtro por nivel de experiencia; no se declara experiencia mínima general.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (portal de búsqueda continua; sin fecha de cierre general). Cada vacante tiene su propio aviso.
+  - Como postular: https://careers.accor.com/jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El listado sin filtrar muestra avisos de otros países; el filtro de ubicación indica Argentina con 15 vacantes, 3 de ellas en Buenos Aires.
+  - Aclaracion: Conviene aplicar el filtro de país para ver las vacantes argentinas.
+  - Aclaracion: Se postula con el botón Apply de cada aviso, y el filtro de nivel de experiencia ayuda a buscar puestos de entrada.
+- **Marriott International – Empleos (Argentina)** (abierta o vigente, verificada 2 veces) https://careers.marriott.com/jobs
+  - Que es: Postulantes a puestos de hotel y corporativos; el sitio tiene una sección de carreras de hotel y otra para primer empleo (Early Careers).
+  - Requisitos: Varían por vacante; no se declaran en la página principal.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (portal de búsqueda continua; sin fecha de cierre general). Cada vacante tiene su propio aviso.
+  - Como postular: https://careers.marriott.com/jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El listado sin filtrar muestra vacantes de otros países; el filtro de país indica Argentina con 11 vacantes.
+  - Aclaracion: El sitio tiene una sección de primer empleo (Early Careers).
+  - Aclaracion: Cada aviso tiene un enlace View Job, y My Job Page permite iniciar sesión.
+- **Alsea – Empleos (Starbucks y Burger King)** (abierta o vigente, verificada 1 vez) https://empleos.alsea.net/SUDAMERICA
+  - Que es: Personal de salón, barista, cocina y gestión en cafeterías y comida rápida de las marcas del grupo. No confirmé si el sitio cubre Argentina.
+  - Requisitos: Varía por puesto. Para salón/atención en Burger King, una nota de prensa (iProfesional, 25/04/2026) indica que no piden muchas exigencias académicas; hay evaluaciones online de un solo intento. Edad y documentación: sin datos. Puestos de oficina piden estudios avanzados y experiencia (por ej. 2 años).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (portal de reclutamiento continuo; no vi fecha de cierre)
+  - Como postular: https://alsea.hiringroom.com/jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El selector de región del portal incluye un botón de Argentina que lleva a alsea.hiringroom.com/jobs.
+  - Aclaracion: El listado se muestra solo con JavaScript, por lo que no se confirmaron vacantes vigentes ni fechas al 23/11/2026.
+  - Aclaracion: La ruta de postulación abierta está confirmada.
+- **Alvear Palace Hotel (contacto para postularse)** (abierta o vigente, verificada 2 veces) https://www.alvearpalace.com/contacto-alvear-palace-hotel/
+  - Que es: Hotel de lujo en Recoleta, Buenos Aires. Interesa a quien quiera entrar a un hotel 5 estrellas (servicio de salón, cocina, recepción).
+  - Requisitos: sin datos. No hay página de empleos ni requisitos publicados; solo un correo de Recursos Humanos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin búsquedas publicadas ni fechas. Solo figura el correo de Recursos Humanos busquedas@alvear.com.ar.
+  - Como postular: mailto:busquedas@alvear.com.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página de contacto oficial lista un único correo de Recursos Humanos (busquedas@alvear.com.ar) y no tiene sección de carreras, formulario de CV ni opción de postulación.
+  - Aclaracion: El envío espontáneo de CV a ese correo es una inferencia razonable, no algo que la página afirme, y tampoco indica que sea todo el año.
+  - Aclaracion: El correo de reservas no es para postularse, y la ruta espontánea no garantiza vacante.
+- **UTHGRA – Capacitación y formación profesional** (sin verificar, verificada 1 vez) https://www.uthgra.org.ar/secretarias/capacitacion/
+  - Que es: Trabajadores del sector y personas que quieren entrar a hotelería y gastronomía. Hay convenios con el Ministerio de Trabajo, la Secretaría de Turismo, UTN y UAI. El sindicato administra sus propias escuelas e institutos.
+  - Requisitos: No figuran; consultar a la seccional.
+  - Pago o beneficio: sin datos. Contacto: Casa Central, Av. de Mayo 930, CABA; +54 11 4341 8020 / 0800 222 8855
+  - Plazo o ciclo: sin datos
+  - Como postular: http://www.uthgra.org.ar/seccionales
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una oferta de capacitación y no de empleo.
+  - Aclaracion: La página no lista cursos concretos, requisitos, costos ni fechas.
+  - Aclaracion: Para consultas locales hay una página de seccionales.
+- **FEHGRA – Capacitación y formación profesional / FEHGRA Educa** (sin verificar, verificada 1 vez) https://fehgra.org.ar/capacitacion-y-formacion-profesional
+  - Que es: Personal y empresarios del sector hotelero y gastronómico. FEHGRA Educa ofrece cursos 100% online y autogestionados para miembros de sus asociaciones.
+  - Requisitos: No figuran. Los videos y manuales se pueden ver o descargar en el sitio sin requisitos declarados.
+  - Pago o beneficio: Videos y manuales gratuitos; el costo de cursos sin datos. Contacto: +54 11 4822-7733, Larrea 1250, CABA
+  - Plazo o ciclo: sin datos
+  - Como postular: informes@fehgra.org.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una oferta de capacitación y no de empleo.
+  - Aclaracion: Ofrece videos de inducción gratuitos (limpieza de habitaciones, servicio de salón, recepción y conserjería, manipulación de alimentos, atención al cliente) y manuales descargables en PDF.
+  - Aclaracion: No hay requisitos, inscripción, costos ni fechas de cursos, y el banner 'bases y reglamento 2026' no está explicado.
+- **Arcos Dorados (McDonald's) – Trabaja con nosotros** (sin verificar, verificada 1 vez) https://arcosdorados.com/trabaja-con-nosotros/
+  - Que es: Personas que buscan su primer empleo formal en comida rápida (salón, mostrador, cocina). La empresa dice que más del 53% de sus más de 100.000 colaboradores tiene entre 16 y 24 años y que para muchos es su primera experiencia formal.
+  - Requisitos: No figuran en la página consultada (el dato de primer empleo sugiere que no se exige experiencia, pero no está declarado como requisito).
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (la página no muestra ni vacantes ni cierres; la afirmación 'abierto todo el año' no está en la página)
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no describe cómo postularse en Argentina ni tiene enlace de postulación: solo remite al sitio de McDonald's Argentina y a un portal de contacto general.
+  - Aclaracion: La afirmación de que esté abierto todo el año no figura en la página.
+  - Aclaracion: El canal concreto de postulación queda sin confirmar.
+- **Computrabajo Argentina – Empleos de mozo** (sin verificar, verificada 1 vez) https://ar.computrabajo.com/trabajo-de-mozo
+  - Que es: Bolsa de empleo con avisos de mozo/a y otros puestos de gastronomía de empleadores y consultoras en todo el país. Es una de las rutas habituales para este rubro, pero no pude ver su contenido.
+  - Requisitos: sin datos. Cada aviso define los suyos; suele pedirse crear un perfil/cuenta para postularse (no confirmado).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no pude ver avisos con fecha)
+  - Como postular: https://ar.computrabajo.com/trabajo-de-mozo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se pudo confirmar la cantidad de avisos, las fechas ni la forma de postulación.
+  - Aclaracion: Es un portal general de empleo, útil para gastronomía, cuya vigencia debe comprobarse a mano.

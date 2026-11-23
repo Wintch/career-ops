@@ -1,0 +1,56 @@
+# Grupo 35: Tecnicos de la tecnologia de la informacion y las comunicaciones
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **UTN Facultad Regional Buenos Aires - Desarrollo Profesional (bolsa de trabajo y pasantías)** (abierta o vigente, verificada 2 veces) https://frba.utn.edu.ar/estudiantes/adp/
+  - Que es: Estudiantes de la UTN FRBA que buscan empleo o pasantías; la página no aclara si los graduados pueden usarla.
+  - Requisitos: No se detallan más allá de registrarse con datos básicos. No se vio exigencia de experiencia previa; la página habla de primera experiencia laboral. Elegibilidad (si se limita a la comunidad UTN): sin datos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: registro permanente en la plataforma de la bolsa de trabajo; sin fechas de cierre visibles.
+  - Como postular: https://utnba.talentia.com/portal/home
+  - Lectura automatica posible: none
+  - Aclaracion: La página no aclara si la bolsa se limita a estudiantes y graduados de la UTN.
+  - Aclaracion: La página no lista búsquedas concretas, fechas ni sueldos.
+- **ENACOM - Certificado de Operador de Telecomunicaciones** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.enacom.gob.ar/certificado-de-operadores-de-telecomunicaciones_p834
+  - Que es: Personas que operan estaciones de radio en servicios terrestres fijos y móviles, satelitales, aeronáuticos y marítimos, y quienes aspiran a trabajar como operadores de telecomunicaciones.
+  - Requisitos: Tener 18 años (17 con autorización jurada de padres para Radiotelefonista Restringido VHF); estudios primarios legalizados para la mayoría de las categorías (secundarios para una); DNI y CUIT/CUIL; certificado de aptitud psicofísica (se acepta CMA de ANAC o libreta de embarque); foto 4x4 fondo celeste (.jpg); formulario F17; aprobar los cursos o exámenes de la categoría; sin antecedentes desfavorables en ENACOM. No se exige experiencia ni título universitario.
+  - Pago o beneficio: No es un empleo. Aranceles informados en la página oficial: examen $400 por otorgamiento y $500 por derecho de examen (en pesos, sin año de actualización visto).
+  - Plazo o ciclo: Sin calendario ni plazos publicados en la página; trámite por TAD sin fechas visibles.
+  - Como postular: https://www.tramitesadistancia.gob.ar
+  - Lectura automatica posible: none
+  - Aclaracion: Es un certificado habilitante, no un empleo ni un programa de empleo.
+  - Aclaracion: Se obtiene por dos vías: curso en una institución autorizada o examen libre de Operador Radiotelefonista Restringido.
+  - Aclaracion: No se confirmó que las fechas del examen libre se asignen tras la preinscripción ni el plazo de otorgamiento del certificado.
+  - Aclaracion: Los aranceles figuran sin año de actualización.
+- **Stefanini LATAM - portal de empleos (Gupy)** (sin verificar, verificada 1 vez) https://stefaninilatam.gupy.io/
+  - Que es: Postulantes a puestos de soporte, infraestructura, monitoreo y operaciones de telecomunicaciones para clientes de la región. Hay opción de banco de talentos.
+  - Requisitos: sin datos (no se vieron en el listado; figurarían en cada aviso).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos; el portal muestra vacantes continuas y un banco de talentos sin fecha de cierre.
+  - Como postular: https://stefaninilatam.gupy.io/
+  - Lectura automatica posible: none
+  - Aclaracion: El portal muestra 159 vacantes en 16 páginas, pero las 10 de la primera página no están en Argentina.
+  - Aclaracion: No se confirmó ninguna vacante para Argentina ni que el banco de talentos cubra Argentina.
+  - Aclaracion: No se vieron fechas de publicación ni de cierre.
+- **Accenture Argentina - búsqueda de empleo** (sin verificar, verificada 1 vez) https://www.accenture.com/ar-es/careers/jobsearch
+  - Que es: Postulantes a puestos de tecnología y consultoría; el sitio tiene una sección para personas que recién empiezan su carrera.
+  - Requisitos: sin datos (la página solo incluye una declaración de igualdad de oportunidades).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos; empleador con contratación continua, pero al 2026-11-23 la página no mostró vacantes.
+  - Como postular: sin datos (la página enlaza al portal Workday de Accenture, enlace exacto no visto)
+  - Lectura automatica posible: none
+  - Aclaracion: El buscador no mostró vacantes al consultarse, aunque no se descarta que haya avisos con otros criterios.
+  - Aclaracion: La postulación enlaza al portal Workday de Accenture.
+  - Aclaracion: No se confirmó convocatoria abierta ni ciclo.
+- **CESSI - Perfiles IT (descripción de puestos de la industria del software)** (sin verificar, verificada 1 vez) https://cessi.org.ar/perfiles-it/
+  - Que es: Personas que quieren conocer qué hace cada puesto de la industria IT antes de elegir formación o postular; incluye el perfil de Soporte Técnico.
+  - Requisitos: No se vieron requisitos en la página principal; el detalle por perfil no se leyó.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: No aplica: es un documento informativo, no una convocatoria; no se vio fecha de actualización (el pie muestra 2022).
+  - Como postular: sin datos (no hay postulación)
+  - Lectura automatica posible: none
+  - Aclaracion: Es un documento informativo sobre perfiles de puestos, no una convocatoria ni una fuente de empleo o de formación.
+  - Aclaracion: No ofrece vía de postulación: los llamados a la acción invitan a empresas a asociarse a CESSI.
+  - Aclaracion: El pie de la página muestra 2022 y no se vio fecha de actualización.

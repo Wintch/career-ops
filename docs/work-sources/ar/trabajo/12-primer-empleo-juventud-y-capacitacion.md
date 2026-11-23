@@ -1,0 +1,97 @@
+# Primer empleo, juventud y capacitacion
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Provincia de Buenos Aires - IPFL, Centros de Formación Laboral (cursos de oficios gratuitos)** (abierta o vigente, verificada 2 veces) http://www.trabajo.gba.gov.ar/ipfl/
+  - Que es: Cualquier persona interesada en aprender un oficio; la red tiene 223 Centros de Formación Laboral junto a sindicatos, municipios, cámaras y organizaciones.
+  - Requisitos: sin datos (la página no publica edad ni documentación; se ven en el detalle de cada curso). Los cursos son gratuitos y no se vio un requisito de experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Cursos y trayectos gratuitos con reconocimiento oficial; sin ayuda económica informada.
+  - Plazo o ciclo: Oferta continua. El buscador de cursos mostraba cursos con fecha 23/11/2026; cada curso trae su propio calendario y su preinscripción.
+  - Como postular: http://cursosipfl.trabajo.gba.gob.ar/
+  - Lectura automatica posible: none (buscador de cursos dentro del sitio)
+  - Aclaracion: Es solo para la Provincia de Buenos Aires.
+  - Aclaracion: Los requisitos de edad y documentación se consultan en cada curso o en la página de contacto.
+  - Aclaracion: La portada no muestra fechas de cursos; el buscador oficial está en cursosipfl.trabajo.gba.gob.ar y la preinscripción figura en el detalle de cada curso.
+- **Provincia de Buenos Aires - Servicio Bonaerense de Empleo (SBE)** (abierta o vigente, verificada 2 veces) https://www.trabajo.gba.gov.ar/sbe/
+  - Que es: Trabajadores, empleadores y emprendedores de la Provincia de Buenos Aires; red de intermediación laboral con acceso a formación para el trabajo.
+  - Requisitos: No se informan requisitos de edad, documentos ni residencia en la portada. Para ingresar se usa el CUIL. El instructivo para trabajadores (PDF) debería detallarlos, pero no se abrió. No se vio ningún requisito de experiencia ni de título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos. Es un servicio de intermediación laboral gratuito; el sueldo depende de cada aviso.
+  - Plazo o ciclo: Sin fechas ni plazos en la página; acceso por login de trabajador/a en trabajo.gba.gov.ar/Delegaciones/RegistroEmpleo.
+  - Como postular: https://www.trabajo.gba.gov.ar/Delegaciones/RegistroEmpleo/Account/Login
+  - Lectura automatica posible: none
+  - Aclaracion: La portada no informa requisitos, fechas ni elegibilidad; esos datos podrían estar en el instructivo en PDF, que no pudo consultarse.
+  - Aclaracion: Que el registro sea permanente o esté abierto todo el año es una inferencia, no un dato publicado.
+  - Aclaracion: El ingreso de trabajadores es con CUIL y contraseña, con enlace para registrarse.
+  - Aclaracion: Contacto: 0800-666-2187 y asesoramientoempleo@trabajo.gba.gob.ar.
+- **Becas Progresar (Obligatorio, Superior y Formación Profesional)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/educacion/progresar
+  - Que es: Jóvenes que terminan el secundario o la primaria (16 a 24), cursan estudios superiores (ingresantes 17 a 24, avanzados hasta 30, sin límite en Enfermería) o hacen un curso de formación profesional (18 a 24, hasta 35 si no tienen trabajo formal registrado).
+  - Requisitos: Ciudadano argentino nativo o por opción, o extranjero con 2 años de residencia legal, y tener DNI. Edad de 18 a 24 años, con tope de 35 para quienes no tienen trabajo formal registrado. Los ingresos propios y del grupo familiar no pueden superar 3 veces el Salario Mínimo, Vital y Móvil (no cuentan las pensiones no contributivas por discapacidad). Para Formación Profesional hay que cursar una formación o trayecto validado por el INET y considerado estratégico por el CoNETyP. Requisitos de Obligatorio y Superior: no verificados.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Monto de la beca: sin datos. Ninguna de las páginas consultadas lo informa; la portada remite a la página de cronograma de pagos y monto (https://www.argentina.gob.ar/educacion/progresar/cronograma), que no se abrió.
+  - Plazo o ciclo: Convocatoria anual. La portada muestra Formación Profesional abierta hasta el 27 de noviembre, Obligatorio cerrada el 4 de septiembre y Superior cerrada el 11 de septiembre. La página no indica el año; el nombre del sitio de inscripción (becasprogresar26) sugiere 2026.
+  - Como postular: https://becasprogresar26.educacion.gob.ar
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: El sitio de inscripción solo mostró una pantalla de inicio de sesión, sin fechas.
+  - Aclaracion: No se pudo confirmar el año de la convocatoria ni el monto de la beca.
+  - Aclaracion: Las líneas Obligatorio y Superior están cerradas; no está confirmado que se repitan el año próximo.
+- **Guía Preparate para tu presentación (primer CV y entrevista)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/preparate
+  - Que es: Personas que buscan trabajo, incluidas las que no tienen experiencia.
+  - Requisitos: Ninguno. Sirve para quien no tiene experiencia: explica cómo definir el perfil laboral, qué secciones lleva un CV (formatos cronológico y funcional) y errores comunes, estrategia de búsqueda, tipos de entrevista y qué llevar, y derechos laborales (recibo de sueldo, vacaciones, aguinaldo, ART, asignaciones familiares).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito. Es una guía de orientación, no un empleo ni una beca.
+  - Plazo o ciclo: Contenido permanente, de lectura libre. La página no tiene fecha de publicación ni de actualización.
+  - Como postular: https://www.argentina.gob.ar/trabajo/preparate
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La guía remite a Portal Empleo para generar un CV automáticamente.
+  - Aclaracion: Algunos modelos de CV enlazados parecen datar de 2020, por lo que conviene verificar enlaces y datos de contacto antes de usarlos.
+- **Techint - Programa de Jóvenes Profesionales** (abierta o vigente, verificada 2 veces) https://www.techint.com/es/carreras/jovenes-talentos
+  - Que es: Estudiantes universitarios, según la página de carreras. La página informa que más de 3.500 personas participaron desde 1983.
+  - Requisitos: Dirigido a graduados universitarios. La página no lista otros requisitos; cada búsqueda detalla los suyos. No apto para quien no tiene título universitario.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto con búsquedas activas. En la bolsa de graduados se vieron 5 búsquedas en Argentina publicadas entre el 26/10/2026 y el 12/11/2026. Sin fecha de cierre ni ciclo anual visibles.
+  - Como postular: https://careers.techint.com/go/Graduados-Universitarios/3010100/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página corresponde a Techint Ingeniería y Construcción (graduados) y habla de estudiantes, aunque los requisitos apuntan a graduados universitarios.
+  - Aclaracion: Se postula cargando el CV en el portal de empleo del grupo.
+  - Aclaracion: Búsquedas vistas: Control Sr. Analyst (Holding, Buenos Aires), Engineering Analyst y Maintenance Analyst (Tenaris, Campana) y Buyer (Exiros, Campana).
+- **Techint Ingeniería y Construcción - Supervisores y técnicos** (abierta o vigente, verificada 2 veces) https://www.techint.com/es/carreras/supervisores-y-tecnicos
+  - Que es: Personas con experiencia en soldadura, electricidad, mecánica, operación de equipos, instrumentación, montaje o construcción.
+  - Requisitos: Se pide experiencia en soldadura, electricidad, mecánica, operación de equipos, instrumentación, montaje o construcción. No se informan otros requisitos. No es una opción para quien no tiene experiencia en esos oficios.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fecha de cierre ni indicación de apertura permanente. Se pide experiencia en soldadura, electricidad, mecánica, operación de equipos, instrumentación, montaje o construcción. El proceso es gratuito y la empresa declara que nunca solicita dinero ni claves.
+  - Como postular: https://wa.me/5491171136985
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Se postula registrando el perfil por el asistente virtual de WhatsApp; el equipo contacta cuando el perfil coincide con una búsqueda activa.
+  - Aclaracion: No figura fecha de cierre visible ni lista de países.
+- **Promoción del Empleo en Formación (EPT y PIL, Provincia de Buenos Aires)** (sin verificar, verificada 1 vez) https://www.trabajo.gba.gov.ar/ipfl/content/promoci%C3%B3n-del-empleo-en-formaci%C3%B3n
+  - Que es: Egresados de cursos de formación profesional y técnica de la Provincia que van a una práctica en empresa (Entrenamiento para el Trabajo) o son contratados con incentivo (Inserción Laboral).
+  - Requisitos: Dirigido a egresados de la formación profesional y técnica de la provincia de Buenos Aires. Edad y demás requisitos: no figuran en la página; podrían estar en los PDF de preguntas frecuentes de EPT y PIL que enlaza. El EPT permite hacer entrenamiento en empresas; el PIL permite ser contratado por empresas que reciben incentivos.
+  - Pago o beneficio: La página provincial no informa montos. Los valores de los programas nacionales (https://www.argentina.gob.ar/trabajo/fomentarempleo/montos-de-las-prestaciones-del-programa-fomentar-empleo), que no tienen fecha de vigencia, indican hasta $190.000 de ayuda económica para participantes del EPT y aportes mensuales por contratación para el PIL. Pueden estar desactualizados.
+  - Plazo o ciclo: sin datos. La página no dice si hay convocatoria abierta ni informa fechas.
+  - Como postular: https://www.trabajo.gba.gov.ar/ipfl/content/promoci%C3%B3n-del-empleo-en-formaci%C3%B3n
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: El trámite lo inician las empresas y los CFL con asesoramiento de las Oficinas de Empleo municipales y las Agencias Territoriales; la página no describe un procedimiento de postulación individual.
+  - Aclaracion: Contacto: formacionparaeltrabajo@trabajo.gba.gov.ar y (0221) 427-5469, internos 113 o 116.
+- **INET - Formación Profesional: catálogo de instituciones y certificaciones** (sin verificar, verificada 1 vez) https://www.inet.edu.ar/index.php/niveles-educativos/formacion-profesional/
+  - Que es: Quien busque una formación profesional reconocida. El INET coordina la política nacional de educación técnico profesional con las provincias y la Ciudad de Buenos Aires.
+  - Requisitos: La página no indica requisitos de edad ni de estudios. Aclara que la formación profesional admite trayectos de ingreso distintos de los de la educación formal.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Permanente (página institucional, sin fechas ni convocatorias)
+  - Como postular: sin datos
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página solo describe qué es la formación profesional: no lista instituciones, no enlaza el registro de instituciones ni el catálogo de títulos y certificaciones, y no permite inscribirse.
+  - Aclaracion: Sirve como referencia conceptual, no como lugar donde postularse.
+- **FAECYS - Capacitación y terminalidad secundaria (empleados de comercio)** (sin verificar, verificada 1 vez) https://www.faecys.org.ar
+  - Que es: Trabajadores del comercio y sus familias. Hay convenios de terminalidad secundaria y de capacitación con gobiernos provinciales.
+  - Requisitos: No se pudo verificar. La página no aclara si los programas se limitan a empleados de comercio o afiliados, ni informa costo, edad o documentación.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se vieron fechas ni convocatorias)
+  - Como postular: sin datos
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Los convenios de terminalidad secundaria y de capacitación mencionados no describen quién puede acceder ni cómo inscribirse.
+  - Aclaracion: No hay evidencia de oferta abierta para personas ajenas al gremio.
+  - Aclaracion: Contacto: (011) 4345-8145/50.

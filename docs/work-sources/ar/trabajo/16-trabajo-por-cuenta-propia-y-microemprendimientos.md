@@ -1,0 +1,116 @@
+# Trabajo por cuenta propia y microemprendimientos
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Monotributo Social (inscripción, requisitos y beneficios)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/monotributo-social
+  - Que es: Trabajadores independientes en situación de vulnerabilidad, emprendedores de la economía social, titulares de programas sociales y pequeños productores. Es la vía principal para pasar de la actividad informal a una actividad registrada (puede emitir facturas).
+  - Requisitos: 18 años o más. Argentino nativo, naturalizado o por opción, o extranjero con residencia permanente o temporaria. Situación de vulnerabilidad social. Desarrollar o querer iniciar un emprendimiento. Una sola actividad económica independiente incluida en el nomenclador de ARCA. Ingresos solo de esa actividad, con excepciones como programas sociales, AUH, pensiones no contributivas, jubilaciones o trabajo en relación de dependencia por debajo del haber previsional mínimo. Hasta 2 inmuebles y hasta 3 bienes muebles registrables. No se pide experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es un empleo. La inscripción es gratuita; se paga solo el 50% del aporte a la obra social, y el Ministerio subsidia el otro 50%. Cubre aporte jubilatorio y obra social del titular y su familia, con exención de impuestos y componente previsional. Límite anual de facturación ligado a la categoría A del Monotributo.
+  - Plazo o ciclo: Abierto todo el año; la página no informa fechas ni plazos. Los metadatos mencionan un reempadronamiento sin detalle.
+  - Como postular: https://www.argentina.gob.ar/monotributo-social
+  - Lectura automatica posible: none (páginas HTML)
+  - Aclaracion: No pueden inscribirse profesionales universitarios que facturen honorarios por asesoramiento técnico, científico o pericial, empleadores, ni quienes tributen Bienes Personales o Ganancias.
+  - Aclaracion: La inscripción es en línea, por el servicio '¿Cómo adherirme al Monotributo Social?'.
+  - Aclaracion: El beneficio incluye exención de IVA y Ganancias, cobertura de salud y previsional para el titular y su familia, posibilidad de facturar y acceso al Portal Empleo.
+  - Aclaracion: Conviene confirmar el reempadronamiento en las preguntas frecuentes del sitio.
+- **INAES - Cómo constituir una cooperativa de trabajo** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/inaes/constitucion-de-cooperativas
+  - Que es: Grupos de personas que quieren formar una cooperativa de trabajo para generar su propio empleo registrado.
+  - Requisitos: Un grupo de personas que formen la cooperativa. Cada asociado tiene un CUIT. Capital inicial por asociado, con el salario mínimo como referencia histórica. Objeto social elegido de la lista del INAES. Auditoría externa de un contador público según la Ley 20.337. No se pide experiencia previa.
+  - Pago o beneficio: No es un empleo ni una ayuda. El trámite no tiene aranceles; los asociados cobran lo que genere la cooperativa.
+  - Plazo o ciclo: Trámite abierto todo el año, sin fechas de cierre.
+  - Como postular: https://www.argentina.gob.ar/inaes/constitucion-de-cooperativas
+  - Lectura automatica posible: none
+  - Aclaracion: La página no confirma de forma explícita que el trámite esté abierto todo el año.
+  - Aclaracion: Se inicia por Trámites a Distancia (TAD) o en mesa de entradas, y el trámite ya no tiene aranceles.
+  - Aclaracion: Los aportes de capital, la auditoría externa y la contabilidad son costos aparte.
+  - Aclaracion: La página no indica un mínimo de asociados.
+- **Monotributo (régimen simplificado, ARCA)** (abierta o vigente, verificada 2 veces) https://www.arca.gob.ar/monotributo/
+  - Que es: Pequeños contribuyentes que venden productos o prestan servicios por cuenta propia y quieren formalizarse.
+  - Requisitos: CUIT, clave fiscal y domicilio fiscal electrónico; alta de la actividad en ARCA. La categoría depende de ingresos brutos, superficie afectada, energía eléctrica consumida y alquileres devengados. No exige experiencia, título ni capital mínimo según lo visto; los límites por categoría están en la escala. No se vio un requisito de edad en la página.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No paga: es una obligación tributaria. Cuota mensual desde $49.527,18 (categoría A) hasta $1.614.446,04 (categoría K, servicios), con vigencia desde el 1/08/2026.
+  - Plazo o ciclo: Abierto todo el año. Pago mensual con vencimiento el día 20 (la página muestra NOV 20). Valores de la escala vigentes desde el 1/08/2026; la fecha de la próxima actualización no figura (sin datos).
+  - Como postular: https://www.arca.gob.ar/monotributo/
+  - Lectura automatica posible: ninguno visto (tabla HTML)
+  - Aclaracion: No es un empleo ni un pago: es una obligación tributaria mensual.
+  - Aclaracion: Los valores de la escala rigen desde el 1/08/2026 y la fecha de la próxima actualización no figura.
+  - Aclaracion: La página no aclara si los topes de ingresos de cada categoría son anuales.
+- **INAES: Programa de Asistencia Financiera (préstamos y subsidios)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/asistencia-financiera
+  - Que es: Cooperativas y mutuales ya constituidas (y, según la página de fomento, asociaciones civiles y entes locales) con proyectos productivos, de servicios, salud o fortalecimiento institucional.
+  - Requisitos: Ser cooperativa o mutual. Nota de solicitud firmada por presidente, secretario y órgano fiscalizador; proyecto según la guía de la Res. 1665/06; acta de consejo aprobando el pedido; garantías personales de los directivos; presupuestos oficiales; último balance aprobado; formulario de cuenta bancaria; presentaciones anuales al día. Para préstamos se agrega una garantía (de otra cooperativa o mutual con al menos un año, bancaria, prenda o hipoteca, o de sociedad de garantía recíproca o fondo provincial).
+  - Sin experiencia previa: no
+  - Pago o beneficio: Préstamo al 6% anual efectivo con bonificación del 50% por pago en término, o subsidio. Montos: sin datos.
+  - Plazo o ciclo: Ventanilla abierta, sin fecha de cierre ni convocatoria visible. La página no tiene fecha de actualización (sin datos).
+  - Como postular: https://www.argentina.gob.ar/asistencia-financiera
+  - Lectura automatica posible: ninguno visto
+  - Aclaracion: Solo pueden solicitarlo cooperativas y mutuales ya constituidas, no personas individuales.
+  - Aclaracion: El préstamo ofrece hasta 1 año de gracia y hasta 60 cuotas mensuales, en pesos.
+  - Aclaracion: Se presenta por Mesa de Entrada (Av. Belgrano 172, CABA); la página aclara que no hacen falta gestores.
+  - Aclaracion: Por la referencia a normas de 2015 y 2006, conviene confirmar las condiciones vigentes con el INAES.
+- **Banco de la Nación Argentina: créditos para microempresas y NacionEmprende** (abierta o vigente, verificada 2 veces) https://www.bna.com.ar/Empresas/Novedades/Microempresa
+  - Que es: Microemprendedores y microempresas.
+  - Requisitos: No figuran en la página (sin datos). Como todo crédito bancario, requiere evaluación y calificación del banco.
+  - Pago o beneficio: Crédito (se devuelve con interés). Montos y tasas: sin datos.
+  - Plazo o ciclo: Líneas permanentes, sin fecha de cierre. Montos, tasas y plazos: sin datos (no figuran en esta página).
+  - Como postular: https://www.bna.com.ar/NacionEmprende/Identificacion
+  - Lectura automatica posible: ninguno visto
+  - Aclaracion: Son cuatro líneas (microempresas, comercios, créditos online con aval de Garantizar Digital y con garantía digital de BIND) y las condiciones vigentes de cada una no están confirmadas.
+  - Aclaracion: Es crédito bancario sujeto a calificación crediticia, no un subsidio.
+  - Aclaracion: El contacto se solicita en https://www.bna.com.ar/NacionEmprende/Identificacion, en sucursales o al Centro de Atención al Cliente 0810-666-4444.
+- **Banco de la Nación Argentina: créditos para pymes y comercios (BNA+ Empresas, Comercios BNA+)** (abierta o vigente, verificada 2 veces) https://www.bna.com.ar/Empresas/Pymes/Creditos
+  - Que es: Micro, pequeñas y medianas empresas de todos los sectores (no es una línea para personas sin actividad registrada).
+  - Requisitos: Ser pyme con calificación crediticia en la mayoría de las líneas; Pellegrini Mi Banco exige además ser cliente BNA+ Empresas y Mi Banco; Comercios BNA+ exige estar registrado como comercio en el sistema de tarjetas. La calificación se pide en línea. No es una opción para quien no tiene actividad ni empresa constituida.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Crédito (se devuelve con interés). Hasta $100.000.000 (BNA+ Empresas online), hasta $300.000.000 (Pellegrini Mi Banco), hasta $40.000.000 (Comercios BNA+). Tasas: sin datos.
+  - Plazo o ciclo: Líneas permanentes, sin fecha de inicio o cierre en la página. El banco advierte que las condiciones pueden modificarse unilateralmente.
+  - Como postular: https://digital.bna.com.ar
+  - Lectura automatica posible: ninguno visto
+  - Aclaracion: Es crédito bancario, no un subsidio, y no es una línea para personas sin actividad registrada ni empresa constituida.
+  - Aclaracion: La página no publica tasas numéricas.
+  - Aclaracion: El banco advierte que las condiciones pueden modificarse unilateralmente.
+  - Aclaracion: Para la bonificación de Comercios BNA+ se requiere cuenta Comercios BNA+, Nación Pyme, Nación Campo o Nación Empresa y adhesión a +Pagos Nación.
+- **CFI (Consejo Federal de Inversiones): líneas de financiamiento** (abierta o vigente, verificada 2 veces) https://www.cfi.org.ar/creditos
+  - Que es: Proyectos productivos e inversiones en las provincias; MiPyMEs (explícitamente las lideradas por mujeres en una línea). Si acepta personas físicas o emprendedores individuales: sin datos.
+  - Requisitos: No detallados en la página (sin datos). Orientado a pymes y proyectos productivos; la UEP de cada provincia informa las condiciones.
+  - Pago o beneficio: Crédito. Montos y tasas: sin datos.
+  - Plazo o ciclo: Líneas permanentes con trámite por la Unidad de Enlace Provincial (UEP) de cada provincia. No se vio fecha de cierre. Única convocatoria con nombre en la página: becas Fulbright-CFI de maestría en EE. UU. 2027-2028, sin fecha de cierre visible, ajena al financiamiento.
+  - Como postular: https://www.cfi.org.ar/creditos
+  - Lectura automatica posible: ninguno visto
+  - Aclaracion: Está orientado a proyectos productivos y pymes, no a personas que buscan su primer empleo.
+  - Aclaracion: Se solicita ante la Unidad de Enlace Provincial (UEP) de cada provincia o mediante el formulario en línea.
+  - Aclaracion: La página no informa montos, tasas ni requisitos detallados, ni aclara si acepta personas físicas.
+- **Tienda Nube (tienda online para emprendedores)** (abierta o vigente, verificada 2 veces) https://www.tiendanube.com/ar
+  - Que es: Emprendedores y pequeños comercios que quieran vender por internet, redes sociales, WhatsApp o punto de venta propio.
+  - Requisitos: La página no indica requisitos para abrir una tienda. No se vio mención de experiencia, título ni edad.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No paga: cuesta. Plan Inicial gratis; planes pagos desde $27.999 por mes (precios del 2026-11-23).
+  - Plazo o ciclo: Abierto todo el año (plataforma permanente; no hay convocatoria ni fecha límite)
+  - Como postular: https://www.tiendanube.com/ar (botón «Creá su tienda gratis»)
+  - Lectura automatica posible: ninguno visto
+  - Aclaracion: Es una plataforma de comercio electrónico para armar una tienda propia, no una oferta de empleo.
+  - Aclaracion: Planes al 2026-11-23: Inicial gratis, Esencial $27.999/mes, Impulso $79.999/mes y Escala $244.999/mes; los precios pueden cambiar.
+  - Aclaracion: Pagando por año figura un 25% de descuento, y los planes Esencial, Impulso y Escala tienen 7 días de prueba gratis.
+- **INAES - Oferta de cursos y formaciones gratuitas para cooperativas y mutuales** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/oferta-de-cursos-y-formaciones
+  - Que es: Integrantes de cooperativas y mutuales o personas interesadas en el asociativismo y la economía social.
+  - Requisitos: Solo completar el formulario de inscripción. Gratuito, sin otro requisito. No se pide experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Cursos gratuitos, sin ayuda económica. Entregan certificado de participación (los asincrónicos, con carga horaria).
+  - Plazo o ciclo: Agenda octubre-diciembre 2026: última sesión sincrónica el lunes 30/11 a las 13 h; último cierre de campus el lunes 7/12 (el año no figura escrito en la página).
+  - Como postular: https://forms.gle/5RfaP7UsFyguNcR87
+  - Lectura automatica posible: none
+  - Aclaracion: La agenda cubre de octubre a diciembre de 2026 y es trimestral, no mensual; el año no figura escrito en la página.
+  - Aclaracion: Los formatos son presencial en el auditorio del INAES (Av. Belgrano 172, CABA), virtual en vivo por Google Meet y autogestionado en el campus del INAES.
+  - Aclaracion: La inscripción se hace con un único formulario de Google.
+- **Emprendimientos en actividad (formalización de trabajadores por cuenta propia)** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/capital-humano/trabajo/emprendimientos-en-actividad
+  - Que es: Trabajadores que realizan una actividad económica por cuenta propia y no están formalizados.
+  - Requisitos: Trabajar por cuenta propia sin estar formalizado. Los demás requisitos (edad, documentación, residencia, experiencia) no figuran en la página (sin datos).
+  - Pago o beneficio: Subsidio para formalizar trabajadores; monto: sin datos.
+  - Plazo o ciclo: sin datos. La página no muestra fecha de publicación, convocatoria ni cierre. No se pudo confirmar que el programa siga vigente.
+  - Como postular: sin datos
+  - Lectura automatica posible: ninguno visto
+  - Aclaracion: No se pudo confirmar que el programa siga vigente.
+  - Aclaracion: La página no indica requisitos, montos, lugar de inscripción ni fechas.
+  - Aclaracion: Incluye asistencia técnica, asistencia económica (subsidio que aumenta a medida que se formalizan más trabajadores) y apoyo a la comercialización.
+  - Aclaracion: Conviene consultar directamente al Ministerio de Capital Humano antes de contar con el programa.

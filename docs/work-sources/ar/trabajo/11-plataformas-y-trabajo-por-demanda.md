@@ -1,0 +1,105 @@
+# Plataformas y trabajo por demanda
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **PedidosYa Riders (repartidores)** (abierta o vigente, verificada 2 veces) https://repartosya.com.ar
+  - Que es: Cualquier persona mayor de 18 que quiera repartir en bicicleta, moto o auto, en la ciudad y zona que elija. No pide experiencia previa.
+  - Requisitos: Ser mayor de 18 años; DNI argentino o certificado de residencia precaria; cuenta bancaria con CBU a nombre propio; bicicleta, moto o auto. Sin experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Cobro semanal, con adelantos diarios en efectivo. No publica montos.
+  - Plazo o ciclo: abierto todo el año (inscripción continua desde la app PeyaRider)
+  - Como postular: https://repartosya.com.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es trabajo por cuenta propia, no relación de dependencia.
+  - Aclaracion: La página no afirma de forma explícita que la inscripción sea continua todo el año.
+  - Aclaracion: El botón 'Registrate acá' tiene un destino no visible en el texto.
+- **Uber Eats, repartir con bicicleta, moto o auto** (abierta o vigente, verificada 2 veces) https://www.uber.com/ar/es/drive/delivery
+  - Que es: Personas que quieran repartir comida o paquetes, sin necesidad de auto: se puede en bicicleta, moto o auto.
+  - Requisitos: No se indica edad mínima en la página. Documentos del conductor y del vehículo (bicicleta, moto o auto) al día, sin detalle de cuáles, y datos bancarios. Sin experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Pago por entrega completada más propinas opcionales; retiro semanal. Suscripción semanal de ARS 989,42 para recibir pedidos. No publica montos de ganancias.
+  - Plazo o ciclo: abierto todo el año (alta desde la app Uber Driver)
+  - Como postular: https://drivers.uber.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Registrarse es gratis, pero hay una suscripción semanal de ARS 989,42 para recibir pedidos (monto visto el 2026-11-23, sujeto a cambios).
+  - Aclaracion: La información de la página es orientativa y puede no aplicar a todas las ciudades o regiones; no se confirmó la cobertura por ciudad.
+  - Aclaracion: La página no lista los documentos exactos requeridos.
+- **DiDi Argentina, socio conductor** (abierta o vigente, verificada 2 veces) https://web.didiglobal.com/ar/conductor/requisitos-para-conducir/
+  - Que es: Conductores con auto (4 ruedas) o moto (2 ruedas). Modalidades Express, Fleet, Pon su Precio y Taxi. El menú menciona DiDi Moto.
+  - Requisitos: Conductor con auto propio: licencia de conducir, cédula del vehículo y seguro; auto 2004 o más nuevo. Conductor sin vehículo: solo licencia. Moto: licencia, cédula y seguro; moto 2012 o más nueva y 100 cc o más. Taxi: licencia, certificado de antecedentes penales, cédula, seguro y licencia de taxímetro; vehículo 2009 o más nuevo. Socio flotilla: DNI más cédula y seguro de cada auto.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Comisiones bajas y pagos semanales según la página. No publica montos.
+  - Plazo o ciclo: abierto todo el año (registro online; activación en 24 a 72 horas)
+  - Como postular: https://page.didiglobal.com/global/silver-bullet-online/didi-dvr-ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los requisitos de vehículo varían por modalidad: auto 2004 o más nuevo, taxi 2009 o más nuevo, moto 2012 o más nueva y de 100 cc o más.
+  - Aclaracion: Opera en 20 ciudades según la página de ciudades; fuera de ellas no se confirmó cobertura.
+  - Aclaracion: Existe modalidad sin vehículo propio, alquilando un auto de un socio flotilla.
+  - Aclaracion: La página de requisitos no indica edad mínima.
+- **Rappi, repartidores (Rappitendero)** (abierta o vigente, verificada 1 vez) https://www.rappi.com.ar/
+  - Que es: Personas que quieran repartir en bicicleta o moto, con pago por entrega.
+  - Requisitos: Mayor de 18 años. DNI vigente y CUIL o CUIT activo. Certificado de antecedentes penales. Cuenta bancaria o billetera virtual a nombre propio. Posible selfie de verificación. Bicicleta o moto; para moto: licencia vigente, cédula verde y seguro al día. No pide experiencia ni título (según la nota).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sin sueldo fijo. Depende de la distancia, la demanda de la zona y el horario, más bonos por objetivos y propinas. No vi montos. Pago semanal según la nota.
+  - Plazo o ciclo: Abierto todo el año (alta continua, sin convocatoria con fecha; sujeta a validación de cuenta).
+  - Como postular: https://soyrappi.com.ar/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL original es una nota periodística (18/06/2025) y no la fuente oficial; los requisitos salen de esa nota y no del sitio de Rappi.
+  - Aclaracion: El sitio de alta (soyrappi.com.ar) no pudo leerse, por lo que los requisitos y pasos no están confirmados en la fuente oficial.
+  - Aclaracion: Es trabajo independiente, no relación de dependencia.
+- **Monotributo: cómo inscribirse (Argentina.gob.ar)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/inscribirme-como-monotributista
+  - Que es: Quien trabaje por cuenta propia o en plataformas y necesite facturar, cobrar y tener obra social y aportes. Muchas plataformas de reparto y viajes lo piden o lo recomiendan.
+  - Requisitos: CUIT, clave fiscal y domicilio fiscal electrónico. Persona humana que vende bienes, presta servicios o alquila. Ingresos brutos anuales de hasta $108.357.084,05 (tope que figura en la página; puede haberse actualizado). Hasta 3 actividades o unidades de explotación. Precio unitario máximo de venta de bienes muebles de $613.492,31. No haber importado bienes o servicios para revenderlos en los últimos 12 meses.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es empleo. El trámite es gratuito. El monotributista paga una cuota mensual según su categoría, y la página no indica montos.
+  - Plazo o ciclo: Alta online disponible sin fecha de cierre. La página no dice expresamente 'todo el año', pero el trámite se hace en línea y sin convocatoria. Las categorías y los topes se actualizan por período.
+  - Como postular: https://www.argentina.gob.ar/inscribirme-como-monotributista
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un trámite y no una oferta de empleo; sirve como paso previo para trabajar de forma independiente.
+  - Aclaracion: Quienes no tienen CUIT ni clave fiscal deben obtenerlos antes de inscribirse.
+  - Aclaracion: El tope de ingresos citado puede haberse actualizado desde que se leyó la página.
+  - Aclaracion: La página no detalla categorías ni cuotas; remite a ARCA.
+- **Cabify, conductores (Argentina)** (sin verificar, verificada 1 vez) https://cabify.com/ar
+  - Que es: Conductores con auto en las ciudades donde opera (según prensa: Buenos Aires, Córdoba, Mendoza, Rosario, entre otras).
+  - Requisitos: sin datos. La página no publica requisitos; confirmarlos en el centro de ayuda para conductores.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. Se vio un formulario de alta abierto (crear cuenta con correo), pero sin confirmar vigencia ni cobertura en Argentina.
+  - Como postular: https://driver.cabify.com/onboarding?lang=es&country=argentina
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El enlace de alta carga un formulario genérico que no menciona Argentina, ciudades ni requisitos.
+  - Aclaracion: La web oficial confirma que Cabify opera en Argentina, pero no publica requisitos ni ciudades.
+  - Aclaracion: No se pudo verificar cobertura ni condiciones actuales.
+- **Mercado Libre, Mercado Envíos Flex (reparto con vehículo propio)** (sin verificar, verificada 1 vez) sin datos
+  - Que es: Personas con vehículo propio que entregan paquetes de vendedores de Mercado Libre por recorrido. Es un modelo independiente.
+  - Requisitos: Flex (según la nota): celular con datos, vehículo propio, cuenta de Mercado Libre o Mercado Pago. Se trabaja como independiente, por lo que hace falta Monotributo para facturar. Andreani: 18 años o más, licencia de conducir vigente, disponibilidad full time y CV. No aclara experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Flex: sin tarifa fija informada; depende de entregas y horas, y la nafta y el seguro corren por cuenta propia. La nota cita más de $1.000.000 mensuales para personal de logísticas asociadas (dato de febrero de 2025, no confirmado).
+  - Plazo o ciclo: Se dice abierto todo el año, pero no pude confirmarlo en una página oficial.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL original es una nota de blog (01/02/2025) y los montos citados están desactualizados.
+  - Aclaracion: Las páginas oficiales de Mercado Libre devolvieron 403, por lo que la información no está confirmada en la fuente oficial.
+  - Aclaracion: Flex es un modelo independiente: hace falta Monotributo para facturar y la nafta y el seguro corren por cuenta propia.
+  - Aclaracion: Conviene verificar a mano en la app o en el centro de ayuda oficial.
+- **Workana, marketplace freelance en español** (sin verificar, verificada 1 vez) https://www.workana.com/es
+  - Que es: Freelancers de servicios digitales (diseño, programación, redacción, traducción, soporte) que quieran trabajar para clientes de Latinoamérica.
+  - Requisitos: No vi requisitos formales más allá de crear el perfil y que sea aprobado. No se exige título ni experiencia previa, pero sin reseñas es más difícil conseguir proyectos. Hace falta una habilidad vendible y una forma de cobro.
+  - Pago o beneficio: Variable, según el proyecto. La comisión al freelancer es escalonada y no pude confirmar el porcentaje vigente.
+  - Plazo o ciclo: Se dice abierto todo el año. La plataforma tiene proyectos publicados de forma continua, pero no pude abrir el sitio para confirmarlo.
+  - Como postular: https://www.workana.com/es
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No hay vacantes: el freelancer envía propuestas a proyectos publicados.
+  - Aclaracion: Las cifras de comisión difieren entre fuentes (según el centro de ayuda puede bajar hasta 5%) y no se confirmó el porcentaje vigente.
+  - Aclaracion: Para facturar desde Argentina suele hacer falta Monotributo; conviene consultar con un contador.
+  - Aclaracion: El sitio oficial devolvió 403, por lo que la información no se vio de primera mano.
+- **Situación legal de repartidores de apps (nota de iProfesional)** (sin verificar, verificada 1 vez) sin datos
+  - Que es: Repartidores de apps que quieran entender su condición de trabajador independiente o dependiente antes de inscribirse.
+  - Requisitos: No aplica.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: No aplica. Es una nota periodística del 02/11/2023, sin vía de postulación.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una nota periodística del 02/11/2023, sin vía de postulación ni fuente oficial.
+  - Aclaracion: Los datos pueden estar desactualizados: AFIP fue reemplazada por ARCA y el marco legal cambió.
+  - Aclaracion: Si se conserva en un catálogo, corresponde presentarla solo como contexto histórico.

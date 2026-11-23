@@ -1,0 +1,130 @@
+# Educacion y cuidado infantil
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **CABA - Requisitos para acceder al primer cargo (apto psicofísico, antecedentes, ficha censal)** (abierta o vigente, verificada 2 veces) https://www.buenosaires.gob.ar/educacion/quiero-ser-docente
+  - Que es: Docentes recién inscriptos que ya consiguieron su primera designación en una escuela estatal de CABA.
+  - Requisitos: Estar registrado en el Sistema de Clasificación Docente. Apto psicofísico (no mayor de 90 días si no se tiene cargo en escuela estatal CABA), certificado de antecedentes penales, constancia de designación y títulos (los extranjeros con apostilla del Ministerio de Relaciones Exteriores).
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Trámite abierto en cada primera designación (sin fecha límite general). Plazos propios: apto psicofísico dentro de los 60 días corridos de la toma de posesión; certificado de antecedentes vigente 6 meses.
+  - Como postular: http://buenosaires.gob.ar/gcaba_historico/quiero-ser-docente/requisitos-para-acceder-su-primer-cargo
+  - Lectura automatica posible: none
+  - Aclaracion: Es un trámite posterior a la designación y no una oferta de trabajo.
+  - Aclaracion: La URL pertenece al archivo histórico del sitio (gcaba_historico) y conviene confirmarla en la página vigente.
+  - Aclaracion: Pasos: turno de apto psicofísico por la plataforma MiBA con mail @bue, con al menos 96 horas de anticipación; certificado de antecedentes penales por el Registro Nacional de Reincidencia (0800-666-0055) cuando la escuela recibe la resolución de designación; ficha censal electrónica en el Sistema de Gestión Educativa.
+  - Aclaracion: Contacto: turno.aptodoc@bue.edu.ar, tramiteficha@buenosaires.gob.ar, 147 opción 2.3.
+- **Mendoza (DGE) - Concurso de Ingreso a la Docencia 2027 (Inicial, Primario y Modalidad Especial)** (abierta o vigente, verificada 2 veces) https://www.mendoza.edu.ar/arranca-el-concurso-de-ingreso-a-la-docencia-2027-para-niveles-inicial-y-primario-y-la-modalidad-especial/
+  - Que es: Docentes que quieren ingresar a cargos titulares en jardín de infantes (maestro de jardín, Educación Física), primaria (maestro de grado, materias especiales, auxiliar de informática educativa) y educación especial en Mendoza.
+  - Requisitos: Título docente para cargos de escuelas de gestión estatal de Inicial, Primario y Especial en Mendoza. Documentación detallada en las resoluciones 7392, 7422 y 7415 (no leídas). Sin experiencia mínima declarada en el artículo.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto: inscripción del 24/11/2026 al 01/12/2026 (Inicial y Primario hasta las 23:59; Especial hasta las 16:00) por el Sistema GEI. Orden de mérito provisorio 04/12/2026; definitivo 15/12 (Inicial y Especial) y 17/12 (Primario); ofrecimientos virtuales 16-18/12 (Inicial y Especial) y 18, 21, 22 y 28/12 (Primario); toma de posesión 01/02/2027. Reclamos: Inicial y Especial 04-14/12, Primario 09-15/12.
+  - Como postular: https://www.mendoza.edu.ar/arranca-el-concurso-de-ingreso-a-la-docencia-2027-para-niveles-inicial-y-primario-y-la-modalidad-especial/
+  - Lectura automatica posible: none
+  - Aclaracion: Artículo oficial de la DGE de Mendoza, fechado el 20/11/2026; al 23/11/2026 la inscripción todavía no abrió y abre el 24/11.
+  - Aclaracion: Los cargos son: Inicial (maestros de jardín y de materias especiales, Educación Física); Primario (maestros de grado, Educación Física, Música, Artes Visuales y Auxiliar de Informática Educativa); Especial (maestros de grado, materias especiales, Formación Profesional y equipos técnicos).
+  - Aclaracion: Los requisitos y procedimientos están en los anexos de las resoluciones 7392, 7422 y 7415, que no se leyeron.
+  - Aclaracion: El plazo de inscripción es muy corto, de una semana.
+- **Córdoba - Programa Maestra/o Más Maestras/os (M+M) 2027, convocatoria de selección** (abierta o vigente, verificada 2 veces) https://www.igualdadycalidadcba.gov.ar/SIPEC-CBA/SIDPyTE/compromiso-alfabetizador/mmasm-2026/index.php
+  - Que es: Docentes de Córdoba que quieran ser seleccionados como 'Maestro/a Más' para dar apoyo institucional a escuelas priorizadas en Lengua y Matemática (cohorte 2027-2028).
+  - Requisitos: No detallados en la página (el PDF de bases no se pudo abrir). Se trata de seleccionar un/a Maestro/a Más para escuelas de Córdoba, por lo que se presume docente; no confirmado. Requisitos exactos: desconocido.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (la página no informa remuneración ni beca)
+  - Plazo o ciclo: Abierta: inscripción del 5 al 25/11/2026 (convocatoria publicada el 4/11); orden de mérito el 18/12/2026. Cohorte 2027-2028, segunda edición.
+  - Como postular: https://www.igualdadycalidadcba.gov.ar/SIPEC-CBA/SIDPyTE/compromiso-alfabetizador/mmasm-2026/index.php
+  - Lectura automatica posible: none
+  - Aclaracion: Página oficial del Ministerio de Educación de Córdoba; la inscripción se hace con el formulario web 'Convocatoria P:M+M cohorte 2027-2028'.
+  - Aclaracion: Al 23/11/2026 la inscripción cierra en 2 días.
+  - Aclaracion: El PDF de bases (Convocatoria_26.pdf) dio 404; las bases deben pedirse en la página o por correo.
+  - Aclaracion: Consultas: info.programa.mmasm@gmail.com.
+- **Universidad de Buenos Aires - Concursos de profesores regulares** (abierta o vigente, verificada 2 veces) https://www.uba.ar/concurso-profesores
+  - Que es: Profesionales y docentes que aspiran a cargos de profesor regular (titular, asociado, adjunto) en facultades de la UBA y en el CBC.
+  - Requisitos: Según el Reglamento de Concurso de Profesores Regulares de la UBA (CODIGO.UBA I-10, Cap. A; para el CBC, I-16 Cap. F). La documentación exacta figura en cada llamado y en el formulario. Perfil académico: antecedentes docentes y de investigación, no apto para quien no tiene experiencia (inferencia del tipo de concurso; no figura expresamente).
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto de forma continua: convocatorias publicadas el 09/09, 23/09, 13/10, 28/10 y 13/11/2026. Cada llamado tiene su propio período de inscripción (no visible en la página; está en el PDF de cada llamado).
+  - Como postular: https://concursosaspirantes.rec.uba.ar
+  - Lectura automatica posible: Listado en la web con una ficha por llamado.
+  - Aclaracion: Procedimiento: preinscripción en concursosaspirantes.rec.uba.ar y confirmación de la inscripción en TAD-UBA con la documentación adjunta; ambos pasos son obligatorios, hasta las 18 h del día de cierre.
+  - Aclaracion: Son concursos de profesores regulares que apuntan a perfiles académicos y no a un primer empleo.
+  - Aclaracion: Los PDF de cada llamado no se pudieron abrir, por lo que cargos y fechas puntuales quedan sin verificar.
+- **Universidad Nacional de Córdoba - Agenda de concursos docentes** (abierta o vigente, verificada 2 veces) https://www.unc.edu.ar/agenda/agenda-concursos
+  - Que es: Aspirantes a cargos docentes en facultades de la UNC.
+  - Requisitos: No figuran en la agenda; están en cada llamado. Cargos docentes universitarios: en general se pide título universitario y antecedentes (no confirmado en lo visto). Requisitos exactos: desconocido.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto al 23/11/2026, según la agenda (fechas 'del... al...'): FAUD 26/10 al 24/11 y 25/11 al 21/12; Ciencias Económicas 29/10 al 25/11 (concurso) y 17 al 24/11 (coberturas interinas); FAMAF 4 al 27/11 y 26/11 al 21/12/2026.
+  - Como postular: https://www.unc.edu.ar/agenda/agenda-concursos
+  - Lectura automatica posible: Agenda en la web, un enlace por llamado.
+  - Aclaracion: La página no aclara si las fechas de la agenda son estrictamente de inscripción.
+  - Aclaracion: Cada llamado tiene su propia página con requisitos y modo de postulación, que no se abrieron.
+  - Aclaracion: Varios llamados cierran en 1 a 4 días.
+  - Aclaracion: Las 'coberturas interinas' de Ciencias Económicas son una vía más corta que un concurso regular.
+- **Alianza Francesa de Buenos Aires - Oportunidades laborales** (abierta o vigente, verificada 2 veces) https://www.alianzafrancesa.org.ar/oportunidades-laborales
+  - Que es: Interesados en trabajar en la institución (instituto de idiomas y centro cultural). En la fecha de consulta no había vacantes docentes publicadas.
+  - Requisitos: No figuran en la página. El puesto es Senior, por lo que se presume experiencia en ventas; no confirmado.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fecha de cierre; la página muestra una única vacante al 23/11/2026: Ejecutivo/a de ventas Senior para una agencia de viajes receptiva (ref MAT400), Capital Federal. No hay vacantes docentes visibles.
+  - Como postular: https://www.alianzafrancesa.org.ar/oportunidades-laborales
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La única vacante visible no es docente ni de la propia institución: corresponde a una agencia de viajes y se postula con 'Ver Más' en una plataforma de empleo.
+  - Aclaracion: La página no muestra requisitos ni fecha de publicación.
+  - Aclaracion: Contacto general: info.afba@alianzafrancesa.org.ar.
+  - Aclaracion: Es poco útil para un primer empleo por tratarse de un puesto Senior.
+- **CABA - Quiero ser docente (requisitos e inscripción al sistema)** (se repite (hoy sin llamado abierto), verificada 2 veces) http://buenosaires.gob.ar/gcaba_historico/educacion/docentes-de-la-ciudad/quiero-ser-docente
+  - Que es: Personas con título docente (o técnico, terciario o universitario con formación pedagógica, donde el Estatuto lo permite) que quieran dar clases en escuelas estatales de la Ciudad Autónoma de Buenos Aires como suplentes, interinos o titulares.
+  - Requisitos: Art. 13 del Estatuto del Docente: ser argentino nativo, por opción, naturalizado o extranjero (en todos los casos hablar español); título docente del área o, donde el Estatuto lo permite, título técnico, secundario, terciario o universitario más formación pedagógica; los títulos extranjeros deben convalidarse; no ser jubilado ni pensionado; respetar las Constituciones Nacional y de la Ciudad; capacidad psicofísica; en nivel inicial hay edad máxima de ingreso.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Anual: 'La inscripción y clasificación es anual'; el cronograma se acuerda 'al inicio de cada ciclo lectivo'. Sin fechas puntuales en la página
+  - Como postular: mailto:comision.titulos@bue.edu.ar
+  - Lectura automatica posible: none
+  - Aclaracion: La URL redirige a una ruta histórica del sitio (gcaba_historico), por lo que puede existir una versión más nueva y conviene confirmar en el portal vigente.
+  - Aclaracion: Proceso: enviar el escaneo del título a comision.titulos@bue.edu.ar para recibir el informe de cargos y materias a los que se puede postular; registrarse en el Sistema de Clasificación Docente y armar el Legajo Único Docente; participar en el Acto Público en Línea.
+  - Aclaracion: Requiere título docente, por lo que no es una vía para quienes no tienen estudios.
+- **CABA - Acto Público en Línea (vacantes de cargos docentes)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://actopublico.bue.edu.ar
+  - Que es: Docentes ya inscriptos en la base docente de CABA que buscan cargos u horas vacantes (suplencias e interinatos) en escuelas de la Ciudad. Cada área publica en su propio día y horario.
+  - Requisitos: Estar en la base docente (haberse registrado antes en el Sistema de Clasificación Docente, con cuenta @bue); si no, el sistema avisa que no se puede postular a ningún cargo. Título docente.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin calendario en la página; al leerla no había cargos vacantes listados y se exigía cuenta en la base docente.
+  - Como postular: https://actopublico.bue.edu.ar
+  - Lectura automatica posible: Listado público filtrable en la web; no se vio API ni feed.
+  - Aclaracion: La página es real y muestra estadísticas, filtros por área, cargo, materia, especialidad y escuela, y login; las cifras no tienen año explícito.
+  - Aclaracion: Al momento de la consulta no había cargos vacantes disponibles y aparecía el aviso 'Su cuenta no se encuentra en la base docente'.
+  - Aclaracion: Solo puede postularse quien ya esté inscripto y clasificado en la base docente, por lo que no es de acceso abierto directo.
+  - Aclaracion: Hay manual y tutorial en /ayuda.
+- **CABA - Actualización del Estatuto Docente (julio 2026, Decreto 256/26)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.buenosaires.gob.ar/educacion/actualizacion-del-estatuto-docente-julio-2026
+  - Que es: Docentes de CABA y quienes planean ingresar: explica cómo cambia el calendario de concursos y el puntaje de clasificación.
+  - Requisitos: No aplica como convocatoria. Puntaje: título, otros títulos, posgrados educativos, cursos, antigüedad.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Cambios a partir de 2027; en 2026 se mantienen todas las etapas sin alternancia. El 30/04/2027 cierra la inscripción a los listados de clasificación afectados por los cambios de puntaje. La página no indica fecha de publicación del decreto.
+  - Como postular: https://www.buenosaires.gob.ar/educacion/quiero-ser-docente
+  - Lectura automatica posible: none
+  - Aclaracion: Es información normativa y no una convocatoria.
+  - Aclaracion: Se eliminan antecedentes pedagógicos, otros antecedentes y la bonificación por permanencia; la antigüedad se limita a 6 puntos, y se exige declarar la intención de ascenso en la inscripción anual ordinaria.
+  - Aclaracion: Los concursos de base se hacen en años pares y los de ascenso en impares; como 2027 es impar corresponde a ascenso y los concursos de base serían en 2028. La expresión 'años pares (desde 2027)' es inexacta.
+  - Aclaracion: Consultas por la plataforma BA Colaborativa.
+- **Mendoza (DGE) - Juntas Calificadoras y de Disciplina** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.mendoza.edu.ar/juntas-calificadoras-y-de-disciplina/
+  - Que es: Docentes de Mendoza (inicial, primario, secundario, técnica y trabajo, especial, jóvenes y adultos, celadores): índice de órdenes de mérito, concursos de traslado y ascenso y circulares.
+  - Requisitos: No figuran en la página principal; están en la circular de cada concurso. Se trata de cargos docentes, por lo que en general se exige título docente o habilitante (no confirmado en lo visto). Requisitos exactos: desconocido.
+  - Pago o beneficio: sin datos (cargos docentes del escalafón provincial; sin monto en la página)
+  - Plazo o ciclo: Ciclo anual: el Concurso de Ingreso a la Docencia 2027 (Inicial, Primaria y Especial) se publicó el 20/11/2026; la página también muestra Traslado y Ascenso a Jerarquía Directiva 2027 (20 y 21/11) y un concurso de acrecentamiento y concentración (Secundaria, Jóvenes y Adultos, Técnica) que arranca 'el próximo miércoles' (fecha exacta no indicada).
+  - Como postular: https://www.mendoza.edu.ar/juntas-calificadoras-y-de-disciplina/
+  - Lectura automatica posible: none
+  - Aclaracion: Página oficial del Gobierno de Mendoza (mendoza.edu.ar), con última publicación del 21/11/2026; cada anuncio enlaza a su circular y cronograma.
+  - Aclaracion: No se vio fecha de cierre de inscripción en la página principal.
+  - Aclaracion: Los requisitos están en cada circular y no se verificaron; se trata de cargos docentes, por lo que se necesita título docente o habilitante.
+  - Aclaracion: No es una vía para quienes no tienen experiencia ni título.
+- **Provincia de Buenos Aires (DGCyE) - Listados Oficiales y Actos Públicos Digitales** (sin verificar, verificada 1 vez) http://abc.gob.ar/sad/
+  - Que es: Docentes que buscan cargos u horas (suplencias, interinatos) en escuelas de gestión estatal de la Provincia de Buenos Aires. Las Secretarías de Asuntos Docentes (SAD) distritales gestionan los trámites en cada distrito.
+  - Requisitos: sin datos (cuenta ABC; título docente según el cargo)
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: No se vieron fechas de inscripción a listados 2027. El ciclo anual se infiere pero no se confirmó en texto.
+  - Como postular: https://servado.abc.gob.ar/lof
+  - Lectura automatica posible: none
+  - Aclaracion: La URL redirige a abc.gob.ar/sad/, home de las Secretarías de Asuntos Docentes, que enlaza a Listado Oficial y a Actos Públicos Digitales.
+  - Aclaracion: El Listado Oficial cargó vacío y Actos Públicos Digitales redirige al login (requiere cuenta ABC).
+  - Aclaracion: No se pudo confirmar ninguna convocatoria abierta ni fechas.
+  - Aclaracion: Contacto: infoayuda@abc.gob.ar, (0221) 429-7600.

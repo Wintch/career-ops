@@ -1,0 +1,128 @@
+# Comercio y supermercados
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **La Anónima - Sitio de Empleos (HiringRoom)** (abierta o vigente, verificada 2 veces) https://www.laanonima.com.ar/empresa/empleos/
+  - Que es: Postulantes a supermercados La Anónima (Patagonia, centro y Buenos Aires) y a sus centros logísticos. El 23/11/2026 mostraba 37 vacantes, entre ellas pasantías, operario/a de mantenimiento, asesores/as de atención al cliente eventuales (part time, CABA), asistente de stock de línea de cajas y puestos administrativos y de logística. La mezcla incluye perfiles junior.
+  - Requisitos: El listado no muestra requisitos detallados; cada aviso trae su propio formulario de postulación. Varios avisos de sucursal figuran como nivel "Junior", lo que sugiere que no se pide experiencia previa, pero no lo vi escrito como requisito.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto, con rotación: el 23/11/2026 había 37 vacantes (la página muestra 20 y hay una segunda página), publicadas entre hace 6 días y hace 1 mes. Además hay un enlace "Subir CV a base general" para futuras búsquedas.
+  - Como postular: https://laanonima.hiringroom.com/jobs
+  - Lectura automatica posible: HiringRoom publica el listado como HTML con datos cargados por JavaScript; no verifiqué una API pública.
+  - Aclaracion: El portal está alojado en HiringRoom, que solo aloja el sitio y no decide las contrataciones.
+  - Aclaracion: Los avisos de sucursal figuran como nivel "Junior" y full-time, pero la ausencia de requisito de experiencia no está escrita de forma explícita.
+  - Aclaracion: El teléfono de contacto que figura en el portal es 011-4489 9100.
+  - Aclaracion: La página oficial laanonima.com.ar/empresa/empleos devolvió 403 y no pudo leerse.
+- **Maxiconsumo - Trabaja con nosotros (mayorista, Pandapé)** (abierta o vigente, verificada 2 veces) https://maxiconsumo-sa.pandape.computrabajo.com/
+  - Que es: Postulantes a sucursales del mayorista Maxiconsumo en Buenos Aires-GBA y Río Negro. El 23/11/2026 listaba, entre otros, choferes bitren (Moreno), promotor/a Red Minicosto en Bariloche, analista de créditos, pasante de administración. Filtros por ventas, almacén/logística y administración.
+  - Requisitos: No vi requisitos en el listado; cada aviso los detalla. No consta edad ni experiencia mínima a nivel general.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Portal Pandapé: "6 Ofertas de empleo" visibles al cargar, con el botón "Ver 20 ofertas más" y el enlace "Enviar CV" (/SendCV). Fechas visibles: 12 nov., 25 sept., 14 sept., 16 jul., 02 jul. y 26 jun.
+  - Como postular: https://maxiconsumo-sa.pandape.computrabajo.com/
+  - Lectura automatica posible: HTML con filtros; no verifiqué una API.
+  - Aclaracion: Al cargar la página se ven 6 ofertas; el botón "Ver 20 ofertas más" indica que hay más, pero el total exacto no figura.
+  - Aclaracion: Las fechas de cada aviso se muestran con día y mes, sin año.
+  - Aclaracion: La página ofrece el enlace /SendCV para enviar el currículum cuando no hay ofertas acordes.
+  - Aclaracion: Hay filtros por categoría, provincia, ciudad, jornada, tipo de contrato y ofertas para personas con discapacidad.
+- **NINI Mayorista - Trabajá con Nosotros (Pandapé)** (abierta o vigente, verificada 2 veces) https://www.nini.com.ar/trabaja
+  - Que es: Postulantes con conocimientos de salón de ventas, sector comercial, administrativo, caja, transporte y otros; el sitio dice que tiene unos 1000 empleados. El 23/11/2026 listaba promotores de venta (Zárate), operaria de depósito (Moreno) y analista contable.
+  - Requisitos: Conocimientos y aptitudes en salón de ventas, comercial, administrativo, caja o transporte, según la página. No se indica edad ni documentos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto: la página oficial invita a postularse y el portal tiene un buscador de ofertas y la opción "¿No ves ninguna oferta que encaje con tu perfil?" con envío de CV (/SendCV). No pude leer los avisos ni sus fechas, así que no confirmo los del 12 al 18 de noviembre.
+  - Como postular: https://ninimayorista.pandape.computrabajo.com
+  - Lectura automatica posible: HTML; no verifiqué una API.
+  - Aclaracion: El portal pertenece a Ricardo Nini S.A. en Pandapé (Computrabajo) y se accede desde el botón "¡Postulate!" de nini.com.ar/trabaja.
+  - Aclaracion: No se pudieron extraer los títulos ni las fechas de los avisos publicados.
+  - Aclaracion: Los teléfonos de sucursal que figuran en la página (La Plata (0221) 416-9200 y Moreno (0237) 460-9000) no se indican como canal de postulación.
+- **Supermayorista Vital - Trabajá con nosotros** (abierta o vigente, verificada 2 veces) https://www.vital.com.ar/trabaja-con-nosotros/
+  - Que es: Postulantes a las sucursales de Vital: Abasto, Avellaneda, Bahía Blanca, Burzaco, El Talar, La Plata, Laferrere, Loma Hermosa, Malvinas Argentinas, Mar del Plata, Moreno, Neuquén, Pilar, Posadas, Quilmes, Resistencia, Salta, San Justo, Santa Fe y Villa Ortúzar. Tipos de puesto: sin datos.
+  - Requisitos: El único requisito escrito es el formato del CV: doc, docx o pdf, de hasta 5 MB. No se indica edad, experiencia ni documentos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (formulario permanente de CV, sin fechas ni avisos puntuales)
+  - Como postular: https://www.vital.com.ar/trabaja-con-nosotros/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no publica avisos puntuales, ni correo, ni enlace a otro portal: solo la sección "Dejanos su CV".
+  - Aclaracion: Lista 13 ubicaciones (entre ellas Administración Central, CABA y zonas de GBA) y no aclara si son sucursales con vacantes o solo opciones del formulario.
+- **Supermercados Cordiez - Sumate al equipo** (abierta o vigente, verificada 2 veces) https://www.cordiez.com.ar/sumate-al-equipo
+  - Que es: Cualquier persona que quiera postularse a una sucursal de Cordiez. No distingue puesto en el formulario; incluye a quienes tienen solo primaria.
+  - Requisitos: Campos obligatorios marcados con asterisco: datos personales (nombre, fecha de nacimiento, DNI, celular, email), domicilio y estudios. No se exige un nivel educativo mínimo ni experiencia en la página; no se ven requisitos de edad. Experiencia laboral opcional.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (el formulario pide la pretensión salarial; la página no informa sueldos)
+  - Plazo o ciclo: Abierto todo el año (formulario permanente; la página no muestra fechas de cierre)
+  - Como postular: https://www.cordiez.com.ar/sumate-al-equipo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No lista vacantes puntuales: es un formulario general con botón "Enviar postulación".
+  - Aclaracion: Permite elegir unas 20 áreas de interés (carnicería, verdulería, panadería, cajas, depósito, distribución, administración, atención al cliente, entre otras) y disponibilidad full-time o part-time.
+  - Aclaracion: El historial laboral es opcional, hasta 3 empleos.
+- **Frávega - Oportunidades de empleo (HiringRoom)** (abierta o vigente, verificada 2 veces) https://fravega.hiringroom.com/jobs
+  - Que es: Postulantes a Frávega (electrodomésticos y tecnología, con sucursales y venta online). El 23/11/2026 el portal mostraba solo 1 vacante. Incluye opción de subir el CV a una base general.
+  - Requisitos: La página no lista requisitos. El aviso visible es nivel Semi Senior, área Ventas, ubicación Capital Federal.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año como base general de CVs; al 2026-11-23 había un único aviso, 'Ingresa tu CV - Base General' (Capital Federal, Ventas, full-time, híbrido, publicado hace 25 días)
+  - Como postular: https://fravega.hiringroom.com/jobs
+  - Lectura automatica posible: HiringRoom, HTML con datos por JavaScript; no verifiqué una API.
+  - Aclaracion: El único aviso visible, "Ingresa su CV - Base General", funciona como base de CVs y figura como nivel Semi Senior, por lo que no es una vía clara para un primer empleo.
+  - Aclaracion: El portal está en HiringRoom, que aclara que no participa en las decisiones de contratación.
+- **FAECYS - Escalas salariales y acuerdos del convenio de Comercio** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.faecys.org.ar/secretaria-de-asuntos-laborales-escalas-y-acuerdos
+  - Que es: Referencia para quien trabaja o va a trabajar en comercio y supermercados: sirve para comprobar el sueldo mínimo y las categorías del convenio. No es una bolsa de trabajo y no ofrece empleos.
+  - Requisitos: No aplica (no es una convocatoria).
+  - Pago o beneficio: Escalas salariales del convenio de Comercio; los montos no se leyeron en esta verificación
+  - Plazo o ciclo: Se actualiza con cada acuerdo paritario, varias veces al año; lo más reciente visto fue la 'Circular Escalas Acuerdo Octubre 2026 CCT 130' y una 'Circular Acuerdo 27 Octubre 2026'
+  - Como postular: https://www.faecys.org.ar/secretaria-de-asuntos-laborales-escalas-y-acuerdos
+  - Lectura automatica posible: Sitio WordPress; no verifiqué un feed. Sin RSS verificado.
+  - Aclaracion: Es el sitio de la Federación Argentina de Empleados de Comercio y Servicios: no ofrece empleos, solo referencia sobre escalas y categorías del convenio de Comercio (CCT 130/75).
+  - Aclaracion: También publica escalas de Cerealeros (hasta junio 2026) y Turismo (hasta julio 2026).
+  - Aclaracion: Solo se leyeron los primeros 100000 de unos 124690 caracteres de la página.
+- **Coto - Portal de Empleos (cajeros, repositores, carnicería, cocina)** (sin verificar, verificada 1 vez) https://www.coto.com.ar/empleos/
+  - Que es: Personas que buscan trabajo en supermercados Coto, sobre todo en CABA y AMBA: cajeros/as, repositores/as de salón, cadetes, personal de oficio (carnicería, fiambrería, cocina), vendedores de electrodomésticos y jefes de cajas. Según prensa, hay una opción 'Mi primer empleo'. Contratación habitual en volumen.
+  - Requisitos: sin datos
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.coto.com.ar/empleos/
+  - Lectura automatica posible: Aplicación web de una sola página (SPA); no vi API ni feed público. Sin RSS.
+  - Aclaracion: El portal es una aplicación Angular que se arma con JavaScript, por lo que su contenido (avisos, formulario, requisitos y fechas) no pudo leerse.
+  - Aclaracion: No se pudo confirmar el ciclo "abierto todo el año" ni los puestos mencionados (cajeros, repositores, carnicería, cocina).
+- **Cencosud Argentina - Portal de empleo (Jumbo, Disco, Vea, Easy)** (sin verificar, verificada 1 vez) http://empleos.cencosud.com/
+  - Que es: Quienes buscan empleo en los supermercados Jumbo, Disco y Vea y en Easy y Blaisten (mejoramiento del hogar) de Argentina. El portal corporativo agrupa Argentina, Brasil, Chile, Colombia y Perú, con sitio propio por país.
+  - Requisitos: La página no lista requisitos generales; cada aviso define su perfil. No se indica edad, documentos ni experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no vi avisos ni fechas)
+  - Como postular: https://Cencosud.csod.com/ux/ats/careersite/9/home?c=cencosud
+  - Lectura automatica posible: Cornerstone (csod) careersite cargado por JavaScript; no verifiqué una API pública. Gupy para Brasil.
+  - Aclaracion: Para Argentina el portal enlaza a dos sitios de postulación en la plataforma Cornerstone: "Cencosud Argentina" y "Cencosud Argentina Pasantías".
+  - Aclaracion: Los listados se cargan con JavaScript y no se pudo leer ningún aviso, por lo que no se confirmó que haya puestos abiertos ni que los avisos roten.
+  - Aclaracion: Según la página, el proceso incluye revisión de CV, llamada, entrevistas y comunicación de cierre solo a quienes fueron entrevistados.
+- **Carrefour Argentina - búsquedas laborales (vía LinkedIn)** (sin verificar, verificada 1 vez) https://www.carrefour.com.ar/
+  - Que es: Postulantes a puestos en hipermercados Carrefour: cajeros/as polivalentes, empleados/as polivalentes (atención, reposición, control de stock, caja), promotores y mantenimiento, además de roles de oficina en Martínez (analistas comerciales, retail media, B2B).
+  - Requisitos: sin datos
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL registrada corresponde a la tienda online de Carrefour Argentina y no a una página de empleo.
+  - Aclaracion: No se encontró una página oficial de postulación ni se pudo confirmar la vía LinkedIn.
+  - Aclaracion: Falta confirmar la URL oficial de empleo antes de publicarla.
+- **Makro - Trabajá con nosotros (mayorista)** (sin verificar, verificada 1 vez) https://makro.com.ar/somos-makro/
+  - Que es: Postulantes a sucursales de Makro en todo el país, según la propia página: 'nuestros equipos siguen creciendo'. Tipos de puesto: sin datos.
+  - Requisitos: La página no menciona requisitos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (la página dice que hay búsquedas activas en todo el país, sin fechas)
+  - Como postular: https://makrohr.hiringroom.com/jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El botón "Búsquedas Activas" apunta a https://makrohr.hiringroom.com/jobs, que devolvió 404 en dos intentos.
+  - Aclaracion: No se pudieron ver avisos ni confirmar un camino de postulación que funcione; puede tratarse de un fallo del enlace o de que no haya búsquedas publicadas.
+- **Cooperativa Obrera (La Coope) - Empleo** (sin verificar, verificada 1 vez) https://www.cooperativaobrera.coop/empleo
+  - Que es: Postulantes a supermercados de La Coope (cooperativa de consumo, con sucursales sobre todo en el sur de la provincia de Buenos Aires y la Patagonia, dato no verificado por mí). Tipos de puesto: sin datos.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.cooperativaobrera.coop/empleo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página carga, pero solo se leyó el menú y el pie: un enlace "Trabajá en La Coope", un video de YouTube y el correo empleo@cooperativaobrera.coop.
+  - Aclaracion: No se vio ningún aviso, formulario, fecha ni requisito.
+  - Aclaracion: El correo aparece como vía probable de consultas de empleo, pero la página no lo dice explícitamente.
+  - Aclaracion: La ubicación de las sucursales no pudo verificarse.

@@ -1,0 +1,71 @@
+# Grupo 63: Agricultores y trabajadores agropecuarios de subsistencia
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Adecoagro - Sumate a nuestro equipo (portal de empleo en HiringRoom)** (abierta o vigente, verificada 2 veces) https://adecoagro.hiringroom.com/jobs
+  - Que es: Cualquier persona que quiera trabajar en la empresa. El listado visto mezclaba puestos de campo (Ayudante de Agricultura en Tostado, Santa Fe; Responsable de Maquinaria Agrícola y Agrónomos en Mercedes, Corrientes; Práctica Profesional en Recría en Christophersen, Santa Fe; Veterinario/a en San Gregorio, Santa Fe) con puestos de planta y administrativos.
+  - Requisitos: El listado no detalla requisitos; solo tipo, modalidad y nivel. Hay avisos de nivel Junior (por ejemplo Ayudante de Agricultura en Tostado, Santa Fe; Práctica Profesional en Recría en Christophersen, Santa Fe; Ingenieros Agrónomos/as en Mercedes, Corrientes; Veterinario/a en San Gregorio, Santa Fe). El detalle de experiencia exigida figura en cada aviso y no se vio.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: 17 vacantes publicadas al 2026-11-23 (se vio 'Hace 6 días' en una de ellas), con base general de CV.
+  - Como postular: https://adecoagro.hiringroom.com/jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La mayoría de los puestos son presenciales en establecimientos del interior de Argentina.
+  - Aclaracion: Al menos un aviso es de Montevideo, Uruguay (Analista Contable JR, híbrido), que no corresponde a Argentina.
+  - Aclaracion: Otros avisos: Jefe/a de Aseguramiento de la Calidad (San Salvador, Entre Ríos), Responsable de Calidad e Inocuidad (Pilar, Buenos Aires), Ejecutivo/a Comercial, Ingeniero/a de Mantenimiento y Coordinador de Tráfico (Chivilcoy).
+  - Aclaracion: La página aclara que HiringRoom no interviene en la decisión de contratación; existe la opción 'Subir CV a base general'.
+- **Cresud - Trabajá con nosotros / Ser parte (Recursos Humanos)** (abierta o vigente, verificada 2 veces) https://www.cresud.com.ar/cresud-rrhh.php
+  - Que es: Personas interesadas en trabajar en la empresa. La página institucional enlaza una sección 'Trabaja con nosotros' (cresud-rrhh.php) y un contacto de RRHH; no se pudieron ver los puestos ni los perfiles buscados.
+  - Requisitos: Sin requisitos formales. La página menciona como valores talento, compromiso, espíritu emprendedor, iniciativa y creatividad. No se indicó si se requiere experiencia.
+  - Pago o beneficio: sin datos ('remuneración competitiva' sin cifras)
+  - Plazo o ciclo: Abierto todo el año como base de talentos: no hay vacantes ni ciclo; se carga el CV en el portal externo.
+  - Como postular: irsa.hiringroom.com (enlace 'Cargá tu CV' de https://www.cresud.com.ar/cresud-rrhh.php)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una vía de CV espontáneo, no una convocatoria con vacantes visibles; el detalle está en cresud-rrhh.php.
+  - Aclaracion: Correo de RR. HH. que figura: basecv@irsa.com.ar (dominio de IRSA, grupo vinculado).
+  - Aclaracion: Cresud dice cubrir vacantes de forma interna o externa.
+  - Aclaracion: Dirección: Carlos M. Della Paolera 261, piso 9, CABA.
+- **INTA - Ingresos (planta permanente, planta no permanente y becas)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/inta/ingresos
+  - Que es: Personas que cumplan los requisitos de cada búsqueda o convocatoria. Las becas incluyen una línea técnica para egresados de carreras técnicas de nivel secundario o superior en agrobiomateriales, una estudiantil universitaria (60% de materias aprobadas), una profesional y una posdoctoral.
+  - Requisitos: Las tres convocatorias vistas exigen título universitario de grado de al menos cuatro años (se prefiere posgrado), 10 años de experiencia profesional y 6 años en funciones directivas o gerenciales; no sirven para quien no tiene título ni experiencia. Documentación en sobre cerrado: formulario de datos personales, títulos autenticados, CV, DNI, certificado de antecedentes penales (quien no sea de la APN) y dos declaraciones juradas obligatorias.
+  - Pago o beneficio: sin datos (no figura en las convocatorias vistas)
+  - Plazo o ciclo: Variable. Al 2026-11-23 hay 3 convocatorias abiertas de Director/a de Centro Regional (CERBAN, CERBAS y Misiones): la inscripción presencial cerró el 2026-11-18 12:00, pero el envío por correo postal admite matasellos del 19 al 26 de noviembre de 2026 hasta las 12:00. La página de Búsquedas abiertas (planta no permanente) no mostraba puestos puntuales.
+  - Como postular: https://www.argentina.gob.ar/inta/ingresos/convocatorias-abiertas
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La presentación es en persona o por carta certificada con aviso de retorno a la Sede Central de INTA, Av. Rivadavia 1439 (C1033AAE), CABA, con el sobre rotulado 'CONVOCATORIA ABIERTA - DIRECTOR/A DEL CENTRO REGIONAL ...'.
+  - Aclaracion: El detalle está en argentina.gob.ar/inta/ingresos/directora-del-centro-regional-buenos-aires-norte-cerban (y equivalentes para CERBAS y Misiones).
+  - Aclaracion: La sección de becas (/inta/ingresos/becas) devolvió error 404, por lo que sus requisitos y fechas no están verificados.
+  - Aclaracion: Tras el 26 de noviembre las tres convocatorias de este ciclo quedan cerradas.
+- **INTA Formación - cursos abiertos y gratuitos (microcursos de producción agropecuaria)** (abierta o vigente, verificada 2 veces) https://formacion.inta.gob.ar/
+  - Que es: Cualquier persona, de forma libre y abierta. Los microcursos vistos cubren, entre otros, sustratos para producción de plantas, asociación y rotación de cultivos, cría casera de gallinas, sistema de almácigos flotantes, gírgolas, stevia, deshidratación de frutas y hortalizas, polilla de la vid y turismo rural.
+  - Requisitos: Sin requisitos previos formales; abierto a toda la comunidad. Solo para el curso de microscopía en plantas ornamentales se recomienda conocimiento previo. Se piden de forma opcional datos demográficos (edad, género, país) con fines estadísticos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito (no es empleo; no hay remuneración)
+  - Plazo o ciclo: Abierto todo el año: cursos de acceso libre, a ritmo propio y repetibles; cada uno dura entre 30 minutos y 3 horas.
+  - Como postular: https://formacion.inta.gob.ar/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una capacitación, no una oferta de trabajo.
+  - Aclaracion: Al terminar y responder preguntas se descarga una constancia de participación, no un título.
+  - Aclaracion: La página enlaza a un Campus, pero no explica si hace falta registrarse.
+- **Randstad - Vendimia (convocatoria de personal para bodega y finca, Mendoza)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.randstad.com.ar/vendimia-2024/
+  - Que es: Personas que buscan trabajo de temporada en bodegas y fincas. La página (titulada 'Vendimia 2027') listaba siete búsquedas: Operarios/as de Bodega, Técnico/a de Mantenimiento, Supervisor/a de temporada, Maestranza, Clarkista, Enólogo/a Bromatólogo/a y Operario/a de bodega. La edición 2024 de la misma convocatoria (nota de Los Andes del 2024-01-08) mencionaba además cosechador y cuadrillero de finca.
+  - Requisitos: No se listan requisitos ni sueldo en la página. Puestos vistos: Operarios/as de Bodega, Técnico/a de Mantenimiento, Supervisor/a de temporada, Maestranza, Clarkista, Enólogo/a Bromatólogo/a. No se vio mención de que no se requiera experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Anual y estacional (campaña de vendimia, en torno a enero-marzo). La página (cuya URL conserva '2024') titula 'Vendimia 2027' pero el ancla de postulación dice 'Oportunidades_Vendimia2026'; no muestra fecha de cierre ni de jornada. Búsqueda externa mostró convocatoria 2024 de Randstad (500 trabajadores) y un aviso de Randstad para Vendimia 2026 sin fecha.
+  - Como postular: https://www.randstad.com.ar/vendimia-2024/#Oportunidades_Vendimia2026
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El año es inconsistente dentro de la página: la URL conserva '2024', el título dice 'Vendimia 2027' y el ancla de postulación dice 'Oportunidades_Vendimia2026'; no se confirmó una jornada presencial 2027.
+  - Aclaracion: La página no menciona Mendoza, aunque la campaña de 2024 fue en Mendoza según medios (Los Andes, Forbes Argentina).
+  - Aclaracion: Para postularse hay un formulario breve de registro (docs.google.com/forms/d/e/1FAIpQLSfHua7W7Gb9LlunL2j7rZwXlhcgR6Oe3O9PpGk4c_Zka-mkwg/viewform), la app de Randstad (https://www.randstad.com.ar/candidatos/descarga-randstad-app/) o una cuenta en https://mirandstad.randstad.com.ar/Account/Login.
+  - Aclaracion: La página no lista requisitos ni sueldo.
+- **SENASA - Convocatorias de Recursos Humanos (llamados generales y abiertos)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/senasa/recursos-humanos
+  - Que es: En convocatorias generales, solo personal comprendido en el convenio colectivo sectorial del SENASA; en convocatorias abiertas, personas del ámbito público o privado. Sirve a quien busca trabajo en el control sanitario agropecuario (certificación, inspección, etc.).
+  - Requisitos: Los llamados generales se limitan al personal comprendido en el convenio colectivo sectorial de SENASA. Los llamados abiertos admiten a personas del ámbito público o privado que acrediten idoneidad y las condiciones del perfil. Documentación: ficha de inscripción firmada (declaración jurada), CV firmado en todas las hojas, foto 4x4 reciente, copia del DNI y copia del título requerido. Selección: evaluación de antecedentes, evaluación técnica, entrevista personal y posiblemente test psicotécnico. No se declara que no se requiera experiencia: depende de cada perfil.
+  - Pago o beneficio: sin datos (la página dice que cada llamado debe indicar la remuneración, pero no se vio ninguna cifra)
+  - Plazo o ciclo: Ciclo anual de marzo a septiembre; al 2026-11-23 no se vio ninguna convocatoria vigente ni fechas de inscripción en la página.
+  - Como postular: https://www.argentina.gob.ar/senasa/ingresar-mi-curriculum
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La inscripción debe permanecer abierta al menos 5 días hábiles, se realiza en la Dirección de Recursos Humanos y Organización, y la difusión se hace con al menos 10 días corridos de anticipación.
+  - Aclaracion: La página no lista llamados concretos ni fechas; enlaza procesos viejos (pase a planta 2023, procesos 2008-2016).
+  - Aclaracion: Completar el formulario de base de datos de CV (argentina.gob.ar/senasa/ingresar-mi-curriculum) no implica inscripción a los concursos publicados.
+  - Aclaracion: Un llamado de 2023 usó el sistema SENASA-Talento (senasa.talento.ar), dato no confirmado como vigente.

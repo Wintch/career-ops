@@ -1,0 +1,109 @@
+# Servicio domestico, limpieza, seguridad y edificios
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Zolvers Argentina (inscripción como zolver)** (abierta o vigente, verificada 2 veces) https://zolvers.com/trabajo-empleadas-domesticas-en-argentina
+  - Que es: Empleadas domésticas, cuidado de adultos y otros servicios para el hogar; cobertura indicada en CABA, Gran Buenos Aires, Córdoba y otras zonas.
+  - Requisitos: No figuran requisitos formales (ni documentos ni edad) en la página; solo teléfono y categoría. No exige experiencia ni título según lo visto.
+  - Pago o beneficio: sin datos (no figura tarifa por hora; el servicio es gratis para la trabajadora)
+  - Plazo o ciclo: Abierto todo el año: inscripción inmediata, sin fecha de cierre.
+  - Como postular: https://zolvers.com/trabajo-empleadas-domesticas-en-argentina
+  - Lectura automatica posible: Ninguna vista
+  - Aclaracion: Es una plataforma privada y no un organismo oficial.
+  - Aclaracion: La inscripción se hace desde el formulario del sitio con código de área y celular (8 dígitos, sin el 15), eligiendo categoría; luego se completa el perfil con zona, días y horarios.
+  - Aclaracion: Las ofertas figuran en zolvers.com/reuniones.
+  - Aclaracion: La página advierte que quien pida dinero para activar cuentas es una estafa.
+- **UPACP - Bolsa de trabajo / Centro de Empleo (ESDU)** (abierta o vigente, verificada 2 veces) https://upacp.org.ar/bolsa-de-trabajo/
+  - Que es: Trabajadoras de casas particulares afiliadas al sindicato, y empleadores que buscan personal.
+  - Requisitos: Ser afiliada al sindicato; certificado de buena conducta vigente (Registro Nacional de Reincidencia); declaración escrita de datos personales, tareas que realiza, disponibilidad horaria y cursos certificados; fotocopia del DNI (frente y dorso); una foto 4x4 color; certificado de domicilio. No exige experiencia expresamente, pero se declaran las tareas que se realizan.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Permanente (sin fecha de cierre), pero solo para afiliadas al sindicato.
+  - Como postular: https://upacp.org.ar/bolsa-de-trabajo/
+  - Lectura automatica posible: Ninguna vista
+  - Aclaracion: Es un beneficio exclusivo para afiliadas al sindicato.
+  - Aclaracion: Se postula por WhatsApp (11) 6515-1945 enviando la documentación; los empleadores piden el formulario al mismo número.
+  - Aclaracion: La página no menciona costos de la bolsa ni de la afiliación; se consultan al sindicato.
+- **Profesionalización del trabajo doméstico y de cuidado - cursos gratuitos (Ministerio de Capital Humano)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/domestico/capacitacion
+  - Que es: Cualquier persona que quiera capacitarse en servicios en casas particulares, atención y cuidado de personas, limpieza institucional, espacios verdes, turismo y gastronomía, entre otros.
+  - Requisitos: La página no informa requisitos, certificación ni fechas. Indica acercarse a la Oficina de Empleo más cercana o consultar a la Gerencia de Empleo (por Agencias Territoriales).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito (formación profesional)
+  - Plazo o ciclo: Abierto todo el año; la página no lista fechas ni cohortes, la oferta depende de cada oficina.
+  - Como postular: https://www.argentina.gob.ar/trabajo/domestico/capacitacion
+  - Lectura automatica posible: Ninguna vista
+  - Aclaracion: Página oficial real; no hay formulario de inscripción en ella.
+  - Aclaracion: El camino de postulación es presencial o por consulta en la Oficina de Empleo.
+  - Aclaracion: Cubre servicios domésticos, cuidado de personas, espacios verdes, limpieza institucional, turismo, gastronomía, hotelería y otros servicios como indumentaria y belleza.
+- **Prosegur Argentina - Trabajá con nosotros (Vigilancia y servicios auxiliares)** (abierta o vigente, verificada 2 veces) https://prosegur.referrals.selectminds.com/ar
+  - Que es: Postulantes a vigilancia y servicios auxiliares, logística y transporte de valores, atención al cliente, tecnología de seguridad electrónica y talento joven (becas, aprendices, practicantes).
+  - Requisitos: sin datos; depende de cada aviso. El portal tiene una categoría 'Jóvenes talentos, aprendices y pasantes', que sugiere vías de ingreso sin experiencia, pero no abrí sus avisos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (portal de empleo permanente con formulario general de postulación para perfiles sin aviso vigente). No pude ver avisos concretos con fecha.
+  - Como postular: https://prosegur.referrals.selectminds.com/ar
+  - Lectura automatica posible: Ninguna vista (portal SelectMinds/Radford; no se probó una API)
+  - Aclaracion: Portal oficial con nueve categorías: logística y gestión de caudales, vigilancia y servicios auxiliares, oficina, comercial y atención al cliente, IT, seguridad electrónica, jóvenes talentos, transporte de caudales y 'ver todos'.
+  - Aclaracion: En la carga no aparecía ningún aviso listado, por lo que no se pudo confirmar el aviso de Encargado de Seguridad (Buenos Aires, 3 de noviembre).
+  - Aclaracion: Conviene revisar el portal directamente.
+- **Brink's Argentina - Trabajá en Brink's** (abierta o vigente, verificada 2 veces) https://brinks-careers.com/es/jobs/
+  - Que es: Guardias de seguridad y guardia armado, conductores y otras posiciones de operaciones de efectivo y servicios de seguridad.
+  - Requisitos: sin datos; depende de cada aviso. Hay avisos de 'Vigilador General' (Mar del Plata, ARG-70110), de seguridad técnica y electrónica y comerciales.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año; al 2026-11-23 se vieron 7 avisos de Argentina con el filtro de país (sin fecha de publicación visible).
+  - Como postular: https://brinks-careers.com/es/jobs/?country=Argentina
+  - Lectura automatica posible: Ninguna vista
+  - Aclaracion: Los avisos de Argentina se ven con el filtro País = Argentina; sin ese filtro el sitio muestra 443 avisos globales.
+  - Aclaracion: Puede haber más avisos tras 'Cargar más'.
+  - Aclaracion: Para postular se abre cada aviso con 'Ver empleo'.
+- **Oficinas de Empleo y Agencias Territoriales (Red de Servicios de Empleo)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/agencias-territoriales
+  - Que es: Cualquier persona que busque trabajo o capacitación, incluidas quienes buscan empleo en servicio doméstico, limpieza, seguridad o edificios.
+  - Requisitos: Ninguno listado en la página.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito (orientación laboral, capacitación e intermediación)
+  - Plazo o ciclo: Permanente, abierto todo el año; sin fechas de convocatoria.
+  - Como postular: https://www.argentina.gob.ar/trabajo/agencias-territoriales
+  - Lectura automatica posible: Ninguna vista
+  - Aclaracion: La página no lista direcciones y el enlace al mapa de oficinas estaba roto, por lo que el mapa de oficinas queda sin URL verificada.
+  - Aclaracion: Las Agencias Territoriales dependen de la Secretaría de Trabajo y trabajan junto con las Oficinas de Empleo.
+- **Régimen de Casas Particulares - Trabajadoras (Ministerio de Capital Humano)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/trabajo/casasparticulares/trabajadora
+  - Que es: Personas que trabajan o quieren trabajar en casas particulares: limpieza, mantenimiento, asistencia personal y cuidado no terapéutico de personas enfermas o con discapacidad.
+  - Requisitos: No pide experiencia ni título. Hace falta CUIL y estar registrada en AFIP/ARCA para acceder a los beneficios. Las y los adolescentes pueden trabajar con autorización de madre/padre (Ley 26.844); la página no fija edad mínima.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no publica escalas; remite a la sección de salarios)
+  - Plazo o ciclo: Permanente (régimen vigente, sin convocatoria ni fecha de cierre).
+  - Como postular: https://www.argentina.gob.ar/trabajo/casasparticulares/trabajadora
+  - Lectura automatica posible: Ninguna vista (páginas HTML; resoluciones en Boletín Oficial)
+  - Aclaracion: No es una bolsa de empleo: explica derechos y cómo se registra a la trabajadora.
+  - Aclaracion: La registra el empleador en AFIP con el servicio 'Registrar a su personal doméstico'; los aportes se pagan en banco o servicio de cobro.
+  - Aclaracion: Informa derechos como asignaciones familiares sin perder la AUH, obra social, ART, vacaciones pagas, Tarifa Social Federal de SUBE, cursos gratuitos y Programa Registradas.
+  - Aclaracion: Los conflictos se llevan al Tribunal de Trabajo para el Personal de Casas Particulares (Ley 26.844).
+- **ESDU - Escuela de Capacitación para el Servicio Doméstico (cursos gratuitos y terminalidad escolar)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://esdu.ar/
+  - Que es: Trabajadoras de casas particulares y quienes quieren capacitarse; incluye terminalidad primaria y secundaria.
+  - Requisitos: Ser mayor de 18 años. En algunos cursos se pide foto del DNI en la preinscripción. La certificación de competencias en cuidado de adultos mayores exige 2 años de experiencia en el rubro y residir en CABA o Provincia de Buenos Aires. Los cursos de tareas generales y el de computación no piden experiencia previa visible.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito (capacitación; no es empleo pago)
+  - Plazo o ciclo: Cursos recurrentes durante el año; sin fecha de cierre única. El curso corto del 10, 13 y 17 de noviembre figura con imagen subida en 2025 (ruta /uploads/2025/11/), así que NO es de 2026 y ya pasó.
+  - Como postular: https://esdu.ar/index.php/nuestros-cursos/
+  - Lectura automatica posible: Ninguna vista
+  - Aclaracion: Las fechas de noviembre del curso corto corresponden a 2025 y ya pasaron; para 2026 hay que consultar por WhatsApp o en el formulario de la página.
+  - Aclaracion: Sede en Charcas 2659, CABA; tel. (011) 4821-6444; WhatsApp +54 9 11 6515-1945; contacto@escuelaempleadas.com.ar.
+  - Aclaracion: Ofrece cursos virtuales y presenciales con cupos limitados, terminalidad escolar primaria y secundaria con certificación oficial, y un Centro de Empleo (https://esdu.ar/index.php/centro-de-empleo/) que no se abrió.
+  - Aclaracion: Quienes viven fuera de CABA o de la Provincia de Buenos Aires no cumplen el requisito de residencia de la certificación de competencias en cuidado de adultos mayores.
+- **SUTERH - Sindicato de Trabajadores de Edificios de Renta y Horizontal** (se repite (hoy sin llamado abierto), verificada 2 veces) https://suterh.org.ar/
+  - Que es: Encargados, porteros y personal de edificios de renta y propiedad horizontal.
+  - Requisitos: No aplica. No se vio bolsa de trabajo ni requisitos para ser encargado o portero.
+  - Pago o beneficio: No paga: publica la escala salarial mensual de los trabajadores de edificios.
+  - Plazo o ciclo: Escalas salariales publicadas todos los meses (se vieron las de julio a noviembre de 2026).
+  - Como postular: sin datos
+  - Lectura automatica posible: Ninguna vista
+  - Aclaracion: Es el sitio oficial del sindicato y no un canal de postulación: no se vio bolsa de trabajo.
+  - Aclaracion: Sirve como referencia de escalas salariales y de la sección 'Formación y Capacitación', de la obra social Osperyh y de un programa de terminalidad secundaria.
+- **FATERYH - Federación de Trabajadores de Edificios (convenios 589/10 y 590/10, planilla salarial)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://fateryh.org.ar/
+  - Que es: Personal de edificios y consorcios afiliados; sirve para conocer el convenio y los salarios del rubro.
+  - Requisitos: No aplica. No se vio bolsa de trabajo ni cursos.
+  - Pago o beneficio: No paga: publica la planilla salarial vigente y los convenios 589/10 y 590/10 con la suma fija remunerativa.
+  - Plazo o ciclo: Planilla salarial actualizada periódicamente; se vio la edición de noviembre de 2026 y un archivo histórico.
+  - Como postular: sin datos
+  - Lectura automatica posible: Ninguna vista
+  - Aclaracion: Es el sitio oficial de la federación y no un canal de postulación.
+  - Aclaracion: Sirve como referencia de escalas salariales y de legislación (licencias, reintegro de guardería para hijos de 45 días a 2 años, herramienta para verificar aportes del edificio).

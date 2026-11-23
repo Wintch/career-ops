@@ -1,0 +1,135 @@
+# Trabajo remoto no tecnico
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **TP (Teleperformance) Argentina: oportunidades de trabajo desde casa** (abierta o vigente, verificada 2 veces) https://www.tp.com/careers
+  - Que es: Personas que buscan empleo en relación de dependencia como agentes de atención al cliente (contact center). La página lista a Argentina entre los países con puestos de trabajo desde casa. TP declara más de 6.000 empleados en Argentina (Buenos Aires, Tucumán y Chaco).
+  - Requisitos: La página general no lista requisitos. En el aviso de intérprete inglés/ruso visto en una búsqueda: nivel B2 o superior en ambos idiomas, secundario completo, conexión hogareña de más de 10 MB (no se acepta wifi móvil), cámara y auriceulares propios. Otros avisos de atención al cliente: sin datos.
+  - Pago o beneficio: sin datos (la página no informa sueldo; el aviso de intérprete detalla beneficios pero no monto en lo visto)
+  - Plazo o ciclo: Sin fechas ni avisos visibles en la página; el buscador de vacantes no mostró resultados en la captura.
+  - Como postular: https://www.tp.com/en-us/careers/apply-now/?Id=11820
+  - Lectura automatica posible: No visto (los listados cargan dinámicamente; no se identificó API pública)
+  - Aclaracion: La página no muestra avisos ni declara contratación continua: la disponibilidad depende de los avisos vigentes.
+  - Aclaracion: TP declara presencia en Argentina desde 1994, con más de 6.000 empleados en seis campus (Buenos Aires, Tucumán y Chaco).
+  - Aclaracion: Un aviso de intérprete inglés/ruso, 100 % home office, figuraba en Argentina pero su vigencia no se confirmó.
+  - Aclaracion: Los reclutadores contactan solo desde direcciones @Teleperformance.com y nunca piden pagos ni cheques.
+- **Mindrift (ex Toloka): evaluación y etiquetado de datos de IA** (abierta o vigente, verificada 2 veces) https://mindrift.ai/legal/eligibility-and-geographic-restrictions
+  - Que es: Cualquier persona que pueda evaluar respuestas de IA, clasificar o etiquetar contenido, juzgar relevancia de resultados o verificar información. Sin necesidad de conocimientos técnicos de IA.
+  - Requisitos: Mayor de 18 años (o más si la ley local lo exige); verificación de identidad y residencia; no se necesita experiencia para las tareas básicas de evaluación; los proyectos especializados exigen conocimientos y pasar tareas de calificación; sumarse es gratis. Algunas tareas pueden hacerse desde el celular.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Variable por proyecto; cada tarea muestra una recompensa fija antes de empezar; se paga solo por tareas completadas y aceptadas; los proyectos especializados pagan más. Cobro por Payoneer o Tipalti (PayPal).
+  - Plazo o ciclo: Postulación abierta mediante el botón 'Apply now' (sin cierre ni cupos indicados); pagos los días 5 y 20 de cada mes según el blog oficial.
+  - Como postular: https://mindrift.ai/welcome?utm_source=migration&utm_medium=redirect
+  - Lectura automatica posible: No visto
+  - Aclaracion: Quienes ya tenían cuenta de Toloka no deben reinscribirse.
+  - Aclaracion: Argentina no figura entre las jurisdicciones restringidas ni no soportadas, pero la página no confirma expresamente la elegibilidad y rigen requisitos por proyecto.
+  - Aclaracion: Está prohibido usar VPN para ocultar la ubicación.
+  - Aclaracion: No se confirma que haya cupos abiertos y el acceso a tareas no está garantizado: cambia con el tiempo.
+- **OneForma: proyectos de datos para IA, idiomas y transcripción** (abierta o vigente, verificada 2 veces) https://www.oneforma.com/
+  - Que es: Personas con idiomas, conocimientos de un área o simple disponibilidad, para proyectos de recolección, anotación y evaluación de datos. Algunos proyectos se limitan a ciertos países o idiomas nativos.
+  - Requisitos: No figuran requisitos formales ni se exige experiencia previa en IA; hay que declarar conocimientos, habilidades e idiomas; algunos proyectos piden idiomas o ubicaciones específicas.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Se ve la tarifa antes de aceptar cada proyecto; ejemplos publicados de USD 10 y USD 50 por hora, aunque muchos proyectos no muestran monto; sin comisión de pago ni mínimo según el sitio (cobro, por ejemplo, vía Payoneer).
+  - Plazo o ciclo: Registro de perfil abierto sin fecha de cierre; pagos en ciclo quincenal sin fechas publicadas.
+  - Como postular: https://my.oneforma.com
+  - Lectura automatica posible: No visto
+  - Aclaracion: La página no menciona Argentina ni América Latina, solo 'más de 100 países' sin lista, por lo que la elegibilidad de residentes en Argentina no está confirmada.
+  - Aclaracion: Algunos proyectos están limitados por idioma o país.
+  - Aclaracion: La asignación de proyectos depende de la coincidencia con el perfil (promedio de coincidencia en 24 horas, según la página).
+  - Aclaracion: El registro se hace en my.oneforma.com, lleva unos 5 minutos y no pide CV.
+- **Appen Experts (ex Appen Crowd / Crowdgen): evaluación y anotación de datos** (abierta o vigente, verificada 2 veces) https://appenexperts.com/
+  - Que es: Colaboradores con conocimiento de un área (contabilidad, salud, derecho, lingüística, etc.) para evaluar, anotar, generar y refinar datos de entrenamiento de IA. Según el sitio, la mayoría de los proyectos piden experiencia en un área más que habilidades técnicas.
+  - Requisitos: Experiencia o conocimiento de dominio profesional; sin título ni horas mínimas especificados en la página; verificación del perfil y prueba de calificación según el proyecto.
+  - Pago o beneficio: Tarifas por especialidad con topes ('hasta'): lingüistas hasta USD 95/h; ingenieros de software hasta USD 150/h; contadores hasta USD 160/h; juristas hasta USD 400/h; médicos hasta USD 450/h. Pago en moneda local por transferencia bancaria, PayPal, Payoneer, Airtm u otros. Nunca se cobra por unirse.
+  - Plazo o ciclo: Abierto, por proyecto (la página invita a crear cuenta; no indica fecha de cierre)
+  - Como postular: https://appenexperts.com/
+  - Lectura automatica posible: No visto
+  - Aclaracion: La página no informa países habilitados ni menciona Argentina, y la tarifa depende de la ubicación y las habilidades.
+  - Aclaracion: La revisión del perfil es exigente y la mayoría de los proyectos tiene un paso de calificación.
+  - Aclaracion: Está orientada a perfiles con conocimiento profesional, por lo que no es la mejor opción para un primer empleo sin experiencia.
+- **Cambly: tutoría de conversación en inglés** (abierta o vigente, verificada 2 veces) https://www.cambly.com/english/tutors
+  - Que es: Personas que quieran conversar en inglés con estudiantes por videollamada, en horarios propios.
+  - Requisitos: No se exige título terciario, certificado docente ni experiencia previa; la página no detalla el nivel de inglés ni el equipo necesario.
+  - Sin experiencia previa: si
+  - Pago o beneficio: USD 0,17 por minuto (USD 10,20 por hora); Cambly Kids USD 0,20 por minuto (USD 12 por hora); pago semanal por depósito directo; sin mínimo de horas.
+  - Plazo o ciclo: Abierto, con ingreso de nuevos tutores limitado temporalmente (sin lista de espera ni cierre total declarado)
+  - Como postular: https://www.cambly.com/english/tutors
+  - Lectura automatica posible: No visto
+  - Aclaracion: El ingreso de nuevos tutores está limitado temporalmente para proteger los horarios de los actuales, y el procesamiento puede demorar más.
+  - Aclaracion: La página no lista restricciones por país ni menciona Argentina; se aconseja consultar el centro de ayuda (cambly.com/en/support) o iniciar el registro.
+- **Rev: transcripción, subtitulado y traducción de subtítulos freelance** (abierta o vigente, verificada 2 veces) https://www.rev.com/freelancers
+  - Que es: Personas con muy buen inglés y escritura precisa para transcribir audio, subtitular video o traducir subtítulos (17 idiomas listados) como freelance.
+  - Requisitos: Computadora, internet confiable y buen nivel de inglés (gramática y tipeo rápido y preciso para transcripción); traducción exige bilingüismo fluido; transcripción legal pide familiaridad con terminología legal de EE. UU. No exige título ni experiencia previa para los roles generales según lo visto.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Por minuto de audio o video: transcripción USD 0,40-1,10; subtitulado USD 0,54-1,10; traducción de subtítulos USD 1,70-4,00 o más según idioma; transcripción legal USD 0,55-2,00 o más. Pago semanal por PayPal.
+  - Plazo o ciclo: Abierto con lista de espera: la página dice 'actualmente hay lista de espera por alto volumen de solicitudes; aún se puede postular'
+  - Como postular: https://www.rev.com/freelancers
+  - Lectura automatica posible: No visto
+  - Aclaracion: Las solicitudes se procesan por orden de llegada y se avisa por correo; postular más de una vez no acelera la respuesta.
+  - Aclaracion: Hay prueba de aptitud (inglés y gramática, y traducción si corresponde) y una muestra breve.
+  - Aclaracion: La página no menciona restricciones por país ni Argentina.
+- **Freelancer.com: proyectos por oferta (traducción, carga de datos, redes, asistencia)** (abierta o vigente, verificada 2 veces) https://www.freelancer.com/jobs/
+  - Que es: Freelancers que ofertan por proyectos publicados por clientes de todo el mundo: redacción, traducción, copia de texto, carga de datos, marketing en redes, generación de contactos, entre otros.
+  - Requisitos: Registro gratuito en la plataforma. Cada proyecto fija lo suyo (muestras de trabajo, certificaciones o ubicación). No hay requisito general de título ni de experiencia, pero la competencia favorece a quien tiene reseñas y portfolio.
+  - Pago o beneficio: Variable según proyecto: desde unos 3 USD/hora y 7 USD por tarea hasta más de 1.000 USD de oferta promedio
+  - Plazo o ciclo: Cada proyecto mostraba '6 días restantes'; el registro es gratuito y sin fecha de cierre.
+  - Como postular: https://www.freelancer.com/signup
+  - Lectura automatica posible: No visto
+  - Aclaracion: Es trabajo freelance por oferta, con competencia (de 0 a 161 ofertas por proyecto), no empleo en relación de dependencia.
+  - Aclaracion: En el listado había proyectos de carga de datos, redes sociales y asistencia administrativa, pero ninguno de traducción.
+  - Aclaracion: Las comisiones no figuran en la página (hay una sección 'Fees and Charges' en el pie).
+  - Aclaracion: No se vio restricción por país.
+- **We Work Remotely: soporte al cliente remoto** (abierta o vigente, verificada 2 veces) https://weworkremotely.com/categories/remote-customer-support-jobs
+  - Que es: Personas con buen nivel de inglés que busquen puestos remotos de atención y soporte al cliente en empresas del exterior.
+  - Requisitos: Cada aviso define lo suyo. Suelen pedir inglés y, según el puesto, experiencia previa en atención al cliente; este requisito no se verificó en cada aviso. No es una vía típica de primer empleo.
+  - Pago o beneficio: Varía por aviso; no se vio un monto general (un aviso promocionado indicaba 20 USD/hora o más)
+  - Plazo o ciclo: Avisos nuevos a diario; 99 avisos en la categoría al momento de la consulta, último publicado hace 14 minutos.
+  - Como postular: https://weworkremotely.com/categories/remote-customer-support-jobs
+  - Lectura automatica posible: No visto
+  - Aclaracion: Muchos avisos figuran como 'Anywhere in the World', pero varios se restringen a una región o país (EE. UU., Norteamérica, Canadá, Reino Unido, Europa/EMEA, Asia, Colombia), por lo que no todos admiten residentes en Argentina.
+  - Aclaracion: Hay que leer la restricción de cada aviso antes de postularse; cada uno trae su propia vía de postulación en la página de detalle.
+  - Aclaracion: Las cifras de avisos y la hora del último aviso cambian a lo largo del día.
+- **Remote OK: soporte al cliente remoto (filtro por región Latinoamérica)** (abierta o vigente, verificada 2 veces) https://remoteok.com/remote-customer-support-jobs
+  - Que es: Personas que busquen puestos remotos de soporte al cliente en empresas del exterior, con filtros por región (Worldwide, Latin America, etc.) y por país.
+  - Requisitos: Cada aviso define lo suyo; no se pudo leer ninguno. Para ver lo abierto a Argentina conviene filtrar por Latinoamérica o Worldwide.
+  - Pago o beneficio: Varía por aviso; hay filtro de salario y orden por 'Highest paid'. Montos: sin datos
+  - Plazo o ciclo: Abierto, sin fecha de cierre; la categoría de soporte al cliente muestra 1.139 resultados y la opción de ordenar por 'Latest jobs'.
+  - Como postular: https://remoteok.com/remote-customer-support-jobs
+  - Lectura automatica posible: No visto
+  - Aclaracion: La cantidad de resultados varía entre cargas (1.139 y 1.161).
+  - Aclaracion: Los avisos se cargan dinámicamente, por lo que no se pudieron comprobar ejemplos ni montos.
+  - Aclaracion: Existen filtros por región (Worldwide, Norteamérica, Latinoamérica, Europa, África, Medio Oriente, Asia, Oceanía), por país y por salario mínimo, y cada aviso tiene un botón 'Apply for this job'.
+  - Aclaracion: El listado no muestra fechas ni horas, por lo que las publicaciones nuevas diarias no pudieron verificarse.
+- **Concentrix: búsqueda de empleos (Atención al Cliente, Argentina)** (sin verificar, verificada 1 vez) https://jobs.concentrix.com/
+  - Que es: Personas que buscan puestos de atención al cliente y soporte en contact center, con filtro por ubicación Argentina y por idioma.
+  - Requisitos: sin datos (no figuran en la página principal; dependen de cada aviso)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año según avisos vigentes (no confirmado)
+  - Como postular: https://jobs.concentrix.com/job-search/
+  - Lectura automatica posible: No visto
+  - Aclaracion: Los avisos se cargan dinámicamente y no se vio ninguno de Argentina, por lo que no se confirma que haya vacantes abiertas al 23/11/2026.
+  - Aclaracion: El buscador permite filtrar por ubicación, idioma, ciudad y categoría, y Argentina figura entre las opciones.
+  - Aclaracion: La página incluye una alerta contra fraudes de reclutamiento.
+- **Clickworker: microtareas (datos, categorización, transcripción)** (sin verificar, verificada 1 vez) https://www.clickworker.com/clickworker/
+  - Que es: Personas que quieran hacer microtareas desde el celular o la computadora, con ingresos variables y sin horarios.
+  - Requisitos: La página no indica edad, país ni documentos. No se exige experiencia ni título en la descripción visible. Conviene revisar los términos al registrarse.
+  - Pago o beneficio: Pago por tarea. Cobro semanal tras la aprobación del cliente, vía PayPal o Payoneer (también SEPA/ACH). Montos por tarea: sin datos
+  - Plazo o ciclo: Registro abierto todo el año (formulario y app); disponibilidad de tareas variable
+  - Como postular: https://www.clickworker.com/clickworker/
+  - Lectura automatica posible: No visto
+  - Aclaracion: La página no menciona Argentina ni requisitos por país, por lo que no se confirma que Argentina esté entre los países habilitados.
+  - Aclaracion: No se confirma que haya tareas disponibles de inmediato.
+  - Aclaracion: No es un empleo regular: se cobra por tarea.
+  - Aclaracion: Hay aplicación para iOS y Android y el sitio está disponible en español.
+- **Prolific: estudios de investigación pagos (no es empleo regular)** (sin verificar, verificada 1 vez) https://www.prolific.com/participants
+  - Que es: Personas que quieran participar en estudios y encuestas académicas pagas; es un ingreso ocasional, no un trabajo estable.
+  - Requisitos: Verificación de identidad. Edad y países elegibles: sin datos (consultar https://participant-help.prolific.com/en). No requiere experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Dinero real (no puntos). Retiro mínimo de 6 USD/GBP; tras los primeros cuatro retiros, pago instantáneo por PayPal. Tarifas por estudio: sin datos
+  - Plazo o ciclo: Lista de espera abierta; las invitaciones llegan cuando hay estudios, sin plazo informado
+  - Como postular: https://app.prolific.com/register/participant/waitlist/?campaign_code=CAWAX0JE
+  - Lectura automatica posible: No visto
+  - Aclaracion: No se confirma si Argentina está entre los países admitidos ni cuál es la edad mínima.
+  - Aclaracion: Es un ingreso ocasional por estudios de investigación, no un empleo.
+  - Aclaracion: El proceso es anotarse en la lista de espera (unos 3 minutos), aceptar la invitación, verificar la identidad y hacer una tarea de práctica.

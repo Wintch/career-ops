@@ -1,0 +1,65 @@
+# Atencion al cliente, administracion y call centers
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Atento Argentina - Trabajá con nosotros** (abierta o vigente, verificada 2 veces) https://atento.com/es/trabaja-con-nosotros-argentina/
+  - Que es: Personas que buscan trabajo en un centro de contacto. Puestos de la página: asesores de ventas (con comisión por venta), de atención al cliente, de soporte técnico y bilingües inglés/portugués.
+  - Requisitos: No figuran en la página; no se indica experiencia, edad ni estudios.
+  - Pago o beneficio: Comisiones por venta en el puesto de Asesor de Ventas; el resto, sin datos
+  - Plazo o ciclo: Abierto: cuatro puestos publicados sin fecha de cierre (no se vio fecha de publicación en la página)
+  - Como postular: https://atento.com/es/trabaja-con-nosotros-argentina/ (botón 'Unite' de cada puesto, que lleva a un Microsoft Forms)
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La fecha de publicación de los cuatro puestos no figura en la página.
+  - Aclaracion: Todos los puestos se postulan con el mismo formulario.
+  - Aclaracion: Los requisitos deben confirmarse en el formulario.
+- **Konecta - Join us (selector de país con Argentina)** (abierta o vigente, verificada 2 veces) https://konecta.com/es/unete-a-nosotros
+  - Que es: Personas interesadas en trabajar en Konecta (atención al cliente y BPO); la página ofrece un selector de país que incluye Argentina.
+  - Requisitos: No figuran en la página oficial. En un aviso de bolsa de empleo visto en la búsqueda, para ventas telefónicas en Córdoba, se pedía residir en Córdoba capital y alrededores y se ofrecía primera oportunidad laboral a personas de 18 a 24 años (sin verificar). Otros avisos solicitaban presencialidad en CABA.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (contratación continua; avisos vistos en bolsas de empleo, sin fecha de cierre)
+  - Como postular: https://konecta.com/es/unete-a-nosotros (elegir Argentina en el selector de país)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial no lista vacantes ni describe el proceso de postulación; solo tiene un selector de país con Argentina y contenido institucional.
+  - Aclaracion: La apertura continua se apoya en avisos de bolsas de empleo externas (Computrabajo e Indeed) cuya vigencia no se confirmó.
+  - Aclaracion: Algunos avisos exigen residir en la zona del puesto (Córdoba capital y alrededores) o presencialidad en CABA.
+- **Banco Macro - Sumate a Macro (portal de postulaciones)** (abierta o vigente, verificada 2 veces) https://www.macro.com.ar/conocenos/uniteamacro
+  - Que es: Personas que buscan trabajo en un banco de alcance nacional, en sucursales y áreas de administración; los puestos concretos se ven en el portal de postulaciones.
+  - Requisitos: La página solo pide registrarse y tener un CV actualizado. Los requisitos de estudios y experiencia figuran en cada aviso del portal (no vistos).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (registro de perfil permanente; búsquedas vigentes cambian)
+  - Como postular: https://career8.successfactors.com/career?company=bancomacro&site=VjItekU2b1RxaW9LendsLzhXY0dPZ1cxUT09
+  - Lectura automatica posible: sin datos (portal SuccessFactors)
+  - Aclaracion: La página no lista búsquedas vigentes ni programas de jóvenes talentos; las búsquedas se ven solo dentro del portal de postulaciones.
+  - Aclaracion: Los pasos son crear perfil, completar datos y experiencia, y postularse a las búsquedas con CV actualizado.
+- **Teleperformance (TP) Argentina - Carreras** (sin verificar, verificada 1 vez) https://www.tp.com/es-ar/ubicaciones/argentina/carreras/
+  - Que es: Personas que buscan trabajo en un centro de contacto (atención al cliente y servicios de interacción). TP informa más de 6000 colaboradores en el país, con operaciones en Buenos Aires, Tucumán y Chaco, y una opción de trabajo desde casa.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (la página tiene buscador con filtros pero no mostró ningún aviso)
+  - Como postular: https://www.tp.com/es-ar/ubicaciones/argentina/carreras/ (usar los filtros de país y ubicación); listado global en https://www.tp.com/careers/job-opportunities/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: No se vio ningún aviso, requisito ni fecha, por lo que no se confirma contratación continua.
+  - Aclaracion: El portal enlaza a /careers/work-from-home-opportunity/ y /careers/choose-tp/.
+  - Aclaracion: Queda como ruta de referencia para atención al cliente, sin vacantes confirmadas.
+- **Concentrix - Búsqueda de empleos (filtro Argentina)** (sin verificar, verificada 1 vez) https://jobs.concentrix.com/
+  - Que es: Personas que buscan puestos de atención al cliente, soporte y back office en Concentrix; Argentina figura como país en el filtro de ubicación.
+  - Requisitos: No visibles en el portal; dependen de cada aviso. Los avisos de terceros de tecnología pedían 3 a 5 años de experiencia, pero no son los de nivel inicial.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Portal permanente; avisos cambian (listado sin cargar en la captura)
+  - Como postular: https://jobs.concentrix.com/ (menú «Search & Apply», filtro Location = Argentina)
+  - Lectura automatica posible: sin datos (portal dinámico)
+  - Aclaracion: El listado de vacantes se carga dinámicamente y no se confirman avisos de atención al cliente en Argentina.
+  - Aclaracion: Se vieron avisos de Concentrix para Argentina en sitios de terceros, sobre todo de tecnología en remoto, sin contrastar con el portal oficial.
+  - Aclaracion: Los avisos de tecnología de terceros pedían 3 a 5 años de experiencia y no son de nivel inicial.
+- **TTEC - Comunidad de talentos y búsqueda de empleos** (sin verificar, verificada 1 vez) https://www.ttecjobs.com/es
+  - Que es: Personas interesadas en atención al cliente a distancia en TTEC; es un sitio orientado a Estados Unidos y no mostró Argentina entre sus ubicaciones.
+  - Requisitos: No figuran en la página; dependen de cada aviso. No se pudo confirmar si se pide experiencia.
+  - Pago o beneficio: sin datos (un dato de tercero sin verificar menciona 13 a 16 USD por hora en un puesto remoto para Estados Unidos)
+  - Plazo o ciclo: Portal y comunidad de talentos permanentes; no se confirmó ningún aviso abierto en Argentina
+  - Como postular: https://www.ttecjobs.com/es (buscar por ciudad de Argentina o unirse a la comunidad de talentos)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El sitio está orientado a Estados Unidos, no tiene filtro de país y no menciona Argentina.
+  - Aclaracion: No se confirmó ningún aviso abierto en Argentina.
+  - Aclaracion: Un dato de terceros sin verificar indica 43 empleos de TTEC en Argentina listados en Glassdoor, por ejemplo atención al cliente remota para Estados Unidos.
+  - Aclaracion: La página enlaza un aviso contra estafas laborales.

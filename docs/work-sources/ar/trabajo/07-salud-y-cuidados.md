@@ -1,0 +1,132 @@
+# Salud y cuidados
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Certificación de especialidades de Enfermería (con y sin examen)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/salud/capacitaciones/enfermeria/especialidades
+  - Que es: Enfermeros/as con licencia que quieren certificar una especialidad (cuidados paliativos, salud mental, salud del adulto mayor, paciente crítico neonatal/pediátrico/adulto, materno-infantil, entre otras).
+  - Requisitos: Ser enfermero/a. Art. 7 del reglamento de la Ley 2497/93, cualquiera de: (a) evaluación de comisión especial con al menos 5 años desde el egreso y 3 ejerciendo la especialidad; (b) ser profesor universitario por concurso de la materia; (c) certificado de residencia de la especialidad de al menos 3 años; (d) título universitario de especialista; (e) certificado de entidad científica reconocida con 5 años de egresado, 3 de práctica y curso de 800 horas o más.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (la página no informa aranceles)
+  - Plazo o ciclo: Trámite continuo, sin fecha de cierre visible (con examen según Res. 2055/23; sin examen por Trámites a Distancia, TAD)
+  - Como postular: https://www.argentina.gob.ar/salud/capacitaciones/enfermeria/especialidades
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una certificación de título para profesionales ya graduados, no una oferta de empleo ni una beca.
+  - Aclaracion: Los pasos del trámite están en páginas de servicio enlazadas que no se revisaron.
+  - Aclaracion: No se confirmó fecha de cierre ni calendario de exámenes.
+- **Plataforma Virtual de Salud (cursos oficiales del Ministerio de Salud)** (abierta o vigente, verificada 1 vez) https://pvs.msal.gov.ar/
+  - Que es: Integrantes de equipos de salud con perfiles profesionales y técnicos específicos. Los cursos de enfermería de 2026 apuntan a profesionales de enfermería y, en un caso (Introducción a la enfermería en salud mental), también a auxiliares de enfermería.
+  - Requisitos: Dirigido a trabajadores de la salud de Argentina. Hay que ingresar con usuario; el usuario debe ser el número de documento. Soporte: plataformavirtualdesalud@gmail.com.
+  - Pago o beneficio: Cursos gratuitos según el formato del sitio, pero la página no informa costo: sin datos
+  - Plazo o ciclo: Oferta continua: la sección 'Propuestas activas' lista al menos 20 cursos con ediciones numeradas (por ej. Introducción a la Epidemiología, 4.ª edición). Las fechas de cada edición requieren ingresar a cada curso: sin datos.
+  - Como postular: https://pvs.msal.gov.ar/course/index.php?categoryid=2
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es capacitación y no empleo.
+  - Aclaracion: No se pudo confirmar un curso de salud renal del 21 de septiembre al 7 de diciembre; solo figura un curso de filtrado glomerular (14 horas) sin fechas.
+  - Aclaracion: Existe una categoría 'Próximas' en https://pvs.msal.gov.ar/course/index.php?categoryid=3.
+- **Cruz Roja Argentina - Voluntariado** (abierta o vigente, verificada 2 veces) https://www.cruzroja.org.ar/voluntariado
+  - Que es: Cualquier persona mayor de 16 años que quiera sumarse a actividades humanitarias (incluye primeros auxilios y apoyo en salud, según la actividad elegida).
+  - Requisitos: Ser mayor de 16 años; disponibilidad horaria; compromiso con la misión y los Principios Fundamentales; flexibilidad. No se piden estudios previos. La página no menciona documentación.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sin remuneración (voluntariado)
+  - Plazo o ciclo: Abierto todo el año (sin fechas límite; 'el tiempo que quieras de acuerdo con tu disponibilidad horaria')
+  - Como postular: https://www.cruzroja.org.ar/voluntariado
+  - Lectura automatica posible: no
+  - Aclaracion: Es voluntariado, no empleo rentado.
+  - Aclaracion: El proceso comienza con una charla informativa cuya fecha se elige en el formulario; luego sigue la admisión y se asigna capacitación y destino según la actividad.
+  - Aclaracion: Sirve como primera experiencia para quienes no tienen antecedentes laborales.
+- **Cruz Roja Argentina - Cursos de primeros auxilios, RCP y salud mental** (abierta o vigente, verificada 2 veces) https://www.cruzroja.org.ar/servicios/cursos
+  - Que es: Público general, cuidadores de bebés y niños, docentes y personal de salud (según el curso).
+  - Requisitos: Sin requisitos formales para los cursos de primeros auxilios; cada curso indica su público (cualquier persona interesada, cuidadores y docentes en pediátricos). Hematología en imágenes es para técnicos y profesionales de laboratorio.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Arancel: $36.900 por curso virtual de primeros auxilios (con 20% OFF); Hematología en imágenes $80.000 (con 20% OFF), también en 3 cuotas sin interés; presenciales sin datos
+  - Plazo o ciclo: Cursos virtuales con fecha: Primeros Auxilios Psicológicos 3 de diciembre (18 hs); Primeros Auxilios 1 y 2 de diciembre y 19 y 20 de enero; Pediátricos 15 y 16 de diciembre y 20 y 21 de enero. Pediátricos del 25 y 26 de noviembre figura agotado. La página no indica el año; presenciales por filial: fechas sin datos
+  - Como postular: https://www.cruzroja.org.ar/servicios/cursos
+  - Lectura automatica posible: no
+  - Aclaracion: La página no indica el año de las fechas, por lo que conviene confirmarlas antes de inscribirse.
+  - Aclaracion: En los cursos virtuales se hace clic en 'Comprar', se paga por Mercadopago y se envía el comprobante con nombre completo, DNI, celular y mail a Capacitacionvirtual@cruzroja.org.ar.
+  - Aclaracion: En los cursos presenciales se elige filial y curso en un formulario; empresas e instituciones piden capacitación a medida en capacitacion@cruzroja.org.ar.
+  - Aclaracion: El curso de Primeros Auxilios Pediátricos del 25 y 26 de noviembre figura con cupos agotados.
+- **Sistema Nacional de Residencias de la Salud - Ingreso (Examen Integrado 2026 y Concurso Nación)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/salud/residencias/ingreso
+  - Que es: Profesionales de la salud que quieren hacer una residencia (formación de posgrado en servicio) en instituciones nacionales, de las Fuerzas Armadas o privadas adheridas.
+  - Requisitos: Título de grado de universidad argentina (pública o privada) o de universidad extranjera con reconocimiento oficial en Argentina; los títulos válidos dependen de la especialidad. Preinscripción online en SISA y entrega de documentación presencial en el Hospital Garrahan (Pichincha 1890, CABA, lunes a viernes de 9 a 14) o por correo si se vive a más de 75 km de CABA. Es para profesionales de salud graduados; no sirve para quien busca un primer empleo sin título.
+  - Pago o beneficio: Beca nacional mensual pagada por el Ministerio de Salud de la Nación, sin bonificaciones; los montos están en un PDF (vigente desde el 1 de noviembre) que no pude abrir: sin datos.
+  - Plazo o ciclo: Anual. Ciclo 2026 ya cerrado: preinscripción SISA 6-17 de abril; examen 30 de junio (básicas y posbásicas del equipo de salud) y 8 de julio (Medicina); adjudicación 17-21 de agosto; readjudicaciones 28-30 de septiembre y 29 de octubre; tomas de cargo 1 de septiembre, 1 de octubre y 1 de noviembre. Ciclo 2027: sin datos (por el patrón, abril-julio, sin confirmar).
+  - Como postular: https://residencias.msal.gov.ar
+  - Lectura automatica posible: sin datos (páginas HTML en argentina.gob.ar)
+  - Aclaracion: El cronograma publicado corresponde al ciclo 2026, que ya terminó; no se vio el calendario de 2027.
+  - Aclaracion: Las normas del ciclo son la Resolución 555/2026 (Examen Integrado) y la Resolución 2012/2026 (Concurso Nación), publicadas en el Boletín Oficial el 8/05/2026.
+  - Aclaracion: Los montos de la beca figuran en un PDF vigente desde el 1 de noviembre.
+- **Residencias de Enfermería - Ministerio de Salud** (se repite (hoy sin llamado abierto), verificada 1 vez) https://www.argentina.gob.ar/salud/capacitaciones/enfermeria/residencias
+  - Que es: Enfermeros/as profesionales interesados en una residencia de enfermería, descrita como 'formación en servicio' con práctica clínica, capacitación continua y trabajo interdisciplinario.
+  - Requisitos: La página de enfermería no lista requisitos. Por la normativa del sistema nacional, hace falta título de grado habilitante reconocido en Argentina; los títulos válidos dependen de la especialidad.
+  - Pago o beneficio: Beca de residencia (ver el Sistema Nacional de Residencias); monto: sin datos
+  - Plazo o ciclo: Anual, por el ciclo del Sistema Nacional de Residencias (2026: preinscripción 6-17 de abril, ya cerrada; 2027: sin datos)
+  - Como postular: https://www.argentina.gob.ar/salud/residencias/ingreso
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página de enfermería solo describe las residencias y remite al ingreso del Sistema Nacional de Residencias; no tiene fechas, requisitos ni pago propios.
+  - Aclaracion: Los requisitos indicados provienen de la normativa del sistema nacional y no de la página de enfermería.
+  - Aclaracion: Es para enfermeros/as graduados, no para un primer empleo sin título.
+- **Residencias de Salud de la Provincia de Buenos Aires** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.ms.gba.gov.ar/sitios/residencias/
+  - Que es: Profesionales de la salud que buscan residencia en hospitales bonaerenses; también preresidencias para médicos recién graduados.
+  - Requisitos: No figuran en la portada. Las preresidencias (programa de 6 meses) son para médicos graduados hace no más de 2 años. Hay reglamentos en PDF (Reglamento de Residencias y de Preresidencias) en la propia portada. Es para profesionales de salud graduados.
+  - Pago o beneficio: sin datos (la portada no informa montos)
+  - Plazo o ciclo: Anual. La portada muestra el concurso unificado 2025 (CABA, Provincia y Nación) y un concurso 2024 con plan de incentivos; fechas del concurso 2026 o 2027: sin datos. Contacto del departamento: departamentoresidencias@gmail.com (lunes, martes y viernes de 10 a 13; miércoles y jueves de 16 a 18).
+  - Como postular: https://www.ms.gba.gov.ar/sitios/residencias/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El enlace al concurso 2025 devolvió error 404, por lo que no se pudieron leer sus fechas.
+  - Aclaracion: El calendario 2026 completo figura en el sistema nacional de residencias.
+  - Aclaracion: Las preresidencias son para médicos recién graduados y las residencias para profesionales de salud graduados.
+- **Hospital Garrahan - Recursos Humanos / Trabaja con nosotros (HiringRoom)** (sin verificar, verificada 1 vez) https://www.garrahan.gov.ar/recursos-humanos-web
+  - Que es: Postulantes a puestos del hospital (asistenciales, técnicos y administrativos); los concursos abiertos se publican en el Boletín Oficial y en la sección Recursos Humanos.
+  - Requisitos: sin datos (depende de cada vacante, al 23/11/2026 no hay ninguna publicada)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin vacantes publicadas al 2026-11-23; ciclo de búsquedas: sin datos
+  - Como postular: https://hospitalgarrahan.hiringroom.com/jobs
+  - Lectura automatica posible: sin datos (plataforma HiringRoom, no verificada)
+  - Aclaracion: El enlace de HiringRoom devolvió error 404 y la raíz del subdominio estaba vacía.
+  - Aclaracion: La página oficial de Recursos Humanos dice textualmente 'No hay vacantes publicadas.'
+  - Aclaracion: No se pudo confirmar cuándo se publican nuevas búsquedas.
+  - Aclaracion: El teléfono general del hospital es (+54 11) 4122-6000, sin indicación de que atienda postulaciones.
+- **Hospital Garrahan - Residencias** (sin verificar, verificada 1 vez) https://www.garrahan.gov.ar/residencias
+  - Que es: Profesionales del área de la salud que quieren una residencia de posgrado inmediato en el hospital.
+  - Requisitos: Profesional del área de la salud (título); el resto sin datos
+  - Pago o beneficio: Renta mensual, monto sin datos
+  - Plazo o ciclo: sin datos (no figuran fechas de inscripción ni de examen)
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no muestra convocatoria, fechas ni requisitos; solo un enlace a un PDF de condiciones de desempeño que no se pudo abrir.
+  - Aclaracion: Las novedades mencionan 'Orden de mérito - Becas Hospitalarias 2026-2027' y 'Egresos de Programas de Formación 2026', que no son la convocatoria a residencias.
+  - Aclaracion: Es solo para profesionales de la salud con título, no una vía para quien no tiene estudios.
+- **Cruz Roja Argentina - Tecnicatura Superior en Enfermería** (sin verificar, verificada 1 vez) https://www.cruzroja.org.ar/institutos-superiores/enfermeria
+  - Que es: Personas que quieren formarse como técnicos/as en enfermería; sirve para quien no tiene experiencia en salud.
+  - Requisitos: Estudios secundarios completos; los requisitos de ingreso varían según la localidad (consultar en el instituto local)
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no figura el arancel)
+  - Plazo o ciclo: sin datos (la página no lista fechas de inscripción; se consulta en el instituto de cada localidad)
+  - Como postular: https://www.cruzroja.org.ar/institutos-superiores/enfermeria
+  - Lectura automatica posible: no
+  - Aclaracion: Se trata de formación y no de un empleo; abre la puerta a trabajar como enfermero/a.
+  - Aclaracion: La carrera dura 3 años, es presencial y otorga el título de Tecnicatura Superior en Enfermería.
+  - Aclaracion: Para postularse se elige la localidad en un menú desplegable y se envía; la página no describe más pasos.
+  - Aclaracion: Contacto: (5411) 6065-0450 / info@cruzroja.org.ar.
+- **Universidad Favaloro - Bolsa de Empleo (incluye el Hospital Universitario Fundación Favaloro)** (sin verificar, verificada 1 vez) https://www.favaloro.edu.ar/bolsa-de-empleo/
+  - Que es: Estudiantes, graduados y profesionales externos; la bolsa publica vacantes de departamentos y servicios del hospital y de la universidad.
+  - Requisitos: Para el aviso visto: experiencia en atención al cliente (preferentemente en ámbitos educativos), secundario completo con analítico, manejo de Office, buena comunicación. Un aviso de 2025, no vigente.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto sin fecha límite visible, pero el único aviso está fechado en enero de 2025 (desactualizado)
+  - Como postular: mailto:empleos@ffavaloro.org
+  - Lectura automatica posible: no
+  - Aclaracion: El único aviso visible es 'Empleado/a Administrativo' para Admisiones e Informes (Zona Congreso, CABA), de enero de 2025, probablemente vencido.
+  - Aclaracion: Se postula enviando el CV actualizado a empleos@ffavaloro.org con el asunto 'INFORMES'.
+  - Aclaracion: No se vieron puestos de salud ni de enfermería.
+- **Hospital Italiano de Buenos Aires - Trabaja con nosotros** (sin verificar, verificada 1 vez) https://www.hospitalitaliano.org.ar/
+  - Que es: Postulantes a puestos del hospital (grande, con muchos puestos de enfermería, técnicos y administrativos; esto último no se verificó en la página).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos (ruta con # en el navegador, probablemente cargada por script)
+  - Aclaracion: La página es una aplicación de una sola página y al cargarla solo mostró el título y el encabezado 'Trabaja con nosotros', sin vacantes ni instrucciones.
+  - Aclaracion: No se confirmó ninguna vacante, requisito ni forma de postulación.
+  - Aclaracion: Antes de listarla hay que encontrar la página de empleo vigente.

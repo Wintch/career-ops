@@ -1,0 +1,69 @@
+# Grupo 62: Trabajadores forestales, pescadores y cazadores
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Prefectura Naval Argentina - Habilitación para el personal navegante y terrestre de la Marina Mercante (libreta de embarco y habilitación de pesca)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/servicio/habilitacion-para-el-personal-navegante-y-terrestre-de-la-marina-mercante
+  - Que es: Quienes trabajan o quieren embarcarse como tripulantes, incluida la habilitación temporal de cubierta para 'pesca'. Es el trámite de registro y habilitación que exige el Estado a la gente de mar.
+  - Requisitos: Solicitud escrita; ficha digital con foto, firma y dígito; tres fotos 4x4 fondo celeste; examen médico (Ordenanza Marítima 02/13); certificado de antecedentes (Reincidencia); copia de DNI y constancia de domicilio; constancia de estudios primarios o secundarios según el trámite; título o certificado original y certificados STCW/78 cuando corresponda. Presupone ya contar con título, certificado o prueba documental de la Marina Mercante.
+  - Pago o beneficio: No es un empleo: es un trámite con aranceles (Cuadro Tarifario de Aranceles de Prefectura, Decreto 2756/75); montos: sin datos.
+  - Plazo o ciclo: Trámite permanente (abierto todo el año). Plazo: la cabecera dice '30 días' y la sección de silencio administrativo dice '30 días hábiles'; la página es inconsistente.
+  - Como postular: https://www.argentina.gob.ar/servicio/habilitacion-para-el-personal-navegante-y-terrestre-de-la-marina-mercante
+  - Lectura automatica posible: sin datos (página HTML)
+  - Aclaracion: No es una oferta de trabajo ni un curso: es un trámite de habilitación para quien ya tiene la formación.
+  - Aclaracion: La atención es presencial en cualquier dependencia de Prefectura (Sección POLINAVE), de lunes a viernes de 8 a 13 hs; el personal terrestre también puede usar TAD.
+  - Aclaracion: Varios enlaces de antecedentes penales de la página apuntan a un video de YouTube, por lo que conviene gestionar el certificado en el Registro Nacional de Reincidencia.
+- **EFOCAPEMM - Escuelas de Formación y Capacitación del Personal de la Marina Mercante (cursos de Marinero, Auxiliar de máquinas y Auxiliar de factoría)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/capacitarme-como-personal-embarcado-de-la-marina-mercante
+  - Que es: Cualquier persona interesada que reúna los requisitos y quiera formarse para embarcarse. La página lista sedes por zona (por ejemplo Posadas, Corrientes, Rosario, Paraná, La Plata, Mar del Plata y Bahía Blanca).
+  - Requisitos: Mínimo 18 años; secundario completo; sin antecedentes profesionales desfavorables ni policiales/judiciales que desaconsejen el ingreso; saber nadar y remar; aprobar examen psicofísico (Ordenanza Marítima 02/13, tomo 5) y examen intelectual de ingreso; documentación: solicitud, DNI, certificado de estudios y partida de nacimiento (original y copia). Pista de 4 meses para camareros, cocineros o enfermeros: certificado de competencia o al menos un año de experiencia afín. Requiere secundario completo; no pide experiencia previa en las pistas de 8 meses.
+  - Sin experiencia previa: si
+  - Pago o beneficio: La página no menciona sueldo ni beca: sin datos.
+  - Plazo o ciclo: Inscripción 'durante el período de convocatoria de ese año'; la página indica ciclo anual pero no publica fechas (sin datos). Vacantes limitadas, ingreso por mérito.
+  - Como postular: https://www.argentina.gob.ar/capacitarme-como-personal-embarcado-de-la-marina-mercante
+  - Lectura automatica posible: sin datos (página HTML)
+  - Aclaracion: Sin evidencia de una convocatoria abierta con fecha vigente; conviene confirmar fechas en la sede.
+  - Aclaracion: Los cursos duran 8 meses (4 meses para la pista de camareros, cocineros o enfermeros).
+  - Aclaracion: Al aprobar se obtiene el documento de embarco habilitante.
+  - Aclaracion: Se presenta la documentación en cualquier sede de EFOCAPEMM durante el período de inscripción.
+- **Centro de Formación y Capacitación en Áreas Protegidas (CFyCAP) - Curso de Guardaparques Nacionales, Embalse (Córdoba)** (sin verificar, verificada 1 vez) https://capacitacionapn.gob.ar/guardaparques-nacionales/
+  - Que es: Aspirantes a guardaparque que aprobaron las etapas previas del concurso (Agrupamiento Técnico o Conservación Territorial). El curso es la etapa final del proceso de selección.
+  - Requisitos: Según la página del Agrupamiento Técnico: entre 18 y 34 años al postularse; título terciario o universitario de pregrado de al menos dos años relacionado con el puesto; ser argentino nativo, por opción o naturalizado (Decreto 214/06); aprobar las cinco etapas previas del proceso de selección (el curso es la etapa 6). Requiere título: NO apto para personas sin estudios terciarios. Requisitos físicos: no mencionados en lo visto.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Cursada de dedicación exclusiva (1884 horas en tres trimestres); la APN ofrece alojamiento, equipamiento, viajes de estudio y un estipendio para alimentación y gastos personales. Monto: sin datos.
+  - Plazo o ciclo: Página con rótulo 'CONVOCATORIA 2026' y 'Bases y condiciones convocatoria 2026'; no se vio fecha de inscripción ni de cierre. Los cursos se abren según necesidad de vacantes y las convocatorias se anuncian con anticipación.
+  - Como postular: https://capacitacionapn.gob.ar/tecnico
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se pudo confirmar si hay inscripción abierta ni su fecha.
+  - Aclaracion: El curso es la etapa final de un proceso de selección por concurso público, por lo que no es de acceso directo.
+  - Aclaracion: Los requisitos incluyen título terciario o universitario de pregrado y edad entre 18 y 34 años, por lo que no es apto para personas sin estudios terciarios.
+  - Aclaracion: Contacto: +54 11 3985-3800 int. 61003, lunes a viernes de 8 a 16 hs.
+- **Arauco Argentina - portal de empleo (jobs.arauco.com, sitio Argentina)** (sin verificar, verificada 1 vez) https://jobs.arauco.com/Argentina/
+  - Que es: Personas que buscan trabajo en una empresa forestal e industrial con operaciones en Misiones y otras provincias. El portal agrupa búsquedas de todo el país; los perfiles forestales de campo y los industriales no se pudieron comprobar en la página vista.
+  - Requisitos: sin datos; no se vio ninguna publicación.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Portal con ruta de postulación permanente (carga de CV y perfil); frecuencia de búsquedas: sin datos. No se vio ninguna vacante concreta.
+  - Como postular: https://jobs.arauco.com/Argentina/content/Ofertas-Laborales/?locale=es_ES
+  - Lectura automatica posible: sin datos (el listado se carga dinámicamente)
+  - Aclaracion: No se confirmó que haya vacantes abiertas: el listado de ofertas no cargó.
+  - Aclaracion: El portal ofrece cargar el CV para crear un perfil y tiene secciones de Ofertas Laborales, Raíz de Talento y Pasantías.
+  - Aclaracion: No hay evidencia de requisitos de experiencia.
+- **Servicio Nacional de Manejo del Fuego - Capacitación permanente de brigadistas forestales** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/seguridad/servicio-nacional-de-manejo-del-fuego/que-es-y-como-funciona-el-servicio-nacional-de-0
+  - Que es: Brigadistas forestales y combatientes de incendios de las jurisdicciones (provincias y organismos) que piden la capacitación. No es una inscripción abierta al público general según lo visto.
+  - Requisitos: No se indican requisitos ni elegibilidad en la página.
+  - Pago o beneficio: sin datos; no se mencionan sueldo ni beca.
+  - Plazo o ciclo: Capacitación 'a solicitud de las jurisdicciones'; sin fechas (sin datos). No hay inscripción individual visible.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es capacitación para personal de las jurisdicciones, no una vía de postulación abierta para particulares.
+  - Aclaracion: No figura contacto ni procedimiento.
+  - Aclaracion: Quien quiera ser brigadista debe consultar a su jurisdicción (provincial o parque).
+- **CAPECA - Cámara de Armadores de Pesqueros y Congeladores de la Argentina: empresas asociadas** (sin verificar, verificada 1 vez) https://www.capeca.org.ar/index.php/empresas-asociadas
+  - Que es: Personas que buscan embarcarse o trabajar en plantas de la pesca industrial: la página lista las empresas armadoras y procesadoras asociadas, útiles para dirigirse a cada una. La cámara no es una bolsa de trabajo.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos; sin convocatoria ni vía de postulación.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos (directorio en HTML)
+  - Aclaracion: No es una bolsa de trabajo: es un directorio de 18 empresas asociadas del sector pesquero.
+  - Aclaracion: No contiene ofertas de empleo ni sección de carreras.
+  - Aclaracion: Cada empresa tendría que consultarse en su propio sitio.

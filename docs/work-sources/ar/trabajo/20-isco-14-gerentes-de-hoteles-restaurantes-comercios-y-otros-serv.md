@@ -1,0 +1,69 @@
+# Grupo 14: Gerentes de hoteles, restaurantes, comercios y otros servicios
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Mostaza - Trabajá con nosotros (video CV)** (abierta o vigente, verificada 2 veces) https://videocv.mostazaweb.com.ar/
+  - Que es: Personas que buscan trabajo en restaurantes de la cadena (empleado/a) o en oficinas, y quienes buscan puestos de conducción de local: Gerente de Local, Supervisor de Operaciones, Gerente de Operaciones y Técnico de Mantenimiento. El formulario ofrece Argentina y Uruguay.
+  - Requisitos: No se indicaron requisito de edad ni de experiencia en la página. El formulario pide: datos personales, país (Argentina o Uruguay), fecha de nacimiento, nivel de estudios (desde secundario hasta universitario u 'Otros'), preferencia (restaurantes u oficinas), área y puesto de interés, domicilio validado en mapa, disponibilidad horaria, un video vertical de presentación de hasta 45 segundos (obligatorio), CV en .doc, .docx o .pdf, y un juego de evaluación en línea de unos 10 minutos con un solo intento.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: formulario de postulación en línea sin fecha de cierre visible
+  - Como postular: https://videocv.mostazaweb.com.ar/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se vieron ubicaciones ni vacantes concretas; la vacante efectiva depende de la cercanía del local al domicilio ingresado, dato no verificado en la página.
+  - Aclaracion: El video de presentación es obligatorio y el juego de evaluación en línea permite un solo intento.
+  - Aclaracion: La empresa declara que no solicita ningún pago en la contratación.
+  - Aclaracion: Consultas sobre la postulación: cvmostaza@mostazaweb.com.ar.
+- **Decathlon Argentina - Portal de empleo (Grupo One / HiringRoom)** (abierta o vigente, verificada 2 veces) https://grupone.hiringroom.com/portal/decathlon
+  - Que es: Postulantes a tiendas de artículos deportivos. En la fecha de consulta se vieron: Líder de Equipo (Córdoba, nivel supervisor), Asesor Comercial y Base de Talento (Vicente López, nivel junior). Los líderes de equipo son el escalón de conducción de tienda.
+  - Requisitos: sin datos: los requisitos de cada aviso no se vieron (hay que abrir cada publicación). Dos de los tres avisos son de nivel Junior (Asesor Comercial, Base de Talento) y uno de nivel Supervisor (Líder de Equipo); la página no dice si se exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año mediante la 'Base de Talento' (opción 'Subir CV a la base'). Avisos vistos al 2026-11-23: 3, todos publicados 'hace 1 mes' (fechas exactas no disponibles).
+  - Como postular: https://grupone.hiringroom.com/portal/decathlon
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los tres avisos vistos estaban publicados hacía un mes y son rotativos.
+  - Aclaracion: Las vacantes vistas son de Córdoba y Vicente López (Buenos Aires).
+  - Aclaracion: El portal está alojado en HiringRoom bajo el Grupo One; no se confirmó que sea el canal oficial de Decathlon más allá de llevar su nombre.
+- **IRSA - Talentos (shoppings, oficinas y hoteles del grupo)** (abierta o vigente, verificada 2 veces) https://www.irsa.com.ar/talentos/
+  - Que es: Postulantes a las áreas de la compañía: Negocios, Administración y Operaciones (ingeniería, mantenimiento, atención al cliente, seguridad, estacionamiento). Los testimonios mencionan Alto Palermo Shopping y Córdoba Shopping. Es la vía hacia puestos de administración y gerencia de centros comerciales.
+  - Requisitos: La página no fija requisitos generales; cada vacante tiene los suyos. Se valoran actitud, comunicación, flexibilidad y disposición a aprender. No se indica experiencia mínima general.
+  - Pago o beneficio: sin datos (no se informa remuneración; la página solo menciona propuesta de valor con bienestar, formación, flexibilidad y ahorro)
+  - Plazo o ciclo: abierto todo el año (búsquedas puntuales); el 2026-11-23 el portal Teamtailor listaba 16 vacantes, sin fecha de cierre visible
+  - Como postular: https://irsa.na.teamtailor.com/jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no lista vacantes: el botón 'Sumate' lleva al portal Teamtailor https://irsa.na.teamtailor.com/jobs.
+  - Aclaracion: Hay ubicaciones en CABA y en shoppings de Córdoba, Mendoza, Rosario, Salta, Neuquén, Río Gallegos y La Pampa, aunque la página no indica cuáles tienen vacantes.
+  - Aclaracion: El proceso incluye entrevista virtual con RR.HH., entrevista presencial con el líder del área, oferta y estudios preocupacionales.
+  - Aclaracion: El programa IRSA CREW para jóvenes profesionales y el canal HiringRoom no fueron verificados.
+- **Megatlon - RRHH** (abierta o vigente, verificada 2 veces) https://megatlon.com/rrhh/
+  - Que es: Postulantes a las sedes y a la oficina central de la cadena de gimnasios; sería la vía hacia puestos de conducción de sede. Los puestos no se vieron en la página.
+  - Requisitos: No se informan en la página; cada vacante tiene su detalle en HiringRoom. La página menciona búsquedas de profesores, vendedores y recepcionistas, sin indicar experiencia mínima.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año; el 2026-11-23 el portal HiringRoom mostraba 16 vacantes y una opción 'Subir CV a base general'
+  - Como postular: https://megatlon.hiringroom.com/jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: HiringRoom es solo la plataforma; no interviene en la decisión de contratación.
+  - Aclaracion: No se abrieron las fichas individuales, por lo que no se conocen ubicaciones ni fechas.
+  - Aclaracion: También se puede escribir a postulante@megatlon.com.ar.
+- **Grupo Falabella (Sodimac, Falabella) - Muévete: empleos** (sin verificar, verificada 1 vez) https://muevete.falabella.com/
+  - Que es: Postulantes a las tiendas y sedes del grupo. No se pudo ver qué puestos ni qué países lista; por la actividad de Sodimac en Argentina corresponde a jefaturas de tienda y de sección, pero eso no se vio en la página.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos: la página cargó solo con su título ('Trabaja en Falabella – Empleos en el Grupo Falabella – Muévete'), sin avisos, países ni fechas visibles
+  - Como postular: sin datos (resultados de búsqueda de medios y de Indeed, no oficiales y varios de 2022, mencionan que la postulación se hace con usuario en la plataforma Aira; no se pudo confirmar en la página oficial)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El contenido de la página es dinámico y no se pudo leer ninguna oferta ni confirmar vacantes para Argentina.
+  - Aclaracion: No se halló nota oficial ni vacantes vigentes de 2026.
+  - Aclaracion: No se puede confirmar convocatoria abierta ni ciclo.
+- **Grido Helados - Trabajá con nosotros** (sin verificar, verificada 1 vez) https://argentina.gridohelado.com/trabajo-con-nosotros/
+  - Que es: Postulantes a puestos en la empresa y quienes quieran trabajar en una franquicia Grido (encargado/a de local). La página es un portal de enlaces: 'Trabajá en Grido' va a una bolsa externa y 'Trabajá en una franquicia Grido' a otra página del sitio.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.halaxia.com/empresa/gridoempleo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial es un portal de enlaces sin vacantes, formulario ni requisitos.
+  - Aclaracion: 'Trabajá en Grido' lleva a una plataforma de terceros (Halaxia) donde no se pudo leer ninguna vacante, por lo que no se confirman búsquedas abiertas.
+  - Aclaracion: La página de franquicias (https://argentina.gridohelado.com/trabaja-en-una-franquicia/) no fue verificada en detalle.

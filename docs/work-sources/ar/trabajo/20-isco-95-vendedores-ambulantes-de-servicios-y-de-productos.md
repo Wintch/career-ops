@@ -1,0 +1,102 @@
+# Grupo 95: Vendedores ambulantes de servicios y de productos
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Rosario - Permiso para venta de diarios y revistas en la vía pública (escaparate)** (abierta o vigente, verificada 2 veces) https://www.rosario.gob.ar/inicio/solicitar-permiso-para-venta-de-diarios-y-revistas-en-la-publica
+  - Que es: Quien quiera instalar un escaparate en la calle para vender diarios, revistas y artículos de la industria de la prensa.
+  - Requisitos: No requiere experiencia laboral. Documentación: original y copia del DNI, certificado de buena conducta, libre multa personal y comercial, 2 fotos carnet, inscripción en AFIP, formulario 'Solicitud de permiso para escaparate', croquis a escala del puesto con medidas y ubicación exacta, una foto de cada lado del puesto. Si lo hace un tercero, mandato firmado y certificado. No debe obstruir el paso peatonal ni la visibilidad de los conductores y solo se pueden vender productos del rubro diarios y revistas.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sin sueldo: es un permiso para trabajar por cuenta propia. El trámite figura 'sin costo', pero se debe pagar el canon por uso del espacio público (monto: sin datos).
+  - Plazo o ciclo: Abierto todo el año: trámite presencial sin ventanas de solicitud indicadas; el permiso dura un año.
+  - Como postular: https://www.rosario.gob.ar/inicio/solicitar-permiso-para-venta-de-diarios-y-revistas-en-la-publica
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: El trámite es presencial y personal técnico revisa la seguridad e higiene del puesto.
+  - Aclaracion: La página no indica plazos de resolución ni cupos.
+  - Aclaracion: La condición de residencia no figura en esta página.
+  - Aclaracion: Solo se pueden vender productos del rubro diarios y revistas.
+- **Rosario - Asesoramiento en trámites para emprendedores de la economía popular (feriantes barriales)** (abierta o vigente, verificada 2 veces) https://www.rosario.gob.ar/inicio/solicitar-asesoramiento-sobre-tramites-para-emprendedores-de-la-economia-popular
+  - Que es: Feriantes barriales, recuperadores urbanos y recicladores, y emprendedores de la economía popular.
+  - Requisitos: Ser feriante barrial, recuperador urbano o reciclador. No se piden otros requisitos ni experiencia mínima en la página.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sin pago ni sueldo: es un servicio de orientación (costo: no se menciona, presumiblemente gratuito pero no confirmado).
+  - Plazo o ciclo: Abierto todo el año: atención de lunes a viernes, sin fechas de convocatoria.
+  - Como postular: https://www.rosario.gob.ar/inicio/solicitar-asesoramiento-sobre-tramites-para-emprendedores-de-la-economia-popular
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Es un servicio de orientación y no un empleo ni otorga beneficios por sí mismo.
+  - Aclaracion: El costo no se menciona; presumiblemente es gratuito, pero no está confirmado.
+  - Aclaracion: Hay dos lugares de atención, con horarios distintos, y ambos funcionan de lunes a viernes.
+- **Rosario - Organizar una feria autogestiva o cooperativa** (abierta o vigente, verificada 2 veces) https://www.rosario.gob.ar/inicio/organizar-una-feria-autogestiva-o-cooperativa
+  - Que es: Grupos autoorganizados de emprendedores que quieran vender colectivamente en su propia feria en plazas o parques.
+  - Requisitos: Haber completado el Programa Rosario Emprende; tener productos fiscalizados; contar con estructura propia para armar la feria; reunir al menos 15 emprendedores interesados; hacer una capacitación de tres clases teórico-prácticas de la Dirección de Ferias y Mercados. Al final: borrador de reglamento, comisión de feriantes y acta acuerdo con la Municipalidad.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Sin costo (no es un empleo ni una beca; es un acompañamiento para vender en una feria propia)
+  - Plazo o ciclo: Trámite permanente sin fechas ni plazos publicados; atención presencial de lunes a viernes de 8 a 14 h
+  - Como postular: Consultar primero con los promotores de Economía Social del distrito (presencial o por WhatsApp): Oeste 3415781251, Sudoeste 3415778176, Centro 3415781209, Noroeste 3415212738, Sur 3413951000, Norte 3415781237
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: No es una oferta laboral sino un acompañamiento a grupos de emprendedores.
+  - Aclaracion: Exige requisitos previos exigentes, como haber completado el Programa Rosario Emprende y reunir al menos 15 emprendedores interesados.
+  - Aclaracion: La vía de ingreso es abierta, sin convocatoria con fecha.
+- **Rosario - Programa de empleo independiente** (abierta o vigente, verificada 2 veces) https://www.rosario.gob.ar/inicio/ingresar-al-programa-de-empleo-independiente
+  - Que es: Personas que quieran armar un emprendimiento de producción o servicios y cumplan al menos una condición de acceso.
+  - Requisitos: Cumplir al menos una condición: formación profesional validada, seguro de desempleo, Seguro de Capacitación y Empleo, o Programa Jóvenes con Más y Mejor Trabajo. No se pide experiencia ni título explícitos. Para producciones o servicios que necesitan apoyo técnico y financiero para consolidarse.
+  - Pago o beneficio: Curso de 3 meses; al finalizar se otorga un subsidio para iniciar el emprendimiento (monto no indicado en la página)
+  - Plazo o ciclo: Ingreso por consulta en las oficinas de empleo (CMD); la página no publica fechas ni cupos
+  - Como postular: Acercarse al CMD del distrito o escribir a emprendimientos@rosario.gob.ar. CMD Centro: Wheelwright 1486 (tel. 4802999 int. 495); Norte: Warnes 1917 (4806822 int. 482); Noroeste: Provincias Unidas 150 bis (4807680 int. 355); Oeste: Av. Pte. Perón 4602 (4805860 int. 486); Sudoeste: Av. Francia 4435 (4809090 int. 311); Sur: Uriburu 601 (4809890 int. 395)
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: El monto del subsidio no figura en la página.
+  - Aclaracion: Se considera un camino abierto porque la vía de ingreso es permanente, pero no hay un ciclo con fechas; conviene confirmar el cupo con el CMD.
+  - Aclaracion: Exigir alguna de las condiciones de acceso limita el ingreso de quienes no cuentan con ninguna.
+- **Rosario - Plataforma de intermediación laboral (registro de CV, Dirección de Empleo)** (abierta o vigente, verificada 2 veces) https://www.rosario.gob.ar/inicio/registrar-su-cv-para-buscar-trabajo-en-empresas
+  - Que es: Personas que buscan empleo en empresas de Rosario. La página no indica criterios de elegibilidad.
+  - Requisitos: Solo crear un perfil en la plataforma y completar los formularios. No se pide experiencia ni título para registrarse.
+  - Pago o beneficio: Sin costo indicado (la página no menciona costo); es una bolsa de empleo, la remuneración depende de cada empresa
+  - Plazo o ciclo: Abierto todo el año en la práctica (registro permanente); la página no afirma expresamente que sea continuo ni indica fecha de cierre
+  - Como postular: https://empleo.produccionrosario.gob.ar/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Es una bolsa de empleo: la Dirección revisa los CV cuando una empresa solicita personal y no garantiza empleo.
+  - Aclaracion: La página no afirma expresamente que el registro sea continuo ni indica fecha de cierre.
+  - Aclaracion: La plataforma de destino no se abrió; solo se vio el enlace en la página oficial.
+- **Santa Fe (capital) - Oficina de Empleo Municipal y Oficina Móvil de Empleo** (abierta o vigente, verificada 2 veces) https://santafeciudad.gov.ar/secretaria-de-produccion-y-empleo/empleo-y-formacion-para-el-trabajo/
+  - Que es: Personas desocupadas residentes en la ciudad de Santa Fe. La Oficina Móvil visita barrios y recoge datos de posibles candidatos para empresas que buscan personal.
+  - Requisitos: sin datos: la página no indica requisitos. Atiende a vecinos de la ciudad; no se menciona experiencia ni título.
+  - Pago o beneficio: sin datos: es un servicio de orientación y vinculación; no paga. Los programas que gestiona (Fomentar Empleo, Prácticas Laborales, Primer Empleo, ETP, HOLA Futuro, PIL, Santa Fe Capacita, PEI) tienen sus propias condiciones, no detalladas en la página
+  - Plazo o ciclo: Servicio permanente de atención; la página no indica fechas ni horarios
+  - Como postular: Presencial en Cortada Falucho 2450, Santa Fe; tel. (0342) 4574159; WhatsApp (0342) 155053369. Cursos: santafeciudad.gov.ar/cursos-y-capacitaciones/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Es un servicio de orientación y vinculación y no una vacante.
+  - Aclaracion: El estado de cada programa listado no se verificó.
+  - Aclaracion: Quienes no viven en la ciudad de Santa Fe no cumplen el requisito de residencia.
+- **Rosario - Postularme para ejercer el comercio en la vía pública (comercio ambulante y puesto móvil)** (sin verificar, verificada 1 vez) https://www.rosario.gob.ar/inicio/postularme-para-ejercer-el-comercio-en-la-publica
+  - Que es: Personas residentes en Rosario que quieran vender en la vía pública o en espacios verdes como comercio ambulante o con parada determinada y móvil. Una sola postulación por grupo familiar.
+  - Requisitos: No requiere experiencia. Exige domicilio en Rosario con al menos 2 años de residencia (titular y atendientes), ser mayor de 18, no tener otra fuente de sustento en el grupo familiar (salvo jubilados con mínima o personas con discapacidad con subsidio), no tener otro permiso en el grupo familiar y una sola solicitud por grupo familiar. Documentos: DNI, certificado negativo de ANSES, foto, certificado de conducta y planilla prontuarial, antecedentes penales; Perfil Digital municipal obligatorio.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sin sueldo: es un permiso para trabajar por cuenta propia. La inscripción es gratuita; si se otorga el permiso, se paga el canon correspondiente al retirar el certificado.
+  - Plazo o ciclo: sin datos: la página tiene el botón 'Comenzar' y menciona un 'cierre del registro de postulantes', pero no da fechas de apertura ni de cierre, así que no se pudo confirmar que el registro esté abierto al 23/11/2026.
+  - Como postular: https://www.rosario.gob.ar/inicio/postularme-para-ejercer-el-comercio-en-la-publica
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Postularse no otorga el permiso: los postulantes aprobados se ordenan por mérito por zona y rubro, y un escribano público sortea la prioridad para los permisos disponibles.
+  - Aclaracion: Los rubros de alimentos requieren certificado bromatológico del Instituto del Alimento.
+  - Aclaracion: La página no da fechas de apertura ni de cierre del registro, por lo que no se pudo confirmar que esté abierto.
+  - Aclaracion: Quienes no residen en Rosario o no cumplen los 2 años de residencia no cumplen el requisito de domicilio.
+- **Rosario - Capacitaciones para feriantes (ciclo de talleres sobre canales de venta)** (sin verificar, verificada 1 vez) https://www.rosario.gob.ar/inicio/acceder-capacitaciones-para-feriantes
+  - Que es: Emprendedores de la economía social que venden en ferias. Cupos limitados.
+  - Requisitos: Ser emprendedor/a de la economía social. No se indica experiencia previa ni título. Cupos limitados.
+  - Pago o beneficio: Sin costo (gratuito)
+  - Plazo o ciclo: sin datos: la página no indica fechas, cronograma ni plazos de inscripción; solo dice 'Cupos limitados'
+  - Como postular: Escribir a feriasmercados@rosario.gob.ar y completar el formulario de inscripción que envía la oficina
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Los cupos son limitados.
+  - Aclaracion: La página no indica fechas, cronograma ni plazos de inscripción, por lo que no se puede confirmar que haya inscripción abierta.
+  - Aclaracion: La inscripción se gestiona por correo electrónico con la oficina.
+- **Córdoba - Constatadores Urbanos (sistema de estacionamiento medido, cooperativas habilitadas)** (sin verificar, verificada 1 vez) https://cordoba.gob.ar/constatadores-urbanos
+  - Que es: Personas que trabajan cuidando y controlando el estacionamiento en la vía pública dentro de cooperativas habilitadas (la página no usa la palabra cuidacoches). Lista ocho cooperativas autorizadas: Aparcar, Bicentenario Social II, CVA, El Progreso, La Unión, La Victoriosa, Movimiento de Trabajadores Naranjitas y Tosco Vive.
+  - Requisitos: El único requisito que figura es CIDI Nivel 2, pero se refiere al uso del servicio ciudadano; la página no explica requisitos para trabajar como constatador/a.
+  - Pago o beneficio: sin datos: la página no informa remuneración
+  - Plazo o ciclo: sin datos: la página no informa cronograma ni convocatoria
+  - Como postular: sin datos: la página no indica cómo sumarse; solo lista ocho cooperativas de trabajo habilitadas (por ejemplo Aparcar Limitada, CVA Limitada, La Unión Limitada) y enlaza a 'Ver todos los constatadores habilitados'
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página describe el servicio de control del estacionamiento medido y no una oferta de empleo ni un proceso de postulación.
+  - Aclaracion: El formulario Sumate desde aquí corresponde a otra iniciativa, la prueba piloto de App Ciudadana.
+  - Aclaracion: No hay evidencia de un camino de ingreso abierto; habría que contactar directamente a las cooperativas.
+  - Aclaracion: No corresponde listarla como oferta de trabajo.

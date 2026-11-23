@@ -1,0 +1,56 @@
+# Grupo 25: Profesionales de tecnologia de la informacion y las comunicaciones
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Get on Board - bolsa de empleos de tecnología y startups de Latinoamérica** (abierta o vigente, verificada 2 veces) https://www.getonbrd.com/
+  - Que es: Profesionales de tecnología (programación, datos, producto, diseño, ventas y marketing de startups) que buscan empleo remoto o presencial en Latinoamérica.
+  - Requisitos: Depende de cada aviso. Hay avisos junior (p. ej. un puesto de onboarding junior en Buenos Aires, híbrido, y una pasantía de growth marketing remota abierta a Argentina), pero la mayoría son de perfil técnico y se exige experiencia. No se exige título de forma general.
+  - Pago o beneficio: Variable según el aviso; muchos muestran rangos mensuales en USD y otros no indican pago.
+  - Plazo o ciclo: Abierto todo el año: avisos publicados de forma continua. Se vieron avisos fechados entre el 30 de septiembre y el 21 de noviembre (sin año en la página; los enlaces de eventos apuntan a 2026).
+  - Como postular: https://www.getonbrd.com/jobs/programming
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una bolsa con avisos propios de empresas, no solo un repetidor de otras bolsas.
+  - Aclaracion: La mayor parte de los avisos visibles es de Chile y otros países; hay avisos abiertos a Argentina, ya sea remotos o híbridos en Buenos Aires.
+  - Aclaracion: No se confirmó si el uso es gratuito para candidatos.
+- **Accenture Argentina - Carreras y programas para analistas de inicio de carrera** (sin verificar, verificada 1 vez) https://www.accenture.com/ar-es/careers
+  - Que es: Profesionales y jóvenes graduados o estudiantes de tecnología, ingeniería de software, datos e inteligencia artificial, consultoría y operaciones.
+  - Requisitos: sin datos. La página no lista requisitos ni confirma que no se exija experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fechas ni ciclo informados. El buscador de vacantes mostró 'Actualmente no existen empleos disponibles para los criterios de búsqueda' el 2026-11-23.
+  - Como postular: https://www.accenture.com/ar-es/careers/jobsearch
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La postulación se hace en el portal externo Workday de Accenture.
+  - Aclaracion: La página no nombra programas concretos de inicio de carrera.
+  - Aclaracion: No hay vía abierta confirmada; conviene revisar más adelante.
+- **Kyndryl Argentina - Carreras (jóvenes profesionales y profesionales)** (sin verificar, verificada 1 vez) https://www.kyndryl.com/ar/es/about-us/careers
+  - Que es: Estudiantes, recién graduados y profesionales de infraestructura y servicios de tecnología de la información.
+  - Requisitos: La página no lista requisitos. Dice buscar profesionales de inicio de carrera, especialistas y entusiastas de la tecnología. Experiencia exigida: sin datos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Las prácticas se describen como remuneradas, sin monto (sin datos).
+  - Plazo o ciclo: Sin fechas ni ciclo informados. No se pudo ver ninguna vacante vigente en Argentina.
+  - Como postular: https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La postulación se hace en Workday: se buscan vacantes, se crea una cuenta y se envía la solicitud con 'Autocompletar con currículum'.
+  - Aclaracion: No se confirmó ninguna vacante abierta para Argentina.
+- **COPITEC - Pedidos Laborales Requeridos y matriculación profesional** (sin verificar, verificada 1 vez) https://www.copitec.org.ar/
+  - Que es: Ingenieros, técnicos y licenciados en telecomunicaciones, electrónica, computación e informática que necesitan la matrícula del consejo o buscan avisos de empleo del sector.
+  - Requisitos: Pedido laboral visible: no detalla requisitos. Matrícula: reservada a ingenieros, técnicos, licenciados y egresados de carreras universitarias intermedias en telecomunicaciones, electrónica, computación e informática; los pasos están en '¿Cómo matricularse?' (no leído).
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fecha ni ciclo para los pedidos laborales. La matrícula figura como 'Matrícula 2026', trámite permanente.
+  - Como postular: https://www.copitec.org.ar/pedidos-laborales
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una bolsa de trabajo general ni sirve a quienes no tienen título afín.
+  - Aclaracion: La sección de pedidos laborales mostraba una única búsqueda, en San Carlos de Bariloche, sin fecha ni proceso de postulación.
+- **EducaciónIT - cursos de tecnología y portal de empleos / IT Talent Pool** (sin verificar, verificada 1 vez) https://www.educacionit.com/
+  - Que es: Personas que quieren formarse en programación y testing, datos e IA, cloud, ciberseguridad, bases de datos y diseño UI/UX, y conectarse con ofertas laborales.
+  - Requisitos: No se indican requisitos de ingreso. El IT Talent Pool figura como herramienta de carrera pero la página no explica cómo sumarse.
+  - Pago o beneficio: Los cursos son pagos: no se listan precios; se promociona 'hasta 60% de descuento y hasta 18 cuotas sin interés'. El portal de empleos: sin datos.
+  - Plazo o ciclo: Sin fechas de cohorte visibles; inscripción aparentemente continua, no confirmada.
+  - Como postular: https://empleos.educacionit.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una oferta de empleo ni una capacitación gratuita.
+  - Aclaracion: El portal de empleos asociado no pudo verificarse y la página no explica cómo sumarse al IT Talent Pool.
+  - Aclaracion: Las cifras de alumnos y valoraciones son autodeclaradas.

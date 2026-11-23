@@ -1,0 +1,61 @@
+# Servicios publicos de empleo y bolsas generales
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Bolsa de empleo y lista de consultoras de la Secretaría de Trabajo (dónde enviar el CV)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/bolsadeempleo
+  - Que es: Cualquier persona que quiera enviar su CV. Incluye una bolsa de trabajo para personas con discapacidad.
+  - Requisitos: Para la lista de consultoras no se informan requisitos (no se pide experiencia ni título). Para la bolsa de empleo de personas con discapacidad: concurrir en persona a la Unidad para Personas con Discapacidad y Grupos Vulnerables (Av. Leandro N. Alem 638, PB, lunes a jueves de 11 a 16) con fotocopia de DNI y certificado de discapacidad.
+  - Pago o beneficio: Sin costo informado; es una página de orientación, no un empleador.
+  - Plazo o ciclo: Abierto todo el año (página permanente, sin fecha de cierre ni fecha de actualización visible).
+  - Como postular: https://www.argentina.gob.ar/trabajo/bolsadeempleo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página lista unas 50 consultoras y portales donde enviar el CV; aclara que el Estado los ofrece como referencia y no los recomienda ni prioriza.
+  - Aclaracion: Contacto para personas con discapacidad: (011) 4310-5656, 4310-5920, 4310-5922 y discapacidad@trabajo.gob.ar.
+- **Computrabajo Argentina** (abierta o vigente, verificada 2 veces) https://ar.computrabajo.com/
+  - Que es: Postulantes de cualquier nivel. Es una de las bolsas generales nombradas en la lista oficial de la Secretaría de Trabajo.
+  - Requisitos: Sin requisitos generales: la búsqueda es libre y cada aviso fija los suyos (experiencia, estudios). Para postularse se necesita crear cuenta y cargar el CV.
+  - Pago o beneficio: Sin costo informado para quien busca empleo; la portada ofrece publicar avisos gratis a empresas. El sueldo depende de cada oferta.
+  - Plazo o ciclo: Abierto todo el año. La portada del 2026-11-23 informa más de 14.880 ofertas.
+  - Como postular: https://ar.computrabajo.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un portal con avisos propios, no solo un agregador.
+  - Aclaracion: Hay avisos para puestos sin experiencia, pero eso depende de cada aviso.
+- **Jooble Argentina** (abierta o vigente, verificada 2 veces) https://ar.jooble.org/
+  - Que es: Cualquier persona. Tiene búsquedas rápidas por ciudad y por categorías como sin experiencia, medio tiempo, seguridad y limpieza.
+  - Requisitos: La búsqueda es libre. Favoritos, alertas y creación de CV requieren cuenta. Cada aviso fija sus requisitos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No se informan costos para quien busca empleo; el sueldo depende de cada oferta.
+  - Plazo o ciclo: Abierto todo el año. La portada del 2026-11-23 informa 30.500 ofertas de 480 sitios (el titular dice más de 31.000).
+  - Como postular: https://ar.jooble.org/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un agregador: reúne avisos de otros sitios, por lo que la postulación suele terminar en la página de origen.
+  - Aclaracion: Conviene como complemento de los portales con avisos propios.
+- **Becas Progresar, línea Formación Profesional** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/progresar
+  - Que es: Jóvenes que quieren completar estudios obligatorios o superiores, o hacer cursos de formación profesional, con ayuda económica.
+  - Requisitos: Nacionalidad argentina (nativa o por opción) o extranjeros con 2 años de residencia legal, con DNI. Edad de 18 a 24 años, ampliada hasta 35 para quienes no tienen trabajo formal registrado. Ingresos propios y del grupo familiar no mayores a 3 SMVM. Cursar una formación profesional validada por el INET y considerada estratégica por el CoNETyP. No se pide experiencia laboral.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Beca mensual; la página de cronograma muestra $35.000 por mes en un cronograma de febrero, sin año ni desglose por línea. Verificar el monto vigente.
+  - Plazo o ciclo: Inscripción de Formación Profesional disponible hasta el 27 de noviembre (la página no indica el año; el portal de inscripción se llama becasprogresar26, lo que sugiere 2026). Obligatorio cerró el 4 de septiembre y Superior el 11 de septiembre. Ciclo anual.
+  - Como postular: https://becasprogresar26.educacion.gob.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal de inscripción cargó solo una pantalla de autenticación, por lo que no se pudo ver el formulario.
+  - Aclaracion: Es una beca de estudio, no un empleo.
+- **Bumeran Argentina** (sin verificar, verificada 1 vez) https://www.bumeran.com.ar/
+  - Que es: Postulantes de cualquier nivel, con más peso de empleos administrativos, comerciales y profesionales. Figura en la lista oficial de la Secretaría de Trabajo.
+  - Requisitos: sin datos (no se pudo leer la página; cada aviso fija sus requisitos).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Se presume abierto todo el año, pero no se pudo confirmar en la página.
+  - Como postular: https://www.bumeran.com.ar/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La portada respondió con una verificación anti-bots (HTTP 403) y no se pudo leer su contenido.
+  - Aclaracion: La cantidad de ofertas y las condiciones de registro no están verificadas.
+- **ZonaJobs Argentina** (sin verificar, verificada 1 vez) https://www.zonajobs.com.ar/
+  - Que es: Postulantes de cualquier nivel. Figura en la lista oficial de la Secretaría de Trabajo.
+  - Requisitos: sin datos (no se pudo leer la página; cada aviso fija sus requisitos).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Se presume abierto todo el año, pero no se pudo confirmar en la página.
+  - Como postular: https://www.zonajobs.com.ar/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La portada respondió con una verificación anti-bots (HTTP 403) y con contenido vacío en la herramienta de lectura.
+  - Aclaracion: La cantidad de ofertas y las condiciones de registro no están verificadas.

@@ -1,0 +1,121 @@
+# Industria, fabricas y mantenimiento
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Honda Motor de Argentina - Portal de empleo (planta Campana)** (abierta o vigente, verificada 2 veces) https://hondamotorargentina.hiringroom.com/jobs
+  - Que es: Personas que buscan trabajo en la planta de Campana (Ruta 6 Km 195) y oficinas de Buenos Aires. Se vieron 14 vacantes, entre ellas Operadores/as de Producción y Técnico de Mantenimiento, ambos en Campana.
+  - Requisitos: Varían por aviso. El de Operadores/as de Producción figura como nivel Junior; el detalle de requisitos (estudios, experiencia) no se vio. La mayoría de los otros puestos son Semi Senior, Senior o gerenciales.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto: se vieron 14 vacantes y una opción 'Subir CV a base general'. El portal muestra fechas relativas ('Hace 17 días'), no fechas exactas. Ningún aviso figura publicado el 2026-11-23.
+  - Como postular: https://hondamotorargentina.hiringroom.com/jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se confirmó que los avisos se hayan publicado el 2026-11-23: el más reciente decía 'Hace 17 días' y varios tienen entre 1 mes y 1 año.
+  - Aclaracion: El aviso de Operadores/as de Producción figura como publicado 'hace 1 año' y puede estar desactualizado; el de Técnico de Mantenimiento, 'hace 7 meses'.
+  - Aclaracion: Las vacantes están casi todas en Campana (una en Vicente López) y son sobre todo presenciales.
+  - Aclaracion: HiringRoom es solo la plataforma y no decide las contrataciones de Honda; cada aviso tiene su propio enlace para postularse.
+- **Aluar - Carrera y portal de empleos (Puerto Madryn, Abasto, San Fernando)** (abierta o vigente, verificada 2 veces) https://aluar.hiringroom.com/portal
+  - Que es: Postulantes a puestos de producción, ingeniería y administración. El portal mostraba una 'Base de Talento - Aluar - Expo Empleo Puerto Madryn - Nov 2026', una vacante de Ingeniero/a de Producción - Laminación en Abasto (La Plata) y una de RR.HH. en San Fernando.
+  - Requisitos: No se detallan en el listado; cada aviso tiene sus requisitos. La base de talento de Puerto Madryn no mostró requisitos de experiencia o estudios, así que conviene abrir el aviso para confirmar si sirve para primer empleo.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (portal con avisos activos y base de talento). La 'Base de Talento – Expo Empleo Puerto Madryn (Nov 2026)' figuraba publicada hacía 2 días al 2026-11-23, sin fecha de cierre visible.
+  - Como postular: https://aluar.hiringroom.com/portal
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La Base de Talento de Puerto Madryn es presencial (Chubut) y no mostró requisitos de experiencia o estudios; conviene abrir el aviso para confirmar si sirve para un primer empleo.
+  - Aclaracion: Los avisos de Coordinador/a de RR.HH. en San Fernando (híbrido, gerencial) e Ingeniero/a de Producción en Abasto, La Plata (junior, presencial) figuraban publicados hace 2 meses.
+  - Aclaracion: El portal tiene un enlace 'Subir CV a la base' para cargar el CV sin aviso puntual y 'Ver todas las vacantes'.
+- **Molinos Río de la Plata - Portal de empleos y Talento Joven** (abierta o vigente, verificada 2 veces) https://empleos.molinos.com.ar/search/
+  - Que es: Personas que buscan trabajo en alimentos. El 2026-11-23 había 10 vacantes: Supervisor/a de Mantenimiento (Trenque Lauquen y Canals), Ingeniero/a para Mantenimiento y Supervisor/a de Producción (General Rodríguez), entre otras. Talento Joven agrupa Jóvenes Profesionales y Pasantías.
+  - Requisitos: Pasantías: 'estudiantes de carreras afines'; no se detallan otros requisitos. Requiere ser estudiante, no sirve para quien no estudia. Jóvenes Profesionales y Talento Industrial: no verificados.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (no se vio sueldo o beca)
+  - Plazo o ciclo: Abierto. Tres programas 2026 publicados; el de Pasantías figura con fecha 16 nov 2026 y sin fecha de cierre visible (el botón de postulación estaba activo).
+  - Como postular: https://empleos.molinos.com.ar/job/Victoria-Programa-de-Pasant%C3%ADas-2026-DIRE/1385773800/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se leyeron los detalles de los programas Jóvenes Profesionales y Talento Industrial.
+  - Aclaracion: Las pasantías abarcan áreas como Marketing, Planeamiento Comercial, Comercial, Tecnología, Administración y Finanzas, I+D, RR.HH. y Legales.
+  - Aclaracion: Los beneficios de las pasantías incluyen Swiss Medical, descuentos, comedor gratuito en planta y capacitaciones.
+  - Aclaracion: El portal ofrece además la opción general 'Ingresá su CV'.
+- **Mastellone Hnos. (La Serenísima) - Portal de empleos** (abierta o vigente, verificada 2 veces) https://laserenisima.hiringroom.com/jobs
+  - Que es: Postulantes a puestos en plantas lácteas y oficinas. El 2026-11-23 se vieron 10 vacantes: mantenimiento en Trenque Lauquen y Canals (Córdoba), producción y mejora de procesos en General Rodríguez.
+  - Requisitos: No se muestran en el listado; cada aviso tiene el suyo. La pasantía es de nivel junior/pasante, presumiblemente para estudiantes (no confirmado).
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: 10 avisos activos y 'Subir CV a base general'. Al 2026-11-23 los más recientes tenían entre 16 y 25 días; los más viejos, hasta 8 meses, por lo que algunos pueden estar estancados.
+  - Como postular: https://laserenisima.hiringroom.com/jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Casi todos los avisos son de nivel junior o superior; el único puesto de entrada claro es la pasantía.
+  - Aclaracion: Las plantas están en General Rodríguez y Trenque Lauquen (Buenos Aires) y en Canals (Córdoba).
+  - Aclaracion: HiringRoom solo aloja el portal y no participa en las decisiones de selección.
+- **Ternium Argentina - Carrera (programas, pasantías y vacantes)** (abierta o vigente, verificada 2 veces) https://ar.ternium.com/es/carrera
+  - Que es: Graduados y estudiantes (Global Trainee, Profesionales Jóvenes, Prácticas Educativas) y egresados de escuelas técnicas, grado y posgrado (Vínculo Académico). Hay becas del Programa Educativo Roberto Rocca.
+  - Requisitos: Global Trainee: graduados con menos de 3 años de experiencia. Formación Especializada: hasta 30 años. Prácticas Educativas y pasantías: estudiantes. No se vieron otros requisitos académicos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Prácticas Educativas con beca (monto: sin datos)
+  - Plazo o ciclo: Abierto todo el año a través del portal de carreras, sin fechas de convocatoria publicadas en la página.
+  - Como postular: https://carrera.ternium.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no dice expresamente que la postulación esté abierta todo el año: remite a carrera.ternium.com para cargar el CV y ver vacantes.
+  - Aclaracion: En carrera.ternium.com se vio una comunidad de talentos y un botón de vacantes, pero ninguna vacante concreta.
+  - Aclaracion: La oferta está orientada a estudiantes y graduados universitarios.
+- **Scania Argentina - Posiciones disponibles** (abierta o vigente, verificada 2 veces) https://jobs.scania.com/search/?optionsFacetsDD_country=AR&locale=es_ES
+  - Que es: Postulantes a puestos de Scania en Argentina. El sitio solo vincula este buscador filtrado por país. No se pudo leer el contenido del listado en esta consulta.
+  - Requisitos: No se muestran en el listado; cada aviso tiene el suyo. La pasantía de logística es temporal y de medio tiempo; no se vio si exige ser estudiante.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año. Al 2026-11-23 había 11 avisos en Argentina, el más reciente publicado el 22 nov 2026, más Bancos de Talentos regionales y la 'Red de Talentos'.
+  - Como postular: https://jobs.scania.com/search/?optionsFacetsDD_country=AR&locale=es_ES
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Entre los avisos figuran Pasante de Logística (Grand Bourg, medio tiempo, temporal) y Técnico Mecánico (Trenque Lauquen y Grand Bourg), además de bancos de talentos de taller por región.
+  - Aclaracion: Los bancos de talentos permiten dejar el CV cuando no hay aviso en la zona.
+  - Aclaracion: La página no explica cómo postularse: cada aviso lleva a su detalle.
+- **Renault Argentina - Trabajá en Renault y Escuela de Talentos (pasantías)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.renault.com.ar/trabaja-en-renault/programa-de-pasantias.html
+  - Que es: Postulantes a la fábrica de Santa Isabel (Córdoba) y oficinas. El programa de pasantías es para estudiantes universitarios.
+  - Requisitos: Estudiantes universitarios. La página no indica edad, año de cursada ni carrera. Incluye test de inglés.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Escuela de Talentos: ventanas de reclutamiento en marzo, junio, septiembre y diciembre (confirmado en la página del programa). La próxima sería diciembre de 2026, sin fecha exacta publicada.
+  - Como postular: https://www.renault.com.ar/trabaja-en-renault/programa-de-pasantias.html
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página principal solo deriva al portal Workday de Renault Group y enlaza al programa de pasantías; la página oficial del programa es https://www.renault.com.ar/trabaja-en-renault/programa-de-pasantias.html.
+  - Aclaracion: El proceso incluye reclutamiento, test de inglés, test de lógica, entrevistas grupales e individual, exámenes de ingreso y onboarding.
+  - Aclaracion: No se pudo confirmar en Workday si hay un aviso abierto al 23/11/2026.
+- **Arcor - Búsquedas laborales en Argentina y Programa de Pasantías** (sin verificar, verificada 1 vez) https://www.arcor.com/ar/rrhh-busquedas-argentina
+  - Que es: Personas interesadas en trabajar en plantas y oficinas de Arcor. Las búsquedas se agrupan por negocio, empresa y área (Industrial, Ventas, Marketing, Ingeniería, Administración) y por provincia.
+  - Requisitos: sin datos (no se vieron requisitos de pasantías ni de las búsquedas)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto (derivación a plataforma corporativa), pero no se vieron avisos concretos ni fechas del programa de pasantías.
+  - Como postular: https://emqm.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/es/sites/grupoarcorgl
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no lista puestos: su botón 'Ver búsquedas laborales en Argentina' redirige a la plataforma corporativa de Oracle, que no se pudo cargar ni verificar.
+  - Aclaracion: El Programa de Pasantías aparece solo como enlace a otra página; la URL arcor.com/ar/programa-de-pasantias dio 404.
+  - Aclaracion: No se confirmó si el programa está abierto ni su ciclo.
+- **Mapa de Parques Industriales (RENPI)** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/produccion/programa-nacional-de-parques-industriales/mapa-parques-industriales
+  - Que es: Cualquiera que quiera ubicar parques industriales cerca de su zona para presentar el CV en las empresas radicadas allí.
+  - Requisitos: No aplica
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: No aplica: no es una convocatoria. La página indica 'Última actualización: agosto de 2021'.
+  - Como postular: Abrir el mapa, ubicar el parque más cercano y contactar a las empresas por su cuenta. La página no indica un canal de postulación.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una fuente de empleo ni de postulación: es un mapa de parques industriales.
+  - Aclaracion: Sirve, como mucho, como referencia de orientación geográfica para ubicar zonas con fábricas.
+  - Aclaracion: La fecha de actualización es de 2021, por lo que puede estar desactualizado.
+- **INET - Educación Técnico Profesional (escuelas técnicas y formación profesional)** (sin verificar, verificada 1 vez) http://www.inet.edu.ar/
+  - Que es: Jóvenes y adultos que quieren estudiar secundario técnico, tecnicatura superior o formación profesional, que son la base de los puestos de planta y mantenimiento.
+  - Requisitos: No figuran en la página; dependen de cada institución o curso.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un organismo de coordinación de política educativa técnica y no una vía directa de postulación a empleo.
+  - Aclaracion: La página no explica cómo inscribirse ni da fechas; el ciclo depende de cada institución.
+  - Aclaracion: El sitio menciona la Olimpíada Nacional de ETP 2026 y un Registro Federal de Instituciones y catálogo de títulos.
+- **Escuela Técnica Roberto Rocca de Campana (Red de Escuelas Técnicas)** (sin verificar, verificada 1 vez) https://www.robertorocca.org/es/red-de-escuelas-tecnicas
+  - Que es: Jóvenes que buscan formación técnica en Campana. La red informa que el 100% de los estudiantes son becados. Gen Técnico trabaja con escuelas técnicas de la comunidad.
+  - Requisitos: No figuran en la página consultada.
+  - Pago o beneficio: Beca (la página afirma que 100% de los estudiantes son becados); monto sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.robertorocca.org/es/contacto
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una escuela secundaria técnica, no una oferta de empleo.
+  - Aclaracion: La página no describe ingreso, requisitos, costos ni fechas.
+  - Aclaracion: La red informa 1.129 estudiantes, 100% becados, y 6.097 personas formadas por año.

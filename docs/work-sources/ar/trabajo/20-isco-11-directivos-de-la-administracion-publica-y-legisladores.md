@@ -1,0 +1,82 @@
+# Grupo 11: Directivos de la administracion publica y legisladores
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Senado de la Nación - Enviá tu CV (postulantes)** (abierta o vigente, verificada 2 veces) https://www.senado.gob.ar/micrositios/postulante/new
+  - Que es: Cualquier persona que quiera postularse a áreas de trabajo del Senado, con o sin experiencia previa en el sector público
+  - Requisitos: Formulario con campos obligatorios: nombre, fecha de nacimiento, CUIL, correo, celular, provincia, localidad, experiencia previa en el sector público, al menos un área de postulación, estudios, experiencia laboral y código de seguridad (captcha). CV en PDF de hasta 8 MB (el campo no figura como obligatorio). Foto, LinkedIn, idiomas, herramientas y referencias son opcionales. La página no exige un nivel de estudios ni años de experiencia determinados, pero el formulario pide cargar estudios y experiencia laboral.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: formulario permanente, sin fecha de cierre visible.
+  - Como postular: https://www.senado.gob.ar/micrositios/postulante/new
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una vía de postulación espontánea: la página no informa vacantes puntuales, plazos de respuesta ni salarios.
+  - Aclaracion: No garantiza que haya búsquedas abiertas.
+  - Aclaracion: Los datos se declaran confidenciales y de uso exclusivo para el servicio.
+- **Senado de la Nación - Plan Federal de Capacitación (Centro de Capacitación Superior)** (abierta o vigente, verificada 2 veces) https://www.senado.gob.ar/capacitacion/planfederal
+  - Que es: Personal de organismos legislativos, de organismos públicos e instituciones educativas, y ciudadanía interesada, de todo el país
+  - Requisitos: Formulario en línea con nombre, apellido, celular, correo, provincia, ciudad, organismo de pertenencia, CUIL, edad, nivel educativo, curso elegido, comentario y código de seguridad. Pueden inscribirse personal de órganos legislativos, organismos públicos e instituciones educativas, y ciudadanos interesados (no hace falta ser empleado público). No se informa experiencia ni título previo exigidos. El personal del Senado se inscribe por la Intranet.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito (formación federal, virtual y no arancelada). No es un pago ni una beca.
+  - Plazo o ciclo: Libre inscripción hasta diciembre de 2026 (texto de la página: "Hasta diciembre de 2026, se dictarán con libre inscripción las siguientes propuestas formativas"). No se vieron fechas por curso.
+  - Como postular: https://www.senado.gob.ar/capacitacion/planfederal
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es capacitación, no empleo.
+  - Aclaracion: Los cursos listados incluyen transparencia en el ciclo presupuestario y control fiscal parlamentario, y control parlamentario.
+  - Aclaracion: El personal del Senado se inscribe por la Intranet.
+  - Aclaracion: Consultas: planfederal@senado.gob.ar y capacitacion@senado.gob.ar.
+- **Michael Page Argentina - Vacantes de director y gerente (búsqueda ejecutiva y selección)** (abierta o vigente, verificada 2 veces) https://michaelpage.com.ar/jobs/director
+  - Que es: Profesionales con experiencia que buscan puestos de jefatura, gerencia y dirección en empresas
+  - Requisitos: Varían por aviso y están en cada detalle. En los resúmenes se vieron, por ejemplo, más de 5 años de experiencia e inglés avanzado en algunos puestos de logística y finanzas, y modalidades presencial, híbrida (3x2) o remota. Son puestos de jefatura, gerencia y dirección: no sirven para quien no tiene experiencia.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (no se vieron salarios en el listado)
+  - Plazo o ciclo: Abierto todo el año: se vieron 22 vacantes permanentes para la palabra clave Director, con alertas de empleo y envío de CV sin fecha de cierre.
+  - Como postular: https://michaelpage.com.ar/jobs/director
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una consultora de selección con avisos propios de sus clientes, no un agregador.
+  - Aclaracion: Son puestos de jefatura, gerencia y dirección, que no resultan accesibles para quienes no tienen experiencia.
+  - Aclaracion: Se postula con Ver Empleo en cada aviso, guardando el empleo, creando una alerta o enviando el CV desde la página Envía su CV.
+- **Instituto Legislativo de Capacitación Permanente (ILCP) - Legislatura de la Ciudad de Buenos Aires** (sin verificar, verificada 1 vez) https://ilcp.legislatura.gob.ar/
+  - Que es: Personal de la Legislatura (cursos obligatorios y de uso interno) y, aparentemente, público en general en otros cursos
+  - Requisitos: No informados en la portada. Varios cursos figuran como "Exclusivo LCABA" (personal de la Legislatura). Para el resto no se indica quién puede inscribirse. Se requiere crear una cuenta de usuario ("Creá una") o ingresar con usuario registrado o como personal LCABA.
+  - Pago o beneficio: sin datos (costo no informado)
+  - Plazo o ciclo: sin datos. Hay publicaciones de nuevos cursos por mes (se vio "Nuevos cursos del mes de noviembre") pero sin fechas de inscripción ni ciclo anual confirmado.
+  - Como postular: https://ilcp.legislatura.gob.ar/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es capacitación, no empleo.
+  - Aclaracion: La única inscripción abierta observada es para personal de la Legislatura, por lo que no se pudo confirmar una oferta abierta al público general.
+  - Aclaracion: Los cursos "Exclusivo LCABA" están reservados al personal de la Legislatura.
+  - Aclaracion: Contacto: 011 4338-3000 int. 4108/4164.
+- **Concursos GCBA - Portal de concursos del Gobierno de la Ciudad de Buenos Aires (régimen gerencial)** (sin verificar, verificada 1 vez) https://concursosgcaba.buenosaires.gob.ar
+  - Que es: Cualquier persona que cumpla el perfil del cargo en los concursos abiertos; los concursos cerrados son solo para personal de planta permanente
+  - Requisitos: No se vieron perfiles concretos. Según el portal, los Concursos Abiertos son para cualquier persona que cumpla el perfil de cada puesto; los Concursos Cerrados son solo para personal de planta permanente de la administración porteña; el Régimen Gerencial es para cargos de Gerencia y Subgerencia Operativa, evaluados por antecedentes y examen de oposición. Cada puesto tiene su propio perfil.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. El portal no mostró ningún concurso vigente ni fechas en la carga de portada.
+  - Como postular: https://concursosgcaba.buenosaires.gob.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se pudo confirmar una convocatoria abierta ni un ciclo.
+  - Aclaracion: Los concursos cerrados son solo para personal de planta permanente de la administración porteña.
+  - Aclaracion: Se postula con cuenta propia en el portal (Ingresar / Registrarse).
+  - Aclaracion: Contacto: concursosgcaba@buenosaires.gob.ar.
+- **Russell Reynolds Associates - Oficina de Buenos Aires (búsqueda de liderazgo y directorios)** (sin verificar, verificada 1 vez) https://www.russellreynolds.com/en/locations/argentina
+  - Que es: Altos ejecutivos y miembros de directorio, en general captados por la propia consultora
+  - Requisitos: sin datos. No se observaron requisitos de postulación; la firma se dedica a búsquedas ejecutivas, por lo que no corresponde como vía de ingreso para personas sin experiencia.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una firma de búsquedas ejecutivas orientada a clientes, no una vía de ingreso para personas sin experiencia.
+  - Aclaracion: No muestra avisos de empleo ni una vía de postulación específica para Argentina.
+  - Aclaracion: No se vio ninguna convocatoria abierta ni ciclo.
+- **IDEA - Escuela de Negocios: programas de formación ejecutiva, gerencial y directiva** (sin verificar, verificada 1 vez) https://www.idea.org.ar/escuela-de-negocios/programas-abiertos/
+  - Que es: Ejecutivos, gerentes y directores (C-Level) de organizaciones; hay una línea para jóvenes profesionales
+  - Requisitos: sin datos. Los programas apuntan a perfiles ejecutivos, gerenciales y directivos; los requisitos de admisión no figuran en las páginas leídas.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos. Es un arancel que paga el participante; el monto no figura en la página.
+  - Plazo o ciclo: sin datos. La página no muestra fechas de inicio; solo figura una agenda de eventos para el 25 y 26 de noviembre y el 1 y 2 de diciembre (no son inicios de programas). Un programa figura como 'Próximamente'.
+  - Como postular: https://www.idea.org.ar/escuela-de-negocios/ (formulario 'Contactate' con motivo 'Escuela de Negocios'; también escuela.de.negocios@idea.org.ar)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es oferta de capacitación paga dirigida a niveles ejecutivo, gerencial y directivo, no una oferta de empleo.
+  - Aclaracion: No se pudo confirmar qué programas admiten inscripción actualmente; cada programa tiene su propia página.
