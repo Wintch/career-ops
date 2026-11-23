@@ -1,0 +1,108 @@
+# Gastronomia y hoteleria
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Bolsa Nacional de Empleo (BNE) - ocupaciones de gastronomía y hotelería** (abierta o vigente, verificada 2 veces) https://www.bne.gob.cl/
+  - Que es: Cualquier persona que busque empleo en Chile, incluidas quienes buscan su primer trabajo. El filtro de ocupación incluye ayudantes de cocina, cocineros de comidas rápidas, garzones/coperos, barman/bartender, recepcionistas de hotel y chefs.
+  - Requisitos: Para postular se crea cuenta como "Soy trabajador" y se puede armar un CV con "Crea tu CV". La página no detalla documentos, edad ni experiencia exigidos; cada oferta fija los suyos. sin datos: si se exige Clave Única.
+  - Pago o beneficio: sin datos (depende de cada oferta)
+  - Plazo o ciclo: Abierto todo el año
+  - Como postular: https://www.bne.gob.cl/buscar-empleo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La BNE no tiene una categoría exclusiva de gastronomía y hotelería; se filtra por ocupación y por grupo de empleo.
+  - Aclaracion: La portada indica que se está probando una nueva versión de la BNE.
+  - Aclaracion: La URL /buscar-empleo solo cargó el esqueleto de navegación; no se vieron avisos concretos de gastronomía u hotelería.
+  - Aclaracion: No se informa si se exige Clave Única; soporte: 22 405 5200 o soporte@bne.gob.cl.
+- **Subsidio al Empleo Joven (SEJ)** (abierta o vigente, verificada 2 veces) https://sence.gob.cl/personas/subsidio-al-empleo-joven
+  - Que es: Jóvenes de 18 a 24 años y 11 meses que trabajan como dependientes o independientes (por ejemplo, en un restaurante o hotel) y pertenecen al 40% de menores ingresos.
+  - Requisitos: Tener entre 18 y 24 años y 11 meses; trabajar con renta dentro de los tramos de pago; pertenecer al 40% más vulnerable del Registro Social de Hogares (verificado mensualmente). Para ingresar se usa Clave Única. No exige experiencia previa ni título, solo estar trabajando.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Pago anual: monto máximo aproximado de $706.505 (cifras 2025; tramo A renta hasta $294.377, B hasta $367.971, C hasta $662.348). Pago mensual 2026: hasta $45.658 según renta (tramo A hasta $304.386, B hasta $380.482, C hasta $684.868). Cobro por depósito en cuenta bancaria o Cuenta RUT, o retiro en BancoEstado/ServiEstado con cédula.
+  - Plazo o ciclo: Sin plazo de cierre publicado. Calendario por mes de postulación con ejemplos de enero y febrero de 2026; no se declara explícitamente postulación continua.
+  - Como postular: https://sistemas.sence.cl/SEJ/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no declara de forma explícita que la postulación sea continua ni que esté abierta todo el año; solo muestra una tabla por mes de postulación.
+  - Aclaracion: El pago mensual es un anticipo de hasta el 75% que puede implicar devolución; el pago anual no requiere devolución.
+  - Aclaracion: La tabla de fechas tiene una fila ambigua; se recomienda confirmar plazos en sence.gob.cl.
+  - Aclaracion: Consultas: 600 712 0028, celular *8088, videollamada de lunes a viernes de 09:00 a 17:00.
+- **Chiletrabajos - categoría Hotelería, Turismo y Gastronomía** (abierta o vigente, verificada 2 veces) https://www.chiletrabajos.cl/trabajos/hoteleria
+  - Que es: Cualquier persona. Se vieron avisos de cocinero/a, ayudante de cocina, garzón, bartender, barista, copero/a, anfitriona, recepcionista nocturno, auxiliar de aseo y sushero en Santiago, La Serena, Coquimbo, Antofagasta, Valparaíso y Puerto Montt (avisos del 20 al 22 de noviembre de 2026).
+  - Requisitos: Varía por aviso; varios piden experiencia (barista, garzones), pero también hay cargos de apoyo como auxiliar de aseo y copería u operario de producción. Registro obligatorio: sin datos.
+  - Pago o beneficio: sin datos (no se vio sueldo en el listado)
+  - Plazo o ciclo: Se actualiza a diario; en la lectura de al 23/11/2026 el aviso más reciente es del 22-nov-2026 y hay avisos del 21-nov-2026.
+  - Como postular: https://www.chiletrabajos.cl/trabajos/hoteleria
+  - Lectura automatica posible: El sitio muestra un RSS en https://www.chiletrabajos.cl/rss.xml (no se verificó su contenido).
+  - Aclaracion: Es un portal privado de avisos de múltiples empleadores, no un empleador ni un sitio gubernamental.
+  - Aclaracion: Varios avisos piden experiencia, pero también hay cargos de apoyo.
+  - Aclaracion: No se ve si el registro es obligatorio para postular; el sitio ofrece crear cuenta.
+- **Starbucks Chile - Postula aquí (baristas y tiendas)** (abierta o vigente, verificada 1 vez) https://www.starbucks.cl/articulo/trabajo-con-nosostros
+  - Que es: Personas interesadas en trabajar en tiendas Starbucks (baristas y otros cargos de tienda; cargos concretos: sin datos).
+  - Requisitos: sin datos (la página no indica edad, experiencia ni documentos)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (ruta de postulación permanente; no se vio fecha de cierre)
+  - Como postular: https://app.genoma.work/jobs/starbucks
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La ruta de postulación está confirmada (portal de selección en la plataforma Genoma.Work), pero no se vieron vacantes vigentes.
+  - Aclaracion: El portal carga con JavaScript, por lo que los cargos y ubicaciones concretos deben revisarse directamente en él.
+- **Alsea - Empleos (Starbucks, Burger King, Domino's, Chili's, P.F. Chang's)** (abierta o vigente, verificada 1 vez) https://empleos.alsea.net/sudamerica/haz-carrera
+  - Que es: Personas interesadas en trabajar en las marcas del grupo. No se verificó que las marcas operadas por Alsea incluyan Chile ni que el portal tenga vacantes chilenas.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (sección "Vacantes" con selección de país; no se vio fecha de cierre)
+  - Como postular: https://empleos.alsea.net/sudamerica/haz-carrera
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No está confirmado que las marcas del grupo (Domino's, Chili's, P.F. Chang's) tengan vacantes en Chile; solo se enlazan Burger King y Starbucks Chile, además de un enlace general de Chile.
+  - Aclaracion: Ruta corregida: https://empleos.alsea.net/sudamerica/haz-carrera, ya que la URL raíz exige elegir región.
+  - Aclaracion: El enlace de Chile hacia alsea.hiringroom.com/jobs es el mismo que sirve a Argentina, y no se pudo confirmar qué marcas cubre para Chile.
+  - Aclaracion: Los portales cargan con JavaScript y no se vieron avisos concretos.
+- **Sodexo Chile - Trabaja con nosotros (cocina, casinos, servicios de alimentación)** (abierta o vigente, verificada 2 veces) https://cl.sodexo.com/trabaja-con-nosotros/por-que-trabajar-en-sodexo
+  - Que es: Postulantes a cargos de alimentación y servicios en empresas, faenas e instituciones: chefs, maestros de cocina, nutricionistas, dietistas, auxiliares de limpieza y otros. Sodexo declara más de 23.000 colaboradores en Chile.
+  - Requisitos: La página solo pide el currículum actualizado con el cargo al que se postula; no indica edad, estudios ni experiencia mínima. Los requisitos de cada cargo figuran en cada aviso (no vistos).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (postulación por correo y portal de ofertas; sin plazo informado)
+  - Como postular: https://sodexo.trabajando.cl/trabajo-empleo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Se postula enviando el currículum actualizado a seleccion.onsite.cl@sodexo.com, indicando el cargo, o por el portal de Trabajando.cl.
+  - Aclaracion: Sodexo advierte que no solicita dinero en ninguna etapa.
+  - Aclaracion: Los requisitos figuran en cada aviso; la vigencia de avisos específicos no está verificada.
+- **Accor - Careers (hoteles Novotel, Ibis, Mercure, Sofitel y otras marcas)** (abierta o vigente, verificada 2 veces) https://careers.accor.com/
+  - Que es: Postulantes a cargos hoteleros en Chile. El filtro de ubicación mostraba 31 vacantes en Chile (Antofagasta 5, Las Condes 6, Providencia 4, Santiago 4, Vitacura 1; las 11 restantes sin ciudad asignada). Los cargos concretos no se listaron y pueden incluir roles corporativos, no solo de gastronomía u hotelería.
+  - Requisitos: No indicados en la página principal; dependen de cada aviso. El filtro por nivel de experiencia permite buscar cargos de entrada, pero no se vio un aviso concreto sin experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año; el filtro de ubicación mostró Chile (31) vacantes el 2026-11-23 (Antofagasta 5, Las Condes 6, Providencia 4, Santiago 4, Vitacura 1; 11 sin ciudad listada)
+  - Como postular: https://careers.accor.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los cargos publicados pueden incluir roles corporativos, no solo hoteleros o de gastronomía.
+  - Aclaracion: No se vio un aviso concreto sin experiencia, aunque existe un filtro por nivel de experiencia.
+  - Aclaracion: El proceso de postulación específico para Chile no se describe en la página.
+- **Sernatur - capacitación y certificación de competencias laborales en turismo** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.sernatur.cl/capacitacion-certificacion-capital-humano/
+  - Que es: Trabajadores y trabajadoras del turismo, la gastronomía y la hotelería que quieran certificar sus competencias o acceder a becas de capacitación.
+  - Requisitos: sin datos (la página no los detalla; la certificación está orientada a trabajadores y empleadores del sector turismo, gastronomía y alojamiento)
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (no se vio monto ni costo)
+  - Plazo o ciclo: Anual: cada año Sernatur y la Subsecretaría de Turismo gestionan la demanda nacional de certificación con las contrapartes regionales y coordinan con SENCE becas de capacitación. No se vieron fechas de 2026 ni 2027.
+  - Como postular: https://www.sernatur.cl/capacitacion-certificacion-capital-humano/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una convocatoria abierta con fecha, sino una vía de consulta.
+  - Aclaracion: La certificación de competencias la realiza ChileValora y la capacitación, SENCE.
+  - Aclaracion: La página no indica quién puede postular, costos ni cómo postular; remite a Turismo Atiende (turismoatiende@sernatur.cl, WhatsApp +56 9 9458 0453, 600 600 60 66), chilevalora.gob.cl y sence.gob.cl.
+- **McDonald's Chile (Arcos Dorados) - Crew y operarios multifuncionales** (sin verificar, verificada 1 vez) https://www.mcdonalds.cl/
+  - Que es: Personas que quieran trabajar en atención a clientes, preparación de alimentos y limpieza en restaurantes McDonald's (Crew, operario/a multifuncional; también turnos part-time de 20 horas). Se vieron avisos en San Bernardo, Pudahuel, Maipú, Buin, Independencia, San Miguel y Santiago Centro.
+  - Requisitos: sin datos
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://cl.computrabajo.com/mcdonalds/empleos-en-rmetropolitana
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No hay confirmación directa de avisos vigentes ni del ciclo de postulación; la fuente no pudo leerse y debe revisarse en un navegador.
+  - Aclaracion: Se mencionan turnos part-time de 20 horas.
+- **Doggis (G&N Brands) - Trabaja con nosotros** (sin verificar, verificada 1 vez) https://www.doggis.cl/
+  - Que es: Personas interesadas en trabajar en locales de comida rápida Doggis y otras marcas del grupo. Roles concretos: sin datos.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://gnbrands.pandape.computrabajo.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es la ruta oficial de postulación de Doggis, enlazada desde su sitio oficial como "Trabaja con Nosotros!".
+  - Aclaracion: No hay confirmación directa de avisos, sedes ni fechas vigentes.

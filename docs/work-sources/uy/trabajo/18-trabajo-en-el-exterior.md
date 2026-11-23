@@ -1,0 +1,126 @@
+# Trabajo en el exterior
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Embajada de Alemania en Montevideo - Visas (incluye visa nacional de más de 90 días)** (abierta o vigente, verificada 2 veces) https://montevideo.diplo.de/uy-es/service/05-visaeinreise
+  - Que es: Uruguayos que quieran estadías en Alemania de más de 90 días. Una lista secundaria (Wikipedia) indica que existe visa de vacaciones y trabajo para uruguayos de 18 a 30 años; la página de la embajada leída no menciona ese programa, por lo que debe consultarse a la embajada.
+  - Requisitos: La página confirma la visa nacional (más de 90 días) y la Schengen (hasta 90 días, sin trabajo para uruguayos sin visa). Se exige cita previa para solicitar. Se recomienda el asistente digital de visas (visa.diplo.de) para identificar el tipo de visa. No esperar a tener la visa para comprar pasajes. La página NO detalla visas de trabajo, búsqueda de empleo (Chancenkarte) ni Working Holiday; remite a otra página sobre inmigración de personal calificado, que no fue leída.
+  - Pago o beneficio: Tasa de la visa nacional: EUR 75 (menores de 18: EUR 37,50), pagadera en efectivo en pesos uruguayos al tipo de cambio del día en la embajada. Visa Schengen: EUR 90.
+  - Plazo o ciclo: Abierto todo el año, con cita previa. Plazo de trámite informado: 4 a 12 semanas según el tipo de visa.
+  - Como postular: https://visa.diplo.de
+  - Lectura automatica posible: none
+  - Aclaracion: La página solo confirma el procedimiento general de visa nacional y Schengen; no detalla visas de trabajo, búsqueda de empleo (Chancenkarte) ni Working Holiday.
+  - Aclaracion: Una lista secundaria indica que existe visa de vacaciones y trabajo para uruguayos de 18 a 30 años, pero la página de la embajada no menciona ese programa, por lo que debe consultarse a la embajada.
+  - Aclaracion: Los requisitos para trabajar figuran en el asistente digital de visas y en la página de inmigración de personal calificado enlazada desde la embajada.
+- **Express Entry de Canadá (trabajadores calificados)** (abierta o vigente, verificada 2 veces) https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html
+  - Que es: Trabajadores calificados de cualquier nacionalidad. Programas: Canadian Experience Class, Federal Skilled Worker y Federal Skilled Trades. No es una opción para primer empleo sin experiencia.
+  - Requisitos: Tres programas: Experiencia Canadiense, Trabajadores Calificados Federales y Oficios Calificados Federales. Se mencionan prueba de idioma, estudios, oferta de empleo, fondos y certificado de antecedentes policiales. La página leída no detalla los requisitos exactos de cada programa. Requiere experiencia laboral calificada: no es una vía para quien no tiene experiencia.
+  - Sin experiencia previa: no
+  - Pago o beneficio: No aplica (es un proceso de residencia permanente, no un empleo). Montos de tasas no cargaron en la página leída.
+  - Plazo o ciclo: Abierto todo el año: se crea un perfil y se entra en el grupo de candidatos. Las invitaciones a postular se emiten en rondas periódicas según el puntaje (CRS). La página indica que en 2026 cambiaron los puntos por experiencia laboral canadiense y ofertas de empleo, sin detallar los cambios.
+  - Como postular: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html
+  - Lectura automatica posible: none
+  - Aclaracion: Se verificó la mecánica del proceso, no los puntajes de corte ni las tasas vigentes.
+  - Aclaracion: Está abierta a cualquier nacionalidad, incluida la uruguaya.
+- **Autorización de residencia en Brasil - Ministerio de Justicia (residencia por acuerdo o tratado)** (abierta o vigente, verificada 2 veces) https://www.gov.br/mj/pt-br/assuntos/seus-direitos/migracoes/paginas-migracoes/autorizacao-de-residencia
+  - Que es: Extranjeros con residencia por acuerdo o tratado de residencia, o por actividad laboral. La página no nombra al Mercosur ni a Uruguay.
+  - Requisitos: Pasaporte o documento oficial de identidad, 2 fotos 3x4, certificado de nacimiento, matrimonio o consular si el documento no indica filiación, comprobante de pago de tasas, formulario de solicitud y certificados de antecedentes penales según lo que exija el acuerdo o tratado. No requiere experiencia ni título.
+  - Pago o beneficio: Tasa de trámite de residencia: R$ 168,13; emisión de la CRNM (carné migratorio): R$ 204,77, por boleto GRU.
+  - Plazo o ciclo: Abierto todo el año (trámite sin convocatoria). Plazo estimado de resolución: 130 a 180 días.
+  - Como postular: Presencial en la Polícia Federal, con turno por el sistema sincreWeb de la PF
+  - Lectura automatica posible: none
+  - Aclaracion: La página no nombra al Mercosur ni dice si esta categoría da derecho a trabajar; ambos puntos deben confirmarse con la Polícia Federal o en la página específica del acuerdo Mercosur.
+  - Aclaracion: Contacto informado: processos.migracoes@mj.gov.br.
+- **Cancillería de Uruguay - Vinculación con el exterior (RUUE, asociaciones de uruguayos, boletines)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-relaciones-exteriores/vinculacion-exterior
+  - Que es: Uruguayos que viven o piensan vivir en el exterior. No ofrece empleos: reúne servicios de registro (RUUE), directorio de asociaciones de uruguayos, boletines y la Guía de Retorno.
+  - Requisitos: Dirigido a uruguayos que viven en el exterior. El registro se hace en el sitio del RUUE; la página no detalla requisitos de inscripción.
+  - Pago o beneficio: No aplica. No hay empleo ni ayudas económicas en esta página.
+  - Plazo o ciclo: Permanente. Registro en el RUUE abierto todo el año.
+  - Como postular: https://ruue.mrree.gub.uy
+  - Lectura automatica posible: none
+  - Aclaracion: Es una página informativa y no ofrece programas de empleo.
+  - Aclaracion: La página no indica un período de inscripción del RUUE ni menciona becas o bolsas de trabajo.
+- **Cancillería de Uruguay - Asistencia en el exterior (incluye protocolo contra la trata de personas)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-relaciones-exteriores/asistencia-exterior
+  - Que es: Uruguayos en el exterior que necesitan asistencia consular. Incluye el enlace 'Trata de mujeres, niñas, niños y adolescentes' (protocolo de embajadas y consulados). Útil como referencia de protección ante ofertas de trabajo engañosas.
+  - Requisitos: Dirigido a uruguayos en el exterior y a sus familiares en Uruguay. La página no detalla requisitos específicos.
+  - Pago o beneficio: No aplica (servicio de asistencia, sin costo informado en la página).
+  - Plazo o ciclo: Permanente. Atención de lunes a viernes de 10:00 a 15:30.
+  - Como postular: Oficina de Asistencia al Compatriota: Colonia 1206, Montevideo, tel. (+598) 2902 10 10, lunes a viernes de 10:00 a 15:30
+  - Lectura automatica posible: none
+  - Aclaracion: No es una fuente de empleo; sirve como referencia de seguridad para quien busca trabajo en el exterior.
+  - Aclaracion: Incluye asistencia a detenidos, localización de uruguayos, repatriación, ayuda desde Uruguay y el protocolo de actuación contra la trata de personas.
+- **Programa Vacaciones y Trabajo Uruguay-Portugal (comunicado oficial de Cancillería)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.gub.uy/ministerio-relaciones-exteriores/comunicacion/noticias/uruguay-portugal-firman-acuerdo-sobre-programa-vacaciones-trabajo
+  - Que es: Jóvenes uruguayos de 18 a 35 años (inclusive, a la fecha en que la misión diplomática o consulado recibe la solicitud). Cupo: 200 jóvenes nacionales de cada país por año. Estadía de hasta un año.
+  - Requisitos: Tener entre 18 y 35 años inclusive a la fecha en que la misión o consulado recibe la solicitud; pasaporte vigente; seguro de salud; pasaje de regreso o fondos para comprarlo; no trabajar más de seis meses (según el comunicado). No se exige dominio del portugués ni del español. Estadías de hasta un año.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica (es una visa, no un empleo). Costo de la visa: sin datos.
+  - Plazo o ciclo: Acuerdo firmado el 22/11/2024 y vigente desde la firma; cupo anual de 200 jóvenes por país. Fechas de apertura de solicitudes: sin datos (no se indican en el comunicado).
+  - Como postular: https://www.gub.uy/ministerio-relaciones-exteriores/comunicacion/noticias/uruguay-portugal-firman-acuerdo-sobre-programa-vacaciones-trabajo
+  - Lectura automatica posible: none
+  - Aclaracion: El comunicado no indica fechas de apertura de solicitudes ni confirma que ya se estén recibiendo, por lo que debe consultarse a la Embajada de Portugal antes de planificar.
+  - Aclaracion: La solicitud se presenta ante la Sección Consular de la Embajada de Portugal en Montevideo (sconsular.montevideu@mne.pt, +598 2708 4061) o en línea donde esté disponible.
+- **Visas de vacaciones y trabajo de Nueva Zelanda - Immigration New Zealand** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.immigration.govt.nz/visas/uruguay-working-holiday-visa/
+  - Que es: Jóvenes ciudadanos de países con acuerdo, normalmente de 18 a 30 años (18 a 35 en unos pocos países). Una lista secundaria (Wikipedia) incluye a Uruguay entre los países elegibles; la página oficial leída no mostró la lista de países, por lo que la edad y el cupo para Uruguay son sin datos.
+  - Requisitos: Ciudadanía uruguaya, 18 a 35 años, pasaporte válido al menos 3 meses después del vencimiento de la visa, NZD 4.200 de fondos, seguro médico completo por toda la estadía, buena salud y buenos antecedentes, pasaje de salida o fondos para uno, no haber tenido antes una visa de vacaciones y trabajo de Nueva Zelanda. No se exige experiencia. Trámite en línea y en inglés. La URL provista es la página general; la página específica para Uruguay es la indicada como URL oficial.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Trabajo temporal permitido, sin oferta previa de empleo; no se permite empleo permanente. Estudio o capacitación hasta 6 meses. Costo de la visa desde NZD 770.
+  - Plazo o ciclo: Cupo anual de 200 visas para Uruguay. La página oficial de Uruguay figura como cerrada para 2026 ('se puede solicitar el año próximo'), sin fecha de 2027. Aperturas anteriores vistas: 31 de octubre de 2024 (comunicado oficial) y 30 de octubre de 2025 (resultado de búsqueda). Un resultado de búsqueda mencionó el 17 de noviembre de 2026, pero no se pudo confirmar y la página oficial mostraba 'cerrada'. Una vez abierto el cupo, se acepta hasta completarlo.
+  - Como postular: https://www.immigration.govt.nz/visas/uruguay-working-holiday-visa/
+  - Lectura automatica posible: none
+  - Aclaracion: La URL general no menciona a Uruguay; solo la página específica para Uruguay confirma elegibilidad, cupo y estado.
+  - Aclaracion: La edad y el cupo para Uruguay no se confirmaron en una lista oficial de países, porque la página general no la mostraba.
+  - Aclaracion: El cupo es muy competitivo y se llena rápido.
+- **Visa de trabajo y vacaciones de Australia (subclase 462) - Departamento de Asuntos Internos** (sin verificar, verificada 1 vez) https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462
+  - Que es: Jóvenes de países con acuerdo. Una lista pública secundaria (Wikipedia, 'Working holiday visa') incluye a Uruguay entre los elegibles para la subclase 462. Edad exacta, cupo y condiciones para Uruguay: sin datos (no vistos).
+  - Requisitos: sin datos
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462
+  - Lectura automatica posible: none
+  - Aclaracion: No se confirmó que Uruguay figure entre los países elegibles para la subclase 462; la mención proviene de una lista pública secundaria.
+  - Aclaracion: La edad, el cupo y las condiciones para Uruguay no están confirmados y deben comprobarse en la página oficial.
+  - Aclaracion: Hasta esa comprobación no debe presentarse como disponible para residentes de Uruguay.
+- **Nacionalidad española por la Ley de Memoria Democrática - Consulado de España en Montevideo** (sin verificar, verificada 1 vez) https://www.exteriores.gob.es/Consulados/montevideo/es/ServiciosConsulares/Paginas/index.aspx
+  - Que es: Personas que puedan acreditar vínculo familiar con España. La página lista el servicio 'Nacionalidad española por la Ley de Memoria Democrática' y 'Información general sobre nacionalidad española'; el detalle de quiénes califican es sin datos (no visto).
+  - Requisitos: sin datos. Los requisitos no figuran en la página leída. Es un trámite de nacionalidad (derecho a residir y trabajar en España por ser ciudadano), no un programa de empleo.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página solo lista el servicio en un menú ('Nacionalidad española por la Ley de Memoria Democrática', con variante 'Digired') y no indica plazo ni cómo solicitar. No se pudo confirmar si el plazo de solicitud sigue abierto ni si hay una nueva convocatoria.
+  - Como postular: sin datos
+  - Lectura automatica posible: none
+  - Aclaracion: La página solo lista el servicio y no explica requisitos, plazo ni cómo solicitar.
+  - Aclaracion: No se confirmó si el plazo de solicitud sigue abierto ni si hay una nueva convocatoria; debe verificarse en el consulado o en el Ministerio de Asuntos Exteriores.
+  - Aclaracion: La cita previa enlazada es general, no específica de este trámite.
+- **Migraciones Argentina - Residencias (incluye residencia por nacionalidad MERCOSUR)** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/migraciones/residencias
+  - Que es: Residencia temporaria, transitoria o permanente. La página de residencia temporaria tiene un enlace 'Nacionalidad MERCOSUR', que remite al trámite para nacionales de países del Mercosur (el Acuerdo de Residencia permite vivir y trabajar en otro país del bloque). El texto de ese trámite no fue leído.
+  - Requisitos: La página general solo confirma que las residencias temporarias se otorgan hasta por tres años y habilitan un DNI temporario, y que cada categoría tiene subcategorías por nacionalidad. Documentos, costos y derecho a trabajar no verificados. Página de detalle enlazada, no leída: https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-por-nacionalidad-mercosur
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Trámite sin convocatoria, sin fecha límite. No se pudo confirmar en la página de detalle (la lectura fue bloqueada por límite de verificación de dominio). Se supone abierto todo el año, sin verificar.
+  - Como postular: https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-por-nacionalidad-mercosur
+  - Lectura automatica posible: none
+  - Aclaracion: La página general no menciona MERCOSUR ni sus requisitos, y la página de detalle no pudo leerse.
+  - Aclaracion: Documentos, costos, derecho a trabajar y la disponibilidad todo el año no están verificados.
+  - Aclaracion: No debe afirmarse el derecho a trabajar hasta leer la página específica o consultar a la Dirección Nacional de Migraciones.
+- **Cancillería de Uruguay - Recomendaciones para uruguayos que viajan al exterior (trabajar exige visa específica)** (sin verificar, verificada 1 vez) https://www.gub.uy/ministerio-relaciones-exteriores/comunicacion/publicaciones/recomendaciones-generales-en-caso-de-viajar-al-exterior
+  - Que es: Cualquier uruguayo que viaje al exterior. Advierte que 'para realizar actividades diferentes al turismo (ejemplo; trabajo, estudio, etc.) se requerirá de un visado específico' y que incumplir las normas migratorias puede llevar a sanciones del país receptor.
+  - Requisitos: Ninguno para consultar la página. Para trabajar en el exterior se exige el visado o permiso de trabajo específico del país de destino, y pasaporte vigente fuera del MERCOSUR.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no corresponde; no es un empleo ni un beneficio)
+  - Plazo o ciclo: Permanente (página informativa, publicada el 18/02/2019; no es una convocatoria)
+  - Como postular: sin datos
+  - Lectura automatica posible: none
+  - Aclaracion: Es una guía de viaje del Ministerio de Relaciones Exteriores, no una fuente de empleo: no ofrece vacantes, programas ni vía de postulación.
+  - Aclaracion: Indica que las actividades distintas al turismo, como trabajar o estudiar, requieren un visado específico, y que incumplir las normas migratorias puede acarrear sanciones del país de destino.
+  - Aclaracion: No se confirmó que la página esté actualizada más allá de 2019.
+- **Cancillería de Uruguay - Oficina del Retorno y Guía de Retorno** (sin verificar, verificada 1 vez) https://www.gub.uy/ministerio-relaciones-exteriores/tematica/oficina-del-retorno-0
+  - Que es: Uruguayos que vivieron más de un año en el exterior y vuelven al país (Guía de Retorno actualizada el 08/10/2026, Manual para el retorno). Referencia para quienes planean una experiencia larga afuera y su regreso.
+  - Requisitos: No se vieron en la página. En términos generales está dirigida a uruguayos (y ciudadanos legales) que regresan al país; los criterios de acceso a cada servicio no se confirmaron.
+  - Pago o beneficio: sin datos (no se vio ningún pago ni beneficio concreto en la página)
+  - Plazo o ciclo: Permanente (la página lista la Guía de Retorno con fecha 08/10/2026, por lo que está vigente); sin plazos ni convocatorias
+  - Como postular: sin datos
+  - Lectura automatica posible: none
+  - Aclaracion: No se confirmó que ofrezca ayuda laboral: el listado no describe quién puede acceder, requisitos, beneficios ni cómo solicitarlos, y no hay bolsa de trabajo ni vacantes.
+  - Aclaracion: Los documentos enlazados no se leyeron, por lo que no se verificó si contienen información sobre inserción laboral, convalidación de títulos u otros trámites.
+  - Aclaracion: Corresponde considerarla, a lo sumo, un recurso informativo para personas que retornan.

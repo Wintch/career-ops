@@ -1,0 +1,83 @@
+# Grupo 62: Trabalhadores florestais, pescadores e caçadores
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Suzano - vagas na Gupy (operador de máquinas florestais, mecânico florestal, viveiro)** (aberta ou vigente, verificada 2 vezes) https://suzano.gupy.io/
+  - O que é: Candidatos a vagas florestais e industriais da Suzano. Na consulta de 2026-11-23 o portal mostrava 56 vagas, entre elas Operador(a) Máquinas Florestais (Dom Eliseu, PA), Operador(a) de Máquinas Florestais (Harvester e Forwarder) em banco de talentos (Aracruz, ES), Mecânicos(as) Florestais em banco de talentos (ES e BA) e Ajudante Viveiro (Mucuri, BA).
+  - Requisitos: Não há requisitos listados na página inicial; cada vaga detalha os seus. O processo seletivo pode ter etapas adicionais e o exame admissional é a etapa final obrigatória. Não foi possível confirmar se há vaga sem exigência de experiência.
+  - Pagamento ou benefício: sem dados (não informado na listagem)
+  - Prazo ou ciclo: Fluxo contínuo: inscrição aberta o ano todo pelo portal Gupy, com vagas e bancos de talentos. Prazos individuais não aparecem na listagem.
+  - Como se candidatar: https://suzano.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A contagem de vagas pode mudar a qualquer momento.
+  - Esclarecimento: Parte das posições listadas são bancos de talentos (ES e BA), inclusive um banco para pessoas com deficiência.
+- **Eldorado Brasil - vagas na Gupy (inclui Diretoria Florestal)** (aberta ou vigente, verificada 2 vezes) https://vagaseldoradobrasil.gupy.io
+  - O que é: Candidatos a vagas da Eldorado Brasil em Três Lagoas e Selvíria (MS), incluindo a área florestal. A página oficial 'Vagas abertas' (https://www.eldoradobrasil.com.br/pb/trabalhe-conosco/vagas-abertas/) remete a este portal e diz que candidatos de outras localidades podem se candidatar, com prioridade para a comunidade local e regional.
+  - Requisitos: Não há requisitos listados na página inicial; cada vaga detalha os seus. Não foi possível confirmar se há vaga sem exigência de experiência.
+  - Pagamento ou benefício: sem dados (não informado na listagem)
+  - Prazo ou ciclo: Fluxo contínuo: inscrição aberta pelo portal Gupy, com vagas efetivas e bancos de talentos. Prazos individuais não aparecem na listagem.
+  - Como se candidatar: https://vagaseldoradobrasil.gupy.io
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Na primeira página só uma vaga florestal aparece (Auxiliar Mensuração Florestal I, Selvíria, MS).
+  - Esclarecimento: Há bancos de talentos em Três Lagoas (MS): Bombeiro Civil Líder, Pessoas 50+, PCD, LGBTQ+ e Pessoas Pretas.
+- **Veracel Celulose - Trabalhe conosco (Gupy 'Vem para a Veracel')** (aberta ou vigente, verificada 2 vezes) https://www.veracel.com.br/vagas/
+  - O que é: Candidatos a vagas da Veracel no extremo sul da Bahia (Costa do Descobrimento) e no Vale do Jequitinhonha (MG). A página descreve a área florestal (viveiro de mudas, plantio e manutenção, colheita com operadores de máquinas florestais e logística de toras) e cita programas de estágio e jovem aprendiz.
+  - Requisitos: A página oficial não lista requisitos; cada vaga no Gupy detalha os seus. Os bancos de talentos não especificam área nem experiência exigida.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Caminho de inscrição aberto o ano todo por bancos de talentos no portal Gupy. Nenhuma vaga com prazo específico foi vista.
+  - Como se candidatar: https://vemparaaveracel.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Em 2026-11-23 o Gupy mostrava apenas 3 bancos de talentos em Eunápolis (BA), sem vaga florestal específica.
+  - Esclarecimento: Estágio e jovem aprendiz são citados sem detalhes.
+- **ICMBio - Agente Temporário Ambiental (inclui brigadistas de incêndio)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/icmbio/pt-br/assuntos/protecao/seja-um-agente-temporario-ambiental
+  - O que é: Qualquer pessoa pode se inscrever, segundo a página, inclusive para a área de manejo do fogo (brigadista). As funções cobrem monitoramento ambiental, apoio à gestão de unidades de conservação, apoio à fiscalização e apoio ao uso público.
+  - Requisitos: Documentos obrigatórios, número de vagas e áreas temáticas constam em cada edital. Para a temática de fogo (brigadista), é preciso concluir um curso de brigada de incêndio para ser selecionado, e qualquer pessoa pode se inscrever; o resultado final sai após o curso. A página manda procurar a unidade do ICMBio mais próxima. Não foi possível confirmar se há exigência de experiência ou escolaridade.
+  - Pagamento ou benefício: sem dados (não informado na página; consta no edital)
+  - Prazo ou ciclo: Seleção anual por edital: a página tem botões de editais de 2018 a 2026. Não indica qual edital está aberto nem prazo; a data e o mês do ciclo não foram vistos. Página atualizada em 04/08/2026.
+  - Como se candidatar: https://www.gov.br/icmbio/pt-br/assuntos/protecao/seja-um-agente-temporario-ambiental
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não se sabe se há inscrição aberta em 23/11/2026; convém conferir o edital de 2026 antes de se candidatar.
+  - Esclarecimento: Os editais em si não foram abertos, de modo que pagamento, vagas e exigências constam apenas em cada edital.
+- **Seguro-Desemprego do Pescador Artesanal (Seguro-Defeso) - serviço no gov.br** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/pt-br/servicos/solicitar-seguro-defeso-pescador-artesanal
+  - O que é: Pescadores artesanais que precisam pedir ou recorrer do benefício do período de defeso (proibição temporária da pesca). A página informa que o INSS não recebe mais novos requerimentos e direciona os pedidos ao Ministério do Trabalho e Emprego. Não é fonte de vagas de trabalho, mas é um serviço de uso recorrente dessa ocupação.
+  - Requisitos: Conta gov.br de nível Bronze, Prata ou Ouro. Para pedidos novos e recursos do período atual, usar os canais do Ministério do Trabalho e Emprego (aplicativo Carteira de Trabalho Digital ou Portal Emprega Brasil). Para a trilha do INSS, CPF e senha no Meu INSS. Os critérios de enquadramento como pescador artesanal não aparecem na página.
+  - Pagamento ou benefício: sem dados (valor não informado na página; o crédito é gerado automaticamente e fica disponível na Caixa Econômica Federal)
+  - Prazo ou ciclo: Sem datas de períodos de defeso na página; pedidos novos pelo MTE (Carteira de Trabalho Digital ou Emprega Brasil); INSS só para pedidos iniciados até 31/10/2025; página atualizada em 20/10/2026.
+  - Como se candidatar: https://www.gov.br/pt-br/servicos/solicitar-seguro-defeso-pescador-artesanal
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O INSS não recebe mais pedidos novos nem recursos; seu canal serve só para acompanhar pedidos iniciados até 31/10/2025.
+  - Esclarecimento: É benefício assistencial, não vaga de emprego, e atende apenas quem já exerce a pesca artesanal.
+  - Esclarecimento: Serviço gratuito e 100% online; a análise do INSS leva cerca de 45 dias em média e o MTE não informa prazo.
+  - Esclarecimento: Central do INSS: 135, de segunda a sábado, das 7h às 22h (Brasília).
+- **Klabin - portal de carreiras (vagas florestais: ajudante florestal, silvicultura)** (não verificada, verificada 1 vez) https://carreiras.klabin.com.br
+  - O que é: Candidatos a vagas da Klabin. Comunicados da própria empresa, publicados em 2026-02 (mais de 130 vagas em Curiúva, PR, em silvicultura, segundo resultado de busca) e em 2026-09 (15 vagas de Assistente Florestal na equipe de silvicultura em Santa Catarina, segundo a lista de comunicados lida), indicam contratação florestal em volume.
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados. A página carregou, mas sem nenhuma vaga listada e sem datas; o ciclo de contratações por ondas citado não foi confirmado.
+  - Como se candidatar: https://carreiras.klabin.com.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O portal carregou sem nenhuma vaga listada, então não há confirmação de vaga florestal aberta.
+  - Esclarecimento: O portal permite busca por palavra-chave e por cidade ou estado.
+- **Bracell - página Carreiras (operações florestais na Bahia e em São Paulo)** (não verificada, verificada 1 vez) https://www.bracell.com/pt/carreiras
+  - O que é: Candidatos a vagas da Bracell, com operações em Camaçari e Alagoinhas (BA) e Lençóis Paulista (SP); há link para a área de operações florestais. Todas as vagas são abertas a pessoas com deficiência e a mulheres.
+  - Requisitos: A página não traz requisitos gerais; depende de cada vaga. Jovem Aprendiz não exige experiência prévia, segundo a página. Há menção a cursos de capacitação para comunidades próximas em parceria com o Senai.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados. A página diz que estágio e trainee abrem uma vez por ano, com divulgação nas redes sociais, mas sem datas.
+  - Como se candidatar: https://www.bracell.com/pt/carreiras
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A empresa não aceita currículo por e-mail e há aviso sobre anúncios falsos; convém usar somente os links oficiais da página.
+  - Esclarecimento: Nenhuma vaga específica nem florestal foi vista, então a existência de vagas florestais na Bahia e em São Paulo não está confirmada.
+  - Esclarecimento: Há link separado para vagas PCD em Workday.
+- **MS Qualifica Digital - cursos gratuitos do setor florestal (Senar/MS)** (não verificada, verificada 1 vez) https://msqualifica.ms.gov.br
+  - O que é: Produtores rurais, trabalhadores e pessoas que querem entrar no mercado de trabalho, segundo a notícia oficial do governo estadual. Mato Grosso do Sul concentra grandes fábricas de celulose e contratação florestal.
+  - Requisitos: A notícia não informa requisitos; diz apenas que o público é formado por produtores rurais, trabalhadores e pessoas que buscam entrar no mercado de trabalho. Não é possível confirmar se residentes fora de Mato Grosso do Sul podem participar, pois trata-se de programa do governo estadual.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Gratuito (cursos sem custo, segundo a notícia); sem remuneração informada
+  - Prazo ou ciclo: sem dados. A notícia só informa o lançamento da plataforma em 30/04/2025; não há datas de turmas, inscrição ou encerramento, e a disponibilidade atual não foi confirmada.
+  - Como se candidatar: https://msqualifica.ms.gov.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: São 1.220 vagas gratuitas em 12 trilhas de 144 a 220 horas (Viveirista, Máquinas Florestais, Operador de Máquinas Linha Amarela, entre outras).
+  - Esclarecimento: O conteúdo atual da plataforma não foi verificado; a notícia é de 30/04/2025.
+  - Esclarecimento: O aplicativo MS Digital também oferece vagas de emprego e envio de currículo.

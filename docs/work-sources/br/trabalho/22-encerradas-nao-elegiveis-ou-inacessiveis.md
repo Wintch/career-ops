@@ -1,0 +1,180 @@
+# Encerradas, não elegíveis ou inacessíveis
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+Ficam listadas para que ninguém as pesquise de novo.
+
+- **Mercado Livre - Oportunidades em Logística (centros de distribuição e Envios)** (não carregou) https://careers-meli.mercadolibre.com/pt/oportunidades-logistica
+  - Prazo ou ciclo: sem dados (a campanha anunciada até o fim de 2026 não foi confirmada)
+  - Esclarecimento: As vagas, os requisitos e a campanha de contratação não foram confirmados: a página retornou HTTP 403 em todas as tentativas, e não foi encontrada outra URL oficial.
+  - Esclarecimento: O bloqueio pode ser do acesso automatizado, e não da página; vale conferir manualmente em um navegador.
+- **99 — Motorista parceiro (99Pop e 99Moto)** (não carregou) https://99app.com/motorista/requisitos/
+  - Prazo ou ciclo: Não confirmado; o cadastro costuma ser contínuo, mas não foi visto na página.
+  - Esclarecimento: Requisitos, ganhos e prazos do cadastro não estão confirmados; a página oficial não pôde ser lida (HTTP 429).
+  - Esclarecimento: Indica-se consultar o app 99 Motorista ou tentar a página oficial novamente mais tarde.
+- **Mercado Livre — Entregador Flex (Mercado Envios Flex)** (não carregou) https://envios.mercadolivre.com.br/flex
+  - Prazo ou ciclo: Não confirmado; o cadastro costuma ser contínuo, mas isso não foi visto.
+  - Esclarecimento: Requisitos, ganhos e prazo de cadastro não estão confirmados; a página oficial não pôde ser lida (HTTP 403).
+  - Esclarecimento: A informação de aprovação em 48 horas a 5 dias úteis não foi confirmada.
+- **Grupo Mateus - Oportunidades (portal de currículos)** (não carregou) https://curriculo.grupomateus.com.br
+  - Prazo ou ciclo: sem dados
+  - Esclarecimento: O endereço curriculo.grupomateus.com.br é o apontado pelo link 'Oportunidades' do site oficial grupomateus.com.br.
+  - Esclarecimento: O portal não respondeu (conexão recusada) nas tentativas de acesso, e a URL grupomateus.com.br/trabalhe-conosco/ retorna 404.
+- **Escritórios Sociais (CNJ, Programa Fazendo Justiça) para pessoas egressas do sistema prisional** (não carregou) https://www.cnj.jus.br/sistema-carcerario/fazendo-justica/escritorios-sociais/ (também retornou 403, não confirmada)
+  - Prazo ou ciclo: sem dados (não confirmado)
+  - Esclarecimento: O domínio oficial cnj.jus.br respondeu HTTP 403 Forbidden à página indicada e a uma segunda página do programa, por isso nada foi confirmado sobre serviços, endereços ou encaminhamento a emprego.
+  - Esclarecimento: O serviço não pode ser dado como verificado; convém checar a página manualmente ou buscar a lista de Escritórios Sociais pelo site do CNJ.
+- **TELUS Digital - AI Community (vagas de colaborador de dados para IA)** (não carregou) https://jobs.telusdigital.com/
+  - Prazo ou ciclo: sem dados
+  - Esclarecimento: A página oficial não estava acessível (HTTP 403, inclusive em uma segunda URL oficial do mesmo domínio).
+  - Esclarecimento: Nenhuma informação sobre vagas, país, idioma ou pagamento foi confirmada.
+- **Polícia Militar do Estado de São Paulo - portal de concursos (Soldado PM, Oficiais)** (não carregou) https://www.concursos.policiamilitar.sp.gov.br/
+  - Prazo ou ciclo: sem dados. O portal não carregou em duas tentativas (erro de certificado: 'unable to verify the first certificate'), com e sem 'www'. A página da banca (vunesp.com.br/PMES2601) respondeu HTTP 403. Segundo buscas na imprensa (não oficial), houve edital em junho de 2026 para 2.000 vagas de Aluno-Soldado (Vunesp), inscrições de 15/06 a 21/08/2026 e prova em 20/09/2026, em 23/11/2026 encerrado; uma matéria cita inscrições de 09/11 a 22/12 com taxa de R$ 110, em conflito com as demais, sem confirmação.
+  - Esclarecimento: Nada pôde ser confirmado em página oficial; o portal apresentou erro de certificado.
+  - Esclarecimento: Os dados de imprensa (nível médio, habilitação categoria B a E, idade de 17 a 30 anos, remuneração inicial de cerca de R$ 5.482,51) são contraditórios e não verificados.
+- **Marinha do Brasil: programação dos concursos (SSPM)** (não carregou) https://www.marinha.mil.br/sspm/?q=programa-o-dos-concursos
+  - Prazo ou ciclo: sem dados
+  - Esclarecimento: O conteúdo da página não pôde ser lido, então a programação, o ano a que se refere e a correção da URL não foram confirmados.
+- **Exército Brasileiro: como ingressar (página de ingresso)** (não carregou) http://www.eb.mil.br/web/ingresso/como-ingressar
+  - Prazo ou ciclo: sem dados
+  - Esclarecimento: O conteúdo atual da página não pôde ser lido; sua existência é corroborada pela página-índice oficial do Ministério da Defesa.
+  - Esclarecimento: Para o serviço militar obrigatório, ver alistamento.eb.mil.br.
+- **Força Aérea Brasileira: ingresso** (não carregou) http://www.fab.mil.br/ingresso
+  - Prazo ou ciclo: sem dados
+  - Esclarecimento: O conteúdo da página não pôde ser lido, e nenhum edital ou prazo foi confirmado.
+- **Exército Brasileiro - seleção de militares temporários nas Regiões Militares (Sargento Técnico Temporário e Cabo Especialista Temporário)** (não carregou) https://7rm.eb.mil.br/
+  - Prazo ou ciclo: sem dados
+  - Esclarecimento: O conteúdo da página não pôde ser lido; as datas citadas no catálogo (junho a agosto e 21/09 a 04/10 de 2026) não foram confirmadas.
+  - Esclarecimento: Nenhuma seleção aberta foi vista.
+- **Embraer - portal de vagas do Brasil (izirh) e página de carreiras** (não carregou) https://embraer.izirh.io/
+  - Prazo ou ciclo: sem dados
+  - Esclarecimento: O portal embraer.izirh.io retornou erro HTTP 403, e o endereço www.embraer.com/br/carreiras retornou 404; nada foi confirmado nas páginas oficiais.
+  - Esclarecimento: A existência de vagas abertas o ano todo e de funções de produção, como eletricista montador de aviões, vem de matérias de imprensa e não está confirmada em página oficial.
+- **Confea - registro de profissional (engenharia, agronomia, geologia e meteorologia)** (não carregou) https://www.confea.org.br/servicos-prestados/registro-de-profissional
+  - Prazo ou ciclo: Contínuo, sem prazo de inscrição visto. Validade e renovação: não confirmadas em página oficial (sem dados).
+  - Esclarecimento: Não é serviço de emprego: o registro profissional é feito no Crea do estado, e não no Confea, e não há porta de entrada para quem não tem formação.
+  - Esclarecimento: A base normativa seria a Resolução Confea nº 1152 de 24/07/2025, com validade nacional, anotação do diploma no Sistema de Informações Confea/Crea (SIC) e emissão da Carteira de Identidade Profissional pelo Crea.
+- **SENAI-SP — Processo seletivo Aprendizagem Industrial (Comunidade)** (encerrada) https://www.sp.senai.br/processo-seletivo/aprendizagem-industrial-comunidade
+  - Prazo ou ciclo: Ciclo atual encerrado. Inscrições de 23/10/2026 (14h) a 09/11/2026 (21h); provas digitais de 10/11 a 27/11/2026; resultado em 14/12/2026 (14h); matrícula de 14 a 18/12/2026. Próxima abertura: sem dados (a página sugere ciclo anual, mas não confirma).
+  - Esclarecimento: As inscrições estão encerradas e não há como se inscrever em 23/11/2026; candidatos já inscritos estão no período de provas.
+  - Esclarecimento: A prova tem 60 questões de múltipla escolha (20 de Português, 20 de Matemática e 20 de Ciências), em nível de fim do Fundamental II, aplicada digitalmente na unidade escolhida.
+- **SENAI Minas Gerais (FIEMG) — Processo Seletivo Unificado de Aprendizagem** (encerrada) https://www.fiemg.com.br/senai/jovem-aprendiz/
+  - Prazo ou ciclo: Ciclo PSU 2027 encerrado: inscrições até 20/10/2026 (taxa de R$ 10, isenção solicitada de 07 a 09/10); prova em 14/11/2026 (20 questões, 10 de Português e 10 de Matemática, 1h45); resultado em 01/12/2026 a partir das 14h; matrícula presencial de 01 a 08/12/2026; aulas a partir de 04/01/2027. Próxima abertura: sem dados (a página não menciona).
+  - Esclarecimento: As inscrições estão encerradas.
+  - Esclarecimento: A página tem textos desatualizados (ainda menciona o 2º semestre de 2025 e 'Garanta sua vaga') que contradizem o cronograma de 2027; o edital é a fonte válida.
+- **SEE-MG - Concurso público da educação (histórico: Edital SEPLAG/SEE nº 3/2023)** (encerrada) https://www.mg.gov.br/planejamento/documento/publicacao-do-ato-de-nomeacao-edital-seplag-see-no-01-2025-carreira-peb-24-02-2026
+  - Prazo ou ciclo: Edição 2023 encerrada (inscrições de 31/07 a 29/08/2023). Não é anual. Houve um edital posterior (Edital SEPLAG/SEE nº 01/2025, carreira PEB, com ato de nomeação publicado em 24/02/2026); novo concurso: sem dados.
+  - Esclarecimento: Os dados da página são de 2023 (19.878 vagas, sendo 13.121 de PEB; organizadora FGV) e não estão mais abertos; a página serve apenas como referência do formato.
+  - Esclarecimento: As taxas eram de R$ 43,00 (nível superior) e R$ 38,00 (nível técnico), com isenção para doadores de sangue, desempregados certificados e inscritos no CadÚnico.
+- **Correios - Programa Jovem Aprendiz** (encerrada) https://www.correios.com.br/acesso-a-informacao/servidores/imagens/programa-jovem-aprendiz
+  - Prazo ou ciclo: Edição 2026 com inscrições até 22/04/2026 (prorrogadas). Nova edição: sem dados.
+  - Esclarecimento: A página oficial mostra apenas a edição já encerrada, sem remuneração, link de inscrição ou indício de nova edição.
+  - Esclarecimento: Cabe reavaliar caso os Correios anunciem novo edital.
+- **CPNU 2 (Concurso Público Nacional Unificado, 2ª edição) - página oficial do MGI** (encerrada) https://www.gov.br/gestao/cpnu
+  - Prazo ou ciclo: Inscrições da 2ª edição de 02/07 a 20/07/2025 (encerradas). 3ª edição: não anunciada nas páginas lidas.
+  - Esclarecimento: A página trata só do CPNU 2 e não menciona nova edição nem datas.
+  - Esclarecimento: Não há chamada aberta para novos candidatos; o item de manifestação de interesse atende quem já foi aprovado.
+- **CPNU 1 (antigo CNU 2024) - convocações, novas vagas e banco de candidatos** (encerrada) https://www.gov.br/gestao/pt-br/concursonacional/concurso-publico-nacional-unificado-1
+  - Prazo ou ciclo: Sem inscrição para novos candidatos. Convocações de aprovados em andamento: 4ª convocação (Edital nº 12/2026, DOU 03/08/2026) e manifestação de interesse para a lista de espera (24/08 a 04/09/2026, segundo busca).
+  - Esclarecimento: Serve apenas a quem já foi aprovado no concurso de 2024; não é rota de candidatura para quem não participou nem porta de entrada para iniciantes.
+  - Esclarecimento: A página traz Convocação Novas Vagas, Manifestação de Interesse e o banco de candidatos aprovados em lista de espera para contratação temporária (BACALE).
+- **Polícia Federal - página de concursos (Carreira Policial e Plano Especial de Cargos)** (encerrada) https://www.gov.br/pf/pt-br/acesso-a-informacao/servidores/concursos
+  - Prazo ou ciclo: Sem concurso aberto. Último concurso (Edital nº 1, de 20/05/2025) teve resultado final homologado pelo Edital nº 45/2026 (DOU de 02/09/2026), retificado pelo Edital nº 48/2026. A página não anuncia próximo concurso nem periodicidade.
+  - Esclarecimento: Não há concurso aberto, portanto a página não serve como oportunidade imediata.
+  - Esclarecimento: Inscrições em concursos futuros costumam ser feitas na banca (Cebraspe); os editais ficam em https://www.gov.br/pf/pt-br/acesso-a-informacao/servidores/concursos/edital.
+- **Correios - concurso de Agente de Correios (Carteiro) e demais processos no PROSEL** (encerrada) https://prosel.correios.com.br/concursos
+  - Prazo ou ciclo: Nenhum processo aberto para inscrição. A página lista como 'Em andamento (Pós-inscrições)': CS-270/24 (Agente de Correios - Carteiro, nível médio), CS-271/24 (Analistas de Correios, nível superior), CS-188/24 (SESMT) e CS-002/26 (Jovem Aprendiz 2026). Encerrados: ADM.CENTRAL-13/11 e ADM.CENTRAL-11/11. Sem data de novo concurso.
+  - Esclarecimento: A página de listagem não mostra datas de inscrição nem requisitos; esses dados constam em cada edital.
+  - Esclarecimento: A prorrogação de validade até 14/04/2027 não está confirmada, e as convocações do CS-270/24 não estão verificadas.
+- **Correios - Programa Jovem Aprendiz 2026 (CS-002/26)** (encerrada) https://prosel.correios.com.br/concursos/detalharconcurso/1215
+  - Prazo ou ciclo: Edição 2026 encerrada: edital em 16/03/2026, inscrições de 23/03 a 11/04/2026 prorrogadas até 22/04/2026, resultado em 22/06/2026, recursos de 23 a 25/06/2026; convocações e exames pré-admissionais entre julho e novembro de 2026, por estado. Houve também a edição CS-001/23. Sem data de nova edição, e o intervalo (2023, 2026) não indica ciclo anual.
+  - Esclarecimento: A página traz '11/04/2024' na seção de inscrições, provável erro de digitação.
+  - Esclarecimento: Não há inscrições abertas; os requisitos servem de referência para futuras edições.
+- **Petrobras - concursos públicos, estágio e Jovem Aprendiz** (encerrada) https://petrobras.com.br/carreiras
+  - Prazo ou ciclo: Nada aberto em 2026-11-23. Concursos: 'não temos concursos públicos com inscrições abertas'; o FAQ diz que não há periodicidade fixa (depende da demanda). Estágio: 'não temos oportunidades de estágio abertas'; ciclos vistos em 2019, 2023 e 2024 (22/01 a 07/02/2024). Jovem Aprendiz: 'não temos oportunidades abertas'; último ciclo com inscrições de 06 a 12/10/2025 e resultado final em 04/12/2025. Novos processos serão anunciados nas mesmas páginas.
+  - Esclarecimento: As inscrições de estágio são feitas no site da organizadora indicada na página (CIEE em 2023, Malka em 2019); a página avisa sobre sites e perfis falsos, então convém aplicar só por links publicados nos canais oficiais da Petrobras.
+  - Esclarecimento: A duração do aprendizado aparece com valores divergentes na página (15, 20 e 21 meses).
+- **Refúgio 343 - página de vagas** (encerrada) https://refugio343.org/vagas/
+  - Prazo ou ciclo: Sem vagas abertas na consulta de 2026-11-23; nenhum ciclo anual visto
+  - Esclarecimento: A página informa: "No Momento, não estamos com vagas abertas."
+  - Esclarecimento: O único documento ligado é um PDF de vaga de Assistente Administrativo, enviado em junho de 2025, sem prazo nem requisitos.
+- **Welo Data - Projeto Epsilon, Data Trainer em português (Brasil)** (encerrada) https://jobs.lever.co/weloglobal
+  - Prazo ou ciclo: Encerrada: a página da vaga e a API pública do Lever retornam 404 em 23/11/2026. Ciclo de reabertura: sem dados.
+  - Esclarecimento: A vaga indicada não existe mais; a página e a API pública do Lever retornam 404.
+  - Esclarecimento: A listagem https://jobs.lever.co/weloglobal traz outras vagas ligadas ao Brasil ou ao português, a verificar caso a caso, como 'English to Portuguese (Brazil) Linguist for Patent' e 'Hydrus - Session Director - Portuguese (BR) - V2'.
+- **Prefeitura de Salvador - concurso 2026 de Guarda Civil Municipal (nível médio, FGV)** (encerrada) https://conhecimento.fgv.br/concursos/pmsguarda2026
+  - Prazo ou ciclo: Inscrições abertas em 21/09/2026; segundo a imprensa (não a página oficial, que não informa o encerramento), o prazo foi até 30/10/2026 às 16h. A página oficial segue 'Em Andamento', com 2ª retificação do edital em 18/11/2026 e prorrogação do prazo de pagamento de boletos em 06/11/2026. Prova objetiva: janeiro de 2027 (17/01/2027 segundo uma fonte de imprensa; não confirmado na página oficial). Recorrência: não confirmada.
+  - Esclarecimento: A fase de inscrição já terminou, segundo fontes de imprensa; a página oficial não mostra a data de encerramento.
+  - Esclarecimento: Segundo a imprensa, são 50 vagas imediatas mais cadastro de reserva, salário inicial de R$ 3.546,42 e taxa de R$ 98,00; esses dados não aparecem na página oficial.
+- **Amazul - concurso público (cargos técnicos de nível médio, FGV)** (encerrada) https://conhecimento.fgv.br/concursos/amazul
+  - Prazo ou ciclo: Inscrições de 17/10/2025 a 17/11/2025 (segundo a imprensa); a página oficial só mostra a data de abertura. O certame está em fase final: lista de aprovados em 03/06/2026 (retificada em 03/07/2026), comunicado sobre avaliação de títulos em 27/08/2026 e um comunicado em 12/11/2026. Nenhum sinal de novo edital.
+  - Esclarecimento: O concurso (edital 01/2025, 59 vagas imediatas mais cadastro de reserva, níveis médio, técnico e superior) já encerrou as inscrições e teve prova e resultado finais.
+  - Esclarecimento: A página oficial lista 60 cargos (25 de nível médio/técnico), mas não informa vagas, salário nem requisitos; o salário citado vem da imprensa.
+- **Transforma Minas - seleção por competências de lideranças do governo de Minas Gerais** (encerrada) https://www.mg.gov.br/transforma-minas
+  - Prazo ou ciclo: Sem vaga aberta em 2026-11-23. A página de inscrições abertas diz 'Nenhuma vaga disponível no momento' e o campo 'Inscrições até' está vazio. O processo encerrado mais recente listado tem inscrições até 2024-10-11 (Gerente de Planejamento e Orçamento, Hemominas). Nenhum calendário anual visto.
+  - Esclarecimento: As seleções são pontuais, por órgão, e não há sinal de repetição regular, embora possam reabrir a qualquer momento.
+- **Programa LideraGOV de Desenvolvimento de Líderes (Enap e Ministério da Gestão)** (encerrada) https://www.gov.br/servidor/pt-br/acesso-a-informacao/gestao-de-pessoas/desempenho-e-desenvolvimento-de-pessoas/ProgramaLideraGOV
+  - Prazo ou ciclo: A 6ª edição está em fase final de seleção (resultado final da avaliação curricular em maio de 2026; resultado final da Etapa 3, estudo de caso, em 25/06, ano não indicado na página). Nenhuma 7ª edição anunciada ou aberta em 2026-11-23. As datas de inscrição (2026-04-08 a 2026-04-22), as 50 vagas e as aulas de julho/2026 a maio/2027 não foram confirmadas nas páginas lidas.
+  - Esclarecimento: Seis edições indicam repetição, mas não há ciclo anual comprovado, por isso o programa não é classificado como recorrente.
+  - Esclarecimento: Há reserva de vagas para candidatos negros, pessoas com deficiência, indígenas, quilombolas e pessoas trans, segundo o cronograma da 6ª edição.
+- **Abigraf - Abitec: cursos para a indústria gráfica (e rede de regionais)** (encerrada) https://abigraf.org.br/abitec/nossos-servicos/cursos/
+  - Prazo ou ciclo: Nenhuma turma aberta confirmada; a página lista só 3 cursos datados de 22/10/2024, 05/11/2024 e 25/03/2025, todos já passados em 2026-11-23, sem indício de repetição.
+  - Esclarecimento: A oferta de cursos vista é antiga, e nenhuma turma aberta foi confirmada.
+  - Esclarecimento: Um curso mostra 'Inscrições aqui!' sem data, e o formulário 'registre seu interesse' não informa para qual curso se destina.
+- **TJSP - Concursos e nomeações de servidores (escrevente técnico judiciário e outros cargos)** (encerrada) https://www.tjsp.jus.br/Segmento/Servidores/Concursos
+  - Prazo ou ciclo: Nenhuma inscrição aberta vista em 2026-11-23. A lista tem apenas avisos de nomeação (10 itens entre 29/10/2026 e 18/11/2026), com paginação 'Página 1 de 729'. Ciclo de novos editais: sem dados.
+  - Esclarecimento: Todos os avisos vistos são de nomeação; nenhum é edital de inscrição.
+  - Esclarecimento: Não há evidência de novo concurso com data prevista.
+- **TJMG - Concursos e Seleções (servidores, estágio, residência, juízes leigos e cartórios)** (encerrada) https://www.tjmg.jus.br/portal-tjmg/concursos-e-selecoes/
+  - Prazo ou ciclo: Nenhuma inscrição aberta vista em 2026-11-23. Concurso de Servidores Edital nº 1/2022 em 'Em andamento' (apenas validade e convocações); seleção de juízes leigos Edital nº 1/2025 com situação 'Aberto', mas já em fase de capacitação, não de inscrição; estágio por seleções públicas, sem edital visto.
+  - Esclarecimento: O Edital nº 1/2025 de juízes leigos consta como 'Aberto', mas já passou da fase de inscrição e está em capacitação.
+  - Esclarecimento: A banca IBFC e as convocações recentes do concurso de servidores não foram confirmadas.
+- **Programa Segundo Tempo (Ministério do Esporte) - núcleos esportivos com professores e monitores** (encerrada) https://www.gov.br/esporte/pt-br/acoes-e-programas/programa-segundo-tempo
+  - Prazo ou ciclo: Ciclo 2023-2026. Editais citados: Chamamento Público MEsp nº 04/2023 (PST Padrão) e nº 7/2023 (PST Universitário). A página não mostra datas de edital nem de prazo, e nenhuma chamada aberta foi vista em 2026-11-23.
+  - Esclarecimento: Os editais são dirigidos a entes públicos e organizações que propõem núcleos, e não a pessoas físicas.
+  - Esclarecimento: A página não explica como um indivíduo se torna monitor ou professor; a contratação parece depender da entidade parceira (município, estado ou organização).
+- **Comlurb (Rio de Janeiro) - seleção temporária de gari 2025 (edital no Diário Oficial; inscrição no portal da Comlurb)** (encerrada) sem dados (portal da Comlurb não confirmado nesta verificação)
+  - Prazo ou ciclo: Seleção de 2025 encerrada: edital de 03/06/2025, inscrições até 06/06/2025, resultado final em 16/06/2025, validade de 2 anos a partir da homologação. Nenhuma seleção de 2026 mencionada na página e nenhuma encontrada; ciclo irregular, sem evidência de repetição.
+  - Esclarecimento: A URL do catálogo é uma reportagem da Folha/QConcursos, e não uma fonte oficial; a fonte oficial da Comlurb não foi confirmada.
+  - Esclarecimento: Segundo a reportagem, foram 400 vagas temporárias, com contrato de 1 ano prorrogável até 5 vezes e inscrição sem taxa pelo portal da Comlurb.
+- **Telebras - Concursos Públicos** (encerrada) https://www.telebras.com.br/conheca-a-telebras/concursos-publicos/
+  - Prazo ou ciclo: Sem inscrição aberta. O concurso Telebras-2025 (banca Cebraspe; Edital nº 1 em 09/12/2025) está em fase de convocação: o Edital de Convocação nº 5 é de 13/11/2026, e a validade é de 2 anos a contar da homologação. Telebras-2021 consta como encerrado em 14/06/2026; 2015 em 17/02/2020; 2013 em 06/05/2017. Próximo concurso: sem dados.
+  - Esclarecimento: Novos candidatos não podem se inscrever; quem já foi aprovado no concurso de 2025 pode ser convocado.
+  - Esclarecimento: A situação 'em andamento' do Telebras-2025 vale apenas no sentido de convocações, não de inscrições.
+- **CBMMG (Bombeiros de Minas Gerais): CFSd 2027, Curso de Formação de Soldados** (encerrada) https://bombeiros.mg.gov.br/cfsd2027
+  - Prazo ou ciclo: Inscrições encerradas (prorrogadas em 17/06/2026; lista final de inscrições deferidas em 08/07/2026). Processo em 3ª fase (exames admissionais; cronograma publicado em 19/10/2026; último aviso em 16/11/2026, com prazo do formulário FIC em 13/11/2026). Não foi visto indício de nova edição; periodicidade: sem dados.
+  - Esclarecimento: O Edital CBMMG nº 10/2026 foi publicado em 14/03/2026 e retificado em 12/05/2026 e 22/10/2026.
+  - Esclarecimento: O total de vagas não é informado na página, que menciona reserva de 32 vagas por decisão judicial (26/10/2026).
+- **Embrapa - Concurso 2024 (Cebraspe): pesquisador, analista, técnico e assistente** (encerrada) https://www.embrapa.br/concurso-2024
+  - Prazo ou ciclo: Encerrado. Resultados homologados em agosto de 2025 (analista, técnico e assistente) e outubro de 2025 (pesquisador); convocações desde setembro de 2025. Próximo edital: sem dados.
+  - Esclarecimento: Os requisitos do edital anterior não foram verificados.
+  - Esclarecimento: A notícia mais recente da página (10/08/2026) informa 832 pessoas empossadas até 03/08/2026.
+- **CNEN - concursos públicos (tecnologista e pesquisador)** (encerrada) https://www.gov.br/cnen/pt-br/acesso-a-informacao/servidores-e-colaboradores/concursos-publicos
+  - Prazo ou ciclo: Encerrado. Concurso 2025 (edital nº 1 publicado no DOU em 2025-02-03): resultado final em 2025-10-02 e homologação publicada em 2025-10-03 e 2025-10-09. Sem periodicidade regular (listados 1994, 1998, 2002, 2004, 2010, 2014 e 2025). Próximo edital: sem dados.
+  - Esclarecimento: A página foi atualizada em 09/11/2026 e não lista concurso aberto nem anunciado.
+  - Esclarecimento: Os itens posteriores a 2025 são retificação de resultado (Edital nº 1/2026) e portarias de nomeação até novembro de 2026.
+- **Dataprev - Concurso Público 2026 (analista de TI e analista de processamento)** (encerrada) https://www.dataprev.gov.br/conheca-dataprev-faca-parte-da-dataprev/concursos
+  - Prazo ou ciclo: Inscrições de 06/07 a 06/08/2026 (encerradas). Prova objetiva em 11/10/2026. Exame médico e heteroidentificação em 06/12/2026. Resultado final previsto para 14/01/2027. Nenhuma abertura nova vista.
+  - Esclarecimento: Como a inscrição já terminou, não há como se candidatar; as próximas etapas só valem para quem já se inscreveu.
+  - Esclarecimento: O edital foi publicado no DOU em 03/07/2026, com banca FGV, 212 vagas imediatas e cadastro de reserva; uma fonte secundária indica 1.823 vagas no total e 13 perfis.
+- **TJSP - Concursos (magistratura, servidores e nomeações do Tribunal de Justiça de São Paulo)** (encerrada) https://www.tjsp.jus.br/Concursos
+  - Prazo ou ciclo: Nenhuma inscrição aberta vista em 2026-11-23. O 192º Concurso da magistratura está na fase final (edital do quadro classificatório final em 17/11/2026; sessão pública de nomeação e escolha de circunscrições divulgada em 16/11/2026). Na página de servidores aparecem apenas avisos de nomeação publicados no DEJESP entre 29/10/2026 e 18/11/2026. Próximo concurso: sem dados.
+  - Esclarecimento: A página é um índice oficial com links para o 192º Concurso (https://www.tjsp.jus.br/Segmento/Magistrados/Concurso192), Servidores (https://www.tjsp.jus.br/Segmento/Servidores/Concursos) e Residentes Jurídicos.
+  - Esclarecimento: A lista de nomeações refere-se a concursos anteriores e não há evidência de nova abertura, por isso não é possível tratá-la como oportunidade aberta.
+- **Ensina Brasil - Trainee Ensina (professor temporário em escola pública por 2 anos)** (encerrada) https://ensinabrasil.org.br/programas/trainee-ensina/
+  - Prazo ou ciclo: Processo seletivo atual com 'inscrições encerradas'. Próxima edição sem data; há formulário 'Declare seu interesse para a próxima edição!'. Não foi visto indício de ciclo anual fixo.
+  - Esclarecimento: O participante atua como professor temporário em tempo integral, contratado por redes estaduais ou municipais parceiras, não pela Ensina Brasil.
+  - Esclarecimento: Moradia, alimentação e transporte são por conta do participante; há empréstimo sem juros por critério socioeconômico.
+- **Seduc-GO - Processos Seletivos Simplificados e Concurso Público** (encerrada) https://goias.gov.br/educacao/processos-seletivos-simplificados/
+  - Prazo ou ciclo: Nenhum processo com inscrição aberta identificado em 2026-11-23. Itens visíveis são de 2021, 2024 e 2025 (PBA em Inhumas e Trindade, maio a julho de 2025, listado como em andamento, sem datas de inscrição). A página de concurso público mostra o Edital nº 07/2022 (5.050 vagas de Professor nível III), homologado em 30/01/2023, em fase de nomeação e posse, com validade de 2 anos prorrogável. Sem evidência de repetição com data.
+  - Esclarecimento: A página oficial não traz nenhuma janela de inscrição aberta, e vários itens estão desatualizados.
+  - Esclarecimento: A página de concurso público não aceita novas inscrições; apenas aprovados fazem a posse online pelo SEI, e não há dados sobre prorrogação da validade do concurso de 2022.
+- **Senac-MA - Edital PSG 146/2026: curso gratuito de Cuidador de Idoso (Pinheiro/MA)** (encerrada) http://www.ma.senac.br/psg
+  - Prazo ou ciclo: Edital 146/2026 encerrado: inscrições presenciais de 31/08/2026 a 11/09/2026; curso de 16/09/2026 a 27/11/2026 (aula inaugural 15/09). A página do programa (ma.senac.br/psg) não lista novos editais; novos editais: sem dados. O programa PSG tem editais recorrentes, mas sem data confirmada de repetição para Pinheiro.
+  - Esclarecimento: O edital cobre também Assistente de Marketing e Vendas e Assistente de Recursos Humanos, com 70 vagas no total.
+  - Esclarecimento: A seleção é por ordem de inscrição, e o resultado é válido por 3 meses.
+- **KPMG Brasil - programa STARTERS (trainee e estágio em Auditoria, Advisory e Tax)** (encerrada) https://carreira.inhire.com.br/carreiras/kpmg
+  - Prazo ou ciclo: A edição vista tinha seleção encerrando em setembro de 2026 e admissões previstas para outubro de 2026; sem prazo específico de inscrição na página. Em 2026-11-23 o período já passou, e não há indicação de nova edição.
+  - Esclarecimento: Os links de inscrição por vaga não renderizaram conteúdo, então não foi possível ver se ainda aceitam inscrições.
+  - Esclarecimento: O status é de encerrado até nova edição ser publicada, e a recorrência anual não foi comprovada.

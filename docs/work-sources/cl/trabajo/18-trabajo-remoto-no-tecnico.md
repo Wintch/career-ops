@@ -1,0 +1,141 @@
+# Trabajo remoto no tecnico
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **OneForma (proyectos de IA: traducción, transcripción, evaluación, recolección de datos)** (abierta o vigente, verificada 2 veces) https://www.oneforma.com/jobs/
+  - Que es: Personas con dominio de un idioma o de un área, que quieran hacer tareas remotas pagadas por proyecto (anotación, traducción, evaluación, transcripción, recolección de datos). El sitio declara disponibilidad en más de 100 países; en el listado visto hay un proyecto de posedición de traducción automática (español y otros idiomas) disponible en 13 países, entre ellos Chile.
+  - Requisitos: Hablante nativo de la variante del idioma del proyecto (p. ej., español de Chile); computador e internet; otros requisitos por proyecto. No se vio exigencia de título ni de experiencia en la página.
+  - Pago o beneficio: Varía por proyecto: desde US$5 la hora hasta US$50 la hora en ejemplos vistos; el proyecto de Chile paga por palabra fuente, sin tarifa visible.
+  - Plazo o ciclo: Abierto todo el año; proyectos con cupos que se abren y cierran. Al 2026-11-23 la página indicaba 24 proyectos abiertos, con 3 para Chile en el filtro de país y 10 en español.
+  - Como postular: https://my.oneforma.com
+  - Lectura automatica posible: none
+  - Aclaracion: Es trabajo remoto por proyecto, pagado por tarea, hora o palabra; no es empleo dependiente.
+  - Aclaracion: Se vio abierto para Chile el proyecto 'Machine Translation Post-Editor for Regional Language Variants'; los otros dos proyectos para Chile no se identificaron.
+  - Aclaracion: Se postula con 'Apply' en cada proyecto o creando un perfil gratuito en my.oneforma.com, y se asigna según proyectos que coincidan.
+- **Preply (tutores en línea de idiomas)** (abierta o vigente, verificada 2 veces) https://preply.com/en/teach
+  - Que es: Personas que quieran dar clases particulares en línea (por ejemplo de español o inglés) con precio propio.
+  - Requisitos: No se exige certificación ni experiencia docente. Se pide buena comunicación, computador, conexión estable a internet, cámara web y micrófono. El perfil requiere datos básicos, foto real, descripción de fortalezas, video de presentación de hasta 2 minutos y disponibilidad horaria.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Cada tutor fija su tarifa por hora. La página indica un promedio de USD 15-25 por hora para tutores de inglés (cifra sin fuente). Preply cobra comisión: 100% en la clase de prueba con un alumno nuevo y desde 33% hasta 18% en clases posteriores, según las horas dictadas. Pagos por PayPal, Payoneer, Skrill y Transferwise.
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: https://preply.com/en/teach
+  - Lectura automatica posible: none
+  - Aclaracion: El perfil se revisa en un máximo de 3 días hábiles según la página.
+  - Aclaracion: La página no menciona restricciones por país para tutores, pero tampoco confirma Chile ni qué medios de pago están disponibles allí; conviene confirmarlo con Preply.
+- **Cambly (conversación en línea con estudiantes de inglés)** (abierta o vigente, verificada 2 veces) https://www.cambly.com/english/tutors
+  - Que es: Personas que puedan conversar en inglés con estudiantes; el sitio no exige certificado, título ni experiencia docente.
+  - Requisitos: No se exige título, certificado de enseñanza ni experiencia docente. Sin mínimo de horas; el tutor elige cuándo conectarse. La página no indica otros requisitos ni restricciones por país.
+  - Sin experiencia previa: si
+  - Pago o beneficio: USD 0,17 por minuto en Cambly (unos USD 10,20 por hora) y USD 0,20 por minuto en Cambly Kids (unos USD 12 por hora). Pago semanal por depósito directo.
+  - Plazo o ciclo: abierto todo el año, con ingreso de nuevos tutores limitado temporalmente al 2026-11-23
+  - Como postular: https://www.cambly.com/english/tutors
+  - Lectura automatica posible: none
+  - Aclaracion: Cambly limita temporalmente la cantidad de tutores nuevos y el procesamiento del perfil puede tardar más de lo habitual; no menciona lista de espera formal.
+  - Aclaracion: La página no confirma disponibilidad específica para Chile.
+  - Aclaracion: La URL con http se redirige a https.
+- **DataAnnotation (tareas de IA: evaluación, redacción, razonamiento)** (abierta o vigente, verificada 2 veces) https://www.dataannotation.tech/
+  - Que es: Personas con razonamiento sólido, atención al detalle y conocimiento de una materia; para trabajo general no se pide formación técnica ni de programación.
+  - Requisitos: Dominio fuerte de inglés (lectura, redacción y pensamiento crítico). Para proyectos generales, título universitario o experiencia equivalente; la página dice que no se necesita formación técnica ni de programación para el trabajo general. Internet confiable, verificación de identidad con documento oficial con foto vigente y cuenta PayPal. Los trabajos mejor pagados exigen credenciales adicionales (programación, ciencias, profesionales). Se rinde una evaluación inicial (Starter Assessment) de cerca de una hora, que solo puede tomarse una vez.
+  - Pago o beneficio: La página anuncia tarifas de hasta USD 75-125+ por hora para perfiles expertos. Por rol: hasta USD 150+ por hora en ingeniería de software, hasta USD 50 por hora en generalista y hasta USD 40 por hora en especialistas en idiomas. Son valores máximos publicitados, no garantizados. Pago por PayPal, normalmente a los pocos días de solicitar el depósito.
+  - Plazo o ciclo: abierto todo el año (la página muestra botones Apply Now activos); la disponibilidad real de tareas varía
+  - Como postular: https://www.dataannotation.tech/
+  - Lectura automatica posible: none
+  - Aclaracion: Ni la portada ni las preguntas frecuentes listan los países admitidos, por lo que no se pudo confirmar que Chile esté incluido; la página remite a consultar con soporte desde la cuenta.
+  - Aclaracion: No es empleo dependiente: son tareas por encargo y el trabajo no está garantizado.
+  - Aclaracion: Las tarifas anunciadas son valores máximos publicitados, no garantizados.
+- **Outlier (expertos para entrenar modelos de IA)** (abierta o vigente, verificada 2 veces) https://outlier.ai/
+  - Que es: Personas con conocimiento especializado (nivel universitario como mínimo, se prefieren posgrados). No es una vía para quien no tiene estudios ni experiencia.
+  - Requisitos: Conocimiento experto en un área; por lo general se pide al menos nivel universitario de pregrado, con preferencia por estudiantes de posgrado o titulados. Comunicación en inglés, documento de identidad vigente y teléfono móvil del país de residencia, currículum actualizado y perfil de LinkedIn. El proceso (crear perfil, importar y revisar habilidades, verificar identidad y verificar habilidades) toma entre 30 y 90 minutos.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Sin tarifas específicas en la portada. Indica pago competitivo más recompensas por calidad, con pago semanal y sin mínimo de horas.
+  - Plazo o ciclo: abierto todo el año (la página muestra un proceso de registro activo y un enlace a View Opportunities); la disponibilidad de proyectos varía
+  - Como postular: https://outlier.ai/
+  - Lectura automatica posible: none
+  - Aclaracion: La página no confirma disponibilidad en Chile; menciona expertos en 50 países sin listarlos.
+  - Aclaracion: No declara si hay una convocatoria abierta; los proyectos vigentes se ven en la sección de oportunidades.
+  - Aclaracion: No es una vía para quienes no tienen estudios ni experiencia en un área.
+- **Freelancer.com (versión Chile)** (abierta o vigente, verificada 2 veces) https://www.freelancer.cl/
+  - Que es: Freelancers de cualquier rubro; el sitio se presenta como el mayor mercado de freelancers, con más de 4.000 categorías.
+  - Requisitos: La portada no indica requisitos. Menciona servicios de Verificado por Freelancer y un Programa de Freelancers Preferentes, sin detalles.
+  - Pago o beneficio: sin datos. La portada no indica comisiones para freelancers y remite a una página de Cargos y Tarifas que no se pudo leer.
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: https://www.freelancer.cl/
+  - Lectura automatica posible: none
+  - Aclaracion: No se confirma si existen restricciones de pago o de tipos de trabajo para residentes en Chile.
+  - Aclaracion: Es un mercado de proyectos por encargo, no empleo dependiente.
+  - Aclaracion: Incluye una sección Trabajos locales cuyo funcionamiento no se explica.
+- **SII: boleta de honorarios electrónica (cómo declarar ingresos de trabajo independiente)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.sii.cl/destacados/boletas_honorarios/
+  - Que es: Quien cobre por servicios como independiente desde Chile, incluidas plataformas del exterior, y deba emitir boleta de honorarios.
+  - Requisitos: No se vieron requisitos de acceso en la página. La emisión es en sii.cl, y la página remite a guías de ayuda y preguntas frecuentes. Requisitos específicos: sin datos.
+  - Pago o beneficio: No aplica. Es un trámite tributario. La retención sobre la boleta es 15,25% en 2026.
+  - Plazo o ciclo: Permanente. La retención sube cada 1 de enero: 14,5% (2025), 15,25% (2026), 16% (2027) y 17% (2028), según la ley 21.133.
+  - Como postular: https://www.sii.cl/destacados/boletas_honorarios/
+  - Lectura automatica posible: none
+  - Aclaracion: No es una oferta de empleo: es una referencia tributaria para quienes trabajan de forma independiente (honorarios).
+  - Aclaracion: Los requisitos para emitir la boleta, como la clave tributaria, no se confirmaron en la página.
+  - Aclaracion: El sistema calcula la retención al ingresar el monto bruto.
+- **Appen Experts (antes Crowdgen): expertos en proyectos de datos para IA** (sin verificar, verificada 1 vez) https://appenexperts.com/
+  - Que es: Profesionales con experiencia en un área (contabilidad, finanzas, salud, derecho, lingüística, software). El sitio dice que la mayoría de los proyectos no requiere habilidades técnicas, pero se enfoca en pericia profesional.
+  - Requisitos: Experiencia profesional en un área de especialidad; superar la calificación de cada proyecto; no se pide formación técnica en la mayoría de los proyectos. Umbrales de estudios o años de experiencia: no indicados.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Según la página, tarifas máximas por hora entre US$90 y US$450 según la especialidad, 'US$100+/hr' como tope general; depende de ubicación y habilidades. Pago en moneda local vía transferencia, PayPal, Payoneer o Airtm.
+  - Plazo o ciclo: Abierto todo el año (sin plazo ni contrato indicados).
+  - Como postular: https://appenexperts.com/
+  - Lectura automatica posible: none
+  - Aclaracion: La página no indica qué países son elegibles ni menciona Chile, por lo que la elegibilidad de residentes en Chile no está confirmada.
+  - Aclaracion: Se crea un perfil, se pasa por una revisión de verificación y, en la mayoría de los proyectos, por una calificación.
+  - Aclaracion: La página afirma que nunca se cobra por unirse a proyectos.
+- **Prolific (estudios de investigación remunerados)** (sin verificar, verificada 1 vez) https://www.prolific.com/participants
+  - Que es: Personas que quieran responder estudios y encuestas académicas pagadas; ingreso complementario, no un empleo estable.
+  - Requisitos: Identidad verificable y la práctica; edad y país: no indicados en la página.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Pago en dinero (no tarjetas de regalo); tarifas no publicadas en la página. Retiro desde US$6 o £6; tras los primeros 4 retiros, pago instantáneo a PayPal.
+  - Plazo o ciclo: Abierto todo el año con lista de espera; invitaciones cuando hay estudios (sin plazo indicado).
+  - Como postular: https://www.prolific.com/participants
+  - Lectura automatica posible: none
+  - Aclaracion: Son estudios de investigación voluntarios, no un empleo.
+  - Aclaracion: Se ingresa a la lista de espera con 'Start earning' (unos 3 minutos), luego hay verificación de identidad y una tarea de práctica (unos 15 minutos), y los estudios aparecen en el panel.
+  - Aclaracion: La página no indica requisitos de edad ni de país, por lo que no se pudo confirmar que residentes en Chile sean admitidos.
+- **Rev Freelancers (transcripción, subtitulado y traducción de subtítulos)** (sin verificar, verificada 1 vez) https://www.rev.com/freelancers
+  - Que es: Personas con muy buen nivel de inglés que quieran transcribir, subtitular o traducir subtítulos desde cualquier lugar. No se vio un rol de transcripción en español: el español aparece solo como idioma de traducción de subtítulos (España y Latinoamérica), que exige bilingüismo fluido.
+  - Requisitos: Computador, internet confiable y buen nivel de inglés; computador y rapidez al tipear para transcripción; experiencia legal o formación en terminología legal de EE. UU. para el rol legal. Se aprueba con evaluación y muestra.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Por minuto de audio o video: transcriptor US$0,40-1,10; subtitulador US$0,54-1,10; traductor de subtítulos US$1,70-4,00 o más según idioma; transcriptor legal US$0,55-2,00 o más. Pago semanal por PayPal.
+  - Plazo o ciclo: Abierto todo el año con lista de espera; solicitudes procesadas por orden de llegada.
+  - Como postular: https://www.rev.com/freelancers
+  - Lectura automatica posible: none
+  - Aclaracion: La página dice 'trabaja desde cualquier lugar', pero no confirma explícitamente que se admitan residentes en Chile.
+  - Aclaracion: El español aparece solo como idioma de traducción de subtítulos; no hay un rol de transcripción en español.
+  - Aclaracion: Los traductores de subtítulos deben ser bilingües en uno de los 17 idiomas de subtítulos de Rev, y no se vio si el español está incluido.
+  - Aclaracion: Sin compromiso mínimo; el trabajo es remoto.
+- **TELUS Digital AI Community (anotadores y entrenadores de IA)** (sin verificar, verificada 1 vez) https://www.telusdigital.com/careers
+  - Que es: Personas interesadas en roles como AI Trainer, Data Annotator y Data Quality Specialist, entre otros. La página no menciona Chile ni trabajo remoto; no verificado directamente.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.telusdigital.com/careers
+  - Lectura automatica posible: none
+  - Aclaracion: La página no describe el programa, el proceso de postulación, los requisitos ni la remuneración.
+  - Aclaracion: No se confirma que haya una convocatoria abierta para Chile.
+  - Aclaracion: Las ofertas vigentes se consultan con el botón Search for roles filtrado por AI Community, o mediante el formulario Career Support.
+- **Workana (proyectos freelance en español)** (sin verificar, verificada 1 vez) https://www.workana.com/es
+  - Que es: Freelancers hispanohablantes (asistencia virtual, traducción, atención, redacción, entre otros). No verificado directamente.
+  - Requisitos: Según resultados de búsqueda, el registro como freelancer es gratis y sin proceso de admisión previo. No se pudo ver la página oficial.
+  - Pago o beneficio: Comisión al freelancer: fuentes secundarias indican hasta 20% y una posible baja hasta 5% con clientes recurrentes. No verificado en la página oficial; las cifras entre fuentes no coinciden del todo.
+  - Plazo o ciclo: abierto todo el año (no verificado directamente)
+  - Como postular: https://www.workana.com/es
+  - Lectura automatica posible: none
+  - Aclaracion: El sitio oficial respondió HTTP 403, por lo que la información proviene de resultados de búsqueda y no de la página oficial.
+  - Aclaracion: Las cifras de comisión difieren entre las fuentes secundarias.
+  - Aclaracion: No hay confirmación oficial de su funcionamiento en Chile; un artículo de agosto de 2026 menciona el cobro en pesos chilenos.
+- **Upwork (marketplace freelance, asistencia virtual y soporte)** (sin verificar, verificada 1 vez) https://www.upwork.com/freelance-jobs/virtual-assistant/
+  - Que es: Freelancers que ofrezcan asistencia virtual, atención al cliente, transcripción, traducción y similares. No verificado directamente.
+  - Requisitos: sin datos. No se pudo leer la página oficial.
+  - Pago o beneficio: Según resultados de búsqueda que citan las preguntas frecuentes de Upwork: unirse y buscar trabajo es gratis y hay una comisión al freelancer de 0% a 15% sobre lo ganado. Para postular se usan Connects (fichas pagadas, unos USD 0,15 cada una según un resultado). Las cifras no se pudieron confirmar en la página oficial.
+  - Plazo o ciclo: abierto todo el año (no verificado directamente)
+  - Como postular: https://www.upwork.com/
+  - Lectura automatica posible: none
+  - Aclaracion: El sitio respondió HTTP 403, por lo que las cifras de comisión y Connects provienen de resultados de búsqueda y no se confirmaron en la página oficial.
+  - Aclaracion: No se confirmó disponibilidad ni condiciones para Chile.
+  - Aclaracion: La URL es una página de categoría; la ruta de registro general es upwork.com.

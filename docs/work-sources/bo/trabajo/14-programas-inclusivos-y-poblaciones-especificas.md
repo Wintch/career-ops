@@ -1,0 +1,67 @@
+# Programas inclusivos y poblaciones especificas
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Defensoría del Pueblo (denuncia por discriminación y vulneración del derecho al trabajo)** (abierta o vigente, verificada 2 veces) https://www.defensoria.gob.bo/
+  - Que es: Cualquier persona que sufra discriminación laboral, incluidas personas con discapacidad, personas TLGBI y migrantes.
+  - Requisitos: No se vio ningún requisito de edad, documento o residencia en la página. No se describe qué datos debe contener la denuncia ni plazos de respuesta.
+  - Pago o beneficio: Gratuito; no es una oferta de empleo
+  - Plazo o ciclo: Abierto todo el año (canal permanente)
+  - Como postular: https://www.defensoria.gob.bo/documentos/15
+  - Lectura automatica posible: none
+  - Aclaracion: No es una vía de búsqueda de empleo, sino de reclamo ante vulneraciones laborales o discriminación.
+  - Aclaracion: El sitio ofrece un formulario de denuncia general, la línea gratuita 800 10 8004 y una lista de oficinas, pero no explica un procedimiento específico para denuncias por discriminación o derecho al trabajo.
+  - Aclaracion: La sección «Derecho al trabajo» es un listado de resoluciones e informes y no explica cómo denunciar.
+  - Aclaracion: El correo correspondencia@defensoria.gob.bo figura como contacto, pero puede ser solo para correspondencia general.
+- **Pro Mujer Bolivia (crédito, capacitación y emprendimiento para mujeres)** (abierta o vigente, verificada 2 veces) https://promujer.org.bo/es/
+  - Que es: Mujeres que quieren iniciar o hacer crecer un negocio.
+  - Requisitos: No se vio la lista de requisitos para crédito nuevo ni para capacitación. La página la deriva a las agencias; el público es mujeres emprendedoras (no se confirmó si exige experiencia o edad mínima).
+  - Pago o beneficio: Créditos individuales y grupales (negocio, vivienda, consumo). Las tasas están en un tarifario enlazado que no se pudo leer en la página; monto y tasas: sin datos.
+  - Plazo o ciclo: Abierto todo el año
+  - Como postular: https://promujer.org.bo/es/
+  - Lectura automatica posible: none
+  - Aclaracion: El crédito implica una deuda, por lo que conviene leer tasas y condiciones antes de firmar.
+  - Aclaracion: Conviene usar solo los teléfonos y direcciones oficiales.
+  - Aclaracion: Los requisitos de refinanciamiento figuran únicamente como imagen en la página.
+- **Servicio Público de Empleo (SPE) y Bolsa de Trabajo del Ministerio de Trabajo** (sin verificar, verificada 1 vez) https://www.mintrabajo.gob.bo
+  - Que es: Buscadores de empleo y empresas públicas y privadas con vacantes. El informe oficial 2026 lo describe como un servicio 'totalmente gratuito' que articula a los buscadores de empleo con la demanda laboral mediante su Bolsa de Trabajo, con énfasis en población en situación de vulnerabilidad y cuota de inserción laboral de personas con discapacidad. Para 2026 prevé certificación de competencias laborales, orientación vocacional para estudiantes de último curso y un módulo de capacitación virtual para migrantes.
+  - Requisitos: sin datos: no se encontró procedimiento de registro de buscadores de empleo en el sitio oficial ni en la búsqueda. Para la inserción laboral de personas con discapacidad el informe menciona porcentajes de inserción obligatoria.
+  - Pago o beneficio: Gratuito (el informe lo describe como 'totalmente gratuito'). No es un empleo ni una beca.
+  - Plazo o ciclo: Servicio permanente según el informe oficial de rendición de cuentas 2026 (documento de abril de 2026); no se vio un portal de registro ni fechas.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El enlace corresponde a un informe de rendición de cuentas, no a una vía de postulación ni de registro.
+  - Aclaracion: No se encontró un procedimiento de registro de buscadores de empleo; en la portada de mintrabajo.gob.bo solo figuran el registro de agencias privadas de empleo y la Oficina Virtual de Trámites.
+  - Aclaracion: Contacto del ministerio: teléfono (591-2) 2408606, correo mteps@mintrabajo.gob.bo, Zona Central, calle Mercado esq. Yanacocha, La Paz; también las Jefaturas Departamentales y Regionales de Trabajo.
+- **Confederación Sindical de Choferes de Bolivia y federaciones departamentales (transporte público)** (sin verificar, verificada 1 vez) sin datos
+  - Que es: Conductores de taxi, trufi, micro y minibús que operan bajo un sindicato.
+  - Requisitos: sin datos (no se vio ninguno; en general se piden licencia de conducir y afiliación sindical, no verificado)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (cada sindicato decide cuándo abre cupos; no se vio ningún dato)
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La fuente es una página de etiqueta de un periódico (Los Tiempos), no una fuente oficial ni una vía de postulación.
+  - Aclaracion: No hay un sitio oficial identificado ni información sobre cómo afiliarse o cuándo se abren cupos.
+  - Aclaracion: El ingreso al transporte público suele depender del sindicato local (dato no verificado).
+- **Plataforma Plurinacional de Información de Personas con Discapacidad Eustaquio Moto Méndez** (sin verificar, verificada 1 vez) https://mintrabajo.gob.bo/index.php/servicio/moto-mendez/
+  - Que es: Personas con discapacidad registradas; la plataforma centraliza sus datos y genera las listas del bono mensual de Bs 250 para discapacidad grave o muy grave.
+  - Requisitos: sin datos. El DS 3610 menciona carnet de discapacidad vigente y cédula de identidad vigente para el cobro del bono, no para empleo.
+  - Pago o beneficio: No paga ni ofrece empleo. Según el Ministerio, sirve para generar listados para el pago del bono mensual.
+  - Plazo o ciclo: sin datos. No se vio ninguna convocatoria ni plazo.
+  - Como postular: sin datos
+  - Lectura automatica posible: none
+  - Aclaracion: No funciona como bolsa de empleo ni como oferta laboral, por lo que no corresponde presentarla como ruta de postulación.
+  - Aclaracion: Sirve para registrar datos de personas con discapacidad y generar los listados del bono mensual; el DS 3437 le asigna el registro de datos y la actualización con el ROE.
+  - Aclaracion: El sitio motomendez.gob.bo solo mostró el título «Plataforma Eustaquio Moto Méndez», sin menús ni contenido legible, posiblemente porque carga con JavaScript.
+- **Naciones Unidas Bolivia: ACNUR, OIM y UNICEF, protección de personas refugiadas y migrantes** (sin verificar, verificada 1 vez) https://bolivia.un.org/es/326416-acnur-oim-y-unicef-fortalecen-la-protecci%C3%B3n-de-las-personas-refugiadas-y-migrantes-lo-largo
+  - Que es: Personas refugiadas y migrantes en la ruta andina, y mujeres afectadas por violencia de género (Casa Luz Verde, El Alto, sin distinción de estatus).
+  - Requisitos: Servicios dirigidos a personas en movilidad humana (refugiadas y migrantes), en especial en situación de extrema vulnerabilidad. Los servicios de violencia de género se brindan sin distinción de estatus migratorio.
+  - Pago o beneficio: No aplica; la nota no describe empleo ni medios de subsistencia
+  - Plazo o ciclo: sin datos; es una nota informativa del 19 de noviembre de 2026, no una convocatoria
+  - Como postular: sin datos
+  - Lectura automatica posible: none
+  - Aclaracion: No es una fuente de empleo: describe alimentación, agua, abrigo, alojamiento temporal, orientación sobre documentación y derechos, y apoyo psicosocial.
+  - Aclaracion: Los Puntos de Atención y Orientación (PAO) están en La Paz, El Alto, Oruro, Pisiga y Desaguadero, y la Casa Luz Verde en El Alto (Fundación Munasim Kullakita).
+  - Aclaracion: La nota no da horarios, direcciones ni contactos.
+  - Aclaracion: A lo sumo sirve como recurso de orientación para personas migrantes.

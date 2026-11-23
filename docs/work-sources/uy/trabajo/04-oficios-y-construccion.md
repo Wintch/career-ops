@@ -1,0 +1,133 @@
+# Oficios y construccion
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **INEFOP Oportunidades: catálogo de cursos y capacitaciones** (abierta o vigente, verificada 2 veces) https://oportunidades.inefop.uy/
+  - Que es: Personas mayores de 18 años que buscan capacitarse (desempleadas o trabajadoras). El catálogo se actualiza con frecuencia y puede incluir cursos de oficios.
+  - Requisitos: Ser mayor de 18 años; tener cuenta registrada en el portal (o crearla); completar los campos obligatorios y aceptar los términos de datos. Los cursos en línea requieren conexión a internet y un dispositivo. No se pide experiencia previa en la página; cada curso puede tener su propio perfil.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No se indica costo en la página. No hay pago al participante.
+  - Plazo o ciclo: Abierto todo el año; la oferta de cursos se actualiza con frecuencia y no se vieron fechas de inscripción ni cupos.
+  - Como postular: https://oportunidades.inefop.uy/
+  - Lectura automatica posible: INEFOP publica además un Excel descargable con el catálogo de propuestas evaluadas de entidades de capacitación, que incluye construcción (no es copia controlada y puede tener errores): https://www.inefop.uy/_files/ugd/438e30_04b853fa144c46d8a0f6310a93a4d347.xlsx
+  - Aclaracion: La portada no lista cursos: el catálogo está en /cursos-inscripcion/ ("Catálogo de Formación").
+  - Aclaracion: Se puede marcar "Me interesa" en 2 cursos dentro de un período de 90 días, y los cupos dependen de la disponibilidad.
+  - Aclaracion: INEFOP contacta por correo y envía el acceso solo si el perfil se ajusta al curso y hay cupo.
+  - Aclaracion: No se vieron fechas de inscripción ni cupos concretos.
+- **Oficinas territoriales de INEFOP y orientación educativo-laboral** (abierta o vigente, verificada 2 veces) https://www.inefop.uy/donde-estamos
+  - Que es: Cualquier persona que quiera orientación sobre cursos y búsqueda de empleo; hay oficinas en 19 departamentos.
+  - Requisitos: No se piden requisitos en la página. Orientación para el empleo: se coordina una entrevista llamando al 0800 8764 (desde el interior conectan con la oficina más cercana). No se pide experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica; no se menciona costo.
+  - Plazo o ciclo: Servicio permanente, abierto todo el año. Atención de lunes a viernes de 9:00 a 12:15 y de 13:00 a 16:00 (Montevideo, de 9:00 a 17:00).
+  - Como postular: https://www.inefop.uy/donde-estamos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no usa el nombre "orientación educativo-laboral" sino "orientación para el empleo"; el portal de oportunidades sí usa el primero.
+  - Aclaracion: Desde el interior, la línea 0800 8764 deriva a la oficina más cercana.
+- **Centros Públicos de Empleo (CePE) y plataforma Vía Trabajo** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/son-centros
+  - Que es: Personas que buscan empleo (incluido primer empleo y oficios) y empresas que buscan personal; la intermediación usa los datos cargados en Vía Trabajo.
+  - Requisitos: Tener 15 años o más y un documento de identidad (cédula de identidad, pasaporte o cédula de identidad fronteriza). No se pide experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito (Vía Trabajo es gratuita).
+  - Plazo o ciclo: Servicio permanente, abierto todo el año. Los horarios de 9:00 a 16:00 que da la página son los generales del MTSS; no se vieron horarios por centro, por lo que conviene consultar cada uno.
+  - Como postular: https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/son-centros
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página (fechada 08/12/2025) los llama "Centros Técnicos de Empleo" y aclara que su implementación aún está en proceso, por lo que la cobertura varía según la región.
+  - Aclaracion: La atención presencial requiere agenda en línea.
+  - Aclaracion: No se vieron horarios por centro: el horario de 9:00 a 16:00 es el general del Ministerio.
+  - Aclaracion: La plataforma Vía Trabajo no pudo abrirse por un error de certificado.
+- **UTE: registro de Técnicos Instaladores y Firmas Instaladoras** (abierta o vigente, verificada 2 veces) https://ute.com.uy/firmas-y-tecnicos-instaladores/registro
+  - Que es: Electricistas que quieran instalar legalmente: UTE solo tramita conexiones con instalaciones hechas por técnicos y firmas registrados (los registros TI y FI son separados).
+  - Requisitos: Técnico Instalador: nota a Estudios Técnico Comerciales, cédula de identidad vigente, factura de UTE del domicilio declarado y comprobante de formación para la categoría pedida (A a E), con títulos de instituciones como Udelar, UTU o CETP. Firma Instaladora: inscripción en DGI (se acepta monotributo) y BPS, nota, cédula, factura de UTE, certificado notarial si es sociedad comercial, Certificado Único de DGI (no exigido a monotributistas) y Certificado Común de BPS. No exige experiencia previa, pero sí formación acreditada.
+  - Sin experiencia previa: no
+  - Pago o beneficio: No es un empleo ni una beca: es un registro habilitante para trabajar como instalador eléctrico. La página no menciona costo.
+  - Plazo o ciclo: Trámite sin fecha de cierre (abierto todo el año). La página no indica vencimiento ni renovación de la inscripción.
+  - Como postular: https://ute.com.uy/firmas-y-tecnicos-instaladores/registro (envío de documentos por correo a normativatecnicocomercial@ute.com.uy)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una vía de ingreso a UTE como empleado ni un empleo.
+  - Aclaracion: El trámite se presenta por correo electrónico con documentos escaneados legibles.
+  - Aclaracion: Los registros de Técnicos Instaladores y de Firmas Instaladoras son separados.
+- **OSE: oportunidades laborales (Oficial B, Peón Zafral, Operador y otros)** (abierta o vigente, verificada 2 veces) https://www.ose.com.uy/oportunidades-laborales/concursos-externos
+  - Que es: Público general para cargos operativos y de oficio; en la lectura figuran Oficial B (CE 0005/26), Operador/a (CE 0008/26), Ayudante de Ingeniería I (UE 0001-26) y Peón Zafral (CE 0007/26, 225 cargos en el país, con sorteo; el período de trabajo informado es del 2/12/2026 al 1/4/2027).
+  - Requisitos: Detallados en las bases de cada concurso, no vistas por completo. Se mencionan formulario de currículum y declaración jurada de la ONSC. Para Peón Zafral se vio por la web de OSE que hay cupos reservados: al menos 18 para afrodescendientes y 3 para personas trans. Peón Zafral y Operador no parecen exigir título universitario, pero la exigencia exacta de experiencia o estudios no se verificó.
+  - Pago o beneficio: sin datos. La página no muestra remuneración; figura la categoría de cada cargo (por ejemplo Cat. 4 y Cat. 5 en el escalafón E).
+  - Plazo o ciclo: Visto el 2026-11-23, con estado 'Abierto': CE 0008/26 Operador/a, Cat. 5 (30/10/2026, etapa Inicio); CE 0005/26 Oficial B, Cat. 5 (11/11/2026, con prueba escrita y sorteos); CE 0006/26 Odontólogo/a, Cat. 11 (16/10/2026); UE 0001/26 Ayudante de Ingeniería I (13/11/2026, evaluación psicolaboral); CE 0007/26 Peón Zafral (18/11/2026). No se vieron los plazos de inscripción de cada llamado. Se publican varios llamados por año (en 2026 ya hubo CE 0001 a 0008).
+  - Como postular: https://www.ose.com.uy/oportunidades-laborales/concursos-externos (bases e instructivos de cada concurso)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La inscripción del Peón Zafral CE 0007/26 (unas 35.000 inscripciones para 225 puestos) ya cerró; la etapa siguiente es la presentación de documentación de las personas sorteadas.
+  - Aclaracion: El llamado de Peón Zafral se repite por zafra (verano), aunque solo se vio la edición actual.
+  - Aclaracion: Para Operador/a y Oficial B hay que abrir las bases para ver si la inscripción sigue abierta.
+  - Aclaracion: La exigencia exacta de experiencia o estudios para Peón Zafral y Operador no está verificada.
+- **SUNCA: Sindicato Único Nacional de la Construcción y Anexos** (abierta o vigente, verificada 2 veces) https://sunca.uy
+  - Que es: Trabajadores de la construcción que quieran afiliarse; el sitio publica el convenio colectivo y las escalas salariales de referencia del sector.
+  - Requisitos: sin datos. Las respuestas sobre quién puede afiliarse y la cuota no figuran en el texto visto. Pensado para trabajadores del sector construcción y anexos.
+  - Pago o beneficio: No es un empleo. El sitio publica escalas salariales del convenio vigente hasta el 31/03/2026.
+  - Plazo o ciclo: Afiliación abierta todo el año. El sitio indica un convenio colectivo vigente hasta el 31/03/2026 y publicaciones de 2026 sobre movilización por la negociación colectiva; no se pudo confirmar si ya se firmó uno nuevo.
+  - Como postular: https://sunca.uy (botón 'Afiliate', formulario de afiliación en PDF)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se vio bolsa de trabajo ni cursos propios; solo una 'Fundación Sunca Solidario' en el área social.
+  - Aclaracion: Es una referencia gremial y no un canal de postulación a empleos.
+  - Aclaracion: La entrada sobre la vigencia del convenio hasta el 31/03/2026 se publicó el 9/10/2025 y la página no indica si se prorrogó o renegoció.
+  - Aclaracion: Contacto: contacto@sunca.uy, teléfono 29087475, sede en Yí 1538, Montevideo, de 8:00 a 20:00; hay oficinas locales en el interior.
+- **Saceem: Trabajá con nosotros (constructora)** (abierta o vigente, verificada 2 veces) https://www.saceem.com/categoria/oportunidades-laborales/
+  - Que es: Perfiles de obra y administración; en la lectura figuran Técnico/a de Obra, Jefe/a de Obra, jóvenes profesionales (estudiantes de ingeniería) y cargos administrativos, no oficios manuales.
+  - Requisitos: sin datos. Los requisitos están en la página de cada aviso y no se vieron completos. Hay perfiles que no exigen título universitario (por ejemplo Auxiliar Administrativo), pero no se verificó la experiencia pedida.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Recepción continua de currículum (abierto todo el año). Los 8 avisos visibles son del 5/7/2024: Jóvenes Profesionales, Técnico/a de Obra, Jefe/a de Obra, Asistente de Tesorería, Asistente Contable, Auxiliar Administrativo, Ingeniero/a de Servicios Técnicos y Coordinador/a de Logística.
+  - Como postular: https://www.saceem.com/categoria/oportunidades-laborales/ (enlace 'Enviar Currículum'; también saceem@saceem.com)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los avisos visibles son de 2024 y no hay evidencia de llamados vigentes; conviene tratarlo como postulación espontánea.
+  - Aclaracion: La página no indica explícitamente que la recepción de currículum sea continua.
+  - Aclaracion: Contacto: saceem@saceem.com, (+598) 2916 02 08, Brecha 572, Montevideo.
+- **UTU (CETP): Estudiá en UTU, cursos y carreras técnicas** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.utu.edu.uy/estudia/
+  - Que es: Jóvenes y adultos que quieran formarse en oficios técnicos; el buscador filtra por nivel educativo aprobado, orientación de estudio, departamento y centro educativo.
+  - Requisitos: Varía según el curso. La página es un buscador de cursos y carreras de los 19 departamentos, por orientación, nivel (básico, bachillerato, terciario), centro o departamento. FINEST (para terminar el bachillerato): 20 años o más y al menos la mitad de las materias aprobadas del bachillerato de UTU o Secundaria; documentos: cédula, escolaridad o fórmula 69 o boletín, credencial cívica y carné de salud. No se confirmó que otros cursos pidan experiencia; algunos cursos son para personas sin experiencia.
+  - Pago o beneficio: No se menciona costo en lo visto (educación pública); para FINEST la página no indica aranceles. Becas: Fondo de Solidaridad 2027, nuevas solicitudes del 1 de noviembre de 2026 al 28 de febrero de 2027 (2 BPC mensuales, estimados en $14.400; solicitantes nuevos hasta 25 años; becas.fondodesolidaridad.edu.uy).
+  - Plazo o ciclo: Ciclo anual: la inscripción para el año lectivo siguiente se agenda por web en diciembre y febrero (ciclo 2025: 11 al 27 de diciembre de 2024 o hasta el 14 de febrero de 2025). Para 2027, solo se vio confirmada la inscripción a FINEST del 18 al 29 de diciembre de 2026; no se vieron las fechas generales de 2027.
+  - Como postular: https://www.utu.edu.uy/agenda
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página /estudia/ no publica fechas de inscripción: figuran en la noticia "Inscripciones a Educación Media 2027 mediante agenda web" (23/11/2026).
+  - Aclaracion: La inscripción se hace con cita en la agenda web de UTU; el enlace de agenda de la portada es servicios.utu.edu.uy/agenda2.
+  - Aclaracion: UTU también publica llamados docentes y administrativos en rrhh.utu.edu.uy, sin verificar en detalle.
+- **Uruguay Certifica: certificación de competencias laborales** (sin verificar, verificada 1 vez) https://www.inefop.uy/uruguay-certifica
+  - Que es: Personas que aprendieron un oficio trabajando y quieren que se reconozca y certifique su experiencia, sin importar cómo la adquirieron.
+  - Requisitos: sin datos: la página no indica requisitos, pasos de postulación ni costo. Reconoce saberes adquiridos por la trayectoria laboral, sin importar cómo se aprendieron (no exige título).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Política permanente (Decreto 340/18, octubre de 2018). No se vieron convocatorias con fechas; el listado de llamados de INEFOP consultado el 2026-11-23 no incluye ninguna de certificación.
+  - Como postular: https://oportunidades.inefop.uy/
+  - Lectura automatica posible: Guía en PDF (3,47 MB) enlazada desde la página de gub.uy.
+  - Aclaracion: La página no indica requisitos, pasos de postulación ni costo.
+  - Aclaracion: La postulación probablemente pasa por oportunidades.inefop.uy, pero esto no pudo confirmarse.
+  - Aclaracion: No se vieron convocatorias con fechas.
+- **INEFOP Formación Dual (aprendizaje con práctica remunerada en empresas)** (sin verificar, verificada 1 vez) https://www.inefop.uy/formacion-dual
+  - Que es: Jóvenes de 15 a 29 años que alternan aula y práctica en una empresa; sirve como primer empleo. Ocupaciones según el programa de cada empresa (no listadas en la página).
+  - Requisitos: Jóvenes de 15 a 29 años. La página no lista otros requisitos para el aprendiz; informa que a quienes elijan esta opción se les indica dónde estudiar, el compromiso requerido, el calendario y el horario. Experiencia previa: no se menciona como requisito.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Salario durante la práctica en la empresa; el monto no figura en la página.
+  - Plazo o ciclo: No se vio ninguna convocatoria abierta ni fechas. La página no menciona el piloto de Maldonado con 32 jóvenes citado en el ciclo declarado.
+  - Como postular: https://www.inefop.uy/formacion-dual
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página describe cómo se postulan las empresas (plan de formación con una entidad de capacitación) y no cómo se postulan los jóvenes.
+  - Aclaracion: No se vio ninguna convocatoria abierta ni fechas, y la página no menciona un piloto en Maldonado.
+  - Aclaracion: El camino práctico para jóvenes probablemente es consultar en una oficina de INEFOP o en el portal de oportunidades, sin confirmar.
+- **Aulas Móviles INEFOP-UTU (electricidad, automatismo, neumática, hidráulica)** (sin verificar, verificada 1 vez) https://www.inefop.uy/aulas-moviles
+  - Que es: Personas de localidades del interior y zonas rurales donde se instala un taller móvil; cursos prácticos presenciales con certificación conjunta INEFOP-UTU.
+  - Requisitos: La página no fija requisitos para participantes ni describe cómo inscribirse. Describe los requisitos para solicitar un aula: necesidad local de formación, coordinación con actores productivos y evaluación técnica; pueden pedirla gobiernos departamentales, municipios, cámaras, asociaciones, empresas y comités de INEFOP.
+  - Pago o beneficio: No se menciona costo ni pago.
+  - Plazo o ciclo: Itinerante: cada aula se instala entre 1 y 6 meses en una localidad según la demanda territorial. No se vieron localidades ni fechas vigentes.
+  - Como postular: https://www.inefop.uy/aulas-moviles
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no describe cómo inscribirse como participante; los requisitos que detalla son para solicitar un aula.
+  - Aclaracion: No se vieron localidades ni fechas vigentes.
+- **URSEA: regulación de instaladores de gas y energía (consulta de habilitación)** (sin verificar, verificada 1 vez) https://www.gub.uy/unidad-reguladora-servicios-energia-agua/tramites-y-servicios/tramites
+  - Que es: Quien necesite saber qué habilitación exige la ley para trabajar como instalador de gas o en instalaciones de energía y agua.
+  - Requisitos: sin datos. La página no detalla requisitos, costos ni plazos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se pudo confirmar el ciclo de ningún trámite para instaladores.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: De los 42 trámites listados solo se revisaron 10, y ninguno es específico de instaladores de gas o energía.
+  - Aclaracion: El trámite más cercano es 'Alta y modificación de Regulados' (registro de empresas reguladas por la URSEA), sin confirmación de que aplique a instaladores.
+  - Aclaracion: La afirmación de que existen trámites permanentes para instaladores no está verificada.
+  - Aclaracion: Contacto indicado: +598 2 150 int. 8100 o 0800 8773, Liniers 1324, piso 2, lunes a viernes de 10:00 a 15:00 h.

@@ -1,0 +1,111 @@
+# Industria, fabricas y mantenimiento
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Cervecería Boliviana Nacional (CBN) - Trabaja en CBN** (abierta o vigente, verificada 2 veces) https://www.cbn.bo/trabajaencbn/
+  - Que es: Personas que buscan empleo en cervecería y distribución (producción, calidad, logística, ventas, mantenimiento). Incluye programas para jóvenes profesionales: Graduate Management Trainee (GMT) y Pasantías.
+  - Requisitos: Pasantías: estudiantes de último año o recién graduados, con o sin experiencia laboral, de carreras afines al negocio; inglés intermedio. GMT (Graduate Management Trainee, unos 9 meses con rotaciones y paso a cargo permanente): recién graduados en áreas de negocios. Vacantes comunes: requisitos en cada anuncio.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: vacantes en el portal cbn.evaluarjobs.com y envío de CV por Workday si ninguna vacante encaja. Las convocatorias de GMT y Pasantías se anuncian en las redes sociales oficiales de CBN, sin fechas en la página.
+  - Como postular: https://wd1.myworkdaysite.com/es/recruiting/abinbev/BOL
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Áreas: Ventas, Finanzas, Industrial, Logística, Personas, Relaciones Corporativas, Marketing y TI.
+  - Aclaracion: Rutas de postulación: el portal de vacantes https://cbn.evaluarjobs.com/ o el envío de CV por Workday.
+  - Aclaracion: Los programas de pasantía y GMT piden título o estudios avanzados, por lo que no sirven para quien no tiene estudios; algunas vacantes, por ejemplo de ventas o logística, pueden tener otros requisitos.
+  - Aclaracion: Conviene postular solo por los enlaces oficiales y sin pagos.
+- **Portal de vacantes de CBN (evaluarjobs)** (abierta o vigente, verificada 2 veces) https://cbn.evaluarjobs.com/
+  - Que es: Postulantes a vacantes vigentes de CBN en Oruro, Cochabamba y La Paz, incluidas prácticas industriales.
+  - Requisitos: Se ven en cada anuncio (no se abrieron). Los títulos indican perfiles comerciales, técnicos y de práctica: algunas son prácticas para estudiantes o recién graduados.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto de forma continua; el 2026-11-23 se vieron 5 vacantes (con botón 'Cargar más anuncios'). No se muestran fechas de publicación ni de cierre.
+  - Como postular: https://cbn.evaluarjobs.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Vacantes vistas el 2026-11-23, todas presenciales: Ejecutivo Comercial (Oruro), Supervisor Eléctrico (Oruro), Prácticas Industriales Taquiña 26-27 (Cochabamba), Soporte HSMA Logística (La Paz) y Prácticas Profesionales Logística y Ventas (Cochabamba).
+  - Aclaracion: Se postula desde el anuncio de cada vacante; el portal está vinculado desde la página oficial de CBN.
+- **PIL Andina - Trabaja con Nosotros** (abierta o vigente, verificada 2 veces) https://pilbolivia.com.bo/trabaja-con-nosotros/
+  - Que es: Postulantes a puestos en la industria láctea (planta, calidad, logística, comercial) y estudiantes en prácticas.
+  - Requisitos: No especificados; perfil general (personas comprometidas, responsables y con ganas de crecer).
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (la página remite a una plataforma oficial de empleos y no indica fechas límite)
+  - Como postular: https://pil-bolivia.careers-page.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no lista puestos: indica que las oportunidades se publican en la plataforma oficial de empleos (pil-bolivia.careers-page.com).
+  - Aclaracion: Muestra además un formulario 'Trabaja con Nosotros' visible solo como imagen, con campos no confirmados.
+  - Aclaracion: La línea de atención al cliente (800-10-4848) no es canal de reclutamiento; postular solo por los canales oficiales.
+- **Portal de empleos de PIL Andina (careers-page)** (abierta o vigente, verificada 2 veces) https://pilbolivia.com.bo/trabaja-con-nosotros/
+  - Que es: Estudiantes y postulantes a puestos operativos y administrativos de PIL en Santa Cruz.
+  - Requisitos: Prácticas orientadas a estudiantes; no se listaron otros requisitos (edad, documentos, experiencia: no indicados en el listado).
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto; 2 vacantes vistas el 2026-11-23, más postulación espontánea abierta ('Deja tu CV') sin fecha límite
+  - Como postular: https://pil-bolivia.careers-page.com/open-application
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Vacantes vistas, ambas en Santa Cruz de la Sierra y dirigidas a estudiantes: 'Prácticas Comerciales y Administrativas' (Gerencia de Ventas) y 'Prácticas en Operaciones' (Gerencia de Operaciones).
+  - Aclaracion: Existe un formulario de postulación abierta en /open-application.
+  - Aclaracion: Está enlazado desde la página oficial de PIL Bolivia, lo que confirma que es el portal oficial.
+- **Avícola Sofía - Únete al equipo y oportunidades laborales** (abierta o vigente, verificada 2 veces) https://sofia.com.bo/pages/unete-al-equipo
+  - Que es: Postulantes a puestos de producción avícola y cárnica, mantenimiento, calidad, almacén, ventas y administración; programa Trainee Sofía para jóvenes profesionales.
+  - Requisitos: Varía por puesto: generalmente título o formación afín (ingeniería, administración, marketing) y experiencia previa; Agente de Contact Center pide formación comercial o administrativa deseable, experiencia en atención al cliente y turnos rotativos; Vendedor HORECA pide vehículo propio y Excel avanzado.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto de forma continua; 23 puestos distintos vistos el 2026-11-23, sin fechas de publicación ni de cierre. Postulación por correo a seleccion@avicolasofia.com (indicado en al menos un aviso).
+  - Como postular: https://sofia.com.bo/blogs/oportunidades-laborales
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El listado muestra 23 puestos distintos, no 22, porque cada puesto aparece duplicado en la página.
+  - Aclaracion: La página 'Únete al equipo' remite al listado de oportunidades (sofia.com.bo/blogs/oportunidades-laborales, con filtro por ciudad: Beni, Cochabamba, La Paz, Santa Cruz, Sucre) y ofrece enviar el CV a seleccion@avicolasofia.com; también menciona un programa Trainee sin detalles.
+  - Aclaracion: Los puestos son mayormente profesionales o técnicos y no se vio uno declarado sin experiencia.
+  - Aclaracion: Conviene confirmar que el contacto use el dominio avicolasofia.com.
+- **ENDE - Requerimiento de personal y registro de personas naturales** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.ende.bo/requerimientos-de-personal/vigentes
+  - Que es: Postulantes a cargos técnicos y profesionales en generación, transmisión y distribución eléctrica (empresa estatal).
+  - Requisitos: Registro: nombres, fecha de nacimiento, correo, tipo y número de documento de identidad, profesión, grado académico (de Técnico Medio a Doctorado) y CV adjunto (hay plantilla Excel). Orientado a personas con formación técnica o profesional.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Convocatorias por vacante, sin ciclo anual fijo visto; el 2026-11-23 la sección 'Vigentes' decía 'No tenemos elementos en REQUERIMIENTO DE RECURSOS HUMANOS para mostrar' (ninguna abierta). Registro de personas naturales abierto sin fecha límite.
+  - Como postular: https://www.ende.bo/trabaja-con-nosotros
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El enlace 'Personas Naturales' (ende.bo/trabaja-con-nosotros) es un registro de proveedores de servicios de consultoría individual; el CV también pasa a la lista general de Recursos Humanos, y no es una postulación a un cargo concreto.
+  - Aclaracion: La página incluye un aviso de seguridad: los portales oficiales del Estado usan dominio .gob.bo y https; los datos sensibles se comparten solo por canales oficiales.
+  - Aclaracion: Contacto: ende@ende.bo, +591 4 4120900.
+  - Aclaracion: El estado 'verified-recurring' se basa solo en que existen el mecanismo de convocatorias y el registro; no se vio evidencia de ciclo anual.
+- **AB InBev - portal de reclutamiento Workday (Bolivia)** (sin verificar, verificada 1 vez) https://www.ab-inbev.com/careers
+  - Que es: Personas que quieran dejar el CV para CBN cuando no haya vacante acorde.
+  - Requisitos: sin datos (no se vieron vacantes)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.ab-inbev.com/careers/job-search
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal Workday se carga con JavaScript y la lectura devolvió contenido vacío, por lo que no se vio ninguna vacante ni fecha; la URL de Workday no pudo confirmarse como el portal oficial vigente.
+  - Aclaracion: El sitio oficial de AB InBev (ab-inbev.com/careers) lista Bolivia entre los países del buscador de empleos y remite a su buscador global de vacantes (ruta /careers/job-search, no confirmada).
+  - Aclaracion: Como precaución general, postular solo por el portal oficial y desconfiar de ofertas no solicitadas o que pidan pagos.
+- **COMIBOL - sitio oficial (minería estatal)** (sin verificar, verificada 1 vez) https://www.comibol.gob.bo
+  - Que es: Personas interesadas en empleo en la minería estatal.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El sitio carga, pero no muestra ninguna convocatoria de empleo; solo aparecen licitaciones de venta de desmonte (Ánimas) y colas (Siete Suyos).
+  - Aclaracion: Hay un formulario descargable de hoja de vida CMB/DARH-01 del área de Recursos Humanos sin aviso asociado, y enlaces a 'Personal COMIBOL' y 'Escala Salarial' que no se abrieron.
+  - Aclaracion: La ruta /convocatorias devolvió 404, por lo que no se pudo confirmar una vía de postulación vigente.
+- **COBOCE (cemento) - contacto institucional** (sin verificar, verificada 1 vez) https://coboce.com/contactenos/
+  - Que es: Interesados en trabajar en plantas de cemento de COBOCE.
+  - Requisitos: No indicados en la página.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: mailto:coboce@coboce.com (solo contacto general; no confirmado como canal de postulación)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página es oficial (COBOCE R.L., 'Contacto y atención institucional'), pero no tiene sección de empleo, 'Trabaja con nosotros' ni vía para enviar CV.
+  - Aclaracion: Datos de contacto: coboce@coboce.com, teléfonos 4257733 / 4257735 (+591), oficina en Av. San Martín N.º 0558, Galerías Chicago, piso 3, Cochabamba.
+  - Aclaracion: Conviene desconfiar de ofertas que pidan pagos y verificar siempre por los canales oficiales.
+- **Ingenio Guabirá - contacto** (sin verificar, verificada 1 vez) https://www.guabira.com/contactanos
+  - Que es: Posibles postulantes a trabajo agroindustrial (azúcar, alcohol, energía).
+  - Requisitos: No indicados en la página.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: mailto:info@guabira.com (solo contacto general; no confirmado como canal de postulación)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página es oficial (Guabirá), pero es solo de contacto: no tiene sección de empleo ni vía de CV.
+  - Aclaracion: Datos de contacto: info@guabira.com, teléfonos (+591) 3 922 0225 y 3 922 8000; el formulario de contacto no apareció en el texto extraído y el apartado de sucursales estaba vacío.
+  - Aclaracion: Verificar siempre por canales oficiales y no pagar por un empleo.

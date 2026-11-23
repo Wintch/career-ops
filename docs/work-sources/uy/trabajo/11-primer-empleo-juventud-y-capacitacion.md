@@ -1,0 +1,59 @@
+# Primer empleo, juventud y capacitacion
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Becas 2027 del Fondo de Solidaridad** (abierta o vigente, verificada 2 veces) https://www.fondodesolidaridad.edu.uy/abren-las-postulaciones-a-las-becas-2027
+  - Que es: Jóvenes de todo el país que necesitan apoyo económico para comenzar, continuar o terminar una carrera terciaria en la Udelar, UTEC o UTU. Quienes terminan bachillerato pueden postularse antes de inscribirse.
+  - Requisitos: Jóvenes que necesiten apoyo económico para cursar una carrera terciaria en Udelar, UTEC o UTU; quienes están terminando bachillerato pueden iniciar la solicitud. Quienes ya cursan deben tener escolaridad mínima: 50 % de aprobación (40 % en UTEC, UTU y carreras técnicas de Udelar). Se declara la situación socioeconómica y patrimonial del hogar. No hace falta mudarse de departamento. Se requiere usuario gub.uy con nivel de seguridad intermedio (se recomienda crearlo antes).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Apoyo económico mensual equivalente a 2 BPC ($13.728 con valores de 2026; se actualiza en 2027). Renovable cada año durante toda la carrera si se cumplen los requisitos. Incluye talleres, charlas, orientación y préstamo de computadoras.
+  - Plazo o ciclo: Convocatoria abierta. Nuevas solicitudes del 1/11/2026 al 28/02/2027; renovaciones del 2/01 al 28/02/2027. Ciclo anual.
+  - Como postular: becas.fondodesolidaridad.edu.uy/inscripciones/
+  - Lectura automatica posible: No se vio API. Páginas HTML; la solicitud es por portal con login.
+  - Aclaracion: Es una beca de estudio, no un empleo.
+  - Aclaracion: La postulación es en línea en becas.fondodesolidaridad.edu.uy, con usuario gub.uy de nivel intermedio.
+- **Taller gratuito de orientación laboral, Casa INJU** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-desarrollo-social/comunicacion/comunicados/taller-orientacion-laboral-gratuito-casa-inju
+  - Que es: Jóvenes de 16 a 24 años que quieren ingresar al mercado de trabajo.
+  - Requisitos: Jóvenes de 16 a 24 años con interés en el mundo del trabajo. No se exige experiencia ni título. 15 horas en total (12 presenciales y 3 de trabajo en domicilio).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito. Al completar la asistencia se entrega certificado de participación.
+  - Plazo o ciclo: Edición del 30/11 al 4/12/2026, de 14:30 a 16:30, en Casa INJU (Av. 18 de Julio 1865, Montevideo). Inscripción en línea hasta el 29/11/2026. No se vio si habrá nuevas ediciones.
+  - Como postular: formularios.mides.gub.uy/170383/
+  - Lectura automatica posible: No se vio API; comunicado HTML.
+  - Aclaracion: La página no anuncia ediciones posteriores a la del 30/11 al 4/12/2026.
+  - Aclaracion: Consultas: orientacionlaboralinju@mides.gub.uy o 0800 4658 (línea gratuita).
+- **Punto INJU (información y orientación para jóvenes)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-desarrollo-social/comunicacion/comunicados/punto-inju
+  - Que es: Adolescentes y jóvenes de 14 a 29 años que quieren información y orientación sobre programas públicos (educación, participación, emancipación y bienestar).
+  - Requisitos: Adolescentes y jóvenes de 14 a 29 años. No se exige experiencia. Es un dispositivo territorial del MIDES que informa y orienta sobre políticas y programas públicos (educación, participación, emancipación, bienestar); no es una bolsa de empleo.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito (servicio público de información y orientación).
+  - Plazo o ciclo: Servicio permanente, abierto todo el año. Horarios: sin datos.
+  - Como postular: Contacto por correo del equipo local, listado en la página oficial (por ejemplo injudesarrollomuna@mides.gub.uy para Montevideo, Municipio A)
+  - Lectura automatica posible: No se vio API; HTML.
+  - Aclaracion: No es una bolsa de empleo: es un servicio de información y orientación, sin dirección física propia.
+  - Aclaracion: La página no indica horarios ni confirma expresamente que el servicio sea permanente.
+  - Aclaracion: Dos correos de equipos (Cerro Largo y Tacuarembó) figuran mal escritos en la página y conviene verificarlos antes de usarlos.
+  - Aclaracion: Contacto general MIDES: 18 de Julio 1453, Montevideo, tel. 24000302.
+- **Ley 20.506 de Empleo Integral: Primera Experiencia Laboral en el Estado y Yo Estudio y Trabajo para el sector privado** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.impo.com.uy/bases/leyes/20506-2026
+  - Que es: Jóvenes de 15 a 29 años (grupo prioritario) y otros grupos con mayores obstáculos de acceso al empleo. Marco legal vigente de los contratos de primera experiencia laboral en organismos del Estado (jóvenes de 15 a 24 años), del programa Yo Estudio y Trabajo (sorteo) y de subsidios a la contratación de jóvenes.
+  - Requisitos: Jóvenes de 15 a 24 años sin aportes a la seguridad social por más de 90 días corridos. Para Yo Estudio y Trabajo, además, estar cursando o por iniciar estudios formales o no formales (art. 21). Tareas de apoyo administrativo u operativo, sin calidad de funcionario público. Hasta 30 horas semanales entre 18 y 24 años y hasta 20 entre 15 y 17. No se exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Primera Experiencia en el Estado: 4 BPC por 30 horas semanales; 6 BPC para embarazadas, madres y padres de hijos menores de 4 años y personas con discapacidad; proporcional si son menos horas. Contratos de 6 a 12 meses, sin prórroga y sin indemnización al terminar.
+  - Plazo o ciclo: Norma vigente: promulgada el 26/06/2026, publicada el 17/07/2026 y reglamentada por el Decreto N.º 276/026 del 12/11/2026. No es una convocatoria. La ley prevé el ingreso por sorteo público a Yo Estudio y Trabajo (se verificó la edición anual 2026) y contratos de Primera Experiencia Laboral en el Estado autorizados por INAU, INISA, INJU, ANEP y el Ministerio de Trabajo. No se vieron convocatorias abiertas de Primera Experiencia en el Estado; fechas desconocidas.
+  - Como postular: sin datos
+  - Lectura automatica posible: Texto normativo en HTML en impo.com.uy; sin API vista.
+  - Aclaracion: Es una norma, no una convocatoria: para postularse corresponde remitirse a las convocatorias de cada organismo cuando existan.
+  - Aclaracion: El título oficial de la ley es el de promover el trabajo decente para personas con mayores barreras de acceso al mercado laboral, y no figura como Ley de Empleo Integral.
+  - Aclaracion: Los artículos 17 a 22 regulan contratos en organismos del Estado, con cuota mínima del 50 % de pasantes y becarios jóvenes (20 % en ANEP); no se confirmó un régimen para el sector privado en el texto.
+  - Aclaracion: La norma deroga los arts. 11 y 13 de la Ley 19.689 y los arts. 1 a 28 y 36 a 50 de la Ley 19.973.
+- **UTU Dual (formación en empresas)** (sin verificar, verificada 1 vez) https://dual.utu.edu.uy/
+  - Que es: Estudiantes de UTU que aprenden trabajando en empresas reales, con tutores del oficio. Empresas participantes mencionadas en la página: ATMA, Codel Este, Grupo RAS, Zona América, CUTCSA, Nordex, Olimpia, Artico, Forestal Atlántico Sur, Buenas Migas, Camcel, CEPATU, Defensor Sporting, El País, Servicios Logísticos Ferroviarios, Jardín de la Costa y Media Pro.
+  - Requisitos: No detallados en la página; UTU hace la selección y el seguimiento de los estudiantes. Los estudiantes aprenden trabajando en empresas reales con tutores. Proceso de inscripción de estudiantes: sin datos (consultar a UTU Dual). Las empresas se suman desde el formulario Querés ser una empresa formadora, en la sección Contacto.
+  - Pago o beneficio: INEFOP subsidia hasta el 50 % del salario de los aprendices; lo que cobra el estudiante: sin datos.
+  - Plazo o ciclo: Programa descrito como permanente, pero la página no indica ciclo ni fechas de ingreso de estudiantes. La agenda de utu.edu.uy lista el 04/12 como Primer encuentro de Estudiantes y Empresas de Formación Dual, sin año (https://www.utu.edu.uy/primer-encuentro-de-estudiantes-y-empresas-de-formacion-dual/); probablemente 2026, no confirmado. La página dual.utu.edu.uy no menciona ese encuentro.
+  - Como postular: sin datos
+  - Lectura automatica posible: No se vio API.
+  - Aclaracion: No se confirmó una vía abierta de postulación para personas; presumiblemente se accede estando inscripto en un curso de UTU con formación dual.
+  - Aclaracion: La fecha del encuentro del 04/12 no tiene año indicado y no figura en la página dual.utu.edu.uy.
+  - Aclaracion: Contacto: lgismero@utu.edu.uy, vuri@utu.edu.uy, utu@utu.edu.uy; teléfono (+598) 2410 7971; San Salvador 1674, Montevideo.

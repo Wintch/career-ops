@@ -1,0 +1,101 @@
+# Oficios y construccion
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **CONOCER: certificación de competencias laborales (oficios)** (abierta o vigente, verificada 2 veces) https://conocer.gob.mx/certifico-mis-competencias/
+  - Que es: Cualquier persona con experiencia en un oficio, sin importar cómo lo aprendió (formal, informal o en la práctica), que quiera un certificado oficial de competencia, por ejemplo en electricidad.
+  - Requisitos: Demostrar la competencia según el estándar elegido (evidencias y criterios por estándar). No se exige título ni se indica edad mínima en la página (sin datos).
+  - Sin experiencia previa: no
+  - Pago o beneficio: No es un empleo; costo de la certificación: sin datos (lo fija cada prestador).
+  - Plazo o ciclo: Abierto todo el año (sin periodos ni fechas límite; página actualizada el 26/11/2024)
+  - Como postular: https://conocer.gob.mx/certifico-mis-competencias/
+  - Lectura automatica posible: Ninguno visto; el buscador RENEC es una aplicación web (conocer.gob.mx:6060/conocer/#/renec).
+  - Aclaracion: Proceso: buscar el estándar en el RENEC, revisar qué se evalúa y qué evidencias se piden, y elegir un prestador acreditado en la sección «¿En dónde puedo certificarme?».
+  - Aclaracion: No hay reglas generales de elegibilidad: los requisitos son las evidencias y criterios de cada estándar.
+  - Aclaracion: El costo se consulta con el prestador elegido.
+  - Aclaracion: Sirve para acreditar oficios y habilidades sin título.
+- **CONOCER: directorio de entidades y organismos certificadores (dónde certificarse)** (abierta o vigente, verificada 2 veces) https://conocer.gob.mx/prestadores-servicios-realizan-la-evaluacion-certificacion-las-competencias/
+  - Que es: Personas que ya eligieron un estándar de competencia y necesitan encontrar quién las evalúa y certifica (entidades de certificación y evaluación, ECE, y organismos certificadores, OC).
+  - Requisitos: sin datos. La página es informativa; los requisitos dependen del estándar y del prestador.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (la página se actualizó por última vez el 20/08/2019; los listados enlazados no se abrieron)
+  - Como postular: https://conocer.gob.mx/certifico-mis-competencias/
+  - Lectura automatica posible: Ninguno visto; los directorios son aplicaciones web.
+  - Aclaracion: Describe la red de prestadores: Entidades de Certificación y Evaluación (ECE), Organismos Certificadores (OC), Centros de Evaluación (CE) y Evaluadores Independientes (EI).
+  - Aclaracion: Enlaza a dos listados externos (ECE y OC); no contiene el directorio completo ni lista CE ni EI.
+  - Aclaracion: La vigencia actual de los listados enlazados no está confirmada.
+  - Aclaracion: Para encontrar dónde certificarse conviene empezar por la sección «¿En dónde puedo certificarme?» de la página de certificación.
+- **CONOCER: RENAP, registro de personas con competencias certificadas** (abierta o vigente, verificada 2 veces) https://conocer.gob.mx/registro-nacional-personas-competencias-certificadas/
+  - Que es: Personas que ya tienen certificado de competencia (el registro las hace visibles para empleadores, sindicatos, instituciones y escuelas que buscan perfiles certificados) y quienes quieren verificar su propio registro.
+  - Requisitos: Contar con un certificado de competencias y tener CURP.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Gratuito; no genera pago.
+  - Plazo o ciclo: Abierto todo el año (consulta gratuita; página actualizada el 28/03/2025)
+  - Como postular: https://conocer.gob.mx/registro-nacional-personas-competencias-certificadas/
+  - Lectura automatica posible: Ninguno visto.
+  - Aclaracion: Es una herramienta pública y gratuita de consulta de personas con certificados de estándares del RENEC.
+  - Aclaracion: Quien tiene un certificado queda registrado con su CURP; la página no describe un trámite de alta aparte.
+  - Aclaracion: La consulta se hace con la opción «Consulta su CURP en RENAP».
+  - Aclaracion: No es una vacante ni un programa de empleo: es un registro de apoyo, útil solo después de certificarse.
+- **IMSS: incorporación de personas trabajadoras independientes** (abierta o vigente, verificada 2 veces) https://www.imss.gob.mx/personas-trabajadoras-independientes
+  - Que es: Quienes trabajan por cuenta propia (artesanos, pequeños comerciantes, profesionistas y otras personas sin patrón, entre ellas quienes trabajan un oficio por su cuenta) y quieren afiliarse de forma voluntaria al seguro social. La página no menciona a la construcción de forma específica.
+  - Requisitos: No se listan requisitos específicos en la página (sin datos); aplica a personas trabajadoras independientes sin relación laboral subordinada.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es un empleo; implica pago de cuotas. Los montos no aparecen en la página y se consultan en la calculadora de cuotas del IMSS (sin datos).
+  - Plazo o ciclo: Abierto todo el año (la página no menciona fechas; la fecha del 21 de enero de 2021 no se pudo confirmar)
+  - Como postular: https://adodigital.imss.gob.mx/pti
+  - Lectura automatica posible: Ninguno visto.
+  - Aclaracion: Es un esquema simplificado de incorporación voluntaria al Régimen Obligatorio; también pueden afiliarse personas mexicanas que trabajan en el extranjero sin patrón mexicano.
+  - Aclaracion: El trámite inicia en «Iniciar trámite» (adodigital.imss.gob.mx/pti), con video tutorial y calculadora de cuotas.
+  - Aclaracion: No es un empleo, sino una vía para tener seguridad social al trabajar por cuenta propia o en plataformas.
+  - Aclaracion: La página no cita fecha de inicio ni fundamento legal; la afirmación sobre el 21 de enero de 2021 queda sin verificar.
+- **Jóvenes Construyendo el Futuro (capacitación en el trabajo, incluye oficios)** (abierta o vigente, verificada 2 veces) https://jovenesconstruyendoelfuturo.stps.gob.mx/
+  - Que es: Personas de 18 a 29 años que no estudian ni trabajan, para capacitarse hasta 12 meses en un centro de trabajo participante (empresas, talleres u organizaciones). Los centros de trabajo se inscriben como tutores.
+  - Requisitos: Personas de 18 a 29 años que no estudian ni trabajan. La página no muestra lista de documentos; el aviso de privacidad menciona CURP, RFC y datos de credencial de elector. No se pide experiencia. Capacitación de hasta 12 meses en centros de trabajo.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Beca mensual de $9,582.47 MXN durante la capacitación, seguro médico del IMSS y constancia de capacitación (según la página).
+  - Plazo o ciclo: Inscripción continua según la página (sin fechas de cierre visibles); no se vio una fecha de convocatoria. Aviso de privacidad actualizado en junio de 2026.
+  - Como postular: https://jovenesconstruyendoelfuturo.stps.gob.mx/aprendiz.php
+  - Lectura automatica posible: Ninguno visto.
+  - Aclaracion: El programa es oficial (STPS); se considera abierto porque hay un botón de inscripción activo, aunque la página no indica fechas de registro.
+  - Aclaracion: Ayuda al 079 (24 horas, todos los días) y directorio de oficinas estatales de la STPS en el sitio.
+- **Servicio Nacional de Empleo / Portal del Empleo** (abierta o vigente, verificada 2 veces) https://www.gob.mx/stps/acciones-y-programas/portal-del-empleo
+  - Que es: Público en general que busca vacantes, incluidas las de oficios; la página no pudo leerse completa. Es un portal federal de empleo enlazado desde la STPS y desde Jóvenes Construyendo el Futuro.
+  - Requisitos: La página oficial no lista requisitos. Búsqueda de vacantes por estado, oficio o profesión; también informa sobre ferias de empleo y ofertas para trabajar en el extranjero. No se confirmó el procedimiento de registro.
+  - Pago o beneficio: Servicio gratuito; el pago depende de cada vacante.
+  - Plazo o ciclo: Abierto todo el año (servicio gratuito permanente de la STPS).
+  - Como postular: https://www.empleo.gob.mx/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Al cargar empleo.gob.mx solo se vio el título «Portal del Empleo», sin contenido; la descripción proviene de la ficha oficial en gob.mx/stps y el contenido interno del portal no se pudo ver.
+  - Aclaracion: Contacto: 800 841 2020 y WhatsApp 55 7335 6824 (lunes a viernes de 8:00 a 21:00, sábados de 9:00 a 20:00).
+  - Aclaracion: El directorio de oficinas del SNE está en gob.mx.
+- **Cemex México: Trabaja con nosotros** (abierta o vigente, verificada 2 veces) https://www.cemexmexico.com/acerca-de-cemex/trabaja-con-nosotros
+  - Que es: Empleador grande del sector construcción (cemento, concreto, materiales). Postulación por su portal de empleos; los perfiles de oficios concretos (operadores, mecánicos, electricistas) no se vieron en la página.
+  - Requisitos: La página no indica requisitos; se definen en cada vacante. El portal ofrece categorías: puestos profesionales y administrativos, técnicos y operativos, prácticas profesionales y programas de desarrollo de talento. Se puede filtrar por país y función.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: portal global de vacantes permanente; no se vieron vacantes concretas de México.
+  - Como postular: https://jobs.cemex.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial dirige a jobs.cemex.com, donde se confirmó la estructura y el filtro por país (idioma «Español (México)'), pero no se vieron vacantes mexicanas concretas.
+  - Aclaracion: Ofrece una red de talento para recibir avisos.
+- **ICIC: Instituto de Capacitación de la Industria de la Construcción (CMIC)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://icic.org.mx/
+  - Que es: Personas y empresas del sector que buscan capacitación en construcción: oficios técnicos, soldadura, maquinaria y mecánica, seguridad, administración de obra, certificación. Modalidades en línea y presenciales.
+  - Requisitos: La página no indica requisitos previos por curso. Se requiere crear cuenta o afiliarse. Modalidad en línea y presencial (por ejemplo, Hidalgo, Puebla, CDMX). No tiene bolsa de trabajo visible.
+  - Pago o beneficio: No es empleo ni beca; es capacitación de pago. Ejemplos: Topografía Básica $3,500 MXN ($2,800 afiliados, $3,100 estudiantes); Superintendente de Obra $3,600 MXN; el Diplomado en costos y licitación $25,500 MXN.
+  - Plazo o ciclo: Catálogo permanente con cursos programados por fecha; en la página: 23 de noviembre de 2026 (Auditoría de Obra, Topografía Básica, Superintendente de Obra) y 26 de febrero de 2027 (Diplomado en costos y licitación). Si un curso no está programado, se puede solicitar su programación.
+  - Como postular: https://icic.org.mx/cursos/
+  - Lectura automatica posible: Ninguno visto.
+  - Aclaracion: Sirve para formación y certificación en construcción (seguridad, soldadura, maquinaria, topografía), no para postularse a vacantes.
+  - Aclaracion: Contacto: 55 4990-5415, info@icic.org.mx.
+  - Aclaracion: La página tiene enlaces ocultos en el pie hacia un sitio de terceros ajeno a ICIC; no se deben usar.
+- **CMIC: Cámara Mexicana de la Industria de la Construcción** (sin verificar, verificada 1 vez) https://www.cmic.org.mx/
+  - Que es: Empresas constructoras afiliadas y, según la página, personas del sector que buscan bolsa de trabajo y capacitación o certificación para trabajadores de la construcción.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no mostró contenido legible, por lo que no se confirmó que ofrezca bolsa de trabajo o capacitación para trabajadores.
+  - Aclaracion: Es la cámara empresarial del sector; la capacitación está en el ICIC (icic.org.mx).
+  - Aclaracion: No se recomienda listarla como vía de empleo sin una verificación adicional.

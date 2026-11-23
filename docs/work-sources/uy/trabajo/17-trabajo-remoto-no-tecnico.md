@@ -1,0 +1,117 @@
+# Trabajo remoto no tecnico
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **OneForma (Centific): proyectos de datos, evaluación, transcripción y traducción** (abierta o vigente, verificada 2 veces) https://www.oneforma.com/jobs/
+  - Que es: Cualquier persona que quiera hacer tareas remotas por proyecto: recolección de datos, juzgamiento/evaluación, anotación, traducción, redacción de prompts para modelos de lenguaje y transcripción. Al momento de la consulta figuraban 24 proyectos abiertos.
+  - Requisitos: Depende del proyecto: en general dominio de idiomas (a veces hablante nativo). El proyecto de recolección de correos de compras se describe como sin experiencia requerida. Disponibilidad por país variable.
+  - Pago o beneficio: Varía por proyecto: ejemplos vistos USD 5/h, USD 10/h, USD 50/h, por palabra o por tarea; muchos sin tarifa publicada.
+  - Plazo o ciclo: Abierto todo el año: la página indicaba '24 projects open now' al momento de la consulta; los proyectos se abren y cierran de forma continua.
+  - Como postular: https://www.oneforma.com/jobs/
+  - Lectura automatica posible: No se vio API ni feed; listado HTML filtrable por país, categoría y dominio.
+  - Aclaracion: Uruguay no figura en los filtros de país ni en la lista de 13 países del proyecto de posedición; la elegibilidad depende de cada proyecto y no está confirmada.
+  - Aclaracion: Hay proyectos remotos y presenciales, y solo se vieron 12 de los 24 proyectos.
+  - Aclaracion: Se puede crear un perfil gratuito y postularse proyecto por proyecto.
+- **Appen Experts (antes crowd de Appen / CrowdGen): evaluación y entrenamiento de IA por especialidad** (abierta o vigente, verificada 2 veces) https://appenexperts.com/
+  - Que es: Personas con conocimiento de un área (idiomas, contabilidad, salud, derecho, finanzas, etc.) que quieran evaluar, anotar, generar y refinar respuestas de IA de forma remota. La página dice que la mayoría de los proyectos no requieren habilidades técnicas sino experiencia en el dominio. Enlazada desde appen.com como 'Join our workforce' (crowdgen.com redirige a este sitio).
+  - Requisitos: Experiencia profesional en un área (contabilidad, salud, derecho, software, lingüística, etc.); en la mayoría de los proyectos no se piden habilidades técnicas; verificación y pruebas de calificación; tiempo de dedicación. No apta como primer empleo sin experiencia en una especialidad.
+  - Pago o beneficio: Tarifa informada antes de empezar; según la página, hasta USD 100/h o más según ubicación y habilidades; ejemplos: lingüistas hasta USD 95/h, ingenieros de software hasta USD 150/h, clínicos médicos hasta USD 450/h. Se paga en USD, con retiro por transferencia bancaria, PayPal, Payoneer o Airtm.
+  - Plazo o ciclo: Abierto todo el año: se puede crear cuenta en cualquier momento; el trabajo depende de que haya proyectos para el perfil.
+  - Como postular: https://appenexperts.com/
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: La página no indica si Uruguay está habilitado ni lista países; se confirma al registrarse.
+  - Aclaracion: Hay verificación y calificación por proyecto.
+  - Aclaracion: No se debe pagar para unirse.
+- **Lionbridge: comunidad freelance (IA, traducción, interpretación, pruebas de juegos)** (abierta o vigente, verificada 2 veces) https://www.lionbridge.com/join-our-community/
+  - Que es: Lingüistas, traductores, intérpretes, testers y personas para tareas de entrenamiento de IA (crowd), en trabajo freelance remoto. La página habla de una comunidad de más de 500.000 miembros y más de 450 localizaciones.
+  - Requisitos: No se listan en la página general; dependen de cada oportunidad (idiomas, especialidad, pruebas).
+  - Pago o beneficio: sin datos (la página solo dice 'competitive rates')
+  - Plazo o ciclo: Abierto todo el año: las oportunidades se publican de forma continua en careers.lionbridge.com.
+  - Como postular: https://careers.lionbridge.com
+  - Lectura automatica posible: No se vio API; portal de ofertas con búsqueda.
+  - Aclaracion: La página advierte que solo se publican vacantes válidas en careers.lionbridge.com y que hay que registrarse únicamente en plataformas oficiales.
+  - Aclaracion: El portal tiene cuatro áreas: IA (AI Training Solutions), traductores y agencias, intérpretes y juegos.
+  - Aclaracion: No se indican países elegibles; la elegibilidad desde Uruguay no está confirmada.
+- **DataAnnotation: tareas remotas de evaluación y entrenamiento de IA** (abierta o vigente, verificada 2 veces) https://www.dataannotation.tech/
+  - Que es: Contratistas remotos que revisan respuestas, verifican exactitud, refinan prompts y califican salidas de modelos de IA. El sitio lista 133 roles (programación, medicina, derecho, finanzas, STEM, idiomas) y un perfil 'Generalist'.
+  - Requisitos: Fluidez en inglés, internet confiable, razonamiento y atención al detalle; no se pide formación técnica ni de programación. Algunos roles piden profesión (médico, abogado, etc.).
+  - Pago o beneficio: Según la página: generalistas hasta USD 50/h; idiomas hasta USD 40/h; roles expertos hasta USD 125+/h; software e ingeniería hasta USD 150+/h. Son topes, no promesas.
+  - Plazo o ciclo: Abierto todo el año: solicitud en línea en cualquier momento; el trabajo disponible varía y es por tareas, sin compromiso.
+  - Como postular: https://www.dataannotation.tech/
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: El flujo es en tres etapas: postularse, calificar y trabajar; es trabajo por tareas como contratista, sin compromiso a largo plazo.
+  - Aclaracion: Las tarifas publicadas son máximos, no montos garantizados.
+  - Aclaracion: La página y el FAQ no listan países elegibles ni mencionan Uruguay; solo piden internet confiable y fluidez en inglés.
+- **Prolific: estudios remunerados de investigación y tareas de datos** (abierta o vigente, verificada 2 veces) https://www.prolific.com/participants
+  - Que es: Personas que participan en estudios de investigación y tareas de datos pagas, desde la computadora o el celular. Funciona con lista de espera e invitaciones.
+  - Requisitos: Identidad verificable; filtros de elegibilidad según perfil. Edad y países: sin datos. No requiere experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Pago en dinero real, sin tarjetas de regalo; retiro desde USD/GBP 6; tras los primeros 4 retiros, pago instantáneo por PayPal. Monto por estudio: sin datos.
+  - Plazo o ciclo: Abierto todo el año mediante lista de espera; las invitaciones llegan según haya estudios disponibles.
+  - Como postular: https://www.prolific.com/participants
+  - Lectura automatica posible: No se vio API.
+  - Aclaracion: Es un ingreso complementario, no un empleo.
+  - Aclaracion: Tras entrar a la lista de espera (unos 3 minutos), al recibir la invitación se verifica la identidad y se hace una práctica corta (unos 15 minutos).
+  - Aclaracion: Ni la página ni el centro de ayuda consultado indican países elegibles ni edad mínima, ni si Uruguay está incluido; se consulta en https://participant-help.prolific.com/en.
+- **Rev: transcripción, subtitulado y traducción de subtítulos freelance** (abierta o vigente, verificada 2 veces) https://www.rev.com/freelancers
+  - Que es: Personas con computadora, internet estable y buen nivel de inglés que quieran transcribir, subtitular o traducir subtítulos por minuto de audio o video, con horario propio.
+  - Requisitos: Computadora, conexión a internet estable y buen nivel de inglés; los roles de traducción piden un segundo idioma; transcripción legal pide experiencia o familiaridad con terminología legal de EE. UU. No requiere título.
+  - Pago o beneficio: Por minuto de audio o video: transcripción USD 0,40 a 1,10; subtitulado USD 0,54 a 1,10; traducción de subtítulos USD 1,70 a 4,00 o más según idioma; transcripción legal USD 0,55 a 2,00 o más. Pago semanal por PayPal.
+  - Plazo o ciclo: Abierto todo el año; hay lista de espera por alto volumen de solicitudes y se procesan por orden de llegada.
+  - Como postular: https://www.rev.com/freelancers
+  - Lectura automatica posible: No se vio API.
+  - Aclaracion: Se elige un rol, se hace una evaluación breve de inglés y gramática y se envía una muestra de trabajo; no hay compromiso mínimo.
+  - Aclaracion: La página dice "trabajar desde cualquier lugar" pero no lista países; la elegibilidad desde Uruguay no está confirmada.
+- **Preply: tutoría en línea (idiomas y otras materias)** (abierta o vigente, verificada 2 veces) https://www.preply.com/en/teach
+  - Que es: Personas que quieran dar clases particulares en línea (por ejemplo español para extranjeros). La página dice que no se exige certificación ni experiencia docente.
+  - Requisitos: No se exige certificación ni experiencia docente según la página. Se necesita computadora, internet estable, cámara web y micrófono; foto real y video de hasta 2 minutos aumentan la probabilidad de aprobación.
+  - Sin experiencia previa: si
+  - Pago o beneficio: El tutor fija su tarifa horaria; la página cita promedio de USD 15 a 25/h para inglés y hasta USD 550 por semana para los mejores. Comisión: 100% en las clases de prueba con alumnos nuevos; luego del 33% al 18% según horas dictadas. Pagos por PayPal, Payoneer, Skrill y Wise.
+  - Plazo o ciclo: Abierto todo el año; el perfil se revisa en unos 3 días hábiles.
+  - Como postular: https://www.preply.com/en/teach
+  - Lectura automatica posible: No se vio API.
+  - Aclaracion: Crear el perfil de tutor es gratis y se hace en cinco pasos (datos básicos, foto, descripción, video de presentación y disponibilidad).
+  - Aclaracion: La página no menciona Uruguay ni lista países, y no indica restricciones por país; solo dice que hay alumnos de más de 180 países.
+  - Aclaracion: La elegibilidad desde Uruguay no está confirmada.
+- **Cambly: conversación en inglés con estudiantes de todo el mundo** (abierta o vigente, verificada 2 veces) https://www.cambly.com/english/tutors
+  - Que es: Personas que conversan en inglés con estudiantes en línea; la página dice que no hace falta título docente, licenciatura ni experiencia previa. Cambly informa que limita temporalmente el alta de nuevos tutores y que el procesamiento de perfiles puede demorar.
+  - Requisitos: La página indica que no se necesita certificado docente, título universitario ni experiencia previa. No figuran edad ni documentos; los países aceptados no se indican en la página (no verificado si Uruguay está incluido).
+  - Sin experiencia previa: si
+  - Pago o beneficio: USD 0,17 por minuto (USD 10,20 por hora) en Cambly y USD 0,20 por minuto (USD 12 por hora) en Cambly Kids; pago semanal por depósito directo.
+  - Plazo o ciclo: Abierto, pero con límite temporal de nuevas altas: la página informa que Cambly limita temporalmente los registros de tutores nuevos y que el procesamiento de perfiles puede demorar más.
+  - Como postular: https://www.cambly.com/onboarding?accountTypes=tutorsignup-en&redirect=%2Fen%2Ftutorsignup
+  - Lectura automatica posible: No se vio API.
+  - Aclaracion: No hay mínimo de horas y es una plataforma de trabajo independiente, no una relación de dependencia.
+  - Aclaracion: El procesamiento de perfiles puede demorar más de lo habitual, sin plazo concreto.
+  - Aclaracion: Hay que confirmar en el proceso de alta si se admiten tutores residentes en Uruguay y qué nivel de inglés se pide.
+- **Upwork y Freelancer: mercados freelance globales (Freelancer verificado en parte, Upwork no)** (abierta o vigente, verificada 2 veces) https://www.freelancer.com/jobs/
+  - Que es: Freelancers de cualquier país que quieran ofertar por proyectos: asistencia virtual, ingreso de datos, redacción, marketing digital, soporte. Freelancer muestra etiquetas como Data Entry, Excel, Digital Marketing y Academic Writing.
+  - Requisitos: No hay requisitos generales para freelancers en la página; cada proyecto indica las habilidades que pide. No se menciona Uruguay ni países admitidos (no verificado). El registro se describe como gratuito.
+  - Pago o beneficio: Variable según proyecto; las comisiones están en la página 'Fees and Charges' de Freelancer, que no se leyó.
+  - Plazo o ciclo: Listado continuo con 4.656 proyectos al 2026-11-23.
+  - Como postular: https://www.freelancer.com/jobs/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El listado de Freelancer mostraba 4.656 proyectos al 2026-11-23, no 4.679; la cifra varía a diario.
+  - Aclaracion: Solo se verificó Freelancer; Upwork no se verificó.
+  - Aclaracion: Es un mercado de trabajo independiente con mucha competencia internacional, no empleo en relación de dependencia.
+- **DGI: régimen de IVA mínimo (pequeña empresa) y alta de unipersonal, cómo tributar como trabajador independiente** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.gub.uy/direccion-general-impositiva/comunicacion/publicaciones/regimen-iva-minimo-pequena-empresa
+  - Que es: Personas físicas que trabajen por cuenta propia. Cobrar de plataformas del exterior por trabajo remoto suele requerir formalizarse como empresa unipersonal; el régimen concreto que corresponde a cada caso debe consultarse con DGI y BPS, porque estas páginas no tratan expresamente servicios exportados.
+  - Requisitos: Contribuyentes pequeños de cualquier forma jurídica con actividades que requieran capital y trabajo (venta de productos, servicios con herramientas o maquinaria, o con empleados). Ingresos anuales inferiores a 305.000 UI. Quedan excluidos, entre otros, transportistas profesionales de carga, ópticas, venta exclusiva de libros, rentas agropecuarias, quienes optaron por IRAE y quienes tienen ingresos no empresariales. Si el cliente aporta las herramientas o materiales, queda fuera del régimen.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica (es un régimen tributario). Se paga una cuota mensual a DGI más los aportes a BPS que correspondan; el monto no figura en la página consultada.
+  - Plazo o ciclo: Régimen permanente; el tope se calcula con la UI al 1 de enero de cada año. La página no informa fechas de ajuste de la cuota.
+  - Como postular: https://www.gub.uy/direccion-general-impositiva/tematica/iva-minimo
+  - Lectura automatica posible: No se vio API ni datos abiertos; páginas HTML.
+  - Aclaracion: La página del régimen indica que el tope de ingresos se mide con la unidad indexada vigente al 1 de enero; el ajuste anual de la cuota figura solo en una publicación vinculada.
+  - Aclaracion: La página del régimen no muestra el monto de la cuota ni explica el trámite de alta, y su fecha de actualización es 03/10/2023.
+- **Concentrix: búsqueda de empleos en Customer Service and Support (filtro de idioma español)** (sin verificar, verificada 1 vez) https://jobs.concentrix.com/job-search/
+  - Que es: Personas que busquen empleos de atención al cliente y soporte en una de las mayores empresas de contact center; tiene filtros por categoría 'Customer Service and Support' e idioma 'Spanish'. Sitio en español: https://jobs.concentrix.com/es/
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se pudo leer el listado de ofertas.
+  - Como postular: https://jobs.concentrix.com/job-search/
+  - Lectura automatica posible: No se vio API.
+  - Aclaracion: El buscador de empleos del sitio oficial devolvió un error de tamaño de contenido (más de 10 MB) y no se pudo comprobar ninguna oferta en Uruguay.
+  - Aclaracion: No se confirma que haya vacantes abiertas en Uruguay ni de atención en español.
+  - Aclaracion: Es una fuente no verificada: conviene comprobarla a mano en el buscador filtrando por país.

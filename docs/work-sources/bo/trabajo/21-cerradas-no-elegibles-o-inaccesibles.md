@@ -1,0 +1,145 @@
+# Cerradas, no elegibles o inaccesibles
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+Se dejan listadas para no volver a investigarlas.
+
+- **Hipermaxi (sitio oficial)** (no cargo) https://www.hipermaxi.com
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El sitio oficial exige una verificación anti-bot y no se confirmó ninguna página de empleo ni vía de postulación.
+  - Aclaracion: No debe asumirse que exista un formulario de empleo.
+- **Correos de Bolivia (AGBC) - sitio institucional** (no cargo) https://www.correos.gob.bo/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El sitio no mostró menú ni enlaces de empleo, por lo que no se confirmó ninguna convocatoria, ciclo ni vía de postulación.
+- **Computrabajo Bolivia (bolsa de trabajo, categoría conductor)** (no cargo) https://bo.computrabajo.com/trabajo-de-conductor
+  - Plazo o ciclo: sin datos (no se vieron avisos)
+  - Aclaracion: No se confirmaron avisos vigentes, empleadores ni fechas en esta categoría; su contenido está sin verificar.
+- **Soboce (cemento) - sitio oficial** (no cargo) https://www.soboce.com
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El sitio no cargó con ni sin www: error 'unable to verify the first certificate' (problema de certificado).
+  - Aclaracion: No se vio ninguna página de empleo ni vacante, y no hay otra URL oficial confirmada.
+- **Computrabajo Bolivia, empleos de hoteleria y turismo** (no cargo) https://bo.computrabajo.com/empleos-de-hoteleria-turismo
+  - Plazo o ciclo: sin datos
+  - Aclaracion: La página devolvió contenido vacío en dos intentos, por lo que no se pudo ver ningún aviso ni confirmar que esté vigente.
+  - Aclaracion: No debe presentarse como verificada; conviene probarla manualmente desde el navegador.
+- **Burger King Bolivia (sitio oficial)** (no cargo) https://burgerking.com.bo
+  - Plazo o ciclo: sin datos
+  - Aclaracion: En dos intentos solo se obtuvo el título 'Burger King Bolivia', sin enlaces ni texto, por lo que no se pudo confirmar ninguna sección de empleo ni de contacto.
+  - Aclaracion: No debe presentarse como fuente verificada; conviene revisar manualmente si existe un apartado 'Trabaja con nosotros'.
+- **PedidosYa Bolivia (reparto de comida y compras)** (no cargo) https://www.pedidosya.com.bo/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: No se confirma que haya registro abierto de repartidores en Bolivia; conviene verificar en el sitio o la app oficial.
+  - Aclaracion: No se halló una fuente oficial de registro para Bolivia; los reclamos de usuarios sobre fallos al registrarse en Santa Cruz no son información oficial.
+- **Workana (plataforma de freelancers en español)** (no cargo) https://www.workana.com/es/
+  - Plazo o ciclo: sin datos (se presume abierto todo el año, sin verificar)
+  - Aclaracion: No se verificó el registro desde Bolivia, ni las comisiones ni los requisitos de la plataforma.
+  - Aclaracion: Es una plataforma de trabajo freelance, no de empleo en relación de dependencia.
+- **Upwork (mercado global de freelancers)** (no cargo) https://www.upwork.com/
+  - Plazo o ciclo: sin datos (no verificado)
+  - Aclaracion: No se verificó el soporte para Bolivia, los requisitos ni las comisiones; debe confirmarse en el sitio oficial.
+  - Aclaracion: Es una plataforma de trabajo freelance, no de empleo en relación de dependencia.
+- **Fiverr (venta de servicios por encargo)** (no cargo) https://www.fiverr.com/
+  - Plazo o ciclo: sin datos (no verificado)
+  - Aclaracion: No se verificó el soporte para Bolivia, los requisitos ni las comisiones; debe confirmarse en el sitio oficial.
+  - Aclaracion: Es una plataforma de venta de servicios por encargo, no de empleo en relación de dependencia.
+- **Embol (Embotelladoras Bolivianas Unidas, Coca-Cola): página 'Trabaja con nosotros'** (no cargo) https://www.coca-cola.com/bo/es/about-us/contact-us
+  - Plazo o ciclo: sin datos
+  - Aclaracion: La página oficial de Coca-Cola Bolivia remite a esta URL como vía de empleo en Embol.
+  - Aclaracion: El dominio embol.com.bo no resolvió (error de DNS) con ni sin 'www', por lo que no se pudo ver su contenido.
+- **Viva (NuevaTel PCS de Bolivia): portal de reclutamiento en Nuevatel** (no cargo) sin datos
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El servidor rechazó la conexión (ECONNREFUSED) en el intento de carga.
+  - Aclaracion: No se vio ninguna convocatoria vigente ni se confirmó que el host sea el portal oficial de empleo de Viva.
+- **YPFB (casa matriz) - Explorando Nuevos Talentos y reestructuración de personal 2026** (no cargo) https://www.ypfb.gob.bo
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El sitio devolvió error HTTP 500 en dos consultas y no se vio ninguna convocatoria.
+  - Aclaracion: No se pudo confirmar el anuncio de reestructuración de abril de 2026 ni una nueva edición del programa.
+- **Boliviana de Aviación (BoA) - sitio oficial (convocatorias de personal)** (no cargo) https://www.boa.bo
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El sitio oficial no mostró contenido de empleo, por lo que no hay evidencia de una convocatoria abierta ni de un ciclo recurrente.
+  - Aclaracion: No debe listarse como fuente de empleo abierta hasta una verificación posterior.
+- **Gestora Pública de la Seguridad Social de Largo Plazo: aporte de asegurados independientes** (no cargo) https://www.gestora.bo/
+  - Plazo o ciclo: sin datos (se afirma aporte mensual abierto todo el año, sin confirmar)
+  - Aclaracion: El sitio devolvió HTTP 403, por lo que no se vio contenido sobre asegurados independientes, montos ni requisitos.
+  - Aclaracion: La afirmación de un aporte mensual permanente no está verificada.
+- **La Paz: licencia de funcionamiento sin inspección (patente municipal)** (no cargo) https://lapaz.bo/wp-content/uploads/2025/01/5-Licencia-de-funcionamiento-sin-inspeccion.pdf
+  - Plazo o ciclo: Trámite abierto; pago de patente anual (según resumen de búsqueda, no confirmado en el PDF)
+  - Aclaracion: El PDF no cargó (conexión rechazada), por lo que no se confirmó su contenido ni la lista completa de requisitos.
+  - Aclaracion: Según un resumen de búsqueda, el trámite dura de 2 a 4 días hábiles y se gestiona en la plataforma virtual iGob 24/7 (igob247.lapaz.bo) o en plataformas presenciales, donde la licencia se descarga e imprime.
+- **Banco Central de Bolivia - Convocatorias de personal y Jóvenes BCB** (no cargo) https://www.bcb.gob.bo
+  - Plazo o ciclo: sin datos. No se pudo cargar ninguna página de registros.bcb.gob.bo.
+  - Aclaracion: El subdominio registros.bcb.gob.bo devolvió el error 'unable to verify the first certificate', por lo que no se cargó su contenido.
+  - Aclaracion: La existencia del programa Jóvenes BCB solo está confirmada como enlace, no sus requisitos, pagos ni ciclo; la ruta de convocatorias parece una página de resultados y no de convocatorias abiertas.
+- **Tigo Bolivia (Millicom) - empleo y atención al cliente** (no cargo) https://www.tigo.com.bo/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: No se confirmó una página oficial de empleo de Tigo Bolivia; el sitio devolvió HTTP 403 y las búsquedas arrojaron resultados de Tigo Colombia.
+  - Aclaracion: La única referencia indirecta es una nota de eju.tv (27 de mayo de 2022) sobre el programa de pasantías Gen-T, con convenios con UCB, UTEPSA y UPDS; no hay evidencia de que siga vigente en 2026.
+- **Portal de apostilla de Bolivia (documentos para trabajar o residir en el exterior)** (no cargo) https://apostilla.rree.gob.bo/
+  - Plazo o ciclo: sin datos (se reclama permanente, pero no pudo verificarse)
+  - Aclaracion: El sitio respondió HTTP 403 y no se pudo ver contenido alguno; no se confirma el procedimiento, los requisitos, los costos ni si el trámite es en línea.
+  - Aclaracion: El bloqueo puede deberse a restricciones frente a clientes automatizados y no implica que el portal no exista.
+- **Atento - Work with us** (no elegible) https://atento.com/en/work-with-us/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: Bolivia no figura entre los países disponibles (Argentina, Brasil, Chile, Colombia, El Salvador, Guatemala, Marruecos, México, Perú, Puerto Rico, Estados Unidos y Uruguay).
+  - Aclaracion: No hay buscador de vacantes: se elige el país y el equipo de Atento contacta al postulante cuando surge una vacante adecuada.
+- **ABC: Oportunidades de empleo (Administradora Boliviana de Carreteras)** (cerrada) http://www.abc.gob.bo/oportunidad-de-empleo/
+  - Plazo o ciclo: Sin convocatorias abiertas al 2026-11-23: la página dice 'Actualmente no existen convocatorias disponibles'. No se vio ciclo anual ni fecha de cierre.
+  - Aclaracion: Página oficial vigente, sin convocatoria abierta; sirve como canal permanente para revisar si se publica alguna.
+  - Aclaracion: Contacto que figura en el sitio: teléfono (591-2) 2159800 y correo abc@abc.gob.bo.
+- **Sistema Nacional de Residencia Médica 2026 (CNIDAI, Ministerio de Salud y Deportes)** (cerrada) https://www.minsalud.gob.bo/publicaciones-cnidaiic/8842-sistema-nacional-de-residencia-medica-2026
+  - Plazo o ciclo: Anual. La gestión 2026 ya tuvo examen (Cirugía Maxilofacial, 11 de abril de 2026), aviso de aprobados del 01/04/2026 y resultados publicados; no hay indicio de postulación abierta al 2026-11-23. Se espera la convocatoria de la gestión siguiente (fecha no vista).
+  - Aclaracion: La página no indica si la inscripción sigue abierta, pero la etapa de examen de la gestión 2026 ya pasó.
+  - Aclaracion: El sistema A.I.G.I. 2026 (aigi.minsalud.gob.bo) figura enlazado, aunque no se confirma que sea el portal de postulación.
+- **UGESPRO (Ministerio de Salud y Deportes): Convocatorias de consultoría individual de línea** (cerrada) https://www.minsalud.gob.bo/contrataciones/convocatorias/convocatorias-publicas-ugespro
+  - Plazo o ciclo: Las únicas convocatorias vistas son MSyD/UGESPRO/CM-006/2025 y CM-007/2025, con cierre el 22/10/2025 (pie de página 'La Paz, octubre de 2025'). Ninguna con fecha 2026. No hay indicio de repetición anual.
+  - Aclaracion: Las dos convocatorias vistas fueron de Contratación Menor para consultoría individual de línea (Coordinador Técnico y Profesional en Gestión Hospitalaria y Redes de Salud).
+  - Aclaracion: La propuesta se presentaba en sobre cerrado en UGESPRO, Piso 3, Edificio Víctor N° 342, Calle Fernando Guachalla, La Paz; consultas a los teléfonos 73470991 y 73219724.
+- **Paquete de 17.000 becas 2026 (10.000 tecnológicas con IBM, Google, AWS, Oracle y PMI)** (cerrada) https://www.minedu.gob.bo
+  - Plazo o ciclo: Inscripción del 1 al 20 de febrero de 2026 con clases desde el 10 de marzo de 2026 (ya cerrada). Sin edición nueva vista.
+  - Aclaracion: La nota no da enlace ni requisitos; la inscripción fue por el Ministerio de Educación.
+  - Aclaracion: La página de minedu.gob.bo consultada no menciona estas becas tecnológicas.
+- **Programa Mi Primer Empleo Digno (MPED): histórico, sin convocatoria vigente confirmada** (cerrada) https://www.udape.gob.bo/archivos/289469
+  - Plazo o ciclo: Histórico. El documento de UDAPE (diciembre de 2016) corresponde a una evaluación de impacto de las cohortes 2012-2013 y no describe una convocatoria vigente.
+  - Aclaracion: Es un programa histórico: no hay evidencia de edición vigente en 2026.
+  - Aclaracion: No debe usarse como ruta de postulación.
+- **Vías Bolivia (Administradora de Peaje y Pesaje) - Oportunidades de empleo** (cerrada) https://www.viasbolivia.gob.bo/index.php/oportunidad-de-empleo/
+  - Plazo o ciclo: La única convocatoria vista (7 puestos eventuales de Recaudador, Pesador y Gestor de Pesaje) cerró el 01/12/2025, antes de 2026. No se vio una convocatoria vigente a 2026-11-23; podría haber requerimientos regionales recurrentes, pero no se pudieron confirmar (búsqueda web no disponible).
+  - Aclaracion: La página incluye convocatoria pública en PDF, formulario de currículum en blanco, requisitos por cargo en PDF y enlace al SICOES.
+  - Aclaracion: Contactos oficiales: contacto.vias@viasbolivia.gob.bo y línea gratuita 800-10-8427.
+- **GAM El Alto - Tablero de anuncios (convocatoria de pasantías, junio de 2026)** (cerrada) https://elalto.gob.bo
+  - Plazo o ciclo: Aviso del 01-06-2026; sin fecha de cierre publicada. El tablero indica 'Sin avisos vigentes'. Ciclo anual: sin datos.
+  - Aclaracion: El afiche del aviso (https://elalto.gob.bo/wp-content/uploads/2026/06/AFICHE-PASANTIAS.webp) se basa en la Ley Municipal 087 y el Decreto Municipal 075 (modificado por los DM 101 y 141).
+  - Aclaracion: No se vio ninguna convocatoria de personal; el tablero indica 'Sin avisos vigentes'.
+- **UMSA: Beca Google Career Launchpad 2026 (con Ministerio de Educacion)** (cerrada) https://umsa.bo/web/guest/becas-google
+  - Plazo o ciclo: Cerro el 10 de noviembre de 2026 a las 16:30, plazo 'impostergable'. No se vio indicio de repeticion.
+  - Aclaracion: La convocatoria de la UMSA ya venció.
+  - Aclaracion: Una nota de prensa (Correo del Sur, 26/08/2026) informa que el Gobierno lanzó más de 5.000 becas Google Career Launchpad para jóvenes desde 18 años, por lo que otras universidades o el Ministerio de Educación podrían tener cupos; esto no se confirmó en una página oficial.
+- **Fortalecimiento de Unidades Productivas Lideradas por Mujeres (KOICA, ONU Mujeres y Viceministerio de la Micro, Pequeña Empresa y Artesanía)** (cerrada) https://produccion.gob.bo/nota_prensa/gobierno-koica-y-onu-mujeres-entregan-mas-de-bs-18-millones-en-equipos-a-emprendedoras-crucenas-para-fortalecer-sus-unidades-productivas/
+  - Plazo o ciclo: Sin convocatoria abierta; la nota es del 15 de agosto de 2026 y describe una entrega de equipos ya realizada
+  - Aclaracion: No sirve como vía de postulación: la nota describe una entrega de equipos ya realizada y no menciona convocatoria ni plazos.
+  - Aclaracion: Para saber si habrá una nueva fase, corresponde consultar al Viceministerio.
+- **Programa BOL-38 Fase II (empleo en obras municipales de enlosetado), FPS** (cerrada) https://produccion.gob.bo/nota_prensa/el-presidente-rodrigo-paz-lanza-la-segunda-fase-del-programa-bol-38-con-una-inversion-de-us-927-millones-para-reactivar-el-empleo-en-el-pais/
+  - Plazo o ciclo: Lanzado el 24 de agosto de 2026 (nota del 25 de agosto). El plazo para que los municipios presentaran carpetas al FPS fue el 14 de septiembre de 2026 y ya venció. No se vio una vía de postulación individual.
+  - Aclaracion: La nota no describe cómo se contrata a las personas; lo más probable es que la contratación pase por el municipio o la empresa constructora de cada obra, aunque no está confirmado.
+  - Aclaracion: El empleo surge de las obras de enlosetado y de las pymes proveedoras de materiales.
+- **OIM Bolivia (Organización Internacional para las Migraciones)** (cerrada) https://bolivia.iom.int/vacantes
+  - Plazo o ciclo: Sin vacantes al 2026-11-23 (la página de vacantes dice 'Sin vacantes actualmente'); no se vio un ciclo anual
+  - Aclaracion: La página de vacantes enlaza al portal externo de reclutamiento de la OIM.
+  - Aclaracion: La sección «Contratación» corresponde a licitaciones y adquisiciones, no a empleo.
+- **Pollos Copacabana: Trabaja con nosotros (convocatorias)** (cerrada) https://www.polloscopacabana.com/trabaja-con-nosotros
+  - Plazo o ciclo: Sin convocatorias abiertas al 2026-11-23. Las dos listadas figuran como VENCIDAS: Personal de Cocina (Ref. GTH/25/LPZ, 22 ago al 22 nov 2025) y Pasante Comercial (8 al 20 ago 2025). No se vio evidencia de ciclo anual.
+  - Aclaracion: Los requisitos y el modo de postulación de las convocatorias vencidas no aparecen en el listado.
+  - Aclaracion: Se recomienda seguir las redes oficiales de la empresa (Facebook e Instagram, según la página).
+- **CEMSE Bolivia: Convocatorias (consultorías y adquisiciones)** (cerrada) https://cemse.edu.bo/convocatorias/
+  - Plazo o ciclo: Las tres convocatorias vistas están cerradas al 23/11/2026: Consultoría Área Económica (Cochabamba, cierre lunes 2 de noviembre de 2026), y dos adquisiciones de refrigerio (agosto de 2026). La entidad publica convocatorias de forma intermitente según los proyectos, pero no se vio un ciclo anual fijo.
+  - Aclaracion: Conviene postular solo a los correos @cemse.edu.bo publicados en la página oficial.
+  - Aclaracion: No se vio advertencia de fraude en la página.
+- **CEPB: Capacitaciones (cursos para emprendedores y mipymes)** (cerrada) https://www.cepb.org.bo/capacitaciones/
+  - Plazo o ciclo: La lista llega hasta julio de 2024 (fechas de enero a julio inferidas de las imágenes) y todas figuran con inscripción cerrada. No se vio ninguna oferta de 2025 ni de 2026.
+  - Aclaracion: No hay oferta vigente en esta página; la plataforma e-Campus puede tener cursos disponibles.
+  - Aclaracion: Contacto: cepb@cepb.org.bo, teléfonos +591 2 2420999 y 2 2421272, Calle Méndez Arcos N.º 117 (Plaza España), La Paz.
+- **Ministerio de Minería y Metalurgia: Oportunidades de Empleo y comunicados de convocatorias COMIBOL** (cerrada) https://www.mineria.gob.bo/index.php/oportunidad-de-empleo/
+  - Plazo o ciclo: Sin convocatoria abierta al 23/11/2026. La tabla 'Oportunidad de Empleo' muestra 'No se encontraron registros'. La 'Convocatoria Personal' del 09/10/2026 cerró el 13/10/2026 a las 12:00. La 'Cuarta Convocatoria COMIBOL' del 28/09/2026 no es de empleo y cerró el 12/10/2026 a las 10:00. Las convocatorias de personal son esporádicas, sin ciclo anual visto.
+  - Aclaracion: La 'Cuarta Convocatoria COMIBOL' no es una oferta de empleo: es la convocatoria EMCC-VC-004/2026 de la Empresa Minera Corocoro para comercializar 1.700 TM de cátodos de cobre, dirigida a empresas legalmente constituidas.
+  - Aclaracion: Los enlaces 'Ver comunicado' de la portada llevan a '#', pero los PDF existen en el listado de comunicados del sitio.

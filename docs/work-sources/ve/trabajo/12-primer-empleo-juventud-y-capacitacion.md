@@ -1,0 +1,68 @@
+# Primer empleo, juventud y capacitacion
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **INCES - Bachillerato Productivo (bachillerato con certificado en un oficio)** (abierta o vigente, verificada 2 veces) https://inces.gob.ve/bachillerato/
+  - Que es: Personas de 15 años o más que quieren obtener el título de bachiller y a la vez un certificado INCES en un oficio productivo; la formación laboral se cursa junto con las materias regulares.
+  - Requisitos: Tener 15 años o más y llevar al menos un año fuera del sistema educativo regular. No se exige experiencia laboral. Documentos exigidos: no se vieron.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No se vio pago ni beca; no se vio costo de inscripción
+  - Plazo o ciclo: La página no publica fechas, calendario, convocatoria ni pasos de inscripción (consulta del 2026-11-23).
+  - Como postular: https://registro-pbp.inces.gob.ve
+  - Lectura automatica posible: no
+  - Aclaracion: La página no trata la inscripción: no indica cómo ni cuándo inscribirse y remite al mapa de sedes, a las noticias y al catálogo de formación.
+  - Aclaracion: No se vio calendario ni convocatoria con fechas, por lo que una inscripción permanente en línea no está confirmada.
+  - Aclaracion: Conviene usar únicamente los dominios inces.gob.ve e inces.edu.ve y no pagar a intermediarios.
+- **UCAB - Beca Trabajo y Cooperador Estudiantil (trabajo universitario pagado o subsidiado)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.ucab.edu.ve/informacion-institucional/unidades-de-apoyo/direccion-de-cooperacion-economica-estudiantil/apoyo-economico-al-estudiante/
+  - Que es: Estudiantes de la UCAB con necesidad económica comprobada. Beca Trabajo: subsidio de matrícula a cambio de al menos 20 horas semanales en una unidad de la universidad. Cooperador Estudiantil: pago por hora en proyectos de la universidad (tope de 20 horas semanales), con experiencia afín a la carrera.
+  - Requisitos: Ser estudiante regular inscrito en el semestre vigente, haber completado el Registro Estudiantil, haber aprobado las materias del semestre anterior y estar solvente. Beca Trabajo: 3.er semestre o superior y necesidad socioeconómica documentada. Cooperador Estudiantil: quienes ya reciben apoyo deben tener menos de 60 % de cobertura. Exige pertenecer a la UCAB.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Beca Trabajo: subsidio de matrícula (no efectivo). Cooperador Estudiantil: pago por hora, monto no indicado.
+  - Plazo o ciclo: La página indica que entre mayo y junio de cada año se aplica al Proceso General de Solicitud de Apoyo Económico; no da fechas exactas.
+  - Como postular: https://www.ucab.edu.ve/informacion-institucional/unidades-de-apoyo/direccion-de-cooperacion-economica-estudiantil/apoyo-economico-al-estudiante/
+  - Lectura automatica posible: no
+  - Aclaracion: La ventana de mayo a junio corresponde al proceso general de solicitud de apoyo económico, requisito para mantener la beca, y la renovación es semestral y depende de la evaluación de desempeño de la unidad.
+  - Aclaracion: La página no publica ventana para nuevos solicitantes: se postula a una vacante en una unidad de la universidad, con entrevista y selección según disponibilidad.
+  - Aclaracion: Cooperador Estudiantil no tiene ciclo, meses ni procedimiento publicados.
+  - Aclaracion: Solo pueden participar estudiantes regulares de la UCAB.
+- **Fe y Alegría Venezuela - Capacitación e inserción laboral** (sin verificar, verificada 1 vez) https://www.feyalegria.org/venezuela/capacitacion/
+  - Que es: Jóvenes y adultos. Cursos presenciales de 120 horas en uñas, repostería, panadería, alimentos, barbería, peluquería, corte y costura, soldadura, herrería, carpintería, refrigeración, electrodomésticos, instalaciones, soporte técnico, ofimática, contabilidad, farmacia y logística de almacén; curso de Excel a distancia. Incluye formación socioemocional, de emprendimiento y de empleabilidad, con acompañamiento a emprendedores.
+  - Requisitos: sin datos (la página no indica edad, documentos ni nivel educativo)
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no se vio costo ni beca)
+  - Plazo o ciclo: sin datos (no se vieron fechas de inicio ni cohortes vigentes)
+  - Como postular: https://www.feyalegria.org/venezuela/capacitacion/
+  - Lectura automatica posible: no
+  - Aclaracion: La postulación se hace únicamente por WhatsApp: +58 424-8931627 para cursos presenciales y +58 412-1748950 para el curso a distancia.
+  - Aclaracion: No se confirmó que haya cupos abiertos actualmente; el enlace de inserción laboral aparece en el menú sin contenido visible.
+  - Aclaracion: Las cifras de participantes, procesos y centros son de la propia página y no tienen fecha.
+  - Aclaracion: Cualquier cobro o pago debe hacerse solo por los canales oficiales de la institución.
+- **Conecta Empleo - Fundación Telefónica Movistar (formación digital gratuita)** (sin verificar, verificada 1 vez) https://www.fundaciontelefonica.com.ve/empleabilidad/
+  - Que es: Según la página: mayores de 18 años que quieran trabajar en el mundo digital o reinventar su carrera. Una nota de octubre de 2021 describe más de 19 cursos en línea de 20 a 40 horas (big data, inteligencia artificial, internet de las cosas, ciberseguridad, emprendimiento social, marketing digital) en alianza con el INCES.
+  - Requisitos: Mayores de 18 años según la página de empleabilidad; sin requisito de experiencia visto; otros requisitos: sin datos
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (se describe como formación gratuita, pero el costo no se confirmó en la página vista)
+  - Plazo o ciclo: sin datos (sin fechas; no se pudo ver ningún curso concreto)
+  - Como postular: https://www.fundaciontelefonica.com.ve/empleabilidad/
+  - Lectura automatica posible: no
+  - Aclaracion: No se pudo confirmar que el programa esté activo en 2026: la dirección de Conecta Empleo para Venezuela redirige a una página que devuelve error 404.
+  - Aclaracion: La descripción de los cursos proviene de una nota de octubre de 2021 y el costo de la formación gratuita no se confirmó en la página vista.
+- **Universidad Metropolitana (Unimet) - Career Center y pasantías** (sin verificar, verificada 1 vez) https://careercenter.unimet.edu.ve/
+  - Que es: Estudiantes y egresados de la Unimet (secciones separadas para estudiantes, egresados y empresas); conecta con pasantías, ofertas laborales y recursos para armar currículo, carta de presentación y entrevistas. No está confirmado que lo pueda usar el público general.
+  - Requisitos: Probablemente vinculación con Unimet (estudiante o egresado); no confirmado en la página
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://careercenter.unimet.edu.ve/
+  - Lectura automatica posible: no
+  - Aclaracion: Es un canal dirigido a la comunidad Unimet; no se confirmó si personas externas a la universidad pueden usarlo.
+  - Aclaracion: La página de inicio no indica requisitos, fechas ni pasos para las pasantías.
+- **Ministerio del Poder Popular para la Juventud y el Deporte (Minjuventud) - portal institucional** (sin verificar, verificada 1 vez) https://www.minjuventud.gob.ve/
+  - Que es: Jóvenes en general. La portada ofrece 'Participa al 23/11/2026' (mesas de trabajo juveniles y propuestas de proyectos), un voluntariado por medio de reuniones y actividades del ministerio, y noticias de formación (por ejemplo, encuentro con juventud campesina y agrourbana, y la Escuela Internacional de Liderazgo Antonio José de Sucre).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se vio ninguna convocatoria de empleo, beca ni capacitación con fechas)
+  - Como postular: https://www.minjuventud.gob.ve/
+  - Lectura automatica posible: no
+  - Aclaracion: No se vio ningún programa de empleo, capacitación o subsidio con requisitos o fechas; no se confirmó ninguna vía de empleo.
+  - Aclaracion: La sección «Impulso económico» no muestra enlace ni descripción visibles.

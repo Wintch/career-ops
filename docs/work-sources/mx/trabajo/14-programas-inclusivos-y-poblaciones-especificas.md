@@ -1,0 +1,66 @@
+# Programas inclusivos y poblaciones especificas
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Servicio Nacional de Empleo (SNE) de la STPS** (abierta o vigente, verificada 2 veces) https://www.gob.mx/stps/acciones-y-programas/servicio-nacional-de-empleo-99031
+  - Que es: Cualquier persona que busque empleo formal en México o en el extranjero; la página indica que promueve la inclusión laboral de personas con mayores barreras para acceder a un trabajo digno.
+  - Requisitos: No se especifican en la página principal; se remite al listado de servicios y a las oficinas. No se indica experiencia, edad ni escolaridad mínimas, y el servicio incluye a personas con mayores barreras de acceso al trabajo digno.
+  - Pago o beneficio: Sin costo: la atención es gratuita y personalizada. No es un empleo; es intermediación laboral.
+  - Plazo o ciclo: Abierto todo el año (servicio permanente; la página principal es de octubre de 2022 y sus publicaciones más recientes, de enero de 2026)
+  - Como postular: https://www.empleo.gob.mx/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un servicio de intermediación laboral, no un empleo; la atención es gratuita.
+  - Aclaracion: Ofrece vinculación y movilidad laboral en México o el extranjero, con más de 160 oficinas y directorio enlazado; línea telefónica 800 841 2020.
+  - Aclaracion: El estado de la convocatoria de Jóvenes Construyendo el Futuro, cuyos materiales enlaza, no está verificado.
+- **Directorio de oficinas del Servicio Nacional de Empleo (PDF, noviembre 2026)** (abierta o vigente, verificada 2 veces) https://www.gob.mx/stps/documentos/directorio-de-las-oficinas-del-servicio-nacional-de-empleo
+  - Que es: Quien necesite ubicar la oficina del SNE de su estado para recibir atención presencial gratuita.
+  - Requisitos: Sin requisitos; es un directorio de consulta con las oficinas estatales del Servicio Nacional de Empleo.
+  - Pago o beneficio: Sin costo
+  - Plazo o ciclo: Abierto todo el año; documento actualizado el 5 de noviembre de 2026
+  - Como postular: https://www.gob.mx/cms/uploads/attachment/file/1116556/DIRECTORIO_SNE_2026_11.pdf
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Sirve para ubicar la oficina estatal del SNE más cercana; el directorio es un PDF.
+  - Aclaracion: El documento no describe los servicios de cada oficina.
+- **Constancia de repatriación y México te abraza (INM)** (abierta o vigente, verificada 2 veces) https://www.gob.mx/inm/acciones-y-programas/programa-de-repatriacion-12469
+  - Que es: Personas mexicanas que regresan al país tras vivir en el extranjero, de forma voluntaria o por repatriación.
+  - Requisitos: Personas mexicanas que regresan al país tras vivir en el extranjero, de forma voluntaria o por repatriación. La página no lista documentos ni requisitos formales. La constancia no sustituye documentos de identidad.
+  - Pago o beneficio: Sin costo; son servicios gratuitos. No es un empleo ni una beca
+  - Plazo o ciclo: Fecha visible: 5 de octubre de 2022; sin fechas de cierre. Contacto de la página: attrepatriadascdmx@inami.gob.mx.
+  - Como postular: https://www.gob.mx/inm/acciones-y-programas/programa-de-repatriacion-12469
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una vía de apoyo para el regreso al país, no una oferta laboral directa.
+  - Aclaracion: Se solicita en los 11 módulos de repatriación del INM en Baja California, Sonora, Chihuahua, Coahuila y Tamaulipas, o en las oficinas de enlace de cada estado.
+  - Aclaracion: La fecha visible de la página es el 5 de octubre de 2022, por lo que la información puede no estar actualizada.
+- **Distintivo Empresa Incluyente Gilberto Rincón Gallardo (DEI)** (sin verificar, verificada 1 vez) https://www.gob.mx/stps/acciones-y-programas/distintivos-que-otorga-la-secretaria-del-trabajo-y-prevision-social
+  - Que es: Dirigido a empleadores (empresas, cámaras, instituciones académicas, organizaciones de la sociedad civil y dependencias públicas), no a buscadores de empleo. Sirve como referencia: las organizaciones con el distintivo practican políticas de inclusión laboral de personas en situación de vulnerabilidad.
+  - Requisitos: Dirigido a empresas, cámaras, instituciones académicas, organizaciones civiles y órganos públicos con políticas laborales incluyentes; no es una vía de empleo para personas que buscan trabajo.
+  - Pago o beneficio: No aplica: es un reconocimiento para empleadores, sin sueldo ni apoyo económico a personas
+  - Plazo o ciclo: Desconocido; la página enlazada corresponde a la edición 2019 (fechada el 30 de marzo de 2020) y no confirma convocatoria vigente en 2026
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un reconocimiento para empleadores, no una vía de empleo para quienes buscan trabajo.
+  - Aclaracion: La página enlazada corresponde a la edición 2019 y no confirma una convocatoria vigente en 2026.
+  - Aclaracion: El enlace de registro (distintivos.stps.gob.mx) no resolvió por un error de DNS y no se confirmó otra URL oficial.
+  - Aclaracion: Correo de contacto en la página: empresa.incluyente@stps.gob.mx.
+- **INM: trámites migratorios y permisos para personas extranjeras** (sin verificar, verificada 1 vez) https://www.gob.mx/inm
+  - Que es: Personas extranjeras que necesitan regularizar su estancia y, con ello, su situación para trabajar; la COMAR remite a esta autoridad para documentos y permisos.
+  - Requisitos: No confirmados: ni la página principal ni la de 'Qué hacemos' enumeran trámites, permisos de trabajo ni requisitos para personas extranjeras.
+  - Pago o beneficio: Desconocido; no se vieron costos
+  - Plazo o ciclo: Desconocido; la página principal no muestra trámites ni fechas, y la búsqueda web para localizar la ficha específica no estuvo disponible
+  - Como postular: https://www.gob.mx/tramites
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página principal del INM solo describe la misión institucional y no enumera trámites, permisos de trabajo ni requisitos.
+  - Aclaracion: Los trámites se enlazan desde la sección Trámites de gob.mx; contacto publicado: cam@inami.gob.mx.
+  - Aclaracion: No conviene listarla como fuente de empleo hasta confirmar la ficha de trámite concreta y sus requisitos.
+- **INPI: programas para pueblos indígenas (PROBIPI y PAEI, Reglas de Operación 2026)** (sin verificar, verificada 1 vez) https://www.gob.mx/inpi/articulos/reglas-de-operacion-de-los-programas-a-cargo-del-instituto-nacional-de-los-pueblos-indigenas-2026
+  - Que es: Comunidades, pueblos y personas indígenas y afromexicanas; PROBIPI incluye apoyo a proyectos de economías indígenas y a las Casas de la Mujer Indígena y Afromexicana; PAEI se orienta a educación indígena.
+  - Requisitos: sin datos en la página; los criterios y documentos están en los PDF enlazados (guías de proyecto, anexos de PAEI, convocatoria de Casas). La página indica que la participación es gratuita y advierte no entregar dinero a nadie. Se dirige a pueblos y comunidades indígenas, no es una bolsa de empleo.
+  - Pago o beneficio: sin datos (la página no indica montos para PROBIPI ni PAEI)
+  - Plazo o ciclo: Reglas de Operación 2026 publicadas en el DOF el 31 de diciembre de 2025. La convocatoria de Casas de la Mujer Indígena y Afromexicana 2026 cerró el 11 de febrero de 2026. No se vio ninguna convocatoria abierta al 2026-11-23; ciclo anual no confirmado.
+  - Como postular: https://tramites.inpi.gob.mx
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una fuente de apoyo a proyectos comunitarios y educación indígena, no una bolsa de empleo.
+  - Aclaracion: La convocatoria de Casas de la Mujer Indígena y Afromexicana 2026 cerró el 11 de febrero de 2026.
+  - Aclaracion: La página indica que la participación es gratuita y advierte no entregar dinero a nadie.
+  - Aclaracion: Los trámites se hacen en tramites.inpi.gob.mx o en la oficina regional del INPI más cercana; los criterios y montos están en PDF enlazados.

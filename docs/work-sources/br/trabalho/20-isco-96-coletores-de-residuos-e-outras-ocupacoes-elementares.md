@@ -1,0 +1,77 @@
+# Grupo 96: Coletores de resíduos e outras ocupações elementares
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Estre Ambiental - Trabalhe conosco (coleta, varrição e limpeza pública; vagas no Vagas.com)** (aberta ou vigente, verificada 2 vezes) https://estre.com.br/contato/trabalhe-conosco/
+  - O que é: Candidatos a vagas nas operações da empresa, que atua em coleta, varrição e limpeza pública. Quais cargos estão abertos não foi visto.
+  - Requisitos: Não listados na página. Experiência exigida: sem dados (depende de cada vaga).
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto o ano todo (cadastro de currículo); sem data de abertura ou encerramento na página.
+  - Como se candidatar: https://site.vagas.com.br/estre
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página oficial manda cadastrar o currículo e consultar as vagas na página da empresa no Vagas.com (site.vagas.com.br/estre).
+  - Esclarecimento: Vagas específicas, cargos e locais não foram confirmados.
+  - Esclarecimento: A página lista um link de relatório de transparência salarial, cujo conteúdo não foi visto.
+- **Loga - Trabalhe conosco (coleta de resíduos, recicláveis e aterros)** (aberta ou vigente, verificada 2 vezes) https://www.loga.com.br/fale-com-a-loga/trabalhe-conosco/
+  - O que é: Candidatos a vagas na empresa, cujos serviços incluem coleta comum, coleta de recicláveis e aterros. A página diz que as oportunidades são extensivas a pessoas com deficiência.
+  - Requisitos: Não listados; apenas a frase de que candidatos que atendem aos requisitos de cada vaga serão considerados. Experiência exigida: sem dados.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto o ano todo (envio de currículo); sem prazo na página.
+  - Como se candidatar: sem dados (o link do Infojobs existe na página, mas o endereço exato não foi visto)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página oficial não lista vagas específicas; o link "Envie seu currículo aqui" leva à página da empresa no Infojobs.
+  - Esclarecimento: Cargos e locais das vagas não foram confirmados.
+  - Esclarecimento: A página afirma que os candidatos que atendem aos requisitos são considerados sem discriminação e que as oportunidades estão abertas a pessoas com deficiência.
+- **Grupo Marquise / Marquise Ambiental - Trabalhe conosco (vagas administrativas na Gupy e vagas operacionais em portal próprio)** (aberta ou vigente, verificada 2 vezes) https://www.marquiseambiental.com.br/trabalhe-conosco/
+  - O que é: Candidatos a vagas da empresa de serviços ambientais, com dois caminhos: administrativas e operacionais.
+  - Requisitos: Não listados na página inicial. Em geral variam por vaga; experiência exigida: sem dados. Não foi confirmado se há vagas sem exigência de experiência.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto o ano todo; o portal Gupy mostrava 19 vagas em 2026-11-23, sem datas de encerramento vistas.
+  - Como se candidatar: https://grupomarquise.gupy.io
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Há duas rotas: vagas administrativas na Gupy (grupomarquise.gupy.io) e vagas operacionais em portal separado, cujo conteúdo não foi verificado.
+  - Esclarecimento: As 10 vagas vistas na Gupy (de 19) eram efetivas e administrativas, fiscais, de infraestrutura e de marketing, em Fortaleza (CE), Taubaté (SP) e São Paulo (SP).
+  - Esclarecimento: Nenhuma vaga operacional foi vista.
+- **Grupo Solví - Trabalhe conosco (vagas na Gupy)** (aberta ou vigente, verificada 2 vezes) https://www.solvi.com/trabalhe-conosco
+  - O que é: Candidatos a vagas e ao banco de talentos do grupo, que também tem programas de estágio e trainee. No portal só apareceram vagas administrativas na consulta.
+  - Requisitos: Não listados na página. Os cargos vistos são de nível administrativo, técnico e estágio; experiência exigida: sem dados.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Contínuo, com banco de talentos aberto; o portal Gupy mostrava 12 vagas em 2026-11-23.
+  - Como se candidatar: https://solvi.gupy.io
+  - Leitura automática possível: sem dados
+  - Esclarecimento: As 10 vagas vistas (de 12) eram todas em São Paulo (SP), nas áreas contábil, fiscal, de dados e administrativa, além de dois bancos de talentos de estágio (Direito e Engenharias, nível Brasil).
+  - Esclarecimento: Nenhuma vaga operacional ou de campo foi vista.
+  - Esclarecimento: Contato geral listado: comunicacao@solvi.com.
+- **Sebrae - Projeto Pró-Catadores (capacitação e consultoria a cooperativas e associações de catadores)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://agenciasebrae.com.br/cultura-empreendedora/pro-catadores-ganha-mais-reforco-em-2026/
+  - O que é: Cooperativas e associações de catadores de materiais recicláveis. A matéria também menciona a capacitação de catadores, sem detalhar se entram individualmente.
+  - Requisitos: Ser cooperativa ou associação de catadores; critérios detalhados e documentação exigida não vistos. Sem exigência de experiência individual mencionada.
+  - Pagamento ou benefício: Sem remuneração; é capacitação e consultoria. Custo para os participantes não mencionado na matéria.
+  - Prazo ou ciclo: Ciclo anual: primeiro ano em 2025 e novo ciclo em 2026, ainda pendente de aprovação na matéria de 30/03/2026 (ao menos 21 estados interessados, dependendo de documentação e prazos). Aprovação final não confirmada.
+  - Como se candidatar: sem dados (contato pelo Sebrae do estado)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O público são cooperativas e associações de catadores, e não pessoas físicas procurando vaga.
+  - Esclarecimento: A fonte é uma notícia da Agência Sebrae, e não a página oficial de inscrição; ela não descreve como aderir e remete aos canais de contato do Sebrae.
+  - Esclarecimento: Em 2025, o projeto atendeu 421 organizações, cerca de 6 mil catadores, em 18 estados.
+  - Esclarecimento: O novo ciclo de 2026 dependia de aprovação, e a aprovação final não foi confirmada.
+- **Cataki - aplicativo que conecta catadores de recicláveis a quem gera resíduos** (não verificada, verificada 1 vez) https://www.cataki.org
+  - O que é: Catadores e profissionais da reciclagem que queiram ser encontrados por pessoas e empresas que geram resíduos recicláveis.
+  - Requisitos: Nenhum requisito listado na página inspecionada (nem experiência nem escolaridade).
+  - Pagamento ou benefício: Pago diretamente por quem solicita a coleta, valor combinado entre as partes; valores não vistos.
+  - Prazo ou ciclo: Contínuo segundo a descrição do site, sem data; o funcionamento atual não pôde ser confirmado por data.
+  - Como se candidatar: sem dados (o link 'Cadastre um catador' existe na página, destino não visto)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não é emprego formal; é uma plataforma de captação de serviços, de projeto aberto, colaborativo e sem fins lucrativos.
+  - Esclarecimento: Há um link "Cadastre um catador", mas a página não explica o passo a passo do cadastro.
+  - Esclarecimento: Não foi vista nenhuma taxa para o catador.
+  - Esclarecimento: O funcionamento atual não pôde ser confirmado por data.
+- **Programa Pró-Catador (Secretaria-Geral da Presidência) - iniciativas, editais e adesão** (não verificada, verificada 1 vez) https://www.gov.br/secretariageral/pt-br/procatador
+  - O que é: Catadoras e catadores de materiais recicláveis, autônomos e em cooperativas. A adesão ao programa é de governos estaduais, municipais, distrital e consórcios, não de pessoas físicas.
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados. A página mostra a Chamada 003/2026: Mobilidade Sustentável de Catadoras como a única chamada em destaque (URL com data de junho de 2026), mas sem prazo.
+  - Como se candidatar: sem dados
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É um portal institucional, e não uma página de vagas de emprego; o público do programa é de catadores e suas organizações.
+  - Esclarecimento: Prazo, requisitos e forma de inscrição da Chamada 003/2026 não aparecem na página, e o texto do edital não foi lido.
+  - Esclarecimento: Não há confirmação de que a chamada ainda esteja aberta em 2026-11-23.

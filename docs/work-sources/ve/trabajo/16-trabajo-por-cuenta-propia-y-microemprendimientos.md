@@ -1,0 +1,116 @@
+# Trabajo por cuenta propia y microemprendimientos
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Banesco - Crédito para Emprendedores** (abierta o vigente, verificada 2 veces) https://www.banesco.com/personas/creditos-personas/credito-para-emprendedores/
+  - Que es: Emprendedores venezolanos o extranjeros naturalizados, personas naturales, para financiar nuevos emprendimientos.
+  - Requisitos: Persona natural venezolana o extranjera naturalizada; emprendimiento registrado en la plataforma Emprender Juntos con certificado RNE; presencia en redes sociales; operación de al menos seis meses (la página aclara que no es un corte absoluto); garantía aceptable; documentos del PDF de recaudos y los que el banco pida adicionalmente. Se infiere que hay que ser cliente del banco, pero la página no lo dice expresamente en este producto.
+  - Pago o beneficio: No aplica (crédito); monto, plazo y tasa: sin datos.
+  - Plazo o ciclo: Abierto todo el año: producto permanente, sin fechas de convocatoria.
+  - Como postular: https://www.banesco.com/personas/creditos-personas/credito-para-emprendedores/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una deuda, no un aporte gratuito.
+  - Aclaracion: El monto se fija tras evaluar el emprendimiento y la capacidad de pago, se denomina en UVC y se paga en bolívares al valor del día, con cuotas de capital fijo.
+  - Aclaracion: La tasa y la comisión están sujetas a las normas del BCV, sin cifras en la página, y se exige garantía aceptable para el banco.
+  - Aclaracion: Se solicita con la planilla (PDF) entregada en la agencia Banesco de preferencia; no se debe pagar a intermediarios por gestionar el crédito.
+- **Emprender Juntos y Registro Nacional de Emprendimientos (RNE)** (abierta o vigente, verificada 2 veces) https://emprenderjuntos.gob.ve/
+  - Que es: Emprendedores venezolanos que quieran formalizar un emprendimiento, acceder a formación (Aula Virtual) y al certificado RNE que varios bancos exigen para sus créditos de emprendimiento.
+  - Requisitos: No se vieron requisitos de inscripción en el portal. Los bancos piden persona natural venezolana o extranjera naturalizada, y certificado del RNE.
+  - Pago o beneficio: El registro no paga; da acceso a formación y es requisito para créditos de bancos.
+  - Plazo o ciclo: Abierto todo el año (registro permanente; no se vio fecha de cierre)
+  - Como postular: https://registro.emprenderjuntos.gob.ve
+  - Lectura automatica posible: No se vio API ni feed; solo noticias en la web (paginación /page/2/ en adelante).
+  - Aclaracion: El portal de registro cargó solo con el título «EMPRENDER JUNTOS», sin pasos ni requisitos visibles.
+  - Aclaracion: El nombre «Registro Nacional de Emprendimientos» no aparece en la página principal; que el certificado RNE sea emitido por esta plataforma se deduce de que Banesco y Bancaribe lo exigen.
+  - Aclaracion: Es un registro, no una oferta de trabajo ni financiamiento por sí mismo.
+  - Aclaracion: No debe pagarse a terceros por el registro, que se hace por el portal oficial.
+- **Banco de Venezuela: CrediEmprendeBDV, Microcrédito y CredimujerBDV** (abierta o vigente, verificada 2 veces) https://www.bancodevenezuela.com/
+  - Que es: Personas naturales venezolanas o extranjeras naturalizadas con un emprendimiento (CrediEmprendeBDV); titulares de cuenta corriente con actividad de producción o comercialización (Microcrédito); mujeres con proyectos productivos (CredimujerBDV).
+  - Requisitos: Ser cliente del BDV; estar registrado en Emprender Juntos; persona natural venezolana o extranjera naturalizada; inscribirse en el programa EmprendeBDV; documentos según checklist de la página.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Crédito de monto variable según proyecto, hasta 60 meses (no es subsidio; se devuelve).
+  - Plazo o ciclo: Productos listados en el menú; sin fechas de cierre ni convocatoria visibles en la portada.
+  - Como postular: https://www.bancodevenezuela.com/index.html@p=3517.html
+  - Lectura automatica posible: No se vio.
+  - Aclaracion: La dirección de la página tiene una forma irregular, por lo que conviene confirmar la dirección canónica en bancodevenezuela.com.
+  - Aclaracion: La portada del banco solo lista CrediEmprendeBDV, Microcrédito y CredimujerBDV; Microcrédito y CredimujerBDV no muestran montos ni requisitos.
+  - Aclaracion: Las cuotas se calculan en bolívares con UVC e IDI, y puede pedirse fianza, prenda o hipoteca mobiliaria aunque no haya garantía obligatoria.
+  - Aclaracion: Los créditos se tramitan por el banco y por el programa EmprendeBDV, sin pagos a intermediarios.
+- **Bancaribe: Plan Emprendedor para proyectos** (abierta o vigente, verificada 2 veces) https://www.bancaribe.com.ve/plan-emprendedor
+  - Que es: Personas naturales con un emprendimiento innovador, ético y sostenible que use tecnología, certificadas en el Registro Nacional de Emprendimientos.
+  - Requisitos: Persona natural cliente de Bancaribe con al menos 6 meses de antigüedad; emprendimiento con al menos 6 meses; certificado del RNE emitido hace no más de 3 años; cédula o pasaporte, RIF vigente, constancia de trabajo o informe de ingresos de contador (máximo 3 meses), últimos 3 estados de cuenta, última declaración de ISLR o declaración jurada del banco, presupuesto de lo que se va a comprar (menos de 30 días), solicitud de crédito y fotos de la actividad.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Crédito de 100 a 16.550 veces el tipo de cambio BCV, hasta 18 meses, interés 16 % (se devuelve).
+  - Plazo o ciclo: Recepción de solicitudes de lunes a viernes, de 8:00 a. m. a 4:30 p. m.; sin fecha de cierre visible.
+  - Como postular: https://www.bancaribe.com.ve/plan-emprendedor
+  - Lectura automatica posible: No se vio.
+  - Aclaracion: Se aplica un flat de 0,50 % solo al liquidar y una mora de 0,80 %, con cuotas en UVC.
+  - Aclaracion: Se exige un capital inicial del 20 % y las garantías quedan a criterio del banco.
+  - Aclaracion: La solicitud se hace por el formulario en línea o por WhatsApp.
+  - Aclaracion: Se recomienda no pagar a terceros por tramitar el crédito.
+- **Banco Exterior: CREO Programa de Emprendimiento y Exterior Microcréditos** (abierta o vigente, verificada 2 veces) https://www.bancoexterior.com/personas/creditos/creo-programa-de-emprendimiento/
+  - Que es: Emprendimientos con no más de 3 años de operación, de personas naturales o con firma personal, clientes o no clientes bancarizados (CREO); personas que operan negocios de comercio, servicios o producción industrial, agrícola o artesanal (Exterior Microcréditos).
+  - Requisitos: Persona natural o firma personal, cliente o no cliente. Negocio o servicio con no más de 3 años. Registro en la plataforma Emprender Juntos y certificado del Registro Nacional de Emprendimientos (RNE); cédula o pasaporte vigente; RIF; presupuesto de lo que se comprará con el crédito; última declaración de ISLR si la presenta; planilla de solicitud; fotos verificables del negocio (redes sociales); estados de cuenta de los últimos 3 meses de las cuentas que tenga. No se pide experiencia laboral ni título, pero sí un negocio ya en marcha.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Crédito para emprendimientos; la página no indica montos (dependen del crédito asignado). Plazo hasta 12 meses, tasa 16 %, comisión flat 0,50 %, liquidación en bolívares expresados en UVC. Incluye talleres para emprendedores.
+  - Plazo o ciclo: Sin fechas ni cierre de convocatoria visibles en la página.
+  - Como postular: https://www.emprenderjuntos.gob.ve
+  - Lectura automatica posible: No se vio.
+  - Aclaracion: Es un crédito y no un empleo: quien lo recibe asume una deuda.
+  - Aclaracion: El primer paso es registrarse en Emprender Juntos y contactar al banco, porque la página no describe el trámite de envío.
+  - Aclaracion: Exterior Microcréditos solo aparece como enlace de menú y no se pudo confirmar su contenido.
+  - Aclaracion: Ningún trámite legítimo exige pagos a terceros ni adelantos para liberar un crédito; conviene verificar siempre en los canales oficiales del banco.
+- **Mercantil: Crédito para Emprendedores** (abierta o vigente, verificada 2 veces) https://www.mercantilbanco.com/mercantil/ve/emprendedores
+  - Que es: Emprendedores inscritos en el Registro Nacional de Emprendimientos que sean clientes de Mercantil desde hace al menos 6 meses.
+  - Requisitos: Estar inscrito en el Registro Nacional de Emprendimientos (RNE); tener al menos 6 meses como cliente de Mercantil; cédula o pasaporte vigente (y documentos de cambio de estado civil si aplica); RIF; presupuesto de lo que financiará el crédito; última declaración de ISLR o carta de declaración de ingresos si no declara; fotos de la actividad (redes sociales); estados de cuenta de los últimos 3 meses y soportes del negocio. No es accesible para quien no sea cliente con 6 meses de antigüedad.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Crédito para negocio; montos no indicados en la página. Pago en cuotas de capital e intereses, en bolívares ajustados a los índices UVC e IDI del BCV; plazo hasta 6 meses; garantías evaluadas caso por caso.
+  - Plazo o ciclo: Abierto todo el año (sin fechas en la página).
+  - Como postular: https://www.mercantilbanco.com/mercantil/ve/emprendedores
+  - Lectura automatica posible: No se vio.
+  - Aclaracion: La solicitud se completa con una planilla firmada, sin tachaduras, que se entrega en una oficina de Mercantil.
+  - Aclaracion: Los montos del crédito no se indican en la página.
+  - Aclaracion: No se debe pagar a intermediarios por gestionar el crédito.
+- **Banplus: Emprende Plus / Emprende Mujer y Microcréditos** (abierta o vigente, verificada 2 veces) https://www.banplus.com/financiamientos-personas/
+  - Que es: Emprendedores (Emprende Plus; la mujer emprendedora accede a la tasa preferente fijada por el Ejecutivo) y microempresarios que necesitan capital de trabajo o activos fijos (Microcréditos).
+  - Requisitos: Documentos estándar de financiamiento personal más fotos de la actividad del negocio y datos de redes sociales. Emprende Plus exige certificado del RNE (emitido vía emprenderjuntos.gob.ve); Microcréditos no lo lista. Sin requisito de título; el negocio debe existir.
+  - Pago o beneficio: Emprende Plus y Emprende Mujer (tasa preferente establecida por el Ejecutivo Nacional para la mujer emprendedora, sin cifra en la página) y Microcréditos para capital de trabajo y activos fijos. No se indican montos.
+  - Plazo o ciclo: Abierto todo el año (sin fechas en la página).
+  - Como postular: https://www.banplus.com/financiamientos-personas/
+  - Lectura automatica posible: No se vio.
+  - Aclaracion: Emprende Mujer no tiene sección propia: la pestaña de Emprende Plus indica que las emprendedoras acceden a la tasa preferente fijada por el Ejecutivo.
+  - Aclaracion: La página no describe el proceso de solicitud; los canales de contacto son 0501 BANPLUS (2267587), WhatsApp 0412-3548325 y banpluscomunicaciones@banplus.com.
+  - Aclaracion: Conviene usar solo los canales oficiales y no pagar a terceros por tramitar un crédito.
+- **Vitrina Venezuela (mercado digital de producción nacional)** (abierta o vigente, verificada 2 veces) https://vitrinavenezuela.com
+  - Que es: Pequeños y medianos productores y emprendedores venezolanos que quieran vender sus productos en línea.
+  - Requisitos: No se indican en la página. Ofrece 'Asesoramiento inicial' y 'Beneficios del portal', y el programa Vitrina Produce de acompañamiento al productor venezolano. Contacto: info@vitrinavenezuela.com, +58 0412-383.1129.
+  - Pago o beneficio: Ingresos por ventas propias en la tienda del vendedor; la página no indica comisiones, costos ni suscripción.
+  - Plazo o ciclo: Abierto todo el año (enlace 'Registrarse como Vendedor' visible).
+  - Como postular: https://vitrinavenezuela.com
+  - Lectura automatica posible: No se vio.
+  - Aclaracion: Es una plataforma de venta propia y no una oferta de empleo.
+  - Aclaracion: Las comisiones y los requisitos no figuran en la página, por lo que conviene confirmarlos por los contactos publicados antes de registrarse.
+- **SUNDDE: RUPDAE (registro de comercios y emprendedores)** (abierta o vigente, verificada 2 veces) https://rupdae.sundde.gob.ve/login
+  - Que es: Personas jurídicas, firmas personales, personas naturales y emprendedores que producen o comercializan bienes.
+  - Requisitos: Personas jurídicas: registro mercantil vigente, última acta extraordinaria de asamblea, RIF vigente, cédula y RIF del representante legal. Firma personal: cédula, RIF y registro mercantil legible. Emprendedores: certificado de Emprender Juntos, RIF de emprendedor y cédula. Personas naturales: cédula legible y vigente y RIF.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica: es un registro, no un pago ni una ayuda. Costo no indicado.
+  - Plazo o ciclo: Abierto todo el año (enlace 'Registrar Usuario'). No se vio fecha límite.
+  - Como postular: https://rupdae.sundde.gob.ve/login
+  - Lectura automatica posible: No se vio.
+  - Aclaracion: Es un registro y no una ayuda ni un pago; el costo no se indica.
+  - Aclaracion: La página de acceso no explica la sigla ni indica quién está obligado a registrarse ni para qué sirve el registro.
+  - Aclaracion: Los trámites oficiales se hacen solo en el dominio gob.ve.
+- **SAPI: registro de marcas y signos distintivos** (abierta o vigente, verificada 2 veces) https://sapi.gob.ve/marcas/
+  - Que es: Cualquier persona o negocio que quiera registrar el nombre o logo de su producto o marca.
+  - Requisitos: La página no lista requisitos de registro nuevo (el enlace '¿Cómo registrar una Marca?' no mostró texto); remite a la 'Guía de proceso de registro de Marcas y Signos Distintivos' (PDF) y al Clasificador de Niza para elegir la clase. Sin requisito de experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica: es un trámite con arancel. La página enlaza 'Tarifas del SAPI' (PDF) y una calculadora de costo; las cifras no se leyeron.
+  - Plazo o ciclo: Abierto todo el año (atención presencial y virtual en horario de oficina).
+  - Como postular: https://sapi.gob.ve/marcas/
+  - Lectura automatica posible: No se vio.
+  - Aclaracion: Es un trámite con arancel: la página enlaza el tarifario y una calculadora de costo, pero no muestra montos.
+  - Aclaracion: El enlace «¿Cómo registrar una Marca?» no mostró texto; el proceso se remite a una guía en PDF y al Clasificador de Niza.
+  - Aclaracion: Los poderes otorgados en el extranjero deben ir traducidos y apostillados.
+  - Aclaracion: Los pagos se hacen a las cuentas bancarias oficiales publicadas por el SAPI, nunca a gestores.

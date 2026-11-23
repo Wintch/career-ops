@@ -1,0 +1,64 @@
+# Grupo 95: Vendedores ambulantes de serviços e de produtos
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Tupperware Brasil - cadastro de consultores (venda direta)** (aberta ou vigente, verificada 2 vezes) https://portal.tupperware.com.br/pt-BR
+  - O que é: Pessoas que queiram vender produtos da marca por conta própria, em venda direta (porta a porta, entre conhecidos e online), sem vínculo de emprego. Serve a quem trabalha como revendedor ambulante ou porta a porta.
+  - Requisitos: Formulário pede nome completo, CPF, data de nascimento e celular, além de aceite dos Termos de Uso e da Política de Privacidade. A página não exige experiência nem escolaridade.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Comissão de até 26,5% sobre vendas (ganho mensal de R$ 2.000,00 citado como possibilidade, não garantia). Investimento inicial: sem dados.
+  - Prazo ou ciclo: Cadastro aberto todo o ano; a página não informa prazo.
+  - Como se candidatar: https://portal.tupperware.com.br/pt-BR
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Trata-se de venda direta por conta própria, sem vínculo empregatício; o ganho de R$ 2.000,00 por mês é apresentado como possibilidade, não como garantia.
+  - Esclarecimento: A página descreve três etapas (cadastrar-se, receber apoio de um contato local, começar a vender) e diz que o formulário leva menos de 2 minutos.
+  - Esclarecimento: As respostas sobre investimento inicial e formas de pagamento constam como perguntas do FAQ, mas não foram vistas.
+- **Jequiti - Trabalhe conosco (Gupy, banco de talentos)** (aberta ou vigente, verificada 2 vezes) https://jequiti.gupy.io/
+  - O que é: Quem busca vaga na empresa, em 23/11/2026 em São Paulo (SP), em programa de Jovem Aprendiz ou em banco de talentos para pessoas com deficiência. Não é o cadastro de consultoras de venda direta; esse cadastro não foi encontrado no site.
+  - Requisitos: A página não lista requisitos. Pelos títulos, uma vaga destina-se a jovem aprendiz e outra a pessoa com deficiência; critérios exatos (idade, escolaridade): sem dados. Não há exigência de experiência informada.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Banco de talentos permanente; sem prazo informado.
+  - Como se candidatar: https://jequiti.gupy.io/
+  - Leitura automática possível: Portal Gupy com busca por empresa; formato exato não verificado.
+  - Esclarecimento: A página lista apenas duas vagas de banco de talentos em São Paulo/SP ('Jovem Aprendiz', vaga 888749, e 'Pessoa com Deficiência', vaga 888764); o caminho aberto é restrito a essas categorias.
+  - Esclarecimento: Datas de publicação não constam.
+- **Sine BH - vagas de emprego e cursos nos postos municipais (Prefeitura de Belo Horizonte)** (aberta ou vigente, verificada 2 vezes) https://prefeitura.pbh.gov.br/desenvolvimento/vagas-de-emprego-nos-postos-municipais-do-sine
+  - O que é: Trabalhadores que buscam vaga, curso gratuito de qualificação ou outros serviços do Sine em Belo Horizonte, inclusive quem tem pouca experiência. Os cursos gratuitos são oferecidos somente a moradores de Belo Horizonte, segundo a página.
+  - Requisitos: Não exige experiência nem diploma para o atendimento. Para os cursos: apenas moradores de Belo Horizonte; levar originais de Carteira de Trabalho, PIS/PASEP/NIT/NIS, documento de identidade, CPF e comprovante de residência. Requisitos de cada vaga variam.
+  - Pagamento ou benefício: Gratuito para o candidato (vagas pagas conforme cada empregador; cursos gratuitos).
+  - Prazo ou ciclo: Atendimento contínuo, com agendamento. A página foi atualizada em 19/11/2026; a lista de vagas em PDF é datada de 23.11.2026 e a lista PROMETI (pessoas com deficiência) de 19/11/2026. Periodicidade de atualização: sem dados.
+  - Como se candidatar: https://agendamentoeletronico.pbh.gov.br
+  - Leitura automática possível: PDFs de vagas e plataforma GO BH; formato exato não verificado.
+  - Esclarecimento: Os cursos gratuitos têm inscrição presencial no SINE Barreiro (Rua Barão de Coromandel, 982, 08h-17h) ou no SINE BH Resolve (Av. Santos Dumont, 363, Centro, 08h-17h, com agendamento).
+  - Esclarecimento: A lista de cursos vista é um PDF de 2025 e pode estar desatualizada.
+  - Esclarecimento: O atendimento presencial é por agendamento em agendamentoeletronico.pbh.gov.br; as vagas ficam em planilha em PDF do Sine e na plataforma GO BH, e as vagas para pessoas com deficiência no PROMETI.
+  - Esclarecimento: O e-mail centraldevagas@pbh.gov.br é para empresas, não para candidatos.
+- **Espaço do Empreendedor - Prefeitura de Belo Horizonte (MEI, abrir e regularizar negócio)** (aberta ou vigente, verificada 2 vezes) https://prefeitura.pbh.gov.br/empreendedor
+  - O que é: Quem quer abrir ou formalizar um pequeno negócio em Belo Horizonte, como MEI. Ponto de partida para vendedores de rua e feirantes que desejam regularizar a atividade, mas a página não trata de ambulantes de forma específica.
+  - Requisitos: Não listados na página principal; constam nas páginas de cada serviço (não verificadas). Não exige experiência nem diploma informado.
+  - Pagamento ou benefício: sem dados (a página não informa custos)
+  - Prazo ou ciclo: Serviço contínuo (abierto todo el año); sem prazo.
+  - Como se candidatar: https://servicos.pbh.gov.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página não indica local de atendimento presencial, custos nem horários; o único endereço visto é o da sede da PBH (Av. Afonso Pena, 1212, Centro).
+  - Esclarecimento: A maior parte dos serviços é feita pelo portal servicos.pbh.gov.br.
+- **Hinode - cadastro de consultores (venda direta)** (não verificada, verificada 1 vez) https://leads.hinode.com.br/
+  - O que é: Pessoas que queiram revender produtos da marca por conta própria. O link 'Seja um Consultor' aparece no topo do site hinode.com.br.
+  - Requisitos: sem dados (não confirmado em fonte oficial; fontes de terceiros indicam maioridade e compra de kit inicial).
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados
+  - Como se candidatar: https://leads.hinode.com.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página exibiu apenas o título 'Hinode — Cadastro de Consultores', sem campos de formulário, requisitos, ganhos ou datas (provável conteúdo carregado por script).
+  - Esclarecimento: Não foi encontrada fonte oficial sobre as condições; fontes de terceiros sugerem maioridade (18 anos) e compra obrigatória de kit de negócios, sem confirmação oficial.
+- **Formação de expositores das Feiras da Economia Popular Solidária (Prefeitura de Belo Horizonte e Instituto Ideec)** (não verificada, verificada 1 vez) https://prefeitura.pbh.gov.br/noticias/pbh-abre-inscricoes-para-formacao-de-expositores-das-feiras-da-economia-popular-solidaria
+  - O que é: Pessoas que queiram expor e vender em feiras de economia popular solidária (produtores, artesãos, pequenos comerciantes). Útil a quem pretende atuar como feirante em Belo Horizonte.
+  - Requisitos: Nenhum critério de elegibilidade listado além do preenchimento do formulário online. Não exige experiência nem diploma informado.
+  - Pagamento ou benefício: sem dados (nenhum valor ou bolsa informado)
+  - Prazo ou ciclo: Notícia oficial de 19/11/2026. Aulas de 23/11 a 11/12/2026; prazo de inscrição não informado. Edições futuras: sem dados.
+  - Como se candidatar: https://prefeitura.pbh.gov.br/noticias/pbh-abre-inscricoes-para-formacao-de-expositores-das-feiras-da-economia-popular-solidaria
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não foi possível confirmar que as inscrições seguem abertas, pois o prazo não é informado e o curso começa em 23/11/2026; a inscrição é por formulário online, um link por turma.
+  - Esclarecimento: Turma do Cepes (Av. dos Andradas, 367, 2º andar, Centro): manhã 9h-11h30 e tarde 14h-17h em 26 e 27/11 e 3, 4, 10 e 11/12.
+  - Esclarecimento: Turmas noturnas, 19h-22h: São Bernardo, Regional Norte (Rua Pastor Muryllo Cassete, 25), em 23, 25 e 30/11 e 2, 7 e 9/12; Padre Eustáquio, Regional Noroeste (Rua Progresso, 853), em 24, 26 e 27/11 e 1, 3 e 4/12.

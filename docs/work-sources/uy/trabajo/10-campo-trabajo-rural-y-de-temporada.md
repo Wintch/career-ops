@@ -1,0 +1,114 @@
+# Campo, trabajo rural y de temporada
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Centros Públicos de Empleo (CePE) y Centros Técnicos de Empleo y Formación Profesional, MTSS/INEFOP** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/centros-publicos-empleo-0
+  - Que es: Cualquier persona de 15 años o más que busque trabajo, incluidas las personas sin experiencia. Hay centros en departamentos con trabajo rural y zafral: Salto (Centro Técnico), Paysandú, Rivera, Artigas (Centro Técnico) y Rocha, entre otros.
+  - Requisitos: Tener 15 años o más y un documento: cédula de identidad, pasaporte o cédula de identidad fronteriza. La página no exige experiencia ni título previo, por lo que sirve también a quienes buscan su primer empleo.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sin costo para quien busca trabajo según la página (la plataforma Vía Trabajo 'ofrece servicios sin costo'). No es un empleo ni paga nada.
+  - Plazo o ciclo: Abierto todo el año (servicio permanente; atención de lunes a viernes de 9:00 a 16:00 según la página del MTSS).
+  - Como postular: https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/centros-publicos-empleo-0
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La inscripción es presencial (con agenda web del MTSS para Centros Técnicos, donde un operador registra a la persona en Vía Trabajo) o por autoinscripción en línea en Vía Trabajo (sección Trabajadores; se envía una clave por correo o SMS).
+  - Aclaracion: La implementación está en curso y los servicios varían según el territorio; el horario de lunes a viernes de 9:00 a 16:00 es el del Ministerio, sin horarios por centro.
+  - Aclaracion: Sedes CePE en el interior: Cerro Largo, Flores, Florida, Paysandú, Río Negro (Young), Rivera, Rocha, San José, Soriano (Cardona, Dolores, Mercedes) y Treinta y Tres; en Montevideo: Casavalle, Barrio Peñarol, Intercambiador Belloni y Carrasco Norte.
+  - Aclaracion: Centros Técnicos: Artigas, Canelones (Las Piedras, Pando), Colonia, Durazno, Lavalleja (Minas), Maldonado, Salto, Tacuarembó y Río Negro (Fray Bentos, Young).
+- **MGAP - Programa Formación Digital para el Desarrollo Rural** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-ganaderia-agricultura-pesca/comunicacion/convocatorias/programa-formacion-digital-para-desarrollo-rural
+  - Que es: Personas vinculadas a la producción familiar, al trabajo rural, al agro o a la pesca: productores familiares registrados ante MGAP-DGDR, residentes en zonas rurales o en localidades de menos de 5.000 habitantes, y quienes trabajan en el sector agropecuario o la pesca.
+  - Requisitos: Ser mayor de 18 años, saber leer y escribir, ser productor/a familiar registrado/a en la DGDR del MGAP que viva en zona rural o en localidades de menos de 5.000 habitantes, o trabajar en el agro o la pesca, y no haber sido beneficiario/a de convocatorias anteriores de este tipo. No se exige experiencia laboral.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Formación digital sin costo declarado (la página no menciona costo, ni becas, ni certificación, ni duración).
+  - Plazo o ciclo: Inscripción del 19/10/2026 al 23/11/2026 (cierra al 23/11/2026, según la página, que figura como 'Vigente'). Programa nacional 2026-2028 con meta de 1.800 personas; no se vio evidencia de que la convocatoria sea anual ni de una prórroga.
+  - Como postular: https://app.mgap.gub.uy/sagefi/formulario.aspx
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La inscripción cierra el 23/11/2026, por lo que conviene confirmar en la página si el plazo se extendió.
+  - Aclaracion: Convocan la Dirección General de Desarrollo Rural del MGAP, INEFOP, Antel y Agesic; es capacitación, no un empleo.
+  - Aclaracion: La inscripción se hace en el formulario en línea app.mgap.gub.uy/sagefi/formulario.aspx.
+  - Aclaracion: Consultas: consultasdgdr@mgap.gub.uy o las oficinas departamentales del MGAP.
+- **MGAP - Mujeres de la Granja, tercera edición** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-ganaderia-agricultura-pesca/comunicacion/convocatorias/mujeres-granja-tercera-edicion-creciendo-equidad-autonomia
+  - Que es: Mujeres rurales de 18 años o más del sector granjero que quieran iniciar o escalar un proyecto productivo o comercial propio. Prioridad para quienes viven en el predio, tienen personas a cargo, tienen entre 18 y 29 años o disponen de tiempo para el proyecto.
+  - Requisitos: Mujeres de 18 años o más que cumplan los requisitos de residencia del Registro de Producción Familiar (los proyectos apícolas están exentos del registro); vivir en el predio del proyecto o a menos de 50 km (declaración jurada verificada con visita); cuenta bancaria o digital a su nombre al firmar el convenio; en iniciación, no haber sido beneficiaria en 2022 ni 2024. El proyecto debe presentarse a través de una organización patrocinante (sociedad de fomento rural, cooperativa o asociación civil) y ser elaborado por un técnico habilitado por DIGEGRA. Puntaje mínimo para aprobar: más de 60%. Prioridad a quienes viven en la zona del proyecto, tienen personas a cargo, tienen entre 18 y 29 años y disponen de tiempo para el proyecto.
+  - Pago o beneficio: Apoyo no reembolsable para inversión. Iniciación: hasta $200.000 por proyecto individual y hasta $400.000 por proyecto colectivo (más $50.000 por integrante desde el cuarto, tope $600.000). Escalamiento: $140.000 individual y $250.000 colectivo (tope $450.000). Monto total de la convocatoria: $40.000.000 ($25.000.000 iniciación, $15.000.000 escalamiento). La página usa el símbolo $ sin aclarar la moneda. Proyectos de hasta 18 meses.
+  - Plazo o ciclo: Iniciación: lanzamiento 30/10/2026; cierre 29/01/2027 a las 15:00 (el apartado 2.1 de las bases dice 30/01/2027, a confirmar). Escalamiento: lanzamiento previsto para marzo de 2027. Habilitación de técnicos: 6 al 20/11/2026; lista de técnicos habilitados publicada el 23/11/2026. Ediciones anteriores en 2022 y 2024.
+  - Como postular: equidadgranjera@mgap.gub.uy (envío de Anexo 1 y Anexo 2 por correo; en papel, en las agencias zonales de DIGEGRA)
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Convoca la Dirección General de la Granja (DIGEGRA) del MGAP.
+  - Aclaracion: Es apoyo a emprendimientos de granja, no un empleo en relación de dependencia.
+  - Aclaracion: Las bases (PDF) y los anexos 1 a 3 se descargan de la página oficial.
+- **Montes del Plata (forestal y celulosa) - Trabajá con nosotros** (abierta o vigente, verificada 2 veces) https://www.montesdelplata.com.uy
+  - Que es: Personas interesadas en trabajar en la operación forestal, logística, planta de celulosa y energía de la empresa. La empresa dice generar unos 6.000 empleos directos, indirectos e inducidos.
+  - Requisitos: Varían según el llamado. Operadoras/es de cosecha forestal: ciclo básico completo, residir en la localidad (Young o Paysandú), libreta de conducir (categoría H, exigida al avanzar la selección); en Young no se pide experiencia y se brinda capacitación, y en Paysandú se valora la experiencia previa. Planta e ingeniería: formación técnica o universitaria en áreas afines y residencia en la zona o disposición a mudarse. Encargada/o de Vivero: formación técnica y experiencia coordinando equipos. Formulario: nombre y apellido, fecha de nacimiento, teléfono, residencia, correo, área de interés, años de experiencia y habilidades; CV adjunto obligatorio en .doc, .docx o .pdf.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año mediante formulario de postulación; llamados puntuales con fecha. Visto al 2026-11-23: Encargada/o de Vivero con cierre el viernes 5 de diciembre (año no indicado en la página). Otros llamados vistos (25 de octubre, 3 de marzo) figuran como vencidos y no deben tomarse como vigentes.
+  - Como postular: https://www.montesdelplata.com.uy/espanol/novedades-7?postulacion=trabaja-con-nosotros#ofertas
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La sección 'Trabajá con nosotros' lleva a un formulario en línea donde se elige el llamado en el desplegable 'Llamado al cual se postula'; no se confirmó que sea una postulación continua.
+  - Aclaracion: Los avisos no llevan año ni fecha de publicación; el de Encargada/o de Vivero menciona 'viernes 5 de diciembre', fecha que en 2026 cae sábado, por lo que probablemente corresponde a 2025.
+  - Aclaracion: La vigencia de cada llamado debe confirmarse en el sitio.
+  - Aclaracion: Se aceptan postulaciones de personas inscriptas en el Registro Nacional de Personas con Discapacidad (Ley 19.691).
+- **Intendencia de Salto - Llamados laborales (guardavidas zafrales y otros)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://servicios.salto.gub.uy/llamados/
+  - Que es: Personas que buscan trabajo temporal o zafral en el departamento de Salto. El llamado externo N.º 97 es para guardavidas zafrales de la temporada de verano. Hay también llamados para operadores de maquinaria, albañiles y choferes, de ediciones 2026 ya cerradas por fechas.
+  - Requisitos: No figuran en el listado: están en las bases enlazadas en cada llamado (algunos llamados no tienen bases enlazadas). Hay llamados de oficios (albañil, medio oficial, chofer, operadores) y zafrales (guardavidas, peón práctico, mucamas en Termas de Arapey) sin información de experiencia en la página.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: El llamado N.º 97 (Guardavidas Zafrales, exp. 2026-34879) tuvo inscripción del 16/10/2026 al 30/10/2026 y está cerrado. Se repite cada temporada: el llamado 77 (guardavidas zafral 2025-2026) fue del 02 al 15/10/2025 y el 78 (Rincón de Valentín) del 10 al 20/10/2025. Otros llamados de 2026 en la misma página: administrativos, albañiles, choferes de camión, operadores de maquinaria, inspectores de tránsito, docente de piano, médico veterinario, banda y orquesta, con ventanas de pocas semanas.
+  - Como postular: https://servicios.salto.gub.uy/llamados/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Los llamados se publican de forma continua y con ventanas cortas, por lo que conviene revisar la página con frecuencia.
+  - Aclaracion: Ningún llamado estaba abierto el 23/11/2026 según las fechas publicadas.
+  - Aclaracion: El llamado 96 (Inspector de Tránsito) figura como 'no habilitado' con fechas 01/01/2026 a 01/01/2026, posible error de carga.
+  - Aclaracion: Históricamente hubo 'Operativo Laboral' por fases (2022 a 2024) para grupos como personas trans, con capacidades diferentes, afrodescendientes y residentes de localidades del departamento.
+- **Intendencia de Paysandú - Oportunidades laborales** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.paysandu.gub.uy/categoria/oportunidades-laborales/
+  - Que es: Personas que buscan empleo público departamental en Paysandú: pasantes, medio oficial de oficios, servicios auxiliares, choferes y maquinistas, técnicos para los centros termales de Guaviyú y Almirón, y un ingeniero agrónomo para el proyecto Paysandú Sostenible III.
+  - Requisitos: No figuran en el listado: están en las bases (PDF) de cada llamado. Hay llamados que no piden título, como Servicios Auxiliares para municipios (Chapicuy, Tambores, Quebracho, Porvenir, Cerro Chato, El Eucalipto), Choferes y Maquinistas, y Medio Oficial Oficios, aunque la página no detalla requisitos ni experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Se publican llamados de forma continua durante 2026 (de febrero a noviembre; última publicación vista: 12/11/2026). Los llamados con fecha de cierre vistos (julio a septiembre de 2026) ya cerraron. Vigentes sin cierre visible en la lista: Ingeniero Agrónomo (publicado el 16/10/2026) y Médico Especialista en Salud Ocupacional (fe de erratas del 12/11/2026); hay que abrir cada llamado para ver su plazo.
+  - Como postular: Presencial en la Dirección de Gestión Humana, Mercado Municipal (Sarandí esq. Montevideo), de 10:00 a 13:00, según los llamados vistos; confirmar en las bases de cada llamado.
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La lista incluye avisos de resultados y listas de prelación, que no son llamados abiertos.
+  - Aclaracion: Muchos llamados no muestran fecha de cierre; los que la muestran son pocos.
+  - Aclaracion: Las publicaciones de 2026 comienzan en enero y la última es del 12/11/2026.
+  - Aclaracion: Entre las novedades figura un curso gratuito de la Escuela Departamental de Artesanías.
+- **MTSS - Trabajo rural: información, derechos, obligaciones y servicios** (sin verificar, verificada 1 vez) https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/trabajo-rural-informacion-derechos-obligaciones-servicios-del-mtss
+  - Que es: Personas que trabajan o quieren trabajar en el medio rural (incluido el trabajo zafral) y sus empleadores, para conocer derechos y obligaciones antes de aceptar un trabajo.
+  - Requisitos: No aplica: no es una vía de postulación. No se indican requisitos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Página informativa permanente (publicada el 13/10/2025); no hay convocatoria ni cupo de empleo.
+  - Como postular: https://www.gub.uy/ministerio-trabajo-seguridad-social/centros-publicos-empleo
+  - Lectura automatica posible: ninguna vista (guía en PDF)
+  - Aclaracion: Solo reúne información: Guía sobre Derecho del Trabajo Rural 2025, Ley 18.441, Decreto 321/009, Decreto 372/999, un enlace al listado de servicios públicos de empleo y el directorio de oficinas del MTSS.
+  - Aclaracion: No ofrece intermediación ni ofertas de trabajo; para buscar empleo corresponde la vía de los Centros Públicos de Empleo.
+  - Aclaracion: Contacto: Juncal 1511, tel. 1928 y 2915 2020, 08007171.
+- **MGAP - Oficinas departamentales y territoriales (Salto, Paysandú, Rivera, Artigas, Rocha, Tacuarembó, Treinta y Tres)** (sin verificar, verificada 1 vez) https://www.gub.uy/ministerio-ganaderia-agricultura-pesca/oficinas-mgap
+  - Que es: Personas del medio rural que necesitan orientarse sobre programas, registros de producción familiar o capacitaciones en su departamento.
+  - Requisitos: No aplica: la página no indica requisitos ni procesos de ingreso.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Directorio permanente de oficinas; la página no describe ninguna vía de empleo ni de postulación.
+  - Como postular: https://www.gub.uy/ministerio-ganaderia-agricultura-pesca/oficinas-mgap
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página es oficial, pero es solo un listado de direcciones y teléfonos; no se confirmó que sea un punto de postulación laboral.
+  - Aclaracion: Sirve para consultar por convocatorias del MGAP en la oficina más cercana, por ejemplo Salto (Artigas 992, tel. 4734 0657) o Paysandú (18 de Julio 888, tel. 4722 9477).
+  - Aclaracion: Los ingresos al MGAP se publicarían en sus secciones 'Concursos' y 'Convocatorias'.
+- **Saman (arroz) - Trabajar en Saman** (sin verificar, verificada 1 vez) https://corporativo.saman.com.uy/trabajar-en-saman/
+  - Que es: Personas interesadas en trabajar en la empresa arrocera, con instalaciones y vínculo con productores del interior (zonas arroceras del este y el norte).
+  - Requisitos: sin datos (la página no publica requisitos)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se vio ningún llamado abierto ni ciclo anual.
+  - Como postular: https://corporativo.saman.com.uy/trabajar-en-saman/oportunidades/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La sección de Reclutamiento y Selección describe una política de contratación y un formulario de CV bajo 'selección interna', por lo que podría estar destinado a funcionarios actuales.
+  - Aclaracion: La sección de Oportunidades solo mostró un formulario general de contacto, sin ofertas visibles.
+  - Aclaracion: No se confirmó una vía abierta de postulación externa.
+  - Aclaracion: Contactos generales: info@saman.com.uy, +598 2208 1421.
+- **Frutura Uruguay (citrus, Salto)** (sin verificar, verificada 1 vez) https://fruturauruguay.com/
+  - Que es: Empresa citrícola de Salto con más de 1.200 hectáreas de mandarinas, naranjas y limones. Es un empleador relevante de la zafra citrícola del litoral norte, pero la página no lo indica.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No existe página de empleo ni oferta visible.
+  - Como postular: https://fruturauruguay.com/contacte-con/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El sitio no tiene sección de empleo ni formulario de CV; solo contacto general (info@fruturauruguay.com) y un canal de denuncias que no sirve para postularse.
+  - Aclaracion: No se hallaron vacantes vigentes ni fuente que confirme ciclo o canal de postulación.
+  - Aclaracion: El empleo en citricultura suele ser zafral, pero esto no está confirmado para esta empresa.
+  - Aclaracion: Solo puede considerarse un contacto general no confirmado para consultas laborales.

@@ -1,0 +1,82 @@
+# Plataformas y trabajo por demanda
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Uber, conducir con Uber en Colombia (requisitos y registro)** (abierta o vigente, verificada 2 veces) https://www.uber.com/co/es/drive/requirements/
+  - Que es: Personas mayores de 18 años con licencia de conducción vigente y vehículo propio (particular o taxi). Los requisitos varían según la ciudad.
+  - Requisitos: Mayor de 18 años; licencia de conducción vigente; cédula de ciudadanía o extranjería; SOAT y tarjeta de propiedad vigentes del vehículo; revisión de antecedentes y de historial de conducción; video corto de capacitación. Taxis: además tarjeta de control y de operación. Los requisitos varían según la ciudad. No se exige experiencia mínima ni modelo de vehículo en la página. Se puede arrendar un vehículo desde la aplicación.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos. Ingreso variable por viaje; la página leída no indica montos.
+  - Plazo o ciclo: Abierto todo el año: registro en línea en cualquier momento, sin fecha de cierre.
+  - Como postular: https://www.uber.com/a/join-new
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Es trabajo independiente por plataforma, sin contrato laboral ni salario fijo.
+  - Aclaracion: La página no indica montos de ingreso.
+  - Aclaracion: Los requisitos varían según la ciudad.
+- **DiDi Conductor Colombia (carro, moto, taxi, flotilla)** (abierta o vigente, verificada 2 veces) https://web.didiglobal.com/co/conductor/requisitos-para-conducir/
+  - Que es: Conductores con carro, moto o taxi propio, conductores sin vehículo (socio arrendador) y dueños de flotilla.
+  - Requisitos: Licencia de conducción vigente en todas las modalidades. Vehículo modelo 2000 en adelante (carro, taxi y moto). Carro propio: tarjeta de propiedad y SOAT. Flotilla: los mismos dos documentos por cada carro. Taxi: tarjeta de propiedad, SOAT, tarjeta de operación y tarjetón. Moto: tarjeta de propiedad, SOAT y cilindraje mínimo de 100 cc. Edad mínima y antecedentes: no se indican en la página. No se exige experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página de requisitos no indica montos; ingresos variables por viaje)
+  - Plazo o ciclo: Abierto todo el año (sin fechas ni plazos en la página). Aprobación de documentos: 24 a 72 horas, según la página.
+  - Como postular: https://web.didiglobal.com/co/conductor/requisitos-para-conducir/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página no indica edad mínima ni exigencia de antecedentes.
+  - Aclaracion: Las ciudades disponibles no aparecen en la página y no se verificaron.
+  - Aclaracion: La modalidad de abierto todo el año se infiere de que no hay convocatoria con plazo.
+  - Aclaracion: Es trabajo independiente por plataforma, con ingresos variables por viaje.
+- **inDrive, conductor de viajes en Colombia** (abierta o vigente, verificada 2 veces) https://indrive.com/es-co/help/drivers/how-to-become-a-driver
+  - Que es: Personas con licencia y vehículo que quieran hacer viajes en la ciudad, con la posibilidad de ofrecer su propio precio.
+  - Requisitos: Mayor de 18 años; licencia de conducir vigente; certificado de registro (matrícula) del vehículo. Los requisitos pueden variar según la ubicación. Se suben fotos de los documentos y datos personales, y los viajes solo se aceptan tras la aprobación de los documentos. No se exige experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (el conductor negocia la tarifa con el pasajero; sin montos en la página)
+  - Plazo o ciclo: Abierto todo el año (registro desde la app, sin fechas). Cobertura: inconsistente en la página, ver notas.
+  - Como postular: https://indrive.com/es-co/help/drivers/how-to-become-a-driver
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página menciona 12 ciudades, pero un aviso final dice «Disponible en Bogotá y Medellín»; la cobertura real debe confirmarse en la app.
+  - Aclaracion: Los viajes solo se aceptan tras la aprobación de los documentos.
+  - Aclaracion: Los requisitos pueden variar según la ubicación.
+- **inDrive, repartidor (auto o moto) en Colombia** (abierta o vigente, verificada 2 veces) https://indrive.com/es-co/help/couriers-and-bikes/how-to-become-a-courier
+  - Que es: Personas mayores de edad que quieran hacer envíos y domicilios en auto o moto.
+  - Requisitos: Documento de identidad (foto subida en la app). A veces se pide una selfie como parte de la verificación de antecedentes. Edad: la página remite a la app ('revisa en la aplicación los requisitos de edad para tu país'), sin cifra. Se elige modalidad auto o moto; la página no detalla especificaciones del vehículo. Pueden pedirse documentos adicionales según la ubicación. No se exige experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (registro desde la app, sin fechas).
+  - Como postular: https://indrive.com/es-co/help/couriers-and-bikes/how-to-become-a-courier
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página no detalla especificaciones del vehículo ni la cifra de edad mínima; remite a la app.
+  - Aclaracion: No lista las ciudades donde opera el servicio de mensajería en Colombia; debe confirmarse en la app.
+  - Aclaracion: Es una página de ayuda genérica y no confirma por sí sola que el servicio esté activo en todas las ciudades.
+- **Cabify, conductores en Colombia** (abierta o vigente, verificada 2 veces) https://cabify.com/co/conductores
+  - Que es: Conductores con carro particular, taxi o vehículo para Cabify Empresarial.
+  - Requisitos: Edad mínima legal para conducir en la ciudad (sin cifra en la página). Licencia de conducción vigente o certificado de no tener antecedentes penales o sexuales. Carro particular: sedán, hatchback o camioneta de 4 puertas modelo 2004 o posterior, licencia categoría B, cédula y tarjeta de propiedad. Taxi: tarjeta de propiedad, tarjeta de operación, SOAT, cédula, licencia y tarjetón. Cabify Empresarial: campero o station wagon modelo 2014 o posterior, licencia categoría C y documentación adicional (SOAT, revisión técnico-mecánica, seguridad social y ARL, examen psicosensométrico, RUT actividad 4921, certificación bancaria). No se exige experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Bonos de bienvenida por ciudad en las primeras semanas: Bogotá hasta $750.000, Medellín $550.000, Cali $400.000; otras ciudades remiten a otros bonos sin monto. Ingresos por viaje: sin datos.
+  - Plazo o ciclo: Abierto todo el año (formulario de registro permanente). Los bonos de bienvenida no tienen fechas visibles: ver términos y condiciones enlazados en la página.
+  - Como postular: https://cabify.com/co/conductores
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Los montos de los bonos son los que mostraba la página el 2026-11-23, pueden cambiar por campaña y no tienen fechas de vigencia visibles.
+  - Aclaracion: Los términos y condiciones en PDF no se verificaron.
+  - Aclaracion: La página no indica la edad mínima en cifra.
+- **Picap, piloto de moto o carro** (sin verificar, verificada 1 vez) https://www.picap.app/pilotos
+  - Que es: Personas que quieran ser pilotos con moto o carro en la plataforma colombiana de mototaxi, carro y envíos.
+  - Requisitos: sin datos. La página de pilotos no lista edad, documentos, vehículo ni ciudades; remite a los 'Términos y Condiciones Particulares' en PDF (no leídos). La página principal solo indica 'Descarga Picap e inscríbete como piloto' y que Colombia figura entre los países de operación.
+  - Pago o beneficio: La página publicita ingresos mensuales de hasta '$8.000.0000' con moto (cifra con un cero de más, probable error tipográfico) y '$6.000.000' con carro. Es publicidad, no un monto verificado.
+  - Plazo o ciclo: Registro permanente por la app según la página, sin fechas; no se pudo confirmar condiciones.
+  - Como postular: https://download-app.picap.app
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página de pilotos no lista edad, documentos, vehículo ni ciudades; remite a términos y condiciones en PDF que no se leyeron.
+  - Aclaracion: Los ingresos publicitados (hasta '$8.000.0000' con moto y '$6.000.000' con carro) son publicidad, no montos verificados, y la primera cifra tiene un cero de más.
+  - Aclaracion: El botón de registro lleva a una página de descarga de la app sin más contenido.
+  - Aclaracion: No se confirmaron requisitos ni ciudades.
+- **DiDi Food, repartidor (moto, bicicleta o scooter)** (sin verificar, verificada 1 vez) https://www.didi-food.com/es-CO/
+  - Que es: Personas que quieran repartir pedidos en moto, bicicleta o scooter, con horario libre.
+  - Requisitos: sin datos. Ninguna de las páginas leídas (es-CO, es-419/delivery, es-CO/delivery) lista edad, documentos, vehículo ni ciudades de Colombia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página dice que se reparte en scooter, bicicleta o moto, pero no confirma reclutamiento activo en Colombia ni fechas.
+  - Como postular: https://www.didi-food.com/es-419/delivery
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: No se confirmó que el servicio de entregas siga operando en Colombia a 2026-11-23.
+  - Aclaracion: La página de destino solo muestra un lema, sin formulario, requisitos ni ciudades.
+  - Aclaracion: No debe presentarse como ruta confirmada sin validarla antes en la app DiDi.

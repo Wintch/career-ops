@@ -1,0 +1,606 @@
+# Fuentes transversales y de otros rubros
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Municipalidad de Los Ángeles: Trabaja con nosotros (concursos municipales y de salud, CESFAM)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.losangeles.cl/trabaja-con-nosotros/
+  - Que es: Personas que busquen cargos municipales y de salud primaria: técnicos, profesionales y auxiliares, con jornadas de 22, 33 o 44 horas, normalmente a plazo fijo. Algunos avisos son 'bases de datos' de postulantes para reemplazos (por ejemplo, Auxiliar de Servicio y Vigilancia).
+  - Requisitos: Varían por cargo. Ejemplos vistos: para Auxiliar de Servicio y Vigilancia, enseñanza media completa, curso OS-10 vigente y disponibilidad para turnos (se valora experiencia en seguridad o control de acceso); para Técnico en Prevención de Riesgos, título de Técnico de Nivel Superior en Prevención de Riesgos y manejo de Word y Excel. Para postular por correo se piden currículum actualizado, copia de la cédula de identidad por ambos lados y, según el cargo, certificados (OS-10, título, antecedentes). Los demás requisitos están en los PDF de bases, que no se pudieron leer.
+  - Pago o beneficio: sin datos (se indica en cada bases en PDF; no figura en la página)
+  - Plazo o ciclo: Convocatorias continuas durante el año, cada una con su fecha límite. Al 2026-11-23 se vieron avisos con plazo vigente, por ejemplo Auxiliar de Servicio en CESFAM Nuevo Horizonte (miércoles 25 de noviembre, 23:59) y TNS en Mantención Industrial en CESFAM Santa Fe (lunes 23 de noviembre, 23:59, último día). Hay dos avisos de bases de datos sin plazo (Auxiliar de Servicio y Vigilancia; Técnico en Prevención de Riesgos para reemplazo).
+  - Como postular: https://www.losangeles.cl/trabaja-con-nosotros/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los avisos de reemplazo o de base de datos no constituyen proceso de selección ni garantizan contratación.
+  - Aclaracion: La mayoría de las convocatorias ya había vencido, por lo que los plazos pueden estar vencidos al consultar.
+  - Aclaracion: Una fe de erratas menciona el 'viernes 12 de noviembre de 2026' y también el 'jueves 12 de noviembre'; conviene confirmar la fecha en el aviso.
+  - Aclaracion: Los requisitos restantes y la remuneración están en los PDF de bases, que no se pudieron leer.
+- **Servicio Militar (DGMN): inscripción y sorteo de conscripción, Ejército, Armada y Fuerza Aérea** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.serviciomilitar.cl/
+  - Que es: Hombres chilenos que cumplen 18 años en el año (servicio obligatorio) y mujeres chilenas de 17 a 24 años (voluntarias). Es la puerta de entrada a las ramas de las Fuerzas Armadas y a los procesos posteriores de tropa profesional.
+  - Requisitos: Hombres: nacionalidad chilena, 17 a 24 años, cédula de identidad vigente y Clave Única (a los 17 años se requiere permiso de padre, madre o tutor). Mujeres: inscripción voluntaria, chilenas de 17 a 24 años, con cédula vigente y Clave Única. No se exige experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: La página no informa monto; los trámites oficiales son gratuitos. Un medio citado en una búsqueda habla de sueldos sobre $415 mil en 2026, no verificado en la página oficial.
+  - Plazo o ciclo: Anual. Proceso del Servicio Militar 2027 (hombres que cumplen 18 años en 2026): inscripción desde la segunda quincena de abril hasta el último día hábil de septiembre (citado 30 de septiembre; ya cerrada); sorteo general 5 de octubre; publicación de sorteados 9 de octubre; selección generalmente en marzo; inicio del servicio en abril de 2027. La siguiente inscripción debería abrir en abril de 2027 (fecha exacta sin confirmar).
+  - Como postular: https://www.serviciomilitar.cl/
+  - Lectura automatica posible: no
+  - Aclaracion: Es un servicio militar y no un empleo común.
+  - Aclaracion: La inscripción se hace en línea con Clave Única o en persona en el Cantón de Reclutamiento más cercano al domicilio, con la cédula vigente.
+  - Aclaracion: La cifra de sueldo citada por un medio no está verificada en la página oficial.
+- **Ejército de Chile: Soldado de Tropa Profesional (STP)** (se repite (hoy sin llamado abierto), verificada 1 vez) https://www.ejercito.cl
+  - Que es: Personas con situación militar al día e instrucción militar (conscriptos recientes y civiles con situación militar al día) que buscan una plaza de tropa profesional con contrato en el Ejército.
+  - Requisitos: Chilenos de 18 a 25 años, con situación militar al día (instrucción y valer militar), solteros sin hijos ni cargas familiares, al menos 1° año de enseñanza media, salud compatible. Aprobar selección psicológica, pruebas físicas y exámenes médicos y dentales. Dirigido a conscriptos de las promociones 2005 y 2006 y a civiles con situación militar al día. No se exige experiencia laboral.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (BioBioChile no informa el monto). Beneficios citados: estabilidad laboral por 5 años, sistema de salud del Ejército, nivelación de estudios y cursos.
+  - Plazo o ciclo: Anual, en marzo. Convocatoria 2026: del 2 al 20 de marzo de 2026 (cerrada). Existen también bases publicadas de 2023 y 2024 en ejercito.cl, lo que indica ciclo anual. Próxima convocatoria esperada en marzo de 2027, fecha sin confirmar.
+  - Como postular: Entrega de documentos en la unidad sede del Ejército más cercana al domicilio (lista enlazada desde la convocatoria en ejercito.cl)
+  - Lectura automatica posible: no
+  - Aclaracion: No se verificó en la página oficial: el PDF respondió HTTP 403; los datos provienen de BioBioChile (3 de marzo de 2026) y de bases publicadas de 2023 y 2024.
+  - Aclaracion: Al 23/11/2026 no hay convocatoria abierta.
+- **Municipalidad de Valparaíso: Bases y concursos públicos** (se repite (hoy sin llamado abierto), verificada 2 veces) https://municipalidaddevalparaiso.cl/bases/
+  - Que es: Personas interesadas en cargos municipales y de programas sociales de Valparaíso: gestores de caso, apoyo familiar, profesionales de programas, además de llamados de planta.
+  - Requisitos: No visibles en la página; figuran en el PDF de bases de cada concurso (no leídos). Los cargos de planta suelen exigir título o licencia según el estamento (profesional, técnico, administrativo, auxiliar).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Recurrente: concursos publicados durante 2026 (enero a octubre) y 2025 (planta en mayo). Sin plazos de cierre visibles en la página; ningún llamado abierto confirmado al 2026-11-23.
+  - Como postular: https://municipalidaddevalparaiso.cl/bases/
+  - Lectura automatica posible: no
+  - Aclaracion: Los plazos y requisitos están en el PDF de bases de cada concurso, que no se revisó.
+  - Aclaracion: La página mezcla fondos y concursos culturales que no son empleo.
+  - Aclaracion: Se publican llamados nuevos durante el año, por lo que conviene revisar la página con frecuencia.
+- **Fuerza Aérea de Chile: Soldado de Tropa Profesional (bases de postulación)** (sin verificar, verificada 1 vez) https://fach.mil.cl/soldado/basesdepostulacion2025.pdf
+  - Que es: Hombres y mujeres que buscan un cargo de tropa profesional en la FACh: infantería de aviación, mayordomo, cocinero, conductor y auxiliar administrativo.
+  - Requisitos: sin datos. Solo se vio en una búsqueda el inicio de requisitos generales (ser chileno).
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Anual probable (un resultado de búsqueda enlaza las bases 2025 y otras notas hablan de postulación en 2024 y 2025). Fechas de 2026 y 2027: sin datos.
+  - Como postular: sin datos (las bases indican el procedimiento; no se pudo leer)
+  - Lectura automatica posible: no
+  - Aclaracion: Tanto el PDF como fach.mil.cl/soldado/ respondieron HTTP 403, por lo que el contenido no se confirmó.
+  - Aclaracion: Las bases encontradas son de 2025 y no se halló una convocatoria posterior.
+- **Municipalidad de Santiago: Portal Laboral (concursos públicos de planta)** (sin verificar, verificada 1 vez) https://www.munistgo.cl/portal-laboral/
+  - Que es: Personas que quieren ingresar a la planta municipal de Santiago. El llamado incluye cargos sin título profesional: administrativos, oficiales administrativos, secretarias, inspectores y estafetas.
+  - Requisitos: Varían por cargo. Administrativos, oficiales administrativos, secretarias e inspectores: Licencia de Enseñanza Media; estafetas: Licencia de Enseñanza Básica; cargos profesionales y técnicos: título específico y en varios casos 3 a 5 años de experiencia. Bases completas dentro del sistema. Entre las vacantes hay cargos sin título (estafetas 3, inspectores 5, administrativos 2).
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (los cargos se identifican por grado de la planta municipal; no se informan montos)
+  - Plazo o ciclo: La página muestra un llamado a concurso público con postulaciones del 16 al 23 de septiembre, sin indicar el año; de ser 2026, ya cerró. No se halló evidencia de un ciclo anual ni de un próximo llamado.
+  - Como postular: Sistema de registro del Portal Laboral enlazado desde https://www.munistgo.cl/portal-laboral/ (crear perfil, subir currículum y seguir la postulación en línea)
+  - Lectura automatica posible: no
+  - Aclaracion: No se pudo confirmar el año del llamado ni que esté vigente.
+  - Aclaracion: Vacantes listadas: 2 administrativos, 2 oficiales administrativos, 1 secretaria, 5 inspectores y 3 estafetas, además de cargos directivos y profesionales.
+  - Aclaracion: Conviene revisar el portal periódicamente por nuevos llamados.
+- **Servicio Nacional de Migraciones - Habilitación laboral (certificado para trabajar en Chile)** (abierta o vigente, verificada 2 veces) https://serviciomigraciones.cl/conoce-el-paso-a-paso-del-tramite-de-habilitacion-laboral/
+  - Que es: Personas extranjeras con permiso de residencia o autorización vigente para trabajar, que necesitan demostrar a un empleador que pueden trabajar. No es una oferta de empleo.
+  - Requisitos: Para personas extranjeras con permiso de residencia o autorización para trabajar vigente. Se necesita una cuenta personal en el Portal de Trámites Digitales (correo y contraseña); el sistema valida nombre, RUT, fecha de nacimiento y nacionalidad. La página no lista otros documentos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito. Entrega un certificado con código QR que acredita ante el empleador que la persona está habilitada para realizar actividades remuneradas en Chile; también se envía al correo registrado.
+  - Plazo o ciclo: Abierto todo el año; trámite en línea permanente, sin plazo de convocatoria.
+  - Como postular: https://tramites.serviciomigraciones.cl
+  - Lectura automatica posible: no
+  - Aclaracion: Es un certificado, no una oferta de empleo ni una forma de obtener permiso de trabajo: quien no tiene permiso vigente no lo obtiene por esta vía.
+  - Aclaracion: Pasos según la página: ingresar al portal, elegir 'Consulta de Habilitación Laboral', aceptar condiciones, revisar los datos y esperar la validación.
+- **OMIL de Los Ángeles (Biobío): ofertas laborales por WhatsApp e inscripción presencial** (abierta o vigente, verificada 2 veces) https://sites.google.com/losangeles.cl/omil-losangeles/
+  - Que es: Cualquier persona que busque trabajo en la comuna, incluidas personas con discapacidad, adultos mayores y extranjeros (hay una 'Línea Migrantes' con atención de abogada).
+  - Requisitos: Currículum actualizado ('fundamental para este proceso'). No se indican otros requisitos, ni de edad ni de experiencia. La inscripción es presencial en la oficina.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Varía según la oferta de cada empresa; no indicado en el sitio
+  - Plazo o ciclo: Abierto todo el año, de lunes a viernes (cierre a las 14:00; la apertura figura a las 08:30 en una sección y a las 08:15 en otra)
+  - Como postular: https://sites.google.com/losangeles.cl/omil-losangeles/
+  - Lectura automatica posible: Las ofertas pasan por la Bolsa Nacional de Empleo (https://www.bne.cl); la OMIL no publica una lista abierta en su sitio.
+  - Aclaracion: Las ofertas se ven por WhatsApp y la inscripción es presencial.
+  - Aclaracion: La página no menciona programas de temporada ni ofertas concretas con fecha.
+- **SENCE: oficinas regionales (Maule, O'Higgins, Los Lagos, Magallanes, Biobío, Valparaíso) y OIRS** (abierta o vigente, verificada 2 veces) https://sence.gob.cl/sence/regiones
+  - Que es: Cualquier persona que necesite orientación, información de cursos o ubicar la oficina regional más cercana, incluidas las zonas de temporada agrícola y salmonera (Maule, O'Higgins, Los Lagos, Magallanes).
+  - Requisitos: No aplica; no hay postulación en esta página.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica; es un directorio de oficinas
+  - Plazo o ciclo: Atención permanente; en las regiones donde se informa, de lunes a viernes de 9:00 a 14:00
+  - Como postular: https://sence.gob.cl/sence/regiones
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Sirve como directorio para ubicar la oficina regional, no como bolsa de empleo.
+  - Aclaracion: Las palabras 'temporero' y 'temporada' no aparecen y no hay programa de empleo de temporada en esta página.
+- **EURES, portal europeo de empleo (ofertas en países de la Unión Europea y del EEE)** (abierta o vigente, verificada 2 veces) https://eures.europa.eu/index_en
+  - Que es: Servicio europeo de movilidad laboral para buscar empleo en Europa y para que empresas recluten. La página no dice si personas de fuera de la UE (por ejemplo, chilenas) pueden usar el buscador o postular: sin datos. Contactar al servicio de ayuda (Helpdesk) del portal antes de contar con él.
+  - Requisitos: El sitio no lista requisitos de ciudadanía ni indica si personas no pertenecientes a la UE pueden postular. Se orienta a quienes buscan trabajo en los 31 países EURES (UE, EEE y Suiza). Para crear cuenta en My EURES se usa EU Login. Contratar a una persona chilena exige además permiso de trabajo del país de destino; la elegibilidad debe consultarse al servicio de ayuda de EURES. No exige experiencia de forma general; depende de cada oferta.
+  - Pago o beneficio: Gratuito (la página indica que la mayoría de los servicios son gratuitos); el sueldo depende de cada oferta.
+  - Plazo o ciclo: Abierto todo el año (portal con ofertas permanentes; la portada muestra ofertas publicadas en los últimos siete días).
+  - Como postular: https://europa.eu/eures/portal/jv-se/home?lang=en
+  - Lectura automatica posible: none
+  - Aclaracion: La página no indica si personas de fuera de la UE pueden usar el buscador o postular; la elegibilidad debe consultarse al servicio de ayuda (Helpdesk) de EURES.
+  - Aclaracion: Contratar a una persona chilena exige además permiso de trabajo del país de destino.
+  - Aclaracion: No es una vía específica para chilenos: la mayoría de las ofertas exigen derecho a trabajar en la UE/EEE.
+  - Aclaracion: Aviso de mantenimiento el 23/11/2026 de 17:45 a 22:30 CET.
+- **Dirección del Trabajo: Registro de Empresas de Servicios Transitorios (EST)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://intranet.dirtrab.cl/dtplus/est/listadoest.aspx
+  - Que es: Cualquier persona o empresa que quiera comprobar si una agencia de servicios transitorios está inscrita y con garantía constituida antes de entregar documentos o aceptar un contrato. El enlace al registro aparece en el portal de la DT (http://www.dt.gob.cl/portal/1626/w3-channel.html).
+  - Requisitos: Ninguno: consulta pública y gratuita.
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: Registro público permanente (el 2026-11-23 mostraba 186 coincidencias, 20 por página). No es un portal de empleos ni tiene convocatorias.
+  - Como postular: sin datos
+  - Lectura automatica posible: Tabla HTML filtrable; no se vio exportación ni API
+  - Aclaracion: No es un lugar donde postular; sirve para verificar que una agencia esté inscrita antes de entregar datos o postular.
+  - Aclaracion: Registro oficial de la Dirección del Trabajo conforme a la Ley N° 20.123.
+  - Aclaracion: Muestra el estado de inscripción, el monto y vencimiento de la garantía, el número de trabajadores y el certificado, y permite filtrar por comuna, estado, RUT, nombre y fechas.
+- **Gendarmería de Chile - Apoyo postpenitenciario (CAIS, eliminación de antecedentes y programa País)** (abierta o vigente, verificada 2 veces) https://www.gendarmeria.gob.cl/apoyo_post.html
+  - Que es: Personas que eliminan antecedentes penales (DL 409), que aclaran antecedentes en una Oficina de Diagnóstico Prontuarial, en libertad condicional o con indulto conmutativo (Ley 20.588).
+  - Requisitos: Eliminación de antecedentes: tener las condenas cumplidas y las multas pagadas, cédula de identidad vigente y cuarto básico aprobado, y firmar mensualmente durante 2 a 5 años según el número de condenas. Pueden acceder al programa de integración quienes eliminan antecedentes, aclaran antecedentes en una ODP, están en libertad condicional o tienen indulto conmutativo. No se pide experiencia laboral.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sin costo ni pago indicado. Incluye eliminación de antecedentes penales (DL 409), aclaración prontuarial en las Oficinas de Diagnóstico Prontuarial y el Programa de Apoyo a la Integración Social (país), que trabaja intervención especializada, integración socio-comunitaria y mejora de la empleabilidad.
+  - Plazo o ciclo: Abierto todo el año. La eliminación de antecedentes se solicita en cualquier CAIS del país, sin plazo de convocatoria.
+  - Como postular: https://www.gendarmeria.gob.cl/apoyo_post.html
+  - Lectura automatica posible: no
+  - Aclaracion: Es útil para quien tiene antecedentes penales y busca trabajo, pero no es una bolsa de empleo.
+  - Aclaracion: La página no describe cómo inscribirse en el programa de integración, solo quiénes acceden.
+  - Aclaracion: En libertad condicional, corresponde presentarse en el CAIS asignado dentro de 5 días corridos de obtenido el beneficio.
+- **SENCE, capacitación gratuita para trabajadores y dueños de pequeños negocios** (abierta o vigente, verificada 2 veces) https://sence.gob.cl/personas/trabajadorpequenonegocio
+  - Que es: Quienes trabajan en una micro o pequeña empresa, y dueños, socios o representantes de micro o pequeñas empresas (página aparte: https://sence.gob.cl/personas/pequenonegocio).
+  - Requisitos: Cursos de tecnología, emprendimiento y liderazgo: mayores de 18 años. Los demás programas: la página no detalla requisitos. Las personas sin experiencia pueden acceder a los cursos en línea abiertos; no se verificó si exigen estar trabajando o tener un negocio.
+  - Pago o beneficio: Cursos gratuitos según el encabezado de la página (no precisado por programa); no entrega remuneración.
+  - Plazo o ciclo: Abierto con cursos en línea vigentes; sin fechas de inicio ni de cierre en la página.
+  - Como postular: https://eligemejor.sence.cl
+  - Lectura automatica posible: No
+  - Aclaracion: Las postulaciones a 'Despega MIPE en línea' y 'Emprende' figuran cerradas y no deben presentarse como abiertas.
+  - Aclaracion: El encabezado de la página dice 'capacítate sin costo', pero no precisa la gratuidad por programa.
+  - Aclaracion: No se precisa si los cursos en línea exigen estar trabajando o tener un negocio.
+- **Escuela de Gendarmería: admisión de Gendarme Alumno y Alumna** (se repite (hoy sin llamado abierto), verificada 2 veces) https://admision.gendarmeria.gob.cl
+  - Que es: Personas que quieren ingresar como gendarme (funcionario penitenciario) a través de la formación en la Escuela; alumnos becarios sin mensualidad ni arancel.
+  - Requisitos: Según 13.cl (proceso 2026): chilenos solteros de 18 a 25 años, 2° año de enseñanza media aprobado, situación militar al día, antecedentes intachables, salud compatible, sin tatuajes visibles en rostro, cuello, manos o antebrazos; sin estatura mínima. El sitio indica que quienes cursan 4° medio deben acreditar la enseñanza media completa en enero de 2027, y que postular cuesta 0,25 UF. Se postula en línea con Clave Única. No se exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Los alumnos no pagan mensualidad y son becarios (hospedaje, uniforme, estipendio, seguro de salud y alimentación, sin montos). Gendarme recién egresado: $992.028 líquido mensual referencial según el sitio; 13.cl informó $1.169.235 bruto en 2026.
+  - Plazo o ciclo: Anual. El sitio muestra "PROCESO FINALIZADO" (el título dice Admisión 2026 y el cuerpo Admisión 2027, inconsistente). En el proceso 2026 el plazo venció el 5 de mayo de 2026 a las 17:00 (según 13.cl). Próxima convocatoria esperada durante 2027, fecha sin confirmar.
+  - Como postular: https://admision.gendarmeria.gob.cl
+  - Lectura automatica posible: no
+  - Aclaracion: Al 23/11/2026 no hay convocatoria abierta.
+  - Aclaracion: Los requisitos de edad y estado civil provienen de prensa, no de la página oficial.
+  - Aclaracion: Etapas de selección: evaluación psicométrica, entrevista médica, evaluación física y entrevista personal; la formación dura dos semestres.
+  - Aclaracion: Consultas: admision.escuela@gendarmeria.cl, +56 22 763 5456.
+- **Registro Social de Hogares (RSH), requisito de muchos beneficios** (sin verificar, verificada 1 vez) https://www.registrosocial.gob.cl
+  - Que es: Hogares que quieren acceder a beneficios y programas del Estado. Por ejemplo, INDAP revisa los activos de sus usuarios con la calificación socioeconómica del RSH.
+  - Requisitos: No se pudieron ver requisitos: la página oficial muestra solo menús y encabezados sin texto, y la página explicativa del registro respondió con error. Teléfonos de atención indicados: 800 104 777 y 800 719 002.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica (es un registro, no un beneficio en dinero).
+  - Plazo o ciclo: Permanente según la descripción original; la página no lo declara.
+  - Como postular: https://www.ventanillaunicasocial.gob.cl/centro-de-ayuda/tema/rsh
+  - Lectura automatica posible: No
+  - Aclaracion: Los requisitos, documentos y plazos de ingreso no pudieron confirmarse, porque la página oficial mostraba solo menús y encabezados.
+  - Aclaracion: Es un trámite previo a beneficios, no un empleo.
+- **Tricot: Trabaja con nosotros (tiendas, bodega, caja, guardia, oficinas)** (abierta o vigente, verificada 2 veces) https://www.tricot.cl/trabaja.html
+  - Que es: Cualquier persona que busque trabajo en tiendas de vestuario Tricot, centros de distribución y oficinas de apoyo. El formulario de empleo ofrece cargos de tienda y de apoyo, y no distingue por nivel de experiencia.
+  - Requisitos: Los requisitos específicos por cargo no se publican en la página. El formulario exige nombre y apellidos, correo, teléfono (sin +56, con 9 o 2 inicial), región, cargo, CV en PDF de hasta 2 MB y aceptar la política de datos personales. No se declara experiencia ni título mínimo.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Formulario de CV disponible; la página no publica fechas de cierre ni indica si la recepción es continua.
+  - Como postular: https://formularioempleo.tricot.cl
+  - Lectura automatica posible: No se vio API ni feed; solo formulario web con carga de CV.
+  - Aclaracion: El formulario oficial (formularioempleo.tricot.cl) sirve a Tricot, Tricard y Triservice.
+  - Aclaracion: La página no declara que la recepción de CV sea permanente; solo señala que cada año se abren más tiendas.
+  - Aclaracion: Varios cargos de tienda tienen versión de reemplazo.
+  - Aclaracion: No se publican vacantes puntuales ni fechas.
+- **AquaChile: portal de empleo 'Trabaja con nosotros' (producción, plantas, prácticas y memorias)** (abierta o vigente, verificada 1 vez) https://trabajos.aquachile.com/
+  - Que es: Personas que buscan trabajo en producción, planta de alimentos, industrial, cadena de suministro, áreas administrativas y prácticas o memorias. Al revisar la categoría Producción (23-11-2026) aparecían 3 vacantes: Planificador Mantenimiento Producción (Puerto Natales, Magallanes), Analista Operaciones (Castro, Los Lagos) y Coordinador Operaciones (Puerto Natales, Magallanes).
+  - Requisitos: La página no lista requisitos generales. Cada aviso define los suyos. Para postular solo se pide crear una cuenta, ingresar datos personales y subir el currículum. Edad, documentos, residencia y experiencia: sin datos (no se vieron avisos de cargos de entrada).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año. El 23-11-2026 la categoría Producción mostraba 3 vacantes (publicadas el 6, 18 y 20 de noviembre de 2026) y Prácticas y Memorias mostraba 'Programa de Prácticas 2027' (publicado el 18-11-2026, Los Lagos). Meses de mayor demanda: sin datos.
+  - Como postular: https://trabajos.aquachile.com/content/Trabaja-con-nosotros/
+  - Lectura automatica posible: Portal de reclutamiento tipo SuccessFactors con listados por categoría y buscador (/search/); no se verificó RSS ni API.
+  - Aclaracion: Las vacantes de Producción vistas eran cargos técnicos o de coordinación, no de operario; las de plantas pueden estar en la categoría Planta de Alimentos, que no se abrió.
+  - Aclaracion: Proceso según la página: crear cuenta y subir el currículum; el equipo de reclutamiento y selección revisa el perfil; si calza con un cargo, un analista contacta a la persona; si no, los datos quedan para futuras vacantes.
+  - Aclaracion: Alojamiento o traslado: sin datos.
+- **Garces Fruit: Trabaja con nosotros, Temporada 2026-2027 (Mostazal, Malloa, Molina)** (abierta o vigente, verificada 2 veces) https://garcesfruit.com/trabaja-con-nosotros/
+  - Que es: Personas que quieran trabajar en las plantas de Mostazal (San Francisco de Mostazal, O'Higgins), Malloa (O'Higgins) o Molina (Maule), como Operario u otros cargos. La página tiene una sección específica para la Temporada 2026-2027.
+  - Requisitos: La página no lista requisitos (edad, documentos, residencia, experiencia). Se ofrece el cargo genérico 'Operario', por lo que no consta que se exija experiencia, pero tampoco se declara que no se pida.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Temporada 2026-2027 (la página la menciona expresamente); fechas exactas de inicio y término: sin datos. Ciclo anual de fruta de exportación, aunque la página no indica los meses.
+  - Como postular: https://garcesfruit.trabajando.cl/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no informa sobre alojamiento ni transporte.
+  - Aclaracion: El formulario breve consulta si la persona ha trabajado antes en Garces Fruit, a qué planta postula y a qué cargo (Operario u Otro).
+- **Garces Fruit en Trabajando.cl: vacantes y envío de currículum** (abierta o vigente, verificada 2 veces) https://garcesfruit.trabajando.cl/
+  - Que es: Personas interesadas en vacantes industriales y corporativas de Garces Fruit. El proceso descrito tiene cuatro etapas: revisión de currículum, entrevista con la jefatura, evaluación de habilidades y oferta final.
+  - Requisitos: No se listan requisitos generales; cada aviso los define. Edad, documentos, experiencia: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año como vía de postulación. El 23-11-2026 el listado /trabajo-empleo no mostró ofertas puntuales en la lectura automática (solo buscador y alertas), así que las vacantes concretas quedan sin confirmar; se publican según la temporada.
+  - Como postular: https://garcesfruit.trabajando.cl/crea-su-curriculum
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no informa sobre alojamiento ni transporte.
+  - Aclaracion: El enlace a garcesfruit.buk.cl no fue revisado.
+- **Dole Chile: Trabaja con nosotros en planta (Codegua, San Fernando, Lontué, Molina)** (abierta o vigente, verificada 2 veces) https://dole.cl/trabaja-con-nosotros-en-planta/
+  - Que es: Personas que quieran trabajar en plantas de Codegua (O'Higgins), San Fernando (O'Higgins), Lontué y Molina (Maule). Cargos que ofrece el formulario: Operador Armado de Material, Embaladoras, Selladoras, Paletizadoras, Enhuinchadoradores, Operador de Grúa, Movilizador y Camarero.
+  - Requisitos: La página no lista requisitos. Se pide RUT, por lo que se asume documento de identidad chileno, aunque no se declara. Los cargos listados son operativos y no mencionan experiencia ni estudios. Edad mínima: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Formulario abierto de forma continua; sin fecha de cierre ni ciclo indicado. Meses de mayor contratación: sin datos.
+  - Como postular: https://dole.cl/trabaja-con-nosotros-en-planta/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La ficha de contacto de Dole menciona además plantas en Curicó y San Felipe, que no figuran en el formulario.
+  - Aclaracion: El cargo 'Camarero' aparece en la lista, aparentemente como auxiliar de aseo o servicio.
+  - Aclaracion: La página no informa sobre alojamiento ni transporte.
+- **Unifrutti Chile: Trabaje con nosotros (plantas de Copiapó a Linares)** (abierta o vigente, verificada 2 veces) https://www.unifrutti.com/trabaje-con-nosotros
+  - Que es: Personas interesadas en trabajar en Unifrutti Chile. El sitio muestra plantas en Copiapó, Coquimbo, San Felipe, Linderos, Requínoa, Teno, Romeral y Linares, aunque la página no dice que sean los lugares de contratación.
+  - Requisitos: La página no lista requisitos. Pide currículum adjunto, lo que puede ser un obstáculo para quien no tenga uno hecho.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Formulario abierto; la página no muestra ofertas puntuales, fechas ni temporadas. Peak de cosecha y embalaje: sin datos.
+  - Como postular: https://www.unifrutti.com/trabaje-con-nosotros
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no publica avisos puntuales; solo ofrece una vía de postulación espontánea.
+  - Aclaracion: No se informa sobre alojamiento ni transporte.
+- **Cermaq Chile: Trabaja con nosotros (salmonicultura, Puerto Montt)** (abierta o vigente, verificada 2 veces) https://www.cermaq.cl/nuestra-compania/trabaja-con-nosotros
+  - Que es: Personas interesadas en trabajar en la empresa. La página solo menciona la oficina central en Puerto Montt (Diego Portales 2000, piso 10).
+  - Requisitos: Solo se menciona compartir los valores de Cermaq y querer crecer con el equipo. Edad, documentos, residencia, experiencia y estudios: sin datos. No se declara que se acepten postulantes sin experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Recepción continua de currículum por correo, sin ciclo anual ni fecha de cierre. No se muestran vacantes publicadas.
+  - Como postular: mailto:atraccion.talento@cermaq.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no menciona prácticas, vacantes puntuales, alojamiento ni traslado.
+  - Aclaracion: La postulación se hace solo por correo, junto con una explicación de por qué se quiere ser parte de Cermaq.
+- **Concha y Toro: formulario de contacto con asunto 'Trabaja con Nosotros'** (abierta o vigente, verificada 2 veces) https://conchaytoro.com/contacto/
+  - Que es: Personas que quieran postular a la viña (incluye faenas de campo y bodega, aunque el sitio no lo detalla). El formulario de contacto ofrece la opción 'Trabaja con Nosotros' en el menú de asuntos.
+  - Requisitos: sin datos (la página no los indica)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (vía formulario); ciclo de vendimia no confirmado en la página
+  - Como postular: https://conchaytoro.com/contacto/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una convocatoria con plazo, sino un canal de contacto abierto.
+  - Aclaracion: La página no muestra ofertas concretas ni menciona vendimia o trabajo de temporada.
+  - Aclaracion: No se pudo contrastar con otra fuente.
+- **Metro de Santiago: Trabaja con nosotros** (abierta o vigente, verificada 2 veces) http://metro.trabajando.cl/
+  - Que es: Cualquier persona que busque empleo en Metro de Santiago: operación de la red, estaciones, mantenimiento y áreas administrativas. Metro destaca beneficios como viaje gratuito en la red, reajustes dos veces al año ligados a la inflación y semana de 40 horas.
+  - Requisitos: Varían por oferta; se debe registrarse o crear el CV en el portal. La página no mostró el listado, solo ejemplos de áreas (jefatura de proyectos, ingeniería de estudios, técnico audiovisual).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (portal de empleo de la empresa, enlazado desde metro.cl como "Trabaja con Nosotros"). Las vacantes cambian según necesidad.
+  - Como postular: http://metro.trabajando.cl/
+  - Lectura automatica posible: no
+  - Aclaracion: No se vio el listado de ofertas, por lo que no se confirmaron vacantes concretas.
+  - Aclaracion: La URL metro.cl/trabajo-empleo devolvió 404; el canal oficial es el enlace Trabaja con Nosotros de metro.cl.
+- **Metro de Santiago: Vigilantes (capacitación remunerada y certificación OS-10)** (abierta o vigente, verificada 2 veces) https://vigilantesmetro.trabajando.cl/
+  - Que es: Personas con formación o experiencia en seguridad, ex conscriptos o ex miembros de fuerzas de orden que quieran ser vigilantes privados en la red de Metro.
+  - Requisitos: Chilenos o extranjeros con residencia definitiva, mínimo 21 años, al menos un año de experiencia en un cargo relacionado con seguridad, y una de estas condiciones: curso de tiro de empresa acreditada por OS-10, servicio militar cumplido, o haber pertenecido a una fuerza de orden (Carabineros, PDI, Armada). Exige experiencia previa, por lo que no sirve para un primer empleo.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (la página no informa sueldo). Capacitación interna remunerada de dos meses; luego contrato indefinido con turno rotativo 5x2, bonos y beneficios.
+  - Plazo o ciclo: Abierto; convocatoria publicada sin fecha de cierre visible.
+  - Como postular: Botón "Postula aquí" en la oferta 6033521 de metro.trabajando.cl
+  - Lectura automatica posible: no
+  - Aclaracion: Tras la capacitación, un curso impartido por Carabineros otorga la certificación OS-10.
+  - Aclaracion: Se requiere cuenta o CV en metro.trabajando.cl.
+  - Aclaracion: La convocatoria estaba activa en la fecha de revisión, sin fecha de cierre visible.
+- **BancoEstado: Trabaja con nosotros** (abierta o vigente, verificada 2 veces) https://bancoestado.trabajando.cl/
+  - Que es: Cualquier persona que busque empleo en el banco, con más de 400 sucursales en el país. Destacan áreas de riesgos, asuntos públicos y créditos.
+  - Requisitos: No visibles en la página principal; dependen de cada aviso. No se vieron programas de ingreso sin experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año; las ofertas cambian. No se pudo ver un aviso puntual con fecha.
+  - Como postular: https://bancoestado.trabajando.cl/crea-su-curriculum
+  - Lectura automatica posible: no
+  - Aclaracion: El listado de ofertas se carga de forma dinámica y no se vio ningún aviso concreto con fecha.
+  - Aclaracion: Beneficios publicados: beca de educación superior, sala cuna y subsidio de primera vivienda.
+  - Aclaracion: El proceso tiene cinco pasos: postulación, evaluación, entrevista, expectativas y carta oferta.
+- **Salmones Camanchaca - avisos de cultivo y cosecha (salmonicultura, Los Lagos)** (abierta o vigente, verificada 1 vez) https://www.camanchaca.cl/
+  - Que es: Personas con experiencia en centros de cultivo de salmón que buscan trabajo en la región de Los Lagos.
+  - Requisitos: Enseñanza media completa; experiencia laboral en centros de cultivo; matrícula vigente de Patrón de Nave o Tripulante; disponibilidad para turnos 14x14. Edad: no se indica. Requiere experiencia previa, no apto para quien parte sin experiencia.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Aviso 'Operario de Cultivos y Cosecha' publicado el 17-11-2026 y vigente hasta el 31-01-2027. El rubro publica avisos de forma continua (otros avisos acuícolas en el mismo portal con fechas del 5 al 20 de noviembre de 2026).
+  - Como postular: https://www.chiletrabajos.cl/trabajo/postular/3933491
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un portal intermediario (chiletrabajos.cl), no la página de empleo de la empresa.
+  - Aclaracion: El aviso es de Puerto Montt, jornada completa y contrato indefinido; el salario no se indica.
+  - Aclaracion: Beneficios: seguro de salud y de vida, mutual de seguridad, caja de compensación y uniforme.
+  - Aclaracion: Se postula con el botón Postular en chiletrabajos.cl.
+- **Ariztía (Sopraval y Ariztía, aves): Trabaja con nosotros** (sin verificar, verificada 1 vez) https://ariztia.com/consumidores/trabaja-con-nosotros/
+  - Que es: Personas interesadas en trabajar en la empresa. La página dice que se puede cargar el currículum y revisar las vacantes disponibles, pero la sección es una imagen y no se vio el enlace exacto ni las plantas.
+  - Requisitos: La página oficial no lista requisitos. En los avisos de terceros, los de frigorífico pedían experiencia mínima de 1 año (un caso). Edad, documentos: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://ariztia.com/consumidores/trabaja-con-nosotros/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se confirmó ninguna vacante vigente al 23-11-2026.
+  - Aclaracion: Los avisos de terceros (Chiletrabajos, Yapo, Jooble) pueden estar desactualizados; uno de ellos ya había expirado el 09-09-2026.
+  - Aclaracion: La página advierte sobre correos falsos: solo es oficial el dominio @ariztia.com.
+  - Aclaracion: El formulario de carga y el listado de vacantes no se mostraron en la página oficial, y la cifra de 93 empleos en Indeed no está verificada.
+- **EFE (Empresa de los Ferrocarriles del Estado): Trabaja con nosotros** (sin verificar, verificada 1 vez) https://efe.trabajando.cl/
+  - Que es: Cualquier persona que busque empleo en EFE; el portal permite alertas por correo diarias o semanales.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin ofertas visibles al 2026-11-23; no se confirma un ciclo.
+  - Como postular: https://efe.trabajando.cl/crea-su-curriculum
+  - Lectura automatica posible: no
+  - Aclaracion: La página no mostró ningún aviso ni mensaje de sin ofertas; el listado puede cargarse de forma dinámica.
+  - Aclaracion: No se pudo confirmar una vía de postulación abierta con avisos reales.
+- **ENAP (Empresa Nacional del Petróleo): Trabaja con nosotros** (sin verificar, verificada 1 vez) https://enap.trabajando.cl/
+  - Que es: Cualquier persona que busque empleo en ENAP. El portal se organiza por Casa Matriz Santiago, Aconcagua, Bío-Bío, Magallanes y Abastecimiento.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: No se vio ningún aviso; la afirmación de «abierto todo el año» no se pudo confirmar.
+  - Como postular: https://enap.trabajando.cl/crea-su-curriculum
+  - Lectura automatica posible: no
+  - Aclaracion: El listado de ofertas salió vacío, posiblemente por carga dinámica.
+  - Aclaracion: La afirmación de abierto todo el año no se pudo confirmar.
+- **Correos de Chile: Trabaja con nosotros** (sin verificar, verificada 1 vez) https://correos.trabajando.cl/
+  - Que es: Cualquier persona que busque empleo en Correos, con buscador por región y comuna y alertas por correo.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin ofertas visibles al 2026-11-23; la sección de últimos empleos decía «Te avisamos cuando se publiquen nuevos empleos».
+  - Como postular: https://correos.trabajando.cl/crea-su-curriculum
+  - Lectura automatica posible: no
+  - Aclaracion: La sección Últimos empleos publicados aparece vacía.
+  - Aclaracion: No se confirma un llamado ni una vía abierta con avisos reales.
+- **Starbucks Chile - postula aquí** (sin verificar, verificada 1 vez) https://app.genoma.work/jobs/starbucks
+  - Que es: Personas interesadas en trabajar en cafeterías Starbucks en Chile.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se vieron vacantes ni fechas en la página.
+  - Como postular: https://app.genoma.work/jobs/starbucks
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL corresponde a Genoma.Work, una plataforma de selección y evaluaciones, asociada a Starbucks Chile solo por el nombre de la ruta.
+  - Aclaracion: No se confirmó que sea el canal vigente ni que haya vacantes al 23/11/2026.
+  - Aclaracion: Notas de prensa (la más reciente, de noviembre de 2024) indican que se postula desde la sección Trabaja con nosotros del sitio de Starbucks, con CV y cuenta.
+  - Aclaracion: No se halló una página oficial de Starbucks que confirme el enlace.
+- **Juan Maestro - Trabaja con nosotros** (sin verificar, verificada 1 vez) https://gnbrands.pandape.computrabajo.com/
+  - Que es: Personas interesadas en trabajar en la cadena de comida rápida Juan Maestro.
+  - Requisitos: sin datos. Un listado de Computrabajo apareció bajo el filtro 'sin experiencia' pero no se confirmó en el aviso.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://gnbrands.pandape.computrabajo.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL devolvió contenido vacío (portal de reclutamiento de pandape/Computrabajo, probablemente con carga dinámica).
+  - Aclaracion: Los avisos de Computrabajo (Jefe de Local y Operarios en Las Condes) son listados genéricos cuyo contenido y vigencia no se confirmaron.
+  - Aclaracion: No se halló la página oficial de empleo de Juan Maestro.
+- **Starken - avisos de bodega y atención de agencias** (sin verificar, verificada 1 vez) https://www.starken.cl/
+  - Que es: Personas que buscan trabajo en bodega y atención en agencias de encomiendas, sobre todo en Santiago.
+  - Requisitos: No detallados en el listado. El aviso de bodega pregunta por 'experiencia o conocimientos en el área de bodega'; el de cajero/digitador de carga no especifica requisitos.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin ciclo verificado. Avisos vistos: 29-09-2026 (Operario de Bodega, San Bernardo) y 02-11-2026 (Cajero de Carga Part Time, agencia Franklin 549, Santiago Centro). No se confirmó que sigan abiertos al 2026-11-23.
+  - Como postular: https://www.chiletrabajos.cl/encuentra-un-empleo?8=Starken
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un agregador (Chiletrabajos), no el sitio oficial; en starken.cl no se halló una sección de empleo oficial.
+  - Aclaracion: No se confirmó que los avisos sigan abiertos al 2026-11-23.
+  - Aclaracion: El aviso de bodega menciona beneficios: bus de acercamiento, mutual de seguridad, caja de compensación, casino y uniforme.
+  - Aclaracion: No se verificó el ciclo de Navidad.
+- **Randstad Chile: ofertas de trabajo (portal de empleos)** (abierta o vigente, verificada 2 veces) https://www.randstad.cl/trabajos/
+  - Que es: Cualquier persona que busque empleo temporal o de jornada completa. Se vieron avisos de operarios de planta, operadores y operarios de bodega, apiladores eléctricos, ayudantes de línea, aseo, entregadores en ruta, vendedores en terreno, mecánicos de mantención y cargos administrativos y profesionales. Hay filtros por especialidad (19 sectores), ubicación, tipo (temporal o tiempo completo) y salario.
+  - Requisitos: Varían por oferta. Hay avisos que piden licencia clase B o D, enseñanza media técnico-industrial, 3 años de experiencia en mantención industrial, o experiencia en ventas o atención al cliente. Otros avisos no declaran requisitos en el listado.
+  - Pago o beneficio: Rango visto en los avisos: aproximadamente $539.000 a $1.350.000 mensuales; algunas ofertas pagan por hora. Depende de cada cargo.
+  - Plazo o ciclo: Abierto todo el año. El 2026-11-23 el listado mostraba 109 ofertas (30 visibles con botón para ver más), publicadas entre el 12 y el 20 de noviembre de 2026.
+  - Como postular: https://www.randstad.cl/trabajos/
+  - Lectura automatica posible: Ninguna vista (sitio web con filtros; no se vio API ni feed).
+  - Aclaracion: La mayoría de las ofertas son contratos temporales y algunas son de tiempo completo.
+  - Aclaracion: Algunas descripciones aparecen cortadas, por lo que los requisitos completos se ven en el detalle de cada aviso.
+  - Aclaracion: Para postular se abre el detalle de la oferta y se crea la cuenta de candidato en Mi Randstad, o se activa una alerta por correo.
+- **Randstad Chile: candidatos de perfil operacional (industria, logística, retail, administración)** (abierta o vigente, verificada 2 veces) https://www.randstad.cl/candidatos/operational/
+  - Que es: Personas que buscan cargos operativos: industria, logística, retail y secretariado/administración. La página incluye una sección para estudiantes que buscan trabajo part-time con enlaces a búsquedas de reponedores, operarios, choferes y auxiliares.
+  - Requisitos: La página no especifica requisitos generales (educación, experiencia ni documentos); se definen en cada oferta. No se vio una declaración explícita de que no se pida experiencia.
+  - Pago o beneficio: sin datos (la página ofrece una calculadora de sueldo líquido; los montos se ven en cada oferta)
+  - Plazo o ciclo: Abierto todo el año (registro permanente de candidatos y alertas por correo)
+  - Como postular: https://www.randstad.cl/trabajos/
+  - Lectura automatica posible: Ninguna vista
+  - Aclaracion: La página invita a crear una cuenta en Mi Randstad y a activar alertas por correo, pero no declara que el registro sea permanente ni publica requisitos o plazos.
+  - Aclaracion: Se postula desde los enlaces de registro o de postulación, que llevan al portal Mi Randstad.
+- **Manpower Chile (ManpowerGroup): oportunidades de empleo y regístrate** (sin verificar, verificada 1 vez) https://www.manpowergroup.cl
+  - Que es: Personas que buscan empleo vía la agencia. El sitio ofrece servicios transitorios, outsourcing, reclutamiento y selección y payroll. Las familias de cargos no se detallan en la página principal. Cuenta con un portal de trabajadores asociados (personal ya contratado por la agencia).
+  - Requisitos: sin datos (la página no declara requisitos)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (el sitio enlaza a ofertas permanentes, pero no se pudo leer ningún aviso vigente)
+  - Como postular: https://bit.ly/oportunidadesmpgchile
+  - Lectura automatica posible: Ninguna verificada (portal Zoho Recruit; no se probó su feed)
+  - Aclaracion: El sitio está orientado a empresas; la sección de oportunidades solo remite a bit.ly/oportunidadesmpgchile y a manpower.cl, sin avisos legibles.
+  - Aclaracion: Para cargos de tecnología enlaza a Experis (experis.cl).
+  - Aclaracion: No se pudo confirmar cuántos avisos hay ni cómo es el proceso de registro.
+  - Aclaracion: Contacto: teléfono +562 25831123 y oficina en Avenida El Bosque Central 92, Las Condes (Santiago).
+- **Adecco Chile: portal de candidatos (candidate.adecco.com)** (sin verificar, verificada 1 vez) https://www.adecco.com/es-cl/candidatos
+  - Que es: Personas que buscan trabajo operativo, técnico, administrativo y profesional. La página destaca convocatorias por familia: cajeros bancarios, trabajadores agrícolas, mujeres en minería, cargos de retail, minería y agroindustria, cargos industriales y logística, y cargos profesionales, administrativos y TI. Incluye una bolsa de talento para quienes aún no eligen cargo. El sitio afirma tener 'más de 3.500 ofertas laborales'.
+  - Requisitos: La página no lista requisitos por cargo; dice que dependen de la experiencia, la ubicación y el área del candidato.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Se declara abierto todo el año (crear perfil gratuito y postular), pero la vigencia de los avisos enlazados no se pudo confirmar; la página no muestra fechas
+  - Como postular: https://candidate.adecco.com/es/cl
+  - Lectura automatica posible: Ninguna verificada (portal dinámico)
+  - Aclaracion: Los códigos de los avisos enlazados corresponden a diciembre de 2025 y enero de 2026 (inferido del código, no declarado), por lo que podrían estar vencidos.
+  - Aclaracion: Las convocatorias enlazadas son genéricas por familia de cargos.
+  - Aclaracion: Algunos roles son estacionales y se ubican en Santiago y varias regiones.
+- **Adecco Chile: servicios transitorios (marco que declara la agencia)** (sin verificar, verificada 1 vez) https://www.adecco.com/es-cl/empresas/servicios/servicios-transitorios
+  - Que es: Página dirigida a empresas, útil para entender cómo funciona el servicio de trabajadores transitorios. Menciona personal para congresos, ferias y exposiciones, proyectos específicos y apoyo en temporadas altas. No lista cargos de operarios, bodega, retail ni producción.
+  - Requisitos: No aplica
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: No aplica (página informativa para empresas, sin convocatoria)
+  - Como postular: https://www.adecco.com/es-cl/candidatos
+  - Lectura automatica posible: Ninguna
+  - Aclaracion: Página dirigida a empresas, no a personas que buscan trabajo; no sirve como lugar de postulación.
+  - Aclaracion: Solo pueden prestar el servicio organizaciones inscritas en la Dirección del Trabajo, y se limita a seis causales legales.
+  - Aclaracion: Los contratos no se renuevan, solo se prorrogan hasta 90 o 180 días.
+  - Aclaracion: Para quien busca trabajo, el menú enlaza a la página de candidatos de Adecco.
+- **Fundación CChC, Programa Transición Laboral (trabajadores de la construcción cesantes)** (abierta o vigente, verificada 2 veces) https://fundacioncchc.cl/programas/atencion-social/programa-transicion-laboral
+  - Que es: Trabajadores de la construcción que perdieron su empleo en una empresa socia de la CChC.
+  - Requisitos: Trabajador/a de la construcción cesante de una empresa socia de la CChC, con finiquito de no más de 3 meses de antigüedad.
+  - Pago o beneficio: Beca de capacitación en oficios básicos y pago de $30.000 CLP al finalizar el programa; gratuito.
+  - Plazo o ciclo: Sin fechas ni indicación de apertura; solo contacto por formulario. Requisito visto: finiquito de hasta 3 meses y empresa socia de la CChC.
+  - Como postular: https://fundacioncchc.cl/programas/atencion-social/programa-transicion-laboral
+  - Lectura automatica posible: No
+  - Aclaracion: El programa no indica si está abierto ni informa fechas; la única vía de contacto es el botón 'Contactar', que lleva al Buzón de Contacto de la CChC.
+  - Aclaracion: Está dirigido solo a quienes trabajaban en empresas socias de la CChC, por lo que no sirve a quienes no tienen experiencia en construcción.
+  - Aclaracion: Es gratuito para empresas y trabajadores.
+- **AIEP, centro acreditado ChileValora (certificación de competencias laborales por oficio)** (abierta o vigente, verificada 2 veces) https://www.aiep.cl/educacion-continua/empresas/certificaciones/
+  - Que es: Personas con experiencia práctica en un oficio que quieran un certificado oficial, sin necesidad de título.
+  - Requisitos: La página no detalla requisitos de postulación. Los documentos los define cada centro según el perfil; en el ejemplo del perfil de cuidados otras fuentes piden ser mayor de 18 años y tener experiencia remunerada en el área. Requiere experiencia en el oficio.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (formulario de contacto permanente). AIEP está acreditado por 3 años ante ChileValora, según la página; no se indica fecha de término.
+  - Como postular: https://www.aiep.cl/educacion-continua/empresas/certificaciones/
+  - Lectura automatica posible: No
+  - Aclaracion: La página no informa el valor de la certificación; indica orientar para postular a financiamiento de SENCE, cuya vigencia y convocatoria deben consultarse en SENCE.
+  - Aclaracion: Certifica a quien ya trabaja en el oficio; no capacita desde cero.
+  - Aclaracion: Los documentos de postulación los define cada centro.
+- **Duoc Laboral, bolsa de empleo de Duoc UC (estudiantes y titulados)** (sin verificar, verificada 1 vez) https://duoclaboral.cl/
+  - Que es: Estudiantes y titulados técnicos y profesionales de Duoc UC.
+  - Requisitos: El sitio se describe como bolsa de empleo exclusiva para técnicos y profesionales de Duoc UC, con la etiqueta Estudiantes y titulados junto al acceso. Registro con RUT, aceptación de términos y aviso de privacidad, o ingreso con Google o LinkedIn. La página no declara una regla de elegibilidad explícita ni cuenta de alumno requerida. Las categorías de oferta incluyen prácticas, empleos de jornada completa, otros trabajos (part-time o freelance) y actividades.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Según cada oferta; no visto.
+  - Plazo o ciclo: No indicado; el sitio funciona como portal permanente con registro de cuenta, pero no declara cuándo está disponible.
+  - Como postular: https://duoclaboral.cl/
+  - Lectura automatica posible: No
+  - Aclaracion: Es una bolsa de empleo exclusiva para técnicos y profesionales de Duoc UC; no sirve a quienes no estudiaron en Duoc UC.
+  - Aclaracion: No se vieron ofertas concretas ni cantidad de avisos, por lo que no se confirma que haya postulaciones abiertas al 23/11/2026.
+- **Arcoprime: ficha de empresa y empleos en Indeed Chile (estaciones de servicio Petrobras/Aramco, no verificado directamente)** (sin verificar, verificada 1 vez) sin datos
+  - Que es: Personas que busquen cargos de estación de servicio (por ejemplo bombero/a, isla, tienda) u otros roles en Arcoprime. Los cargos exactos no se pudieron ver.
+  - Requisitos: sin datos (varían por aviso; algunos avisos de operador de tienda aparecen como sin experiencia, no confirmado en la página oficial)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (la ficha devolvió HTTP 403 al leerla; una búsqueda mostró avisos activos de la empresa en otros portales, sin fechas verificadas)
+  - Como postular: https://cl.indeed.com/cmp/Arcoprime
+  - Lectura automatica posible: No verificado.
+  - Aclaracion: No se encontró una página oficial de empleo de la empresa; los avisos aparecen en portales como Indeed, Computrabajo y Jooble.
+  - Aclaracion: Muchos avisos figuran como oferta oculta y los datos pueden estar desactualizados.
+  - Aclaracion: La fuente no está verificada directamente, por lo que conviene confirmar cada aviso antes de postular.
+  - Aclaracion: Los avisos incluyen jornadas part time y full time en varias regiones.
+- **Agrosuper: empleos en Rancagua y otras plantas (ficha de empresa en Indeed; no verificado directamente)** (sin verificar, verificada 1 vez) sin datos
+  - Que es: Personas que busquen cargos de planta, mantención, calidad y producción en Agrosuper. Una búsqueda mostró unos 23 avisos en Rancagua, entre ellos Pabellonero, Técnico Mantención Frío, Analista Calidad y Jefe Producción. Ninguna fuente confirmó avisos en Freirina.
+  - Requisitos: sin datos (no se pudo abrir ningún aviso). Los títulos de operario de planta sugieren cargos de entrada, pero no se confirmó ningún requisito.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Se presume abierto de forma continua, pero no se pudo confirmar. Meses punta: sin datos.
+  - Como postular: https://cl.indeed.com/cmp/Agrosuper/jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se pudo confirmar el portal oficial de empleo vigente: la ficha de Indeed y el sitio oficial respondieron HTTP 403.
+  - Aclaracion: Los avisos citados provienen de resultados de búsqueda y no fueron verificados directamente.
+  - Aclaracion: La nota de Meganoticias que remite al portal de la empresa es de 2022 y puede estar desactualizada.
+- **INDAP, acreditación como usuario/a (pequeña agricultura)** (abierta o vigente, verificada 2 veces) https://www.indap.gob.cl/requisitos-para-ser-usuarioa-de-indap
+  - Que es: Pequeños productores agrícolas y campesinos que viven y trabajan en el campo.
+  - Requisitos: Según el artículo 13 de la Ley Orgánica N° 18.910: activos no superiores a 3.500 UF (se revisa con el puntaje socioeconómico del Registro Social de Hogares, que debe estar actualizado); explotar hasta 12 hectáreas de riego básico o vivir y trabajar en el campo; ingresos provenientes principalmente de la actividad agrícola o silvoagropecuaria. La página no lista documentos personales a presentar.
+  - Pago o beneficio: No entrega pago. Da acceso a evaluar créditos e incentivos de INDAP, sujetos a requisitos y presupuesto.
+  - Plazo o ciclo: Abierto todo el año, sin fechas en la página. La acreditación se exige a quien nunca recibió servicios de INDAP o lleva 3 años o más sin recibirlos.
+  - Como postular: https://www.indap.gob.cl/requisitos-para-ser-usuarioa-de-indap
+  - Lectura automatica posible: No
+  - Aclaracion: No es una oferta de empleo sino un apoyo para pequeños agricultores.
+  - Aclaracion: La acreditación no garantiza acceso a programas: los créditos e incentivos tienen requisitos propios y dependen de disponibilidad presupuestaria.
+  - Aclaracion: Se solicita en la Agencia de Área de INDAP más cercana al domicilio.
+  - Aclaracion: La página no trata requisitos de nacionalidad ni de residencia.
+- **INDAP, Prodesal (Programa de Desarrollo Local) y Crédito de Corto Plazo** (abierta o vigente, verificada 2 veces) https://www.indap.gob.cl/plataforma-de-servicios/programa-de-desarrollo-local-prodesal
+  - Que es: Microproductores silvoagropecuarios multiactivos, personas naturales o jurídicas, con recursos limitados y mano de obra mayormente familiar, en zonas rurales o mixtas.
+  - Requisitos: Ser microproductor agrícola o forestal de recursos limitados que cumpla los requisitos de usuario INDAP, firmar carta de compromiso y consentimiento informado, participar en las actividades y evaluaciones del programa y no recibir otro programa de asistencia técnica similar de INDAP (salvo microproductor de transición). No se vio exigencia de experiencia formal, título ni edad mínima.
+  - Pago o beneficio: Asistencia técnica, capital de trabajo (antes FOA) e inversión en activos productivos, según el tipo de productor. Monto no visto.
+  - Plazo o ciclo: Abierto todo el año (la página indica que se puede postular durante todo el año).
+  - Como postular: https://www.indap.gob.cl/plataforma-de-servicios/programa-de-desarrollo-local-prodesal
+  - Lectura automatica posible: No
+  - Aclaracion: Es apoyo a pequeños productores agrícolas, no un empleo.
+  - Aclaracion: El Crédito de Corto Plazo solo aparece como enlace en programas relacionados; la página no lo describe, por lo que esa parte queda sin verificar.
+  - Aclaracion: Se postula en la agencia de área de INDAP, en línea por el sistema de INDAP o en la oficina PRODESAL local.
+- **Corfo regional, convocatorias para pequeños productores en Magallanes, Los Lagos y Antofagasta** (abierta o vigente, verificada 2 veces) https://www.corfo.gob.cl/sites/cpp/convocatoria/dfl-15-los-lagos-provincias-chiloe-palena-proceso-2027/
+  - Que es: Pequeños y medianos productores de bienes o servicios, emprendimientos y MiPymes de la región.
+  - Requisitos: Magallanes: personas jurídicas que tributen en primera categoría; copia de cédula del representante legal, certificado de inicio de actividades o carpeta tributaria, F22 de 2025 y todos los F29 de 2025. Chiloé y Palena: micro, pequeños y medianos empresarios, personas naturales o jurídicas con inicio de actividades en primera categoría, ventas netas anuales de hasta 40.000 UF, activos nuevos; las personas naturales no pueden figurar en el Registro Nacional de Deudores de Pensiones de Alimentos. Exige tener un negocio formal; no es para quien busca empleo.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Bonificación de 20% sobre inversiones o reinversiones netas en activos elegibles (construcción, maquinaria, equipos, ciertos vehículos). Monto máximo no visto.
+  - Plazo o ciclo: Magallanes: abierta del 16/11/2026 15:00 al 31/12/2026 15:00. Los Lagos (Chiloé y Palena): abierta del 16/11/2026 00:00 al 31/12/2026 12:00. Postulación en línea en corfo.gob.cl; Los Lagos también en papel en la Oficina de Partes de la Dirección Regional o en las delegaciones provinciales de Chiloé y Palena.
+  - Como postular: https://www.corfo.gob.cl/sites/cpp/convocatoria/dfl-15-81-magallanes-y-antartica-chilena-2027/
+  - Lectura automatica posible: No
+  - Aclaracion: Exige tener un negocio formal; no es para quienes buscan empleo.
+  - Aclaracion: En Magallanes solo pueden postular personas jurídicas que tributen en primera categoría; en Los Lagos (Chiloé y Palena) también personas naturales con inicio de actividades en primera categoría.
+  - Aclaracion: El cierre en Los Lagos es el 31/12/2026 a las 12:00, no a las 15:00; evaluación del 01/01/2027 al 28/02/2027 y resultados del 01/03/2027 al 30/03/2027.
+  - Aclaracion: Para Antofagasta no se pudo ver ninguna convocatoria DFL 15, por lo que no está confirmada.
+- **International Experience Canada (IEC): Working Holiday, Young Professionals y Co-op para chilenos** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec.html
+  - Que es: Personas con ciudadanía chilena de 18 a 35 años (inclusive). Pueden participar hasta dos veces, en cualquiera de las tres categorías. La categoría Working Holiday permite trabajar en casi cualquier empleo, sin oferta previa, por hasta 12 meses.
+  - Requisitos: Ciudadanía chilena y pasaporte chileno vigente durante toda la estadía; edad de 18 a 35 años (inclusive); al menos CAN$2.500; seguro de salud por toda la estadía; admisibilidad a Canadá; pasaje de ida y vuelta o fondos para comprarlo; sin dependientes acompañantes; pago de tarifas. Young Professionals: oferta o contrato firmado, en el área de especialidad. International Co-op: ser estudiante de una institución postsecundaria en Chile y tener oferta o contrato firmado; la práctica debe cumplir parte del currículo. Working Holiday no exige oferta de empleo previa. Los chilenos pueden participar hasta dos veces, en cualquier categoría. No exige título ni experiencia en Working Holiday.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Permiso de trabajo de hasta 12 meses; el sueldo depende del empleador (sin datos). Se exige demostrar al menos CAN$2.500 de fondos.
+  - Plazo o ciclo: Ciclo anual. Los grupos (pools) de la temporada 2026 están cerrados; quien recibió invitación (ITA) aún puede presentar la solicitud de permiso. Los perfiles nuevos se crean cuando los grupos reabran para 2027; fecha exacta: sin datos (la página oficial no la indica; las rondas de invitaciones se publican en la página de rondas de IRCC).
+  - Como postular: https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec.html
+  - Lectura automatica posible: none
+  - Aclaracion: Los grupos (pools) de la temporada 2026 están cerrados; no hay convocatoria abierta al 23/11/2026 para perfiles nuevos.
+  - Aclaracion: Quienes recibieron invitación (ITA) aún pueden presentar la solicitud de permiso.
+  - Aclaracion: No se indica fecha de reapertura para 2027; conviene revisar la página periódicamente.
+- **Programa JET (Japan Exchange and Teaching): asistentes de idioma (ALT) en Japón** (sin verificar, verificada 1 vez) https://jetprogramme.org/en/
+  - Que es: Asistentes de idioma (ALT) que enseñan junto a profesores japoneses de inglés. Si Chile participa y con qué requisitos (título, edad, idioma) no se pudo verificar (sin datos): la portada no menciona a Chile.
+  - Requisitos: sin datos para Chile. No se pudo confirmar si Chile participa ni los requisitos locales. El sitio oficial solo indica que los postulantes deben visitar la página JET de la embajada o consulado de su país.
+  - Pago o beneficio: sin datos (no verificado en el sitio oficial)
+  - Plazo o ciclo: Ciclo anual a través de la embajada o consulado de Japón en el país de origen. Para Chile: sin datos. Como referencia, la embajada de Japón en San Francisco publicó que JET 2027 abrió el 21 de septiembre de 2026 para postulantes de EE. UU. (no aplicable a Chile).
+  - Como postular: https://www.cl.emb-japan.go.jp/
+  - Lectura automatica posible: none
+  - Aclaracion: No se pudo verificar si Chile participa ni los requisitos locales; la página oficial mostraba un aviso de mantenimiento.
+  - Aclaracion: Las páginas de la Embajada de Japón en Chile respondieron HTTP 403 y no pudieron leerse.
+  - Aclaracion: Debe marcarse como no verificado directamente; conviene confirmar con la Embajada de Japón en Chile antes de publicar.
+- **Servicio Jesuita a Migrantes (SJM) - orientación migratoria y asesoría para regularización** (abierta o vigente, verificada 2 veces) https://sjmchile.org/orientacion-migratoria/
+  - Que es: Personas migrantes que necesitan orientación y asesoría jurídica sobre su situación migratoria. La página leída no menciona capacitación ni intermediación laboral.
+  - Requisitos: Personas migrantes o extranjeras. La página no declara otros requisitos ni cómo solicitar la atención; enlaza a preguntas frecuentes, oficinas, MigrApp y mapa de servicios. Aclara que no facilita ni participa en ingreso o salida ilegal de extranjeros.
+  - Pago o beneficio: sin datos. La página no indica costo ni monto; es asesoría jurídica orientada a la regularización y defensa de derechos de personas migrantes o extranjeras.
+  - Plazo o ciclo: Abierto todo el año (atención por oficina); la página no indica fechas ni horarios.
+  - Como postular: https://sjmchile.org/orientacion-migratoria/
+  - Lectura automatica posible: no
+  - Aclaracion: Es una organización de la sociedad civil, no un empleador ni una bolsa de trabajo.
+  - Aclaracion: Sirve como apoyo para regularizar la situación migratoria, que es condición para poder trabajar.
+  - Aclaracion: Oficinas y correos listados: Arica y Parinacota (arica@sjmchile.org), Tarapacá (tarapaca@sjmchile.org), Metropolitana (santiago@sjmchile.org) y Biobío (concepcion@sjmchile.org).
+  - Aclaracion: La página no indica direcciones físicas.
+- **Cuerpos de Bomberos de Chile (directorio por comuna; servicio voluntario)** (abierta o vigente, verificada 2 veces) https://www.bomberos.cl/quieres-ser-bombero
+  - Que es: Personas que quieren integrarse como bomberos voluntarios (no es empleo remunerado). El sitio lista 314 cuerpos y unas 1.100 compañías, cada uno corporación privada con sus propios estatutos.
+  - Requisitos: Según la página oficial: tener al menos 18 años, no tener antecedentes penales, salud compatible con el servicio y, si es extranjero, residencia en Chile. No se exige experiencia ni título. Luego de ser aceptado por la compañía, se deben tomar los cursos de formación.
+  - Pago o beneficio: Sin pago (voluntariado)
+  - Plazo o ciclo: Abierto todo el año; se postula directamente en la compañía local.
+  - Como postular: https://www.bomberos.cl/quieres-ser-bombero
+  - Lectura automatica posible: no
+  - Aclaracion: El servicio es voluntario y no remunerado, por lo que no es un empleo.
+  - Aclaracion: Los menores de 18 años pueden ingresar a una Brigada Juvenil en muchas compañías (entrenamiento, sin salir a emergencias).
+  - Aclaracion: Cada cuerpo es una corporación privada con sus propios estatutos.
+- **PRODEMU - Fundación para la Promoción y Desarrollo de la Mujer (talleres de autonomía económica y Mujeres Rurales)** (sin verificar, verificada 1 vez) https://www.prodemu.cl/programas/
+  - Que es: Mujeres de todo el país. Programa Autonomía Económica (talleres para entrar al mercado laboral o sostenerse) y Programa Mujeres Rurales INDAP-PRODEMU para pequeñas productoras o campesinas, con un ciclo de acompañamiento de tres años.
+  - Requisitos: sin datos. La página no los especifica. Por su descripción, está dirigido a mujeres; el programa Mujeres Rurales apunta a pequeñas productoras y agricultoras.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos. Los talleres se describen sin monto ni beca. Mujeres Rurales Indap-Prodemu es un acompañamiento de tres años, sin monto indicado en la página.
+  - Plazo o ciclo: sin datos. La página no indica fechas, requisitos ni procedimiento de postulación; la oferta depende de cada región. Consultar en la oficina regional.
+  - Como postular: https://www.prodemu.cl/oficinas-prodemu/
+  - Lectura automatica posible: no
+  - Aclaracion: La página es oficial, pero no indica fechas, requisitos ni procedimiento de postulación; la oferta depende de cada región y se consulta en la oficina regional.
+  - Aclaracion: No se confirmó ninguna convocatoria abierta.
+  - Aclaracion: Contacto: (2) 2964 0400, Agustinas 1389, Santiago.
+  - Aclaracion: La página enlaza Oficinas (https://www.prodemu.cl/oficinas-prodemu/), Preguntas Frecuentes (https://www.prodemu.cl/preguntas-frecuentes) y Contáctanos (https://www.prodemu.cl/contactanos/).
+- **Dirección del Trabajo, trámites para trabajadores (denuncia, reclamo por despido, ratificación de finiquito)** (abierta o vigente, verificada 2 veces) https://www.dt.gob.cl/portal/1626/w3-propertyvalue-26864.html
+  - Que es: Trabajadores dependientes, incluidos quienes tuvieron un despido injustificado o un pago pendiente. La denuncia por vulneración de derechos o Ley Karin puede ser ingresada por trabajadores, sindicatos o cualquier persona que conozca la infracción.
+  - Requisitos: La página solo nombra los trámites: denuncia laboral y por vulneración de derechos fundamentales (Ley Karin), reclamo por despido y ratificación de finiquito. Dice que se pueden hacer presencial y en línea con Clave Única, pero no detalla requisitos por trámite. No se exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No se vio costo; la página no lo indica.
+  - Plazo o ciclo: Permanente (abierto todo el año). Atención telefónica 600 450 4000, lunes a viernes 9:00 a 17:00; inspecciones y oficinas, lunes a viernes 9:00 a 14:00.
+  - Como postular: https://www.dt.gob.cl/portal/1626/w3-propertyvalue-26864.html
+  - Lectura automatica posible: No
+  - Aclaracion: No es una oferta de empleo sino un servicio de derechos laborales.
+  - Aclaracion: Los requisitos y plazos de cada trámite están en artículos enlazados que no se revisaron, por lo que no se sabe qué trámite exige Clave Única y cuál admite atención presencial.
+- **Municipalidad de Valparaíso, patentes comerciales y comercio en bienes nacionales de uso público** (abierta o vigente, verificada 2 veces) https://municipalidaddevalparaiso.cl/patentes-y-permisos/
+  - Que es: Personas naturales y jurídicas que quieren abrir un negocio, incluida la microempresa familiar en el hogar, kioscos y comercio en la vía pública.
+  - Requisitos: Patente comercial: certificado de avalúo fiscal, inicio de actividades en el SII, formulario de la DOM y resolución sanitaria cuando corresponda; vale para personas naturales y jurídicas. Patente provisoria por 6 meses si se cumple zonificación y requisitos sanitarios. Microempresa familiar: negocio no peligroso en el domicilio, hasta 5 trabajadores no familiares y activos productivos bajo 1.000 UF. Quioscos: cédula, certificado de antecedentes vigente y certificado de residencia, solo en cerro y pie de cerro, con evaluación social y técnica; no se autorizan quioscos nuevos en el plan. Los vendedores ambulantes deben ceñirse a la normativa municipal vigente.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No se vio el costo.
+  - Plazo o ciclo: Permanente. Los permisos de ocupación de bien nacional de uso público (BNUP) se solicitan con al menos 15 días de anticipación. Atención presencial lunes a viernes 8:30 a 16:00.
+  - Como postular: https://munivalpo.municipalidad.digital.gob.cl
+  - Lectura automatica posible: No
+  - Aclaracion: Es un trámite para emprender, no un empleo.
+  - Aclaracion: Aplica solo a la comuna de Valparaíso.
+  - Aclaracion: La atención es presencial en la Plataforma de Atención Ciudadana, Avenida Argentina 864; los permisos de bien nacional de uso público se tramitan en línea con Clave Única.
+- **Municipalidad de Santiago, permisos de comercio en vía pública, ferias libres y espacios públicos** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.munistgo.cl/actividades-comerciales-en-espacios-publicos/
+  - Que es: Comerciantes en la vía pública, feriantes, organizaciones vecinales y personas naturales o jurídicas para ferias transitorias.
+  - Requisitos: Permisos nuevos de comercio en bien nacional de uso público (Ordenanza 127/26): cumplir todos los requisitos del Manual de Postulación (no reproducido en la página); formulario único. Ferias libres (Ordenanza 114): formulario, anexos de giros y ubicación y declaración jurada. Ferias vecinales y navideñas: solo juntas de vecinos y organizaciones registradas. Ferias transitorias: personas y empresas, sin plazo indicado.
+  - Pago o beneficio: Aranceles según la Ordenanza N° 94 (edición 2026); montos no vistos.
+  - Plazo o ciclo: Renovación para el 1.er semestre de 2027, solo para titulares con permiso vigente el 2.º semestre de 2026: presencial en Santo Domingo 789, 1.er piso, módulo 56, de 10:00 a 12:00, viernes 6, 13, 20 y 27 de noviembre, sábado 28 de noviembre y viernes 4 de diciembre de 2026 (al 23/11/2026, 23 de noviembre, quedan el 27 y 28 de noviembre y el 4 de diciembre). Ferias navideñas: postulación del 7 de octubre al 2 de noviembre de 2026, ya cerrada. Los permisos nuevos se otorgan solo excepcionalmente.
+  - Como postular: https://www.munistgo.cl/espacios-publicos/
+  - Lectura automatica posible: No
+  - Aclaracion: No es un empleo; sirve a quienes quieren comerciar por cuenta propia.
+  - Aclaracion: Aplica solo a la comuna de Santiago.
+  - Aclaracion: La renovación para el 1.er semestre de 2027 es solo para titulares con permiso vigente el 2.º semestre de 2026, y la postulación a ferias navideñas ya cerró.
+  - Aclaracion: El enlace de postulación de ferias transitorias figura en la página pero no se abrió.
+- **Ley 20.123 y Código del Trabajo: reglas del trabajo en empresas de servicios transitorios (BCN, Ley Chile)** (sin verificar, verificada 1 vez) https://www.bcn.cl/leychile/navegar?idNorma=254080
+  - Que es: Cualquier persona contratada o por contratar por una agencia de servicios transitorios. Sirve para saber cuándo procede un contrato transitorio, cuánto puede durar y qué debe constar por escrito.
+  - Requisitos: No aplica: es un texto legal, no un programa de postulación.
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: No aplica (norma legal, sin convocatoria). Vigencia no confirmada en la fuente.
+  - Como postular: No aplica. Ante dudas o incumplimientos se puede consultar a la Dirección del Trabajo (https://www.dt.gob.cl) o a la Inspección del Trabajo.
+  - Lectura automatica posible: Texto legal en BCN; sin API vista
+  - Aclaracion: La página de Ley Chile (BCN) no cargó su contenido en las revisiones, por lo que no se vio el título, el número ni la fecha de entrada en vigencia.
+  - Aclaracion: La fecha del 14 de enero de 2007 no pudo comprobarse.
+  - Aclaracion: La ficha de Mintrab menciona la regulación de los servicios transitorios y el Decreto N° 319 de 2006, pero no enlaza el texto de la ley.
+  - Aclaracion: Corresponde usarla solo como referencia normativa, sin afirmar fechas, hasta verificarla en un navegador.
+- **Ministerio del Trabajo: Ley de subcontratación y trabajo de servicios transitorios** (sin verificar, verificada 1 vez) https://www.mintrab.gob.cl/ley-de-subcontratacion/
+  - Que es: Cualquier persona que trabaje o vaya a trabajar para una empresa de servicios transitorios o como subcontratada, y quienes quieran entender la diferencia entre empleador y empresa usuaria.
+  - Requisitos: No aplica: es una ficha informativa, no una vía de postulación.
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: No aplica (página informativa, sin postulación). La página no muestra fecha de actualización.
+  - Como postular: No aplica.
+  - Lectura automatica posible: Ninguna
+  - Aclaracion: Sirve como referencia para saber con quién se contrata, no como oferta de empleo.
+  - Aclaracion: Indica que la Inspección del Trabajo lleva un registro público de empresas de servicios transitorios.
+  - Aclaracion: Contratistas y subcontratistas deben acreditar el cumplimiento de obligaciones laborales y previsionales (certificado en 8 días hábiles, 5 para empresas de menos de 25 trabajadores).
+  - Aclaracion: Enlaza a la lista de empresas certificadoras (https://www.mintrab.gob.cl/lista-de-empresas-certificadoras/), que no fue abierta.
+- **Dirección del Trabajo, guías sobre contrato escrito, trabajo de adolescentes y trabajadores migrantes** (sin verificar, verificada 1 vez) https://www.dt.gob.cl/portal/1628/w3-propertyvalue-23562.html
+  - Que es: Personas que empiezan un trabajo y necesitan saber qué exige la ley; adolescentes y sus familias; trabajadores extranjeros.
+  - Requisitos: La página solo muestra títulos de preguntas sobre escrituración del contrato (14 artículos) y enlaces a Trabajadores Migrantes y a empresas multadas por trabajo de niños, niñas y adolescentes. No se vio ninguna guía específica de trabajo de adolescentes ni requisitos de edad o documentos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica.
+  - Plazo o ciclo: Permanente (contenido informativo; sin plazo).
+  - Como postular: https://www.dt.gob.cl/portal/1628/w3-propertyvalue-23562.html
+  - Lectura automatica posible: No
+  - Aclaracion: La descripción original sobre guías de trabajo de adolescentes no se confirma: ese tema no figura por título en la página.
+  - Aclaracion: Conviene presentarla como guía sobre contrato escrito, con acceso a la sección Trabajadores Migrantes.

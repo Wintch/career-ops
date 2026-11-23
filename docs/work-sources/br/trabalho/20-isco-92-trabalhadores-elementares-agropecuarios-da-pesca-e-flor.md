@@ -1,0 +1,84 @@
+# Grupo 92: Trabalhadores elementares agropecuários, da pesca e florestais
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **bp bioenergy - vagas no portal de trabalhe conosco (usinas de cana, lavoura e manutenção agrícola)** (aberta ou vigente, verificada 2 vezes) https://trabalheconosco.vagas.com.br/bp-bioenergy
+  - O que é: Candidatos a vagas operacionais de usinas e áreas agrícolas, de nível auxiliar/operacional, entre outros. A página mostrou 'Ver todas as 66 vagas abertas'; no resumo apareciam Itumbiara (GO) e Dourados (MS). Nas buscas do Vagas.com a empresa respondia pela maioria das vagas de auxiliar agrícola e tratorista (Frutal/MG, Pontes Gestal/SP, Santa Juliana/MG).
+  - Requisitos: Não listados na página inicial; constam em cada vaga. Cada vaga indica se aceita candidatos de qualquer lugar do Brasil ou só da região. Vagas operacionais em outras listagens do Vagas.com citam, conforme a função, experiência na função (às vezes como diferencial), CNH B ou D e disponibilidade para turnos.
+  - Pagamento ou benefício: "A combinar" nas três vagas vistas; sem dados nas demais
+  - Prazo ou ciclo: Aberto: 66 vagas listadas em 23/11/2026, cada uma com prazo próprio (exemplos vistos: encerram em 7 e 10 dias). Também há opção de deixar currículo (banco de talentos). Ritmo de safra: sem dados.
+  - Como se candidatar: https://trabalheconosco.vagas.com.br/bp-bioenergy
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O portal é hospedado no Vagas.com e dedicado à empresa, que informa não cobrar taxa de candidatos.
+  - Esclarecimento: Entre as vagas exibidas há um Banco de Talentos PcD e um estágio superior, de modo que nem todas são operacionais.
+  - Esclarecimento: A listagem das demais vagas não foi exibida; os exemplos de auxiliar agrícola e tratorista vêm de buscas no Vagas.com.
+- **Vagas.com - vagas de auxiliar agrícola** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-auxiliar-agricola
+  - O que é: Candidatos a auxiliar agrícola e funções de apoio de campo e manutenção agrícola. Na consulta de 2026-11-23 havia 37 vagas, 31 delas da bp bioenergy, sobretudo em MG, SP, GO e MS (Frutal, Dourados, Itumbiara, Santa Juliana, Pedro Afonso, Orindiúva); outras de Syngenta (Jovem Aprendiz em Holambra/SP), Cummins e DCML.
+  - Requisitos: Variam por vaga: experiência na função (em algumas, diferencial), disponibilidade de escala 5x1, CNH B ou D em algumas, ensino superior em vagas de liderança. A página não afirma que nenhuma experiência é exigida; a vaga de Jovem Aprendiz é voltada a quem está começando.
+  - Pagamento ou benefício: Salários individuais não divulgados; a página mostra mediana nacional de R$ 1.672,00 para auxiliar agrícola (dado do site, não de uma vaga).
+  - Prazo ou ciclo: Aberto: 37 vagas listadas em 23/11/2026 (36 CLT e 1 estágio); número muda a cada consulta. Prazo individual: varia por vaga.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-auxiliar-agricola
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Há forte concentração em uma única empresa: cerca de 31 das 37 vagas são da bp bioenergy.
+  - Esclarecimento: Entre os anúncios há uma vaga de Jovem Aprendiz (Syngenta, Holambra/SP) e uma vaga temporária de frentista.
+  - Esclarecimento: Os locais cobrem MG, SP, GO, MS, TO e MT.
+- **Vagas.com - vagas de tratorista e operador de máquinas agrícolas** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-tratorista
+  - O que é: Candidatos a tratorista e operador de máquinas agrícolas ou de equipamentos. Na consulta de 2026-11-23 havia 14 vagas, 10 delas da bp bioenergy (Frutal/MG e Pontes Gestal/SP), além de CPFL Energia, Randstad e PH Intralogística.
+  - Requisitos: Exemplo visto (Operador de Máquinas Agrícolas III): ensino médio completo, CNH B, disponibilidade para troca de turnos e experiência como tratorista. Mecânico III: ensino médio completo, curso técnico em mecânica desejável. Descrições completas só nas páginas das vagas. Experiência costuma ser exigida nesta função.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: Salários individuais não divulgados; a página mostra mediana nacional de R$ 1.821,00 para o cargo (dado do site).
+  - Prazo ou ciclo: Aberto: 14 vagas CLT listadas em 23/11/2026; número muda a cada consulta. Prazo individual: varia por vaga.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-tratorista
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Algumas vagas aceitam apenas candidatos da cidade ou da região; outras aceitam candidatos de todo o Brasil.
+  - Esclarecimento: Algumas vagas de mineração são exclusivas para pessoas com deficiência.
+  - Esclarecimento: Concentração em Frutal/MG (7 vagas) e Pontes Gestal/SP (2 vagas), e a maioria é da bp bioenergy.
+- **SLC Agrícola - vagas na Gupy (inclui vagas de campo e temporárias)** (aberta ou vigente, verificada 2 vezes) https://slcagricola.gupy.io/
+  - O que é: Candidatos a vagas da empresa, em geral. Na consulta de 2026-11-23 havia 140 vagas, dos tipos Efetivo e Temporário. As dez primeiras eram analistas em Porto Alegre (RS); vagas de fazenda não apareceram na primeira página.
+  - Requisitos: Não aparecem na listagem; constam em cada vaga (/jobs/{id}). Não há indicação de vagas sem experiência na parte vista.
+  - Pagamento ou benefício: sem dados (não divulgado na listagem)
+  - Prazo ou ciclo: Aberto: 140 vagas listadas em 23/11/2026 (14 páginas); há tipo Efetivo e Temporário e banco de talentos. Prazo individual: sem dados.
+  - Como se candidatar: https://slcagricola.gupy.io/
+  - Leitura automática possível: Página HTML da Gupy; API ou feed não verificados.
+  - Esclarecimento: Na primeira página, todas as vagas eram de analista em Porto Alegre/RS, algumas híbridas, e só uma era temporária (Analista de Suprimentos Jr).
+  - Esclarecimento: A descrição 'campo e temporárias' não foi confirmada, pois vagas de fazenda não apareceram na parte lida.
+- **Copacol (cooperativa agroindustrial, PR) - Trabalhe conosco** (aberta ou vigente, verificada 2 vezes) https://www.copacol.com.br/trabalhe-conosco
+  - O que é: Candidatos a vagas da cooperativa, inclusive nos abatedouros de aves e peixes. A página orienta quem busca vagas nesses abatedouros a procurar a Agência do Trabalhador da própria cidade; as demais vagas e o cadastro de currículo ficam em um portal externo.
+  - Requisitos: Não listados na página. Não há indicação de que nenhuma experiência seja exigida.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Caminho aberto o ano todo: cadastro de currículo no portal de vagas da empresa (botão "CADASTRE SEU CURRÍCULO"). Vagas abertas ficam listadas no portal ligado pelo botão "Acesse aqui"; o portal em si não foi carregado nesta verificação.
+  - Como se candidatar: https://www.copacol.com.br/trabalhe-conosco
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Para vagas nos abatedouros de aves e de peixes, a página orienta procurar a Agência do Trabalhador do município; as demais vagas e o cadastro de currículo ficam em um portal externo.
+  - Esclarecimento: A página cita 'requisitos do programa' sem listá-los e não descreve etapas nem prazos do processo seletivo.
+  - Esclarecimento: Número e tipo de vagas abertas não foram informados.
+- **Castrolanda (cooperativa agroindustrial, Castro/PR) - banco de talentos na Gupy** (aberta ou vigente, verificada 2 vezes) https://castrolanda.gupy.io/
+  - O que é: Candidatos a vagas e bancos de talentos da cooperativa, em Itapetininga (SP), Castro (PR) e Colinas do Tocantins (TO). Na consulta de 2026-11-23 havia 21 vagas, a maioria em banco de talentos (operacional, produção, entreposto de grãos); na primeira página só 1 vaga era Efetivo.
+  - Requisitos: sem dados; a página de listagem não traz requisitos. Não foi informado se há exigência de experiência; cada vaga tem página própria.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Em 23/11/2026 a página listava 21 vagas em 3 páginas, sem prazo.
+  - Como se candidatar: https://castrolanda.gupy.io/
+  - Leitura automática possível: Página HTML da Gupy; API ou feed não verificados.
+  - Esclarecimento: Banco de talentos não garante vaga imediata.
+  - Esclarecimento: Na primeira página, 9 de 10 entradas são bancos de talentos, e a única vaga efetiva visível é Analista Administrativo Júnior (Agropecuária, Matriz, Castro/PR).
+  - Esclarecimento: A divisão das demais entradas (páginas 2 e 3) não foi vista, então a predominância de bancos de talentos só se confirma para a primeira página.
+- **Ibama - Editais de contratação de Brigadas Federais de Incêndio (Prevfogo)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/ibama/pt-br/acesso-a-informacao/editais-e-convites/editais-de-contratacao-de-brigadas-federais-de-incendio
+  - O que é: Candidatos a funções das brigadas federais de incêndio florestal. A página lista editais de 2025 e 2026 (Supervisor de Brigadas Estadual em vários estados, Brigadistas Florestais de Logística em Brasília e Supervisores de Manejo Integrado do Fogo no DF).
+  - Requisitos: Não informados na página; constam em cada edital em PDF (não abertos). Não há indicação de que nenhuma experiência seja exigida.
+  - Pagamento ou benefício: sem dados (não informado na página)
+  - Prazo ou ciclo: Sem edital com inscrição aberta visto em 23/11/2026. Editais se repetem: 2024 (brigadistas, 19/11/2024 em BA, CE, MS e PE), jan.-fev. de 2025 e 21/01/2026 (Supervisor de Brigadas Estadual em 22 localidades, resultados finais até 18/03/2026). Brigadistas Florestais de Logística (DF) tinha resultado final em 14/07/2026. Mês habitual: início do ano (janeiro) e, em 2024, novembro. Próximo prazo: sem dados.
+  - Como se candidatar: https://www.gov.br/ibama/pt-br/acesso-a-informacao/editais-e-convites/editais-de-contratacao-de-brigadas-federais-de-incendio
+  - Leitura automática possível: Lista HTML com PDFs de editais; feed não visto.
+  - Esclarecimento: Os editais de 2026 listados são de Supervisor de Brigadas Estadual, função de supervisão e não de brigadista de nível de entrada; o ciclo de brigadistas em si aparece em 2024.
+  - Esclarecimento: Requisitos e remuneração constam apenas nos editais em PDF, e a página foi atualizada em 15/07/2026.
+  - Esclarecimento: Não há edital com inscrição aberta em 23/11/2026.
+- **Agrícola Famosa (fruticultura, Mossoró/RN) - página Trabalhe conosco** (não verificada, verificada 1 vez) https://www.agricolafamosa.com.br/careers
+  - O que é: Interessados em trabalhar na empresa, com sede em Mossoró (RN). A página convida a enviar currículo, mas não lista vagas, requisitos nem funções de campo ou colheita.
+  - Requisitos: sem dados; a página não informa requisitos nem se exige experiência
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados
+  - Como se candidatar: https://www.agricolafamosa.com.br/careers
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página traz o endereço da empresa em Mossoró/RN e um botão 'envie seu currículo', sem lista de vagas nem instruções adicionais.
+  - Esclarecimento: Não foi possível confirmar se o envio de currículo está ativo, nem requisitos, salário ou local das vagas.

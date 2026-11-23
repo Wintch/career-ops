@@ -1,0 +1,121 @@
+# Campo, trabajo rural y de temporada
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Directorio de oficinas del Servicio Nacional de Empleo (noviembre de 2026)** (abierta o vigente, verificada 2 veces) https://www.gob.mx/cms/uploads/attachment/file/1116556/DIRECTORIO_SNE_2026_11.pdf
+  - Que es: Cualquier persona que necesite ubicar la oficina del SNE de su estado (para registrarse en el PTAT, pedir orientación o postularse a vacantes).
+  - Requisitos: No se especifican en el directorio. Es el punto de contacto presencial para la vinculación laboral y, según la fuente de Canadá, para el reclutamiento de programas de movilidad; no se pide experiencia en este documento.
+  - Pago o beneficio: Gratuito (servicio público de empleo; costo: sin datos en este documento)
+  - Plazo o ciclo: Servicio permanente sin fechas de cierre; atención presencial de lunes a viernes con horarios distintos según la oficina.
+  - Como postular: Acudir a la oficina del SNE del estado de residencia, según el directorio
+  - Lectura automatica posible: PDF.
+  - Aclaracion: Es un PDF oficial de 50 páginas con dirección, teléfono, horario y correo de la oficina estatal del SNE y de sus unidades regionales, ordenado por estado.
+  - Aclaracion: El horario de atención es de lunes a viernes, pero varía por oficina (por ejemplo, de 08:00 a 15:30, de 08:00 a 15:00 o de 08:00 a 16:00).
+  - Aclaracion: El texto del documento no menciona mes ni año; «noviembre de 2026» se infiere del nombre del archivo.
+- **SeasonalJobs.dol.gov (empleos estacionales de Estados Unidos, visa H-2A)** (abierta o vigente, verificada 2 veces) https://seasonaljobs.dol.gov/
+  - Que es: Consulta pública de ofertas de trabajo estacional y temporal en Estados Unidos, incluidas las de agricultura. Solo sirve para ver ofertas; la visa H-2A la tramita el empleador.
+  - Requisitos: Elegibilidad de visa H-2A (USCIS); no se listan otros requisitos en la página.
+  - Pago o beneficio: sin datos (varía por oferta)
+  - Plazo o ciclo: Buscador permanente sin avisos ni fechas de cierre; las ofertas dependen de la temporada (visto el 2026-11-23).
+  - Como postular: https://seasonaljobs.dol.gov/about#how-to-apply
+  - Lectura automatica posible: Hay 'Data Feeds' en https://seasonaljobs.dol.gov/feeds (no se abrió).
+  - Aclaracion: Es empleo en Estados Unidos y requiere visa H-2A, cuya elegibilidad se consulta con USCIS/OFLC.
+  - Aclaracion: El sitio se describe como dirigido a personas trabajadoras de EE. UU. con dominio limitado del inglés; se postula contactando directamente al empleador estadounidense con la «Recruitment Information» de cada oferta.
+  - Aclaracion: La página no indica si las personas residentes en México pueden postularse desde fuera de EE. UU.; no debe presentarse como vía directa abierta a residentes de México.
+  - Aclaracion: La sección «About» ofrece información sobre H-2A y H-2B en español.
+- **Driscoll's, empleos en México** (abierta o vigente, verificada 2 veces) https://www.driscolls.com/about/Careers
+  - Que es: Personas con perfil profesional o técnico en operaciones agrícolas en México. Las dos vacantes vistas son de nivel especialista y gerencial, no de campo ni empaque.
+  - Requisitos: Por puesto, en cada ficha; no se vieron en el listado. Los puestos vistos suponen experiencia.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año; 16 vacantes listadas al revisar, incluidas posiciones en México (Lagunillas, Jocotepec)
+  - Como postular: https://www.driscolls.com/about/Careers#openpositions
+  - Lectura automatica posible: No se vio API.
+  - Aclaracion: Las dos vacantes vistas (Especialista de Productores de Comunidad Sr. y Gerente Distrital de Inocuidad) son de nivel medio o senior, no de primer empleo.
+  - Aclaracion: La página ofrece «General Application» y «Job Alerts», con filtros por país, ciudad, categoría y tipo.
+  - Aclaracion: No se vieron fechas de publicación.
+- **Hortifrut, vacantes en México** (abierta o vigente, verificada 2 veces) https://jobs.hortifrut.com/go/M%C3%A9xico/4668219/
+  - Que es: Personas con perfil profesional o administrativo y agronómico. Las siete vacantes vistas (30 de octubre al 16 de noviembre de 2026) son de análisis, compras, impuestos, costos, agricultura de precisión, productores terceros e investigación; ninguna es de campo.
+  - Requisitos: Por puesto, en cada ficha; no se vieron en el listado.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto; 7 vacantes en México publicadas entre el 29-10-2026 y el 16-11-2026; botón 'Crear alerta'
+  - Como postular: https://jobs.hortifrut.com/go/M%C3%A9xico/4668219/
+  - Lectura automatica posible: Hay búsqueda por país en el portal; no se vio API ni feed.
+  - Aclaracion: Los puestos vistos son de oficina o técnicos y gerenciales (investigación aplicada, logística e inventarios, impuestos, compras, costos, agricultura de precisión, productores terceros); no se vieron puestos de campo ni de primer empleo.
+  - Aclaracion: Cada título enlaza a su propia ficha de vacante.
+- **Seasonal Agricultural Worker Program (SAWP), página oficial del Gobierno de Canadá** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.canada.ca/en/employment-social-development/services/foreign-workers/agricultural/seasonal-agricultural.html
+  - Que es: Referencia oficial del programa en el que participa México, para que las personas candidatas conozcan sus reglas. Los gobiernos participantes reclutan y seleccionan a las personas trabajadoras; los empleadores canadienses no reclutan directamente.
+  - Requisitos: Ciudadanía mexicana (o de un país del Caribe participante), experiencia agrícola, mínimo 18 años, cumplir las leyes migratorias de Canadá y las del país de origen.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos en esta página
+  - Plazo o ciclo: Periodo de contratación del 1 de enero al 15 de diciembre, hasta 8 meses; última modificación de la página: 3 de junio de 2026.
+  - Como postular: No hay postulación directa en esta página; el reclutamiento lo hace el gobierno de México (vía SNE/STPS, ver el directorio de oficinas del SNE)
+  - Lectura automatica posible: Página HTML estática; sin API.
+  - Aclaracion: Las fechas del 1 de enero al 15 de diciembre (hasta 8 meses) son el periodo en que los empleadores canadienses pueden contratar, no una convocatoria anual abierta a personas postulantes.
+  - Aclaracion: La página no describe un proceso de solicitud para trabajadores: el gobierno de México recluta y selecciona a las personas.
+  - Aclaracion: El empleador debe poder ofrecer al menos 240 horas de trabajo en 6 semanas o menos.
+- **CONAPESCA, capacitaciones gratuitas para el sector pesquero y acuícola** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.gob.mx/conapesca/acciones-y-programas/capacitaciones-para-el-sector-pesquero-y-acuicola
+  - Que es: Personas del sector pesquero y acuícola: cooperativas, cultivo de tilapia y ostión, buenas prácticas de manejo, comercialización, uso de artes de pesca.
+  - Requisitos: Correo Gmail para recibir la invitación; sin otros requisitos vistos; no se pide experiencia previa de forma explícita.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito; no hay pago
+  - Plazo o ciclo: Calendario 2026 de febrero a noviembre (último curso listado: 24 de noviembre de 2026); sin fechas de diciembre. Registro de marzo a noviembre del día 14 al 28 de cada mes, según la página (algunas fechas del calendario caen al inicio del mes y la página no aclara cómo encajan). Repetición en 2027: sin datos
+  - Como postular: https://www.gob.mx/conapesca/acciones-y-programas/capacitaciones-para-el-sector-pesquero-y-acuicola
+  - Lectura automatica posible: No.
+  - Aclaracion: Es capacitación gratuita, no empleo: 8 cursos virtuales con cupo de 150 personas cada uno y constancia de participación tras aprobar la evaluación.
+  - Aclaracion: Cada fecha del calendario enlaza a un formulario de Google Forms; las sesiones son de 10:00 a 13:00 (hora de Mazatlán).
+  - Aclaracion: La página no aclara cómo encajan algunas fechas del calendario, que caen al inicio del mes, con el periodo de registro del día 14 al 28.
+  - Aclaracion: Informes: 669 9156900, ext. 58626, 58628 o 58622.
+- **Programa de Trabajadores Agrícolas Temporales México-Canadá (PTAT), registro vía SNE** (sin verificar, verificada 1 vez) https://www.empleo.gob.mx/movilidad-laboral
+  - Que es: Personas con experiencia en actividades agrícolas (siembra, cosecha, manejo de maquinaria agrícola, entre otras) que quieran trabajar temporalmente en granjas de Canadá.
+  - Requisitos: No confirmados en esta página (sin datos). Según la página oficial de Canadá: ciudadanía mexicana, experiencia agrícola y mínimo 18 años, además de cumplir las leyes migratorias de Canadá y de México.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos en esta fuente (ver SAWP)
+  - Plazo o ciclo: sin datos (fechas de registro no confirmadas; la temporada canadiense es del 1 de enero al 15 de diciembre según la página de Canadá)
+  - Como postular: Oficina del Servicio Nacional de Empleo del estado de residencia (directorio: https://www.gob.mx/cms/uploads/attachment/file/1116556/DIRECTORIO_SNE_2026_11.pdf)
+  - Lectura automatica posible: No se vio API ni feed público.
+  - Aclaracion: El portal mexicano no mostró información sobre el PTAT; los requisitos listados provienen de la página oficial de Canadá.
+  - Aclaracion: El registro no es directo con empleadores canadienses: los gobiernos participantes reclutan y seleccionan a las personas trabajadoras.
+  - Aclaracion: Las fechas de registro y el procedimiento no están confirmados; se recomienda verificarlos en la oficina del Servicio Nacional de Empleo del estado de residencia.
+- **F.A.R.M.S. (Foreign Agricultural Resource Management Services), página de México** (sin verificar, verificada 1 vez) https://farmsontario.ca/countries/mexico/
+  - Que es: Personas mexicanas que ya trabajan o van a trabajar en granjas de Ontario por el SAWP, y sus empleadores; sirve para saber a quién llamar en Canadá.
+  - Requisitos: sin datos (la página no establece requisitos para aspirantes)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (la página no indica ciclo de registro; opera con la temporada del SAWP)
+  - Como postular: sin datos (no hay vía de postulación para aspirantes en esta fuente; el reclutamiento es por el gobierno de México)
+  - Lectura automatica posible: No.
+  - Aclaracion: La página está dirigida a personas empleadoras y a trabajadores que ya están en Ontario (seguro médico OHIP, número de seguro social SIN, reglamento interno en español); no describe cómo se recluta a las personas trabajadoras.
+  - Aclaracion: No ofrece vía de postulación para aspirantes: la sección «How to Apply» de la página principal es para empleadores. No es un canal de postulación para residentes de México.
+  - Aclaracion: Incluye contactos de los consulados de México en Toronto, Leamington y Ottawa y de la oficina de F.A.R.M.S. (1-866-271-0862; farmsaccess@farms-canag.com).
+- **Calendario de Ferias de Empleo del SNE** (sin verificar, verificada 1 vez) https://ferias.empleo.gob.mx/
+  - Que es: Cualquier persona que busque empleo; las ferias reúnen empleadores y buscadores en un solo lugar.
+  - Requisitos: No se vieron requisitos de asistencia; el portal pide iniciar sesión o registrarse como buscador de trabajo.
+  - Pago o beneficio: Gratuito (servicio público de empleo); no se vio salario
+  - Plazo o ciclo: Recurrente (SNE realiza ferias a lo largo del año); no se vio ninguna fecha concreta
+  - Como postular: https://ferias.empleo.gob.mx/
+  - Lectura automatica posible: No se verificó.
+  - Aclaracion: La entrada de gob.mx es de 2015 y solo remite a un calendario externo cuyo enlace antiguo da 404.
+  - Aclaracion: El portal vigente muestra la sección «Próximas ferias» con los 32 estados, pero la agenda indicaba «Cargando eventos…» y «Estamos trabajando para integrarlos próximamente»; no se vio ninguna feria con fecha.
+  - Aclaracion: Hay ferias virtuales y el buscador de trabajo requiere registro.
+- **Programa Sembrando Vida** (sin verificar, verificada 1 vez) https://www.gob.mx/bienestar/acciones-y-programas/programa-sembrando-vida
+  - Que es: Campesinas y campesinos con tierra, en 24 estados; no es un empleo con patrón sino un apoyo para trabajar la propia parcela en sistemas agroforestales y milpa con árboles frutales.
+  - Requisitos: No confirmados (texto en imagen); es un programa para personas del medio rural.
+  - Pago o beneficio: Apoyo mensual de 6,450 pesos
+  - Plazo o ciclo: sin datos; no se vio convocatoria de ingreso abierta
+  - Como postular: sin datos
+  - Lectura automatica posible: Hay un mapa de unidades de producción en la página; no se verificó si es descargable.
+  - Aclaracion: No es un empleo con patrón, sino un apoyo para trabajar la propia parcela.
+  - Aclaracion: La página no menciona convocatoria abierta ni medio de registro; las condiciones de participación están en una imagen que no se pudo leer.
+  - Aclaracion: Página oficial actualizada el 24 de junio de 2026; el programa opera con más de 400 mil personas en 24 estados. Contacto: demandasocial@bienestar.gob.mx.
+- **Certificado Laboral para la Agroexportación, plataforma VELAGRO** (sin verificar, verificada 1 vez) https://www.gob.mx/stps/documentos/certificado-laboral-para-la-agroexportacion-plataforma-velagro
+  - Que es: Empleadores que exportan productos agrícolas fijados en acuerdos del DOF; sirve a las personas trabajadoras para saber si el empleador certifica el cumplimiento laboral.
+  - Requisitos: No listados en la página; remite a guías, marco legal y preguntas frecuentes en PDF. Aplica a exportadores de productos incluidos en acuerdos publicados en el DOF.
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: Registro del programa piloto del certificado para el aguacate desde el 17 de septiembre de 2026 (según la página); sin fecha de cierre vista
+  - Como postular: sin datos
+  - Lectura automatica posible: No.
+  - Aclaracion: Es un trámite para personas o empresas que exportan productos agrícolas, no una oferta de empleo ni un programa para quienes buscan trabajo.
+  - Aclaracion: Solo sirve como referencia de que el empleador agroexportador debe obtener el certificado.
+  - Aclaracion: La página no incluye la URL directa de la plataforma VELAGRO.

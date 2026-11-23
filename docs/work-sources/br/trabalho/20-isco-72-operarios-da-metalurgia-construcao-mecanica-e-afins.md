@@ -1,0 +1,113 @@
+# Grupo 72: Operários da metalurgia, construção mecânica e afins
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Tupy - vagas e banco de talentos na Gupy (fundição e usinagem; Joinville/SC e Betim/MG)** (aberta ou vigente, verificada 2 vezes) https://tupy.gupy.io/
+  - O que é: Candidatos a vagas industriais da Tupy (fundição e usinagem): auxiliar de manutenção, caldeireiro, auxiliar industrial, além de áreas técnicas e administrativas. Na consulta de 2026-11-23 havia 31 vagas, com entradas de Banco de Talentos para Betim (MG), Joinville (SC), técnico e estágio.
+  - Requisitos: A página não lista requisitos; constam em cada vaga. Há bancos de talentos para auxiliar industrial e para estágio, mas não foi confirmado se dispensam experiência.
+  - Pagamento ou benefício: sem dados (não informado na página; varia por vaga)
+  - Prazo ou ciclo: Aberto o ano todo: a página mostrava 31 vagas, das quais 10 foram vistas, e bancos de talentos permanentes (Betim operacional e manutenção; Joinville estágio e técnico). Datas-limite de cada vaga não vistas.
+  - Como se candidatar: https://tupy.gupy.io/ (cada vaga tem página própria; o botão 'Participar do banco de talentos' atende quem não encontra a vaga procurada)
+  - Leitura automática possível: sem dados (portal Gupy; nenhuma API ou feed foi visto)
+  - Esclarecimento: Vagas vistas: Analista de Planejamento e Dados Jr (BI), Analista de TI Jr, Auxiliar de Manutenção, Caldeireiro II e III e Controlador de Expedição I, todas em Joinville/SC.
+  - Esclarecimento: A página afirma que a Tupy não cobra nenhum valor em nenhuma etapa do processo seletivo.
+  - Esclarecimento: O Programa de Aprendiz fica em aprendiztupy.gupy.io, que não foi aberto na verificação.
+- **Tupy - página de Carreiras (contratação operacional presencial, Jovem Aprendiz 18 a 23 anos, estágio e trainee)** (aberta ou vigente, verificada 2 vezes) https://www.tupy.com.br/carreiras/
+  - O que é: Quem busca trabalho em fundição e usinagem na Tupy, inclusive jovens de 18 a 23 anos pelo programa Jovem Aprendiz, estudantes (estágio) e recém-formados (trainee, 15 meses).
+  - Requisitos: Jovem Aprendiz: idade de 18 a 23 anos. Trainee: formação em Administração, Economia ou Engenharias. Estágio e vagas operacionais: requisitos não informados na página. Não foi visto se a contratação operacional exige experiência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (não informado)
+  - Prazo ou ciclo: Aberto o ano todo para vagas e banco de talentos pela Gupy; Jovem Aprendiz, estágio e trainee sem datas de inscrição na página (trainee: processo de 15 meses; Jovem Aprendiz: programa de um ano).
+  - Como se candidatar: https://tupy.gupy.io/ (vagas e banco de talentos); https://aprendiztupy.gupy.io (Programa de Aprendiz, indicado na página da Gupy e não aberto nesta verificação); seleção operacional presencial nas unidades
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A seleção para funções operacionais ocorre presencialmente nas unidades; vagas administrativas são divulgadas no LinkedIn e no site, com seleção on-line ou presencial.
+  - Esclarecimento: A página informa que pessoas com deficiência são aceitas em todas as oportunidades.
+  - Esclarecimento: Datas de inscrição de aprendiz, estágio e trainee não constam na página.
+  - Esclarecimento: O programa de aprendiz indicado em aprendiztupy.gupy.io não foi aberto na verificação.
+- **Romi - Trabalhe Conosco (Portal de Vagas e cadastro de currículo; máquinas-ferramenta e fundição)** (aberta ou vigente, verificada 2 vezes) https://www.romi.com/empresa/trabalhe-conosco/
+  - O que é: Candidatos a vagas na Romi, fabricante de máquinas-ferramenta com sede em Santa Bárbara d'Oeste (SP). A página informa apenas o endereço da sede e que as vagas estão no Portal de Vagas.
+  - Requisitos: Nenhum requisito listado na página. Não foi visto que se exija ou dispense experiência; cada vaga do portal define os seus.
+  - Pagamento ou benefício: sem dados (benefícios descritos só em imagem; sem valores)
+  - Prazo ou ciclo: Caminho de candidatura aberto e contínuo: portal de vagas e cadastro de currículo, sem prazo informado. Vagas específicas não foram listadas na página.
+  - Como se candidatar: https://prd-pc1.lg.com.br/vagas/c/6D408C92-7AC1-4A34-91A5-E76D17E9DD38/p/TrabalhenaRomi/pt-BR/Busca/Index (busca de vagas); cadastro: https://prd-pc1.lg.com.br/Vagas/c/6D408C92-7AC1-4A34-91A5-E76D17E9DD38/p/TrabalhenaRomi/pt-BR/Usuario/Cadastro
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página orienta buscar no portal de vagas e, se não houver a vaga desejada, fazer o cadastro de currículo.
+  - Esclarecimento: O portal de vagas (domínio lg.com.br, de fornecedor de RH) não foi aberto diretamente; as URLs vieram da página oficial.
+  - Esclarecimento: A existência de vagas abertas específicas não foi confirmada.
+  - Esclarecimento: Contato informado na página: telefone +55 19 3455-9000 e e-mail contato@romi.com.
+- **CSN (Companhia Siderúrgica Nacional) - vagas na Gupy** (aberta ou vigente, verificada 2 vezes) https://csn.gupy.io/
+  - O que é: Candidatos a vagas na siderúrgica, inclusive projetos temporários. Na consulta de 2026-11-23 havia 55 vagas em 6 páginas; as 10 primeiras eram de áreas corporativas (analistas) em Mogi das Cruzes e São Paulo, tipos Efetivo e Temporário. Vagas de chão de fábrica não apareceram nas primeiras 10.
+  - Requisitos: Não listados na página de listagem; ficam em cada vaga. Os exemplos vistos são cargos de analista (Comercial, Suprimentos Jr, TI Sr SAP FI), logo não são vagas para quem não tem experiência. Não foi visto estágio ou aprendiz na listagem.
+  - Pagamento ou benefício: sem dados (a página de listagem não mostra salário)
+  - Prazo ou ciclo: Fluxo contínuo; 55 vagas encontradas na consulta de 2026-11-23, em 6 páginas. Sem datas por vaga. Há banco de talentos.
+  - Como se candidatar: https://csn.gupy.io/
+  - Leitura automática possível: sem dados (portal Gupy; nenhuma API ou feed foi visto)
+  - Esclarecimento: Os exemplos vistos são administrativos e de TI, sem vagas de chão de fábrica nas primeiras 10, embora o catálogo seja de indústria pesada.
+  - Esclarecimento: A página oferece banco de talentos e links para outras unidades da CSN e para vagas da CSN Inova.
+  - Esclarecimento: Não foi visto estágio ou aprendiz na listagem.
+- **Scania Latin America - vagas e bancos de talentos operacionais na Gupy (São Bernardo do Campo e Vinhedo/SP)** (aberta ou vigente, verificada 2 vezes) https://scania.gupy.io/
+  - O que é: Candidatos a vagas de logística e operação industrial da Scania. Na consulta de 2026-11-23 havia 12 vagas; entre elas Operador Logístico I e III (Vinhedo/SP) e bancos de talentos para vagas operacionais (São Bernardo do Campo), mulheres na logística e talentos diversos (PCD, pessoas negras e mulheres). A página descreve fábricas de motores, câmbios, chassis e cabines, com soldagem, montagem, pintura e manutenção, mas não listava vagas dessas funções.
+  - Requisitos: Não listados na página de listagem. Há bancos de talentos afirmativos (PCD, pessoas negras e mulheres) e um banco de vagas operacionais; se exigem experiência não foi visto.
+  - Pagamento ou benefício: sem dados (não exibido na listagem)
+  - Prazo ou ciclo: Vagas e bancos de talentos permanentes; 12 itens na consulta de 2026-11-23 (10 vistos na página 1). Sem datas.
+  - Como se candidatar: https://scania.gupy.io/
+  - Leitura automática possível: sem dados (portal Gupy; nenhuma API ou feed foi visto)
+  - Esclarecimento: Itens vistos: bancos de talentos para vagas operacionais (São Bernardo do Campo/SP), operação logística (Vinhedo/SP), mulheres na logística e talentos diversos (PCD, pessoas negras e mulheres).
+  - Esclarecimento: Também havia vagas efetivas de Operador Logístico I e III (Vinhedo/SP), Analista de Planejamento de Materiais PL e Desenvolvedor(a) TI Pleno (híbridos).
+  - Esclarecimento: Vagas de soldagem, montagem, pintura e manutenção são descritas na página, mas não estavam listadas.
+- **Vagas.com - vagas de soldador (CLT)** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-soldador
+  - O que é: Soldadores e meio-oficiais de solda. Na consulta de 2026-11-23 havia 10 vagas CLT no Brasil (Michelin, Harsco Environmental, Tate & Lyle, GE Vernova, bp bioenergy e confidenciais) em Minas Gerais, São Paulo, Mato Grosso do Sul, Amazonas e Tocantins; inclui vaga exclusiva para mulheres (Soldadora(o) Especializada(o)) e vaga PCD (Soldador I).
+  - Requisitos: Variam por vaga. Vistos: ensino médio completo; curso profissionalizante em solda (MIG); experiência comprovada em uma vaga; leitura de desenho técnico e uso de paquímetro e trena. Há vagas afirmativas para PCD e para mulheres. Há função de apoio ('Meio Oficial de Solda', 'Ajudante de Produção') que pode exigir menos experiência, sem confirmação.
+  - Pagamento ou benefício: Nenhuma vaga mostra salário. A página informa salário mediano nacional para soldador de R$ 2091,00.
+  - Prazo ou ciclo: Anúncios renovados continuamente; 10 vagas na consulta de 2026-11-23, com datas de 04/09/2026 a 12/11/2026 e algumas 'há 6/7 dias'.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-soldador (candidatura em cada anúncio, por cadastro no Vagas.com)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O Vagas.com é um quadro com anúncios próprios das empresas, mas também agrega ofertas de terceiros; recomenda-se confirmar a vaga no site do empregador.
+  - Esclarecimento: Ao menos 3 dos 10 resultados não são de solda (Frentista, Motorista Agrícola, Ajudante de Produção).
+  - Esclarecimento: Entre as vagas há Manaus/AM, Ouro Branco/MG, Limeira/SP, Mariana/MG e Nova Lima/MG, e alguns anunciantes são confidenciais.
+- **Vagas.com - vagas de torneiro mecânico e operador de máquinas e ferramentas** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-torneiro-mecanico
+  - O que é: Torneiros mecânicos e operadores de torno e CNC. Na consulta de 2026-11-23 havia 3 vagas CLT: Grupo SERES (Ribeirão Preto/SP), NORTEARH (Contagem/MG, ferramentaria, R$ 16,05 por hora) e Primetals Technologies (Rio de Janeiro/RJ).
+  - Requisitos: Exigem experiência comprovada: torneiro mecânico (Grupo SERES, Ribeirão Preto/SP; ensino médio e curso técnico); torneiro convencional e CNC com curso em usinagem ou técnico em mecânica (Primetals Technologies, Rio de Janeiro/RJ); NORTEARH (Contagem/MG) com requisitos truncados. Não são vagas para quem não tem experiência.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: Salário mediano nacional R$ 2377,00 (painel do cargo). Uma vaga (NORTEARH, Contagem/MG) mostra cerca de R$ 16,05 por hora (texto cortado); as demais não informam salário claro.
+  - Prazo ou ciclo: Poucas vagas: 3 na consulta de 2026-11-23, com datas de 28/10/2026, 09/11/2026 e 13/11/2026. Fluxo contínuo, sem prazo fixo.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-torneiro-mecanico (candidatura em cada anúncio)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Quadro de vagas de terceiros; recomenda-se confirmar a vaga no site do empregador.
+  - Esclarecimento: Todos os 3 anúncios são CLT.
+  - Esclarecimento: Benefícios citados: assistência médica, refeitório, seguro de vida, PLR, previdência privada e vale-alimentação.
+  - Esclarecimento: O texto da vaga da NORTEARH aparece cortado, então requisitos e valor por hora podem estar incompletos.
+- **Vagas.com - vagas de mecânico (manutenção industrial, automotivo, auxiliar de mecânico)** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-mecanico
+  - O que é: Mecânicos de manutenção industrial, mecânicos automotivos, auxiliares de mecânico e técnicos de manutenção mecânica. Na consulta de 2026-11-23 havia 285 vagas no Brasil (São Paulo 98, Minas Gerais 73, Rio de Janeiro 35), de empresas como CSN Cimentos, bp bioenergy, Adecco, Cummins, SGS, SEW-EURODRIVE, Delta Fiat, Harsco Environmental e Nissin Foods.
+  - Requisitos: Variam por vaga e não foram lidos em detalhe. Há 'Auxiliar de Mecânico' (Adecco, Rondonópolis/MT) e 19 vagas de estágio, que podem ser porta de entrada; se exigem experiência ou matrícula em curso não foi confirmado.
+  - Pagamento ou benefício: A maioria dos anúncios não informa salário. Salário mediano nacional R$ 2107,00 (painel do cargo).
+  - Prazo ou ciclo: Anúncios renovados continuamente; 285 vagas na consulta de 2026-11-23 (254 CLT, 19 estágio, 10 temporário, 2 PJ). Datas vistas de 15/09/2026 a 13/11/2026.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-mecanico (candidatura em cada anúncio)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Quadro de vagas de terceiros; recomenda-se confirmar a vaga no site do empregador.
+  - Esclarecimento: Exemplos vistos: Mecânico II (CSN Cimentos, Congonhas/MG), Mecânico III (Porto do Açu Operações, São João da Barra/RJ), Mecânico de Manutenção Industrial (Alfa Tennant, Rio Claro/SP), Mecânico Automotivo (Delta Fiat, Juiz de Fora/MG) e Mecânico de Manutenção Automotiva (SGS, Sorocaba/SP).
+  - Esclarecimento: Modalidade: 265 presenciais, 18 presenciais com home office e 1 100% home office.
+- **ArcelorMittal Brasil - Pessoas: oportunidades e programas (Aprendiz, Qualificar, Sustentabilidade Técnica com o SENAI)** (não verificada, verificada 1 vez) https://brasil.arcelormittal.com/pessoas
+  - O que é: Candidatos a vagas em unidades da siderúrgica em 16 estados e no Distrito Federal (Alagoas, Amazonas, Bahia, Ceará, Distrito Federal, Espírito Santo, Goiás, Mato Grosso do Sul, Minas Gerais, Pará, Paraná, Pernambuco, Rio de Janeiro, Rio Grande do Sul, Santa Catarina e São Paulo), inclusive iniciantes pelos programas de Aprendiz e Qualificar.
+  - Requisitos: sem dados; a página não informa requisitos de nenhum programa. Não foi visto que se exija ou dispense experiência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (a página cita benefícios gerais, como plano de saúde, vale-refeição e participação nos resultados, que variam conforme a unidade)
+  - Prazo ou ciclo: Estágio: inscrições encerradas na data da consulta. Demais programas (Aprendiz, Expansão, Qualificar, Expert, Tech & Digital, Sustentabilidade Técnica): sem datas, sem status e sem ciclo anual visto.
+  - Como se candidatar: Link da página 'Consulte - vagas ArcelorMittal Brasil' (portal de vagas da empresa em Oracle, filtrado para o Brasil); a URL exata não foi lida.
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Nenhum dos programas teve chamada aberta com data confirmada; não há como afirmar que estejam abertos ou que se repitam.
+  - Esclarecimento: O estágio estava com inscrições encerradas na data da consulta.
+  - Esclarecimento: A URL exata do portal de vagas da empresa não foi lida.
+- **FBTS - Fundação Brasileira de Tecnologia da Soldagem (certificação de inspetor de soldagem, cursos EAD e presenciais)** (não verificada, verificada 1 vez) https://www.fbts.org.br
+  - O que é: Profissionais de soldagem que querem se qualificar para inspetor de soldagem (Níveis 1 e 2), encarregado de soldagem, inspetor de dutos terrestres e inspetor de equipamentos. A página não trata da qualificação de soldador, apenas de inspetor. A fundação não é um local de contratação.
+  - Requisitos: sem dados; a página não informa requisitos de matrícula nem de certificação.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: Não é emprego: cursos e certificação pagos. Valores não vistos (a página remete a 'Consultar taxas em aberto').
+  - Prazo ou ciclo: Calendário de atividades em https://www.fbts.org.br/calendario-atividades, mas a página carregou sem entradas (provável carregamento dinâmico). A página inicial mostra eventos sem ano (21 out; 18 mai 'Intercorr 2027'). Sem datas de turmas confirmadas.
+  - Como se candidatar: Cursos: https://www.ead.fbts.org.br (a página carregou só com o título); contato: https://www.fbts.org.br/fale-conosco, e-mail fbts@fbts.org.br, telefone +55 21 2515-7150
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Trata-se de um instituto de formação, não de um empregador, e não é um local de contratação.
+  - Esclarecimento: Os cursos e a certificação são pagos, e os valores não foram vistos.
+  - Esclarecimento: Não foi confirmada nenhuma turma aberta nem prazo; o calendário de atividades carregou sem entradas.
+  - Esclarecimento: A instituição foi fundada em 1982 no Rio de Janeiro, segundo a própria página, que cita parcerias com Petrobras, ABEMI e SINAVAL.

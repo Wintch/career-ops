@@ -1,0 +1,53 @@
+# Atencion al cliente, administracion y call centers
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Randstad Uruguay - carreras en contact center** (abierta o vigente, verificada 2 veces) https://www.randstad.com.uy/operational-carreras/contact-center/
+  - Que es: Personas que buscan puestos de call center y contact center, permanentes, temporales o por contrato, en rubros como telecomunicaciones, finanzas y salud.
+  - Requisitos: No se listan requisitos de edad, estudios ni experiencia en la página; no se afirma que no se requiera experiencia. Cada aviso puede fijar los suyos.
+  - Pago o beneficio: sin datos (la página habla de buen salario y beneficios sin cifras)
+  - Plazo o ciclo: Sin fechas ni vacantes en la página; solo indica empleos fijos, temporales o por contrato en sectores como telecomunicaciones, finanzas o salud.
+  - Como postular: https://www.randstad.com.uy/trabajos/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una página promocional: no lista vacantes concretas, salarios ni requisitos de experiencia.
+  - Aclaracion: Es una vía de postulación abierta, no una vacante confirmada; cargar el CV requiere iniciar sesión o registrarse en "mi Randstad".
+  - Aclaracion: No se vio mención a alertas por correo en esta página.
+  - Aclaracion: El 2026-11-23 el buscador general no mostraba vacantes de contact center.
+- **Randstad Uruguay - buscador de trabajos (administración y afines)** (abierta o vigente, verificada 2 veces) https://www.randstad.com.uy/trabajos/
+  - Que es: Personas que buscan puestos administrativos, contables, comerciales y de asistencia en Montevideo y Canelones, entre otros.
+  - Requisitos: Varían por aviso; no se leyeron los detalles. Para postular se usa "mi Randstad" (registro y carga de CV).
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no se vieron salarios)
+  - Plazo o ciclo: abierto todo el año; el 2026-11-23 había 13 vacantes de tiempo completo
+  - Como postular: https://www.randstad.com.uy/trabajos/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La mayoría de los puestos parece requerir experiencia o perfil técnico; los de auxiliar, cocina y mantenimiento podrían ser más accesibles, aunque no se vio su requisito.
+  - Aclaracion: Cada aviso tiene "mostrar detalles del trabajo" y hay alertas por correo diarias, semanales o mensuales.
+- **ManpowerGroup Uruguay - portal de empleos** (sin verificar, verificada 1 vez) https://www.manpower.com.uy
+  - Que es: Personas que buscan trabajo en call center, atención al cliente y administración; la página muestra esas tres categorías.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://trabajo.manpower.com.uy
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El contenido se renderiza del lado del cliente y solo se pudo ver el título del sitio: no se vieron vacantes, proceso de registro ni requisitos.
+  - Aclaracion: El estado actual y el camino de postulación no están confirmados.
+- **Teleperformance (TP) - búsqueda de empleos** (sin verificar, verificada 1 vez) https://www.tp.com/en-us/careers/job-opportunities/
+  - Que es: Personas interesadas en trabajar en el outsourcer; no se pudo confirmar presencia en Uruguay.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Uruguay no figura en el filtro de países ni en la lista de suscripción, y no se vio ninguna vía de postulación para Uruguay; conviene no listarla como fuente para Uruguay hasta verificar.
+  - Aclaracion: La página advierte que TP solo contacta desde correos @Teleperformance.com, no usa Telegram y nunca pide pagos durante la selección.
+- **Sutherland Global - portal de empleos** (sin verificar, verificada 1 vez) https://jobs.sutherlandglobal.com/
+  - Que es: Personas interesadas en el BPO; no se pudo confirmar presencia en Uruguay.
+  - Requisitos: No se indican en la página; dependen de cada vacante.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://jobs.sutherlandglobal.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Uruguay y Montevideo no figuran entre las ubicaciones listadas y no se confirmó ninguna vacante en Uruguay.
+  - Aclaracion: El portal ofrece registro e inicio de sesión pero no muestra ofertas concretas; conviene incluirla solo si se confirma una vacante en el buscador.

@@ -1,0 +1,79 @@
+# Oficios y construccion
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Ministerio de Trabajo, Empleo y Previsión Social (portal institucional)** (sin verificar, verificada 1 vez) https://mintrabajo.gob.bo
+  - Que es: Trabajadores y personas que buscan empleo en general; incluye consulta sobre derechos laborales, trámites y seguridad ocupacional.
+  - Requisitos: No aplica (sitio de servicios y normativa laboral, no de postulación)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (sin convocatorias de empleo ni bolsa de trabajo)
+  - Como postular: Consultas por teléfono 2408606 o correo mteps@mintrabajo.gob.bo (datos vistos en el sitio). Listados vistos: https://mintrabajo.gob.bo/index.php/lista-servicios-page/ , https://mintrabajo.gob.bo/index.php/lista-tramites-page/ y https://mintrabajo.gob.bo/index.php/lista-herramientas-page/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: No tiene bolsa de trabajo ni convocatorias de empleo: la única sección de "convocatorias" corresponde a contrataciones de bienes y servicios.
+  - Aclaracion: Incluye la plataforma RRAPE de registro y reporte de agencias privadas de empleo, útil para verificar si una agencia está registrada.
+  - Aclaracion: Los portales del Estado usan únicamente el dominio .gob.bo con https y candado; la versión antigua de la OVT usa una IP en http plano, por lo que conviene cautela al ingresar datos.
+  - Aclaracion: Contacto: teléfono 2408606, correo mteps@mintrabajo.gob.bo.
+- **Registro Nacional de profesionales y técnicos de Higiene, Seguridad Ocupacional y Bienestar (HSO) del Ministerio de Trabajo** (sin verificar, verificada 1 vez) https://mintrabajo.gob.bo/index.php/registro-nacional-de-profesionales-y-tecnicos-h-s-o-b/
+  - Que es: Técnicos y profesionales en seguridad y salud ocupacional, de interés para obras de construcción y oficios que exigen cumplir normas de seguridad.
+  - Requisitos: sin datos (no se leyeron los documentos del registro; presumiblemente profesionales o técnicos en higiene y seguridad ocupacional)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se vieron plazos de inscripción)
+  - Como postular: https://mintrabajo.gob.bo/index.php/registro-nacional-de-profesionales-y-tecnicos-h-s-o-b/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página del registro es https://mintrabajo.gob.bo/index.php/registro-nacional-de-profesionales-y-tecnicos-h-s-o-b/; la dirección indicada como fuente corresponde solo a un submenú.
+  - Aclaracion: Publica un PDF "Registro Nacional de Profesionales y Técnicos en Higiene 2026" y un formulario Word "Anexo 3 formulario de registro individual", sin texto explicativo.
+  - Aclaracion: No es una oferta de empleo sino un registro profesional.
+  - Aclaracion: Contacto: 2408606, mteps@mintrabajo.gob.bo.
+- **Autorización de trabajo adolescente (requisitos y formulario)** (sin verificar, verificada 1 vez) https://mintrabajo.gob.bo/wp-content/uploads/2025/09/requisitospara-autor.pdf
+  - Que es: Adolescentes que necesitan autorización para trabajar legalmente; relevante para quien quiere iniciarse en un oficio antes de ser mayor de edad.
+  - Requisitos: 1) Autorización escrita de madre, padre o tutor. 2) Croquis del domicilio actual. 3) Factura de luz del domicilio. 4) Cédula de identidad del adolescente. 5) Cédula de identidad de madre, padre o tutor. 6) Cédula de identidad del empleador. 7) Certificado médico de aptitud para trabajar (gestión de la Defensoría). 8) Certificación de verificación socioeconómica (gestión de la Defensoría). No exige experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fechas; trámite permanente según el documento (la fecha de septiembre de 2025 solo se infiere de la ruta del archivo)
+  - Como postular: Descargar los PDF del sitio oficial y consultar en la Oficina Departamental de Trabajo; el detalle del trámite no se verificó.
+  - Lectura automatica posible: PDF
+  - Aclaracion: Es una lista de requisitos, no una oferta de empleo ni un formulario.
+  - Aclaracion: La Defensoría de la Niñez y Adolescencia gestiona el certificado médico y la verificación socioeconómica (Ley N° 548, art. 131, parágrafo IV).
+  - Aclaracion: El documento no indica edad mínima, costo ni oficina de trámite.
+- **Ministerio de Educación: Reglamento de cursos de capacitación (RM 295/2026) para institutos técnicos, tecnológicos y de artes** (sin verificar, verificada 1 vez) https://www.minedu.gob.bo/index.php?option=com_content&view=article&id=8442&catid=133&Itemid=723
+  - Que es: Personas que quieran tomar cursos cortos de capacitación en institutos técnicos y tecnológicos fiscales, de convenio y privados (los oficios concretos dependen de cada instituto).
+  - Requisitos: sin datos. La página no detalla requisitos de ingreso; solo indica que el anexo tiene 3 títulos, 28 artículos y 2 disposiciones transitorias.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Normativa publicada el 2026-08-13; no se vio ninguna convocatoria ni fecha de inscripción. Los cursos los abre cada instituto (fiscal, de convenio o privado).
+  - Como postular: Preguntar en el instituto técnico o tecnológico más cercano y descargar el reglamento desde la página oficial.
+  - Lectura automatica posible: PDF
+  - Aclaracion: Es una referencia normativa de la sección Documentos Normativos del Ministerio de Educación; no es un programa de empleo ni de beca.
+  - Aclaracion: Conviene consultar directamente al instituto de interés sobre los cursos cortos que ofrece.
+  - Aclaracion: Se recomienda no pagar por acceder a una vacante y contrastar siempre en el sitio oficial de la institución.
+- **CEPEAD: sistema académico (Educación Alternativa y Especial)** (sin verificar, verificada 1 vez) http://cepead.minedu.gob.bo/
+  - Que es: Presentado en el sitio del Ministerio como servicio de Educación Alternativa y Especial; programas, oficios y público: sin datos.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos. Solo se pudo ver el título 'Sistema Académico - CEPEAD'.
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Del sitio solo se vio el título 'Sistema Académico - CEPEAD'; que sea un sistema académico del Ministerio de Educación es una inferencia por el dominio minedu.gob.bo.
+  - Aclaracion: No se vio descripción, oferta de cursos, requisitos ni períodos de inscripción.
+  - Aclaracion: No debe presentarse como ruta de empleo ni de formación con fechas hasta confirmar con el Ministerio de Educación.
+- **CAINCO Academy (Cámara de Industria, Comercio, Servicios y Turismo de Santa Cruz)** (sin verificar, verificada 1 vez) https://academy.cainco.org.bo/
+  - Que es: Formación ejecutiva y servicios corporativos para empresas; no se vieron cursos de oficios de construcción. Su sitio también menciona el servicio de Recursos Humanos 'ACIERTA' (https://acierta.cainco.org.bo#servicios), que parece dirigido a empleadores.
+  - Requisitos: sin datos. La página principal no muestra requisitos ni pasos de inscripción.
+  - Pago o beneficio: sin datos (no se vieron precios; es formación empresarial aparentemente de pago, sin becas visibles)
+  - Plazo o ciclo: sin datos. No se vio calendario de cursos.
+  - Como postular: https://academy.cainco.org.bo/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Es el brazo de formación de CAINCO: Formación Ejecutiva, Servicios Corporativos y Campus Virtual con plataforma e-learning, con certificado avalado por CAINCO.
+  - Aclaracion: La portada no lista cursos, fechas, precios, becas ni bolsa de empleo.
+  - Aclaracion: Contacto visible: Av. Las Américas #7, piso 9, Santa Cruz; +591 3 3334555; academy@cainco.org.bo.
+  - Aclaracion: Está orientado a empresas y profesionales, no a quien busca un primer empleo sin experiencia.
+- **ANH: Agencia Nacional de Hidrocarburos (instaladores de gas)** (sin verificar, verificada 1 vez) https://www.anh.gob.bo
+  - Que es: Entidad que regula la actividad del gas; podría informar sobre el registro o la habilitación de instaladores de gas. Esto no se confirmó: la página principal no habla de registro de instaladores.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se vio convocatoria ni ciclo.
+  - Como postular: Consultar a la ANH: línea gratuita 800-10-6006, teléfono (591) 2-2614000, correo contacto@anh.gob.bo, WhatsApp (591) 72072300, Av. 20 de Octubre Nro. 2685 (Sopocachi), La Paz. Según la página, los trámites están en 'Trámites Institucionales' y 'Ubica tu Trámite'.
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La portada del sitio oficial no menciona instaladores de gas, su certificación, registro ni cursos, y no se puede afirmar que exista un registro abierto.
+  - Aclaracion: La sección 'Lista de Convocatorias' bajo Contrataciones parece ser de contratación pública; la URL contenido.php?s=55 devolvió 404.
+  - Aclaracion: Contacto que figura: contacto@anh.gob.bo, (2) 61-4000, WhatsApp (7) 20-72300; cualquier trámite de instalador debe confirmarse por esos canales.

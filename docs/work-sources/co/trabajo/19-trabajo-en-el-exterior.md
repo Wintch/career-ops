@@ -1,0 +1,61 @@
+# Trabajo en el exterior
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Au Pair (Programa J-1 de Estados Unidos)** (abierta o vigente, verificada 2 veces) https://j1visa.state.gov/programs/au-pair/
+  - Que es: Personas de 18 a 26 años que quieran cuidar niños en una familia anfitriona en Estados Unidos como programa de intercambio cultural.
+  - Requisitos: Edad de 18 a 26 años; secundaria terminada o equivalente; inglés hablado suficiente (entrevista en inglés); completar al menos 6 horas de crédito académico en una institución postsecundaria de Estados Unidos. No se exige experiencia laboral según la página, aunque cada patrocinador puede pedir experiencia con niños.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Alojamiento y comida más un estipendio semanal fijado por la normativa federal de salarios (monto no indicado en la página). Hasta USD 500 para estudios obligatorios (la familia aporta hasta otros USD 500)
+  - Plazo o ciclo: Abierto todo el año a través de patrocinadores (sponsors) designados; fechas de apertura y cupos por patrocinador: sin datos
+  - Como postular: https://j1visa.state.gov/programs/au-pair/
+  - Lectura automatica posible: no
+  - Aclaracion: La postulación se hace con un patrocinador designado, no en la página oficial del Departamento de Estado, que no describe el proceso.
+  - Aclaracion: La estancia estándar es de 12 meses, con extensión opcional de 6, 9 o 12 meses, y el cuidado infantil tiene un máximo de 10 horas diarias y 45 semanales.
+  - Aclaracion: La página advierte sobre una posible regla del programa sin dar detalles, por lo que las condiciones pueden cambiar.
+  - Aclaracion: La lista de patrocinadores activos y las restricciones de visado para ciudadanos colombianos se deben confirmar con el patrocinador y con la embajada de Estados Unidos en Colombia.
+- **Alerta de la OIM: cómo validar ofertas laborales en el exterior** (abierta o vigente, verificada 2 veces) https://colombia.iom.int/es/news/oim-colombia-brinda-asistencia-sobrevivientes-de-red-de-trata-en-camboya-y-reitera-llamado-validar-ofertas-laborales-en-el-exterior
+  - Que es: Cualquier persona que reciba una oferta de trabajo fuera de Colombia.
+  - Requisitos: Ninguno; es información de prevención abierta a cualquier persona.
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: Abierto todo el año (recomendación permanente). Comunicado fechado en Bogotá el 11 de noviembre de 2026 y publicado en el sitio el 17 de noviembre de 2026.
+  - Como postular: No aplica (no hay postulación)
+  - Lectura automatica posible: no
+  - Aclaracion: Es un comunicado de prevención, no una oferta de empleo.
+  - Aclaracion: Señales de alerta: sueldos altos sin pedir experiencia ni idiomas, préstamos para pasaportes y tiquetes, y reclutadores que piden mentir ante migración sobre el motivo del viaje.
+  - Aclaracion: Menciona LibertApp, aplicación gratuita con botón de pánico con ubicación en tiempo real y directorio de consulados.
+  - Aclaracion: El comunicado no da la URL exacta de la plataforma del Ministerio del Trabajo; conviene localizarla en el sitio oficial.
+- **Migración Colombia: denuncia de trata de personas y LibertApp** (abierta o vigente, verificada 2 veces) https://www.migracioncolombia.gov.co/tramites-y-servicios/aplicaciones
+  - Que es: Cualquier persona que viaje o reciba una oferta laboral en el exterior y quiera denunciar o prevenir una posible trata de personas.
+  - Requisitos: Ninguno; gratuita, requiere registro con datos básicos y correo o teléfono, con código de confirmación.
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: Abierto todo el año
+  - Como postular: https://www.migracioncolombia.gov.co/tramites-y-servicios/aplicaciones
+  - Lectura automatica posible: no
+  - Aclaracion: LibertApp es la aplicación oficial y gratuita de Migración Colombia contra la trata de personas, disponible en español, inglés, francés y portugués, en App Store y Google Play.
+  - Aclaracion: Incluye botón de pánico que funciona sin internet y envía alerta con ubicación al Centro Operativo Anti Trata (COAT), llamada directa al COAT, reporte por mensaje de texto, contenido educativo y directorio de consulados colombianos.
+  - Aclaracion: Línea nacional gratuita antitrata: 018000522020 (24/7); correo del COAT: tratadepersonas@mininterior.gov.co; línea general de Migración Colombia: 01 8000 51 55 15.
+- **Summer Work Travel (Programa J-1 de Estados Unidos)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://j1visa.state.gov/programs/summer-work-travel/
+  - Que es: Estudiantes universitarios de tiempo completo, matriculados fuera de Estados Unidos, que quieran trabajar y viajar hasta 4 meses durante las vacaciones.
+  - Requisitos: Estudiante universitario de tiempo completo en una institución acreditada fuera de Estados Unidos, con al menos un semestre cursado; inglés suficiente; empleo preasignado por el patrocinador (salvo exentos de visa). No se vio edad mínima en la página.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (varía por empleo; los costos del programa no se indican en la página)
+  - Plazo o ciclo: Cada temporada de vacaciones; fechas y cupos fijados por cada patrocinador (sin datos). Máximo 4 meses por estancia; se puede repetir
+  - Como postular: https://j1visa.state.gov/programs/summer-work-travel/
+  - Lectura automatica posible: no
+  - Aclaracion: La postulación se hace a través de un patrocinador designado, y las fechas por país figuran en calendarios en PDF cuya versión enlazada es de 2024.
+  - Aclaracion: Quienes no son de países con exención de visa deben tener empleo preasignado antes de entrar; la página oficial no confirma si Colombia está en ese grupo.
+  - Aclaracion: Debe regresarse al país de origen antes del inicio de clases.
+  - Aclaracion: La página no indica costos del programa.
+- **PAVE: formación técnica y trabajo en Alemania (OIM Colombia)** (sin verificar, verificada 1 vez) https://colombia.iom.int/es/resources/abriendo-caminos-laborales-y-de-formacion-en-alemania
+  - Que es: Jóvenes colombianos con pocas posibilidades de acceder a la educación superior que buscan formación técnica (modelo alemán de Ausbildung) y empleo en Alemania.
+  - Requisitos: sin datos (no se publican requisitos en texto; el público descrito son jóvenes colombianos con acceso limitado a educación superior)
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: pave@iom.int (solo contacto; no hay formulario de postulación visible)
+  - Lectura automatica posible: no
+  - Aclaracion: La página no publica convocatoria abierta, fechas, criterios de elegibilidad ni forma de postularse, por lo que no se puede confirmar que haya convocatoria vigente.
+  - Aclaracion: Los apartados de contexto, componentes, fases y modelo Ausbildung están solo en imágenes, sin texto legible.
+  - Aclaracion: Se recomienda escribir a pave@iom.int antes de presentarlo como vía de postulación.

@@ -1,0 +1,100 @@
+# Servicio domestico, limpieza, seguridad y edificios
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **BPS - Trabajo doméstico (inscripción de trabajadores, guías, categorías y salarios mínimos)** (abierta o vigente, verificada 2 veces) https://www.bps.gub.uy/4784/trabajo-domestico.html
+  - Que es: Hogares que contratan personal doméstico y personas que trabajan en servicio doméstico (limpieza, cocina, cuidados) en régimen con retiro o sin retiro. Es la vía legal para registrar la relación de trabajo; no es una bolsa de empleo.
+  - Requisitos: Sin experiencia ni título exigidos en lo visto. Para declarar a la persona trabajadora el empleador informa nombre, documento de identidad, fecha de inicio, tipo de remuneración, jornales o días por mes, horas semanales y salario nominal. La página no lista otros documentos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Mínimos desde julio de 2026 (44 horas semanales): General $ 32.051 mensuales ($ 169 la hora); Cocina $ 33.796 ($ 178 la hora); Cuidados $ 34.885 ($ 184 la hora).
+  - Plazo o ciclo: Abierto todo el año. Categorías laborales y salarios mínimos vigentes desde el 1 de julio de 2026 (acuerdo del Consejo de Salarios del 5 de diciembre de 2025); página modificada el 20/11/2026.
+  - Como postular: https://serviciosenlinea.bps.gub.uy/ServiciosEnLineaWeb/servicios?escr=SERVICIO_DOMESTICO
+  - Lectura automatica posible: No se vio API ni datos abiertos para esta fuente.
+  - Aclaracion: En el trabajo doméstico quien se inscribe en el BPS es el empleador, que debe estar registrado como tal y declarar a la persona trabajadora; no es una bolsa de empleo.
+  - Aclaracion: Categorías: General (tareas del hogar; cocina o cuidados solo hasta el 50 % del tiempo), Cocina y Cuidados (atención directa de niños, personas mayores o dependientes); la categoría depende de la tarea principal (50 % más una hora de la jornada).
+  - Aclaracion: Enlaces: categorías y salarios https://www.bps.gub.uy/24279/categorias-laborales-y-salarios-minimos.html ; guía de afiliación https://www.bps.gub.uy/10807/guia-de-afiliacion.html .
+  - Aclaracion: Consultas: *1997 (celular), 0800 1997 (fijo), +598 1997 0000 (exterior), lunes a viernes 08:00-18:00; presencial en sucursales 09:15-16:00.
+- **MTSS - Trabajo doméstico: derechos, categorías, jornada y registro** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/trabajo-domestico
+  - Que es: Trabajadoras y trabajadores domésticos y sus empleadores; sirve para conocer condiciones legales mínimas antes de aceptar o hacer una contratación.
+  - Requisitos: No exige experiencia ni título: es una guía de derechos. Inscripción en BPS desde el inicio o el mismo día de comenzar a trabajar (la hace el empleador); el trabajador debe recibir copia del recibo de sueldo.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Salario mínimo al 30/6/2026: Cocina $ 32.875; Cuidados $ 33.935 (General: monto no visto). Jornada máxima 8 horas diarias y 44 semanales.
+  - Plazo o ciclo: Abierto todo el año (página informativa, fechada 26/06/2026). Categorías General, Cocina y Cuidados vigentes desde el 1.º de julio de 2026; ajustes salariales del 1/7/2025 al 30/6/2027.
+  - Como postular: https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/trabajo-domestico
+  - Lectura automatica posible: No se vio API ni datos abiertos para esta fuente.
+  - Aclaracion: No es una bolsa de empleo: no se postula allí.
+  - Aclaracion: Informa sobre categorías, pagos, descansos y registro en BPS (bps.gub.uy/trabajo_domestico).
+  - Aclaracion: Consultas gratuitas al 0800 7171 o *7171 desde móviles Antel; asesoramiento laboral gratuito en Juncal 1511, lunes a viernes de 9:00 a 16:00.
+- **MTSS - Registro de Agencias de Empleo Privadas (listado de agencias habilitadas)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/registro-agencias-empleo-privadas
+  - Que es: Personas que quieran postularse a través de una agencia de selección, intermediación o suministro de personal (muy usadas en limpieza, vigilancia y servicios a edificios) y comprobar que la agencia tenga licencia. Una agencia habilitada no cobra al postulante por el trámite del registro, pero el cobro al candidato no se verificó.
+  - Requisitos: Ninguno para consultar. Las agencias que hacen selección, intermediación o suministro de personal deben estar registradas para operar; el listado sirve para comprobar que una agencia esté habilitada.
+  - Pago o beneficio: Sin costo para quien busca trabajo (no se vio ningún cobro en la página).
+  - Plazo o ciclo: Permanente. La página dice que el listado se actualiza cada semana; el PDF publicado se titula 'Listado de agencias actualizado Noviembre 2026'.
+  - Como postular: https://www.gub.uy/ministerio-trabajo-seguridad-social/sites/ministerio-trabajo-seguridad-social/files/2026-11/AEP%20HABILITADAS%20NOVIEMBRE%202026.pdf
+  - Lectura automatica posible: El listado se publica como PDF.
+  - Aclaracion: Es una lista de control, no una bolsa de empleo: sirve para elegir a qué agencias enviar el CV y evitar intermediarios no habilitados.
+  - Aclaracion: La fecha de publicación de la página (25/02/2026) no coincide con el mes del PDF (noviembre 2026), por lo que conviene revisar la fecha dentro del PDF.
+  - Aclaracion: La página no muestra cobros al postulante, pero el cobro al candidato no está verificado.
+  - Aclaracion: Trámite de registro de agencias: https://www.gub.uy/tramites/registro-agencias-empleo-privadas
+- **Securitas Uruguay - Trabaja con nosotros** (abierta o vigente, verificada 2 veces) https://www.securitasuruguay.com/trabaja-con-nosotros2/
+  - Que es: Personas que buscan trabajo en seguridad privada. La página menciona puestos de guardia de seguridad, operador de monitoreo, chofer de Mobile y recepción y portería administrativos.
+  - Requisitos: No se listan en la página; se indican en el portal externo. Los puestos citados no mencionan experiencia ni título (no verificado en el portal).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto, sin fecha de cierre ni de publicación. La página no permite confirmar qué vacantes están vigentes al 23/11/2026.
+  - Como postular: https://www.securitasuruguay.com/trabaja-con-nosotros2/
+  - Lectura automatica posible: No verificado.
+  - Aclaracion: La página no tiene formulario propio: el botón 'Aplicar' lleva al portal externo jobs.securitas.es (Uruguay).
+  - Aclaracion: Para guardias de seguridad privada rige la habilitación ante el Ministerio del Interior (DIGEFE), pero el requisito concreto no figura en la página de Securitas.
+- **Prosegur Uruguay - Trabaja con nosotros** (abierta o vigente, verificada 2 veces) https://www.prosegur.com.uy/trabaja-con-nosotros
+  - Que es: Personas que buscan trabajo en vigilancia y servicios auxiliares, oficina, comercial y tecnología de seguridad electrónica. Prosegur declara ofrecer formación continua.
+  - Requisitos: No figuran en la página. El portal permite enviar el CV aunque no haya una vacante que calce y crear un perfil para oportunidades futuras.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto, sin fecha de cierre. No se vieron vacantes concretas para Uruguay en el portal al momento de la consulta.
+  - Como postular: https://prosegur.referrals.selectminds.com/uy
+  - Lectura automatica posible: No verificado.
+  - Aclaracion: La página no tiene formulario ni vacantes propias: el enlace 'Ver vacantes' (careers.prosegur.com/uy) redirige al portal prosegur.referrals.selectminds.com/uy.
+  - Aclaracion: El portal no muestra ubicaciones ni puestos individuales; la vía abierta es el envío de CV y la creación de perfil.
+- **Computrabajo Uruguay** (abierta o vigente, verificada 1 vez) https://uy.computrabajo.com/
+  - Que es: Cualquier persona. La página muestra categorías de limpieza, seguridad y servicio doméstico.
+  - Requisitos: Crear una cuenta gratuita y un CV en el sitio para postularse; las condiciones de edad, experiencia y títulos las fija cada aviso. No se vio un filtro explícito de 'sin experiencia' en la portada.
+  - Pago o beneficio: Gratis para quien busca trabajo (registro gratuito, según el sitio). Salario según cada aviso.
+  - Plazo o ciclo: Abierto todo el año; avisos nuevos a diario.
+  - Como postular: https://uy.computrabajo.com/
+  - Lectura automatica posible: No verificado.
+  - Aclaracion: La portada mostraba 1.793 ofertas y 267 empresas contratando el 2026-11-23.
+  - Aclaracion: El sitio bloquea clientes automáticos (HTTP 403 o contenido vacío en lecturas simples); no es un error del sitio.
+  - Aclaracion: Ofrece alertas por correo y aplicación móvil, y listados por Montevideo, Canelones, Maldonado, Colonia, San José, Durazno, Salto y otros departamentos.
+- **Yo Estudio y Trabajo 2026 (MTSS)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-trabajo-seguridad-social/yoestudioytrabajo2026
+  - Que es: Programa de primera experiencia laboral formal (15.ª edición) con selección por sorteo. Puede dar acceso a puestos en empresas y organismos; no es específico de limpieza, seguridad o doméstico.
+  - Requisitos: Jóvenes estudiantes de 16 a 20 años, para una primera experiencia laboral formal (dato de la página del programa en gub.uy, no de la página de la edición 2026). Estudios, residencia, duración y salario: no se vieron; están en 'Bases y Condiciones' y 'Preguntas frecuentes' de la edición. No requiere experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no figura en la página de la edición; consultar las Bases y Condiciones)
+  - Plazo o ciclo: Anual (15.ª edición, 2026). Inscripción del 18 de noviembre a las 00:00 hasta el 25 de noviembre a las 23:59; sorteo el 1 de diciembre de 2026 a las 12:00, transmitido por YouTube. Quedan pocos días para inscribirse.
+  - Como postular: https://inscripcion.mtss.gub.uy
+  - Lectura automatica posible: No se vio API ni datos abiertos para esta fuente.
+  - Aclaracion: El ciclo anual se apoya en ediciones anteriores vistas en la página del programa (9.ª en 2020, 11.ª con sorteo el 7/11/2022).
+  - Aclaracion: El rango de edad de 16 a 20 años proviene de la página general del programa, no de la edición 2026; estudios, residencia, duración y salario figuran en 'Bases y Condiciones' y 'Preguntas frecuentes' de la edición.
+  - Aclaracion: La inscripción se hace en inscripcion.mtss.gub.uy, enlace que presenta error de certificado autofirmado.
+  - Aclaracion: El resultado se publica en acta tras el sorteo.
+- **Ministerio del Interior - Dirección General de Fiscalización de Empresas (DIGEFE), seguridad privada** (sin verificar, verificada 1 vez) https://www.gub.uy/ministerio-interior/fiscalizacion-empresas-seguridad
+  - Que es: Empresas de seguridad privada y personas que quieran trabajar como personal de seguridad privada. La DIGEFE registra, controla y fiscaliza los servicios de vigilancia, protección y custodia, y gestiona la habilitación de los operadores y de su personal.
+  - Requisitos: La página no detalla requisitos para el personal. Solo indica que la DIGEFE gestiona la habilitación de los operadores de seguridad privada y de su personal dependiente.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: No corresponde: página institucional publicada el 24/05/2023, sin plazos ni convocatorias.
+  - Como postular: sin datos
+  - Lectura automatica posible: No se vio API ni datos abiertos para esta fuente.
+  - Aclaracion: Describe las competencias de fiscalización y registro de las empresas de seguridad; no ofrece empleo ni lista trámites concretos, por lo que no sirve para postularse.
+  - Aclaracion: Contacto indicado: Mercedes 993, teléfono 20304000, lunes a viernes de 9:00 a 17:00.
+  - Aclaracion: El trámite específico de habilitación de personal debe buscarse en gub.uy/tramites.
+- **Ley de Promoción del Empleo 19.973 y Uruguay Certifica (subsidios y certificación de competencias)** (sin verificar, verificada 1 vez) https://www.gub.uy/ministerio-trabajo-seguridad-social/empleo-formacion-profesional
+  - Que es: Personas desempleadas de los grupos que beneficia la Ley 19.973 (empresas reciben subsidios por contratarlas) y trabajadores con experiencia que quieran certificar sus competencias (Uruguay Certifica, vía INEFOP).
+  - Requisitos: No figuran en la página índice. La Ley 19.973 se dirige a empresas que contratan a determinados grupos de personas (grupos no vistos). Uruguay Certifica (Decreto 340/18, a cargo de MTSS/DINAE e INEFOP) está dirigido a trabajadores que quieren certificar competencias que ya tienen; requisitos, costo y trámite: no figuran.
+  - Pago o beneficio: sin datos. La Ley 19.973 otorga subsidios a las empresas que contratan a ciertos grupos; no se vio el monto ni los grupos.
+  - Plazo o ciclo: Sin fechas ni plazos en la página. Los programas figuran como permanentes, pero no se vio una convocatoria abierta ni una vía de postulación directa.
+  - Como postular: https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/uruguay-certifica-0
+  - Lectura automatica posible: No se vio API ni datos abiertos para esta fuente.
+  - Aclaracion: La Ley 19.973 beneficia a las empresas que contratan: no es un empleo ni un subsidio que se solicite como persona.
+  - Aclaracion: La subpágina de la Ley 19.973 devolvió HTTP 403, por lo que sus condiciones no están verificadas.
+  - Aclaracion: La subpágina de Uruguay Certifica (publicada 10/01/2023) remite a INEFOP (inefop.org.uy) y a la 'Guía para la certificación de competencias laborales' para el trámite.
+  - Aclaracion: Contactos: (+598) 1928, (+598) 2915 2020, 0800 7171, lunes a viernes de 9:00 a 16:00.

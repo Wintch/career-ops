@@ -1,0 +1,120 @@
+# Trabajo por cuenta propia y microemprendimientos
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Ruta Milagro: fortalecimiento del comercio electrónico con Mercado Libre (convocatoria nacional)** (abierta o vigente, verificada 2 veces) https://convocatorias.innpulsacolombia.com/convocatoria/ruta-milagro-fortalecimiento-del-comercio-electronico-con-mercado-libre-nacional-x09zrw
+  - Que es: Micro, pequeñas y medianas empresas y emprendedores de todo el país que producen o venden productos y quieren vender en línea o crecer en ventas por internet. Pueden participar vendedores nuevos y actuales de Mercado Libre. La convocatoria apunta sobre todo a negocios regionales que al 23/11/2026 venden solo en su mercado local. Meta: hasta 12.000 negocios.
+  - Requisitos: Tener un emprendimiento o mipyme que produzca o comercialice productos; no se detallan requisitos formales en la pagina. Se aplica con el boton 'Inscribete aqui'. No se exige titulo ni experiencia laboral previa segun lo visto, pero se necesita un negocio.
+  - Pago o beneficio: Sin costo de participacion mencionado en la pagina; beneficios en especie (comision cero 3 meses, formacion, acompanamiento)
+  - Plazo o ciclo: Abierta: del 20 de noviembre de 2026 al 20 de diciembre de 2026 a las 23:59 (edicion unica visible; repeticion sin datos)
+  - Como postular: https://convocatorias.innpulsacolombia.com/convocatoria/ruta-milagro-fortalecimiento-del-comercio-electronico-con-mercado-libre-nacional-x09zrw
+  - Lectura automatica posible: Portal de convocatorias de iNNpulsa en HTML, sin API vista: https://convocatorias.innpulsacolombia.com/
+  - Aclaracion: Es una ruta para quienes quieren vender, no un empleo; se necesita tener un negocio.
+  - Aclaracion: La inscripción se hace por el formulario 'Inscríbete aquí'; la página no lista requisitos ni documentos específicos.
+  - Aclaracion: Los beneficios son en especie y están sujetos a los términos de Mercado Libre.
+  - Aclaracion: La repetición de la convocatoria no se indica.
+- **Portal de convocatorias de iNNpulsa Colombia (Centros de Fortalecimiento Productivo, Tecnologías Jóvenes y servicios GS1)** (abierta o vigente, verificada 2 veces) https://convocatorias.innpulsacolombia.com/
+  - Que es: Según el listado leído: jóvenes (Tecnologías Jóvenes en Valledupar, Sincelejo y Floridablanca), unidades productivas y mipymes de cualquier sector (Centros de Fortalecimiento Productivo en Bucaramanga, Cúcuta, Arauca, Honda/norte del Tolima/Guaduas y Norte de Santander), y emprendedores y negocios para siete servicios gratuitos de códigos de barras y logística bajo estándar GS1 (alianza con LOGYCA).
+  - Requisitos: sin datos en el listado; cada convocatoria define su perfil (jovenes, unidades productivas o mipymes de ciertos municipios, cadena automotriz, etc.). Varias exigen postulacion presencial.
+  - Pago o beneficio: GS1: servicios gratuitos segun la pagina; en las demas convocatorias el costo no se detalla en el listado
+  - Plazo o ciclo: Rotativo; el 2026-11-23 figuraban abiertas: Tecnologias Jovenes en Valledupar (65 cupos), Sincelejo (65) y Floridablanca (100) y Tecnologias en Bucaramanga (500), Cucuta (60) y Arauca (150), todas 'hasta agotar beneficiarios'; IATF 16949 con 12 dias restantes; Honda, norte del Tolima y Guaduas con 12 dias restantes (presencial); Norte de Santander cohorte 2 con 14 dias restantes (presencial); servicios GS1 con 347 dias restantes
+  - Como postular: https://convocatorias.innpulsacolombia.com/
+  - Lectura automatica posible: HTML; sin API ni feed visto.
+  - Aclaracion: La página de listado solo muestra extractos, sin requisitos, procedimiento ni fechas de calendario; hay que abrir cada convocatoria ('Ver mas informacion').
+  - Aclaracion: Varias convocatorias exigen postulación presencial.
+  - Aclaracion: Los servicios GS1 son para empresas.
+  - Aclaracion: Conviene reverificar cada convocatoria antes de postular.
+- **Régimen Simple de Tributación (RST) de la DIAN** (abierta o vigente, verificada 2 veces) https://micrositios.dian.gov.co/regimen-simple-tributacion/
+  - Que es: Empresarios, emprendedores, comerciantes y profesionales, personas naturales o jurídicas que cumplan los requisitos. Quienes no están inscritos en el RUT pueden optar por el RST con inscripción en línea; quienes ya tienen RUT usan otra ruta.
+  - Requisitos: Personas naturales o juridicas que cumplan los criterios de elegibilidad (no listados en esta pagina, estan en paginas enlazadas) y no incurran en las exclusiones; se requiere RUT.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica (tramite tributario)
+  - Plazo o ciclo: abierto todo el ano como esquema voluntario; plazos de inscripcion: sin datos (la pagina no los indica)
+  - Como postular: https://micrositios.dian.gov.co/regimen-simple-tributacion/
+  - Lectura automatica posible: HTML; simulador descargable según la página.
+  - Aclaracion: Es información tributaria sobre un régimen voluntario, no una oferta de empleo.
+  - Aclaracion: El régimen reemplaza el impuesto de renta y exige anticipos bimestrales por los sistemas electrónicos de la DIAN.
+  - Aclaracion: Los criterios de elegibilidad y las exclusiones están en páginas enlazadas, no en el micrositio.
+- **RUT (Registro Único Tributario) de la DIAN** (abierta o vigente, verificada 2 veces) https://www.dian.gov.co/impuestos/RUT/Paginas/Inicio.aspx
+  - Que es: Personas que ejercen una actividad económica por cuenta propia y necesitan identificarse tributariamente. La portada no detalla quién está obligado: sin datos.
+  - Requisitos: sin datos en esta pagina; ver 'Inscripcion y actualizacion RUT' en el mismo sitio.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (costo no indicado en la pagina)
+  - Plazo o ciclo: abierto todo el ano (tramite permanente)
+  - Como postular: https://www.dian.gov.co/impuestos/RUT/Paginas/Inicio.aspx
+  - Lectura automatica posible: HTML.
+  - Aclaracion: La página es un portal de navegación: no explica quién debe inscribirse ni los requisitos o el costo, que están en subpáginas.
+  - Aclaracion: Incluye una ruta de inscripción para quienes se inscriben desde el exterior.
+  - Aclaracion: Contacto: Contact Center de Impuestos, +57 601 489 9000, de lunes a viernes de 8:00 a. m. a 7:00 p. m. y sábados de 8:00 a. m. a 12:00 m.
+- **Bancóldex: crédito para microempresas a través de aliados microfinancieros** (abierta o vigente, verificada 2 veces) https://www.bancoldex.com
+  - Que es: Microempresas y emprendedores. Bancóldex no presta directamente a microempresarios: lo hace mediante una red de intermediarios que atiende 610 municipios. La página enumera más de 70 entidades, entre ellas Bancamía, Banco W, Banco Mundo Mujer, MiBanco, Fundación de la Mujer, Fundación Santo Domingo, Interactuar, Crezcamos, Contactar, Coopfuturo y cajas de compensación como Compensar y Comfama.
+  - Requisitos: La página no lista requisitos para el solicitante; solo indica que es para microempresas colombianas. Los documentos los pide cada entidad aliada (microfinancieras, bancos, cooperativas).
+  - Pago o beneficio: Crédito (no es empleo ni subsidio). Montos y tasas: sin datos; los define cada intermediario.
+  - Plazo o ciclo: Sin fechas de apertura ni cierre; el acceso es a través de los aliados financieros. Sello de actualización visible: 29 de agosto de 2025.
+  - Como postular: https://www.bancoldex.com/es/credito-traves-de-aliados
+  - Lectura automatica posible: HTML; lista de aliados agrupada por departamento.
+  - Aclaracion: La página no menciona que el crédito esté sujeto a disponibilidad de cupo del intermediario con Bancóldex.
+  - Aclaracion: Los criterios generales que aparecen (mínimo 24 meses de operación, ventas cercanas a 2.300 millones y fuente de pago o garantía) no están ligados expresamente al microcrédito.
+  - Aclaracion: La página alude a un sismo del 10 de agosto de 2026, así que el sello de actualización de agosto de 2025 podría no reflejar el contenido vigente.
+  - Aclaracion: Líneas de contacto: PBX (601) 486 3000 y 01800018 0710.
+- **Bancamía: microcrédito para pequeños negocios** (abierta o vigente, verificada 2 veces) https://www.bancamia.com.co
+  - Que es: Dueños de microempresas y negocios por cuenta propia. El detalle del público objetivo no se vio en la página.
+  - Requisitos: Negocio o actividad económica con más de 10 meses de funcionamiento; no tener créditos activos con más de 4 entidades financieras; no aplican empleados ni pensionados. Un documento entre RUT, matrícula de cámara de comercio, declaración de renta o constancia de proceso de formalización. Cédula de ciudadanía o de extranjería. No se exige título ni estudios.
+  - Pago o beneficio: Crédito. Rangos de monto del formulario: hasta $10,5 millones COP; $10,51 a $43,77 millones; $43,78 a $210 millones. Tasas: sin datos (PDF de tasas visto con fecha de febrero de 2026, posiblemente desactualizado).
+  - Plazo o ciclo: abierto todo el año (formulario en línea disponible). Noticia del 20 de noviembre de 2026 sobre una línea de reconstrucción para microempresas tras un sismo, sin condiciones ni plazos publicados en la página vista.
+  - Como postular: https://www.crecefuerteconbancamia.com
+  - Lectura automatica posible: HTML.
+  - Aclaracion: La solicitud se hace en un formulario de tres pasos y luego un asesor se comunica con el solicitante.
+  - Aclaracion: Exige un negocio ya en marcha; no sirve para quienes aún no tienen actividad.
+  - Aclaracion: Contacto: Lineamía Nacional 018000126100, Bogotá 601 3077021 y WhatsApp 310 860 02 01.
+- **Banco Agrario de Colombia: créditos para pequeños productores y campesinos** (abierta o vigente, verificada 2 veces) https://www.bancoagrario.gov.co
+  - Que es: Productores agropecuarios. La lista de productos incluye Crédito para Jóvenes Rurales, Crédito para Mujeres Rurales, Crédito Joven, Agrocupo, Capital de trabajo agropecuario, Esquemas asociativos y la Línea Individual para el Restablecimiento Productivo de Pequeños Productores.
+  - Requisitos: sin datos. La página principal no detalla requisitos; cada producto tiene su propia página (por ejemplo, Línea Individual para el Restablecimiento Productivo de Pequeños Productores, Crédito para Mujeres Rurales, Crédito para Jóvenes Rurales, capital de trabajo, siembra, cupo rotativo). La URL probada de la línea de pequeños productores devolvió 404.
+  - Pago o beneficio: Crédito. Montos y tasas: sin datos (no aparecen en la página vista).
+  - Plazo o ciclo: abierto todo el año (productos permanentes en la página; sin fechas de vigencia publicadas).
+  - Como postular: https://www.bancoagrario.gov.co/personas/productor-agropecuario
+  - Lectura automatica posible: HTML.
+  - Aclaracion: Los requisitos y montos deben confirmarse en la página de cada línea o con el banco.
+  - Aclaracion: El enlace de la línea para pequeños productores devolvió error 404.
+  - Aclaracion: Hay productos para mujeres rurales, jóvenes rurales y población en situación especial.
+  - Aclaracion: Canales: línea nacional 01 8000 91 5000 y Bogotá (601) 594 8500.
+- **Supersolidaria: trámites para cooperativas y precooperativas** (abierta o vigente, verificada 2 veces) https://www.supersolidaria.gov.co
+  - Que es: Cooperativas, precooperativas y organizaciones solidarias vigiladas. Quienes quieran fundar una cooperativa de ahorro y crédito.
+  - Requisitos: Dirigido a organizaciones solidarias ya constituidas o en conversión: aprobación de conversión de precooperativa a cooperativa, prórroga del plazo (solicitud al menos 90 días antes de cumplirse los cinco años), autorizaciones de actividad financiera, reformas estatutarias, reporte SICSES, tasa de contribución y paz y salvo. Requiere usuario o firma electrónica.
+  - Pago o beneficio: No aplica (trámites regulatorios, sin costo).
+  - Plazo o ciclo: abierto todo el año (trámites en la Sede Electrónica, sin costo según la página).
+  - Como postular: https://www.supersolidaria.gov.co/es/content/ventanilla
+  - Lectura automatica posible: HTML.
+  - Aclaracion: No es una fuente de empleo ni de crédito: es un trámite de supervisión útil solo para quienes ya forman o administran una cooperativa.
+  - Aclaracion: La ausencia de costo proviene de páginas de Ventanilla, no de la portada, y algunas de ellas aparecen como antiguas.
+  - Aclaracion: Contacto: PBX (601) 7 560 557, atencionalciudadano@supersolidaria.gov.co y línea 018000-180-430.
+- **Finagro: microcrédito rural, LEC, ICR y garantías FAG** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.finagro.com.co
+  - Que es: Pequeños productores agropecuarios y rurales, con tasa diferencial para mujeres rurales, desmovilizados, víctimas del conflicto y quienes participan en sustitución voluntaria de cultivos ilícitos. Se accede por medio de intermediarios financieros.
+  - Requisitos: sin datos. La página de LEC 2026 no resume quién califica ni condiciones; remite a la circular. Finagro no presta directamente al productor: se accede a través de bancos e intermediarios.
+  - Pago o beneficio: Subsidio a la tasa de interés de créditos agropecuarios (LEC), según la página. El crédito lo desembolsa un intermediario financiero. Montos: sin datos.
+  - Plazo o ciclo: Permanente; las Líneas Especiales de Crédito (LEC) se renuevan por año: la página de LEC 2026 remite a la Circular Externa 25 de 2026. Fechas de vigencia: sin datos (están en la circular, no leída).
+  - Como postular: https://www.finagro.com.co/lineas-especiales-de-credito-lec-finagro-2026
+  - Lectura automatica posible: HTML.
+  - Aclaracion: El subsidio a la tasa proviene del Ministerio de Agricultura y Desarrollo Rural, según la página.
+  - Aclaracion: La información sobre las líneas ICR y FAG no fue contrastada.
+  - Aclaracion: Contacto: Agrolínea Nacional 018000912219 y finagro@finagro.com.co.
+- **Unidad Solidaria: economía solidaria, acreditación y Red Nacional de Tiendas Solidarias** (sin verificar, verificada 1 vez) https://www.unidadsolidaria.gov.co
+  - Que es: Organizaciones de la economía solidaria (cooperativas, asociaciones, fondos y similares) y emprendedores de la economía popular. La portada destaca la Red Nacional de Tiendas Solidarias, con un formulario de contacto enlazado (https://forms.gle/BDSLZMjtQCmTz8e27).
+  - Requisitos: sin datos. Existen un trámite de acreditación (para entidades de educación solidaria), el portal 'Educación Solidaria' y un formulario de la Red Nacional de Tiendas Solidarias, pero la página no describe requisitos para tenderos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se vio convocatoria con fechas; el enlace 'Convocatorias' remite a la CNSC (concursos de empleo público), no a un programa de la entidad.
+  - Como postular: https://www.unidadsolidaria.gov.co
+  - Lectura automatica posible: HTML y PDF de portafolio de servicios.
+  - Aclaracion: La vigencia del programa de la Red de Tiendas Solidarias no está confirmada; figura como proyecto sin fechas verificadas.
+  - Aclaracion: Contacto: atencionalciudadano@unidadsolidaria.gov.co y PBX +57 601 327 52 52, de lunes a viernes de 8:00 a 17:00.
+- **Banca de las Oportunidades** (sin verificar, verificada 1 vez) https://www.bancadelasoportunidades.gov.co/es
+  - Que es: sin datos. La página cargó solo con títulos ('Qué es BDO', 'Servicios', 'Cómo acceder a microcrédito') y sin contenido.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.bancadelasoportunidades.gov.co/es
+  - Lectura automatica posible: HTML con carga dinámica; no se pudo leer.
+  - Aclaracion: La página cargó solo con títulos y sin contenido, probablemente por contenido cargado con JavaScript.
+  - Aclaracion: No se pudo confirmar ningún programa, convocatoria ni ruta de postulación.
+  - Aclaracion: Es una política de inclusión financiera y no parece ser un punto de postulación directa de personas.

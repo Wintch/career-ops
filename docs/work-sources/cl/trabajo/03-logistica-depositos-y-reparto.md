@@ -1,0 +1,104 @@
+# Logistica, depositos y reparto
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Blue Express - Flota de conductores (flota.blue.cl)** (abierta o vigente, verificada 2 veces) https://flota.blue.cl
+  - Que es: Personas con moto, furgón, camión cerrado o auto que quieran hacer reparto o transporte para Blue Express en todo el país. Hay dos modalidades: Flota Plus (persona natural) y Flota Regular (empresas).
+  - Requisitos: La página no lista edad ni documentos. Requiere vehículo (según la página de Hazte Blue Courier: moto, camioneta, camión cerrado o auto). Flota Plus no exige iniciar actividades; flota regular es para empresas con una o más unidades. No se declara experiencia previa.
+  - Pago o beneficio: Flota Plus (persona natural): comisión pagada mensualmente; monto: sin datos. Flota regular (empresa): trabajo con facturas; monto: sin datos.
+  - Plazo o ciclo: abierto todo el año (sin fecha de cierre visible)
+  - Como postular: https://flota.blue.cl
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se indican plazos ni cupos.
+  - Aclaracion: Los requisitos específicos se ven en el flujo de inscripción.
+  - Aclaracion: Existe acceso separado para couriers ya inscritos.
+- **Blue Express - Hazte Blue Courier** (abierta o vigente, verificada 2 veces) https://www.blue.cl/nosotros/hazte-blue-courier
+  - Que es: Personas con moto, furgón, camión cerrado o auto interesadas en sumarse a la flota de reparto, con trabajo posible en cualquier parte de Chile.
+  - Requisitos: Contar con vehículo (moto, camioneta, camión cerrado o auto). Edad y documentos no se indican; la página remite a los requisitos de cada oferta en el sitio de postulación. No se declara experiencia.
+  - Pago o beneficio: sin datos (la página no informa montos; menciona beneficios como descuentos en combustible, repuestos y telefonía, y apoyo en educación y salud dental)
+  - Plazo o ciclo: abierto todo el año (botón 'Postula al 23/11/2026' sin fecha de cierre)
+  - Como postular: https://flota.blue.cl
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es la misma vía de postulación que flota.blue.cl.
+  - Aclaracion: Menciona beneficios como descuentos en combustible, repuestos y telefonía, y apoyo en educación y salud dental.
+- **Uber Eats - Reparto (registro de repartidores)** (abierta o vigente, verificada 2 veces) https://www.uber.com/cl/es/deliver/
+  - Que es: Personas que quieran repartir comida y pedidos en auto, moto o bicicleta, con horario propio.
+  - Requisitos: Se puede repartir en auto, moto o bicicleta. La página no indica edad mínima ni lista de documentos; se suben documentos e información bancaria en la app. Sin experiencia previa declarada. Los detalles pueden variar por ciudad (aviso de la propia página).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sin montos publicados. Ganancias acumuladas de lunes a lunes y transferidas a la cuenta bancaria los jueves de cada semana.
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: https://drivers.uber.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La edad y los documentos exactos se ven en el flujo de registro o en help.uber.com; no figuran en la página.
+  - Aclaracion: El registro se hace en drivers.uber.com, con la app Uber Eats driver.
+- **Uber - Conducir con Uber: requisitos Chile** (abierta o vigente, verificada 2 veces) https://www.uber.com/cl/es/drive/requirements/
+  - Que es: Conductores de auto particular que quieran transportar pasajeros con la app.
+  - Requisitos: Conductor: 18 años o más; licencia chilena clase A o B vigente; cédula de identidad chilena; certificado de antecedentes emitido en el último mes (gratis en el Registro Civil, con Clave Única). Vehículo: permiso de circulación vigente (no tiene que ser propio); modelo 2009 o posterior y con menos de 12 años desde su registro; 4 puertas, aire acondicionado y airbags frontales dobles. No se exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página de requisitos no informa montos)
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: https://drivers.uber.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El registro es en línea, con carga de licencia, permiso de circulación y certificado de antecedentes.
+  - Aclaracion: La aprobación puede tardar hasta 48 horas; hay centros de activación como alternativa presencial.
+- **Cabify - Conductores Chile** (abierta o vigente, verificada 2 veces) https://cabify.com/cl/conductores
+  - Que es: Conductores de auto particular y de taxi que quieran trabajar con la plataforma.
+  - Requisitos: Auto particular: 21 años o más; licencia chilena clase B o profesional con al menos 1 año de antigüedad; permiso de circulación vigente; certificado de antecedentes y cédula de identidad; foto de frente; permiso del MTT opcional. Taxi: licencia profesional clase A, permiso de circulación y cartón de recorrido, cédula y foto. Sin experiencia previa declarada.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Publicidad de la página: 'hasta $1.200.000 en tus primeras dos semanas' (viajes más bono) y $180.000 de bienvenida condicionados a una meta de viajes no especificada; descuento de hasta $250 por litro en COPEC según nivel Cabify Stars. Son cifras promocionales, no promedios.
+  - Plazo o ciclo: abierto todo el año; bono de bienvenida vigente al momento de la consulta, sin fecha de término visible
+  - Como postular: https://driver.cabify.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El bono de bienvenida está condicionado a una meta de viajes no especificada; las condiciones están en los términos y condiciones enlazados.
+  - Aclaracion: El botón de registro lleva al formulario de Chile en driver.cabify.com, según la descripción de la página.
+- **Empresa Portuaria San Antonio (EPSA) - Trabaja con nosotros** (abierta o vigente, verificada 2 veces) https://www.puertosanantonio.com/trabaja-con-nosotros
+  - Que es: Personas que quieran dejar antecedentes para prácticas profesionales o futuras oportunidades laborales en la empresa portuaria de San Antonio. No es un listado de vacantes.
+  - Requisitos: Formulario con campos obligatorios: nombres, apellido paterno y materno, correo, teléfono y si se busca trabajo o práctica profesional. CV en PDF es opcional. No se indican edad, estudios ni experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Formulario disponible el 2026-11-23, sin vacantes concretas, sin plazos y sin indicación de ciclo.
+  - Como postular: https://www.puertosanantonio.com/trabaja-con-nosotros
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una bolsa de postulación espontánea: no hay ofertas publicadas.
+  - Aclaracion: La página no declara recepción continua ni plazos, por lo que no debe describirse como abierta todo el año.
+  - Aclaracion: Los terminales y operadores portuarios de la zona contratan por separado (ver DP World).
+- **DP World - Carreras (operador de terminal portuario, incl. San Antonio)** (abierta o vigente, verificada 2 veces) https://www.dpworld.com/es/san-antonio/trabaje-con-nosotros-sa
+  - Que es: Postulantes a cargos en el grupo DP World, que opera un terminal en San Antonio (el antiguo dominio dpworldsanantonio.cl redirige a dpworld.com/san-antonio). No se verificó qué vacantes de Chile hay publicadas.
+  - Requisitos: Varían por cargo y se detallan en cada aviso. La página de DP World Chile solo describe el perfil buscado en términos generales (personas motivadas e innovadoras). Experiencia: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Portal global con 874 vacantes y publicaciones del 20 al 22 de noviembre de 2026; sin vacantes visibles en Chile o San Antonio.
+  - Como postular: https://www.dpworld.com/en/careers/vacancies
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página de San Antonio no publica vacantes y deriva al portal global de carreras.
+  - Aclaracion: El conteo de 874 vacantes corresponde al portal global; ninguna de las 12 visibles es de Chile o San Antonio, sin que pueda descartarse alguna entre las restantes.
+  - Aclaracion: No hay evidencia de un cargo abierto en Chile en este momento.
+- **Chiletrabajos - Trabajos de bodega y logística** (abierta o vigente, verificada 2 veces) https://www.chiletrabajos.cl/trabajos/bodega
+  - Que es: Cualquier persona que busque empleo; permite filtrar por la categoría 'Logística / Distribución'.
+  - Requisitos: Varía según el aviso; en el listado no se vieron años de experiencia exigidos. Los avisos de prevención de riesgos mencionan certificación.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año; los avisos visibles tenían fecha 22 de noviembre de 2026.
+  - Como postular: https://www.chiletrabajos.cl/trabajos/bodega
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL indicada no mostró avisos de bodega o logística; los avisos destacados eran de otros rubros.
+  - Aclaracion: Es un agregador general de avisos que ofrece crear cuenta; no se pudo ver cómo se postula ni si el registro es obligatorio.
+  - Aclaracion: Existe un RSS en /rss/bodega, sin avisos visibles al momento de la revisión.
+  - Aclaracion: El costo para postulantes no se informa.
+- **SENCE - Buscador de cursos (Elige tu curso)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://sence.gob.cl
+  - Que es: Personas que buscan capacitación; sirve para encontrar cursos de logística, bodega o conducción y ver qué programas se ajustan a cada caso.
+  - Requisitos: Cursos en línea gratuitos: personas mayores de 18 años. Otros programas: condiciones propias de cada curso o programa (no vistas). Ingreso con Clave Única. Experiencia o título previo: sin datos, según el curso.
+  - Pago o beneficio: Sin costo para el participante según el título del buscador ('cursos sin costo'). No se vio ningún subsidio ni beca de manutención; eso es sin datos.
+  - Plazo o ciclo: oferta permanente; fechas por programa y por curso. Ejemplo visto en sence.gob.cl: 95 cupos gratuitos en Angol, Lonquimay, Lumaco, Temuco y Saavedra con postulación desde el lunes 23 de noviembre (año no indicado en la noticia).
+  - Como postular: https://sence.gob.cl/personas/cursos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página cargó con el buscador vacío, por lo que no se confirmaron cursos concretos; la verificación se hizo en sence.gob.cl.
+  - Aclaracion: Ayuda: 600 712 0028 o *8088 desde celular.
+- **Portal de Trámites MTT / SUBTRANS - licencias y registros de transporte** (sin verificar, verificada 1 vez) https://mtt.gob.cl/portaldetramites/
+  - Que es: Quien necesite trámites de transporte; sirve como punto de partida oficial para licencias profesionales (clases A1 a A5) y registros. Los requisitos de la licencia profesional no se pudieron verificar.
+  - Requisitos: Variable según el trámite. Las acreditaciones se dirigen a importadores, distribuidores u operadores con contrato vigente; algunos trámites en línea requieren Clave Única. Los requisitos de las licencias no se vieron.
+  - Pago o beneficio: No aplica (trámites; el costo de cada uno no se vio).
+  - Plazo o ciclo: Trámites permanentes; la página no informa plazos ni ventanas de postulación.
+  - Como postular: https://mtt.gob.cl/portaldetramites/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se verificaron los requisitos de la licencia profesional (A1 a A5) ni el registro de conductores; el listado visto incluye sobre todo acreditaciones y permisos.
+  - Aclaracion: Cada trámite tiene un enlace 'Ir al trámite' y una ficha en ChileAtiende; algunos piden Clave Única.
+  - Aclaracion: Atención presencial: Amunátegui 139, Santiago, de lunes a viernes de 9:00 a 14:00; teléfono +56 2 2421 3000.

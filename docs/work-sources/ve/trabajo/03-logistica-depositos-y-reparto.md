@@ -1,0 +1,79 @@
+# Logistica, depositos y reparto
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Tealca: aspirantes a transportistas** (abierta o vigente, verificada 2 veces) https://www.tealca.com/unete-a-nosotros/aspirantes-a-transportistas/
+  - Que es: Choferes y dueños de vehículos (personas naturales o empresas) que quieran trabajar como transportistas independientes en la red de Tealca.
+  - Requisitos: Vehículo propio (se piden marca, modelo, año, foto), RIF o cédula, conductor con licencia (se pide tipo de licencia); campos con asterisco obligatorios. No se listan criterios de elegibilidad adicionales ni edad ni experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: formulario en línea disponible sin fecha de cierre visible (©2026 en el pie); no se vio fecha de apertura ni de cierre
+  - Como postular: https://www.tealca.com/unete-a-nosotros/aspirantes-a-transportistas/
+  - Lectura automatica posible: no
+  - Aclaracion: Es una alianza como transportista independiente con vehículo propio, no un empleo en relación de dependencia.
+  - Aclaracion: El formulario pide además kilometraje, si el vehículo tiene seguro y GPS, rutas de interés, estado y ciudad.
+  - Aclaracion: No se vio costo ni pago exigido, ni respuesta de la empresa ni plazos de revisión.
+- **Tealca: franquicias** (abierta o vigente, verificada 2 veces) https://www.tealca.com/franquicias/
+  - Que es: Personas o empresas con capital que quieran operar una oficina o franquicia de Tealca (negocio propio, no empleo).
+  - Requisitos: No se publican requisitos. Un franquiciado probablemente debe aportar inversión propia, pero la página no lo indica (sin datos).
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (consulta por formulario o WhatsApp; sin fechas).
+  - Como postular: https://www.tealca.com/franquicias/
+  - Lectura automatica posible: no
+  - Aclaracion: Es una vía de franquicia con inversión propia, no un empleo en nómina.
+  - Aclaracion: La página no describe oportunidades, requisitos, costos ni fechas; solo muestra un formulario (nombre y correo) y un botón de WhatsApp.
+  - Aclaracion: El teléfono del pie de página es 0-501-832522-1.
+  - Aclaracion: Conviene no hacer pagos antes de confirmar la oferta por los canales oficiales.
+- **ZOOM: Quiero ser agente (red de agencias)** (abierta o vigente, verificada 2 veces) https://www.zoom.red/contacto/
+  - Que es: Emprendedores interesados en operar una agencia o punto ZOOM. En el sitio no se vio una sección de empleo ni de «trabaja con nosotros» para mensajeros, choferes o almacenistas.
+  - Requisitos: No se publican requisitos para ser agente.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (formulario de contacto, sin fechas).
+  - Como postular: https://www.zoom.red/contacto/
+  - Lectura automatica posible: no
+  - Aclaracion: Ser agente es un modelo de negocio propio, no un empleo.
+  - Aclaracion: No hay un canal publicado para empleo en nómina ni un enlace de «Trabaja con nosotros».
+  - Aclaracion: Los canales generales son WhatsApp +58 414-888-9666, el teléfono 0501 9666 000 y atencionalcliente@zoom.red.
+  - Aclaracion: Cualquier cobro previo debe confirmarse solo por estos canales oficiales.
+- **Yummy: Conduce con Yummy (Rides y Delivery)** (abierta o vigente, verificada 2 veces) https://yummysuperapp.com
+  - Que es: Personas que quieran trabajar como conductor de pasajeros o repartidor, con carro, moto o bicicleta, en horario propio. El sitio indica cobertura en 35 ciudades de Venezuela.
+  - Requisitos: La página no lista requisitos ni documentos. Se menciona vehículo: carro, moto o bicicleta. Sin experiencia previa indicada (sin datos).
+  - Pago o beneficio: sin datos (ingreso variable por servicio; no publicado)
+  - Plazo o ciclo: Abierto todo el año (registro permanente como conductor).
+  - Como postular: https://yummyrides.app.link/driver_landing
+  - Lectura automatica posible: no
+  - Aclaracion: Es trabajo independiente por plataforma, no nómina.
+  - Aclaracion: El enlace de registro solo mostró una pantalla de redirección a la app, sin requisitos visibles.
+  - Aclaracion: Reportes de prensa de agosto de 2026 indican nuevas reglas del INTT para empresas de delivery (registro nacional, revisión técnica de unidades y certificados de aptitud de conducción comercial), sin que se haya confirmado cómo afectan a quien se registra.
+- **Tealca: portal de vacantes (Trabaja con Nosotros)** (sin verificar, verificada 1 vez) https://jobs.tealca.com/jobs/Vacantes
+  - Que es: Personas que buscan empleo directo en Tealca. El portal de vacantes figura enlazado desde la sección «Únete a nosotros» del sitio oficial, junto a franquicias, proveedores y transportistas.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://jobs.tealca.com/jobs/Vacantes
+  - Lectura automatica posible: sin datos (el portal parece una aplicación web de reclutamiento; no se confirmó API ni feed)
+  - Aclaracion: No se confirmó ninguna vacante abierta, requisito ni fecha.
+  - Aclaracion: El dominio jobs.tealca.com es un subdominio de la empresa y el título es coherente, pero no hay evidencia de una oferta abierta.
+  - Aclaracion: Los listados suelen cambiar, por lo que no debe afirmarse que esté abierto de forma permanente.
+- **Ridery: aplicación de movilidad** (sin verificar, verificada 1 vez) https://web.ridery.app/
+  - Que es: Conductores y, posiblemente, repartidores de la plataforma. No confirmado.
+  - Requisitos: sin datos. Sin documentos, edad ni vehículo publicados.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos (la app «Ridery Drivers» en las tiendas de aplicaciones)
+  - Lectura automatica posible: no
+  - Aclaracion: La página oficial solo muestra «Tu app de movilidad», sin datos de registro de conductores.
+  - Aclaracion: Fichas de tiendas de apps y notas de prensa describen a los conductores como afiliados, no como empleados.
+  - Aclaracion: No se encontró una lista oficial de requisitos ni un proceso de alta, y la vigencia a 2026-11-23 no está confirmada.
+  - Aclaracion: La verificación debe hacerse dentro de la app Ridery Drivers.
+- **DHL Group: portal de vacantes** (sin verificar, verificada 1 vez) https://careers.dhl.com
+  - Que es: Postulantes a empleos en DHL (paquetería y logística). Si hay vacantes en Venezuela es sin datos.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://careers.dhl.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se confirma que haya vacantes en Venezuela: no se vio filtro de país, avisos venezolanos ni vía de postulación.
+  - Aclaracion: DHL no cobra por contratar; cualquier solicitud de pago es sospechosa.

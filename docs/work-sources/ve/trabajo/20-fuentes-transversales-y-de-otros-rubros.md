@@ -1,0 +1,456 @@
+# Fuentes transversales y de otros rubros
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **IVSS - Continuación Facultativa y Trabajador No Dependiente (afiliación de independientes)** (abierta o vigente, verificada 2 veces) https://www.ivss.gov.ve/ciudadano/continuidad-facultativa
+  - Que es: Personas que trabajan por cuenta propia o sin patrono (trabajador no dependiente) y aseguradas que dejan de tener patrono y quieren seguir cotizando (continuación facultativa).
+  - Requisitos: Continuación Facultativa: cédula de identidad, planilla 14-196 y RIF. Trabajador No Dependiente: cédula de identidad y planilla 14-196 (RIF no figura). Sin experiencia ni título requeridos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es un empleo ni una beca. La página no indica el monto de la cotización; se paga mensualmente y, si hay más de un mes de atraso, se puede reanudar pagando la cuota requerida.
+  - Plazo o ciclo: abierto todo el año (derecho a solicitud del asegurado; sin fecha límite)
+  - Como postular: https://www.ivss.gov.ve/ciudadano/continuidad-facultativa
+  - Lectura automatica posible: ninguno visto
+  - Aclaracion: Es un trámite de seguridad social, no una oferta de trabajo.
+  - Aclaracion: La página enlaza la planilla 14-196 pero no describe el paso a paso ni la oficina donde se presenta; el trámite se confirma en una oficina del IVSS.
+  - Aclaracion: El trámite no debería requerir pagar a gestores y se recomienda hacerlo solo por canales oficiales del IVSS.
+- **Naciones Unidas en Venezuela - Empleos (vacantes del Sistema ONU en el país)** (sin verificar, verificada 1 vez) https://venezuela.un.org/es/jobs
+  - Que es: Personas interesadas en puestos en agencias de la ONU con presencia en Venezuela (nacionales y de campo, según cada aviso).
+  - Requisitos: No indicados en la página; varían por vacante.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Continuo según vacantes; sin vacantes visibles el 2026-11-23
+  - Como postular: https://careers.un.org
+  - Lectura automatica posible: sin datos; listados posiblemente dinámicos (no confirmado)
+  - Aclaracion: La página no mostró ninguna vacante cargada ni fechas de cierre individuales.
+  - Aclaracion: Cada agencia (FAO, PMA, ACNUR, etc.) publica y recibe postulaciones en su propio portal.
+  - Aclaracion: La ONU no cobra por procesos de contratación.
+- **MINTUR: Registro Turístico Nacional (RTN) para prestadores de servicios turísticos** (abierta o vigente, verificada 2 veces) https://www.mintur.gob.ve/rtn
+  - Que es: Personas naturales o jurídicas que operen servicios turísticos y quieran trabajar por cuenta propia: posadas, guías, hospedaje y similares. La página no nombra explícitamente hoteles, restaurantes, posadas ni guías.
+  - Requisitos: Persona natural o jurídica que preste servicios turísticos; la lista de documentos no aparece en la página (secciones separadas y correos de contacto). Excluye servicios institucionales o benéficos, máquinas expendedoras, catering de aviones o trenes y comedores cerrados.
+  - Pago o beneficio: Cuesta 3 UT (registro) y 1 UT (actualización).
+  - Plazo o ciclo: Abierto todo el año (trámite permanente). Actualización: dentro de 30 días continuos tras cambios.
+  - Como postular: https://www.mintur.gob.ve/rtn
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una oferta de empleo sino un trámite obligatorio para quien presta servicios turísticos u opera un negocio en Venezuela.
+  - Aclaracion: La revisión toma hasta 15 días hábiles y se otorga una credencial provisional de hasta 6 meses.
+  - Aclaracion: Se tramita en línea (Sistema RTN Digital) o en MINTUR, Dirección General de Registros y Licencias, Torre Norte, piso 2, Caracas (lunes a jueves, 8:30-11:30 y 13:30-16:00).
+  - Aclaracion: El pago se hace a una cuenta de INATUR en el Banco de Venezuela indicada en la propia página; conviene desconfiar de gestores que pidan pagos a otras cuentas.
+- **MINTUR: Licencia de turismo (hoteles, posadas, restaurantes, cafeterías y bares)** (abierta o vigente, verificada 2 veces) https://www.mintur.gob.ve/licencia
+  - Que es: Quien quiera abrir un hotel, una posada, un restaurante, una cafetería o un bar y esté inscrito en el RTN.
+  - Requisitos: Inscripción previa en el RTN y documentos exigidos por el ministerio (no listados completos en la página).
+  - Sin experiencia previa: no
+  - Pago o beneficio: Cuesta 3 UT.
+  - Plazo o ciclo: Abierto todo el año (trámite permanente); la primera licencia dura 2 años.
+  - Como postular: https://www.mintur.gob.ve/licencia
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una vacante de empleo sino un trámite para emprendedores.
+  - Aclaracion: El pago de 3 Unidades Tributarias se hace a una cuenta de INATUR en el Banco de Venezuela.
+  - Aclaracion: Hay planillas para personas jurídicas por tipo de negocio (hoteles, agencias de viajes, restaurantes, transporte turístico, empresas de turismo activo), y el trámite se realiza en el Complejo Mintur Caracas, Av. Principal de La Floresta con Av. Francisco de Miranda, estado Miranda.
+  - Aclaracion: La página no da la lista completa de documentos ni indica la duración de las renovaciones.
+- **INCES: noticia de certificación en Pastelería y Repostería (Portuguesa) y de graduación de panaderos (Falcón)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://inces.gob.ve/noticias/portuguesa-inces-certifica-a-nuevos-profesionales-en-pasteler%C3%ADa-y-reposter%C3%ADa/
+  - Que es: Personas interesadas en oficios de cocina, pastelería y panadería, útiles para hoteles, restaurantes y posadas. La nota de Portuguesa es de Acarigua, y la de Falcón (CFS Josefa Camejo, Paraguaná) graduó a 45 técnicos profesionales en Panadería.
+  - Requisitos: sin datos; la noticia no lo indica.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Cursos recurrentes; la noticia está fechada el 19 de noviembre de 2026.
+  - Como postular: https://inces.gob.ve/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La noticia certifica a egresados de Pastelería y Repostería en el Barrio Simón Bolívar de Acarigua, municipio Páez, estado Portuguesa (panadería dulce, decoración, manejo de insumos).
+  - Aclaracion: Es evidencia de que se dictan cursos, no una convocatoria abierta; la recurrencia se infiere del texto y no de un calendario.
+  - Aclaracion: La noticia no explica la inscripción ni informa cuántos se graduaron, y enlaza al Catálogo oferta formativa y a Sedes de INCES.
+  - Aclaracion: Advertencia: no pagar a terceros por cupos.
+- **INATUR: página institucional (mandato de formación del recurso humano turístico)** (sin verificar, verificada 1 vez) https://www.mintur.gob.ve/inatur
+  - Que es: Información sobre el organismo que administra el 1 % de contribución turística y debe financiar la formación de personas para servicios turísticos.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos; no se observó ningún programa ni convocatoria abierta.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página solo describe al Instituto Nacional de Turismo y su mandato de formación de recursos humanos; no hay cursos, inscripción, requisitos ni fechas.
+  - Aclaracion: Confirma el mandato, no un programa disponible; quien busque formación debe consultar directamente al ministerio.
+  - Aclaracion: Se recomienda desconfiar de ofertas de cursos o empleos turísticos que pidan pagos por adelantado a nombre del instituto.
+- **INSAI - Escuela Agroecológica Itinerante Dra. Marisol López y foros-taller** (sin verificar, verificada 1 vez) http://www.insai.gob.ve/escuela-agroecologica
+  - Que es: Funcionarios públicos, agricultores, campesinos y conuqueros que quieran formarse en agroecología y sanidad agrícola (virtual y presencial).
+  - Requisitos: No indicados; la formación se dirige a funcionarios, productores, campesinos y conuqueros.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es empleo; es formación (costo no indicado).
+  - Plazo o ciclo: Sin fechas publicadas; se vieron Forochat 5 y Forochat 6 sin fecha ni hora
+  - Como postular: http://www.insai.gob.ve/cursos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es formación, no empleo.
+  - Aclaracion: Los foros-taller se listan en http://www.insai.gob.ve/cursos, donde cada Forochat tiene un botón «Entrar» hacia un grupo de Telegram.
+  - Aclaracion: No se vieron fechas, requisitos ni proceso de inscripción.
+- **OIM (IOM) - Carreras y portal de vacantes** (abierta o vigente, verificada 2 veces) https://www.iom.int/careers
+  - Que es: Postulantes externos a vacantes de la OIM en cualquier país, incluida Venezuela (hay que filtrar por lugar en el portal).
+  - Requisitos: Varían según la vacante (personal nacional vs. internacional, pasantías, JPO, UNV). No se vieron requisitos generales de edad, título ni experiencia en esta página. Las vacantes de nivel profesional suelen exigir título y experiencia, pero eso no se confirmó aquí; no es una vía de primer empleo sin requisitos, salvo las pasantías, cuyas condiciones no se vieron.
+  - Pago o beneficio: sin datos (depende de la vacante y de la categoría; no figura en la página)
+  - Plazo o ciclo: Abierto todo el año: las vacantes se publican de forma continua en un portal externo; cada vacante trae su propio cierre (no se vio ninguna fecha en esta página).
+  - Como postular: https://www.iom.int/careers
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Las vacantes están enlazadas a un portal externo de empleo; Venezuela aparece solo como página de país y no se vio ninguna vacante concreta para Venezuela.
+  - Aclaracion: Hay estafadores que suplantan a la OIM o a su personal para pedir dinero o datos personales; la OIM afirma que no cobra ninguna tarifa en ninguna etapa del reclutamiento y que no pide contraseñas ni datos bancarios.
+  - Aclaracion: El dominio oficial de correo de la OIM es @iom.int y las sospechas se reportan a talentpool@iom.int.
+- **UNICEF - Portal de empleo (vacantes de Venezuela)** (abierta o vigente, verificada 2 veces) https://jobs.unicef.org/en-us/listing/
+  - Que es: Postulantes a puestos de UNICEF, incluido personal nacional en Caracas; la página de UNICEF Venezuela (unicef.org/venezuela/trabaja-con-nosotros) enlaza este portal filtrado por Venezuela en su sección 'Oportunidades actuales'.
+  - Requisitos: sin datos; el aviso completo no se leyó. Nivel profesional nacional (NO-2), por lo que se espera formación universitaria y experiencia.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (cargo NO-2, escala de las Naciones Unidas; monto no visto)
+  - Plazo o ciclo: Vista del 2026-11-23: una vacante para Venezuela, 'Education Officer (NO-2), TA, (364 days), #00139143, Caracas - Venezuela, LACR', con cierre el 7 de diciembre de 2026 a las 23:55 (UTC-4). El portal es abierto de forma continua, con avisos de cierre individual.
+  - Como postular: https://jobs.unicef.org/en-us/listing/
+  - Lectura automatica posible: No se vio API; listado HTML.
+  - Aclaracion: Es un puesto profesional nacional (NO-2) temporal, no de entrada sin experiencia.
+  - Aclaracion: La postulación se hace en línea por el portal.
+  - Aclaracion: UNICEF indica en general que no cobra por ninguna etapa de contratación; toda solicitud de pago debe tratarse como fraude.
+- **Cáritas de Venezuela - Convocatorias y envío de CV** (abierta o vigente, verificada 2 veces) https://caritasvenezuela.org
+  - Que es: Profesionales y voluntarios interesados en proyectos humanitarios (agua y saneamiento, medios de vida, nutrición, movilidad humana, atención médica).
+  - Requisitos: sin datos; no se leyó el texto de la convocatoria MEAL. El cargo de Oficial MEAL (monitoreo, evaluación y aprendizaje) es profesional, no de entrada sin experiencia.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Vía permanente 'Envíanos tu CV' vista en el sitio (abierto todo el año). Convocatoria vista: 'Selección de Oficial MEAL en Cáritas de Venezuela', publicada el 2 de noviembre de 2026; no se vio el texto completo ni la fecha de cierre (el cierre del 6 de noviembre no se pudo confirmar).
+  - Como postular: https://caritasvenezuela.org/contactanos/
+  - Lectura automatica posible: No se vio.
+  - Aclaracion: Las convocatorias se publican de forma irregular.
+  - Aclaracion: El CV puede enviarse por el formulario de https://caritasvenezuela.org/contactanos/, por el correo caritasvenezuela@gmail.com o por el teléfono (+58) 212-443-31-53.
+  - Aclaracion: Los 'Términos de Referencia' son licitaciones o consultas de precios para proveedores, no empleos.
+  - Aclaracion: Se debe desconfiar de cualquier cobro para ser contratado.
+- **Banesco: Portal de Captación de Talentos (empleos.banesco.com)** (sin verificar, verificada 1 vez) https://empleos.banesco.com
+  - Que es: Postulantes a vacantes en Venezuela (los avisos aplican exclusivamente a la República Bolivariana de Venezuela, según el portal).
+  - Requisitos: No se listan en el portal; dependen de cada vacante. Requiere crear cuenta o iniciar sesión.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (portal permanente); sin fechas de cierre visibles.
+  - Como postular: https://empleos.banesco.com
+  - Lectura automatica posible: no
+  - Aclaracion: El portal mostró «No se encontraron vacantes disponibles» junto con «Hubo un error consultando las vacantes», por lo que no se confirman vacantes en él; conviene reintentar más tarde, ya que la página oficial de empleos de Banesco sí listó vacantes.
+  - Aclaracion: La ruta para postular es iniciar sesión («Inicio de Sesión») y usar «Ir a Postularme» en el detalle de cada vacante.
+  - Aclaracion: No se vio advertencia de fraude en la página.
+- **Arcos Dorados (McDonald's): Trabaja con nosotros** (sin verificar, verificada 1 vez) https://www.arcosdorados.com/trabaja-con-nosotros/
+  - Que es: Postulantes a restaurantes McDonald's de la región; la empresa se presenta como gran empleador de jóvenes (más de 100.000 empleados, más del 53 % menores de 24 años y muchos en su primer empleo formal, según su sitio).
+  - Requisitos: No se declaran requisitos de edad ni experiencia en la página.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos: la página no muestra vacantes ni proceso de postulación.
+  - Como postular: Enlace «Trabaja con nosotros» del sitio corporativo; formulario de contacto: https://arcosdourados.my.site.com/McDonaldsContacto/s/?language=es. Existe además el sitio nacional https://www.mcdonalds.com.ve/, que respondió HTTP 403 (no verificado).
+  - Lectura automatica posible: no
+  - Aclaracion: La página es corporativa y no lista vacantes, no describe cómo postular y solo ofrece un enlace «Contáctanos».
+  - Aclaracion: Enlaza al sitio de Venezuela mcdonalds.com.ve, pero no se confirmó una vía de postulación específica para Venezuela.
+  - Aclaracion: La alta proporción de empleados en su primer empleo formal sugiere puertas abiertas a primer empleo, pero no es un requisito declarado.
+- **Arcos Dorados: Empleo joven (Receta del Futuro)** (sin verificar, verificada 1 vez) https://arcosdorados.com/recetadelfuturo/empleo-joven
+  - Que es: Jóvenes en su primer empleo formal (programa corporativo regional).
+  - Requisitos: No declarados: la página no fija edad, documentos ni experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos: programa corporativo sin fechas ni convocatoria visible.
+  - Como postular: No se describe en la página; remite a «Trabaja con nosotros» y al formulario de contacto de McDonald's.
+  - Lectura automatica posible: no
+  - Aclaracion: Es una página de contenido de sostenibilidad, no una convocatoria.
+  - Aclaracion: No indica rango de edad, requisitos ni proceso de postulación, ni que el programa opere en Venezuela, que solo aparece en la lista de sitios de McDonald's.
+  - Aclaracion: La formación se ofrece mediante Universidad de la Hamburguesa y MCampus Comunidad, con cursos en línea gratuitos para jóvenes de América Latina.
+- **Hesperia: hoteles en Isla Margarita, Maracay y Morrocoy (fichas oficiales)** (sin verificar, verificada 1 vez) https://www.hesperia.com/hoteles-destinos/isla-margarita/
+  - Que es: Quien quiera ubicar los hoteles de la cadena en Venezuela para consultar por empleo local: Isla Margarita (Hesperia Isla Margarita en Playa Puerto Viejo y Hesperia Playa El Agua en Antolín del Campo, Nueva Esparta), Hesperia Maracay (Aragua), Hesperia Morrocoy (Falcón) y Hesperia WTC Valencia (Carabobo).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Directorio permanente; sin convocatoria de empleo vista.
+  - Como postular: https://hesperiaworld.teamtailor.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no ofrece postulación directa; su único enlace de empleo es «Trabaja con nosotros» (portal Teamtailor, sin vacantes venezolanas al 23/11/2026).
+  - Aclaracion: Sirve como directorio para identificar hoteles y contactarlos, no como convocatoria.
+  - Aclaracion: En la página de Isla Margarita figuran dos hoteles, Hesperia Isla Margarita y Hesperia Playa El Agua, y no se verificaron las fichas de Maracay ni Morrocoy.
+  - Aclaracion: Advertencia: no pagar por postularse y verificar vacantes solo en canales oficiales.
+- **Marriott International: portal de carreras (hoteles JW Marriott Caracas, Renaissance La Castellana y Marriott Playa Grande)** (sin verificar, verificada 1 vez) https://careers.marriott.com/jobs
+  - Que es: Personas con interés en trabajar en los hoteles de marca Marriott en Venezuela: JW Marriott Hotel Caracas (269 habitaciones, El Rosal), Renaissance Caracas La Castellana y Venezuela Marriott Hotel Playa Grande (Catia La Mar).
+  - Requisitos: sin datos para Venezuela.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Portal global permanente (14169 vacantes en total al consultar); no se confirmaron vacantes en Venezuela.
+  - Como postular: https://careers.marriott.com/jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Con el filtro de ubicación Venezuela no se mostraron vacantes venezolanas, solo ofertas de otros países, y las listas de país y ciudad se cortaban, así que no se confirma ni se descarta Venezuela.
+  - Aclaracion: Para revisar, se usan el filtro Country/Region y la caja de búsqueda de ubicación del portal.
+  - Aclaracion: Advertencia: Marriott no cobra por postularse; desconfiar de ofertas por WhatsApp o redes que pidan pagos.
+- **Agropatria - Atención al Productor (red de tiendas y coordinaciones por zona)** (sin verificar, verificada 1 vez) https://www.agropatria.com.ve/atencion.html
+  - Que es: Productores agrícolas (insumos, análisis de suelos, asesoría técnica) y personas que deseen preguntar por empleo en la empresa. El sitio no tiene sección de empleo; se lista solo como punto de contacto.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: Preguntar directamente por la central telefónica (0244) 3956036 (sede en Cagua, Aragua) o por WhatsApp de coordinaciones: Acarigua +58 414-5263858 no, ver evidencia; los números vistos son Acarigua +58 412-5263858, Araure +58 412-3888301, Lara +58 414-0615870, El Tigre +58 414-8899970, Turmero +58 412-3927235, Barlovento +58 412-7835863, Sede Central +58 414-3444606, La Guaira +58 412-2432659.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El sitio es de atención al productor y no contiene ofertas de empleo, reclutamiento ni envío de CV.
+  - Aclaracion: No se confirmó ninguna vía de empleo; no es recomendable listarla como fuente de empleo salvo que se halle otra página oficial de reclutamiento.
+- **Chocolates El Rey - sitio oficial (planta en Barquisimeto, Lara; cacao venezolano)** (sin verificar, verificada 1 vez) https://www.chocolateselrey.com
+  - Que es: Productores de cacao y personas interesadas en trabajar en la cadena del cacao; la empresa describe un programa de trabajo con productores (asistencia técnica en selección, injertación, fermentación y evaluación de calidad; compra directa con primas de calidad; trazabilidad).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: Escribir al correo de contacto publicado: chocolates@chocolate.com.ve, o usar la página de contacto (contact.html). No hay vía de postulación publicada.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El sitio no tiene sección de empleo, «trabaja con nosotros» ni recepción de CV.
+  - Aclaracion: El correo del pie de página aparece bajo «Distribuidores y prensa», y no se confirmó que reciba postulaciones.
+- **UNICEF Venezuela - Trabaja con nosotros** (sin verificar, verificada 1 vez) https://www.unicef.org/venezuela/trabaja-con-nosotros
+  - Que es: Personas interesadas en vacantes de UNICEF en Venezuela.
+  - Requisitos: No indicados; varían por vacante.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Continuo según vacantes; la página no lista puestos concretos
+  - Como postular: https://jobs.unicef.org
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El enlace «Oportunidades» al portal de empleo de UNICEF devolvió HTTP 404, por lo que no se pudo ver ninguna vacante ni fecha.
+  - Aclaracion: La página no describe proceso de postulación; conviene verificar directamente el portal oficial jobs.unicef.org.
+  - Aclaracion: UNICEF no cobra por procesos de contratación.
+- **Digitel - sitio oficial y La Corporación (sin página de empleo verificada)** (sin verificar, verificada 1 vez) https://www.digitel.com.ve
+  - Que es: Operadora móvil con tiendas y distribución a escala nacional. No se vio ninguna oferta ni formulario de postulación.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: El sitio no tiene enlace de empleo, vacantes ni carreras, y no se confirmó ninguna vía de postulación.
+  - Aclaracion: Las ofertas que circulen por terceros, como redes o mensajería, deben tratarse con cautela y no deben implicar pagos.
+- **Farmahorro - sitio oficial (sin página de empleo verificada)** (sin verificar, verificada 1 vez) https://www.farmahorro.com.ve
+  - Que es: Cadena de farmacias. No se vio ninguna oferta ni formulario de postulación.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: El sitio no tiene página ni enlace de empleo o vacantes, y no se confirmó si la página de contacto recibe postulaciones.
+  - Aclaracion: No se encontró ninguna vía oficial verificada de postulación.
+- **Tealca: Vacantes (jobs.tealca.com)** (sin verificar, verificada 1 vez) https://www.tealca.com/unete-a-nosotros/
+  - Que es: Personas que busquen empleo en una empresa de paquetería y logística (el tipo de cargos no se pudo ver).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (portal permanente enlazado como 'Trabaja con Nosotros' desde la página oficial)
+  - Como postular: https://jobs.tealca.com/jobs/Vacantes
+  - Lectura automatica posible: none
+  - Aclaracion: El listado de vacantes no pudo leerse, por lo que no se confirmó ninguna vacante abierta, ni cargos ni fechas.
+  - Aclaracion: La página oficial enlaza este portal como 'Trabaja con Nosotros'.
+- **Zoom (Casa de Cambio Zoom): "Quiero ser agente"** (sin verificar, verificada 1 vez) https://www.zoom.red/quiero-ser-agente/
+  - Que es: Personas o negocios interesados en ser agente de Zoom en Venezuela. La página no explica qué hace un agente.
+  - Requisitos: sin datos (no publicados)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no hay formulario ni convocatoria visibles)
+  - Como postular: sin datos (solo contacto por WhatsApp, teléfono 0501 9666 000 o atencionalcliente@zoom.red)
+  - Lectura automatica posible: none
+  - Aclaracion: Es una vía de contacto para ser agente (negocio asociado), no un empleo; no hay formulario, requisitos ni proceso descrito.
+  - Aclaracion: Cualquier condición o pago debe confirmarse solo con los canales oficiales de Zoom.
+- **NRC (Consejo Noruego para Refugiados) - Portal de empleos** (sin verificar, verificada 1 vez) https://www.nrc.no/jobs/
+  - Que es: Postulantes a puestos de NRC; no se pudo confirmar si hay vacantes en Venezuela.
+  - Requisitos: sin datos. Los avisos vistos solo en agregadores mencionan español e inglés fluidos y, en cargos de coordinación, al menos 4 años de experiencia; no son cargos de entrada.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (portal permanente; no se vieron vacantes de Venezuela vigentes en una página oficial)
+  - Como postular: https://ekum.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2019
+  - Lectura automatica posible: No se vio.
+  - Aclaracion: No se confirmó ninguna vacante abierta de Venezuela; los avisos de NRC Venezuela (Caracas) aparecen en agregadores de terceros y en su mayoría están vencidos o de estado dudoso.
+  - Aclaracion: Los cargos son técnicos o gerenciales, poco aptos para un primer empleo.
+  - Aclaracion: Las organizaciones humanitarias no cobran por contratar.
+- **AVAVIT: Fundación IETASA (cursos de turismo y hotelería)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://avavit.org/fundacion-ietasa/
+  - Que es: Personas que quieran formarse en turismo, ventas, atención al cliente y hotelería. Incluye cursos cortos de Iniciación Hotelera, Claves del Servicio Hotelero y Habilidades esenciales para hoteleros (8 h cada uno), además de atención al cliente, organización de eventos y sistemas de reservas KIU, Sabre y Amadeus.
+  - Requisitos: No se listan requisitos de ingreso; el formulario pide cédula de identidad. Apto para quien no tiene experiencia previa en cursos de iniciación (p. ej. Iniciación Hotelera), aunque no se declara explícitamente.
+  - Pago o beneficio: Cursos de pago; precio desconocido (no publicado en las páginas vistas).
+  - Plazo o ciclo: Oferta recurrente de cursos de 1 a 3 días (8 a 24 horas académicas). El cronograma visto (https://avavit.org/cronograma-de-cursos/) corresponde a octubre de 2026 (Sabre 17 y 18 oct., Neuromarketing Turístico 24 oct., IA aplicada al turismo 31 oct., 'Pequeños Viajeros' en curso), ya vencido a la fecha; no se vieron fechas de noviembre o diciembre.
+  - Como postular: https://avavit.org/cronograma-de-cursos/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es formación de pago, no un empleo ni una bolsa de trabajo.
+  - Aclaracion: Los pagos se aceptan en USD (transferencia a Banesco con 3% de IGTF, o efectivo en la sede) o en bolívares (transferencia o pago móvil, a la tasa del BCV).
+  - Aclaracion: Conviene pagar solo a las cuentas publicadas en el sitio oficial y confirmar por los contactos oficiales.
+- **Conindustria - Academia (talleres y capacitación de talento humano)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.conindustria.org/category/academia/
+  - Que es: Profesionales y personal de empresas (contadores, abogados laborales, gerentes de RR. HH., logística). Es formación de pago probable orientada a empresas, no una bolsa de empleo ni un programa para primer empleo.
+  - Requisitos: sin datos. Los temas (nómina, cálculos laborales, obligaciones legales del empleador, almacenes, proveedores) apuntan a profesionales y empresas del sector industrial, no a personas sin experiencia que buscan empleo.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (no se vio costo)
+  - Plazo o ciclo: Talleres periódicos, sin convocatoria futura. Fechas de publicación vistas: 10-10-2025, 30-10-2025, 27-11-2025, 27-02-2026, 26-03-2026, 20-04-2026, 14-05-2026, 26-05-2026 y 31-05-2026. No hay talleres con fecha futura.
+  - Como postular: https://www.conindustria.org/category/academia/
+  - Lectura automatica posible: ninguno visto
+  - Aclaracion: La página lista talleres ya realizados, sin pasos de inscripción ni costos, y no anuncia una próxima fecha.
+  - Aclaracion: El listado muestra 9 talleres, más una nota de convenio ULA–Conindustria–Fundei, entre octubre de 2025 y mayo de 2026, y el último es del 31 de mayo de 2026.
+  - Aclaracion: Las fechas del listado corresponden a la publicación de las notas y no necesariamente a la realización de cada taller.
+  - Aclaracion: Se trata de capacitación para la gestión empresarial y de talento humano, y no de una fuente de empleo ni de un programa de primer empleo; se recomienda marcarla como formación para empleadores o profesionales.
+- **Conindustria / CILARA / FUNDEI Lara - Plan piloto de pasantías docentes (UPEL)** (sin verificar, verificada 1 vez) https://www.conindustria.org/cilara-y-fundei-lara-impulsan-plan-piloto-de-pasantias-docentes-junto-a-la-upel-para-la-generacion-de-relevo-industrial/
+  - Que es: Docentes (no estudiantes ni público general) que se actualizan en plantas industriales, en el estado Lara.
+  - Requisitos: No se indican requisitos. La nota habla de colocar a docentes (vinculados a la UPEL) en pasantías profesionales en la industria, de modo que no es una vía de empleo para el público general ni para personas sin experiencia o sin título. Edad, documentos, residencia y experiencia: sin datos.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (la nota no menciona pago ni beca)
+  - Plazo o ciclo: Sin fecha de inicio, cierre ni convocatoria publicada. Solo consta el anuncio del 25 de agosto de 2026 y que se trata de una "prueba piloto". No se vio evidencia de repetición anual; la recurrencia es desconocida.
+  - Como postular: sin datos
+  - Lectura automatica posible: ninguno visto
+  - Aclaracion: La nota solo anuncia una prueba piloto de pasantías para docentes del estado Lara, con una fase de inmersión industrial de 6 semanas, sin proceso de postulación ni contacto específico del programa.
+  - Aclaracion: No se confirmó convocatoria, requisitos ni canal de inscripción en un sitio oficial de CILARA, FUNDEI Lara o la UPEL, por lo que conviene verificar con esas instituciones antes de contar con el programa.
+  - Aclaracion: No se recomienda listarlo como fuente de empleo abierta, sino, como mucho, como iniciativa gremial piloto dirigida a docentes del estado Lara.
+  - Aclaracion: Ninguna organización seria cobra por inscribirse en pasantías ni por ubicar empleo; se debe desconfiar de ofertas que pidan pagos o anticipos y confirmar siempre por los canales oficiales de la institución.
+- **Yummy Rides y Delivery: registro de conductores y repartidores** (abierta o vigente, verificada 2 veces) https://www.yummysuperapp.com/rides
+  - Que es: Personas que quieran transportar pasajeros (Rides) o repartir pedidos (Delivery) con carro, moto o bicicleta. Un solo registro habilita ambos servicios y la persona elige en cuál trabajar.
+  - Requisitos: No listados en la página. Solo menciona vehículo carro, moto o bicicleta y verificación previa de conductores. Documentos, edad y licencia: sin datos. No se ve que exija experiencia.
+  - Pago o beneficio: sin datos (ingresos variables según viajes o pedidos; la página no publica montos)
+  - Plazo o ciclo: abierto todo el año (registro permanente, sin fecha de cierre)
+  - Como postular: https://yummyrides.app.link/driver_landing
+  - Lectura automatica posible: none
+  - Aclaracion: Las cifras de cobertura, conductores registrados y años en Venezuela son de la propia empresa y no están verificadas de forma independiente.
+  - Aclaracion: El registro lleva a una aplicación móvil y la página no detalla requisitos ni el proceso de verificación de conductores.
+  - Aclaracion: Es trabajo independiente por cuenta propia, no relación de dependencia.
+- **TopTrabajos Venezuela: empleos de hotelería, restaurantes y turismo** (abierta o vigente, verificada 2 veces) https://www.toptrabajos.com/ve/empleos/gastronomia-y-hoteleria
+  - Que es: Personas que buscan vacantes de hotelería, restaurantes y turismo en Venezuela, con filtros por remoto y salario publicado; hay sección aparte para empleos sin experiencia (https://toptrabajos.com/ve/empleos/sin-experiencia).
+  - Requisitos: Sin requisitos visibles; la vacante vista es freelance remota de ventas internacionales.
+  - Pago o beneficio: No publicado en la única vacante vista.
+  - Plazo o ciclo: Abierto todo el año (bolsa de empleo permanente), pero la categoría tenía una sola vacante el 2026-11-23.
+  - Como postular: https://www.toptrabajos.com/ve/empleos/gastronomia-y-hoteleria
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La única vacante vista es remota, freelance y de ventas internacionales, no un puesto de sala o cocina, y está fechada el 21 de octubre (sin año visible).
+  - Aclaracion: Es una bolsa de empleo o agregador, no un empleador, y su utilidad al 23/11/2026 para hotelería y gastronomía es escasa.
+  - Aclaracion: El sitio se declara gratuito para candidatos (buscar, postular y crear currículum sin costo), pero no quedó claro si la cuenta es obligatoria.
+  - Aclaracion: Advertencia general: desconfiar de cualquier oferta que pida dinero para postular.
+- **UN Vacancies - Venezuela (listado independiente de vacantes del sistema ONU)** (abierta o vigente, verificada 2 veces) https://www.unvacancies.org/jobs/location/venezuela
+  - Que es: Personas que quieran ver en un solo lugar las vacantes de la ONU con sede en Venezuela; sirve de índice porque los portales oficiales de PMA, ACNUR y OIM no cargaron en la consulta.
+  - Requisitos: Varía por aviso; no se leyeron los avisos completos. Los de ONU Mujeres exigen nacionalidad venezolana. Los cargos son de nivel técnico o profesional, no de entrada sin experiencia.
+  - Pago o beneficio: sin datos (escalas ONU: P-3, NPSA-6, NPSA-9; montos no vistos)
+  - Plazo o ciclo: Vista del 2026-11-23 con 5 vacantes: Asistente de Recursos Humanos (WFP, Caracas) cierra 23 nov 2026 23:59 UTC; Asociado(a) de Programas - Implementación (WFP, San Fernando de Apure) cierra 23 nov 2026 23:59 UTC; Administrative Officer, P-3 (OCHA, Caracas) cierra 27 nov 2026; Analista de Coordinación de Programa, NPSA-9 (ONU Mujeres, Caracas) cierra 26 nov 2026; Asociada/o de Programa, NPSA-6 (ONU Mujeres, Caracas) cierra 26 nov 2026. Se actualiza de forma continua.
+  - Como postular: https://www.unvacancies.org/jobs/location/venezuela
+  - Lectura automatica posible: No se vio API; páginas HTML.
+  - Aclaracion: Es un agregador independiente, no oficial; el aviso oficial y el enlace de postulación están en el sitio de cada agencia, y conviene confirmar cada aviso allí antes de postular.
+  - Aclaracion: Dos avisos cierran el 23 de noviembre de 2026.
+  - Aclaracion: Las agencias de la ONU no cobran tarifas de contratación; cualquier pago solicitado es indicio de estafa.
+- **Emprender Juntos - Plataforma de emprendedores y Registro Nacional de Emprendimientos (RNE)** (abierta o vigente, verificada 2 veces) https://emprenderjuntos.gob.ve/nosotros/
+  - Que es: Personas que inician o tienen un emprendimiento y quieren formalizarlo y acceder a formación y financiamiento.
+  - Requisitos: Datos personales y caracterización del emprendimiento. No se listan otros requisitos (edad, título ni experiencia) en la página visible; sirve a personas sin experiencia formal que quieran emprender.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es un empleo ni una beca; no entrega dinero directamente (ofrece formación, formalización y acceso a información de financiamiento).
+  - Plazo o ciclo: Abierto todo el año: registro en línea sin fechas indicadas.
+  - Como postular: https://registro.emprenderjuntos.gob.ve
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es un empleo ni una beca; el registro consiste en crear un usuario, cargar datos personales y caracterizar el emprendimiento.
+  - Aclaracion: Banesco exige el certificado RNE para su Crédito para Emprendedores.
+  - Aclaracion: La página no explica un proceso de inscripción separado para el RNE, y no menciona tarifas: no se debe pagar a terceros por inscribirse.
+- **Banesco - MicroCréditos para personas naturales** (abierta o vigente, verificada 2 veces) https://www.banesco.com/personas/creditos-personas/microcreditos/
+  - Que es: Personas naturales con pequeño negocio: hasta 10 trabajadores o ventas anuales de hasta 9.000 unidades tributarias.
+  - Requisitos: Persona natural con no más de 10 trabajadores o ventas anuales de hasta 9.000 Unidades Tributarias; tener cuenta Banesco; consignar todos los recaudos (lista en PDF enlazado en la página). Requiere un negocio ya en marcha de producción, comercialización o servicios.
+  - Pago o beneficio: No aplica (crédito); montos y tasas: sin datos, ver Tasas Activas de Banesco.
+  - Plazo o ciclo: Abierto todo el año: producto permanente del banco, sin convocatoria ni fechas.
+  - Como postular: https://www.banesco.com/personas/creditos-personas/microcreditos/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un crédito, es decir, una deuda que se debe devolver con intereses, no una subvención.
+  - Aclaracion: Se paga en cuotas mensuales consecutivas con cargo automático a la cuenta Banesco, con tasa de interés variable y posibilidad de pago anticipado.
+  - Aclaracion: Las tasas están en la sección Tasas Activas y los cargos en un PDF aparte.
+  - Aclaracion: Se solicita descargando los recaudos y la planilla, completándola y entregándola en la agencia de preferencia; no se debe pagar a gestores ni intermediarios.
+- **Fedecámaras - Programa de Desarrollo de Emprendedores** (sin verificar, verificada 1 vez) https://fedecamaras.org.ve/programas-y-convenios/programa-de-desarrollo-de-emprendedores/
+  - Que es: Emprendedores de cualquier región que ya dedican al menos 50 % de su tiempo a su proyecto, con producto o servicio, algunos clientes e ingresos.
+  - Requisitos: Estar creando un negocio propio en cualquier etapa; dedicar al menos 50 % del tiempo al proyecto; tener un mínimo de operación (producto o servicio, algunos clientes o ingresos); asistir al 100 % de talleres, seguimientos y coaching; cumplir las actividades acordadas con el coach; comprometerse con actividades posteriores. Se selecciona por compromiso y capacidad de presentar la idea, no por tamaño del proyecto. No pide título.
+  - Sin experiencia previa: no
+  - Pago o beneficio: No paga; es formación y acompañamiento. Costo para el participante: sin datos (la página no lo indica).
+  - Plazo o ciclo: Sin fechas visibles. La página indica que las convocatorias se emiten por región, a través de las cámaras y asociaciones afiliadas; no se pudo confirmar si hay una convocatoria vigente al 2026-11-23.
+  - Como postular: https://fedecamaras.org.ve/programas-y-convenios/programa-de-desarrollo-de-emprendedores/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se confirmó ninguna convocatoria abierta ni fecha, solo la existencia del programa y del formulario Postúlate.
+  - Aclaracion: Es un programa de unas 8 semanas con talleres presenciales y coaching individual, espacio virtual con actividades semanales, comunidad de emprendedores y networking regional.
+  - Aclaracion: La página no menciona costos; se debe desconfiar de quien cobre por una plaza.
+- **FAO - Empleo: acceso a vacantes, pasantías y voluntariado** (abierta o vigente, verificada 2 veces) https://www.fao.org/employment/home/es/
+  - Que es: Personas con interés en empleo en el sistema FAO (oficinas nacionales, incluida la de Venezuela), pasantías o voluntariado. Se vio la página general de empleo, no una oferta específica para Venezuela.
+  - Requisitos: Varía según la vacante; perfil con perspectiva internacional, idiomas oficiales de FAO. Sin experiencia requerida solo en programas de talento joven (ver entradas siguientes).
+  - Pago o beneficio: Según vacante; sin datos.
+  - Plazo o ciclo: Vacante única visible con cierre el 29 de octubre de 2026 (vencida); sin hora de cierre indicada en la página.
+  - Como postular: https://jobs.fao.org/careersection/fao_external/jobsearch.ftl?lang=es
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Las candidaturas solo se aceptan por el sistema oficial de contratación en línea de la FAO, con un perfil de candidato; las solicitudes incompletas no se consideran.
+  - Aclaracion: Los correos de vacantes solo provienen de direcciones @fao.org, los datos personales y bancarios se piden únicamente por ese sistema y la FAO no cobra por el proceso de contratación.
+  - Aclaracion: No se exige nacionalidad ni residencia específicas: se alienta a candidatos de estados miembros no representados o insuficientemente representados.
+  - Aclaracion: Por exigir en general estudios y experiencia profesional, no es adecuado como primer empleo sin título, salvo los programas de pasantías y voluntariado.
+- **FAO - Programa de pasantías (jóvenes de 21 a 30 años)** (sin verificar, verificada 1 vez) https://www.fao.org/employment/young-talent-programme/internship-programme/es
+  - Que es: Estudiantes universitarios o recién graduados de 21 a 30 años de países miembros de FAO; aplicable también a quienes residen en Venezuela donde exista oficina FAO (no se verificó que haya cupos para Venezuela).
+  - Requisitos: Entre 21 y 30 años al inicio (debe comenzar antes de cumplir 31); estar inscrito en un programa universitario/licenciatura o haber egresado recientemente (o al menos 3 años de estudio a tiempo completo si el país no distingue grados); ciudadanía de un Estado Miembro de FAO; conocimiento práctico de al menos un idioma oficial de FAO (árabe, chino, español, francés, inglés o ruso); residencia o estatus migratorio legal en el país sede antes de iniciar; no tener familiares directos (hermanos, padres) empleados por FAO. Requiere estudios universitarios: no es para quien no tiene título ni estudios superiores.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no menciona remuneración).
+  - Plazo o ciclo: Por convocatorias de manifestación de interés publicadas en el portal de empleo de FAO; no se vio ninguna convocatoria abierta ni fechas el 2026-11-23.
+  - Como postular: https://jobs.fao.org/careersection/fao_external/jobsearch.ftl?lang=es
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Se postula en línea respondiendo a la solicitud de manifestación de interés, con carta de motivación y certificado de asistencia de una universidad reconocida.
+  - Aclaracion: Solo se contacta a los seleccionados; quien no sea elegido debe volver a postular en nuevas convocatorias.
+  - Aclaracion: Venezuela es país miembro de la FAO, por lo que sus ciudadanos cumplen el requisito de ciudadanía.
+  - Aclaracion: No se confirmó ninguna convocatoria abierta ni un ciclo anual.
+- **FAO - Programa de voluntarios ordinarios (mayores de 18 años, bachillerato)** (sin verificar, verificada 1 vez) https://www.fao.org/employment/young-talent-programme/volunteer-programme/es
+  - Que es: Personas mayores de 18 años con educación secundaria completada, sin necesidad de título universitario.
+  - Requisitos: Mayor de 18 años; educación secundaria (bachillerato) completada; ciudadanía de un Estado Miembro de FAO; conocimiento práctico de al menos un idioma oficial de FAO (segundo idioma es un plus); capacidad de adaptación a un entorno internacional; conocimientos básicos de informática; residencia o visa adecuada en el país de destino; sin familiares directos empleados por FAO. No exige título universitario ni experiencia laboral declarada.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sin remuneración (voluntariado).
+  - Plazo o ciclo: Por convocatorias de manifestación de interés en el portal de empleo de FAO; no se vio ninguna convocatoria abierta ni fechas el 2026-11-23.
+  - Como postular: https://jobs.fao.org/careersection/fao_external/jobsearch.ftl?lang=es
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Se postula en línea mediante la solicitud de manifestación de interés, con carta de motivación.
+  - Aclaracion: Solo se contacta a los seleccionados.
+  - Aclaracion: Los ciudadanos venezolanos pueden postular por ser Venezuela país miembro de la FAO.
+  - Aclaracion: No se confirmó ninguna convocatoria abierta.
+- **Cruz Roja Venezolana - Registro de voluntariado** (abierta o vigente, verificada 2 veces) https://cruzroja.ve/haz-voluntariado/
+  - Que es: Venezolanos y extranjeros residentes que quieran ser voluntarios; formulario con áreas de interés (Salud, Protección, Socorro, Comunicación) y disponibilidad.
+  - Requisitos: La página no indica edad mínima, documentos ni capacitación obligatoria. No se exige experiencia previa según lo visto. El formulario pregunta nacionalidad (venezolano o extranjero), género, estado de residencia, nivel educativo, situación laboral y licencia de conducir. Idiomas (inglés, francés, alemán, árabe, mandarín) son opcionales.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sin pago (voluntariado). No se vio ninguna mención de viáticos ni de cobertura de gastos.
+  - Plazo o ciclo: Abierto todo el año: formulario en línea sin fechas ni cierre.
+  - Como postular: https://cruzroja.ve/haz-voluntariado/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un registro de voluntariado, no un empleo.
+  - Aclaracion: El formulario exige elegir una filial, disponibilidad y horario, hasta cinco grupos vulnerables de interés y áreas de trabajo; al registrarse se acepta el tratamiento de datos personales según su política de privacidad.
+  - Aclaracion: El teléfono que muestra la página parece un marcador de posición (+58 0000 0000000) y no debe usarse.
+  - Aclaracion: Como regla general, un voluntariado no exige pagos.
+- **MINTUR: noticia sobre el sector hotelero y el programa 'Formación a Cielo Abierto' en La Guaira (19 de noviembre de 2026)** (sin verificar, verificada 1 vez) https://www.mintur.gob.ve/news/a3444fdc-f425-498e-a4da-e266299d3eaa
+  - Que es: Prestadores de servicios turísticos del estado La Guaira (más de 3.400 en formación continua, según la nota) y empresas del sector hotelero.
+  - Requisitos: No aplica (nota informativa; no se indican requisitos).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Nota del 19 de noviembre de 2026. FITVEN: 4 al 6 de diciembre de 2026 (Parque Simón Bolívar, La Carlota, Caracas). Sin plazo de postulación.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una nota de prensa y no una convocatoria: no ofrece vacantes ni proceso de inscripción para la formación ni para FITVEN.
+  - Aclaracion: Sirve únicamente como contexto del sector turístico, no como vía de postulación.
+  - Aclaracion: Como regla general, ninguna institución oficial cobra por ofrecer empleo.
+- **FAO Venezuela - Proyectos (producción agrícola, semillas, sanidad vegetal y animal)** (sin verificar, verificada 1 vez) https://www.fao.org/venezuela/projects/es
+  - Que es: Pequeños productores, comunidades rurales y personas que buscan trabajo técnico o comunitario vinculado a proyectos FAO; sirve para ubicar en qué estados y temas opera FAO (Lara, Mérida, Bolívar, Sucre y Apure tienen oficina según la portada del país).
+  - Requisitos: No aplica (no es una convocatoria).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Lista de 11 proyectos vigentes; ninguno menciona vacantes. Fechas vistas: Sistema Nacional de Semillas (13/10/2025 a 30/09/2027, TCP/VEN/4001); Manejo de riesgos de sanidad agropecuaria y nutrición (17/11/2025 a 31/10/2027, TCP/VEN/4003); Paisajes de uso múltiple en los Andes (25/07/2022 a 30/07/2027); Cartera de resiliencia comunitaria (07/05/2026 a 30/05/2027).
+  - Como postular: https://jobs.fao.org/careersection/fao_external/jobsearch.ftl?lang=es
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un listado de proyectos, no una oferta de empleo: no hay convocatorias, requisitos ni vía de postulación.
+  - Aclaracion: Las contrataciones asociadas, si existen, se anuncian en el portal de empleo de la FAO.
+  - Aclaracion: El proyecto de seguridad alimentaria Wayuu figura con fin el 30/06/2026, ya terminado.
+  - Aclaracion: La FAO solo pide datos por su sistema oficial y sus correos de vacantes son @fao.org; se debe desconfiar de ofertas que pidan pagos o usen otros dominios.
+- **Cáritas de Venezuela - Convocatorias laborales y envío de CV** (sin verificar, verificada 1 vez) https://caritasvenezuela.org/contactanos/
+  - Que es: Profesionales, técnicos y personas interesadas en trabajo humanitario y comunitario. Atiende temas de ayuda humanitaria, movilidad humana, gestión de riesgos, derechos humanos y promoción comunitaria.
+  - Requisitos: No indicados.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin convocatorias vistas; envío de CV sin fecha de cierre aparente
+  - Como postular: https://caritasvenezuela.org/contactanos/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se pudo confirmar que el enlace para enviar el CV funcione ni que acepte archivos, y no se vio ninguna vacante ni convocatoria.
+  - Aclaracion: La página no indica cómo se tratan los CV recibidos.
+  - Aclaracion: Como regla general, ninguna organización seria cobra por una contratación.
+- **Cáritas de Venezuela - Voluntariado** (sin verificar, verificada 1 vez) https://caritasvenezuela.org/voluntariado/
+  - Que es: Personas que quieran colaborar como voluntarias en parroquias y programas comunitarios; sirve como primer contacto en la red de Cáritas parroquiales.
+  - Requisitos: No indicados en la página.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (el voluntariado no se presenta como remunerado)
+  - Plazo o ciclo: No se vio fecha ni convocatoria; la página describe un programa continuo
+  - Como postular: https://caritasvenezuela.org/contactanos/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El voluntariado no es un empleo remunerado.
+  - Aclaracion: La página no describe un proceso formal de postulación ni requisitos; lo más cercano es la opción «Envíanos su CV» de la página Contáctanos.
+  - Aclaracion: Ofrece materiales de formación descargables, como un manual de orientación al voluntario y una cartilla para Cáritas parroquiales.
+- **FAO - Alerta de estafas (ofertas de empleo falsas)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.fao.org/contact-us/scam-alert/es/
+  - Que es: Cualquier persona que reciba una oferta de trabajo supuestamente de FAO o de organismos internacionales.
+  - Requisitos: No aplica (página informativa).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Permanente (aviso sin fecha)
+  - Como postular: No aplica. Para verificar una oferta, compararla con el portal oficial de vacantes de FAO.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Advierte sobre ofertas de empleo y programas de reclutamiento falsos que usan el nombre de la FAO.
+  - Aclaracion: La FAO no cobra tasas en ninguna etapa del proceso de contratación, y enviar dinero o datos personales a remitentes fraudulentos puede causar pérdidas o robo de identidad.
+  - Aclaracion: No es una fuente de vacantes; remite al único sitio oficial de empleo de la FAO y a una dirección para denunciar correos o sitios sospechosos.
+- **Banco de Venezuela: Seguridad (avisos contra fraudes)** (sin verificar, verificada 1 vez) https://www.bancodevenezuela.com/index.html@p=5800.html
+  - Que es: Cualquier persona que trate con el banco; útil para reconocer estafas.
+  - Requisitos: No aplica.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: No aplica: es una página de seguridad, no una vía de empleo.
+  - Como postular: No aplica. El sitio principal https://www.bancodevenezuela.com no mostró enlace de empleo en la consulta; el teléfono de consultas que figura en la página de seguridad es 0500-642-5283.
+  - Lectura automatica posible: no
+  - Aclaracion: No es una fuente de empleo; sirve solo como referencia general de seguridad.
+  - Aclaracion: Recomienda no compartir usuarios, claves ni códigos, no dar datos por llamadas, mensajes o correos, entrar escribiendo la dirección en el navegador, desconfiar de mensajes de WhatsApp que ofrecen productos o divisas y verificar los comunicados oficiales.
+  - Aclaracion: No menciona ofertas de empleo falsas, cobros ni anticipos.
+  - Aclaracion: El teléfono indicado en la página es 05006425283.
+- **Banesco: Por tu seguridad (consejos contra fraudes)** (sin verificar, verificada 1 vez) https://www.banesco.com/por-su-seguridad/
+  - Que es: Cualquier persona; sirve de referencia para identificar fraudes bancarios.
+  - Requisitos: No aplica.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: No aplica: es una página de seguridad, no una vía de empleo.
+  - Como postular: No aplica.
+  - Lectura automatica posible: no
+  - Aclaracion: Es solo una referencia general de seguridad bancaria: trata cibercrimen, fraude en banca electrónica, con cheques y chequeras, en cajeros automáticos y puntos de venta, y protección de datos en redes sociales.
+  - Aclaracion: No menciona ofertas de empleo falsas, cobros ni anticipos, por lo que no sirve como fuente de advertencia específica sobre fraude laboral.

@@ -1,0 +1,106 @@
+# Industria, fabricas y mantenimiento
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Grupo Bimbo: Únete a nuestro equipo (vacantes por país, México)** (abierta o vigente, verificada 2 veces) https://www.grupobimbo.com/es/unete-a-nuestro-equipo
+  - Que es: Personas que buscan empleo en panificación y botanas (plantas, distribución, ventas, administración). La página no detalla puestos específicos.
+  - Requisitos: No se listan requisitos para México en la página; cada vacante los define.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año (la página no indica fecha; vacantes rotativas en el portal externo)
+  - Como postular: https://www.apli.jobs/lab/chat-plugin-gb-mex
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El botón «MÉXICO» enlaza al portal externo apli.jobs (https://www.apli.jobs/lab/chat-plugin-gb-mex); no se vieron vacantes concretas.
+  - Aclaracion: Grupo Bimbo no solicita ningún pago durante el proceso de selección.
+  - Aclaracion: Se marca como ruta abierta por ser la vía oficial permanente de postulación, no por una vacante puntual.
+- **Coca-Cola FEMSA: Postúlate aquí (México)** (abierta o vigente, verificada 2 veces) https://coca-colafemsa.com/trabaja-con-nosotros/postulate-aqui.html
+  - Que es: Personas interesadas en embotellado, distribución y ventas de bebidas; también estudiantes y recién egresados. La página no lista puestos concretos.
+  - Requisitos: Las descripciones de los puestos de México estaban vacías en el portal; no se vieron requisitos de edad, estudios ni experiencia. Para puestos operativos como auxiliar de bodega no se vio exigencia explícita, pero no se confirmó.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año; el portal Eightfold mostraba 656 vacantes en total (varios países) el 23 de noviembre de 2026
+  - Como postular: https://coca-colafemsa.eightfold.ai/careers/?utm_source=CareersMEX
+  - Lectura automatica posible: sin datos. Portal de vacantes en coca-colafemsa.eightfold.ai/careers (no consultado).
+  - Aclaracion: Las cifras de 31,000 contrataciones nuevas y 1,400 oportunidades para estudiantes o recién egresados son de la propia empresa.
+  - Aclaracion: Vacantes vistas en México: Auxiliar de Bodega (Cárdenas), Preventa Comercial Suplente (Cuernavaca), Prospector/a (Tuxtla Gutiérrez) y Ejecutivo Promociones B2B2C (CDMX, híbrido).
+  - Aclaracion: Las descripciones de los puestos de México estaban vacías en el portal.
+- **CEMEX México: vacantes técnicas y operativas (operadores de planta, concreto, agregados)** (abierta o vigente, verificada 2 veces) https://jobs.cemex.com/go/Técnicas-y-operativas/4321701/
+  - Que es: Personas que buscan puestos técnicos y operativos en operaciones de cemento, concreto y agregados. También hay categorías para estudiantes y recién egresados.
+  - Requisitos: Para la vacante vista: primaria como escolaridad, 6 meses de experiencia como operador de revolvedora o equivalente, conocimiento de operación de camión, reglamento de tránsito y geografía local. Requiere experiencia mínima; no es puesto de primer empleo.
+  - Pago o beneficio: sin datos (no se publica salario)
+  - Plazo o ciclo: Abierto de forma continua; las vacantes se publican durante el año. En la fecha de consulta se vio una vacante en México: (MX) OPERADOR DE REVOLVEDORA, Sonora, publicada el 8 nov 2026 (ref. 18003). Sin fecha de cierre visible. La categoría también mostró una vacante en Colombia, no aplicable.
+  - Como postular: https://jobs.cemex.com/job/Don-Son-%28MX%29OPERADOR-DE-REVOLVEDORA-SON/707208001/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La vacante vista exige experiencia mínima (6 meses como operador de revolvedora o equivalente); no es un puesto de primer empleo.
+  - Aclaracion: La vacante visible en México (ref. 18003, Sonora) se abre en jobs.cemex.com/job/Don-Son-%28MX%29OPERADOR-DE-REVOLVEDORA-SON/707208001/ y se postula con el botón 'Aplicar', directamente o con perfil de LinkedIn.
+  - Aclaracion: Otras vacantes de México pueden estar en las categorías administrativa, de desarrollo o de programas para estudiantes.
+- **FEMSA: bolsa de trabajo (incluye enlaces a Coca-Cola FEMSA, OXXO y Solistica)** (abierta o vigente, verificada 2 veces) https://careers.femsa.com/?locale=es_MX
+  - Que es: Personas que buscan empleo en las unidades de negocio de FEMSA: Proximidad y Salud (OXXO), Coca-Cola FEMSA, Spin, Negocios Estratégicos (AlPunto, Solistica) y Servicios Corporativos.
+  - Requisitos: No se indican en la página; dependen de cada vacante.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (búsqueda de vacantes y comunidad de talento); sin fechas de cierre vistas
+  - Como postular: https://careers.femsa.com/?locale=es_MX
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El listado de vacantes seguía en 'Cargando...' y no se vieron vacantes específicas; se verifica la vía de postulación, no vacantes concretas.
+  - Aclaracion: Permite buscar por palabra clave o ubicación, filtrar por área funcional, unidad de negocio o empresa, y registrar el correo en la comunidad de talento.
+  - Aclaracion: Enlaza a FEMSA Proximidad y Salud (OXXO, FEMSA Salud), Coca-Cola FEMSA (sitio externo), Spin, Negocios Estratégicos (AlPunto, Solistica) y Servicios Corporativos (Xpertal, ARMUR, FEMSA Servicios).
+  - Aclaracion: Anuncia becas, prácticas y puestos de tiempo completo.
+- **Ternium: portal de vacantes (Operaciones y mantenimiento, Ingeniería, Calidad)** (abierta o vigente, verificada 2 veces) https://carrera.ternium.com/
+  - Que es: Personas que buscan empleo en áreas como Operaciones y mantenimiento, Ingeniería, Calidad y producto, Logística y Seguridad y Medio Ambiente. Programas Global Trainee y Global Professional para talento joven y de alto potencial.
+  - Requisitos: No se indican en la página principal; dependen de cada vacante.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año mediante carga de CV y comunidad de talento; no se vieron fechas de convocatoria
+  - Como postular: https://carrera.ternium.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se listaron vacantes de México en la página principal; ofrece el botón 'Vacantes disponibles' y la carga de CV para la comunidad de talento.
+  - Aclaracion: Los testimonios mencionan Global Trainee en México y Argentina y un programa de prácticas, sin detalles ni fechas; no se confirmó la duración de dos años que indicaba la ficha original.
+  - Aclaracion: El proceso se describe en tres pasos: conocer la empresa, entrevistas y conversaciones, e incorporación.
+- **HEINEKEN México: vacantes y red de talento** (abierta o vigente, verificada 2 veces) https://careers.theheinekencompany.com/Espanol/HEINEKEN-Mexico
+  - Que es: Personas que buscan empleo en HEINEKEN México, con funciones como Supply Chain y producción, ventas y áreas corporativas. Sección Students & Graduates para jóvenes.
+  - Requisitos: Ser mayor de edad (verificación al ingresar al sitio); los demás requisitos están en cada vacante y no se vieron.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año; vacantes vistas con publicación de 2 a 5 días de antigüedad al 23 de nov. de 2026
+  - Como postular: https://careers.theheinekencompany.com/Espanol/HEINEKEN-Mexico
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Para entrar al sitio se pide confirmar la mayoría de edad con la fecha de nacimiento.
+  - Aclaracion: Listó cinco puestos permanentes (Spare Parts Analyst, Sales Leader en tres vacantes y Real Estate Divestment Coordination), pero la misma página mostró también 'No hay vacantes disponibles en este momento', probablemente por carga dinámica; conviene revisar el portal directamente.
+  - Aclaracion: Se vio menos oferta que la descrita en la ficha original (Supply Chain y Navojoa no se confirmaron).
+  - Aclaracion: Cuenta con red de talento por correo y el botón 'Explorar oportunidades'.
+- **GRUMA: Únete a Nosotros (Maseca, Mission; bolsa de trabajo)** (abierta o vigente, verificada 2 veces) https://www.gruma.com/es/unete-a-nosotros/oportunidades.aspx
+  - Que es: Personas que buscan empleo en GRUMA; el tipo de puestos de planta no se pudo confirmar en la página leída.
+  - Requisitos: Según experiencia, formación, habilidades y requisitos de cada puesto; el proceso es gratuito. No se vieron requisitos concretos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año; sin fechas de cierre vistas
+  - Como postular: https://careers.gruma.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página indica que se prefiere cubrir los puestos primero de forma interna y que hay que crear y mantener actualizado un perfil en la Bolsa de Trabajo (careers.gruma.com).
+  - Aclaracion: El reclutamiento y la selección son gratuitos; se advierte no considerar vacantes que pidan algún pago.
+  - Aclaracion: No se vieron vacantes concretas; las menciones a Maseca y Mission de la ficha original no aparecieron en esta página.
+- **PROCADIST, capacitación a distancia para trabajadores** (sin verificar, verificada 1 vez) https://procadist.stps.gob.mx/procadist/
+  - Que es: Trabajadores y personas que buscan empleo que quieran capacitarse a distancia, con cursos que pueden reforzar el perfil para puestos industriales y de mantenimiento (catálogo exacto sin verificar).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial solo mostró el nombre «Programa de Capacitación a Distancia para Trabajadores»; no se vieron cursos, requisitos, costo, fechas ni forma de inscripción.
+  - Aclaracion: No se pudo confirmar que el programa esté vigente en 2026.
+- **Arca Continental: oportunidades laborales México (Operaciones y Cadena de Suministro)** (sin verificar, verificada 1 vez) https://careers.arcacontal.com/content/OPORTUNIDADES-LABORALES_NP/?locale=es_MX
+  - Que es: Personas que buscan empleo en México y Sudamérica; las áreas incluyen Operaciones y Cadena de Suministro, que probablemente agrupa plantas y distribución (no confirmado en la página).
+  - Requisitos: No se indican en la página; dependen de cada vacante.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fechas vistas; se presume abierto de forma continua, pero no se pudo confirmar
+  - Como postular: https://careers.arcacontal.com/content/OPORTUNIDADES-LABORALES_NP/?locale=es_MX
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página mostró solo 'Cargando...': no se vio ninguna vacante ni instrucciones de postulación, y no se verificó que haya vacantes abiertas.
+  - Aclaracion: Muestra categorías (Administración y Finanzas, Asuntos Públicos y Comunicación, Capital Humano, Comercial, Legal, Operaciones y Cadena de Suministro, Tecnologías de la Información) y filtros por palabra clave, estado, departamento, empresa e ID de requisición.
+  - Aclaracion: No está confirmado que el área de Operaciones y Cadena de Suministro agrupe plantas y distribución.
+- **ManpowerGroup México: bolsa de trabajo (agencia de empleo temporal y permanente)** (sin verificar, verificada 1 vez) https://talento.manpower.com.mx/
+  - Que es: Personas que buscan empleo temporal o permanente en distintos sectores. El sitio de ManpowerGroup indica servicios de reclutamiento y colocación; que haya vacantes industriales u operativas no se pudo confirmar.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Servicio permanente presumido; sin fechas vistas
+  - Como postular: https://talento.manpower.com.mx/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se pudo confirmar el proceso de postulación ni la existencia de vacantes abiertas; la página no mostró búsqueda de vacantes, registro, requisitos ni costos.
+  - Aclaracion: Conviene verificar manualmente y confirmar que el proceso para candidatos sea gratuito.
+  - Aclaracion: El sitio principal manpower.com.mx incluye un botón de WhatsApp.

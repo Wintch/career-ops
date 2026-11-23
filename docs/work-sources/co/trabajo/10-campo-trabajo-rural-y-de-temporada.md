@@ -1,0 +1,87 @@
+# Campo, trabajo rural y de temporada
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Manuelita: Talento (vacantes agroindustriales y de campo)** (abierta o vigente, verificada 2 veces) https://www.manuelita.com/talento/
+  - Que es: Personas que buscan empleo en operación agrícola y de planta; aprendices SENA y practicantes universitarios.
+  - Requisitos: Varía por vacante y se ve al abrir «Ver detalle». Aprendices SENA y prácticas universitarias implican estar matriculado en formación (SENA o universidad). Algunas vacantes son solo para candidatos internos o externos.
+  - Pago o beneficio: sin datos (no se indica en la página principal; el aprendiz SENA recibe apoyo de sostenimiento según la ley, no verificado aquí)
+  - Plazo o ciclo: 42 vacantes vistas el 2026-11-23 (10 en Colombia). Aprendices SENA hasta el 1 feb 2027; Prácticas Universitarias I-2027 hasta el 17 dic 2026.
+  - Como postular: https://www.manuelita.com/talento/
+  - Lectura automatica posible: Teamtailor por unidad de negocio (subdominios); detalle no verificado.
+  - Aclaracion: La página lista unas 45 vacantes de Colombia, Perú y Chile; la mayoría está en Perú y Chile, y en Colombia se vieron Palmira, San Carlos de Guaroa y Orocué.
+  - Aclaracion: Algunas vacantes están marcadas como solo para talento interno o solo para talento externo.
+  - Aclaracion: Cada vacante abre un portal Teamtailor distinto por unidad de negocio.
+  - Aclaracion: Las fechas límite de Aprendices SENA y Prácticas Universitarias corresponden a Palmira; los demás plazos no se indican.
+- **Riopaila Castilla: Trabaja con nosotros** (abierta o vigente, verificada 2 veces) https://riopailacastilla.buk.co/trabaja-con-nosotros
+  - Que es: Personas que buscan empleo en la empresa; el portal enlaza desde riopaila-castilla.com.
+  - Requisitos: Para la única vacante vista no se leyeron requisitos; es un cargo administrativo de selección de personal, no agrícola ni operativo.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto, vacantes rotativas; el 2026-11-23 solo había 1 vacante (Analista de Selección, Atracción del Talento, proceso iniciado el 19/11/2026, sin fecha de cierre)
+  - Como postular: https://riopailacastilla.buk.co/trabaja-con-nosotros
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El 2026-11-23 solo había una vacante, de carácter administrativo (Analista de Selección), sin ubicación ni fecha de cierre.
+  - Aclaracion: Es un portal del empleador en la plataforma Buk; su utilidad para cargos de campo o sin experiencia es baja al 23/11/2026 y sirve sobre todo para vigilar vacantes futuras.
+  - Aclaracion: La página remite también a trabajaconnosotros.riopaila-castilla.com, que no se abrió.
+- **Incauca: Nuestro talento (ingenio azucarero, Cauca y Valle)** (abierta o vigente, verificada 2 veces) https://www.incauca.com/es/nuestro-talento/
+  - Que es: Personas que quieran registrar su hoja de vida para vacantes de la empresa.
+  - Requisitos: No se listan en la página oficial; dependen de cada vacante en el portal. No se vio que se exija experiencia ni título de forma general.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: La página no muestra fecha de cierre ni vacantes concretas; solo el botón de registro de hoja de vida hacia el portal de talento (no verificable por bloqueo 403).
+  - Como postular: https://incauca.talento.cloud/trabajeconnosotros/index.html#home
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial solo ofrece registrar la hoja de vida y consultar vacantes en el portal incauca.talento.cloud; no indica que el registro sea permanente ni lista vacantes, requisitos o fechas.
+  - Aclaracion: El portal de talento respondió HTTP 403 a la lectura automatizada, por lo que las vacantes concretas no se verificaron.
+  - Aclaracion: Sede: Carrera 9ª No. 28-103, Cali; planta en El Ortigal, Miranda (Cauca).
+- **Asocolflores: Trabaje en el sector floricultor** (sin verificar, verificada 1 vez) https://asocolflores.org/
+  - Que es: Personas interesadas en trabajar en fincas floricultoras afiliadas (la ocupación en flores es mayoritariamente de cultivo y poscosecha).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se vio calendario ni convocatoria; la mayor demanda en San Valentín y Día de la Madre es un dato general no visto en la fuente.
+  - Como postular: https://www.facebook.com/cultivamosconorgullofloresdecolombia
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un gremio y no un empleador: las vacantes están en cada empresa floricultora afiliada.
+  - Aclaracion: El sitio no tiene bolsa de empleo; solo enlaza a una página de Facebook cuyo contenido no se verificó y a un formulario de contacto.
+  - Aclaracion: Debe tratarse como orientación y no como canal de postulación verificado.
+- **Asocaña: gremio del sector azucarero (contacto y formación con SENA)** (sin verificar, verificada 1 vez) https://www.asocana.org/
+  - Que es: Personas del Valle del Cauca y zona de influencia interesadas en empleo en cultivo e ingenios de caña; familias de trabajadores del sector.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se vio ninguna convocatoria ni vacante.
+  - Como postular: https://www.asocana.org/publico/Contact.aspx
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un gremio y no un empleador; el sitio no tiene sección de empleo, vacantes ni formación abierta.
+  - Aclaracion: La cifra de unas 35 mil personas formadas con el SENA es un dato histórico, no una oferta abierta.
+  - Aclaracion: Para trabajar en el sector conviene postularse a cada ingenio o consultar al SENA.
+- **Augura: gremio bananero de Urabá (oficina en Carepa)** (sin verificar, verificada 1 vez) https://www.augura.com.co/
+  - Que es: Personas del Urabá antioqueño interesadas en empleo en fincas bananeras.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se vio convocatoria ni vacante; la afirmación de que el banano se produce todo el año no se verificó en la fuente.
+  - Como postular: https://augura.com.co/contacto/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un gremio y no un empleador: la contratación la hacen las fincas y comercializadoras.
+  - Aclaracion: El sitio no tiene sección de empleo ni bolsa de vacantes; ofrece formulario de contacto, correo augura@augura.com.co, teléfono 315 5102981 y oficina en Carepa.
+  - Aclaracion: No se indica si las consultas sobre trabajo en fincas se atienden en esa oficina.
+- **Agencia de Desarrollo Rural (ADR): proyectos productivos y servicios al productor** (sin verificar, verificada 1 vez) https://www.adr.gov.co/
+  - Que es: Productores rurales y asociaciones campesinas que busquen apoyo para proyectos productivos (no es una bolsa de empleo).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se vio ninguna convocatoria abierta a productores; la página de convocatorias (https://www.adr.gov.co/inicio/convocatorias/) solo lista avisos de contratación (obras, interventoría, vigilancia) de 2021 a 2024.
+  - Como postular: https://www.adr.gov.co/atencion-y-servicios-a-la-ciudadania/proyectos-integrales-2/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una fuente de empleo asalariado ni una bolsa de empleo.
+  - Aclaracion: No se confirmó ninguna convocatoria vigente; la página de convocatorias solo lista avisos de contratación de 2021 a 2024.
+  - Aclaracion: Contacto: +57 (601) 748 22 27 y línea gratuita 018000-189889.
+- **Fedecacao: convocatorias para cacaocultores y Cédula Cacaotera** (sin verificar, verificada 1 vez) https://www.fedecacao.com.co/convocatorias-fedecacao
+  - Que es: Cacaocultores y productores de cacao.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página dice 'Consulta las convocatorias vigentes, documentos oficiales, ofertas y formatos requeridos', pero el contenido leído no mostró ninguna convocatoria concreta ni fechas.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no mostró ninguna convocatoria concreta ni fechas.
+  - Aclaracion: No se confirmó la mención de la Cédula Cacaotera en las páginas consultadas.
+  - Aclaracion: Está dirigida a cacaocultores, no a quien busca empleo asalariado.
+  - Aclaracion: Contacto oficial: info@fedecacao.com.co y PBX +57 (601) 327 3000.

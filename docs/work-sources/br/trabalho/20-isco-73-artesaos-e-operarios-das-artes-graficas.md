@@ -1,0 +1,55 @@
+# Grupo 73: Artesãos e operários das artes gráficas
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Valid - Carreira (portal de vagas na Gupy)** (aberta ou vigente, verificada 2 vezes) https://valid.gupy.io/
+  - O que é: Candidatos a vagas na Valid, empresa que se descreve como a número 1 em emissão de CNHs e RGs no Brasil e top 10 global em produção de cartões. A página oficial de carreira (https://www.valid.com/carreira) lista unidades em São Paulo, Rio de Janeiro e uma 'Fábrica' em Sorocaba/SP. Na consulta de 2026-11-23, as 8 vagas do portal eram todas de tecnologia, marketing e segurança, sem nenhuma de produção ou gráfica; havia também um banco de talentos PCD.
+  - Requisitos: Não declarado nas listagens; os cargos vistos (pleno, sênior, coordenação) sugerem experiência prévia. Nenhuma vaga claramente sem exigência de experiência. Cadastro na Gupy necessário para candidatar-se (inferido do funcionamento da plataforma, não visto).
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Caminho de candidatura permanente: portal ativo em 2026-11-23 com 8 resultados (7 vagas e 1 Banco de Talentos); sem prazo informado.
+  - Como se candidatar: https://valid.gupy.io/
+  - Leitura automática possível: sem dados (portal Gupy; formato não verificado)
+  - Esclarecimento: O Banco de Talentos permite cadastro sem vaga específica.
+  - Esclarecimento: As vagas listadas são remotas ou em São Paulo/SP, algumas em modelo híbrido.
+  - Esclarecimento: Nenhuma vaga voltada a quem não tem experiência foi vista na listagem.
+- **PublishNews Empregos (vagas do mercado editorial e de produção gráfica)** (aberta ou vigente, verificada 2 vezes) https://www.publishnews.com.br/empregos/
+  - O que é: Quem busca vaga em editoras, livrarias e gráficas do mercado do livro. A página tem filtro 'Produção Gráfica', mas na consulta de 2026-11-23 nenhuma das cerca de 23 vagas estava nessa categoria; havia sobretudo vagas de logística, vendas, editorial e estágio, em sua maioria em São Paulo. Uma vaga arquivada de 28/01/2025 foi de produtor gráfico na Ipsis Gráfica e Editora (nível pleno ou sênior).
+  - Requisitos: Varia por vaga; não consta na listagem. Há funções de entrada (auxiliar de logística, estágio) mas a exigência de experiência não foi vista.
+  - Pagamento ou benefício: Raro na listagem: auxiliar de logística R$ 2.112,00 (Martins Fontes) e R$ 2.500 a 3.000 (Parábola); demais 'a combinar', fixo + variável ou não informado.
+  - Prazo ou ciclo: Fluxo contínuo: 23 vagas publicadas entre 14/09/2026 e 16/11/2026, sem prazo geral.
+  - Como se candidatar: https://www.publishnews.com.br/empregos/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A publicação de vagas é gratuita e toda vaga passa por análise da redação antes de ir ao ar.
+  - Esclarecimento: As 23 vagas têm datas de 14/09/2026 a 16/11/2026; o intervalo de 24/10/2026 a 16/11/2026 corresponde apenas ao bloco 'Novas (últimos 30 dias)'.
+  - Esclarecimento: Não há prazo geral, e a candidatura é feita na página de cada vaga.
+- **BNE - vagas de trabalhador da impressão gráfica (listagem por ocupação)** (aberta ou vigente, verificada 2 vezes) https://www.bne.com.br/vagas-de-emprego-para-trabalhador-da-impressao-grafica
+  - O que é: Candidatos a operador e auxiliar de impressão e serigrafia em todo o país. A página mostrava 209 vagas da ocupação e 17.190 no setor gráfico. Exemplos vistos em 2026-11-23: Operador de Impressão Digital (Rio de Janeiro/RJ), Impressor Máquina GTO (Pinhais/PR), Auxiliar de Impressão (Jundiaí/SP, Curitiba/PR, Manaus/AM, Atibaia e Campinas/SP) e Auxiliar de Serigrafia (Apucarana/PR, Formiga/MG).
+  - Requisitos: Cadastro e currículo no BNE para candidatar-se (login), ou contato por WhatsApp em algumas vagas. Vários cargos de entrada (auxiliar); exigência de experiência não vista.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Raro na listagem: Operador de Impressão Digital R$ 1.900 a R$ 2.000 (RH Franquia); demais não informados.
+  - Prazo ou ciclo: Fluxo contínuo: 209 vagas listadas (10 páginas) em 2026-11-23, sem datas de publicação visíveis; a alegação de renovação diária não foi confirmada.
+  - Como se candidatar: https://www.bne.com.br/vagas-de-emprego-para-trabalhador-da-impressao-grafica
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O portal reúne anúncios de várias empresas e de terceiros, com empresas 'Confidencial', textos repetidos entre anúncios e um anúncio cujo título não combina com a descrição; recomenda-se cautela.
+  - Esclarecimento: A candidatura exige login de candidato e currículo, e algumas vagas aceitam candidatura por WhatsApp.
+  - Esclarecimento: Algumas vagas são exclusivas para assinantes VIP, enquanto vagas patrocinadas aceitam candidatura gratuita.
+- **SENAI-SP: cursos livres de Gráfica e Editorial (Escola da Mooca)** (não verificada, verificada 1 vez) https://www.sp.senai.br/cursos/cursos-livres/design-grafico-papel-celulose-grafica-e-editorial
+  - O que é: Pessoas que querem aprender ou se aperfeiçoar em operação de máquinas gráficas na capital paulista. Na consulta de 2026-11-23 a página listava seis cursos, todos na unidade São Paulo - Mooca (Rua Bresser, 2315): Impressor de Corte e Vinco Automático (80 h), Operador de Dobradeira para a área gráfica (28 h), Impressor Flexográfico Banda Estreita (160 h), Operador de Guilhotina Linear para a área gráfica (28 h), Impressão offset em máquina quatro cores (60 h) e Fechamento de Arquivo (24 h).
+  - Requisitos: sem dados. Idade e escolaridade não constam na página vista. Cursos livres costumam ter pré-requisitos variáveis por curso (não confirmado aqui).
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados. A página tem filtro 'Gratuitos', mas não indica quais cursos são gratuitos; nenhum preço visto.
+  - Prazo ou ciclo: sem dados. A página lista 19 cursos livres (10 vistos na primeira página), mas as turmas e datas ficam em 'Ver turmas' e não foram vistas. Fotografia Digital (São Caetano do Sul) traz 'Declarar interesse para as próximas turmas', o que indica ausência de turma aberta naquele curso.
+  - Como se candidatar: https://www.sp.senai.br/cursos/cursos-livres/design-grafico-papel-celulose-grafica-e-editorial
+  - Leitura automática possível: sem dados (página HTML; sem API vista)
+  - Esclarecimento: As turmas e datas ficam em 'Ver turmas', e não há confirmação de turmas ao longo do ano.
+  - Esclarecimento: Os cursos listados são presenciais, na unidade São Paulo - Mooca (Rua Bresser, 2315).
+- **Casa da Moeda do Brasil - Trabalhe Conosco (concursos, Jovem Aprendiz e processos seletivos)** (não verificada, verificada 1 vez) https://www.casadamoeda.gov.br/portal/a-empresa/trabalhe-conosco.html
+  - O que é: Quem quer trabalhar na fabricação de produtos de segurança impressos e cunhados da Casa da Moeda. A página lista quatro canais: Concursos, Programa Jovem Aprendiz (com página de editais anteriores), Processo Seletivo para o COAUD e Processo Seletivo de Livre Provimento.
+  - Requisitos: Não informado nas páginas gerais; constam em cada edital. Concurso 2023: níveis médio (Técnico de Segurança) e superior (Analista de Produção, Designer de Valores/Gravador). Inscrição em concursos via site da Fundação Cesgranrio. Experiência exigida: sem dados.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Sem edital aberto visto em 2026-11-23. A única seleção listada como 'em andamento' é o Concurso 2023 (Edital 01/2023, banca Cesgranrio), já com admissões em 2025; sem indício de novo concurso. Jovem Aprendiz e processos seletivos (COAUD, Livre Provimento) têm editais próprios, só 'editais anteriores' listados.
+  - Como se candidatar: https://www.casadamoeda.gov.br/portal/a-empresa/trabalhe-conosco/concursos.html
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não há confirmação de ciclo anual nem de prazo futuro, por isso não é classificado como aberto nem recorrente.
+  - Esclarecimento: O Jovem Aprendiz dá prioridade a jovens de Itaguaí/RJ e região.

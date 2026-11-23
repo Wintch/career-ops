@@ -1,0 +1,92 @@
+# Atencion al cliente, administracion y call centers
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Foundever México: vacantes de atención al cliente (Ciudad de México, Tlalnepantla, Monterrey, Puebla, Guadalajara)** (abierta o vigente, verificada 2 veces) https://jobs.foundever.com/go/Mexico-Locations/9247500/
+  - Que es: Cualquier persona interesada en atención al cliente, ventas telefónicas o puestos bilingües; incluye vacantes presenciales y de trabajo desde casa (Puebla y Guadalajara).
+  - Requisitos: No se publican requisitos en el listado. La página de proceso solo menciona CV si el puesto lo pide, aceptar el aviso de privacidad y aprobar la evaluación en línea. Para los puestos bilingües se entiende inglés, pero el nivel no se vio. No se vio que se pida experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Se vieron 7 vacantes publicadas entre el 5 y el 22 de noviembre de 2026; sin fecha de cierre.
+  - Como postular: https://jobs.foundever.com/content/How-to-Apply/
+  - Lectura automatica posible: Portal SuccessFactors con búsqueda por país (jobs.foundever.com/search/?q=&locationsearch=Mexico); no se verificó una API ni un feed.
+  - Aclaracion: Todas las vacantes vistas figuran con ubicación Ciudad de México (sedes Chapultepec y Tlalnepantla); no se vieron vacantes de Monterrey, Puebla ni Guadalajara, por lo que esas ciudades no quedan verificadas.
+  - Aclaracion: El proceso incluye postularse con «Apply Now», una evaluación de habilidades en línea (el correo llega de @makipeople.com o @foundever.com) y una entrevista con reclutador.
+  - Aclaracion: El nivel de inglés de los puestos bilingües no se especifica.
+- **Atento México: trabaja con nosotros (servicio al cliente, soporte técnico, ventas y bilingües)** (abierta o vigente, verificada 2 veces) https://www.atento.com/es/trabaja-con-nosotros-mexico/
+  - Que es: Personas que buscan atención al cliente, soporte técnico, ventas con comisiones o puestos bilingües, con jornada completa o de 6 o 7 horas.
+  - Requisitos: No se enumeran requisitos específicos en la página. Solo se vieron los datos del formulario (CV, idioma y nivel). No se vio que se exija experiencia ni título.
+  - Pago o beneficio: sin datos. No se publica sueldo; sí se anuncian prestaciones (aguinaldo de 20 días, bono de cuesta de enero).
+  - Plazo o ciclo: Abierto todo el año. No se vieron fechas; la página muestra 4 áreas con botón 'Aplicar' y un formulario general.
+  - Como postular: https://www.atento.com/es/trabaja-con-nosotros-mexico/#apply
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no muestra una lista de ciudades: solo se indica México y el estado en el formulario.
+  - Aclaracion: El formulario pide nombre, teléfono, correo, país y estado, idioma y nivel, área de interés y CV adjunto.
+  - Aclaracion: No se confirmó de forma textual que Atento contacte a las personas cuando surge una vacante.
+- **Alorica Latinoamérica: reclutamiento en Guadalajara, León y Puebla** (abierta o vigente, verificada 2 veces) https://recruit-latam.alorica.com/gdl-career
+  - Que es: Personas con inglés fluido que buscan trabajo de agente de contact center en Guadalajara, León o Puebla.
+  - Requisitos: Tres requisitos publicados: identificación oficial nacional, inglés fluido y preparatoria terminada. No se indicó edad mínima ni experiencia previa. Por lo tanto, es una opción para quien no tiene experiencia laboral pero sí domina el inglés.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos. Se mencionan incentivos por desempeño sin montos.
+  - Plazo o ciclo: Sin fechas ni vacantes concretas; solo aviso © 2023 Alorica, Inc.
+  - Como postular: https://recruit-latam.alorica.com/gdl-career
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página consultada corresponde solo a Guadalajara; no se confirmó que cubra León ni Puebla, que habría que revisar en sus páginas propias.
+  - Aclaracion: El único año visible es el aviso de derechos de autor de 2023, por lo que no hay evidencia de vigencia reciente.
+  - Aclaracion: No se nombran puestos concretos; se menciona «agentes» como punto de partida.
+- **TP (Teleperformance) México: Carreras** (sin verificar, verificada 1 vez) https://www.tp.com/es-mx/ubicaciones/mexico/carreras/
+  - Que es: Personas interesadas en atención al cliente y soporte, presencial o desde casa; la página dice que TP opera en México desde 1996 con más de 20,000 personas.
+  - Requisitos: sin datos. No se vieron requisitos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se cargó ninguna vacante ni fecha.
+  - Como postular: https://www.tp.com/careers/job-opportunities/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se mostró ninguna vacante, por lo que no se pudo confirmar una vacante abierta ni la ruta exacta de postulación.
+  - Aclaracion: TP indica que sus reclutadores solo escriben desde correos @Teleperformance.com, no usan Telegram y nunca piden pagos.
+- **Concentrix: portal de empleos con filtro México** (sin verificar, verificada 1 vez) https://jobs.concentrix.com/es/
+  - Que es: Personas que buscan atención al cliente, soporte, ventas, operaciones o capacitación y calidad en México (la página tiene versión en español).
+  - Requisitos: sin datos. No se vieron requisitos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. Los listados no se cargaron ('Loading jobs...', 'Postularse (0)').
+  - Como postular: https://jobs.concentrix.com/es/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los listados no cargaron, por lo que no se pudo confirmar una ruta de postulación abierta ni su vigencia.
+  - Aclaracion: El portal permite filtrar por país y México aparece como opción.
+  - Aclaracion: Incluye un aviso de alerta de fraude en la contratación.
+- **TELUS Digital: empleos de Experiencia del Cliente** (sin verificar, verificada 1 vez) https://www.telusdigital.com/careers
+  - Que es: Personas que buscan atención al cliente, soporte técnico y contact center; la página de carreras también ofrece líneas de Soluciones Digitales y Comunidad de IA.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://jobs.telusdigital.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se confirmó ninguna vacante, fecha ni requisito para México.
+  - Aclaracion: El portal es el destino al que enlaza la página oficial de TELUS Digital para «Experiencia del Cliente».
+- **TTEC: portal de empleos (servicio al cliente)** (sin verificar, verificada 1 vez) https://www.ttecjobs.com/
+  - Que es: Personas que buscan atención al cliente, ventas, trabajo desde casa o tecnología; la página no confirma si incluye vacantes en México.
+  - Requisitos: sin datos (la página no indica requisitos)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (ruta de postulación continua: búsqueda de empleos y comunidad de talento; sin vacantes visibles)
+  - Como postular: https://www.ttecjobs.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no menciona México ni lista vacantes; para ver puestos en México habría que buscar «Mexico» en «All Jobs».
+  - Aclaracion: Ofrece búsqueda por palabra clave y ubicación, comunidad de talento y un aviso contra fraudes.
+- **Konecta: Join us (selector de país)** (sin verificar, verificada 1 vez) https://konecta.com/join-us
+  - Que es: Personas que buscan trabajo en contact center; la página dice que Konecta opera en 28 países y menciona horarios flexibles y trabajo remoto.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://konecta.com/join-us
+  - Lectura automatica posible: sin datos
+  - Aclaracion: México aparece en el selector de país, pero no se vio enlace de postulación, vacantes ni página específica para México.
+  - Aclaracion: Existe una versión en español en la ruta /es/.
+- **Amazon México: empleos por ubicación (Ciudad de México)** (sin verificar, verificada 1 vez) https://atoz.amazon/en-us/jobs/locations/mexico/mexico-city
+  - Que es: Personas interesadas en empleos de Amazon en la Ciudad de México; la página no detalla puestos de servicio al cliente ni administrativos.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://atoz.amazon/en-us/jobs/locations/mexico/mexico-city
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página cargó solo con encabezado y navegación, sin vacantes, requisitos ni pago.
+  - Aclaracion: El dominio atoz.amazon corresponde al portal de Amazon para puestos operativos, pero no se pudo confirmar su contenido.
+  - Aclaracion: No se encontró una URL oficial alternativa verificada en amazon.jobs.

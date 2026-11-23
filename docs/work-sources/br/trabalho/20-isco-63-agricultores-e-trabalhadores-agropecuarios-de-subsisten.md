@@ -1,0 +1,78 @@
+# Grupo 63: Agricultores e trabalhadores agropecuários de subsistência
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **CAF - Cadastro Nacional da Agricultura Familiar (inscrição, serviço gov.br)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/pt-br/servicos/cadastrar-se-no-caf-cadastro-nacional-da-agricultura-familiar
+  - O que é: Agricultores familiares, pescadores artesanais, aquicultores, silvicultores, extrativistas, quilombolas, assentados da reforma agrária e beneficiários do crédito fundiário, além de cooperativas e associações da agricultura familiar. Segundo a página, o CAF substituiu a antiga DAP e é a porta de entrada para as políticas públicas do setor (crédito, seguro, compras públicas).
+  - Requisitos: Agricultor familiar, pescador artesanal, aquicultor, silvicultor, extrativista, quilombola, assentado da reforma agrária, beneficiário do PNCF, cooperativas e associações. Unidade familiar com até 4 módulos fiscais, mão de obra predominantemente familiar, gestão por familiares e renda da propriedade igual ou maior que a de atividades externas (povos indígenas, quilombolas e comunidades tradicionais ficam isentos do limite de módulos). Documentos: CPF de todos os membros com 16 anos ou mais, comprovante de posse ou propriedade da terra, comprovante de renda (admite autodeclaração), documento de identidade e comprovante de residência. Não exige experiência profissional nem diploma.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Gratuito para o cidadão (não é emprego nem remuneração; é cadastro que dá acesso a políticas públicas).
+  - Prazo ou ciclo: Atendimento contínuo, sem janela de inscrição. Validade do CAF: 3 anos. Página atualizada em 15/12/2025.
+  - Como se candidatar: https://www.gov.br/pt-br/servicos/cadastrar-se-no-caf-cadastro-nacional-da-agricultura-familiar
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A inscrição é somente presencial, em entidade cadastradora da Rede CAF no município.
+  - Esclarecimento: O botão 'Iniciar' leva à página geral do MDA, e não a um formulário direto.
+  - Esclarecimento: O CAF substituiu a antiga DAP; a página não afirma expressamente atendimento contínuo.
+- **Pronaf - crédito para a agricultura familiar (serviço gov.br)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/pt-br/servicos/acessar-o-programa-nacional-de-fortalecimento-da-agricultura-familiar-pronaf
+  - O que é: Agricultores e agricultoras familiares, produtores rurais familiares e cooperativas da agricultura familiar que precisam de financiamento para custeio da safra, compra de animais ou investimento na propriedade.
+  - Requisitos: Agricultor familiar, produtor rural familiar ou cooperativa da agricultura familiar, enquadrado na Lei 11.326/2006, com CAF ativo. Documentos comuns: CAF, Cadastro Ambiental Rural (CAR, quando aplicável), documentos pessoais, documento de posse ou propriedade da terra. O banco costuma pedir RG/CNH, CPF, comprovante de residência e projeto técnico ou proposta de financiamento. Não exige experiência profissional nem diploma, mas exige atividade como agricultor familiar.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Crédito (financiamento) com juros subsidiados; a página não informa valores máximos nem taxas. Serviço gratuito para o cidadão.
+  - Prazo ou ciclo: Atendimento contínuo; condições seguem o Plano Safra de cada ano (página cita a Safra 2026/2027, atualizada em 21/09/2026). A página não informa prazo de encerramento das contratações.
+  - Como se candidatar: https://www.gov.br/pt-br/servicos/acessar-o-programa-nacional-de-fortalecimento-da-agricultura-familiar-pronaf
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É crédito, não emprego.
+  - Esclarecimento: Exige CAF ativo, e o crédito é contratado em banco ou cooperativa autorizados, com projeto técnico elaborado por órgão de ATER.
+  - Esclarecimento: A página não menciona expressamente atendimento contínuo.
+- **RGP - Registro Geral da Atividade Pesqueira, pescador e pescadora profissional (sistema PesqBrasil)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/mpa/pt-br/assuntos/cadastro-registro-e-monitoramento/pescador-e-pescadora-profissional
+  - O que é: Pescadores e pescadoras profissionais artesanais que precisam do registro e da licença para exercer a atividade e acessar benefícios como o seguro defeso e o crédito.
+  - Requisitos: Pescador profissional artesanal ou industrial. Acesso por login gov.br nível Prata ou Ouro. Modelos de documentos na página: declaração de residência, declaração de filiação (inclusive versão para quem não lê nem escreve) e formulários de cancelamento de licença. Não exige diploma; a página não detalha tempo mínimo de experiência (não visto).
+  - Pagamento ou benefício: Gratuito (a página indica gratuidade do serviço). Não é emprego nem remuneração; é registro profissional.
+  - Prazo ou ciclo: Atendimento contínuo pelo sistema PesqBrasil. Prazo de 31/12/2026 para entregar manutenções da licença pendentes de 2021, 2022, 2023 e 2024. A página não mostra data de atualização; o item mais recente listado é a Portaria MPA nº 743, de 14/08/2026.
+  - Como se candidatar: https://pesqbrasil-pescadorprofissional.mpa.gov.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não é emprego, e sim registro profissional.
+  - Esclarecimento: A página não informa data de atualização nem afirma expressamente atendimento contínuo.
+- **SisRGP 4.0 e serviços do pescador profissional (cancelamento de licença, alteração cadastral e recursos)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/pt-br/servicos/solicitar-o-cancelamento-da-licenca-de-pescador-profissional-no-registro-geral-da-atividade-pesqueira-rgp
+  - O que é: Pescadores profissionais artesanais ou industriais com licença deferida e ativa no SisRGP 4.0. A página trata do cancelamento da licença e lista serviços relacionados (alteração cadastral, reemissão de parcelas do Seguro Defeso, recurso contra suspensão de licença).
+  - Requisitos: Pescador profissional artesanal ou industrial com licença em situação DEFERIDA/ATIVA emitida no SisRGP 4.0, e conta gov.br nível Bronze, Prata ou Ouro. A página não lista outros documentos. Não exige experiência nem diploma para o pedido de cancelamento.
+  - Pagamento ou benefício: Gratuito para o cidadão. Não é emprego.
+  - Prazo ou ciclo: Página atualizada em 15/12/2025. Tempo estimado de atendimento: 'Não estimado ainda'. Sem prazo de inscrição.
+  - Como se candidatar: https://sistemasweb.agricultura.gov.br/sap-sisrgp/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página trata apenas do cancelamento da licença; alteração cadastral e recursos não aparecem nela.
+  - Esclarecimento: É serviço de pós-registro, não de entrada, e parcialmente redundante com o RGP/PesqBrasil.
+- **CAF na Bahia - BAHIATER (unidades SETAF nos Territórios de Identidade)** (aberta ou vigente, verificada 2 vezes) https://www.ba.gov.br/sdr/cadastro-nacional-da-agricultura-familiar-caf
+  - O que é: Agricultores e empreendedores familiares, silvicultores, extrativistas, pescadores artesanais e maricultores, aquicultores, povos indígenas, quilombolas e demais comunidades tradicionais, cooperativas e associações rurais, assentados e beneficiários do Terra Brasil.
+  - Requisitos: Agricultor e empreendedor familiar, silvicultor, aquicultor, extrativista, pescador artesanal, maricultor, povos indígenas, quilombolas, demais povos e comunidades tradicionais, grupos associativos, assentados do PNRA e beneficiários do Terra Brasil. A página não lista documentos nem prazos (os documentos exigidos constam na página federal do CAF). Não exige experiência nem diploma.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Gratuito (inscrição sem custo). Não é emprego.
+  - Prazo ou ciclo: Atendimento contínuo. Publicada em 11/07/2025; última atualização vista: 16/10/2026.
+  - Como se candidatar: https://www.ba.gov.br/sdr/cadastro-nacional-da-agricultura-familiar-caf
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Duplica em parte o CAF federal, com recorte estadual para quem vive na Bahia.
+  - Esclarecimento: Os endereços das unidades SETAF não aparecem na página, e os documentos exigidos constam na página federal do CAF.
+  - Esclarecimento: A página não menciona expressamente atendimento contínuo.
+- **Garantia-Safra - seguro para agricultores familiares do semiárido (serviço gov.br)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/pt-br/servicos/acessar-o-beneficio-garantia-safra
+  - O que é: Agricultores familiares com CAF ativo em municípios dos estados que aderiram ao programa (AL, AM, BA, CE, MA, MG, PB, PE, PI, RN e SE), com renda bruta familiar de até 1,5 salário mínimo, que plantam de 0,6 a 5 hectares de feijão, milho, arroz, mandioca ou algodão.
+  - Requisitos: Agricultor familiar com CAF ativo e atualizado, residente em município de AL, AM, BA, CE, MA, MG, PB, PE, PI, RN ou SE; renda familiar bruta mensal de até 1,5 salário mínimo (média dos últimos 12 meses); plantio de 0,6 a 5 hectares de feijão, milho, arroz, mandioca ou algodão; propriedade de até 4 módulos fiscais. Documentos: RG ou CNH, CPF, número do CAF. Não exige experiência profissional nem diploma.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Benefício de R$ 1.200,00 por adesão, em parcela única, pago principalmente pelo app CAIXA Tem (calendário do Bolsa Família), quando há perda comprovada de safra. Taxa de adesão do agricultor: R$ 24,00.
+  - Prazo ou ciclo: Safra anual; a página (atualizada em 26/08/2026) tem a etapa 'Inscrição no Garantia-Safra/Safra 2026/2027', mas não informa datas nem prazo de inscrição. Retirada do benefício por 120 dias após a liberação.
+  - Como se candidatar: https://sggs.mda.gov.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É seguro agrícola, não emprego.
+  - Esclarecimento: A adesão é feita pela entidade que fez o CAF ou em sggs.mda.gov.br com login gov.br (Bronze, Prata ou Ouro), apenas pelo representante da unidade familiar no CAF.
+  - Esclarecimento: Depois da adesão há seleção automática, aprovação pelo conselho municipal, pagamento do boleto, vistoria de campo e avaliação de perdas.
+- **Garantia-Safra em Minas Gerais (adesão via prefeitura e Emater-MG)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.mg.gov.br/servico/aderir-ao-seguro-social-do-programa-garantia-safra-para-os-agricultores-familiares
+  - O que é: Agricultores familiares de municípios mineiros da área da Sudene que aderiram ao programa.
+  - Requisitos: Agricultor familiar nos termos do Pronaf, renda familiar mensal de até 1,5 salário mínimo, área de até 4 módulos fiscais, 0,6 a 5 hectares plantados com feijão, milho, arroz, mandioca ou algodão. Documento: DAP ativa ou CAF. A prefeitura precisa aderir ao programa (prioridade para municípios da área da Sudene). Não exige experiência profissional nem diploma.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Benefício de R$ 1.200,00 por agricultor inscrito em caso de perda de produção comprovada, pago em média cerca de 1 ano após a adesão, sem calendário fixo. Contribuição do agricultor: R$ 24,00; da prefeitura: R$ 72,00 por inscrito.
+  - Prazo ou ciclo: Ano do programa de julho a junho; o Comitê Gestor se reúne em julho, após a abertura do Plano Safra. Página atualizada em 10/07/2025 (não reconfirmada para 2026). Datas exatas de adesão não constam.
+  - Como se candidatar: https://www.mg.gov.br/servico/aderir-ao-seguro-social-do-programa-garantia-safra-para-os-agricultores-familiares
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É seguro agrícola, não emprego.
+  - Esclarecimento: A inscrição é presencial na prefeitura ou em escritório local da Emater-MG, e a prefeitura precisa aderir ao programa.
+  - Esclarecimento: A página cita DAP, em 23/11/2026 substituída pelo CAF, e não foi reconfirmada para 2026.

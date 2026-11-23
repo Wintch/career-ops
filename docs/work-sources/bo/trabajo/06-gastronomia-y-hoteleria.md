@@ -1,0 +1,59 @@
+# Gastronomia y hoteleria
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **LinkedIn Bolivia, empleos de hoteleria y gastronomia (listados por busqueda)** (abierta o vigente, verificada 2 veces) https://bo.linkedin.com/jobs/hospitality-empleos
+  - Que es: Personas que buscan trabajo en hoteleria, catering y servicios en Bolivia. Visto el 2026-11-23: unos 77 avisos para la busqueda hospitality, con ofertas en La Paz, Santa Cruz, Cochabamba y Uyuni.
+  - Requisitos: Varían según el aviso y no se mostraron en el listado; requiere cuenta de LinkedIn. Algunos cargos de entrada (recepcionista) existen, pero la experiencia exigida no se vio.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto de forma continua; 74 empleos de Hospitality en Bolivia el 2026-11-23, con avisos de hace 3 días a hace 2 meses (por ejemplo, Ejecutivo(a) de Ventas rubro hotelero hace 3 días, Jefe de turno hace 5 días, Chef hace 2 meses).
+  - Como postular: https://bo.linkedin.com/jobs/hospitality-empleos
+  - Lectura automatica posible: Ninguna API publica verificada; solo paginas HTML.
+  - Aclaracion: Es un agregador: lo adecuado es confirmar el aviso en la página del empleador antes de postular.
+  - Aclaracion: Ejemplos vistos: Ejecutivo(a) de Ventas (rubro hotelero), MERINCO S.A., La Paz; Gerente de Catering y Chef, Newrest, Uyuni; Jefe de turno, PedidosYa, Cochabamba; Guest Relations Officer, Celebrity Cruises, Santa Cruz; Recepcionista, QUAN, Santa Cruz.
+  - Aclaracion: Algunos avisos son antiguos (uno de hace 8 meses), varios resultados no son de hotelería (asistente virtual, mensajería) y la cantidad de empleos varía con el tiempo (una lectura posterior mostró 74).
+  - Aclaracion: La página pide iniciar sesión para ver más resultados; conviene desconfiar de avisos que pidan dinero o datos bancarios.
+- **Newrest Bolivia, catering en Uyuni (Chef, Gerente de Catering, Nutricionista)** (abierta o vigente, verificada 2 veces) https://bo.linkedin.com/jobs/newrest-jobs
+  - Que es: Personal de cocina, catering y gestion de alimentacion para un sitio en Uyuni, Potosi (aviso 'Gerente de Sitio MSC'). Tambien aparecen cargos administrativos en Santa Cruz (Jefe de Compras, Jefe Contable).
+  - Requisitos: No visibles en el listado; en cada aviso (requiere LinkedIn). Los cargos vistos (gerencia, chef, nutricionista dietista, jefe de almacén) implican experiencia y, en algunos casos, formación profesional.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Avisos publicados en LinkedIn, sin fecha límite visible: Jefe de Almacén hace 1 semana, Gerente de Catering hace 2 semanas (y otro hace 1 mes), Nutricionista Dietista hace 3 semanas, Chef hace 2 meses, Gerente de Sitio MSC hace 4 meses.
+  - Como postular: https://bo.linkedin.com/jobs/newrest-jobs
+  - Lectura automatica posible: Ninguna verificada.
+  - Aclaracion: Se vieron seis avisos de Newrest en Uyuni, Potosí (catering para operación minera/industrial), además de un duplicado; los más antiguos (Gerente de Sitio MSC, Chef) pueden estar ya cubiertos o caducados.
+  - Aclaracion: Los requisitos y la forma de postular están en cada aviso, que exige sesión de LinkedIn; el listado no los muestra.
+  - Aclaracion: Se recomienda confirmar en el sitio oficial de Newrest; los cargos son de nivel gerencial o profesional, no de primer empleo.
+  - Aclaracion: Conviene desconfiar de cobros por contratación.
+- **Hotel Presidente La Paz (contacto institucional)** (sin verificar, verificada 1 vez) https://www.hotelpresidente.com.bo/contacto/
+  - Que es: Postulantes interesados en trabajar en un hotel de La Paz (Calle Potosi 920).
+  - Requisitos: No indicados.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: mailto:contacto@hotelpresidente.com.bo (solo contacto general; no confirmado como canal de postulación)
+  - Lectura automatica posible: Ninguna.
+  - Aclaracion: La página es oficial ('Contacto | Hotel Presidente - La Paz, Bolivia'), pero no tiene sección de empleo ni vía de CV.
+  - Aclaracion: Datos de contacto: +591 2 2406666; contacto@hotelpresidente.com.bo (general), reservas@hotelpresidente.com.bo y nestevez@hotelpresidente.com.bo (eventos); Calle Potosí 920, La Paz.
+  - Aclaracion: El correo general podría servir para consultar, pero no se confirmó como canal de postulación; verificar siempre por canales oficiales.
+- **Hotel Los Tajibos, Santa Cruz (sitio oficial)** (sin verificar, verificada 1 vez) https://www.lostajiboshotel.com/
+  - Que es: Postulantes interesados en un hotel de categoria alta en Santa Cruz de la Sierra.
+  - Requisitos: No indicados.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos (el teléfono (591-3) 342-1000 es solo contacto general)
+  - Lectura automatica posible: Ninguna.
+  - Aclaracion: El sitio oficial no tiene sección de empleo, 'Trabaja con nosotros' ni correo de recursos humanos.
+  - Aclaracion: Solo se vieron correos de ventas (ventas_mail@lostajiboshotel.com), restaurantes (callcenter@lostajiboshotel.com) y eventos (eventos@lostajiboshotel.com), el teléfono (591-3) 342-1000 y un enlace de WhatsApp.
+  - Aclaracion: Esos correos no son de selección de personal y no hay vía de postulación confirmada.
+- **CAINCO Acierta, servicios de talento humano (Santa Cruz)** (sin verificar, verificada 1 vez) https://acierta.cainco.org.bo
+  - Que es: Es un servicio para empresas (reclutamiento y seleccion, evaluaciones psicotecnicas), no una bolsa de empleo abierta a postulantes.
+  - Requisitos: sin datos (no hay convocatoria de postulantes)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un servicio empresarial de CAINCO (consultoría económica, consultoría empresarial, talento humano, protocolos de empresas familiares); la sección de Talento Humano describe reclutamiento y selección para empresas clientes.
+  - Aclaracion: No hay vacantes ni formulario para postulantes, y no se confirmó que sirva como ruta de postulación.
+  - Aclaracion: Contacto en la página: Av. Las Américas N° 7, piso 9, Santa Cruz; tel. +591 33383334; WhatsApp +591 77024203; lunes a viernes 8:30-13:00 y 14:00-17:30.
+  - Aclaracion: Se podría consultar por esos canales si hay bolsa de candidatos, pero la página no lo dice.

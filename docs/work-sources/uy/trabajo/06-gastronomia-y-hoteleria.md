@@ -1,0 +1,92 @@
+# Gastronomia y hoteleria
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **BuscoJobs Uruguay: avisos de gastronomía y hotelería** (abierta o vigente, verificada 2 veces) https://www.buscojobs.com.uy
+  - Que es: Cualquier persona que busque trabajo en Uruguay. Concentra avisos de hoteles, panaderías, comida rápida y mozos eventuales en Montevideo, Maldonado y Punta del Este.
+  - Requisitos: Varía por aviso. El sitio invita a registrarse y crear un perfil completo antes de postularse; no se confirmó si el registro es obligatorio en todos los casos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: 2.092 ofertas de empleo en el sitio. Avisos de gastronomía y hotelería vistos: Mucama temporada 2026-2027 (Maldonado), Auxiliar de Elaboración Panadería y Confitería (Maldonado, hace 2 días), Ayudante de Cocina (Aguada, hace 4 días), Supervisor/a Pastelero (Hyatt Centric, hace 4 días), Auxiliar de servicio y cocina (Belvedere, hace 25 días), Cadete y recepción para hotel (José Ignacio, hace 2 meses).
+  - Como postular: https://www.buscojobs.com.uy
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El total de ofertas vistas el 2026-11-23 fue de 2.092 (no 2.071), con antigüedades que incluyen 'hace 2 días' y 'hace 4 días'.
+  - Aclaracion: 'Gastronomía y hotelería' no es una categoría propia de la portada; los avisos de cocina y hotelería aparecen mezclados y se encuentran buscando por palabra clave.
+  - Aclaracion: Es un portal agregador de avisos de empresas y agencias, y muchos empleadores figuran como confidenciales.
+  - Aclaracion: Avisos vistos: ayudante de cocina (Aguada), supervisor/a pastelero (Hyatt Centric), mozos eventuales con manejo de cafetera, auxiliar de servicio y cocina (Mostaza, Belvedere) y cadete/recepción para hotel (José Ignacio).
+- **Ayudante de cocina, panadería y pastelería (Aguada, Montevideo), 3 vacantes** (abierta o vigente, verificada 2 veces) https://www.buscojobs.com.uy/ayudante-de-cocina-panaderia-y-pasteleria-aguada-en-aguada-ID-278993
+  - Que es: Personas sin experiencia con interés en cocina, panadería y pastelería.
+  - Requisitos: No se exige experiencia previa (se valora). Estudio mínimo: primaria completa. Se valora haber estudiado gastronomía, pastelería, panadería o UTU Gastronomía. Capacidad de seguir recetas, trabajo en equipo, puntualidad y disposición para trabajar de pie.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fecha de cierre. El aviso figuraba en la portada de BuscoJobs publicado hace 4 días al 2026-11-23; la página del aviso no muestra fecha ni estado explícito.
+  - Como postular: https://www.buscojobs.com.uy/ayudante-de-cocina-panaderia-y-pasteleria-aguada-en-aguada-ID-278993
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El empleador es confidencial (no se nombra).
+  - Aclaracion: Son 3 vacantes de jornada completa de 8 horas, de lunes a viernes, en turno mañana (8:00 a 16:00) o tarde (15:00 a 23:00), en Aguada, Montevideo.
+  - Aclaracion: La página no incluye instrucciones de postulación propias; esta se hace desde BuscoJobs.
+- **Mostaza: auxiliar de servicio y cocina (Belvedere, Montevideo), 25 vacantes** (sin verificar, verificada 1 vez) https://www.buscojobs.com.uy/auxiliar-de-servicio-y-cocina-en-belvedere-ID-278112
+  - Que es: Jóvenes de 18 a 22 años, incluidas personas en su primer empleo, que vivan cerca de Paso Molino.
+  - Requisitos: Edad 18 a 22 años (según el aviso), secundaria incompleta como mínimo, carné de salud vigente y carné de manipulación de alimentos de la IMM, vivir cerca de Paso Molino, disponibilidad inmediata. No se indica experiencia previa obligatoria; se mencionan cocina y atención al cliente como habilidades.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fecha de cierre ni de publicación en la página del aviso. En el listado de la portada figuraba publicado hace unos 25 días, y la página no muestra aviso de cierre, pero tampoco confirma que siga abierto.
+  - Como postular: https://www.buscojobs.com.uy/auxiliar-de-servicio-y-cocina-en-belvedere-ID-278112
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página del aviso no nombra a Mostaza (dice 'empresa de comida rápida muy reconocida en Uruguay'); el nombre y Belvedere aparecen solo en el listado de la portada.
+  - Aclaracion: El aviso no incluye instrucciones de postulación; esta se hace desde BuscoJobs.
+  - Aclaracion: El límite de edad (18 a 22 años) puede tener un efecto discriminatorio.
+  - Aclaracion: Se trata de 25 vacantes de jornada completa con turnos rotativos y horarios flexibles para estudiantes.
+- **Mozos eventuales con manejo de cafetera (hoteles y entes públicos, Montevideo), 15 vacantes** (sin verificar, verificada 1 vez) https://www.buscojobs.com.uy/mozos-eventuales-con-manejo-de-cafetera-montevideo-en-montevideo-ID-276748
+  - Que es: Personas con experiencia en servicio de salón y máquinas de café, para trabajo eventual en hoteles y organismos públicos de Montevideo.
+  - Requisitos: 15 vacantes, jornada completa, Montevideo. Secundaria incompleta. Experiencia comprobable en hoteles o restaurantes de alto nivel y con máquinas de café. Carné de salud y carné de manipulación de alimentos vigentes. Amplia disponibilidad horaria e ingreso inmediato. Edad: no indicada.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (no indicada)
+  - Plazo o ciclo: sin datos. La página no muestra fecha de publicación ni de cierre; la fecha 2026-11-23 que aparece es la de generación del sitio, no la del aviso.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El aviso no indica empleador, forma de postulación ni remuneración, y no se pudo confirmar que siga vigente.
+  - Aclaracion: La descripción 'hoteles y entes públicos' no figura en la página del aviso.
+  - Aclaracion: Sirve solo como ejemplo del tipo de puesto (mozo/a eventual en hotelería y gastronomía), no como oportunidad verificada.
+- **Mucama y/o auxiliar de servicio eventual (hotel en Punta del Este), 4 vacantes** (sin verificar, verificada 1 vez) https://www.buscojobs.com.uy/mucama-y-o-auxiliar-de-servicio-eventual-en-punta-del-este-ID-276739
+  - Que es: Personas con experiencia en hotelería para cubrir turnos en Punta del Este. Es un ejemplo de contratación eventual que suele crecer en temporada de verano.
+  - Requisitos: 4 vacantes eventuales, jornada completa con turnos rotativos (9-17, 12-20, 13-21, 14-22 o 15-23), fines de semana y feriados. Al menos 1 año de experiencia hotelera, preferentemente en hotel 4 estrellas (se pide experiencia). Carné de salud vigente. Secundaria incompleta. Inglés básico valorado, no exigido. Edad: no indicada.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (no indicada)
+  - Plazo o ciclo: sin datos. Sin fecha de publicación ni de cierre en la página (la fecha 2026-11-23 es la de generación del sitio).
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El empleador no se nombra; la redacción sugiere un hotel de 4 estrellas.
+  - Aclaracion: No hay instrucciones de postulación ni confirmación de vigencia.
+- **Cadete, recepción y otras tareas (hotel boutique, José Ignacio), 2 vacantes** (sin verificar, verificada 1 vez) https://www.buscojobs.com.uy/cadete-recepcion-y-otras-tareas-para-hotel-en-jose-ignacio-ID-276907
+  - Que es: Personas que vivan en la zona de José Ignacio, La Barra o alrededores y tengan movilidad propia.
+  - Requisitos: 2 vacantes, jornada completa con turnos de mañana, tarde y noche. Secundaria completa. No se indica experiencia previa obligatoria. Inglés y/o portugués valorados. Imprescindible vivir en la zona hasta La Barra y contar con medio de transporte propio. Edad y documentos: no indicados.
+  - Pago o beneficio: sin datos (no indicada)
+  - Plazo o ciclo: sin datos. Sin fecha ni estado de vigencia; el propio listado lo marcaba con unos 2 meses de antigüedad, por lo que puede estar cerrado.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El empleador no se nombra y el aviso no tiene instrucciones de postulación.
+  - Aclaracion: No se puede confirmar que esté activo: el listado lo marcaba con unos 2 meses de antigüedad.
+  - Aclaracion: Solo es útil como ejemplo del tipo de puesto, no como oportunidad abierta.
+- **Hyatt Centric Montevideo: supervisor/a pastelero** (sin verificar, verificada 1 vez) https://www.buscojobs.com.uy/supervisor-a-pastelero-en-montevideo-ID-279005
+  - Que es: Profesionales de pastelería con experiencia en supervisión. No es un puesto de ingreso, pero muestra que la cadena contrata localmente por BuscoJobs.
+  - Requisitos: 1 vacante, jornada completa, nivel supervisor. Al menos 2 años supervisando un área de pastelería. Formación técnico-profesional completa en gastronomía, pastelería o confitería (esencial). Conocimientos avanzados de técnicas de pastelería y panificación, control de costos y stock, flexibilidad horaria. El empleador declara considerar a todos los candidatos calificados sin importar la edad.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (no indicada)
+  - Plazo o ciclo: sin datos. Sin fecha de publicación ni de cierre en la página. No muestra aviso de cierre, por lo que parece activo, pero la página no lo confirma.
+  - Como postular: https://www.buscojobs.com.uy/supervisor-a-pastelero-en-montevideo-ID-279005
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un aviso en BuscoJobs y no una página de empleo del propio hotel; no se pudo verificar en el sitio de Hyatt.
+  - Aclaracion: Es un puesto de supervisión con experiencia exigida, por lo que no sirve como primer empleo.
+- **McDonald's (Arcos Dorados): Trabaja con nosotros** (sin verificar, verificada 1 vez) https://www.arcosdorados.com/trabaja-con-nosotros/
+  - Que es: Jóvenes y personas sin experiencia que busquen un primer empleo en restaurantes. La empresa indica que más del 53% de sus empleados tiene menos de 24 años.
+  - Requisitos: sin datos. La página no indica edad mínima, experiencia ni documentos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página no muestra vacantes ni ciclo de postulación.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no lista ofertas ni explica cómo postularse; su contenido trata de sustentabilidad y 'Puertas Abiertas'.
+  - Aclaracion: Uruguay figura solo como enlace al sitio de McDonald's en una lista de 21 países; mcdonalds.com.uy devolvió HTTP 403 y no se confirmó la ruta de postulación en Uruguay.
+  - Aclaracion: El dato de que más del 53% de los más de 100.000 colaboradores tiene entre 16 y 24 años es una estadística, no un requisito.
+  - Aclaracion: No se puede afirmar que haya vacantes abiertas en Uruguay.

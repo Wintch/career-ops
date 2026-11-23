@@ -1,0 +1,87 @@
+# Programas inclusivos y poblaciones especificas
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Unidad para las Víctimas: atención, Registro Único de Víctimas y Unidad en Línea** (abierta o vigente, verificada 2 veces) https://www.unidadvictimas.gov.co/atencion-y-servicios-a-la-ciudadania/
+  - Que es: Víctimas del conflicto armado. Es la puerta de entrada para acceder a la oferta institucional, que según la entidad incluye programas de empleo y generación de ingresos dentro del acompañamiento del Estado.
+  - Requisitos: Dirigido a víctimas del conflicto armado. Requisitos específicos de registro: sin datos (no leídos).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sin costo. Montos de ayudas o indemnización: sin datos.
+  - Plazo o ciclo: Abierto de forma permanente. Atención de lunes a viernes de 8:00 a. m. a 6:00 p. m.; las opciones de autoservicio funcionan 24 horas; radicación de documentos de 8:00 a. m. a 4:00 p. m.
+  - Como postular: https://unidadenlinea.unidadvictimas.gov.co
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un servicio de atención y registro para víctimas del conflicto armado, no una oferta de empleo.
+  - Aclaracion: Muchos puntos de atención presencial requieren cita gratuita.
+  - Aclaracion: Los requisitos detallados del RUV están en la página 'Registro en el RUV', que no se leyó.
+  - Aclaracion: La lectura de la página fue parcial.
+- **Unidad para las Víctimas: Fortalecimiento Estratégico a Emprendimientos de Víctimas y Vitrina Virtual** (abierta o vigente, verificada 2 veces) https://www.unidadvictimas.gov.co/grupo-de-fortalecimiento-estrategico-a-emprendimientos-de-victimas/
+  - Que es: Víctimas del conflicto armado que ya tienen un emprendimiento (unidad productiva).
+  - Requisitos: Ser víctima del conflicto armado con un emprendimiento o unidad productiva. La convocatoria cerrada se limitaba a turismo cultural comunitario en municipios priorizados de Amazonas, Chocó, Vichada, Cundinamarca, Tolima, Guainía, Guaviare, Nariño, Putumayo, La Guajira y Bogotá. Otros requisitos formales: sin datos.
+  - Pago o beneficio: Sin dinero en efectivo mencionado. Beneficios en formación, asesoría y comercialización; montos: sin datos.
+  - Plazo o ciclo: El programa general tiene un formulario de intake abierto sin fecha de cierre visible. La única convocatoria específica ("Somos Economías para la Vida", con el Ministerio de las Culturas y UNIMINUTO) corrió de julio a diciembre de 2025 y está cerrada; no se vio una nueva.
+  - Como postular: https://forms.office.com/r/j42P1QzC3G
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los beneficios son formación, asistencia técnica y visibilidad comercial; no se mencionan subsidios en dinero.
+  - Aclaracion: Las víctimas con un negocio pueden diligenciar el formulario de caracterización para que el programa evalúe sus necesidades.
+- **ARN: Proceso de Atención Diferencial (exintegrantes de grupos armados)** (abierta o vigente, verificada 2 veces) https://www.reincorporacion.gov.co/es/atencion-diferencial/Paginas/Atencion-diferencial.aspx
+  - Que es: Personas certificadas por el CISIL como exintegrantes de un Grupo Armado Organizado que decidieron someterse a la justicia.
+  - Requisitos: Ser mayor de edad, estar en libertad y contar con certificación del CISIL como exintegrante de un GAO (o certificación del CODA en el caso de menores desvinculados). No requiere experiencia ni título.
+  - Pago o beneficio: Apoyo de sometimiento de hasta $480.000 mensuales y un estímulo económico único (según la página).
+  - Plazo o ciclo: Abierto todo el año para quienes cuenten con la certificación del CISIL; el proceso dura máximo 7 años y 6 meses desde la formalización del ingreso. La página no muestra fecha de actualización.
+  - Como postular: https://www.reincorporacion.gov.co/es/atencion/Paginas/tramites.aspx
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una oferta de empleo: ofrece apoyo de sometimiento, estímulo económico, acompañamiento psicosocial, salud subsidiada y educación.
+  - Aclaracion: La página no describe los pasos de solicitud y remite a las sedes regionales y a la línea 01-800-091-1516.
+  - Aclaracion: La página presenta fechas inconsistentes para el Decreto 965 (2020 y 2022).
+- **ARN: trámites de reintegración (BIE de empleabilidad y BIE de plan de negocio)** (abierta o vigente, verificada 2 veces) https://www.reincorporacion.gov.co/es/atencion/Paginas/tramites.aspx
+  - Que es: Personas desmovilizadas dentro del proceso de reintegración de la ARN.
+  - Requisitos: Estar vinculado al proceso de reintegración de la ARN; los requisitos específicos de cada BIE no figuran en la página (ver fichas de gov.co).
+  - Pago o beneficio: No se ve el monto en la página (consultar las fichas gov.co); los trámites son sin costo.
+  - Plazo o ciclo: Abierto de forma permanente para quienes están en el proceso de reintegración; cada trámite tarda unos 2 meses (BIE empleabilidad T656 y BIE plan de negocio T643). Sin fecha de cierre.
+  - Como postular: https://www.reincorporacion.gov.co/es/atencion/Paginas/tramites.aspx
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Aplica solo a población desmovilizada en el proceso de reintegración, no al público general.
+  - Aclaracion: La página no incluye requisitos detallados, montos ni ventana de solicitud; remite a las fichas de gov.co.
+  - Aclaracion: La permanencia de la apertura no está confirmada de forma expresa en la página.
+- **Migración Colombia: Permiso por Protección Temporal (PPT)** (abierta o vigente, verificada 2 veces) https://www.migracioncolombia.gov.co/tramites-y-servicios/tramites-de-regularizacion/ppt
+  - Que es: Ciudadanos venezolanos que cumplan los requisitos del Estatuto Temporal de Protección para Migrantes Venezolanos.
+  - Requisitos: Ser venezolano o venezolana bajo las condiciones del ETPV; formulario FUT; documento de identidad venezolano (cédula, pasaporte, PEP o acta de nacimiento); registro biométrico obligatorio para mayores de 7 años; preregistro RUMV y encuesta socioeconómica en la solicitud inicial, cuando corresponda; documentos originales para la cita.
+  - Pago o beneficio: No aplica (documento de regularización). Expedición inicial gratuita; reexpedición o duplicado con costo (ver notas).
+  - Plazo o ciclo: Trámite permanente en línea y con cita, pero con restricción actual: la prerregistro en el RUMV está abierto solo para niños y adolescentes vinculados al sistema educativo o a programas del ICBF. La solicitud inicial de adultos no figura como abierta; sí están abiertos reexpedición y duplicado.
+  - Como postular: https://www.migracioncolombia.gov.co/tramites-y-servicios/tramites-de-regularizacion/ppt
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Aplica solo a personas venezolanas que cumplan las condiciones del ETPV; para otras nacionalidades no es una vía.
+  - Aclaracion: La página es inconsistente en la tarifa de reexpedición o duplicado ($19.000 en una sección y $20.000 como tarifa 2026, según la Resolución 0599 del 10 de febrero de 2026).
+  - Aclaracion: El prerregistro en el RUMV está abierto solo para niños, niñas y adolescentes vinculados a una institución educativa o a programas del ICBF; la solicitud inicial de adultos no figura como abierta.
+  - Aclaracion: Se solicita completando el FUT en línea y agendando cita en un Centro Facilitador de Servicios Migratorios o en los Puntos Visibles.
+- **Plataforma R4V Colombia (GIFMM): integración socioeconómica y mapeo de servicios para personas refugiadas y migrantes** (abierta o vigente, verificada 2 veces) https://www.r4v.info/es/colombia
+  - Que es: Personas refugiadas y migrantes venezolanas, y población de acogida, que buscan servicios de integración socioeconómica.
+  - Requisitos: No se indican en la página; dependen de cada organización y servicio listado en el mapeo. Orientada a personas refugiadas y migrantes.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto; plataforma de coordinación permanente. Las actualizaciones visibles en la página llegan hasta el 14 de enero de 2026.
+  - Como postular: https://mapeo-de-servicios.gifmm-colombia.site
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una plataforma de coordinación, no una bolsa de empleo ni un programa con postulación.
+  - Aclaracion: La herramienta útil para el público es el 'Mapeo de servicios', que permite ubicar servicios disponibles.
+  - Aclaracion: La página no describe requisitos de elegibilidad ni procedimiento de ingreso; cada servicio fija los suyos.
+- **Unidad para las Víctimas: Programa de acompañamiento para la inversión adecuada de los recursos** (sin verificar, verificada 1 vez) https://www.unidadvictimas.gov.co/programa-de-acompanamiento-para-la-inversion-adecuada-de-los-recursos/
+  - Que es: Víctimas en la ruta de indemnización administrativa, incluidas víctimas de grupos étnicos (componente con enfoque étnico), víctimas con discapacidad cognitiva, mental o múltiple (con apoyo en la toma de decisiones) y niños, niñas y adolescentes a través de su representante.
+  - Requisitos: Ser víctima del conflicto armado en la ruta para recibir indemnización administrativa. Otros criterios: sin datos.
+  - Pago o beneficio: Sin costo mencionado. Es un acompañamiento, no entrega dinero propio; se orienta el uso de la indemnización.
+  - Plazo o ciclo: sin datos. La página no indica fechas ni proceso de inscripción; la vinculación es voluntaria.
+  - Como postular: https://unidadenlinea.unidadvictimas.gov.co
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un acompañamiento para orientar el uso de la indemnización administrativa, no entrega dinero propio.
+  - Aclaracion: La página no describe cómo inscribirse; hay que consultar directamente a la Unidad.
+  - Aclaracion: Las líneas de inversión son vivienda, negocios o activos productivos, educación y compra de predio rural.
+- **Pacto de Productividad: modelo de inclusión laboral de personas con discapacidad** (sin verificar, verificada 1 vez) https://www.pactodeproductividad.com/2022/11/01/que-hacemos/
+  - Que es: Organizaciones públicas y privadas, y centros de empleo, que quieren adoptar el modelo de inclusión laboral de personas con discapacidad. Está dirigido a organizaciones, no a personas individuales.
+  - Requisitos: No figuran en la página.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página es un artículo de noviembre de 2022 (según la ruta de la URL) con pie de página 2026; no muestra convocatoria, ciclo ni plazo.
+  - Como postular: https://www.pactodeproductividad.com/contacto/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Está dirigido a organizaciones públicas y privadas y a centros de empleo, no a personas individuales.
+  - Aclaracion: La página es un artículo de noviembre de 2022 y no describe un proceso de postulación ni de inscripción para personas.
+  - Aclaracion: Sirve como referencia de organizaciones que trabajan el tema, no como oferta.

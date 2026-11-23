@@ -1,0 +1,102 @@
+# Empleo publico y concursos
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Defensa Pública: recursos humanos y concurso de credenciales de la carrera defensoril** (abierta o vigente, verificada 2 veces) http://www.defensapublica.gob.ve/recursos-humanos/
+  - Que es: Profesionales en general (formulario de envío de currículo con profesiones como abogado, médico forense, psicólogo forense, administrador, ingeniero en sistemas, arquitecto, electricista, programador). El concurso de carrera defensoril es solo para defensores públicos provisorios.
+  - Requisitos: El formulario pide solo la profesión u oficio y el estado. La página no lista otros requisitos ni experiencia. Para defensor público, el cargo requiere título de abogado. Esto no se vio en la página.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Formulario «Envíanos tu Curriculum» sin fechas (consulta del 2026-11-23).
+  - Como postular: http://www.defensapublica.gob.ve/recursos-humanos/ (formulario "Envíanos tu Curriculum"); correos ingresosdefensapublica@gmail.com o contacto@defensapublica.gob.ve
+  - Lectura automatica posible: Resolución en la Gaceta Oficial n.° 43.178 (enlace SPGOIN citado por la nota).
+  - Aclaracion: La página no contiene información sobre el concurso de credenciales de la carrera defensoril: ni requisitos, ni fechas, ni condiciones.
+  - Aclaracion: No se vio campo para cargar archivo ni botón de envío, por lo que no se confirmó cómo se entrega el currículo; contacto: Contacto@defensapublica.gob.ve e ingresosdefensapublica@gmail.com.
+  - Aclaracion: Deben usarse solo los correos y el dominio oficiales y no pagar por un cargo.
+- **UNES: preinscripción (formación para PNB, CICPC y otros cuerpos de seguridad)** (se repite (hoy sin llamado abierto), verificada 1 vez) http://www.unes.com.ve
+  - Que es: Jóvenes bachilleres que quieran formarse como funcionarios de seguridad (policía, investigación penal, entre otros cuerpos).
+  - Requisitos: Venezolano por nacimiento, soltero, de 17 a 25 años (los menores necesitan autorización notariada del representante), estatura mínima de 1,55 m mujeres y 1,60 m hombres (no aplica a indígenas), sin tatuajes ni perforaciones, título de bachiller, sin antecedentes penales ni procesos judiciales e inscripción militar. En la fase presencial se piden cédula, notas certificadas, partida de nacimiento, RUSNIES, carta de residencia, carta de buena conducta, inscripción en el CNE, cuenta del Banco de Venezuela y exámenes médicos. No se exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (formación con acceso a cargo; no se vio monto)
+  - Plazo o ciclo: Anual, aunque con una sola edición vista. El artículo (publicado el 22-09-2025) da el ciclo I-2026: preinscripción del 22-09 al 31-10-2025, grupos de pruebas del 03 al 07-11-2025, pruebas del 10-11 al 19-12-2025, lista final el 23-12-2025 y clases el 07-01-2026. No se vio el calendario del Proceso Académico I-2027. La fecha del próximo ciclo está sin verificar.
+  - Como postular: http://www.unes.com.ve (sección "Preinscripción", con número de cédula)
+  - Lectura automatica posible: Ninguno.
+  - Aclaracion: La información proviene de una nota de prensa sobre el ciclo I-2026, cuya preinscripción ya cerró; el calendario del siguiente ciclo no está verificado.
+  - Aclaracion: El sitio oficial de la UNES respondió HTTP 429, por lo que el dato de cierre de la preinscripción es de segunda mano.
+  - Aclaracion: Los requisitos pueden variar según el PNF; se recomienda consultar el núcleo de la UNES más cercano.
+  - Aclaracion: Debe gestionarse solo por el dominio oficial y no pagar a intermediarios por cupos.
+- **Advertencia del CICPC sobre ofertas de trabajo falsas** (se repite (hoy sin llamado abierto), verificada 2 veces) sin datos (la advertencia llegó vía entrevista de Unión Radio; no se vio un comunicado en el sitio del CICPC)
+  - Que es: Cualquier persona que reciba ofertas de empleo por redes, Telegram o WhatsApp, incluidas las que dicen ser de organismos públicos.
+  - Requisitos: No aplica
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: Advertencia publicada el 24-10-2024. Sigue siendo válida como práctica general; no se vio una advertencia más reciente.
+  - Como postular: No aplica (no es una oferta)
+  - Lectura automatica posible: Ninguno.
+  - Aclaracion: La advertencia del CICPC es del 24-10-2024 y no se halló un comunicado más reciente.
+  - Aclaracion: Describe una estafa de tareas simples, como ver y compartir videos de YouTube, que al final exige una transferencia o un supuesto impuesto para liberar ganancias; suelen usar Telegram para ocultar la identidad.
+  - Aclaracion: El CICPC aconseja pedir un contrato digital antes de aceptar una oferta.
+  - Aclaracion: Ninguna oferta legítima cobra por entrar ni pide pagos adelantados; es una nota de seguridad, no una fuente de empleo.
+- **Ejército Bolivariano: ofertas académicas (oficiales de comando, técnicos, de tropa)** (sin verificar, verificada 1 vez) https://www.ejercito.mil.ve/ofertas-academicas/
+  - Que es: Bachilleres (oficiales de comando y técnicos, 4 años); personal de tropa profesional propuesto por su unidad; profesionales con postgrado (cursos CEFOC y CEFOA, 1 año y 6 meses).
+  - Requisitos: Oficiales de Comando y Técnicos: título de bachiller de Venezuela. Oficiales de Tropa y EFTP: ser personal de Tropa Profesional o soldado propuesto por su unidad. CEFOC/CEFOA: profesional con posgrado. Edad, nacionalidad y otros requisitos: sin datos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no se indicó beca ni sueldo)
+  - Plazo o ciclo: sin datos (la página no publica fechas ni calendario; no se pudo confirmar ninguna convocatoria abierta)
+  - Como postular: https://sicad.umbv.edu.ve/login
+  - Lectura automatica posible: Ninguno. Página HTML con enlaces.
+  - Aclaracion: La preinscripción de las ofertas 3 y 4 remite a educacion.ejercito.mil.ve, que no se pudo cargar (error de resolución de nombre).
+  - Aclaracion: Se trata de una carrera militar con formación, no de un empleo civil.
+  - Aclaracion: No se confirmó la nota sobre el ingreso de nuevos aspirantes ni ninguna convocatoria abierta.
+- **SICAD UMBV: portal de preinscripción de aspirantes a cadetes** (sin verificar, verificada 1 vez) https://www.ejercito.mil.ve/ofertas-academicas/
+  - Que es: Aspirantes a cadetes de la FANB (formación de oficiales).
+  - Requisitos: sin datos en esta página (la oferta del Ejército indica título de bachiller para oficiales de comando y técnicos)
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (la página de acceso no muestra convocatoria, fechas ni instrucciones)
+  - Como postular: https://sicad.umbv.edu.ve/login
+  - Lectura automatica posible: Ninguno.
+  - Aclaracion: La página es solo una pantalla de inicio de sesión: no muestra convocatoria, calendario ni requisitos, y no se pudo confirmar que haya un proceso abierto.
+  - Aclaracion: Es un ingreso a carrera militar, no un empleo civil.
+  - Aclaracion: La cuenta debe crearse solo desde enlaces oficiales (ejercito.mil.ve) y no debe pagarse a terceros por cupos.
+- **Ministerio Público: concurso de credenciales y oposición para fiscales** (sin verificar, verificada 1 vez) http://www.mp.gob.ve/
+  - Que es: Abogados de la República (la nota consultada no aclara si incluye a quienes ya son fiscales provisorios).
+  - Requisitos: No se listan en la página vista. Se trata de un cargo profesional (fiscal), por lo que presupone el título de abogado. Eso se infiere del cargo y no se vio en la página. Otros requisitos: sin datos.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Concurso en curso, sin fecha de inscripción abierta confirmada. La página oficial (14-09-2026, actualizada el 15-09) publica los aprobados de la prueba escrita para cargos de fiscales del Área Metropolitana de Caracas y el estado Miranda. Sigue una formación de 12 semanas en la Escuela Nacional de Fiscales. La página cita la Resolución n.° 108, Gaceta Oficial n.° 43.388 del 02-06-2026. No se pudieron ver ni la inscripción (cerrada el 24-07 según la fuente) ni la nueva convocatoria de octubre.
+  - Como postular: sin datos (la página no indica cómo inscribirse; la portada del MP muestra un banner de convocatoria subido en octubre de 2026, sin enlace ni fechas legibles)
+  - Lectura automatica posible: Gaceta Oficial n.° 43.388 y 43.394 (imprenta nacional); no se pudo abrir imprentanacional.gob.ve.
+  - Aclaracion: No se pudo ver la inscripción (cerrada el 24-07 según la fuente) ni la nueva convocatoria de octubre; si hay nueva ronda, está sin verificar.
+  - Aclaracion: La lista de aprobados está en imágenes y la categoría de concursos de la página devolvió 404.
+  - Aclaracion: Solo sirve a abogados; no es una vía para quien busca un primer empleo sin título.
+  - Aclaracion: Ningún concurso público exige pagos para postularse.
+- **Ley del Estatuto de la Función Pública: cómo se ingresa al empleo público civil** (sin verificar, verificada 1 vez) sin datos (la fuente es un repositorio no oficial; el texto oficial está en la Gaceta Oficial)
+  - Que es: Cualquier persona que aspire a cargos de ministerios, gobernaciones y alcaldías. Excluye al Poder Judicial, al Poder Electoral, al SENIAT y a los obreros de la Administración Pública.
+  - Requisitos: Según el art. 17: nacionalidad venezolana, 18 años o más, título de educación media diversificada, sin interdicción civil ni inhabilitación política, sin jubilación o pensión de un órgano del Estado (salvo excepciones de alto nivel), cumplir los requisitos del cargo, completar el procedimiento de ingreso y presentar la declaración jurada de patrimonio. No se exige experiencia general. Sí la del cargo concreto.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Marco legal permanente, sin convocatoria. El texto confirma que el ingreso a cargos de carrera es por concurso público (art. 40). No se verificó ningún concurso civil publicado para 2026.
+  - Como postular: sin datos (cada organismo, gobernación o alcaldía recluta; no hay portal único verificado)
+  - Lectura automatica posible: Ninguno. Gaceta Oficial en imprentanacional.gob.ve (no cargó: conexión rechazada).
+  - Aclaracion: El texto consultado proviene de Justia, no es oficial y puede no reflejar reformas.
+  - Aclaracion: Es una referencia legal, no una oferta de empleo, y no se verificó ningún concurso civil publicado para 2026.
+  - Aclaracion: Ningún ingreso a la función pública exige pagos.
+- **Ministerio de Educación: ingreso a la nómina docente y formación UNEM** (sin verificar, verificada 1 vez) sin datos (no se cargó ninguna página oficial del Ministerio de Educación)
+  - Que es: Profesionales de áreas con déficit de especialistas (matemática, física, química, idiomas, ciencias, educación física, según la nota) y docentes jubilados que quieran volver.
+  - Requisitos: Solo se menciona completar el componente pedagógico y la licenciatura en Educación; se indica la prioridad de lenguaje, identidad, matemática y ciencias naturales. El artículo no menciona la UNEM. Otros requisitos: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto sin calendario. El artículo (01-10-2026) cita al viceministro Eloy Sira Galíndez: el sistema público necesita unos 13.000 docentes especialistas (matemática, física, química, idiomas, ciencias y educación física). Profesionales de otras áreas pueden entrar a la nómina docente mientras completan la formación pedagógica y la licenciatura en Educación. Los docentes jubilados pueden volver sin perder su pensión. No se dan fechas de inscripción.
+  - Como postular: sin datos
+  - Lectura automatica posible: Ninguno.
+  - Aclaracion: Es información de prensa con declaraciones oficiales, no una convocatoria, y no se dan fechas de inscripción.
+  - Aclaracion: No se verificó el Plan Nacional de Formación Docente de la UNEM ni su fecha; se aconseja contrastar en el plantel o en la zona educativa.
+  - Aclaracion: No se debe pagar por cupos ni por cargos docentes.
+- **Empresas del Estado (PDVSA, CANTV, Corpoelec): sin portal de empleo verificado** (sin verificar, verificada 1 vez) https://www.cantv.com.ve
+  - Que es: Quienes buscan empleo en telecomunicaciones, petróleo o electricidad del Estado.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: Ninguno.
+  - Aclaracion: No hay evidencia de un portal de empleo abierto: el sitio de CANTV no muestra enlace de empleo y no se verificó nada de PDVSA ni Corpoelec.
+  - Aclaracion: Se desaconseja listarlas como vía de postulación hasta ver una página oficial.
+  - Aclaracion: Hay que desconfiar de ofertas en redes que cobran por un puesto en estas empresas.

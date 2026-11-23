@@ -1,0 +1,103 @@
+# Empleo publico y concursos
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Ejército Nacional - Sea Soldado (ingreso como soldado)** (abierta o vigente, verificada 2 veces) https://www.ejercito.mil.uy/index.php/ingreso-como-soldado/
+  - Que es: Personas que quieren ingresar como soldados; no se pide experiencia, solo estudios mínimos y aprobar exámenes. Quien termina el liceo básico o tiene primaria puede aplicar.
+  - Requisitos: 18 años al momento del ingreso; ciudadanía uruguaya natural o legal (con 3 años de ejercicio de la ciudadanía si es legal); Ciclo Básico (3.º de liceo) completo, o primaria completa con la obligación de terminar el Ciclo Básico dentro de 8 años del ingreso para renovar contrato; no haber sido destituido de la función pública ni dado de baja de las Fuerzas Armadas por causa que impida el reingreso; aprobar exámenes médico, físico y psicológico. Documentos: cédula y credencial cívica (originales y copias), certificado de antecedentes judiciales (vigencia 3 meses), 2 fotos carné, copia de certificados escolares, constancia de jura de la bandera (o prestarla), constancia de domicilio y de voto, carné de salud vigente, resultado de test de VIH (vigencia 3 meses), carné de vacunación, y PAP para mujeres mayores de 21. No exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no lo indica)
+  - Plazo o ciclo: Abierto todo el año: la página no publica período de inscripción ni fecha límite; el trámite se hace en las unidades y por contacto directo con el Ejército (sujeto a vacantes)
+  - Como postular: https://www.ejercito.mil.uy/index.php/ingreso-como-soldado/
+  - Lectura automatica posible: No hay API. Páginas HTML estáticas; algunos institutos publican PDF de bases.
+  - Aclaracion: El ingreso no tiene período fijo de inscripción; el estado 'abierto' se basa en la ausencia de fechas y conviene confirmar vacantes por contacto.
+  - Aclaracion: La página no describe un paso a paso de postulación, solo la lista de documentos a presentar y los datos de contacto (Av. Gral. José Garibaldi 2313, contacto@ejercito.mil.uy, (+598) 2208 1542 int. 12600).
+  - Aclaracion: Se exige ciudadanía uruguaya natural o legal (esta última con 3 años de ejercicio), por lo que un residente extranjero sin ciudadanía no puede postular.
+  - Aclaracion: Otros requisitos: 18 años cumplidos, Educación Media Básica completa (o primaria completa con obligación de completar la media básica en 8 años) y aprobar exámenes médicos, físicos y psicológicos.
+- **Fuerza Aérea Uruguaya - Ingreso de personal subalterno, grado Soldado de Primera** (abierta o vigente, verificada 2 veces) https://www.gub.uy/tramites/ingreso-fuerza-aerea-personal-subalterno-grado-soldado-primera
+  - Que es: Personas de 18 a 29 años con primaria completa, inglés básico y manejo básico de PC. La experiencia laboral, estudios superiores y cursos se valoran pero no son excluyentes.
+  - Requisitos: Entre 18 y 29 años; altura mínima 1,60 m; ciclo completo de primaria; conocimientos básicos de inglés (excluyente); operador de PC (excluyente); no ocupar otro cargo, beca o pasantía en el sector público al firmar el contrato (salvo que una ley permita acumular). Documentos: formulario de inscripción y Formulario 56, 3 copias de cédula y 1 de credencial cívica, certificado de antecedentes (máx. 3 meses), constancia de residencia y de estudios, partida de nacimiento (máx. 6 meses), 3 fotos de frente y 3 de perfil, certificado de servicio militar o policial si corresponde, radiografía de tórax y copia del carné de vacunación antitetánica. Costo: $ 230 (examen psicofísico). Se valoran experiencia laboral, estudios y cursos. No exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sueldo base nominal de Soldado de Primera: $ 24.173 (según la página, con fecha de actualización de 2023; puede estar desactualizado). Trabajo de jornada completa sin pago de horas extra.
+  - Plazo o ciclo: Sin fechas fijas: "cuando se producen vacantes en la Fuerza Aérea" se puede realizar el trámite. La página no publica fecha de cierre; su última actualización indicada es 20/01/2023, por lo que la vigencia de vacantes y montos debe confirmarse con la unidad.
+  - Como postular: https://www.gub.uy/tramites/ingreso-fuerza-aerea-personal-subalterno-grado-soldado-primera (botón "Iniciar Trámite en Línea", con usuario gub.uy) o entrega de documentos en la unidad elegida (ej. Brigada Aérea I, Ruta 101 km 19.500)
+  - Lectura automatica posible: Trámite en línea en gub.uy; sin API.
+  - Aclaracion: La página no se actualiza desde 2023, por lo que conviene consultar a la unidad antes de reunir la documentación.
+  - Aclaracion: El trámite puede hacerse en línea con identificación gub.uy o de forma presencial en la unidad elegida.
+  - Aclaracion: El llamado es permanente pero depende de que se produzcan vacantes; no hay llamado con fecha.
+- **Intendencia de Montevideo - Oferta laboral (concursos de ingreso, incluye Guardavidas Zafral)** (abierta o vigente, verificada 2 veces) https://ofertalaboral.montevideo.gub.uy/
+  - Que es: Público en general en llamados abiertos de ingreso; hay cargos zafrales (guardavidas), profesionales y técnicos. Cuando los postulantes superan un número fijado, las bases prevén sorteo ante escribano.
+  - Requisitos: Varían por concurso y están en las bases de cada uno (no se leyeron). Los abiertos al 23/11/2026 piden perfiles con título o especialización técnica o profesional. Guardavidas Zafral: requisitos no visibles en el listado.
+  - Pago o beneficio: Guardavidas Zafral: cargo Carrera 3229, Técnico/a Guardavidas, Escalafón Especialista Profesional, grado SIR 6; monto no visto.
+  - Plazo o ciclo: Portal permanente (577 concursos registrados). Abiertos al 23/11/2026 con cierre 26/11/2026 23:59: 1685 Arquitecto/a (contrato a término), 1684 Lic. en Trabajo Social/Asistente Social (contrato a término), 1661 Doctor/a en Medicina Familiar y Comunitaria, 1681 Técnico/a Mecánico/a Automotriz (todos con inscripción desde 12/11/2026). Guardavidas Zafral (concurso 1692, 32 cargos zafrales 2026-2027) tuvo inscripción del 24/08/2026 10:30 al 03/09/2026 15:30: ya cerrado; el llamado de guardavidas es de temporada, usualmente entre agosto y setiembre. Profesores/as de Educación Física (1687, 41 cargos): inscripción del 27/10 al 03/11/2026, cerrado.
+  - Como postular: Inscripción en línea desde la ficha de cada concurso en https://ofertalaboral.montevideo.gub.uy/ (pestaña "En inscripción"). Consultas: 1950 (lun-vie 8:00-19:00, sáb 8:00-14:00), WhatsApp 099 019 500, Av. 18 de Julio 1360
+  - Lectura automatica posible: Portal con listados paginados y PDF de bases por concurso; sin API pública conocida.
+  - Aclaracion: El rótulo "En inscripción" del listado no es confiable, ya que aún muestra concursos de 2023 y 2025 vencidos; deben verificarse las fechas de cada ficha.
+  - Aclaracion: La mayoría de los concursos abiertos al 23/11/2026 requiere título profesional o formación técnica específica.
+  - Aclaracion: El llamado de Guardavidas Zafral es de temporada y se espera de nuevo hacia agosto-setiembre de 2027.
+- **Ministerio del Interior - Educación policial (Escuela Nacional de Policía, Guardia Republicana)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-interior/comunicacion/noticias/ministerio-del-interior-abrio-llamado-historico-para-ingreso-1000-nuevos
+  - Que es: Aspirantes a ingresar a la formación policial (Escuela Nacional de Policía y cuerpos policiales).
+  - Requisitos: No requiere experiencia previa. De 18 a 35 años al cierre de la inscripción. Ciudadanía natural o legal con más de cinco años de ejercicio. Cédula de identidad y credencial cívica vigentes. Ciclo Básico de educación media (o equivalente de UTU) completo al cierre de la inscripción. Buena conducta y aptitud física y médica.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Inscripciones del lunes 16 de noviembre al 13 de diciembre de 2026 (llamado a Agente / Agente Eventual, Escalafón Policial, Subescalafón Ejecutivo). La periodicidad anual no se pudo confirmar.
+  - Como postular: https://inscripciones.minterior.gub.uy/formularios/show/570
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un concurso público abierto de oposición y méritos, de hasta 1.000 cargos en unidades ejecutoras del área metropolitana (Montevideo, Canelones y San José), con lista de prelación válida para vacantes actuales y futuras.
+  - Aclaracion: Pago durante la formación: un salario mínimo nacional por mes; tras egresar, sueldo nominal de $ 63.927 (cifra de enero de 2026), con presentismo y compromiso de gestión, 48 horas semanales.
+  - Aclaracion: La noticia no detalla las etapas del examen ni la duración del curso; la inscripción es por formulario en la web del Ministerio del Interior (inscripciones.minterior.gub.uy).
+  - Aclaracion: Consultas: dnep-denaci.inscripciones@minterior.gub.uy, 2030 3206 / 2030 3207.
+- **Armada Nacional - Escuela de Especialidades (ESESP), ingreso marzo 2027** (abierta o vigente, verificada 2 veces) https://www.armada.mil.uy/escuela-de-especialidades-esesp/
+  - Que es: Aspirantes a personal subalterno de la Armada; curso con inicio en marzo de 2027.
+  - Requisitos: No requiere experiencia. De 18 a 30 años inclusive. Ciudadanía natural o legal con 3 años de ejercicio. Ciclo Básico completo, o primaria completa con compromiso de terminar. Inscripto en el Registro Cívico Nacional, con credencial cívica y constancia de voto en las últimas elecciones nacionales cuando corresponda. No haber sido dado de baja de las Fuerzas Armadas ni de otro cargo público por causal que impida el reingreso. Constancia de juramento de bandera, si figura en el certificado escolar.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Inscripción del 3 de noviembre al 4 de diciembre de 2026 en Montevideo; en dependencias navales del interior hasta el 1 de diciembre. Exámenes médicos y psicológicos de primera ronda: 24 y 25 de noviembre (Montevideo) y 27 de noviembre (interior). La repetición anual no figura en la página, solo el ingreso de marzo de 2027.
+  - Como postular: https://www.armada.mil.uy/escuela-de-especialidades-esesp/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La inscripción en Montevideo es en persona en la Oficina de Ingresos de la Dirección de Recursos Humanos, Misiones 1429, lunes a viernes de 8:30 a 12:30; en el interior, en dependencias navales.
+  - Aclaracion: La vía en línea por gub.uy que menciona la página corresponde a un llamado anterior, y su vigencia debe verificarse antes de usarla.
+  - Aclaracion: Las mujeres deben presentar certificado de vacuna contra el VPH y, si superan los 25 años, PAP o test de VPH.
+  - Aclaracion: Se ingresa como Marinero de Primera en el Escalafón K, con sueldo nominal de $ 41.170 (2026), cobertura de salud y alojamiento; contacto: recur_ingresos@armada.mil.uy o WhatsApp 091 016 053.
+- **BROU - Concursos de ingreso al Banco República (Auxiliar de Ingreso, llamado de octubre 2026)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://servicios.brou.com.uy/concursos/
+  - Que es: Personas con secundaria completa, sin experiencia bancaria, para el escalafón administrativo (Auxiliar de Ingreso) en sucursales; hay llamados específicos para personas con discapacidad y por leyes de acciones afirmativas.
+  - Requisitos: Auxiliar de Ingreso 2026: Educación Media completa (Fórmula 69 A con escolaridad para BROU, o constancia de egreso de UTU); cédula de identidad y credencial cívica vigentes; quienes tenían 35 años o más al 01/07/2026 deben acreditar años de aportes suficientes para jubilación común a los 65. Sin edad mínima ni máxima declarada. No exige experiencia previa. Los extranjeros presentan escolaridad de su país con revalidación.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no figura en la página leída)
+  - Plazo o ciclo: Llamado Auxiliar de Ingreso publicado el 19/10/2026: inscripción ya CERRADA (33.284 inscriptos, sorteo realizado, verificación de documentos en curso con convocatorias complementarias, la última para Montevideo el 20/11/2026); prueba escrita prevista el 15/02/2027 en Antel Arena. Llamados anteriores de Auxiliar de Ingreso: 27/05/2021, 13/07/2022 (personas con discapacidad), 12/09/2022, 07/07/2025 y 19/10/2026; además Curiales (07/07/2026) y otros cargos técnicos. Casi anual, sin fecha fija.
+  - Como postular: https://servicios.brou.com.uy/concursos/ (el banco indica que su web es el único canal oficial; no hay llamado abierto al 23/11/2026: seguir la página para el próximo)
+  - Lectura automatica posible: Páginas ASPX por llamado ('Avance') con etapas; sin API.
+  - Aclaracion: Ya no se puede postular a este llamado; sirve como referencia del ciclo, que se anuncia en la página con una ficha de Avance.
+  - Aclaracion: Quien no se presente a la convocatoria o no entregue toda la documentación queda excluido.
+  - Aclaracion: El ingreso es por sorteo y examen en un banco estatal.
+- **BPS - Concursos externos vigentes (Auxiliares Administrativos 6045/2026, pasantías UTU y otros)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.bps.gub.uy/63/concursos-externos-vigentes.html
+  - Que es: Público general (Auxiliares Administrativos, para todo el país) y egresados UTU de Administración (pasantías). No se pide experiencia previa; la experiencia en BPS puntúa en una etapa.
+  - Requisitos: 6045/2026: ciudadanía natural o legal con al menos 3 años, 18 años cumplidos al cierre de inscripción; el requisito de estudios no se confirmó en la fuente consultada (un artículo de prensa menciona liceo completo para un llamado de BPS). 6924/2026: egresados DGETP de cursos de Administración desde 2023, mayores de 18, sin pasantía o beca previa en el Estado. 7536/2026: bachillerato o equivalente DGETP, título de auxiliar en registros médicos y registro en el MSP.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Pasantía 6924/2026: asignación mensual nominal de $ 45.414 por 40 h semanales, más posibles beneficios y prima variable semestral. Registros médicos 7536/2026: arrendamiento a $ 783,21 por hora de guardia presencial. Auxiliares Administrativos 6045/2026: sin monto leído en la página oficial (un titular de prensa indica más de $ 80.000).
+  - Plazo o ciclo: La página (actualizada el 23/11/2026) lista 5 llamados externos: 6045/2026 Auxiliares Administrativos (inscripción 22/04 al 12/05/2026, 86 cargos, documentación del 25/05 al 12/06/2026: cerrado), 6924/2026 Pasantes de Administración DGETP-UTU (inscripción 07/07 al 21/07/2026: cerrado), 7536/2026 Auxiliar en registros médicos (inscripción 26/08 al 15/09/2026: cerrado, 60 habilitados), 7045/2026 Tecnólogo o licenciado en registros médicos y 8552/2026 Pasantías de Salud, Laboratorio y Farmacia (fechas no vistas). No se verificó ningún llamado con inscripción abierta al 23/11/2026. BPS llama varias veces al año.
+  - Como postular: Servicio en línea "Postularme a un llamado" con Usuario Personal BPS, desde la ficha de cada llamado en https://www.bps.gub.uy/63/concursos-externos-vigentes.html. Consultas: BPSConcursos@bps.gub.uy
+  - Lectura automatica posible: Páginas HTML por llamado; plataforma concursos.bps.gub.uy; sin API.
+  - Aclaracion: La lista vigente cambia durante el año, por lo que conviene revisar la página antes de postular.
+  - Aclaracion: No se confirmó que el llamado 6045 siga "en ratificación"; su inscripción cerró en mayo de 2026.
+  - Aclaracion: El requisito de estudios del llamado 6045 no se confirmó en la fuente oficial.
+  - Aclaracion: Los llamados masivos usan sorteo.
+- **Ministerio del Interior - Concursos (llamados externos) y Policía Nacional** (sin verificar, verificada 1 vez) https://www.gub.uy/ministerio-interior/institucional/concursos
+  - Que es: Postulantes externos a cargos del Ministerio del Interior; la sección toma los datos de Uruguay Concursa y lista solo llamados abiertos.
+  - Requisitos: No aplica a esta página vacía. Para el llamado policial abierto, ver la fuente siguiente.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: La sección de concursos mostraba 'No hay contenido para mostrar' (solo se listan llamados abiertos). El llamado abierto vigente se publica como noticia: inscripciones del 16 de noviembre al 13 de diciembre de 2026 (ver fuente siguiente).
+  - Como postular: https://inscripciones.minterior.gub.uy/formularios/show/570
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La sección no tenía ningún llamado externo abierto y se alimenta desde Uruguay Concursa, por lo que no sirve como vía de postulación mientras esté vacía.
+  - Aclaracion: El llamado de ingreso policial abierto se publica como noticia oficial, descrita en la fuente de Educación policial.
+  - Aclaracion: Teléfono del Ministerio: 2030 4000, Mercedes 993, Montevideo, lunes a viernes de 9:00 a 17:00.
+- **Ministerio de Defensa Nacional - Concursos y convocatorias (internos y externos)** (sin verificar, verificada 1 vez) https://www.gub.uy/ministerio-defensa-nacional/tramites-y-servicios/servicios/concursos-convocatorias-del-mdn
+  - Que es: Público en general, para llamados externos del Ministerio; también hay llamados internos.
+  - Requisitos: sin datos. Cada llamado fija sus propias bases. La sección 'Llamados dirigidos a la ciudadanía' incluye como unidades emisoras al Comando General del Ejército, la Armada, la Fuerza Aérea, DINACIA, Dirección Nacional de Meteorología, entre otras.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página oficial es real y está dirigida al público en general, pero no lista llamados ni fechas; el sistema app-llamados.mdn.gub.uy se cargó solo con filtros (Abiertos, Cerrados, Etapa de inscripción cerrada) y sin ningún llamado visible.
+  - Como postular: https://app-llamados.mdn.gub.uy
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El listado carga de forma dinámica y no se confirmó ningún llamado abierto al 23/11/2026; conviene revisarlo en app-llamados.mdn.gub.uy filtrando por 'Abiertos'.
+  - Aclaracion: Contacto: Av. 8 de Octubre 2628, tel. +598 2487 2828, lunes a viernes de 9 a 17 h.

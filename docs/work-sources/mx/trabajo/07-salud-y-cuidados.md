@@ -1,0 +1,87 @@
+# Salud y cuidados
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Hospital Ángeles: Talento, vacantes** (abierta o vigente, verificada 2 veces) https://talento.hospitalangeles.com/vacantes
+  - Que es: Personas que buscan puestos médicos, administrativos, operativos y de apoyo en hospitales de la red (la consulta mostró Hospital Ángeles Ciudad de México/Lindavista y Xalapa).
+  - Requisitos: No se listan en la página general; cada vacante tiene su ficha. Hay puestos operativos (cajero, auxiliar de almacén) y especializados (técnico radiólogo, dietista, chef). No se confirmó si alguno pide cero experiencia.
+  - Pago o beneficio: Varía por puesto; ejemplos vistos: Dietista $9,500-$10,000 MXN, Cajero (Xalapa) $10,200 MXN, Técnico Radiólogo $9,900-$12,590 MXN, Chef $18,000-$20,730 MXN (montos mensuales presumibles; la página no lo precisa)
+  - Plazo o ciclo: Abierto todo el año (la página indicaba 90 vacantes al 2026-11-23; sin fechas de cierre)
+  - Como postular: https://talento.hospitalangeles.com/vacantes
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los montos de sueldo parecen mensuales, pero la página no lo precisa.
+  - Aclaracion: Las ofertas son presenciales, en CDMX (HA Lindavista) y Xalapa.
+  - Aclaracion: La titularidad del dominio no se verificó contra hospitalangeles.com, aunque la página enlaza a sus redes oficiales.
+  - Aclaracion: La postulación se hace desde la ficha de cada vacante.
+- **Médica Sur: Talento (reclutamiento)** (abierta o vigente, verificada 2 veces) https://www.medicasur.com.mx/talento/
+  - Que es: Personas que buscan trabajo en el hospital privado Médica Sur. Los médicos siguen un proceso aparte de credencialización.
+  - Requisitos: No se listan en la página. El enlace 'Requisitos para credencialización' corresponde a médicos que se incorporan a la sociedad médica, no a personal general.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (sin lista de vacantes propia; remite a Computrabajo/Pandape y LinkedIn)
+  - Como postular: https://www.medicasur.com.mx/talento/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no muestra vacantes; remite a perfiles en Pandape/Computrabajo y LinkedIn, al correo reclutamiento@medicasur.org.mx y al teléfono 55 5424 7200 (ext. 4506, 4516 o 3133).
+  - Aclaracion: Correo general: contactanos@medicasur.org.mx.
+- **IMSS, Profesionales de la salud (residencias médicas, enfermería, formación)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.imss.gob.mx/profesionales-salud
+  - Que es: Médicos generales y extranjeros (residencias), cirujanos maxilofaciales, aspirantes a licenciatura en enfermería y personal de salud externo que busca cursos de educación continua.
+  - Requisitos: Dependen de cada trámite: título de médico u odontólogo para las residencias; para la licenciatura en enfermería, concurso de selección. Edad, promedio y documentos exactos: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Convocatorias por trámite, sin fechas en esta página; el ciclo anual no se confirmó con fechas, solo con la existencia de los trámites.
+  - Como postular: https://www.imss.gob.mx/profesionales-salud
+  - Lectura automatica posible: No se vio ninguna.
+  - Aclaracion: Es formación y plazas de especialidad, no empleo directo ni primer empleo sin estudios.
+  - Aclaracion: Los trámites listados son IMSS-03-002 (residencias para médicos mexicanos), IMSS-03-003 (médicos extranjeros), IMSS-03-004 (rotaciones parciales), IMSS-03-007 (cirugía maxilofacial), IMSS-03-005 (licenciatura en enfermería), IMSS-03-006 (educación continua) e IMSS-03-001 (campos clínicos).
+  - Aclaracion: Las páginas de cada trámite deben tomarse de los enlaces del propio portal; una subpágina /residencias-medicas probada devolvió 404.
+- **IMSS, ingreso a la licenciatura en enfermería (escuelas del IMSS), trámite IMSS-03-005** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.imss.gob.mx/tramites/imss03005
+  - Que es: Jóvenes que quieren formarse como enfermeras o enfermeros en escuelas del IMSS mediante concurso de selección.
+  - Requisitos: Bachillerato concluido con promedio mínimo de 8.0; secundaria con promedio mínimo de 7.0; edad de 18 a 25 años cumplidos; constancia médica de aptitud de una institución del Sistema Nacional de Salud. Documentos: solicitud FF-IMSS-009, certificado de bachillerato, copia certificada del acta de nacimiento y fotografías (la lista se cortó). No requiere experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito (sin costo del trámite). Salario o beca: sin datos.
+  - Plazo o ciclo: Anual según la ficha: convocatoria en mayo, junio y julio, y también en noviembre y diciembre para el ingreso de enero. La solicitud solo está disponible en las fechas de la convocatoria; no se vio una convocatoria vigente a 2026-11-23.
+  - Como postular: https://edumed.imss.gob.mx/2010/
+  - Lectura automatica posible: No se vio ninguna.
+  - Aclaracion: La ficha se actualizó por última vez el 28/09/2018, por lo que fechas y requisitos deben confirmarse en la convocatoria vigente.
+  - Aclaracion: El trámite es presencial en la escuela de enfermería del IMSS elegida (lunes a viernes, de 8:00 a 15:00), donde se revisan documentos y se aplican examen de conocimientos, evaluación psicométrica y entrevista.
+  - Aclaracion: Es una ruta de formación y no un empleo directo.
+  - Aclaracion: El portal edumed.imss.gob.mx/2010/ cargó solo con el título, por lo que no se vio ninguna convocatoria publicada.
+- **IMSS, residencias médicas para médicos mexicanos (trámite IMSS-03-002)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.imss.gob.mx/tramites/imss03002a
+  - Que es: Médicos generales mexicanos externos al IMSS seleccionados en el ENARM del año (modalidad A); hay modalidades B y C para trabajadores del IMSS e hijos.
+  - Requisitos: Ser médico general externo al IMSS y haber sido seleccionado en el ENARM de la promoción correspondiente. Documentos: acta de nacimiento certificada, certificado de calificaciones con promedio, CURP y RFC, constancia de seleccionado del ENARM, constancias de internado de pregrado y servicio social, cédula profesional y título, solicitud FF-IMSS-011 y fotografías.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Trámite gratuito. Salario o beca de residente: sin datos (no figura en la ficha).
+  - Plazo o ciclo: Anual, ligado al ENARM; la ficha dice que la convocatoria se emite cada año y no indica fechas. No se vio una convocatoria vigente a 2026-11-23.
+  - Como postular: https://www.imss.gob.mx/tramites/imss03002a
+  - Lectura automatica posible: No se vio ninguna.
+  - Aclaracion: La captura de datos es en línea las 24 horas solo durante el periodo de registro; después el trámite se concluye de forma presencial en un Centro de Recepción y Verificación de Documentos.
+  - Aclaracion: La ficha se actualizó el 08/04/2019 y no menciona salario ni beca.
+  - Aclaracion: Es una ruta para médicos con selección en el ENARM, no para público general ni primer empleo sin título.
+- **Médicas y Médicos del Bienestar (IMSS-Bienestar), reclutamiento de personal de salud** (sin verificar, verificada 1 vez) https://medicasymedicosdelbienestar.imssbienestar.gob.mx/
+  - Que es: Personas del área de la salud interesadas en plazas hospitalarias, comunitarias o administrativas en los servicios de IMSS-Bienestar.
+  - Requisitos: No se enumeran en la página; es personal de salud (médicos y otras profesiones de salud). Cédula, edad y demás: sin datos.
+  - Pago o beneficio: Descrito como 'remuneración competitiva' más bono en zonas de difícil cobertura; monto: sin datos
+  - Plazo o ciclo: sin datos. La página tiene una sección CONVOCATORIA con botón 'Aplica aquí', pero sin fechas de apertura ni cierre.
+  - Como postular: https://medicasymedicosdelbienestar.imssbienestar.gob.mx/trabaja_con_nosotros.html
+  - Lectura automatica posible: No se vio ninguna.
+  - Aclaracion: Dirigido a profesionales de la salud, no a primer empleo sin título; no se enumeran cédula ni edad.
+  - Aclaracion: Beneficios declarados: contrato de base por dos años con prestaciones, bono en unidades de difícil cobertura, turnos matutino, vespertino y nocturno; los médicos generales con dos años de antigüedad en zonas de alta y muy alta marginación obtienen un punto adicional en el ENARM.
+  - Aclaracion: El enlace de bolsa de trabajo redirige al portal de pre-registro, que el 23 de noviembre de 2026 mostraba 'PRERREGISTRO CERRADO'; no se puede afirmar que haya convocatoria abierta.
+- **Cruz Roja Mexicana, escuelas de enfermería y formación** (sin verificar, verificada 1 vez) https://cruzrojamexicana.org.mx/que-hacemos/enfermeria
+  - Que es: Personas que quieren formarse en enfermería (técnico profesional, bachillerato tecnológico, licenciatura, especialidad y cursos pos-técnicos).
+  - Requisitos: sin datos (no publicados en la página).
+  - Pago o beneficio: sin datos (no se vio costo ni beca).
+  - Plazo o ciclo: sin datos: las fechas dependen del calendario de cada escuela y de la institución incorporante; no hay convocatoria visible.
+  - Como postular: https://cruzrojamexicana.org.mx/que-hacemos/enfermeria
+  - Lectura automatica posible: No se vio ninguna.
+  - Aclaracion: La página solo detalla la escuela de Morelos (estudios incorporados a la SEP DGETI y a la Universidad Autónoma del Estado de Morelos) y enlaza un PDF de calendario de actividades.
+  - Aclaracion: No da requisitos de ingreso, fechas ni cómo inscribirse; los únicos contactos son de donativos, por lo que hay que consultar la escuela directamente o la página de contacto.
+  - Aclaracion: Es una ruta de formación y no un empleo.
+- **Cruz Roja Mexicana, centros de capacitación** (sin verificar, verificada 1 vez) https://capacitacion.cruzrojamexicana.org.mx/
+  - Que es: Público general y personal de salud o emergencias que busca cursos de primeros auxilios, paramédico y TUM.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://capacitacion.cruzrojamexicana.org.mx/
+  - Lectura automatica posible: No se vio ninguna.
+  - Aclaracion: La página cargó solo con el título 'Capacitación Nacional' (probable contenido dinámico); no se pudo confirmar ningún curso, costo, requisito ni forma de inscripción.
+  - Aclaracion: No debe presentarse como fuente verificada hasta confirmar su contenido.

@@ -1,0 +1,758 @@
+# Fuentes transversales y de otros rubros
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **SEMAR: tríptico Contrataciones 2026 (grados, escolaridad y edad por nivel)** (abierta o vigente, verificada 2 veces) https://www.gob.mx/cms/uploads/attachment/file/1109010/TRI_PTICO_CONTRATACIONES_2026.pdf
+  - Que es: Aspirantes a la Armada de México según su nivel académico: desde secundaria o bachillerato (marinero) hasta licenciatura, especialidad o doctorado (oficiales).
+  - Requisitos: Grado según nivel académico y edad a la fecha de contratación: Marinero (secundaria o bachillerato), 18 a 30 años; Tercer Maestre (técnico profesional) y Segundo Maestre (técnico profesional con especialidad), 18 a 35 años; Primer Maestre (técnico superior universitario), Teniente de Corbeta (licenciatura) y Teniente de Fragata (especialidad médica o maestría), con límites de 35 y 40 años según el cuadro; Teniente de Navío (subespecialidad médica o doctorado), 40 años. Quienes tengan secundaria o bachillerato aprueban exámenes teórico y práctico. Título y cédula profesional para los niveles técnico y superiores. Mismos requisitos físicos, legales y documentales de la página de contrataciones vigentes.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Documento de contrataciones 2026; sin fecha límite (enlazado desde la página de contrataciones vigentes publicada el 4 de septiembre de 2026)
+  - Como postular: https://contrataciones.semar.gob.mx (según la página oficial de Contrataciones vigentes)
+  - Lectura automatica posible: PDF
+  - Aclaracion: El cuadro de edades por grado tiene celdas combinadas, por lo que los límites exactos de los niveles intermedios conviene confirmarlos en el documento.
+  - Aclaracion: Es una de las vías de entrada sin experiencia previa: el nivel mínimo pide secundaria o bachillerato.
+- **Secretaría de la Defensa Nacional: Servicio Militar Nacional (vía de entrada al Ejército y la Armada)** (abierta o vigente, verificada 2 veces) https://www.gob.mx/defensa/acciones-y-programas/servicio-militar-nacional
+  - Que es: Hombres mexicanos (servicio obligatorio) y mujeres de 18 años o más que quieran participar de forma voluntaria; sirve como puerta de información para quien quiere acercarse al Ejército y a la Armada. No es una convocatoria de empleo.
+  - Requisitos: Obligatorio para mexicanos por nacimiento o naturalización. La primera expedición de la Cartilla de Identidad del SMN es gratuita y no se tramita por redes sociales ni mercados en línea. Mujeres de 18 años o más pueden participar de forma voluntaria en actividades de los centros de adiestramiento de las Zonas Militares del interior del país. La página no indica edad mínima ni máxima de conscripción ni lista de documentos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no es un empleo; no se indica pago)
+  - Plazo o ciclo: Permanente (el servicio es obligatorio y la página, con fecha del 20 de octubre de 2026, no fija periodos de registro ni fechas límite)
+  - Como postular: Módulos de Atención al Público del Servicio Militar Nacional (sin direcciones en la página). Contacto: atn_ciudadana@defensa.gob.mx o línea 079
+  - Lectura automatica posible: none
+  - Aclaracion: Es un deber ciudadano, no una oferta de trabajo.
+  - Aclaracion: Se incluye porque la cartilla o su constancia de liberación es documento requerido para ingresar a SEMAR (excepto mujeres).
+  - Aclaracion: El servicio se presta en el Ejército o en la Armada como soldado, clase u oficial según aptitudes.
+- **INE: convocatoria para Supervisores/as y Capacitadores/as-Asistentes Electorales (SE y CAE) 2026-2027** (abierta o vigente, verificada 2 veces) https://ine.mx/convocatoria-para-supervisores-capacitadores-electorales-2026-2027/
+  - Que es: Cualquier persona de 18 años o más (o de 17 que cumpla la mayoría de edad al contratarse) con disponibilidad de tiempo completo. Se recluta en las 32 entidades federativas para el Proceso Electoral Concurrente 2026-2027 (Jornada Electoral: 6 de junio de 2027).
+  - Requisitos: Nacionalidad mexicana; credencial para votar vigente o comprobante de trámite; secundaria terminada como mínimo; 18 años cumplidos (o 17 que cumplan 18 al contratarse); residir en el distrito electoral; correo electrónico personal; acta de nacimiento, comprobante de domicilio (máx. 2 meses), CURP y constancia de situación fiscal (al contratarse); no militar en partido ni haber sido condenado por delito doloso; disponibilidad de tiempo completo, fines de semana y festivos. No exige experiencia previa (solo se prefiere).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Honorarios brutos mensuales: SE $20,000 y CAE $18,500 (zonas de vida cara); SE $18,500 y CAE $17,500 (vida estándar); más gastos de campo.
+  - Plazo o ciclo: Registro del 9 de noviembre al 7 de diciembre de 2026 (confirmado en el PDF oficial de preguntas frecuentes); se puede modificar la solicitud del 9 de noviembre al 8 de diciembre; cápsula de inducción hasta el 11 de diciembre; evaluación de conocimientos 12 y 13 de diciembre de 2026. Se repite en cada proceso electoral federal.
+  - Como postular: https://aspirantes-seycae.ine.mx/loginSEyCAE
+  - Lectura automatica posible: no
+  - Aclaracion: La página principal no trae las fechas; salen del PDF oficial de preguntas frecuentes.
+  - Aclaracion: Contratación por honorarios temporales: SE desde el 24 de enero y CAE desde el 29 de enero hasta el 14 de junio; las preguntas frecuentes escriben el año 2026, lo más probable es un error por 2027.
+  - Aclaracion: Sin límite máximo de edad; se prefiere, sin ser excluyente, experiencia docente o electoral, saber conducir y manejar teléfonos inteligentes.
+  - Aclaracion: El proceso incluye cápsula de inducción, revisión documental, examen de conocimientos y entrevista. Teléfono INETEL 800 433 2000.
+- **INE: vacantes de la Rama Administrativa (oficinas centrales y juntas locales y distritales)** (abierta o vigente, verificada 2 veces) https://www.ine.mx/comunidad-ine/vacantes-la-rama-administrativa/
+  - Que es: Personas interesadas en puestos administrativos del INE en oficinas centrales y en juntas locales y distritales de varios estados. En la lectura del 23-nov-2026 aparecían puestos como Intendente/a, Secretaria/o, Chofer/esa Mensajero/a, Digitalizador/a, Operador/a de equipo tecnológico, Auxiliar de atención ciudadana, Guardia de seguridad interna y Verificador/a de campo, entre otros.
+  - Requisitos: Generales: nacionalidad mexicana, credencial para votar, sin candidatura ni dirigencia partidista en los 3 años previos, sin inhabilitación ni condena por delito doloso; escolaridad y experiencia mínimas según el perfil de cada puesto, con comprobantes; currículum con el Formato Institucional de Currículum Vitae. La experiencia depende del puesto (los de nivel operativo suelen pedir menos), pero no se verificó.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto de forma continua: cada aviso trae sus propias fechas y lugar de entrega; los más recientes son de noviembre de 2026
+  - Como postular: https://www.ine.mx/comunidad-ine/vacantes-la-rama-administrativa/
+  - Lectura automatica posible: no
+  - Aclaracion: Algunos avisos ya tienen aspirantes seleccionados o resultados, por lo que pueden estar cerrados; hay que revisar el PDF de cada uno.
+  - Aclaracion: Los plazos de cada aviso no se leyeron y la experiencia requerida por puesto no se verificó.
+  - Aclaracion: Los avisos recientes corresponden a oficinas centrales y juntas de Chihuahua, Coahuila, Oaxaca, Veracruz y Querétaro.
+  - Aclaracion: Contacto: INETEL 800 433 2000, inetelmx@ine.mx.
+- **Secretaría de Seguridad Ciudadana de Querétaro: Únete a la Policía Estatal (Formación Inicial para Policía de Proximidad Estatal)** (abierta o vigente, verificada 2 veces) https://sscqro.gob.mx/programas/unete-a-la-policia-estatal/
+  - Que es: Ciudadanía interesada en ingresar a la formación inicial para policía estatal de proximidad en Querétaro. Ejemplo de ruta estatal de policía; cada estado publica su propia convocatoria.
+  - Requisitos: Ciudadanía mexicana por nacimiento; originario de Querétaro o con residencia (preferentemente de tres años); edad de 18 a 34 años; bachillerato o equivalente concluido; estatura mínima preferente de 1.55 m (mujeres) y 1.60 m (hombres); sin sentencia condenatoria ni proceso penal por delito doloso; cartilla del Servicio Militar liberada (varones); INE, acta de nacimiento 2026, comprobante de domicilio de máximo dos meses, CURP, NSS, constancia de no deudor alimentario y otros documentos del listado de la convocatoria. Aprobar las evaluaciones y el control de confianza.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Beca durante la formación inicial "de acuerdo a la suficiencia presupuestal"; monto no indicado y sin relación laboral durante la formación.
+  - Plazo o ciclo: Convocatoria vigente del 23 de enero al 31 de diciembre de 2026; el periodo de recepción de documentos puede ampliarse.
+  - Como postular: Entrega presencial de documentos, lunes a viernes de 09:00 a 16:00, en el Centro de Mando Operativo de la Policía Estatal, Paseo 5 de Febrero No. 35 Norte, Col. San Antonio de la Punta, Querétaro, C.P. 76010. Teléfonos (442) 309 14 00 y (442) 309 14 13.
+  - Lectura automatica posible: no
+  - Aclaracion: El proceso tiene tres etapas, la tercera de control de confianza.
+  - Aclaracion: La formación es gratuita, en internado de lunes a sábado, de 1080 a 1240 horas, en el CECAFIS.
+  - Aclaracion: Las personas seleccionadas son contratadas si cumplen la Ley General del Sistema Nacional de Seguridad Pública.
+  - Aclaracion: No se exige experiencia previa.
+- **SEMAR: plataforma de contrataciones (crear cuenta de aspirante)** (sin verificar, verificada 1 vez) https://contrataciones.semar.gob.mx/portal/servlet/app.crearcuenta
+  - Que es: Aspirantes nuevos a personal naval; quien ya tiene cuenta entra por la página de inicio de sesión.
+  - Requisitos: No se listan en la plataforma; los requisitos están en la página de Contrataciones vigentes y en el tríptico.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (la sección "Convocatorias activas" se vio vacía; la página trae un aviso de veda electoral que dice que el sitio se mantendrá en reserva hasta el 6 de junio, aparentemente desactualizado)
+  - Como postular: https://contrataciones.semar.gob.mx/portal/servlet/app.crearcuenta
+  - Lectura automatica posible: none
+  - Aclaracion: No se pudo confirmar que el registro esté abierto al 23/11/2026, pues no aparecen convocatorias activas ni fechas.
+  - Aclaracion: Para confirmar la vigencia, el contacto es el teléfono 55 56 24 65 00 y el correo direcoper.reclutamiento@semar.gob.mx.
+- **Secretaría del Trabajo de Querétaro: Programa de Apoyo al Empleo (PAE) 2026** (se repite (hoy sin llamado abierto), verificada 2 veces) https://queretaro.gob.mx/es/web/secretaria-de-trabajo-1
+  - Que es: Personas que buscan empleo y empresas que necesitan personal en Querétaro. El decreto estatal de 2026 contempla incluir a personas repatriadas originarias del estado y a personas con discapacidad.
+  - Requisitos: sin datos (están en la convocatoria y las Reglas de Operación 2026, que no se leyeron).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Programa 2026 con reglas de operación anuales; no se vieron fechas ni calendario por subprograma.
+  - Como postular: https://queretaro.gob.mx/es/web/secretaria-de-trabajo-1
+  - Lectura automatica posible: no
+  - Aclaracion: La página enlaza a la convocatoria y a las Reglas de Operación 2026, cuyos PDF no se abrieron, por lo que requisitos, montos y fechas no están verificados.
+  - Aclaracion: Subprogramas listados: Apoyo Cuidado Infantil, Becas Formación de Talentos, Capacitación Autoempleo, Distintivo Sin Brecha, Equipamiento para Autoempleo, Seguro de Desempleo, Capacitación Empleabilidad y Distintivo Talento Sin Barreras.
+  - Aclaracion: Contacto: 800 237 2233, (442) 211 7070, sectrabajo@queretaro.gob.mx.
+- **CONOCER: certificación de competencias laborales (sitio principal)** (abierta o vigente, verificada 2 veces) https://conocer.gob.mx
+  - Que es: Personas trabajadoras, estudiantes, docentes, emprendedoras y servidoras públicas que quieren un certificado oficial de lo que saben hacer, aunque lo hayan aprendido trabajando y no tengan título.
+  - Requisitos: No se publican requisitos generales; dependen de cada estándar de competencia. No se exige título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Costos no publicados en la página; los fija cada prestador acreditado.
+  - Plazo o ciclo: Abierto todo el año; el sitio mostraba noticias del 10 de noviembre de 2026.
+  - Como postular: https://conocer.gob.mx/prestadores-servicios-realizan-la-evaluacion-certificacion-las-competencias/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una oferta de empleo, sino un documento oficial que apoya la búsqueda de uno.
+  - Aclaracion: La certificación reconoce lo que la persona sabe hacer sin importar cómo lo aprendió; se puede agendar una videollamada informativa de cupo limitado.
+  - Aclaracion: Contacto: 55 2282 0200, contacto@conocer.gob.mx; oficina en Barranca del Muerto 275, CDMX.
+- **CONOCER: RENEC, Registro Nacional de Estándares de Competencia** (abierta o vigente, verificada 2 veces) https://conocer.gob.mx/renec-registro-nacional-estandares-competencia/
+  - Que es: Quien quiera saber qué estándares existen para su oficio u ocupación antes de certificarse (por ejemplo ventas, electricidad u otros oficios).
+  - Requisitos: Ninguno para consultar el catálogo.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito para consultar.
+  - Plazo o ciclo: Abierto todo el año; consulta permanente (página actualizada el 26/11/2024).
+  - Como postular: https://conocer.gob.mx/renec-registro-nacional-estandares-competencia/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un catálogo consultable por lista completa, por sector productivo o por ocupación, y es el paso previo para elegir qué certificación tramitar.
+  - Aclaracion: La fecha de actualización de 2024 es de la página, no necesariamente del catálogo.
+- **Prepa en Línea-SEP: bachillerato a distancia gratuito** (abierta o vigente, verificada 2 veces) https://prepaenlinea.sep.gob.mx
+  - Que es: Personas que concluyeron la secundaria y quieren terminar la preparatoria a distancia, sin límite de edad, para acceder a más vacantes.
+  - Requisitos: Certificado de secundaria o resolución de equivalencia. Personas mexicanas sin importar su lugar de residencia, o extranjeras con estancia legal en México. Sin límite de edad. CURP válida y correo electrónico personal. No se requiere experiencia. El detalle de documentos está en el PDF 'Requerimientos' y en las Bases y la Guía de inscripción de la convocatoria.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito
+  - Plazo o ciclo: Registro de la Convocatoria 2026, Generación 2: del 16 al 25 de noviembre de 2026 (abierto al 23 de noviembre; cierra el 25). Puede cerrar antes si se alcanzan 30,000 inscritos. Se repite por generaciones a lo largo del año.
+  - Como postular: https://registro.prepaenlinea.sep.gob.mx
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El registro puede cerrar antes del 25 de noviembre si se alcanzan 30,000 inscritos.
+  - Aclaracion: Conviene confirmar el número de generación en las bases vigentes, porque otras generaciones de 2026 tienen numeración distinta.
+  - Aclaracion: Plan de 2 años 6 meses, 23 módulos, modalidad no escolarizada con horarios flexibles.
+  - Aclaracion: El detalle de documentos está en el PDF 'Requerimientos' y en las Bases y la Guía de inscripción.
+- **Preparatoria Abierta SEP: concluir el bachillerato a tu ritmo** (abierta o vigente, verificada 2 veces) https://prepaabierta.sep.gob.mx/inscribete
+  - Que es: Personas que quieren iniciar, continuar o concluir la educación media superior sin ir a un horario escolar fijo.
+  - Requisitos: Documentos originales escaneados: acta de nacimiento, CURP vigente, certificado de secundaria, identificación oficial (INE; si es menor, copia de la identificación de madre, padre o tutor) y, en su caso, equivalencia o certificado parcial. Fotografía a color en JPG o PNG de 25 x 32 mm. Todo en un solo PDF de máximo 2 MB. No se requiere experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito (trámite sin costo; el costo de los exámenes no se verificó)
+  - Plazo o ciclo: Inscripción continua, cualquier día hábil, sin fechas ni convocatoria.
+  - Como postular: https://inscripcionprepaabierta.sep.gob.mx
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La inscripción en línea y los Centros de Servicios de Preparatoria Abierta que figuran en la página corresponden a la Ciudad de México (Álvaro Obregón, Cuajimalpa, Coyoacán, Miguel Hidalgo, Tláhuac y Gustavo A. Madero); no se verificó la atención en otros estados.
+  - Aclaracion: Hay dos planes: Modular y por Asignaturas; el costo de los exámenes no se verificó.
+  - Aclaracion: Quien tenga estudios previos de bachillerato debe tramitar antes la equivalencia en la Dirección General del Bachillerato.
+  - Aclaracion: Contacto en la portada: 55-5010-81-00.
+- **ICATSIN (Sinaloa): Instituto de Capacitación para el Trabajo del Estado de Sinaloa** (abierta o vigente, verificada 2 veces) https://portal.icatsin.edu.mx/
+  - Que es: Personas de Sinaloa que quieren aprender un oficio o actividad con cursos cortos y de bajo costo en sus planteles (Culiacán, Los Mochis, Mazatlán, Guasave, Navolato y otros).
+  - Requisitos: Saber leer y escribir; 15 años o más; copia de comprobante de domicilio reciente, de identificación oficial, de acta de nacimiento y de CURP. No se pide experiencia ni escolaridad mínima.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Cursos de pago: cuotas de 250 a 2,000 MXN en la primera página de la lista (cuota única de inscripción).
+  - Plazo o ciclo: Oferta continua por plantel. La oferta educativa listó 155 cursos; los de la primera página inician del 28 de noviembre de 2026 al 11 de enero de 2027.
+  - Como postular: https://portal.icatsin.edu.mx/ofertaEducativa
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Algunos horarios publicados (02:00 o 03:00) parecen errores de captura, por lo que conviene confirmarlos con el plantel.
+  - Aclaracion: Los cursos se filtran por plantel, fecha de inicio y días.
+  - Aclaracion: Contacto: (667) 690 9800 y WhatsApp 667 334 7843.
+- **Google Career Certificates (Grow with Google)** (abierta o vigente, verificada 2 veces) https://grow.google/certificates/
+  - Que es: Personas que quieren una credencial en áreas de tecnología sin experiencia previa.
+  - Requisitos: No se requiere experiencia ni título previos. Se necesita acceso a internet y un método de pago para la prueba gratuita.
+  - Sin experiencia previa: si
+  - Pago o beneficio: De pago: 49 USD al mes en EE. UU. y Canadá tras 7 días de prueba gratuita; el precio en México no se verificó.
+  - Plazo o ciclo: Sin fechas ni convocatoria; programa continuo y a ritmo propio.
+  - Como postular: https://grow.google/certificates/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un programa de una empresa privada, alojado en Coursera; no es gubernamental ni gratuito.
+  - Aclaracion: La página no confirma disponibilidad ni precio para México, y solo muestra «Español - España» como opción de idioma.
+  - Aclaracion: La inscripción añade 3 meses de Google AI Pro que se renuevan a 19.99 USD mensuales si no se cancelan.
+  - Aclaracion: Puede haber ayuda financiera en Coursera, pero no está verificada para México.
+- **Microsoft Learn: rutas de aprendizaje y módulos en español** (abierta o vigente, verificada 2 veces) https://learn.microsoft.com/es-mx/training/
+  - Que es: Personas que quieren aprender habilidades técnicas de Microsoft a su ritmo, desde principiantes hasta profesionales.
+  - Requisitos: No se indican requisitos de edad, estudios ni experiencia en la página; el contenido es de autoestudio para cualquier persona. Los requisitos de inscripción a cuenta de Microsoft no se vieron.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sin pago ni beca visible; contenido de formación en línea (la página no menciona costo).
+  - Plazo o ciclo: Abierto todo el año (catálogo de autoestudio permanente).
+  - Como postular: https://learn.microsoft.com/es-mx/training/browse/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es formación en línea de autoestudio; no es un programa de empleo ni de subsidio, y no incluye bolsa de trabajo ni beneficio económico.
+  - Aclaracion: La versión es-mx puede redirigir a la versión en español de España.
+  - Aclaracion: La cifra de más de 700 mil ofertas de trabajo que piden habilidades de Microsoft es dato del propio sitio, no verificado de forma independiente.
+- **IMSS - Personas trabajadoras del hogar (inscripción, cuotas e INFONAVIT)** (abierta o vigente, verificada 2 veces) https://www.imss.gob.mx/personas-trabajadoras-hogar
+  - Que es: Personas que trabajan en casas particulares (limpieza, cocina, cuidado, jardinería, choferes) y quienes las emplean. Sirve para pasar de la informalidad a tener seguridad social.
+  - Requisitos: La inscripción la realiza la persona empleadora por cada persona trabajadora del hogar. La página no enumera documentos. Sin requisito de experiencia para la persona trabajadora.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es un empleo; la persona empleadora paga las cuotas (no se vieron montos en la página).
+  - Plazo o ciclo: Sin fechas ni convocatoria; régimen de incorporación obligatoria, sin vigencia declarada en la página.
+  - Como postular: https://www.imss.gob.mx/personas-trabajadoras-hogar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un trámite que realiza la persona empleadora, no una oferta de empleo.
+  - Aclaracion: La página no enumera documentos ni pasos concretos de inscripción, y no indica montos de cuotas.
+  - Aclaracion: El primer mes de cobertura se paga al terminar y los siguientes por adelantado; se puede pagar por día, mes, bimestre, semestre o año.
+  - Aclaracion: El registro en INFONAVIT se hace al mismo tiempo que el del IMSS.
+- **IMSS - Asignación o localización del Número de Seguridad Social (NSS)** (abierta o vigente, verificada 2 veces) https://serviciosdigitales.imss.gob.mx/gestionAsegurados-web-externo/asignacionNSS
+  - Que es: Cualquier persona que va a ser afiliada al IMSS, incluidas personas de plataformas digitales y del hogar. Es el primer paso para formalizarse.
+  - Requisitos: CURP, correo electrónico válido (se asocia a la CURP), domicilio y resolver un CAPTCHA. Sin requisito de experiencia ni de estudios.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica; no se menciona costo.
+  - Plazo o ciclo: Abierto todo el año (servicio en línea; la página no indica horarios).
+  - Como postular: https://serviciosdigitales.imss.gob.mx/gestionAsegurados-web-externo/asignacionNSS
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un trámite en tres pasos: iniciar trámite, ingresar domicilio y finalizar trámite.
+  - Aclaracion: La página no menciona costo ni horarios.
+  - Aclaracion: Es un paso previo útil para quien va a trabajar formalmente o a registrarse en una plataforma.
+- **IMSS - Alta en Clínica o UMF (registro de beneficiarios, IMSS-02-066)** (abierta o vigente, verificada 2 veces) https://www.imss.gob.mx/tramites/registro-umf
+  - Que es: Personas aseguradas (incluidas las de plataformas) que necesitan asignar su Unidad de Medicina Familiar o registrar beneficiarios como cónyuge, hijos o padres.
+  - Requisitos: Varían por modalidad: normalmente identificación oficial, fotografía tamaño infantil y acta de nacimiento, matrimonio o sociedad de convivencia; algunas modalidades piden comprobante de domicilio o declaración bajo protesta. En línea: e.firma (o CURP en modalidades J y M), NSS y correo personal.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito (trámite sin costo); no es un pago ni empleo.
+  - Plazo o ciclo: Abierto todo el año. En línea 24/7 con e.firma; en persona en la UMF asignada, de lunes a viernes de 8:00 a 14:00 (unidades con turno matutino) o de 8:00 a 19:30 (unidades con turno matutino y vespertino). Última actualización indicada en la página: 09/10/2024.
+  - Como postular: https://www.imss.gob.mx/tramites/registro-umf
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un trámite de seguridad social, no una oferta de empleo.
+  - Aclaracion: Modalidades: A (cónyuge), D (concubino/a), G (padres), J (hijos), M (persona asegurada o pensionada) y P (sociedad de convivencia).
+  - Aclaracion: Las modalidades J y M también pueden hacerse en línea con CURP, y la M mediante la app IMSS Digital.
+- **INEA: primaria y secundaria gratuitas para personas adultas (gob.mx/inea)** (sin verificar, verificada 1 vez) https://www.gob.mx/inea
+  - Que es: Personas adultas que no saben leer y escribir o que no han concluido primaria o secundaria.
+  - Requisitos: Según la Ley General de Educación citada en búsqueda: personas de 15 años o más sin primaria o secundaria concluida; de 10 a 14 años solo primaria. Documentos reportados por fuentes secundarias: CURP y fotografía reciente; para secundaria, certificado de primaria. No se requiere experiencia. No verificado en la página oficial.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito según reglas de operación citadas en búsqueda (no verificado en la página oficial)
+  - Plazo o ciclo: Se presume abierto todo el año, pero no se vio un calendario ni una vía de inscripción en la página oficial. Hay jornadas locales de inscripción (por ejemplo, una convocatoria en Tijuana reportada en abril de 2026).
+  - Como postular: https://www.gob.mx/inea
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La portada solo trae menús y no describe requisitos, costo ni proceso; las subpáginas probadas dieron 404.
+  - Aclaracion: Los requisitos y la gratuidad provienen de fuentes secundarias y de lineamientos E029 INEA 2026 que no se verificaron en la página oficial.
+  - Aclaracion: El modelo educativo pudo cambiar de nombre (MEVyT / AprendeINEA); conviene confirmar en inea.gob.mx o en el Instituto Estatal de Educación para Adultos correspondiente.
+  - Aclaracion: Correo de atención: atencion_inea@inea.gob.mx.
+- **ICATECH (Chiapas): Instituto de Capacitación y Vinculación Tecnológica del Estado de Chiapas** (sin verificar, verificada 1 vez) https://www.icatech.gob.mx
+  - Que es: Personas de Chiapas que quieren cursos de capacitación para el trabajo en alguna de sus 11 unidades de capacitación (con acciones móviles a municipios cercanos).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se vio un calendario de cursos. La página de convocatorias (icatech.gob.mx/convocatorias/index) mostraba solo dos convocatorias de instructores de 2026, ambas cerradas (la de natación cerró el 4 de noviembre de 2026).
+  - Como postular: https://www.icatech.gob.mx/cursos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El contenido, el costo, los requisitos y la existencia de un preregistro abierto no están confirmados.
+  - Aclaracion: La portada menciona 'Cursos', 'Certificaciones (Red-Icatech)', 'Alfabetización con Humanismo' y el preregistro de la Beca Rosario Castellanos.
+  - Aclaracion: Domicilio: Av. Barrio San Jacinto 154, Fracc. El Diamante, Tuxtla Gutiérrez, Chiapas.
+- **Capacítate para el Empleo (Fundación Carlos Slim / Aprende.org)** (sin verificar, verificada 1 vez) https://capacitateparaelempleo.org
+  - Que es: sin datos
+  - Requisitos: Según fuentes secundarias: crear un perfil en el portal; sin límite de edad. No se verificó en el sitio. No se requiere experiencia según esas fuentes.
+  - Pago o beneficio: Gratuito según fuentes secundarias (no verificado en el sitio)
+  - Plazo o ciclo: Presuntamente abierto todo el año y a ritmo propio (según notas de prensa); no confirmado en el sitio.
+  - Como postular: https://capacitateparaelempleo.org
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La información sobre gratuidad, registro y ausencia de límite de edad proviene de notas de prensa de 2026, no de la página del programa.
+  - Aclaracion: El número de cursos varía entre fuentes (de más de 125 a 337).
+  - Aclaracion: La organización responsable, el catálogo, el costo y el registro no se pudieron confirmar en el sitio.
+- **AforeWeb - Registro en una Afore y consulta de la cuenta de retiro** (sin verificar, verificada 1 vez) https://www.gob.mx/consar/articulos/aforeweb
+  - Que es: Personas trabajadoras de plataformas, del hogar o independientes que quieren registrarse en una Afore, consultar su cuenta individual, hacer aportaciones voluntarias o retiros parciales.
+  - Requisitos: sin datos (no se vieron requisitos en la fuente de CONSAR)
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (portal permanente de servicios; no es una convocatoria ni un programa con ciclo)
+  - Como postular: https://www.aforeweb.com.mx/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una fuente de empleo, capacitación ni subsidio, sino un trámite de ahorro para el retiro.
+  - Aclaracion: El sitio aforeweb.com.mx no cargó por un error de certificado; solo se confirmó su existencia en una página de CONSAR fechada 15/05/2022.
+  - Aclaracion: No se verificaron requisitos ni el proceso de registro.
+- **Arca Continental: Trabaja en Arca Continental (México y Sudamérica)** (abierta o vigente, verificada 2 veces) https://www.arcacontal.com/es/empleo/trabaja-en-arca-continental
+  - Que es: Personas que buscan empleo en bebidas y botanas. El portal agrupa vacantes por Operaciones y Cadena de Suministro, Comercial, Capital Humano, TI, entre otras.
+  - Requisitos: No se listan requisitos en las fichas visibles; cada vacante tiene su detalle. Hay puestos operativos y eventuales (almacén, caja), pero no se confirmó si piden experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año; el buscador mostraba 187 vacantes el 23 de noviembre de 2026 (primeras 25 visibles)
+  - Como postular: https://careers.arcacontal.com/search/
+  - Lectura automatica posible: sin datos. Portal tipo SuccessFactors con búsqueda en /search/, sin API confirmada.
+  - Aclaracion: Las vacantes se publican en careers.arcacontal.com; las de EE. UU. se publican en sitios distintos.
+  - Aclaracion: Vacantes vistas en México: Operador Tratamiento Aguas Residuales (Planta Topo Chico, Monterrey), Auxiliar Almacén General (CEDI Tonalá, Jalisco), Coordinador Seguridad e Higiene Eventual (Planta Chihuahua) y Cajero Eventual (CEDI Parral, Chihuahua).
+  - Aclaracion: Hay una sección aparte, Digital Nest, para tecnología, ciencia de datos y estrategia comercial.
+- **Grupo Modelo (AB InBev): Trabaja con nosotros y vacantes** (abierta o vigente, verificada 2 veces) https://www.grupomodelo.com/ofertas-de-trabajo/trabaja-con-nosotros
+  - Que es: Personas que buscan empleo en cervecería y distribución. La página no describe puestos ni programas.
+  - Requisitos: No se enumeran en la página; cada vacante en el portal define los suyos. Se declara que el proceso de reclutamiento, evaluación, selección y contratación no tiene costo.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año (sin fecha límite; las vacantes se publican de forma continua en el portal)
+  - Como postular: https://wd1.myworkdaysite.com/recruiting/abinbev/MEX
+  - Lectura automatica posible: sin datos. Portal Workday (wd1.myworkdaysite.com/recruiting/abinbev/MEX), no consultado.
+  - Aclaracion: La página no lista vacantes: enlaza a «Nuestras Vacantes» en Workday (wd1.myworkdaysite.com/recruiting/abinbev/MEX), cuyo contenido es dinámico.
+  - Aclaracion: El proceso de reclutamiento, evaluación, selección y contratación no tiene costo.
+  - Aclaracion: Contacto publicado: 800 466 3356, 55 91 38 99 90 (CDMX) y atencionbees@ab-inbev.com.
+- **GRUMA: Únete a nosotros, oportunidades y Bolsa de Trabajo** (abierta o vigente, verificada 2 veces) https://careers.gruma.com/
+  - Que es: Personas que buscan empleo en la industria de harina de maíz y tortilla, en México y otros países. La página no lista puestos.
+  - Requisitos: No hay requisitos generales; cada vacante define los suyos. Hay puestos operativos sin requisitos publicados en el listado (auxiliar de almacén, operario general, estibador, auxiliar de hombre camión, muestreador). Reclutamiento y selección gratuitos; se advierte evitar vacantes que pidan pago.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año (19 vacantes visibles en México el 2026-11-23; sin fecha límite)
+  - Como postular: https://careers.gruma.com/go/GRUMA-Mexico/2718201/
+  - Lectura automatica posible: sin datos. Portal SuccessFactors con /search/.
+  - Aclaracion: La Bolsa de Trabajo Gruma (careers.gruma.com) requiere crear un perfil.
+  - Aclaracion: El listado de GRUMA México mostró 19 resultados: Puebla (4), Tlajomulco de Zúñiga (3), Veracruz y Chinameca (3), Chalco (2) y 1 en Tijuana, Altamira, Silao, Monterrey, Obregón, Tapachula y Querétaro.
+  - Aclaracion: Mezcla puestos operativos y de supervisión o gerencia.
+  - Aclaracion: Se advierte evitar vacantes que pidan pago.
+- **Sigma Alimentos: Consulta vacantes y bolsa de talento** (abierta o vigente, verificada 2 veces) https://www.sigmafoods.com/bolsa-talento/
+  - Que es: Personas que buscan empleo en alimentos refrigerados y congelados (producción, logística, ventas, administración). La página no detalla puestos.
+  - Requisitos: No se publican en la página; no se listan puestos ni requisitos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año (bolsa de trabajo continua; sin fecha límite)
+  - Como postular: https://career8.successfactors.com/career?company=SIGMAP
+  - Lectura automatica posible: sin datos. Portal SuccessFactors (career8.successfactors.com, company=SIGMAP).
+  - Aclaracion: El botón «Aplica al 23/11/2026» enlaza al portal SuccessFactors de Sigma (career8.successfactors.com/career?company=SIGMAP); no se vieron vacantes concretas.
+  - Aclaracion: La página no lista puestos, requisitos ni programas concretos.
+  - Aclaracion: Existe versión en inglés en sigmafoods.com/en/work-with-us/.
+- **Grupo Lala: portal de empleos (fábricas, transportes, ventas, corporativo)** (abierta o vigente, verificada 2 veces) https://empleos.grupolala.com/
+  - Que es: Personas que buscan empleo en lácteos: fábricas, transporte, ventas y corporativo. El portal tiene categorías Empleos fábricas y Empleos transportes.
+  - Requisitos: No se publican en la página principal; cada oferta los define.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año (portal con categorías permanentes y comunidad de talento)
+  - Como postular: https://empleos.grupolala.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal tiene cuatro categorías (ventas/comercial, fábricas, corporativos y transportes) y permite unirse a la comunidad de talento con correo para recibir avisos.
+  - Aclaracion: Las ofertas concretas se cargan de forma dinámica, por lo que no se vio un número de vacantes vigentes.
+  - Aclaracion: Disponible en español de México y portugués de Brasil.
+- **Ternium México: Carrera (oportunidades industriales, prácticas y becas)** (abierta o vigente, verificada 2 veces) https://mx.ternium.com/es/carrera
+  - Que es: Personas que buscan puestos operativos, de supervisión y técnicos en industria siderúrgica, además de estudiantes y recién egresados.
+  - Requisitos: Global Trainee: egresados con menos de tres años de experiencia profesional (programa de cuatro años). Prácticas Profesionales: estudiantes. Formación especializada: haber cursado los dos primeros años de Global Trainee, inglés intermedio y desempeño esperado. Oportunidades industriales (operativas, de supervisión y técnicas): sin requisitos publicados. Becas Roberto Rocca: orientadas a estudiantes de ingeniería y ciencias aplicadas.
+  - Pago o beneficio: Prácticas profesionales: descritas como remuneradas, con beca; monto sin datos. Otros puestos: sin datos.
+  - Plazo o ciclo: abierto todo el año (sin fecha límite publicada para Global Trainee, prácticas ni oportunidades industriales)
+  - Como postular: https://carrera.ternium.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los enlaces «Postúlate» y «Ir a las vacantes» llevan a carrera.ternium.com; el listado de puestos en México no se pudo leer.
+  - Aclaracion: El programa Global Trainee dura cuatro años.
+  - Aclaracion: Contacto: mx.ternium.com/es/contactanos.
+- **Nemak: Careers (manufactura y búsqueda de empleos)** (abierta o vigente, verificada 2 veces) https://www.nemak.com/careers/
+  - Que es: Personas que buscan empleo en manufactura, negocio y técnico; estudiantes (prácticas, co-ops y Engenius Mexico, pasantía de ingeniería de cinco semanas).
+  - Requisitos: Engenius Mexico es para estudiantes (internship de cinco semanas con proyecto de innovación). Para manufactura no se publican requisitos en la página.
+  - Pago o beneficio: sin datos (Engenius: los mejores participantes pueden obtener prácticas, becas y otros reconocimientos)
+  - Plazo o ciclo: abierto todo el año; Engenius Mexico (programa de cinco semanas): fechas sin datos
+  - Como postular: https://careers.nemak.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Las vacantes se consultan en careers.nemak.com (opción Español (México)); no se vio un listado con puestos en México.
+  - Aclaracion: Nemak no publica fechas del programa Engenius Mexico.
+  - Aclaracion: La página también enlaza a una instalación en Georgia, EE. UU., que no corresponde a México.
+- **Bosch México: portal de empleos (producción y almacén)** (abierta o vigente, verificada 2 veces) https://www.bosch.com.mx/carreras/
+  - Que es: Personas que buscan empleo en fabricación y logística. El portal tiene un filtro de experiencia específico 'Trabajadores de producción y almacén', además de Alumno, Graduado y Profesional.
+  - Requisitos: No hay requisitos generales publicados; se revisan por vacante. El portal permite filtrar por nivel (alumno, aprendiz, graduado, profesional y «Trabajadores de producción y almacén»), por función (fabricación, logística) y por tipo de jornada y contrato. Prácticas: dirigidas a estudiantes. Programa de desarrollo acelerado: para profesionales con interés en puestos de liderazgo.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año; prácticas profesionales y programa de desarrollo acelerado de 18 a 24 meses sin fecha publicada
+  - Como postular: https://jobs.bosch.com/es-mx/?country=mx
+  - Lectura automatica posible: sin datos. Los listados cargan dinámicamente.
+  - Aclaracion: Los resultados del portal cargan de forma dinámica y no se vieron vacantes concretas; al postularse se redirige a SmartRecruiters.
+  - Aclaracion: Las prácticas profesionales se gestionan en https://vacantes.promeritum.org.mx/company/Bosch/, donde no se vieron listados.
+  - Aclaracion: Contacto del programa de desarrollo acelerado: Recursos.HumanosMX@mx.bosch.com.
+- **Flex México: Careers (Guadalajara, Juárez, Tijuana, Aguascalientes, San Luis Río Colorado)** (abierta o vigente, verificada 2 veces) https://www.flex.com/careers/mexico
+  - Que es: Personas que buscan empleo en plantas de manufactura y cadena de suministro en México. La página no lista puestos.
+  - Requisitos: La página no lista requisitos; cada vacante los define en Workday. Solo menciona programas de capacitación, desarrollo de liderazgo y oportunidades de estudio.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (ruta de postulación permanente vía Workday); no se vio ninguna vacante concreta ni fecha límite
+  - Como postular: Botones "Search jobs" / "Apply today" de la página, que llevan al portal Workday de Flex filtrado a México (URL exacta del portal no verificada: la carga directa del portal Workday no devolvió contenido)
+  - Lectura automatica posible: sin datos. Portal Workday (flextronics.wd1.myworkdayjobs.com/en-US/Careers), no consultado.
+  - Aclaracion: Sedes en México: Aguascalientes, Guadalajara Norte (Zapopan) y Sur (La Tijera), Juárez Norte y Sur, Reynosa (MCi, empresa de Flex), San Luis Río Colorado y Tijuana.
+  - Aclaracion: El texto menciona "siete sedes" pero enumera nueve.
+  - Aclaracion: No se confirmó que haya vacantes abiertas al 23/11/2026; solo se ven en el buscador de Workday.
+  - Aclaracion: No se verificaron puestos de nivel inicial.
+- **ISS Facility Services México: Tu carrera en ISS** (abierta o vigente, verificada 2 veces) https://www.mx.issworld.com/su-carrera-en-iss
+  - Que es: Personas que buscan puestos de servicios de instalaciones (limpieza y otros), corporativos o de tecnología.
+  - Requisitos: sin datos: la página no indica requisitos; dependen de cada vacante.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Ruta de postulación abierta todo el año, pero sin vacantes vigentes en México el 2026-11-23: la búsqueda 'Mexico' en jobs.issworld.com devolvió 'There are currently no open positions matching Mexico'.
+  - Como postular: https://jobs.issworld.com/search/?createNewAlert=false
+  - Lectura automatica posible: none
+  - Aclaracion: La página solo ofrece mensajes de empleador y enlaces al portal global jobs.issworld.com.
+  - Aclaracion: Al 23/11/2026 la búsqueda 'Mexico' en ese portal indica que no hay posiciones abiertas.
+  - Aclaracion: Conviene crear una alerta en el portal y revisar periódicamente.
+- **Talento Xcaret: vacantes de Grupo Xcaret (parques, hoteles y tours)** (abierta o vigente, verificada 2 veces) https://talentohumano.grupoxcaret.com/search/
+  - Que es: Personas que buscan empleo en parques, hoteles y tours de Grupo Xcaret. En la consulta del 23/11/2026 las 25 vacantes visibles (de 121) estaban en Playa del Carmen, Quintana Roo.
+  - Requisitos: sin datos: la lista no indica requisitos; cada vacante los detalla en su página. No se confirmó si hay puestos sin experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto: listado continuo con 121 puestos el 2026-11-23 (se muestran 25 por página).
+  - Como postular: https://talentohumano.grupoxcaret.com/search/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La lista no muestra requisitos ni fecha de publicación; el detalle está en la página de cada vacante.
+  - Aclaracion: No se pudo confirmar qué puestos no requieren experiencia.
+  - Aclaracion: Se ofrece registro y comunidad de talento ('Únete a Talento Xcaret').
+- **Grupo Anderson's: Talento (Señor Frog's, Carlos'n Charlie's, Harry's y otras marcas)** (abierta o vigente, verificada 2 veces) https://grupoandersons.com/talento/
+  - Que es: Personas que buscan trabajo en restaurantes, bares y centros de entretenimiento del grupo (19 marcas, entre ellas Señor Frog's, Carlos'n Charlie's, Harry's, Porfirio's, Blue Marlin, Bahama Bay Pool Club). La página indica más de 6,000 colaboradores en México, Estados Unidos, el Caribe y Medio Oriente.
+  - Requisitos: La página solo exige el formulario completo y un CV en PDF de hasta 5 MB; no indica edad, estudios ni experiencia mínima.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: formulario de postulación para vacantes futuras; la página no muestra lista de vacantes ni plazo de respuesta.
+  - Como postular: https://grupoandersons.com/talento/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El formulario pide nombre, correo, teléfono, ciudad, puesto de interés, mensaje opcional y CV en PDF (máximo 5 MB).
+  - Aclaracion: Recursos Humanos contacta solo cuando hay una vacante adecuada.
+  - Aclaracion: No se confirmó que haya vacantes específicas al 23/11/2026; también se enlazan ofertas en Talenteca y LinkedIn.
+- **Marriott International Careers: búsqueda de empleos de hotel** (abierta o vigente, verificada 2 veces) https://careers.marriott.com/jobs
+  - Que es: Personas que buscan empleo en hoteles Marriott (recepción, botones, concierge, alimentos y bebidas, cocina, ama de llaves/housekeeping, ingeniería y mantenimiento, seguridad, spa y recreación, entre otros).
+  - Requisitos: No se listan en la página de búsqueda; cada vacante tiene su detalle. Se requiere crear perfil/cuenta ('My Job Page') para postular.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (buscador mostraba 14,073 vacantes globales al 2026-11-23)
+  - Como postular: https://careers.marriott.com/jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se pudo confirmar la cantidad de vacantes en México; el filtro por País/Región permite seleccionar México para ver las ofertas vigentes.
+  - Aclaracion: La única entrada relacionada con México que se identificó fue 'AC Hotel By Marriott San Luis Potosí', con 4 vacantes.
+- **Hilton Careers: búsqueda de empleos (región Latinoamérica y Caribe)** (abierta o vigente, verificada 2 veces) https://jobs.hilton.com/
+  - Que es: Personas que buscan empleo en hoteles Hilton. La página regional cubre Estados Unidos, Canadá, el Caribe y Latinoamérica y ofrece prácticas y programas de desarrollo.
+  - Requisitos: No se listan en la página; son por vacante en el portal de búsqueda. Se requiere crear perfil para postular.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Buscador continuo sin conteo de vacantes y sin fechas de cierre. Hay una sección «Sign up for job alerts» con el texto «Sign up to receive alerts when there are new jobs that match your interests».
+  - Como postular: https://jobs.hilton.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL es una página regional de presentación (EE. UU., Canadá, Caribe y Latinoamérica), no el buscador, y no menciona México ni lista vacantes.
+  - Aclaracion: El buscador es un portal externo alojado en Oracle Cloud; hay que filtrar por México ahí y no se confirmaron vacantes concretas en México.
+  - Aclaracion: Una variante de URL de búsqueda con ubicación México devolvió 404.
+- **Wyndham Hotels & Resorts: Careers (Latinoamérica y Caribe)** (abierta o vigente, verificada 2 veces) https://careers.wyndhamhotels.com/
+  - Que es: Personas que buscan empleo en hoteles de la marca; hay sección regional 'Latin America & Caribbean'.
+  - Requisitos: No se listan en la página; hay una sección de preguntas frecuentes sobre el proceso de contratación.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (buscador continuo con alertas de empleo)
+  - Como postular: https://careers.wyndhamhotels.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no menciona México ni muestra vacantes concretas; no se confirmaron vacantes en México.
+  - Aclaracion: Incluye aviso sobre fraude en reclutamiento.
+  - Aclaracion: Wyndham opera sobre todo por franquicias, por lo que la oferta directa en México podría ser limitada.
+- **KFC México: Bolsa de trabajo (vía WhatsApp)** (abierta o vigente, verificada 2 veces) https://www.kfc.com.mx
+  - Que es: Personas que buscan empleo en restaurantes KFC en México.
+  - Requisitos: sin datos (el canal no publica requisitos; no se confirmó si se exige experiencia)
+  - Pago o beneficio: sin datos (no indicado en la fuente oficial)
+  - Plazo o ciclo: Abierto todo el año (canal de contacto permanente; sin lista de vacantes ni fechas visibles)
+  - Como postular: https://wa.me/525588817810
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El sitio oficial kfc.com.mx enlaza este número de WhatsApp bajo 'Empleo' (Bolsa de trabajo), pero la página de WhatsApp no identifica al negocio.
+  - Aclaracion: No hay vacantes publicadas en el canal.
+  - Aclaracion: Los anuncios en OCC, Computrabajo e Indeed aparecen publicados por Premium Restaurant Brands (operador de KFC en México); esos portales son de terceros.
+  - Aclaracion: Los salarios de unos 7,000 a 8,600 MXN mensuales provienen de agregadores de terceros y no están verificados.
+- **OXXO (FEMSA Proximidad): vacantes de tienda (Ayudante de Tienda, Asesor Tienda) en el portal de empleo de FEMSA** (abierta o vigente, verificada 2 veces) https://careers.femsa.com/search/?q=tienda&locale=es_MX
+  - Que es: Personas que buscan trabajo en tienda OXXO: piso de venta, atención a clientes, apoyo en bodega y cuarto frío. Cobertura en varias ciudades (en la consulta aparecieron Gómez Palacio, Saltillo, Poza Rica, Ciudad de México y otras).
+  - Requisitos: No se muestran en el listado; cada vacante trae su propio detalle. No se confirmó si se pide experiencia.
+  - Pago o beneficio: sin datos (no se indica en el listado)
+  - Plazo o ciclo: Abierto todo el año; el 2026-11-23 la consulta mostró 264 resultados para 'tienda', con publicaciones fechadas entre el 27 de octubre y el 20 de noviembre de 2026.
+  - Como postular: https://careers.femsa.com/search/?q=tienda&locale=es_MX
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Se postula abriendo cada vacante en el portal de empleo de FEMSA, que enlaza también a careers.oxxo.com.
+  - Aclaracion: Requisitos y sueldo se consultan en el detalle de cada vacante; no se confirmó si se pide experiencia.
+- **Entrega Pro (Amazon México): chofer repartidor y ayudante de reparto con operadores DSP** (abierta o vigente, verificada 2 veces) https://entregapro.mx/home
+  - Que es: Personas que quieran trabajar como chofer repartidor o ayudante de reparto con un operador DSP en México. Se puede elegir ciudad.
+  - Requisitos: Mayor de 18 años, INE, CURP y RFC vigentes, licencia de conducir vigente (tipo A o B) para chofer y disponibilidad de horario. No se exige vehículo propio en la mayoría de los puestos. La página indica que no se requiere experiencia previa y que el operador capacita; hay puestos de ayudante de reparto sin conducir.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Varía por operador y vacante; no se indica monto.
+  - Plazo o ciclo: Abierta todo el año (registro en línea); el 2026-11-23 el buscador general mostró 0 vacantes, por lo que la disponibilidad varía por ciudad.
+  - Como postular: https://entregapro.mx/buscar-empleos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La contratación la hace el operador DSP, no Amazon; la página es de terceros y el vínculo con Amazon no se confirmó más allá de lo que ella misma afirma.
+  - Aclaracion: El buscador general mostró 0 vacantes el 2026-11-23, por lo que la disponibilidad varía por ciudad y conviene revisar cada una.
+  - Aclaracion: El registro se indica gratuito, en línea, con carga de INE, CURP y licencia.
+- **RIU Hotels & Resorts América: portal de empleo (México: Cancún, Playa del Carmen, Los Cabos, Mazatlán, Guadalajara, Vallarta)** (abierta o vigente, verificada 2 veces) https://jobs-america.riu.com/jobs
+  - Que es: Personas que buscan trabajo en hoteles de playa de RIU en México. El filtro de ubicación del portal incluye Cancún, Playa del Carmen, Los Cabos, Mazatlán, Guadalajara y Vallarta, y los departamentos incluyen Cocina, Restaurante, Bar, Pisos (Housekeeping), Recepción, Mantenimiento, Lavandería, Jardinería, Animación y Pool & Beach.
+  - Requisitos: sin datos por vacante en esta lista. Puestos vistos: Ejecutivo de ventas (redes sociales), Business Development Manager USA y Canadá, Carpintero, Recepcionista, Guardavidas, Recepcionista Nocturno (Riu Costa Mujeres), Técnico Electromecánico de equipos de cocina (Guadalajara). Algunos puestos de operación (recepción, guardavidas, carpintero) podrían ser accesibles sin título, pero los requisitos se ven en cada vacante.
+  - Pago o beneficio: sin datos (no se vio salario)
+  - Plazo o ciclo: Abierto de forma continua; el 2026-11-23 el portal mostraba 7 vacantes en México, sin fecha de publicación ni de cierre. La lista cambia con frecuencia.
+  - Como postular: https://jobs-america.riu.com/jobs
+  - Lectura automatica posible: Teamtailor publica un RSS de vacantes en el portal de Europa (https://jobs.riu.com/jobs.rss); para el portal de América (jobs-america.riu.com) la misma ruta /jobs.rss no se probó.
+  - Aclaracion: El portal mostraba 7 vacantes en México, todas en Cancún excepto una en Guadalajara.
+  - Aclaracion: La lista cambia con frecuencia y los requisitos se ven en cada vacante.
+  - Aclaracion: No se confirmó la afirmación de que responden en 2 horas.
+- **RIU Hotels & Resorts: vacante "Segundo de Cocina - México, Zona Pacífico" (portal global)** (abierta o vigente, verificada 2 veces) https://jobs.riu.com/jobs/8677542-segundo-de-cocina-mexico-zona-pacifico
+  - Que es: Personal de cocina para hoteles RIU de la zona Pacífico de México. Es una vacante puntual, no una oferta general de entrada.
+  - Requisitos: Formación en Gastronomía, Hostelería o Artes Culinarias; 3 a 5 años de experiencia en cocina profesional, con al menos 1 a 2 años como Jefe de Partida o Sous Chef; experiencia demostrable en supervisión de personal; dominio de técnicas culinarias avanzadas, cocina internacional y normas de seguridad e higiene. No apta para primer empleo.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Vacante activa el 2026-11-23: la página mostraba el botón 'Enviar solicitud' y no indicaba cierre; no aparece fecha de publicación ni de cierre. Puede cerrarse en cualquier momento.
+  - Como postular: https://jobs.riu.com/jobs/8677542-segundo-de-cocina-mexico-zona-pacifico
+  - Lectura automatica posible: https://jobs.riu.com/jobs.rss (RSS de Teamtailor, visto como enlace en la página; no se descargó su contenido).
+  - Aclaracion: Es una sola vacante de nivel experimentado (Sous Chef), no una ruta general de empleo ni apta para primer empleo.
+  - Aclaracion: El campo 'Ubicación' dice 'Internacional', lo que contradice el texto del puesto, que indica la zona Pacífico de México.
+  - Aclaracion: Puede cerrarse en cualquier momento.
+- **Meliá Hotels International: portal de carreras (Oportunidades por destino)** (abierta o vigente, verificada 2 veces) https://careers.melia.com/es/search-results
+  - Que es: Personas que buscan trabajo en hoteles Meliá, incluidos hoteles de playa en destinos de México. El portal se organiza por colectivo (Profesionales de hotel, Estudiantes y recién graduados, Dirección de Hotel, Oficinas corporativas) y por destino.
+  - Requisitos: No indicados en la página general; cada vacante los detalla. Hay una ruta para estudiantes y recién graduados.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año (portal de vacantes continuo)
+  - Como postular: https://careers.melia.com/es/search-results
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal es global: en la primera página de resultados no apareció ninguna vacante en México, por lo que su presencia en el país no se confirmó.
+  - Aclaracion: Para ubicar vacantes mexicanas hay que usar el filtro 'Ubicación' o el mapa de destinos del portal.
+  - Aclaracion: Se postula en el propio portal.
+- **Hilton Careers: empleos en EE. UU., Canadá, Caribe y Latinoamérica (incluye programas de nivel inicial)** (abierta o vigente, verificada 2 veces) https://jobs.hilton.com/united-states-canada-caribbean-latin-america/
+  - Que es: Personas que buscan trabajo en hoteles Hilton de la región, incluida Latinoamérica. La página ofrece rutas de carrera en hoteles, rutas corporativas y de estudiantes y recién egresados, y enlaces por categoría (por ejemplo Alimentos y Bebidas y cocina).
+  - Requisitos: No indicados de forma general; el MDP está dirigido a graduados de hospitalidad. Cada vacante detalla los suyos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año (alertas de empleo); sin fechas de convocatoria vistas
+  - Como postular: https://jobs.hilton.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los programas descritos (pasantía corporativa de 10 semanas y Management Development Program de 9 meses) se ubican en oficinas de Dallas, McLean y Memphis, en Estados Unidos.
+  - Aclaracion: La elegibilidad de residentes de México depende de la autorización de trabajo para el país de cada vacante.
+  - Aclaracion: México no se menciona de forma explícita y no se pudo ver el listado de vacantes en México.
+- **Amazon México: empleos por hora (almacén, atención al cliente y reparto)** (abierta o vigente, verificada 2 veces) https://atoz.amazon/es-es/jobs/hourly
+  - Que es: Personas que buscan trabajo por hora: asociado de almacén (prepara y gestiona pedidos), asociado de atención al cliente y conductor de reparto mediante socios de servicio de entrega. La página enlaza a las vacantes de México.
+  - Requisitos: sin datos (la página no indica edad, documentos ni experiencia)
+  - Pago o beneficio: sin datos (la página no indica sueldo)
+  - Plazo o ciclo: Abierto; ruta de postulación permanente, sin fechas. Las vacantes concretas por ciudad no se pudieron ver
+  - Como postular: https://trabaja.amazon.com.mx
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una página general de Amazon A to Z, en español de España y no exclusiva de México; enlaza a trabaja.amazon.com.mx (almacén y atención al cliente) y a entregapro.mx (reparto).
+  - Aclaracion: Las vacantes por ciudad no están verificadas directamente, porque trabaja.amazon.com.mx devolvió HTTP 403 a la lectura automática.
+- **Amazon Entrega Pro: conductores y ayudantes de reparto en México** (abierta o vigente, verificada 2 veces) https://entregapro.mx
+  - Que es: Personas que quieren trabajar como conductor o ayudante de reparto de paquetes en ciudades como Ciudad de México, Guadalajara, Monterrey y Puebla.
+  - Requisitos: Licencia de conducir vigente (para conductores), tener al menos 18 años con INE o CURP y disponibilidad de horario. La página indica que para la mayoría de los puestos no se requiere experiencia previa ni vehículo propio; hay puestos de ayudante de reparto para quienes no manejan.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (cada empresa operadora, DSP, define sueldo y prestaciones; la página no da cifras)
+  - Plazo o ciclo: Abierto todo el año; búsqueda de vacantes por ciudad, sin fechas límite
+  - Como postular: https://entregapro.mx
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una bolsa de empleo con empresas socias de reparto independientes (DSP); la postulación es gratuita.
+  - Aclaracion: El empleador directo suele ser la empresa DSP, no Amazon.
+  - Aclaracion: Ciudades listadas: Ciudad de México, Guadalajara, Monterrey, Puebla, Toluca, Tijuana, Cancún, Chihuahua, Hermosillo, León, Mérida, Querétaro, San Luis Potosí y Veracruz.
+- **Coppel: Trabaja con nosotros (portal de empleo de Grupo Coppel)** (sin verificar, verificada 1 vez) https://fa-eqwz-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/es/sites/CX_3001
+  - Que es: Cualquier persona que busque empleo en tiendas Coppel y en áreas de la empresa. El portal mostró más de 4,000 vacantes abiertas, publicadas el 21 de noviembre de 2026, con puestos como asesor/a de ventas y cajero/a mixto/a de banco en ciudades como Tepic, Tequila y Jiutepec. Una búsqueda por «cajero» devolvió unas 420 vacantes.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se pudo confirmar ciclo; se presume abierto de forma continua)
+  - Como postular: https://fa-eqwz-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/es/sites/CX_3001
+  - Lectura automatica posible: Sí. API pública de Oracle Recruiting: https://fa-eqwz-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions con finder findReqs;siteNumber=CX_3001
+  - Aclaracion: El portal carga su contenido con JavaScript y no muestra vacantes, requisitos ni instrucciones sin ejecutarlo.
+  - Aclaracion: No está confirmado que haya vacantes ni el ciclo de postulación.
+- **Liverpool: Bolsa de Trabajo (portal de carrera de El Puerto de Liverpool)** (sin verificar, verificada 1 vez) https://pcarrera.liverpool.com.mx/es/vacantes
+  - Que es: Cualquier persona interesada en trabajar en Liverpool. El portal permite filtrar por área de interés y por jornada (tiempo completo o medio tiempo). Tiene además «Semilleros de Talento», con programas de acceso para estudiantes y para personas recién egresadas.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (se presume abierto de forma continua)
+  - Como postular: https://pcarrera.liverpool.com.mx/es/vacantes
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Al consultarlo el 23 de noviembre de 2026 el portal mostró «Sin Resultados a Mostrar»; no se confirmó ninguna vacante abierta y puede ser carga diferida.
+  - Aclaracion: No se publican requisitos en el portal.
+- **Grupo Salinas: Carreras (acceso de Elektra y otras empresas del grupo)** (sin verificar, verificada 1 vez) https://www.gruposalinas.com/home/Carreras
+  - Que es: Cualquier persona interesada en vacantes del grupo, entre ellas Elektra. La página carga su contenido con JavaScript y no se pudo leer en esta consulta; el sitio de Elektra (elektra.mx) no mostró enlace de empleo en su portada.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página carga su contenido con JavaScript y no se pudo confirmar que esté vigente ni a dónde dirige la postulación.
+  - Aclaracion: El sitio de Elektra (elektra.mx) no mostró enlace de empleo en su portada.
+- **Tiendas 3B: Vacantes y bolsa de trabajo (perfil de LinkedIn de la empresa)** (sin verificar, verificada 1 vez) https://www.tiendas3b.com/
+  - Que es: Cualquier persona interesada en trabajar en tiendas de la cadena. El sitio oficial remite sus «Vacantes» y su «Bolsa de trabajo» a este perfil de LinkedIn.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos (referencia no oficial vista en OCC: líder de tienda aprox. 15,000 a 18,000 pesos mensuales)
+  - Plazo o ciclo: sin datos (se presume abierto de forma continua)
+  - Como postular: https://mx.linkedin.com/company/tiendas3b/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La ruta oficial de postulación es LinkedIn; el sitio tiendas3b.com remite sus «Vacantes» y «Bolsa de trabajo» a este perfil.
+  - Aclaracion: Contacto en el sitio oficial: teléfono y WhatsApp 55 4510 9999.
+  - Aclaracion: Las cifras de sueldo provienen de OCC (agregador, no oficial) y pueden estar desactualizadas.
+- **HEINEKEN México: Trabaja con nosotros** (sin verificar, verificada 1 vez) https://www.heinekenmexico.com/trabaja-con-nosotros
+  - Que es: Personas que buscan empleo en cervecería y distribución. La página solo nombra Women to Grow, plataforma de liderazgo femenino que no es de nivel inicial.
+  - Requisitos: No se publican en la página; cada vacante los define. Se declara que los procesos de contratación no tienen costo.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (el sitio se presenta como camino de postulación continuo, pero no se pudo confirmar vacantes vigentes)
+  - Como postular: https://careers.theheinekencompany.com/Mexico
+  - Lectura automatica posible: sin datos. Portal en careers.theheinekencompany.com/Mexico/.
+  - Aclaracion: La página muestra 5 puestos permanentes en México (3 Sales Leader, 1 Spare Parts Analyst, 1 Real Estate Divestment Coordination) y a la vez el mensaje «No hay vacantes disponibles en este momento»; la apertura no está confirmada.
+  - Aclaracion: Los perfiles vistos son corporativos, no de nivel inicial.
+  - Aclaracion: Canales oficiales indicados: Facebook @HeinekenMexicoEmpleos, LinkedIn y Computrabajo.
+  - Aclaracion: Los procesos de contratación no tienen costo.
+- **Jabil: Jobs (filtro por país México)** (sin verificar, verificada 1 vez) https://jobs.jabil.com/
+  - Que es: Personas que buscan empleo en manufactura, operaciones, calidad y cadena de suministro; México aparece como opción de país.
+  - Requisitos: sin datos; la página no los lista, cada vacante los define
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (la reclamación "abierta todo el año" no se pudo confirmar: no se vio ninguna vacante de México)
+  - Como postular: https://jobs.jabil.com/ (buscador con filtros de palabra clave, categoría y país; cada vacante trae su propio botón de postulación)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página principal solo muestra tres vacantes destacadas, todas en Taiwán, y la página de país de México tampoco mostró vacantes.
+  - Aclaracion: No se conoce el número de vacantes ni las ciudades en México.
+  - Aclaracion: Los resultados del buscador se cargan de forma dinámica.
+- **Ryder México: Trabajando en Ryder** (sin verificar, verificada 1 vez) https://www.ryder.com/es-mx/carreras
+  - Que es: Personas interesadas en trabajar en una empresa de cadena de suministro, con más de 5,000 personas en la plantilla. La página es de imagen de empleador: no lista puestos como operador ni almacén.
+  - Requisitos: sin datos; la página no las indica
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos (la página no incluye enlace de postulación, bolsa de trabajo ni vacantes; el enlace /es-mx/contactos probado devolvió 404)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página solo describe cultura y beneficios (prestaciones completas, capacitación, plan de carrera); no muestra vacantes ni cómo aplicar.
+  - Aclaracion: No se puede confirmar una vía abierta de postulación desde esta página; el canal de reclutamiento debe buscarse en otra sección oficial de ryder.com.
+- **Aramark México: vacantes (Servicio Facility y Servicio Alimentación)** (sin verificar, verificada 1 vez) https://aramarkcareers.com/Latin-America/content/Mexico-Careers-es_MX/?locale=es_MX
+  - Que es: Personas que buscan puestos de alimentación y de facility services (instalaciones), además de áreas corporativas.
+  - Requisitos: sin datos: no se vieron requisitos; dependen de cada vacante.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto (ruta de postulación y comunidad de talento), pero no se pudo confirmar qué vacantes hay vigentes: el listado de México no se cargó en el contenido leído.
+  - Como postular: https://aramarkcareers.com/Latin-America/content/Mexico-Careers-es_MX/?locale=es_MX
+  - Lectura automatica posible: none
+  - Aclaracion: Los listados de vacantes se cargan aparte y no fue posible confirmar ningún puesto específico en México.
+  - Aclaracion: La página ofrece registro a la comunidad de talento para recibir avisos de eventos de contratación.
+- **Prosegur: Trabaja con nosotros (portal global de vacantes)** (sin verificar, verificada 1 vez) https://www.prosegur.com/trabaja-con-nosotros
+  - Que es: Candidatos a puestos de vigilancia, monitoreo y servicios auxiliares; hay una categoría de 'Vigilancia y servicios auxiliares' en el portal de resto del mundo.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto en general, pero no se confirmó ninguna vacante ni ruta específica para México.
+  - Como postular: https://prosegur.referrals.selectminds.com/glo
+  - Lectura automatica posible: none
+  - Aclaracion: La página solo ofrece dos enlaces, 'España' y 'Resto del Mundo', sin selector de país ni mención de México.
+  - Aclaracion: No hay evidencia verificable de reclutamiento en México; se sugiere buscar el sitio de Prosegur México antes de considerarla.
+- **Securitas: Careers (portal por país, incluye México en el selector)** (sin verificar, verificada 1 vez) https://www.securitas.com/en/careers/
+  - Que es: Candidatos a puestos de seguridad (guardia, supervisor y otros) en los países donde opera Securitas.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto en general; no se confirmaron vacantes en México.
+  - Como postular: sin datos
+  - Lectura automatica posible: none
+  - Aclaracion: México aparece en el menú 'Select your country', pero el botón 'See jobs' no tiene destino y la página no da un portal específico de México.
+  - Aclaracion: El portal global muestra puestos corporativos sin México; las vacantes de guardias o supervisión se publicarían en el sitio de Securitas México, que no se localizó.
+- **Meliá Hotels International: Careers (México y otros destinos)** (sin verificar, verificada 1 vez) https://careers.melia.com/
+  - Que es: Personas que buscan empleo en hoteles Meliá; hay categorías para profesionales de hotel y para estudiantes y recién egresados.
+  - Requisitos: No se listan; la página agrupa oportunidades por perfil: estudiantes y recién graduados, profesionales de hotel, dirección de hotel y oficinas corporativas.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (comunidad de talento por correo; vacantes no visibles al consultar)
+  - Como postular: https://careers.melia.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Las ofertas no cargaron al consultar la página, por lo que no se pudo confirmar ninguna vacante en México.
+  - Aclaracion: Incluye categoría para estudiantes y recién graduados, pero no se verificaron sus condiciones.
+- **Barceló Hotel Group: portal de empleo (Workday)** (sin verificar, verificada 1 vez) https://barcelo.wd3.myworkdayjobs.com/es/Barcelo_Careers
+  - Que es: Personas que buscan empleo en hoteles y oficinas de Barceló; hay programas de prácticas en hoteles y oficinas corporativas.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (portal continuo según la fuente; el contenido no cargó y no se pudo ver ninguna vacante)
+  - Como postular: https://barcelo.wd3.myworkdayjobs.com/es/Barcelo_Careers
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal Workday se renderiza con JavaScript y devolvió contenido vacío, por lo que no se confirmó la existencia de vacantes ni su relación con México.
+  - Aclaracion: La fuente original ya indicaba 'Sin resultados' en el filtro; conviene verificar manualmente antes de recomendar.
+- **Arcos Dorados (McDonald's): Trabaja con nosotros y Empleo joven** (sin verificar, verificada 1 vez) https://www.mcdonalds.com.mx/
+  - Que es: Personas jóvenes o sin experiencia que buscan un primer empleo formal en restaurantes McDonald's. La empresa indica más de 100,000 colaboradores en 21 países, más de 53% con menos de 24 años y la mayoría en su primera experiencia laboral formal.
+  - Requisitos: sin datos; no se confirmó edad mínima, documentos ni si se pide experiencia
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (sin vacantes ni fechas visibles; contratación continua presumible pero no confirmada)
+  - Como postular: https://www.arcosdorados.com/trabaja-con-nosotros/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página corporativa no contiene vacantes ni proceso de postulación para México; solo enlaza al sitio de McDonald's México y a un formulario 'Contáctanos'.
+  - Aclaracion: La sección 'Empleo joven' recopila noticias de programas juveniles de otros países (Perú, Uruguay, plataforma MCampus), sin requisitos para México.
+  - Aclaracion: mcdonalds.com.mx devolvió 403 al consultarlo; conviene verificar la ruta de empleo ahí antes de recomendarlo.
+- **Bosch México: portal de empleo (producción, almacén y logística)** (sin verificar, verificada 1 vez) https://jobs.bosch.com/es-mx/?country=mx
+  - Que es: Candidatos a puestos de manufactura, logística y otras áreas en México; el portal tiene filtros para 'Fabricación', 'Logística' y la categoría 'Trabajadores de producción y almacén'. También hay prácticas profesionales para estudiantes (https://vacantes.promeritum.org.mx/company/Bosch/).
+  - Requisitos: sin datos; no se vio ninguna vacante con requisitos. Los filtros incluyen la categoría 'Trabajadores de producción y almacén', la función 'Logística' y el área 'Fabricación'.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos; no se vieron vacantes concretas en la lectura. La página ofrece alertas de empleo (widget de SmartRecruiters).
+  - Como postular: https://jobs.bosch.com/es-mx/?country=mx
+  - Lectura automatica posible: SmartRecruiters (alertas de empleo mediante widget)
+  - Aclaracion: No se mostró ninguna vacante ni botón de postulación, y no se confirmó una convocatoria abierta.
+  - Aclaracion: Las solicitudes se canalizan a un proveedor externo (SmartRecruiters).
+  - Aclaracion: Conviene revisar el portal directamente.
+- **Procter & Gamble México: carreras en manufactura, calidad y distribución física (y sitio de técnicos de planta)** (sin verificar, verificada 1 vez) https://www.pgcareers.com/mx/es
+  - Que es: Candidatos a puestos de producción (Production Making y Packing), calidad, seguridad y ambiente, y distribución física. Los técnicos de planta se listan en un sitio aparte: pgplantjobs.com/global/en (no se pudo abrir por certificado vencido).
+  - Requisitos: sin datos; la página de inicio no detalla requisitos. Hay áreas como Manufactura y Aseguramiento de Calidad (combinadas) y Cadena de Suministro y Logística.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos; no se vieron fechas ni vacantes específicas. Existe una comunidad de talento para recibir avisos.
+  - Como postular: https://www.pgcareers.com/mx/es
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se confirmó una vacante abierta.
+  - Aclaracion: El registro a la comunidad de talento no equivale a postularse.
+  - Aclaracion: Distribución física no aparece como área separada; lo más cercano es Cadena de Suministro y Logística.
+  - Aclaracion: El sitio de técnicos de planta (pgplantjobs.com) no abrió por certificado vencido.
+- **Lear Corporation: empleos (portal global con filtro de México, autopartes y asientos)** (sin verificar, verificada 1 vez) https://jobs.lear.com/
+  - Que es: Candidatos a puestos en plantas de autopartes en México; el portal tiene filtros de país, función y tipo de empleo, y comunidad de talento para alertas.
+  - Requisitos: sin datos; no se vio ninguna vacante.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos; los resultados de empleo solo mostraron 'Loading...' en la lectura. Hay opción de comunidad de talento para alertas.
+  - Como postular: https://jobs.lear.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los resultados solo mostraron 'Loading...', por lo que no se confirmó ninguna vacante ni que esté abierta todo el año.
+  - Aclaracion: La postulación se hace en el propio portal de Lear.
+- **Grupo Vidanta: portal de carreras (careers.grupovidanta.com)** (sin verificar, verificada 1 vez) https://careers.grupovidanta.com/
+  - Que es: Personas interesadas en trabajar en los resorts de Vidanta. El portal es una aplicación web que no mostró contenido al ser leída sin navegador.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://careers.grupovidanta.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal no mostró contenido legible (probablemente se renderiza con JavaScript), por lo que no se confirmaron vacantes ni forma de postularse.
+  - Aclaracion: El sitio principal vidanta.com no muestra un enlace a empleo.
+- **Karisma Hotels & Resorts: página de carreras** (sin verificar, verificada 1 vez) https://www.karismahotels.com/internships
+  - Que es: Personas interesadas en trabajar en hoteles Karisma. La página respondió, pero su contenido no se leyó.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.karismahotels.com/internships
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se pudo confirmar que exista una página de carreras ni se vio ningún listado de vacantes.
+  - Aclaracion: La página de prácticas (/internships) no indica requisitos, forma de postularse ni fechas.
+- **Arcos Dorados: Trabaja con nosotros y Empleo joven (operador de McDonald's en México y Latinoamérica)** (sin verificar, verificada 1 vez) https://www.arcosdorados.com/trabaja-con-nosotros/
+  - Que es: Personas que buscan trabajo en restaurantes McDonald's operados por Arcos Dorados, incluido México. La página enlaza además un programa de "Empleo joven" (https://arcosdorados.com/recetadelfuturo/empleo-joven) enfocado en primer empleo.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (sin fechas vistas)
+  - Como postular: https://www.mcdonalds.com.mx/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no lista vacantes, no explica el proceso de postulación ni cubre México de forma específica.
+  - Aclaracion: La sección Empleo joven reúne notas de prensa sobre programas en otros países, sin información específica de México.
+  - Aclaracion: Se recomienda confirmar la ruta de postulación en el sitio de McDonald's México.
+- **Yum! Brands: buscador de empleos (jobs.yum.com), matriz de KFC, Taco Bell y Pizza Hut** (sin verificar, verificada 1 vez) https://jobs.yum.com/
+  - Que es: Personas que buscan empleo en las marcas Yum! (KFC, Taco Bell, Pizza Hut y otras) a nivel global; sobre todo puestos corporativos y de restaurante de la matriz.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://jobs.yum.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se pudo ver ninguna vacante ni ubicaciones en México, ni la forma de postularse.
+  - Aclaracion: En México, la ruta verificada para KFC es su bolsa de trabajo por WhatsApp en kfc.com.mx.
+- **OXXO: portal de carreras (tiendas y corporativo)** (sin verificar, verificada 1 vez) https://careers.oxxo.com
+  - Que es: Personas interesadas en trabajar en OXXO. El buscador permite filtrar por ubicación, área y empresa.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se vio ninguna vacante publicada; la página muestra la sección 'Oportunidades' y una Red de Talento)
+  - Como postular: https://careers.oxxo.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal oficial existe y ofrece unirse a la Red de Talento e iniciar sesión para postularse, pero en la lectura automática no apareció ninguna vacante concreta porque el listado se carga dinámicamente.
+  - Aclaracion: No se pudo confirmar que las vacantes se publiquen de forma continua.
+  - Aclaracion: Beneficios descritos: apoyo educativo, fondo de ahorro, días personales, horarios flexibles y descuentos OXXO Club.
+- **Mercado Libre: portal de carreras (logística y centros de distribución)** (sin verificar, verificada 1 vez) https://mercadolibre.eightfold.ai/careers
+  - Que es: Personas que buscan trabajo en Mercado Libre. Filtros por departamento, nivel, modalidad (presencial, híbrido o remoto) y distancia desde una ubicación.
+  - Requisitos: sin datos (el CV es opcional según la configuración del formulario).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (el portal permite alertas semanales por correo; no se vieron vacantes)
+  - Como postular: https://mercadolibre.eightfold.ai/careers
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: El portal funciona sobre Eightfold: registro con Google o correo, alertas de búsquedas guardadas y carga de CV opcional (.doc, .docx, .pdf).
+  - Aclaracion: No se pudo confirmar ninguna vacante de logística o centros de distribución en México, porque la página se cargó solo como configuración, sin listados.
+- **Randstad México: vacantes (incluye operadores de producción, técnicos y almacenistas en Nuevo León y Baja California)** (abierta o vigente, verificada 2 veces) https://www.randstad.com.mx/trabajos/
+  - Que es: Cualquier persona que busque empleo temporal o permanente, con vacantes operativas (producción, mantenimiento, almacén) y profesionales; hay filtro por área 'manufactura y producción', ciudad y salario.
+  - Requisitos: Se ven en el detalle de cada vacante (no se leyeron). Hay puestos de nivel operativo, como almacenista por 3 turnos en Parque Industrial El Dorado, B.C., y también puestos profesionales.
+  - Pago o beneficio: Varía por vacante. Ejemplos vistos: operador de máquinas automatizadas en Salinas Victoria, N.L., $13,590 a $14,000 al mes; vendedor de materiales de construcción, CDMX, $12,000 al mes.
+  - Plazo o ciclo: Abierta todo el año; el 2026-11-23 el listado mostró 40 trabajos encontrados.
+  - Como postular: https://www.randstad.com.mx/trabajos/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El listado tiene pocas vacantes y mezcla perfiles operativos y profesionales.
+  - Aclaracion: El volumen de puestos operativos es variable: una búsqueda por 'operador-de-produccion' devolvió 0 resultados el 2026-11-23.
+  - Aclaracion: Se postula con el botón de cada oferta, enviando CV o con una cuenta 'mi Randstad'.
+- **Kelly Services México: bolsa de vacantes (careers-page) y envío de CV** (abierta o vigente, verificada 2 veces) https://www.careers-page.com/kelly-services-mx
+  - Que es: Candidatos a puestos en tecnología, ingeniería y mantenimiento, logística, contact center y finanzas; la empresa menciona los sectores automotriz y manufactura.
+  - Requisitos: sin datos (no se muestran en el texto leído; cada vacante lo indica).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierta todo el año; el 2026-11-23 la página mostraba 231 puestos vacantes.
+  - Como postular: https://www.careers-page.com/kelly-services-mx
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página está alojada en careers-page.com, una plataforma de terceros; no se confirmó el dominio propio de Kelly.
+  - Aclaracion: No se vieron títulos ni ubicaciones concretas de vacantes.
+- **Adecco México: división Industrial & Logistics (maquila y logística)** (sin verificar, verificada 1 vez) https://www.adecco.com/es-mx
+  - Que es: Es una página para empresas que contratan servicios de logística, almacenaje y maquila industrial; indica el tipo de trabajo que Adecco coloca (manejo y almacenaje de materias primas, procesos industriales estandarizados, reparto y recolección). No es una bolsa de vacantes.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página está dirigida a empresas que contratan servicios de outsourcing (logística, almacén, maquila, reparto); no es una bolsa de vacantes ni tiene registro de candidatos.
+  - Aclaracion: No conviene listarla como fuente de empleo hasta localizar el portal de candidatos.
+- **Cruz Roja Mexicana: Capacitación (primeros auxilios, RCP, geriátricos y pediátricos)** (abierta o vigente, verificada 2 veces) https://cruzrojamexicana.org.mx/que-hacemos/capacitacion
+  - Que es: Público general, empresas e instituciones. Sirve a quien busca reforzar su perfil para trabajos de cuidado, salud o seguridad.
+  - Requisitos: sin datos (la página no indica edad, documentos ni estudios; no se declara experiencia previa)
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (curso de pago o gratuito no indicado en la página)
+  - Plazo o ciclo: Abierto todo el año (catálogo de cursos permanente; fechas de grupos: sin datos)
+  - Como postular: https://capacitacion.cruzrojamexicana.org.mx/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una oferta de capacitación, no una bolsa de empleo ni vacantes.
+  - Aclaracion: La página no indica precio, requisitos, fechas ni sedes adicionales.
+  - Aclaracion: El correo aparece escrito con posible errata de dominio (cursos@cruzrojamexciana.org.mx); conviene confirmarlo antes de usarlo.
+  - Aclaracion: Contacto de la sede nacional: teléfono 72 2335 6016, Luis Vives 200, Polanco, Miguel Hidalgo, 11510 Ciudad de México.
+- **CACEH Nacional: capacitación, contratos y derechos de personas trabajadoras del hogar** (se repite (hoy sin llamado abierto), verificada 2 veces) https://caceh.org.mx/
+  - Que es: Personas trabajadoras del hogar (y quienes las emplean) que buscan capacitación, asesoría y orientación sobre derechos y afiliación al IMSS.
+  - Requisitos: No se detallan en la página; los materiales de orientación están dirigidos a personas trabajadoras del hogar. No se indica costo.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Permanente (organización activa con orientación, cuestionario '¡Capacítate!', App DIGNAS e inscripción al IMSS); las convocatorias vistas no muestran fecha límite.
+  - Como postular: https://caceh.org.mx/
+  - Lectura automatica posible: none
+  - Aclaracion: Es un recurso de derechos, capacitación y orientación laboral, no una bolsa de empleo.
+  - Aclaracion: Las dos convocatorias publicadas (consultoría en comunicación y curso intermedio de cocina) son contrataciones de proveedores, no vacantes ni cursos abiertos al público.
+  - Aclaracion: Contacto: 55 1066 2703, caceh2014@gmail.com y formulario del sitio.
+- **DiDi México - Conductores y repartidores (sitio oficial)** (abierta o vigente, verificada 2 veces) https://web.didiglobal.com/mx/conductor/requisitos-para-conducir/
+  - Que es: Personas que quieren conducir o repartir con DiDi (transporte y entrega).
+  - Requisitos: Página oficial de requisitos: licencia de conducir vigente (para Taxi, categoría B); INE/IFE (Moto también acepta pasaporte); tarjeta de circulación vigente. Perfiles Express, Pon su Precio, Economy y Entrega: carta de no antecedentes penales, póliza de seguro del auto y RFC. Vehículo de 4 puertas, aire acondicionado y bolsas de aire, en buen estado físico y con antigüedad según la ciudad. Taxi: solo en CDMX, con tarjeta de circulación de transporte público. Edad mínima: no indicada en la página (confirmar en el Centro de Ayuda). Conductor sin vehículo: INE y licencia. Requisitos de repartidor: no vistos en detalle.
+  - Pago o beneficio: sin datos (ingreso variable por viaje o entrega; no se vio cifra en la página oficial)
+  - Plazo o ciclo: Abierto todo el año (registro continuo en línea; sin convocatoria con fecha)
+  - Como postular: https://page.didiglobal.com/global/silver-bullet-online/didi-dvr-mx
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una plataforma de trabajo independiente (socio conductor o repartidor), no un empleo con sueldo fijo.
+  - Aclaracion: La página oficial no muestra cifras de ingresos ni edad mínima; esta última puede confirmarse en el Centro de Ayuda.
+  - Aclaracion: Solo se puede registrar en un producto, DiDi Moto o DiDi Express.
+  - Aclaracion: Las condiciones del vehículo y los años mínimos cambian por ciudad; el centro de ayuda es 800 725 8888.
+- **Rappi - Soy Rappi México (registro de repartidores)** (sin verificar, verificada 1 vez) https://soyrappi.com.mx/mexico/
+  - Que es: Personas que quieren repartir pedidos con Rappi.
+  - Requisitos: sin datos (no se vieron requisitos)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se pudo verificar; se presume abierto, sin confirmar)
+  - Como postular: https://soyrappi.com.mx/mexico/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se pudo leer la página oficial, por lo que no hay requisitos, documentos, edad ni ruta de registro verificados.
+  - Aclaracion: No debe presentarse como verificada; conviene confirmar en el sitio oficial de Rappi.

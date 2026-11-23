@@ -1,0 +1,80 @@
+# Salud y cuidados
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **CASMU – Llamados y bolsa de trabajo** (abierta o vigente, verificada 2 veces) https://casmu.com.uy/llamados
+  - Que es: Postulantes a cargos de la mutualista. El listado visto el 2026-11-23 eran informes finales de llamados médicos (Urólogo, Anestesista, Cirujano Vascular, Nefrólogo, Laboratorista, entre otros). También hay pestañas 'Técnicos' (por ejemplo Técnicos en Hemoterapia) y 'No Técnicos' (por ejemplo Asistente Dental), con resultados de llamados anteriores.
+  - Requisitos: La página no detalla requisitos; cada cargo los indica en su documento. Los cargos vistos exigen título o formación en salud. Para la postulación libre solo se necesita crear una cuenta con correo electrónico.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Postulación libre disponible de forma continua mediante cuenta en línea. Los 28 llamados puntuales figuran como 'Informe Final' (cerrados); el más reciente es del 19/11/2026.
+  - Como postular: https://casmu.datalogic.cloud
+  - Lectura automatica posible: none (HTML y PDF por llamado)
+  - Aclaracion: El listado muestra 28 llamados puntuales (24 técnicos y 4 no técnicos), todos con 'Informe Final', es decir, ya resueltos.
+  - Aclaracion: La postulación libre se hace por formulario en línea en el portal casmu.datalogic.cloud ('Postularse', con usuario registrado o 'Crear cuenta'), no por simple envío de currículum.
+  - Aclaracion: No se vio ningún cargo sin título ni experiencia.
+- **Sistema Nacional Integrado de Cuidados – Postulación a formación en cuidados (gratuita)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/tramites/postulacion-formacion-cuidados
+  - Que es: Personas que quieran formarse para trabajar en cuidados. Cursos ofrecidos: Curso Básico de Atención a la Dependencia (cuidado de personas mayores y con discapacidad en situación de dependencia) y Casas Comunitarias de Cuidados (primera infancia). Se completa un formulario por curso.
+  - Requisitos: Correo electrónico y constancia de estudios; la página menciona un requisito de edad cuyo valor no figura en el texto leído. No se mencionan experiencia ni título previos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito (formación sin costo)
+  - Plazo o ciclo: Sin plazo publicado: trámite de apertura permanente; página actualizada el 11/09/2026.
+  - Como postular: https://www.gub.uy/tramites/postulacion-formacion-cuidados
+  - Lectura automatica posible: none (HTML)
+  - Aclaracion: La página menciona un requisito de edad sin indicar cuál.
+  - Aclaracion: Se tramita en cualquier Oficina Territorial del MIDES o por teléfono al 0800 1811 (*1811 desde celular), opción 2, de 10:00 a 16:00 h.
+  - Aclaracion: El formulario web es solo para consultas.
+  - Aclaracion: No se vieron fechas de inicio de los cursos.
+- **Cruz Roja Uruguaya – Voluntariado y Centro de Formación Integral (CFI)** (abierta o vigente, verificada 2 veces) https://cruzroja.org.uy/sumate-a-cru/
+  - Que es: Personas interesadas en voluntariado en todo el país y en capacitación (el CFI ofrece cursos permanentes, con un banner de Primeros Auxilios). No se vio una oferta de empleo ni un curso de cuidadores en la página principal.
+  - Requisitos: Cocinero/a: primaria completa, carné de manipulador de alimentos vigente y experiencia en alimentación colectiva. Educador/a CAIF: título habilitante de Educador/a para Primera Infancia, o experiencia o prácticas preprofesionales equivalentes. Maestra/o referente: título de Maestro/a de Educación Inicial habilitado para CAIF y al menos 2 años de experiencia. No se menciona edad mínima.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Ofertas laborales publicadas sin fecha de cierre; no se vio ciclo anual ni plazos.
+  - Como postular: https://cruzroja.org.uy/sumate-a-cru/
+  - Lectura automatica posible: none (HTML)
+  - Aclaracion: La página no describe un programa de voluntariado: muestra ofertas de trabajo vigentes en CAIF Luna Roja (Maldonado), con enlace 'Postularse' y perfil descargable por cargo, más dos pasantías para un padrón de integrantes subsidiarios de la Comisión Fiscal y la Comisión de Ética y Garantía.
+  - Aclaracion: El Centro de Formación Integral aparece solo como enlace a www.cfi.edu.uy.
+  - Aclaracion: Contacto: Octubre 2990, Montevideo, tel. (+598) 2480 1956, cruzroja@cruzroja.org.uy.
+- **ASSE – Llamados abiertos a la fecha** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.asse.com.uy/categoria/Abiertos-a-la-fecha-535
+  - Que es: Personal de salud y administrativo de los hospitales y la red de atención primaria de ASSE. El listado consultado el 2026-11-23 mostraba 7 llamados vigentes, sobre todo internos (Licenciado/a en Enfermería Supervisor/a, Block Quirúrgico, Trabajo Social, Contador/a), sin llamados de auxiliares ni técnicos.
+  - Requisitos: Varía por llamado. Ejemplo UE 024: ser funcionario de UE 024 con cargo de Licenciado/a en Enfermería y más de 3 años de antigüedad, cédula vigente, título registrado ante el MSP, Actuación Funcional actualizada y formulario de ASSE completo; inscripción por correo (PDF) o en persona en la oficina de RR.HH. Los demás llamados vistos también son internos y de perfil profesional o de conducción.
+  - Pago o beneficio: sin datos (no figura en las páginas leídas; el UE 024 puntúa mérito y antecedentes sobre 100 puntos)
+  - Plazo o ciclo: 5 entradas: "LLAMADOS INTERNOS 23-11-2026" (consolidada), llamado interno Contador/a Controller Regional (ASSE Central), Lic. en Enfermería Supervisor/a (Red de Atención Primaria del Área Metropolitana), Lic. en Enfermería Supervisor/a para Recién Nacidos (Pereira Rossell) y Encargado/a del Departamento de Trabajo Social (Pereira Rossell). Sin fechas de cierre visibles.
+  - Como postular: https://www.asse.com.uy/categoria/Llamados-453
+  - Lectura automatica posible: none (HTML; cada llamado enlaza a una página de contenido y a PDF)
+  - Aclaracion: La sección 'Abiertos a la fecha' muestra 5 entradas (no 7), todas llamados internos dirigidos al personal de ASSE y sin plazo visible en el listado.
+  - Aclaracion: No es una vía para público en general ni para primer empleo; las convocatorias abiertas al público se canalizan por la subsección Uruguay Concursa.
+  - Aclaracion: El llamado de UE 024 es solo para funcionarios presupuestados o contratados de UE 024 (Centro Departamental de Paysandú) con más de 3 años de antigüedad.
+  - Aclaracion: Cada llamado detalla en su propia página el correo o la oficina de recepción.
+- **ASSE – Sección Llamados (abiertos, cerrados, manual del postulante y formulario)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.asse.com.uy/categoria/Llamados-453
+  - Que es: Cualquier persona que quiera postularse a un llamado público de ASSE. La sección reúne los llamados abiertos, los cerrados, Uruguay Concursa, Profesionalización, el manual para postulantes y el formulario para llamados.
+  - Requisitos: Varía por llamado; los requisitos y la forma de inscripción están en el manual, el formulario y en cada llamado. No se verificó una condición general de edad o experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sección permanente; los llamados se publican durante todo el año, cada uno con su plazo.
+  - Como postular: https://www.asse.com.uy/categoria/Llamados-453
+  - Lectura automatica posible: none (HTML)
+  - Aclaracion: La página no muestra los llamados en sí ni fechas; contiene el 'Manual para postulantes', el 'Formulario para llamados' y las subsecciones Uruguay Concursa, Abiertos a la fecha, Cerrados a la fecha y Profesionalización.
+  - Aclaracion: Los plazos de cada llamado no se pudieron verificar desde esta página.
+  - Aclaracion: La contratación de perfiles administrativos y de servicios no se verificó en las páginas leídas.
+  - Aclaracion: Contacto indicado: (+598) 2486 5008, Av. Luis A. de Herrera 3326, Montevideo.
+- **ASSE – Practicantes internos y residentes** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.asse.com.uy/categoria/Practicantes-Internos-y-Residentes-499
+  - Que es: Estudiantes de medicina (practicantes internos) y médicos residentes. No es para auxiliares de enfermería ni cuidadores; se incluye porque es la vía de ingreso a ASSE para formación médica.
+  - Requisitos: sin datos. No se indican requisitos en la página leída.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Ciclo anual con cuatro rotaciones por año (primera a cuarta) de practicantes internos, vistas en 2023, 2024 y 2025; también 'Elección de médicos residentes' (2023). En la primera página del listado no se vieron cronogramas de 2026.
+  - Como postular: sin datos
+  - Lectura automatica posible: none (HTML con enlaces a documentos)
+  - Aclaracion: La página solo lista títulos de cronogramas por año, sin fechas exactas, requisitos ni forma de postulación; solo se vio la primera de al menos tres páginas del listado.
+  - Aclaracion: El público destinatario se infiere por el nombre y no está confirmado en la página.
+  - Aclaracion: No es un llamado de empleo general ni sirve a quien no estudia en el área de la salud.
+- **SNIC – Programa de Asistentes Personales (trabajo como asistente personal)** (sin verificar, verificada 1 vez) https://www.gub.uy/sistema-cuidados/node/640
+  - Que es: Personas que trabajan como asistentes personales de quienes están en dependencia severa (menores de 30 años o mayores de 80, en domicilio particular). El usuario contrata al asistente, que es registrado en BPS como empleado, a razón de 80 horas mensuales. Se paga un subsidio total de 4,6 BPC (parcial o total según el ingreso del hogar), y BPS paga directamente al asistente. Hay un plan piloto de cooperativas (desde 2022-08-01 en Salto, Tacuarembó, Paysandú y Maldonado).
+  - Requisitos: Para asistentes: no listados en la página. Para usuarios: dependencia severa de 0 a 29 años o mayores de 80 años; nacidos en Uruguay, ciudadanía legal o 10 años de residencia.
+  - Pago o beneficio: Subsidio de 4,6 BPC mensuales por 80 horas, con aportes, aguinaldo y licencia incluidos; el BPS paga al asistente (según ingresos del hogar el subsidio es total, 67 %, 33 % o 0 %).
+  - Plazo o ciclo: sin datos: la página no indica plazo ni si la recepción es continua.
+  - Como postular: sistemadecuidados@mides.gub.uy
+  - Lectura automatica posible: none (HTML, decreto 117/016 en PDF)
+  - Aclaracion: La página está dirigida a quienes solicitan el servicio, no a quienes buscan empleo.
+  - Aclaracion: Para trabajar como asistente, el usuario hace la solicitud al correo sistemadecuidados@mides.gub.uy, el MIDES evalúa la dependencia y el trámite se completa en una oficina del BPS, donde el asistente integra la lista de habilitados.
+  - Aclaracion: La página no lista requisitos para inscribirse como asistente ni confirma que la recepción sea continua.
+  - Aclaracion: El listado de asistentes habilitados puede consultarse en el BPS.

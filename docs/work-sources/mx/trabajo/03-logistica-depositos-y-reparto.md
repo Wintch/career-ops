@@ -1,0 +1,123 @@
+# Logistica, depositos y reparto
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Walmart de México: vacantes en CEDIS (centros de distribución)** (abierta o vigente, verificada 2 veces) https://www.oportunidadeswm.com/empleos-cedis-wm
+  - Que es: Personas que buscan trabajo operativo en centros de distribución: montacarguista, auxiliar de almacén (operador logístico), mecánico y auxiliar administrativo de logística.
+  - Requisitos: Montacarguista: experiencia en montacargas (certificación ideal). Mecánico: experiencia en mantenimiento mecánico o industrial. Operador Logístico A: experiencia en almacén o CEDIS deseable, no obligatoria (apto sin experiencia previa según lo publicado). Auxiliar Especializado: experiencia administrativa o de análisis de datos deseable y manejo de Excel/Office. Edad, escolaridad y documentos: sin datos.
+  - Pago o beneficio: sin datos (no se publican montos); prestaciones superiores a las de ley
+  - Plazo o ciclo: Abierto todo el año (vacantes publicadas sin fecha de cierre visible).
+  - Como postular: https://www.oportunidadeswm.com/empleos-cedis-wm
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La postulación se hace con el botón «Postúlate aquí», que abre una conversación de WhatsApp con un número de reclutamiento y mensaje prellenado.
+  - Aclaracion: Prestaciones listadas: vales de despensa, descuentos en tiendas Walmart, Bodega Aurrera y Walmart Express, aguinaldo superior al de ley, bono anual por resultados, programas de salud, días personales extra y plataformas de capacitación.
+  - Aclaracion: La página no indica sueldos, edad, escolaridad, documentos, turnos ni sedes de CEDIS.
+  - Aclaracion: Operador Logístico A es un puesto de entrada: la experiencia en almacén es solo deseable.
+- **Walmart de México: página de carrera (acceso a vacantes por área)** (abierta o vigente, verificada 2 veces) https://www.walmartmexico.com/carrera
+  - Que es: Cualquier persona interesada en vacantes de Walmart de México; la página dirige a tiendas y clubes, CEDIS, tecnología y staff corporativo.
+  - Requisitos: sin datos en esta página (se detallan en cada bolsa enlazada)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año como portal de acceso; el programa Spark&Ready Trainees solo aparece con enlace a la edición 2025, sin fecha vigente (edición 2026 no verificada).
+  - Como postular: https://www.oportunidadeswm.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no lista vacantes propias: enlaza a bolsas por área (tiendas, clubes, CEDIS y corporativo en oportunidadeswm.com; tecnología en esteesellugar.com; trainees en bewanted.com).
+  - Aclaracion: Las áreas se infirieron de las URL porque los enlaces son imágenes.
+  - Aclaracion: El programa de trainees no muestra fechas, requisitos ni sueldo, y el enlace corresponde a 2025, por lo que no debe presentarse como convocatoria abierta.
+- **Estafeta: Únete a Estafeta (bolsa de trabajo oficial)** (abierta o vigente, verificada 2 veces) https://uneteaestafeta.com
+  - Que es: Personas que buscan trabajo en paquetería: la página lista vacantes de chofer y ayudante general, logística y operaciones, atención a clientes, comercial y administrativo.
+  - Requisitos: sin datos (no listados en la página)
+  - Pago o beneficio: sin datos; prestaciones 'superiores a las de la ley' y sujetas a la sociedad contratante
+  - Plazo o ciclo: Abierto todo el año (registro permanente en la comunidad de talento); sin fechas de cierre vistas.
+  - Como postular: https://uneteaestafeta.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La bolsa muestra cinco categorías: Atención a clientes, Corporativo y Administrativo, Comercial, Chofer y ayudante general, y Logística y operaciones; no se vieron vacantes individuales.
+  - Aclaracion: Se postula con «Crear cuenta» o «Quiero enviar mi CV».
+  - Aclaracion: El pie de página dice «Copyright 1996-2016» y las cifras de personal parecen de años distintos, por lo que el sitio puede estar poco actualizado; conviene confirmar que el registro funcione.
+- **Redpack: Únete a Redpack y vacantes** (abierta o vigente, verificada 2 veces) https://www.redpack.com.mx/unete-a-redpack/
+  - Que es: Personas que buscan trabajo en paquetería y mensajería; el formulario agrupa las áreas Administrativo, Comercial y Operativo.
+  - Requisitos: sin datos (no listados)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (formulario permanente); sin fechas de cierre vistas.
+  - Como postular: https://www.redpack.com.mx/unete-a-redpack/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El formulario pide nombre, apellido, correo, teléfono, área (Administrativo, Comercial u Operativo), mensaje y CV adjunto.
+  - Aclaracion: «Conoce nuestras vacantes» lleva a un portal externo (redpack.sherlockhr.com) cuyas vacantes concretas no se verificaron.
+  - Aclaracion: Teléfono de contacto en el pie de página: 55-3682-4040.
+- **99minutos: Únete al equipo (repartidores y puestos base)** (abierta o vigente, verificada 2 veces) https://www.99minutos.com/unete-al-equipo/
+  - Que es: Repartidores independientes (prestadores de servicios) y personal de base como operadores y auxiliares de almacén.
+  - Requisitos: sin datos (la página no lista requisitos; no se indica experiencia obligatoria)
+  - Pago o beneficio: sin datos en montos; pago semanal; en plaza base prestaciones de ley desde el día uno
+  - Plazo o ciclo: Abierto todo el año (la página indica que contrata operadores y auxiliares de almacén de forma constante); sin fechas de cierre.
+  - Como postular: https://recruitment.99minutos.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Se postula desde los botones «Quiero unirme al equipo» (recruitment.99minutos.com) y «Quiero ser un repartidor» (99-min.com/recruitment).
+  - Aclaracion: Plaza base (empleado): prestaciones de ley desde el primer día (IMSS, aportaciones a INFONAVIT, vacaciones, aguinaldo) y capacitación pagada.
+  - Aclaracion: Repartidor freelance: proveedor independiente, con zona de entrega cercana al domicilio.
+  - Aclaracion: Almacén: ingreso fijo según el puesto.
+- **99minutos: proveedor de servicio (Service Partner)** (abierta o vigente, verificada 2 veces) https://www.99minutos.com/service-partner/
+  - Que es: Quienes ya tienen una empresa o flotilla de entregas y quieren operar recolección y última milla en su propio territorio, por código postal.
+  - Requisitos: Dirigido a negocios que ya operan reparto; no se listan requisitos formales; cobertura por códigos postales.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (no se publican tarifas ni comisiones)
+  - Plazo o ciclo: Sin fechas ni convocatoria; registro disponible mediante portal externo para proveedores con empresa de entregas.
+  - Como postular: https://www.99minutos.com/service-partner/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es un empleo: requiere operar un negocio de reparto; 99minutos aporta volumen de paquetes, tecnología y marca.
+  - Aclaracion: Se solicita con «Únete como proveedor» (portal socios99) o agendando una llamada con «Hablemos de su operación».
+  - Aclaracion: El programa es para empresas de entregas ya constituidas, no para personas que buscan empleo o trabajo individual.
+  - Aclaracion: No se publican tarifas ni comisiones; remiten a términos y condiciones de proveedores no vistos.
+- **Uber Eats: repartir con Uber (México)** (abierta o vigente, verificada 2 veces) https://www.uber.com/mx/es/deliver/
+  - Que es: Personas que quieren repartir comida y pedidos en auto, bicicleta o scooter, en ciudades como Ciudad de México, Guadalajara y Monterrey.
+  - Requisitos: Documentos según el medio de transporte (auto, bicicleta, scooter o a pie), foto personal, aprobar la evaluación y descargar la app. Edad mínima y lista de documentos: no indicadas en la página (sin datos). Sin experiencia mencionada.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sin tarifas publicadas. Pago semanal automático a cuenta bancaria; retiro inmediato hasta 5 veces al día.
+  - Plazo o ciclo: Abierto todo el año; la disponibilidad depende de la ciudad
+  - Como postular: https://www.uber.com/mx/es/deliver/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Pasos del registro: iniciar sesión o registrarse, autorizar una evaluación, subir los documentos del medio de transporte elegido, enviar una foto personal, descargar la app y esperar la notificación de activación.
+  - Aclaracion: Una pregunta frecuente menciona que también se puede repartir a pie.
+  - Aclaracion: La disponibilidad depende de la ciudad y debe confirmarse en la app de Uber Eats.
+- **Amazon Jobs (búsqueda de empleos, incluye puestos por hora)** (abierta o vigente, verificada 2 veces) https://www.amazon.jobs/es
+  - Que es: Personas que buscan empleos de Amazon; ofrece búsqueda por categoría, equipo, ubicación y puestos por hora.
+  - Requisitos: Varían por vacante. Los puestos profesionales piden estudios y varios años de experiencia, y a veces inglés. Los de entrada (p. ej. Asistente de Afiliación) no se revisaron en detalle (sin datos).
+  - Pago o beneficio: sin datos (no se vio sueldo en lo consultado).
+  - Plazo o ciclo: Abierto todo el año; se encontraron 318 vacantes con ubicación en México el 2026-11-23 (consulta a la búsqueda del propio sitio)
+  - Como postular: https://www.amazon.jobs/es/search?country=MEX
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: La mayoría de los puestos son de perfil profesional o de supervisión; hay puestos de entrada como «Asistente de Afiliación» (logística de última milla).
+  - Aclaracion: No se vieron vacantes de almacén por hora en la muestra; el contenido del enlace «Por hora» para México no se confirmó.
+  - Aclaracion: Se postula desde cada vacante; la página principal no explica requisitos ni el proceso.
+  - Aclaracion: El dominio hiring.amazon.com.mx no existe.
+- **Rappi: registro de repartidores (Soy Rappi)** (abierta o vigente, verificada 2 veces) https://www.rappi.com.mx/repartidor/roma
+  - Que es: Personas que quieren repartir con Rappi en México.
+  - Requisitos: Ser mayor de edad; smartphone Android para la app SoyRappi; moto, automóvil o bicicleta; subir documentos en la app (cuáles: sin datos en la página). No se pide capital. Sin experiencia mencionada.
+  - Pago o beneficio: Pago por pedido entregado; 100% de las propinas; bonos por referidos y metas de pedidos; pago semanal a cuenta bancaria. Montos: sin datos.
+  - Plazo o ciclo: Abierto todo el año (registro mediante formulario y app SoyRappi)
+  - Como postular: https://www.rappi.com.mx/repartidor/roma
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Pasos: llenar el formulario de registro, descargar la app SoyRappi, ingresar datos básicos, subir documentos, esperar la validación y conectarse.
+  - Aclaracion: La mochila no es obligatoria al inicio y el repartidor elige cuándo y cuánto conectarse.
+  - Aclaracion: La disponibilidad por ciudad no se confirmó; la URL oficial legible es una página por zona (por ejemplo, /repartidor/roma).
+- **Paquetexpress: Oferta laboral (portal de vacantes)** (sin verificar, verificada 1 vez) https://paquetexpress.pandape.computrabajo.com/
+  - Que es: Personas interesadas en vacantes de la paquetería Paquetexpress; el tipo de puestos no se pudo verificar.
+  - Requisitos: sin datos en la fuente oficial; anuncios de terceros piden experiencia en unidades de 3.5 a 5 toneladas para auxiliar de chofer; existen anuncios 'sin experiencia' para auxiliar de almacén
+  - Pago o beneficio: sin datos en la fuente oficial; anuncios en Computrabajo muestran 13,000 a 14,220 MXN mensuales para auxiliar de chofer y chofer custodio
+  - Plazo o ciclo: sin datos: el portal cargó sin contenido legible en dos intentos; la contratación parece continua según anuncios en Computrabajo.
+  - Como postular: https://mx.computrabajo.com/empresas/ofertas-de-trabajo-de-paquetexpress-F850D4324B8D02EA
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal oficial en Pandape no mostró contenido legible; hay muchos anuncios de Paquetexpress en Computrabajo México (chofer, auxiliar de chofer, operador de camión, asesor logístico de punto de venta, auxiliar de almacén, control operativo) en varios estados.
+  - Aclaracion: La vigencia de esos anuncios no está confirmada: tienen fechas relativas y algunos muestran errores al postular.
+  - Aclaracion: Los salarios mencionados provienen de anuncios de terceros y no son oficiales.
+  - Aclaracion: No se verificó una página oficial de carreras en paquetexpress.com.mx.
+- **Portal del Empleo (Servicio Nacional de Empleo)** (sin verificar, verificada 1 vez) https://www.empleo.gob.mx/
+  - Que es: Cualquier persona que busque empleo; es el portal oficial de vacantes del gobierno federal.
+  - Requisitos: sin datos (no se pudo leer la página). Según fuentes secundarias, basta crear una cuenta con nombre y correo electrónico; el servicio es gratuito.
+  - Pago o beneficio: Servicio gratuito; los sueldos dependen de cada vacante (sin datos).
+  - Plazo o ciclo: Sin fecha. Se describe como abierto de forma continua (no confirmado en la página); los boletines estatales de vacantes se publican los días 1 y 16 de cada mes (según un boletín de Oaxaca visto en resultados de búsqueda)
+  - Como postular: https://www.empleo.gob.mx/PortalDigital
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El sitio es una aplicación de una sola página cuyo contenido no pudo leerse, por lo que el registro y las vacantes no se confirmaron directamente.
+  - Aclaracion: Según medios y boletines estatales (no la página oficial), es la bolsa gratuita del Servicio Nacional de Empleo (STPS), con cobertura nacional, creación de cuenta con correo electrónico y oficinas estatales con atención presencial.
+  - Aclaracion: Esas fuentes advierten sobre fraudes: ninguna vacante legítima pide dinero.
+  - Aclaracion: Hay un acceso alterno en https://www.empleo.gob.mx/PortalDigital.

@@ -1,0 +1,80 @@
+# Primer empleo, juventud y capacitacion
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Comfenalco Antioquia: Agencia de Empleo** (abierta o vigente, verificada 2 veces) https://www.comfenalcoantioquia.com.co/personas/servicios/agencia-de-empleo
+  - Que es: Personas que buscan empleo en Antioquia; sedes de la agencia listadas en el sitio.
+  - Requisitos: sin datos (la página no indica criterios de elegibilidad); el registro previo es la hoja de vida en el SPE.
+  - Pago o beneficio: No aplica: intermediación laboral; la remuneración depende de cada vacante. Cursos y diplomados sin costo según la página.
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: https://personas.serviciodeempleo.gov.co/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no detalla costo, requisitos ni direcciones de las sedes, que figuran en una subpágina.
+  - Aclaracion: La subpágina de ofertas de empleo no mostraba vacantes en la última lectura; la página enlaza a un portal de 'Trabaja con nosotros' (comfenalcoantioquia.pandape.computrabajo.com).
+  - Aclaracion: El acceso a la orientación requiere registrar antes la hoja de vida en la app del SPE o en serviciodeempleo.gov.co.
+- **ICETEX: creditos, becas y fondos de educacion superior** (abierta o vigente, verificada 2 veces) https://web.icetex.gov.co/portal
+  - Que es: Estudiantes y aspirantes a educacion superior en Colombia.
+  - Requisitos: sin datos: la portada no lista requisitos; estan en cada seccion de credito o beca
+  - Sin experiencia previa: si
+  - Pago o beneficio: Creditos educativos y becas; montos no verificados
+  - Plazo o ciclo: La portada del 2026-11-23 anuncia 'Inscripciones abiertas: Convocatoria 2027-1' sin fechas en el texto; convocatorias semestrales (calendarios de pregrado, posgrado pais y posgrado exterior enlazados)
+  - Como postular: https://web.icetex.gov.co/portal
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es financiación de estudios, no empleo.
+  - Aclaracion: El formulario puede cerrar antes por disponibilidad de recursos.
+  - Aclaracion: Contacto: +57 333 602 5656 (lunes a viernes de 7:00 a 19:00, sábados de 8:00 a 14:00) y línea gratuita 018000-916821.
+- **Politica de Gratuidad en educacion superior publica (Puedo Estudiar)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.mineducacion.gov.co/portal/Educacion-Superior/Politica-de-Gratuidad-Puedo-Estudiar/419531:Politica-de-Gratuidad-Puedo-Estudiar
+  - Que es: Estudiantes de instituciones de educacion superior publicas.
+  - Requisitos: Ser admitido y matricularse en un pregrado de una de las 67 IES públicas (registro en SNIES); no tener título profesional universitario; pertenecer a un grupo: estrato 1, 2 o 3 (o sin estrato), pueblos indígenas, Rrom, comunidades negras/afro/raizales/palenqueras, víctimas, personas con discapacidad, comunidades campesinas, personas privadas de la libertad, o Sisbén IV grupos A, B o C. Se valida con recibo de servicios, certificados oficiales (Ministerio del Interior, UARIV, INPEC, DNP) o diploma de colegio rural.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Matrícula gratuita (no es un pago en dinero).
+  - Plazo o ciclo: Política permanente; la matrícula se hace por periodo académico en cada institución pública. Las fechas las fija cada institución de educación superior; la página no publica un calendario nacional.
+  - Como postular: Consultar las subpaginas del portal; conmutador (601) 22 22800, linea gratuita 018000 910122.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Cubre matrícula gratuita en pregrado técnico profesional, tecnológico o universitario, sin límite de edad, e incluye a personas extranjeras y permite aplazar periodos.
+  - Aclaracion: Las reglas citadas corresponden al Reglamento Operativo de 2024, por lo que conviene confirmar su vigencia con la institución.
+  - Aclaracion: No es un empleo sino un subsidio educativo.
+- **Estado Joven (practicas laborales remuneradas en el sector publico)** (sin verificar, verificada 1 vez) https://www.funcionpublica.gov.co/web/estado-joven
+  - Que es: Jovenes de 15 a 28 anios que finalizan formacion normalista, tecnica laboral, tecnica profesional, tecnologica, universitaria de pregrado o formacion titulada del SENA y cuyo plan de estudios exige practica.
+  - Requisitos: Segun ediciones anteriores: 18 a 28 anos, nacionalidad colombiana, estudiante tecnico profesional, tecnologico o universitario en etapa de practica para optar al grado. No es un primer empleo para quien no estudia. No verificado para 2026.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Segun ediciones anteriores: auxilio de practica equivalente a un salario minimo (tiempo completo) o medio salario minimo (medio tiempo); practica de hasta 5 meses. No verificado para 2026.
+  - Plazo o ciclo: sin datos: no se hallo una convocatoria 2026 en fuente oficial
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El PDF indicado es una ficha de APC Colombia, no la página oficial del programa.
+  - Aclaracion: Requisitos y auxilio corresponden a ediciones anteriores (2019 a 2023) y no se confirmaron para 2026; la edad aparece como 18 a 28 años en esas ediciones y como 15 a 28 años en otra descripción.
+  - Aclaracion: No se confirmó una convocatoria 2026 ni el proyecto de ley que haría permanente el programa.
+  - Aclaracion: Es un programa conjunto del Ministerio del Trabajo y la Función Pública; conviene consultar ambas entidades antes de considerarlo abierto.
+- **Renta Joven (apoyo de sostenimiento; sucesor de Jovenes en Accion)** (sin verificar, verificada 1 vez) https://prosperidadsocial.gov.co/sgpp/transferencias/renta-joven/
+  - Que es: Jovenes de 14 a 28 anios matriculados en instituciones de educacion superior, SENA y Escuelas Normales Superiores, con atencion priorizada a poblacion en pobreza y vulnerabilidad.
+  - Requisitos: Segun prensa y la nota de RTVC 2024: 14 a 28 anos, estar matriculado en educacion tecnica, tecnologica, universitaria de pregrado, escuela normal superior o SENA, y estar en bases focalizadas (Sisben, censo indigena o ICBF). Sin experiencia requerida. Estos criterios requieren confirmacion en la fuente oficial.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Transferencias monetarias por ciclo; montos reportados por prensa en 2026 entre 200.000 y 600.000 pesos segun institucion y ciclo (no verificado en fuente oficial).
+  - Plazo o ciclo: Programa continuo con giros por ciclos en 2026; nuevas inscripciones no confirmadas para 2026 (la ultima convocatoria de inscripcion vista fue del 20 de julio al 15 de octubre de 2024)
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El programa sigue operando con giros por ciclos en 2026, pero no hay fuente que confirme inscripciones abiertas en 2026; una nota no oficial de 2025 indica que no se abrirían nuevos cupos.
+  - Aclaracion: Criterios y montos provienen de prensa y no de una fuente oficial.
+  - Aclaracion: Es un apoyo económico para estudiar, no un empleo.
+  - Aclaracion: La advertencia oficial es no pagar a intermediarios.
+- **Contrato de aprendizaje SENA** (sin verificar, verificada 1 vez) https://www.sena.edu.co/es-co/trabajo/Paginas/contratoAprendizaje.aspx
+  - Que es: Aprendices del SENA y de otras instituciones de formacion, vinculados a empresas obligadas o voluntarias.
+  - Requisitos: sin datos: no legibles en la consulta
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos: la pagina menciona apoyo de sostenimiento sin montos legibles
+  - Plazo o ciclo: sin datos: ruta continua segun lo declarado, no confirmada con fechas
+  - Como postular: https://agenciapublicadeempleo.sena.edu.co/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial del SENA existe, pero requisitos, apoyo de sostenimiento y pasos no pudieron confirmarse; solo se vieron los encabezados (contrato de aprendizaje, cómo aplicar, requisitos).
+- **Jovenes en Paz (Prosperidad Social)** (sin verificar, verificada 1 vez) https://prosperidadsocial.gov.co/jovenes-en-paz/
+  - Que es: sin datos
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: La portada de Prosperidad Social lo lista entre sus programas con consulta del estado del registro del producto financiero; el procedimiento no se leyo.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL del programa no pudo leerse y no hay condiciones, montos, edades ni fechas confirmadas.
+  - Aclaracion: La página principal de Prosperidad Social enlaza a una guía 'ABC' de Jóvenes en Paz y remite a micuenta.prosperidadsocial.gov.co para consultar el estado del producto financiero.
+  - Aclaracion: Se recomienda no tomar detalles del programa hasta confirmarlos en la página oficial.

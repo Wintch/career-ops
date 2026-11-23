@@ -1,0 +1,86 @@
+# Grupo 23: Profissionais do ensino
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **SEDU-ES - Processos Seletivos externos (professores em designação temporária)** (aberta ou vigente, verificada 2 vezes) https://sedu.es.gov.br/externo-2
+  - O que é: Candidatos a contratação temporária como professor habilitado, professor não habilitado, professor de educação profissional técnica, professor de idiomas dos Centros Estaduais de Idiomas e cuidador de apoio escolar.
+  - Requisitos: sem dados nas páginas; ver o edital (formação e proficiência na língua). Experiência exigida: sem dados.
+  - Pagamento ou benefício: sem dados (consta no edital)
+  - Prazo ou ciclo: Edital 37/2026 (professores de inglês e espanhol dos Centros Estaduais de Idiomas): inscrições de 17/11/2026 (10h) a 26/11/2026 (17h, horário de Brasília). Ciclo recorrente: editais de professores habilitados (24/2026, 03 a 12/08), não habilitados (30/2026, 24/08 a 02/09) e educação profissional (29/2026), repetindo o padrão de 2025 (36/2025 em outubro, 38/2025 e 43/2025 em novembro e dezembro). Também há cadastramentos abertos até 02/04/2027 (Edital 33/2026 CASF, 34/2026 Diretor Escolar, 35/2026 Coordenador Pedagógico), conforme o portal Seleção ES.
+  - Como se candidatar: https://selecao.es.gov.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O prazo do Edital 37/2026 termina em 26/11/2026 às 17h, poucos dias após a data de verificação, e o portal o marca como 'últimos dias'.
+  - Esclarecimento: Salvo o edital 22/2025, que usou Google Forms, as inscrições ocorrem pelo portal Seleção ES.
+  - Esclarecimento: A página da SEDU descreve a contratação como designação temporária; o portal não detalha.
+- **Cogna Educação - portal de vagas na Gupy** (aberta ou vigente, verificada 2 vezes) https://cogna.gupy.io/
+  - O que é: Candidatos a vagas em instituições de ensino do grupo, na área acadêmica e administrativa.
+  - Requisitos: sem dados; cada vaga detalha. Experiência mínima não confirmada.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Abertas todo o ano (portal permanente). Em 2026-11-23: 227 vagas em 23 páginas, e há opção 'Participar do banco de talentos' para quem não encontra vaga adequada.
+  - Como se candidatar: https://cogna.gupy.io/
+  - Leitura automática possível: Listagem em HTML paginada (10 por página); API não verificada.
+  - Esclarecimento: Na primeira página, as 10 vagas visíveis são todas do tipo Efetivo, algumas híbridas, e há vagas afirmativas para pessoas negras e pessoas com deficiência.
+  - Esclarecimento: Remuneração e requisitos constam na página de cada vaga.
+  - Esclarecimento: A exigência de experiência da vaga de Agente Escolar, que é do tipo porta de entrada, não foi confirmada.
+- **Maple Bear - vagas das escolas na Gupy (assistente de professor, estágio em Pedagogia, área pedagógica)** (aberta ou vigente, verificada 2 vezes) https://maplebearescolas.gupy.io/
+  - O que é: Candidatos a vagas em escolas da rede: assistente de professor, auxiliar, coordenação, estágio em Pedagogia com inglês e banco de talentos.
+  - Requisitos: sem dados; cada vaga detalha. Estágio exige estar cursando graduação (Pedagogia), conforme o título do banco de talentos; demais requisitos: sem dados. Experiência: sem dados.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Abertas todo o ano (portal permanente). Em 2026-11-23: 46 vagas em 5 páginas, tipos Efetivo e Banco de talentos.
+  - Como se candidatar: https://maplebearescolas.gupy.io/
+  - Leitura automática possível: Listagem em HTML paginada (10 por página); API não verificada.
+  - Esclarecimento: Cada vaga pertence a uma escola franqueada, então as condições variam por escola.
+  - Esclarecimento: Não há vaga com o título exato 'professor' entre as 10 visíveis.
+- **CNA Idiomas - vagas na Gupy (inclui auxiliar de professor de inglês)** (aberta ou vigente, verificada 2 vezes) https://cnaidiomas.gupy.io/
+  - O que é: Candidatos a vagas em unidades da rede de idiomas: auxiliar de professor de inglês, atendimento, secretaria, consultor comercial, aprendiz e banco de talentos (inclusive PCD).
+  - Requisitos: sem dados; cada vaga detalha. Experiência: sem dados.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Abertas todo o ano (portal permanente). Em 2026-11-23: 56 vagas em 6 páginas, e há opção 'Participar do banco de talentos'.
+  - Como se candidatar: https://cnaidiomas.gupy.io/
+  - Leitura automática possível: Listagem em HTML paginada (10 por página); API não verificada.
+  - Esclarecimento: A vaga 'Auxiliar de Professor(a) de Inglês' listada é do tipo Aprendiz, em São Leopoldo (RS), e não Efetivo.
+  - Esclarecimento: Vagas de Aprendiz costumam ter limite de idade e exigir escolaridade, mas isso não aparece na página.
+  - Esclarecimento: Há filtros por estado, cidade, área e modo de trabalho.
+- **Vagas.com - vagas de professor (escolas, Senac, ONGs e fundações)** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-professor
+  - O que é: Candidatos a vagas de professor de várias áreas (tecnologia, educação tecnológica, língua portuguesa, ensino fundamental, ensino técnico, pilates) e a estágios de professor.
+  - Requisitos: Varia por vaga. Vistos: licenciatura em Letras (Português EF2); experiência docente e pós-graduação desejáveis em algumas. Estágio: estar cursando graduação (detalhe sem dados). Vagas sem exigência de experiência: sem dados.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Anúncios abertos todo o ano (a lista muda diariamente). Em 2026-11-23: 24 vagas (CLT 16, estágio 4, temporário 3, PJ 1). Fundação Salvador Arena: 'Programa de Estágio Professor do Futuro' e 'Professor do Futuro 2027', 12 vagas cada, em São Bernardo do Campo/SP, aceita candidatos de qualquer cidade do Brasil; prazo: sem dados.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-professor
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É um quadro de vagas que agrega anúncios de empregadores diretos; cada vaga deve ser confirmada no empregador.
+  - Esclarecimento: Para candidatar-se, é preciso cadastro gratuito de currículo e login; a candidatura é feita no anúncio.
+  - Esclarecimento: A vaga de Língua Portuguesa EF2 tem 23 horas-aula semanais, com início em janeiro de 2027.
+  - Esclarecimento: Requisitos aparecem apenas em algumas vagas.
+- **Vagas.com - vagas de pedagogo (coordenação pedagógica, mentoria e estágio em Pedagogia)** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-pedagogo
+  - O que é: Pedagogos e estudantes de Pedagogia: orientador pedagógico, auxiliar de coordenação pedagógica, mentor, supervisor de educação inclusiva e estágios.
+  - Requisitos: Mais comum: graduação em Pedagogia ou licenciatura. Estágio: cursando Pedagogia, Letras ou áreas afins. Algumas pedem experiência em docência, inglês avançado ou 36 horas semanais. Não é uma fonte para quem não tem graduação, exceto algumas vagas de apoio.
+  - Pagamento ou benefício: Varia por vaga; mediana do site para o cargo de pedagogo: R$ 2.989,00 (estimativa da página).
+  - Prazo ou ciclo: Anúncios abertos todo o ano (a lista muda diariamente). Em 2026-11-23: 36 vagas (CLT 22, estágio 11, temporário 2, PJ 1); SP 22, RJ 9, MG 3, PR 1, RS 1.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-pedagogo
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A mediana salarial é estimativa do site para o cargo, não valor de vaga.
+  - Esclarecimento: O CIEE é um agente de integração de estágios; convém confirmar a vaga no site do empregador.
+  - Esclarecimento: Há 1 vaga exclusiva para PcD.
+  - Esclarecimento: A candidatura exige cadastro gratuito e login, e depois a abertura de cada anúncio.
+- **SEC-BA - Seleções e Concursos (professores, REDA, alfabetizadores, intérpretes de Libras)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.ba.gov.br/educacao/selecoes-e-concursos
+  - O que é: Professores da educação básica, da educação profissional e indígena; alfabetizadores; técnicos de AEE, tradutores/intérpretes de Libras, braillistas e instrutores de Libras; outros profissionais da educação.
+  - Requisitos: sem dados na página; ver o PDF de cada edital. Não consta indicação de que não se exija experiência.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Sem edital aberto em 2026-11-23. Ciclo anual observado: editais de professor em 2025 (SEC/SUDEPE nº 13/2025 e SEC nº 03/2025) e editais REDA em 2026 (nº 002, 003 e 004/2026), todos homologados, com convocações em andamento. Mês de abertura do próximo ciclo: sem dados.
+  - Como se candidatar: sem dados (cada edital indica o canal de inscrição)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página funciona como índice de documentos (editais, resultados e convocações), e nenhum item mostra inscrição aberta.
+  - Esclarecimento: As convocações do cadastro de reserva seguem saindo, mas não equivalem a edital aberto.
+  - Esclarecimento: A classificação como recorrente se apoia em editais repetidos em 2025 e 2026, não em calendário publicado.
+  - Esclarecimento: Remuneração e requisitos constam nos PDFs dos editais.
+- **Seeduc-RJ - Contratação temporária de professores (Professor Docente I e II)** (não verificada, verificada 1 vez) https://www.seeduc.rj.gov.br/professor/contratação-temporária
+  - O que é: Candidatos a contrato temporário como Professor Docente I (anos finais do fundamental, ensino médio e educação especial) e Professor Docente II (anos iniciais em unidades prisionais e socioeducativas e em escolas indígenas da regional Sul Fluminense).
+  - Requisitos: sem dados (constam no edital, não lido). Por tratar-se de professor, provavelmente exige formação docente, mas isso não foi confirmado.
+  - Pagamento ou benefício: sem dados (consta no edital, não lido)
+  - Prazo ou ciclo: Decreto autoriza contratações para os anos letivos de 2026 e 2027; edital do Processo Seletivo Simplificado publicado no DOERJ em 19/01/2026. Prazo de inscrição e situação atual: sem dados.
+  - Como se candidatar: https://contratotemporario.educacao.rj.gov.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O portal contratotemporario.educacao.rj.gov.br oferece 'Realizar Inscrição', 'Consultar Inscrição' e 'Reimprimir Comprovante', mas não informa se as inscrições estão abertas em 23/11/2026 nem datas.
+  - Esclarecimento: Requisitos e remuneração constam no edital, que não foi lido; dúvidas devem ser dirigidas à Coordenadoria de Gestão de Pessoas da Regional escolhida (Anexo I do edital).

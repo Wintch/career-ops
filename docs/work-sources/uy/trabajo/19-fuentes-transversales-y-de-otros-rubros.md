@@ -1,0 +1,574 @@
+# Fuentes transversales y de otros rubros
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Ministerio del Interior - Llamado 8773/2026: Agente Ejecutivo / Agente Eventual, Zona Metropolitana (hasta 1.000 plazas)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-interior/comunicacion/convocatorias/87732026-agente-ejecutivoagente-eventual-zona-metropolitana
+  - Que es: Cualquier persona que cumpla los requisitos, sin necesidad de experiencia previa. Destinos en Montevideo, Canelones y San José. El llamado reserva cupos: 8 % afrodescendientes, 1 % personas trans, 2 % víctimas de delitos violentos.
+  - Requisitos: Ciudadanía natural o legal con más de 5 años de ejercicio; cédula de identidad vigente; credencial cívica y haber votado en las últimas elecciones generales y departamentales (no se subsana con multa); 18 a 35 años cumplidos al cierre de la inscripción; buena conducta (certificado de antecedentes judiciales); aptitud física y médica; Educación Básica Integral (ex Ciclo Básico) o equivalente UTU completa, sin materias pendientes (excluyente). No requiere experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Durante la formación, el equivalente a un salario mínimo nacional mensual. Una vez egresado, remuneración nominal de $U 63.927 a enero de 2026 (incluye Presentismo y Compromiso de Gestión).
+  - Plazo o ciclo: Inscripción web del 16/11/2026 al 13/12/2026 (estado Vigente al 2026-11-23). Es el único llamado Vigente en el listado de convocatorias del Ministerio. El Ministerio publica otros llamados a lo largo del año, sin fecha fija anual.
+  - Como postular: https://inscripciones.minterior.gub.uy/formularios/show/570
+  - Lectura automatica posible: No hay API. Listado de convocatorias en gub.uy con filtro de vigencia; bases en PDF; formulario web.
+  - Aclaracion: Es un concurso público y abierto por oposición y méritos, con hasta 1.000 plazas, incluidas vacantes que surjan durante la vigencia de la lista.
+  - Aclaracion: La inscripción es por formulario en línea (inscripciones.minterior.gub.uy, formulario 570); consultas en dnep-denaci.inscripciones@minterior.gub.uy.
+  - Aclaracion: Los requisitos de edad, nacionalidad y estudios figuran solo en las Bases Generales en PDF.
+  - Aclaracion: Se pide Certificado de Antecedentes Judiciales y CV Digital (este último previo a la designación).
+- **Armada Nacional - Ingreso como Personal Subalterno (marinería)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/tramites/ingreso-armada-nacional
+  - Que es: Jóvenes de 18 a 30 años con Ciclo Básico o primaria completa; sin experiencia requerida.
+  - Requisitos: Ciudadanía uruguaya; entre 18 y 30 años inclusive; ciclo básico aprobado o primaria completa (se dan 8 años desde el ingreso para terminar el ciclo básico); carné de salud, credencial cívica, constancia de haber votado en la última elección y foto; sin baja previa de las FF.AA. por causa que impida el reingreso; certificado de antecedentes del Ministerio del Interior; aprobar las pruebas de ingreso de la Armada. No exige experiencia previa. Sin costo.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no informa salario)
+  - Plazo o ciclo: Abierto todo el año: la página no publica períodos de inscripción ni cupos; el trámite en línea figura disponible (última actualización de la página: 03/11/2026). Las fechas de la Escuela Naval (03/08 al 17/12/2026) NO aparecen en esta página y no se pudieron verificar.
+  - Como postular: https://www.gub.uy/tramites/ingreso-armada-nacional (botón "Iniciar Trámite en Línea") o en persona en la Dirección de Recursos Humanos de la Armada, Misiones 1429, Ciudad Vieja, Montevideo, de 8:30 a 12:00; consultas: recur_ingresos@armada.mil.uy, 2916 1014 / 2916 0647, WhatsApp 091 016 053
+  - Lectura automatica posible: Trámite en línea en gub.uy; sin API.
+  - Aclaracion: Es un camino abierto sin fecha de cierre visible; la ficha no informa períodos de inscripción ni cupos.
+  - Aclaracion: Se exige ciudadanía uruguaya, edad de 18 a 30 años inclusive, ciclo básico aprobado o primaria completa (con ciclo básico dentro de los 8 años siguientes al ingreso) y aprobar las pruebas de ingreso.
+  - Aclaracion: El trámite es gratuito, en línea o presencial (por ejemplo, Dirección de Recursos Humanos, Misiones 1429, Montevideo, de 8:30 a 12:00).
+  - Aclaracion: La inscripción anual para oficiales (Escuela Naval) no figura en la página consultada y no está verificada.
+- **Intendencia de Rocha - Llamados públicos (Guardaparques, Inspector/a de Tránsito, Guardavidas 2026-2027)** (abierta o vigente, verificada 2 veces) https://www.rocha.gub.uy/index.php?seccion=llamados
+  - Que es: Residentes y no residentes que cumplan el perfil. Guardavidas y Guardaparques son trabajos de verano o de áreas protegidas, con título o curso específico.
+  - Requisitos: Guardaparques: mayor de 18 años, cédula vigente, ciudadanía natural o legal e inscripción en el Registro Cívico Nacional; título de Bachillerato Profesional de Guardaparques, Tecnicatura en gestión de áreas naturales (Polo Educativo Tecnológico IAE) o acreditación de saberes UTU-DINAMA (excluyente); se valoran antecedentes afines. Guardavidas: mayor de 18 años, ciudadanía natural o legal e inscripción en el Registro Cívico (el resto de requisitos no se leyó; concurso de oposición y mérito). Inspector/a de Tránsito: concurso de oposición y méritos, Escalafón Administrativo, Dirección General de Tránsito y Transporte; requisitos no leídos.
+  - Pago o beneficio: sin datos (no se informa)
+  - Plazo o ciclo: Avisos vistos: Guardaparques (publicado 18/11/2026, id 4454), Inspectores de Tránsito (04/11/2026, id 4449, Resolución 1450/2026), Guardavidas temporada 2026-2027 (22/10/2026, id 4446, Resolución 3393/2026 del 20/10/2026). No se pudo leer ningún período de inscripción ni fecha de cierre (el texto de los avisos aparece cortado). Guardavidas es de temporada y se repite cada año; la página muestra el orden de prelación de la prueba de ingreso 2026. Rocha Trabaja: solo se vio un banner con formulario, sin detalle.
+  - Como postular: Guardaparques: en las Oficinas de Gestión Humana de la Intendencia o por correo a llamadopublico@rocha.gub.uy con el asunto "Llamado Guardaparque". Guardavidas e Inspector/a de Tránsito: abrir el aviso en https://www.rocha.gub.uy/index.php?id=4446 e https://www.rocha.gub.uy/index.php?id=4449
+  - Lectura automatica posible: Páginas HTML con avisos y PDF de bases; sin API.
+  - Aclaracion: La fecha límite de inscripción no pudo verificarse y debe confirmarse en cada aviso; las fechas figuran solo en las bases en PDF.
+  - Aclaracion: Guardaparques se inscribe en las Oficinas de Gestión Humana o por correo a llamadopublico@rocha.gub.uy con el asunto "Llamado Guardaparque".
+  - Aclaracion: El llamado de Guardavidas 2026-2027 exige ciudadanía natural o legal y título de guardavidas del ISEF.
+  - Aclaracion: También figuran una actualización de la lista de prelación de Veterinario/a (22/10/2026) y Becas 2027 para estudiantes, que no son empleo.
+- **Intendencia de Tacuarembó - Noticias de llamados y listas de prelación** (abierta o vigente, verificada 2 veces) https://www.tacuarembo.gub.uy/?p=38800
+  - Que es: Personas del departamento de Tacuarembó. Figuran un llamado para la temporada de verano 2026-2027 (noticia del 19/11/2026: https://tacuarembo.gub.uy/?p=38800) y listas de prelación del 12 y 13/11/2026.
+  - Requisitos: Edad entre 18 y 60 años; cumplir con lo que establece la Resolución N.º 2339/2026 (el detalle no figura en la nota, consta en el documento del llamado). Perfiles: graduados y estudiantes de Educación Física, y guardavidas, socorristas y rescatistas, para distintos puntos del departamento (piscinas). Experiencia exigida: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Llamado público zafral N.º 0016 (temporada de verano 2026-2027): inscripción del 18 al 27 de noviembre de 2026, de 13:00 a 18:00. Cierra en pocos días respecto de 2026-11-23. Ciclo anual probable, no confirmado.
+  - Como postular: https://www.tacuarembo.gub.uy/?p=38800
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La inscripción es presencial, en la Dirección de Recursos Humanos de la Intendencia (Hall Central, 18 de Julio 164, Tacuarembó), con el Formulario de Inscripción de la temporada de piscinas 2026-2027, que se descarga de la nota.
+  - Aclaracion: Teléfono 4632 4671; atención al público de 12:30 a 18:00.
+  - Aclaracion: La portada también muestra listas de prelación publicadas el 12 y el 13/11/2026, que son resultados y no inscripciones.
+  - Aclaracion: El detalle de los requisitos de la Resolución N.º 2339/2026 consta en el documento del llamado y no en la nota.
+- **MIDES/ONSC - Cupo del 8% para personas afrodescendientes (Ley 19.122, art. 4)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.gub.uy/ministerio-desarrollo-social/comunicacion/noticias/nueva-guia-para-implementacion-cuota-laboral-para-afrodescendientes
+  - Que es: Personas afrodescendientes que postulan a llamados abiertos y contrataciones de organismos públicos, que deben reservar no menos del 8% de los puestos.
+  - Requisitos: Autoidentificarse como afrodescendiente al postularse a un llamado público (el procedimiento exacto no figura en esta página; ver las bases de cada llamado) y cumplir los requisitos del cargo.
+  - Pago o beneficio: Según el cargo del llamado (escala salarial del Estado)
+  - Plazo o ciclo: Permanente en cada llamado público. La guía se presentó el 24/07/2023; no hay fechas de llamados.
+  - Como postular: Cada llamado público del Estado (portal Uruguay Concursa u organismo convocante)
+  - Lectura automatica posible: ninguno
+  - Aclaracion: No es un llamado: es una obligación de reserva para los organismos del Estado, orientada por la guía MIDES-ONSC.
+  - Aclaracion: Según la nota oficial, cerca del 6% de las personas postulantes se presenta por el cupo, alrededor del 3% cumple los requisitos y cerca del 1% llega a la etapa final.
+  - Aclaracion: La página no detalla el procedimiento de autoidentificación.
+  - Aclaracion: No se verificó la reforma sancionatoria (ley 20.075).
+- **ONSC - Cupo del 1% para personas trans en el ingreso al Estado (Ley 19.684, art. 12; Decreto 104/019)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.gub.uy/oficina-nacional-servicio-civil/comunicacion/publicaciones/ingreso-personas-trans-estado-2025
+  - Que es: Personas trans que postulan a puestos del Estado. Según los resultados de búsqueda sobre la reglamentación, pueden acogerse quienes se autodefinen trans y han iniciado o realizado la adecuación de nombre o sexo en sus documentos, o solicitaron la Tarjeta Uruguay Social Trans.
+  - Requisitos: La página no detalla requisitos ni cómo postularse; solo ofrece el informe en PDF. Los requisitos son los de cada llamado público.
+  - Pago o beneficio: Salario del cargo público al que se ingresa (no especificado en la página).
+  - Plazo o ciclo: Cupo permanente en los llamados del Estado; informe anual de la ONSC (el de 2025 figura publicado el 02/07/2026).
+  - Como postular: Postular a los llamados de Uruguay Concursa o del organismo que convoca que indiquen el cupo. Informe completo: https://www.gub.uy/oficina-nacional-servicio-civil/sites/oficina-nacional-servicio-civil/files/documentos/publicaciones/Informe_Trans_2025.pdf; ONSC (598 2) 150, Plaza Independencia 710.
+  - Lectura automatica posible: El informe 2025 está en PDF descargable.
+  - Aclaracion: La ficha es un informe, no un llamado ni una vía de postulación; en 2025 ingresaron 26 personas trans a 10 organismos.
+  - Aclaracion: Según una fuente secundaria, el art. 12 de la Ley 19.684 fija el 1% y lo reglamenta el Decreto 104/019, y el informe 2025 no registra reserva para personas trans en los llamados de ese año.
+  - Aclaracion: No se vio ningún llamado de 2026, y no se leyó el portal de llamados (Uruguay Concursa).
+  - Aclaracion: Contacto ONSC: Plaza Independencia 710, Montevideo, tel. (598 2) 150, lunes a viernes de 9 a 17 h.
+- **ANP: Gestión Humana, Llamados (concursos y registros de aspirantes)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.anp.com.uy/es/inicio/institucional/anp/gestion-humana/llamados
+  - Que es: Ente estatal del puerto de Montevideo. Publica concursos y registros de aspirantes. Entre los de 2026 figuran Auxiliar Nivel 1 (Renglón Oficio, concurso de oposición y méritos), Administrativo para personas con discapacidad, Registro de Aspirantes de Dragado (Mecánico, Electricista, Tercer Maquinista) y varios profesionales (Ingeniero Naval, Abogado, Escribano).
+  - Requisitos: La página no detalla requisitos; están en los PDF de 'Bases' de cada llamado. Hay llamados específicos para personas con discapacidad (administrativo) y para oficios y registros de dragado (mecánico, electricista, maquinista), además de profesionales. Se ven llamados de nivel administrativo y de oficio, no solo profesionales.
+  - Pago o beneficio: sin datos (no figura en la página; consta en las bases de cada llamado)
+  - Plazo o ciclo: Recurrente, sin calendario fijo. Se vieron llamados a lo largo de 2025 y 2026 (administrativo, oficio, abogado, escribano, contador, ingeniería naval, registros de aspirantes de dragado). Al 3/11/2026 (última actualización de la página) ninguno figuraba abierto a inscripción: todos estaban en evaluación, homologación o contratación.
+  - Como postular: https://www.anp.com.uy/es/inicio/institucional/anp/gestion-humana/llamados
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Al 3/11/2026 ningún llamado figuraba abierto a inscripción; el estado de cada uno se infiere de los títulos y resoluciones, y el encabezado muestra 16/09/2026, probablemente desactualizado.
+  - Aclaracion: Los requisitos y pasos de inscripción están en PDF vinculados que no pudieron leerse.
+  - Aclaracion: Consultas: comunicacion@anp.com.uy, teléfono 1901, Rambla 25 de Agosto de 1825 N° 160, Montevideo.
+- **Intendencia de Rocha: Llamado a Guardavidas, verano 2026-2027** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.rocha.gub.uy/portal/index.php?id=4446
+  - Que es: Concurso de oposición y méritos para guardavidas de la temporada de verano 2026-2027 (Resolución 3393/2026, aviso del 22/10/2026). El mismo portal publicó el 18/11/2026 un llamado a guardaparques para áreas protegidas en verano y el 4/11/2026 uno a inspectores de tránsito.
+  - Requisitos: Mayor de 18 años; ciudadanía uruguaya natural o legal inscripta en el Registro Cívico Nacional (excluye a residentes extranjeros sin ciudadanía legal); cédula de identidad vigente; título de Guardavidas del ISEF (UdelaR) o certificado o escolaridad de curso completo; aptitud física acreditada con carné de salud básico vigente. Documentación: cédula, credencial cívica, carné de salud, certificado de antecedentes judiciales, certificado de no inscripción en el registro de ofensores sexuales y título o escolaridad. Requiere formación específica; no es un empleo sin experiencia ni título.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Anual, ligado a la zafra de verano. Resolución 3393/2026 del 20/10/2026, publicada el 22/10/2026: concurso de oposición y méritos para ingreso o reingreso a la Brigada de Guardavidas, temporada 2026-2027. La página no muestra plazo de inscripción, cupos ni procedimiento; incluye un orden de prelación de la prueba 2026, por lo que la etapa de ingreso de este año probablemente ya pasó.
+  - Como postular: https://www.rocha.gub.uy/portal/index.php?id=4446
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Las bases del llamado están en un PDF vinculado, donde constan los plazos y el procedimiento de inscripción.
+  - Aclaracion: Quienes sean residentes extranjeros sin ciudadanía legal no cumplen el requisito de ciudadanía.
+  - Aclaracion: Consultas: Intendencia de Rocha, Edificio Central, Gral. Artigas 176, teléfono 1955, lunes a viernes de 12:00 a 17:45.
+- **Intendencia de Colonia: Llamados laborales (peones, guardavidas zafrales y otros)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.colonia.gub.uy/?x=s&i=115
+  - Que es: Lista de llamados 2026 (001 a 038). Los más recientes incluyen: Profesor de Educación Física-Guardavidas zafral (15 cupos, playas de Nueva Palmira, Carmelo, Colonia, Artilleros, Juan Lacaze y Fomento), Profesor de Educación Física zafral para recreación (10 cupos) y varios cargos de Peón o Auxiliar de Servicios en municipios (Ombúes de Lavalle, Juan Lacaze, Tarariras, Carmelo, Nueva Helvecia, Florencio Sánchez, Rosario, Cufré, Colonia Valdense y Dirección de Limpieza).
+  - Requisitos: La página no detalla requisitos; constan en el documento de cada llamado. Los llamados de peón y auxiliar de servicios son de nivel operativo; los de guardavidas y profesores de Educación Física exigen formación específica; otros son profesionales o docentes.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Recurrente a lo largo del año: 38 llamados numerados en 2026 (el más reciente, el 038). Hay llamados de peones (en persona, de lunes a viernes, en el municipio correspondiente), de profesores de Educación Física y guardavidas zafrales (formulario en línea, llamados 036 y 038) y de otros perfiles. La página no muestra fechas de publicación ni de cierre.
+  - Como postular: https://www.colonia.gub.uy/?x=s&i=115
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no muestra fechas de publicación ni de cierre, por lo que hay que abrir cada llamado para saber si sigue vigente.
+  - Aclaracion: No todos los llamados de peón son presenciales: los Nº 022/2026 (Colonia Valdense) y Nº 020/2026 (Cufré) se postulan por formulario en línea.
+  - Aclaracion: Varios llamados ya tienen lista de prelación publicada, es decir, están cerrados.
+  - Aclaracion: Contacto: Av. General Flores 467, Colonia del Sacramento, teléfono 4522 7000, lunes a viernes de 12:15 a 17:00.
+- **INEFOP: Llamados (empleos propios del instituto, consultorías y convocatorias a entidades de capacitación)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.inefop.uy/llamados
+  - Que es: Profesionales y postulantes a cargos del propio INEFOP; consultores individuales o empresas; entidades de capacitación (ECA) registradas. No está pensado para primer empleo.
+  - Requisitos: Varían por llamado; no se leyeron los detalles. Los llamados abiertos al 2026-11-23 son en su mayoría para consultores individuales o firmas (Consultor Programa Becas Butiá, 11/11/2026; evaluación de satisfacción de usuarios, 13/11/2026) y para entidades de capacitación (RUNAEV Ed. 2027, Industrias Creativas), no para empleo general. «Responsable de Seguridad de la Información» (prórroga al 08/11/2026) y «Literal Ñ Ed. 2026» (prórroga al 27/10/2026) ya vencieron.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (no se vio salario en el listado).
+  - Plazo o ciclo: Llamados publicados a lo largo del año (el listado mostró 10, entre el 14/09/2026 y el 13/11/2026). Los llamados laborales visibles (Gerente/a de Tecnologías de la Información, Representante de Experiencia de Usuario, Gerente/a de Gestión Humana, Montevideo, publicados el 09/10/2026) figuran «En proceso», es decir, ya en selección. Plazos de cierre: sin datos en el listado (se detallan en cada «Ver más»).
+  - Como postular: https://www.inefop.uy/llamados
+  - Lectura automatica posible: none
+  - Aclaracion: No se confirmó ningún llamado laboral con inscripción abierta al 2026-11-23.
+  - Aclaracion: Los cargos de nivel gerencial o técnico no corresponden a un primer empleo.
+  - Aclaracion: Cada llamado se postula desde su ficha «Ver más», donde figuran plazos y requisitos.
+- **INAU - Llamados (ingreso y llamados a ciudadanía)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://inau.gub.uy/llamados
+  - Que es: Personas mayores de edad interesadas en trabajar en centros y servicios de INAU. Los llamados a ciudadanía vigentes son de Atención Integral VI, Serie Educación, Escalafón AI, Grado 1, en unas 22 localidades del interior y del área metropolitana (Colonia, Paysandú, Rivera, Río Negro, Young, Canelones y regionales, Lavalleja, Cerro Largo, Río Branco, Maldonado, Durazno, Tacuarembó, Paso de los Toros, San José, Bella Unión, Florida, Salto, Artigas; Rocha figura como próximo). También hay llamados internos y a profesionales (psicología, trabajo social, educación social).
+  - Requisitos: sin datos en el listado; cada llamado detalla sus requisitos en su propia página. Los llamados de Atención Integral VI (Serie Educación, Grado 1) están abiertos a ciudadanía; otros son solo internos (funcionarios). Se vio además un llamado 'Próximo' para OSC (CAIF UNAT en Durazno).
+  - Pago o beneficio: sin datos: no figura en el listado (escalafón y grado de la función pública)
+  - Plazo o ciclo: Llamados recurrentes durante el año. El listado muestra 22 llamados a ciudadanía de Atención Integral VI (Escalafón AI, Grado 1, uno por departamento o regional) en estado 'En proceso', además de llamados internos y de OSC; las fechas de inscripción de cada uno figuran solo en su página de detalle (no vistas, salvo lo informado de Colonia 20/01 al 03/02/2026)
+  - Como postular: https://inau.gub.uy/llamados
+  - Lectura automatica posible: sin datos (sin API ni feed visto; el listado es HTML con paginación)
+  - Aclaracion: No se abrió la ficha individual de cada llamado, por lo que no se confirmó una fecha de cierre actual.
+  - Aclaracion: Debe revisarse cada llamado antes de postular, porque las fechas de inscripción figuran solo en su página de detalle.
+  - Aclaracion: El listado tiene 8 páginas de llamados históricos.
+- **Intendencia de Salto - Trabajo (llamados laborales)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.salto.gub.uy/trabajo
+  - Que es: Personas del departamento de Salto. Llamados vistos: guardavidas zafrales (contrato zafral), medio oficial, oficial albañil y oficial albañil yesero (Vialidad y Obra Civil), inspector de tránsito (Municipio de Belén), docente de piano y músico para la banda y orquesta departamental.
+  - Requisitos: No figuran en el listado (están en las bases de cada llamado). Perfiles vistos: Guardavidas contrato zafral (con prueba de admisión y entrenamiento), Medio Oficial / Oficial Albañil / Oficial Albañil Yesero (Vialidad y Obra Civil, Exp. 2026-3355, con prueba teórica y entrevista), Inspector de Tránsito (Municipio de Belén), docentes y músicos. En las pruebas teóricas se pide cédula vigente y número de inscripción.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Publicaciones frecuentes durante el año (19 o más páginas de historial). Guardavidas zafral 2026-2027 (Exp. 2026-34879): ya en etapa de entrenamiento, con convocatoria a los seleccionados el 18/11 a las 11:00 en Piscina Saladero. Sin inscripción abierta vista al 2026-11-23. Ciclo anual de guardavidas: probable, no confirmado con una edición anterior.
+  - Como postular: https://www.salto.gub.uy/trabajo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Lo publicado son convocatorias a pruebas, entrevistas y listas de prelación (las dos con fecha visible son del 14/09/2026), no inscripciones abiertas; no hay una vacante abierta confirmada.
+  - Aclaracion: Las fechas de publicación de las entradas de guardavidas no se muestran en la página.
+- **Guardavidas zafrales, Intendencia de Salto (concurso temporada 2025-2026)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://salto.gub.uy/trabajo/llamados-concurso-para-provision-de-cargos-llamado-externo-cargo-guardavidas-contrato
+  - Que es: Personas de 18 a 30 años sin experiencia, o de 18 a 50 años con experiencia, residentes en el departamento de Salto, para trabajar como guardavidas en temporada.
+  - Requisitos: Edición 2026-2027: 18 a 45 años para aspirantes nuevos (con experiencia, hasta la edad mínima jubilatoria); cédula y credencial cívica vigentes; ciudadanía natural o legal con más de tres años; residencia en el departamento de Salto con constancia de domicilio; ficha médica para natación, aptitud psicofísica y vacunación (hepatitis B y antitetánica); certificado de formación como guardavidas (ISEF, Cruz Roja o ILS); ciclo básico completo. Para contratar: certificado de buena conducta y certificado del Registro Nacional de violadores y abusadores sexuales. Prueba de admisión en el agua salvo exonerados. Exige formación acreditada como guardavidas, por lo que no es un empleo de entrada sin formación.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Edición 2026-2027: grado 05, $50.851,42 mensuales por 40 horas semanales (entrenamiento con 20 horas semanales y remuneración reducida). Edición 2025-2026: $48.637,09 mensuales.
+  - Plazo o ciclo: Concurso abierto para hasta 53 guardavidas, contrato zafral de diciembre de 2026 a fines de febrero de 2027, Grado 05, $50.851,42 mensuales, 40 horas semanales. Inscripción del 16/10/2026 al 30/10/2026, sin prórroga posible; al 23/11/2026 el plazo ya venció (cerrado). Se postula solo por www.salto.gub.uy con la documentación adjunta. Edad de 18 a 45 años para quienes se presentan por primera vez; también se piden ficha médica de natación, título de guardavidas (ISEF, Cruz Roja o ILS) y ciclo básico.
+  - Como postular: Inscripción solo en línea desde www.salto.gub.uy, sección Trabajos, adjuntando documentos. Llamado 2026-2027 (cerrado): https://salto.gub.uy/trabajo/llamados-concurso-para-provision-de-cargos-llamado-externo-cargo-guardavidas-contrato . Portal de llamados: https://servicios.salto.gub.uy/llamados/
+  - Lectura automatica posible: none
+  - Aclaracion: El nombre menciona la temporada 2025-2026, pero la página enlazada corresponde a la edición 2026-2027 (Exp. 2026-34879); el título debería corregirse.
+  - Aclaracion: Se exige residencia en el departamento de Salto (con constancia de domicilio) y ciudadanía uruguaya (natural, o legal con más de tres años); quienes viven fuera de Salto no cumplen el requisito de domicilio y no es un llamado abierto a cualquier residente de Uruguay.
+  - Aclaracion: La postulación ya cerró, pero el proceso sigue con listas de convocados a la prueba de admisión y de pasantes a la etapa de entrenamiento.
+  - Aclaracion: El cupo no obliga a contratar a todos; hay llamados aparte por localidad, por ejemplo Valentín y Arapey.
+- **Escuela Nacional de Policía - Convocatoria Carrera de Oficial de Policía, 1.er año de Cadetes** (sin verificar, verificada 1 vez) https://www.gub.uy/ministerio-interior/comunicacion/convocatorias
+  - Que es: Civiles y policías en actividad que aspiran a la carrera de Oficial (ingreso al primer año del curso de Cadetes).
+  - Requisitos: No figuran en la página (remite al PDF de Bases Generales, no leído).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: La edición visible (llamado 8486/2024) tuvo inscripción del 22/11/2024 al 08/12/2024 y figura No Vigente; inicio del curso notificado el 07/03/2025. No aparece un llamado 2026 en la primera página del listado de convocatorias (262 resultados, solo 10 visibles). El ciclo anual no se pudo confirmar con una segunda edición.
+  - Como postular: https://www.gub.uy/ministerio-interior/comunicacion/convocatorias (cerrado para esta edición)
+  - Lectura automatica posible: No hay API. Páginas gub.uy con estado de vigencia.
+  - Aclaracion: La página corresponde a la edición para ingreso 2025.
+  - Aclaracion: No se encontró en el listado visible un llamado 2026 de cadetes, y que se repita hacia fin de año no está verificado.
+  - Aclaracion: El listado de convocatorias puede filtrarse por 'Bedelía de Cadetes' o 'Formación policial'.
+  - Aclaracion: Corresponde tratarla como fuente a vigilar, no como llamado abierto.
+- **Universidad de la República - Llamados y concursos del personal no docente (TAS)** (sin verificar, verificada 1 vez) https://udelar.edu.uy/llamados
+  - Que es: Personas interesadas en cargos técnicos, administrativos y de servicios (TAS) en facultades, escuelas, institutos y centros universitarios, y en cargos docentes.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos: la página es un portal de orientación sin llamados listados
+  - Como postular: https://www.concursos.udelar.edu.uy/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página es un portal de orientación y no lista llamados vigentes; no hay ningún llamado vigente confirmado.
+  - Aclaracion: Los llamados TAS son gestionados centralmente por la Dirección General de Capacidades Humanas (https://dgp.udelar.edu.uy/), y los vigentes se concentran en https://www.concursos.udelar.edu.uy/ y en https://www.uruguayconcursa.gub.uy/.
+  - Aclaracion: Atención del SAC: 18 de Julio 1824, Montevideo, de lunes a viernes de 9:00 a 17:00, tel. (+598) 2400 1918.
+- **Poder Judicial - Concursos y llamados de selección** (sin verificar, verificada 1 vez) https://concursospj.poderjudicial.gub.uy/seleccion/servlet/listarnoticias
+  - Que es: Personas interesadas en ingresar como funcionarios judiciales. El portal tiene pestañas 'En inscripción', 'En trámite', 'Finalizados' y 'Concursos internos'.
+  - Requisitos: sin datos: no hay llamado vigente cuyos requisitos leer
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin llamados abiertos al 2026-11-23: la pestaña 'En Inscripción' muestra 0 registros. Existen las pestañas 'En Trámite' y 'Finalizados'; no se vio ciclo anual ni próxima fecha.
+  - Como postular: https://concursospj.poderjudicial.gub.uy/seleccion/servlet/listarnoticias
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los llamados son esporádicos y al 23/11/2026 no hay ninguno en inscripción; sirve como página para revisar periódicamente y no como convocatoria abierta.
+  - Aclaracion: El portal también tiene las pestañas 'En Trámite' y 'Finalizados'.
+- **Ministerio de Salud Pública - Concursos (llamados abiertos)** (sin verificar, verificada 1 vez) https://www.gub.uy/ministerio-salud-publica/institucional/concursos
+  - Que es: Personas interesadas en ingresar al MSP; la página muestra solo llamados abiertos y toma los datos de Uruguay Concursa.
+  - Requisitos: sin datos (la página no lista ningún llamado, por lo tanto no hay requisitos que citar).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin llamado vigente al 2026-11-23. Ciclo: sin datos.
+  - Como postular: https://www.uruguayconcursa.gub.uy/
+  - Lectura automatica posible: El listado se alimenta de Uruguay Concursa (ONSC); no se vio una API pública.
+  - Aclaracion: La página solo lista llamados abiertos y al 23/11/2026 no muestra ninguno; toma los datos de ONSC - Uruguay Concursa.
+  - Aclaracion: No se pudo confirmar ninguna vacante del MSP, la forma de postularse ni un ciclo anual.
+  - Aclaracion: No conviene listarla como vacante abierta; en todo caso, como enlace de seguimiento con la advertencia de que al 23/11/2026 figura vacía.
+- **BPS: Trabajo doméstico, inscripción de trabajadores y aportes** (abierta o vigente, verificada 2 veces) https://www.bps.gub.uy/trabajo_domestico
+  - Que es: Personas que contratan trabajo doméstico y trabajadoras y trabajadores domésticos que necesitan quedar registrados con aportes y cobertura de seguridad social.
+  - Requisitos: Inscripción previa en BPS por el empleador, con servicio en línea que exige usuario registrado y PIN; requisitos documentales no detallados en la página (guía de afiliación en bps.gub.uy/10807).
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página remite a bps.gub.uy/24279)
+  - Plazo o ciclo: Abierto todo el año (trámite permanente). Desde el 01/07/2026 rigen las categorías Cuidados, General y Cocina.
+  - Como postular: https://www.bps.gub.uy/trabajo_domestico (servicio en línea 'Trabajo Doméstico: inscribir trabajadores y modificar datos')
+  - Lectura automatica posible: none
+  - Aclaracion: Es una página para que el empleador inscriba al trabajador y modifique datos en línea; también ofrece una aplicación móvil de Trabajo Doméstico y un simulador de aportes.
+  - Aclaracion: No publica montos de salario mínimo ni alícuotas; remite a bps.gub.uy/24279.
+  - Aclaracion: Teléfono de la sección: 0800 2001 (lunes a viernes de 9:15 a 16:30); la sección general indica 0800 1997, por lo que conviene confirmar el número antes de llamar.
+- **Trabajo rural: normativa, guía y servicios del MTSS** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-trabajo-seguridad-social/tematica/trabajo-rural
+  - Que es: Peones, zafrales y demás trabajadores rurales, y sus empleadores; sirve para conocer derechos y exigir la registración.
+  - Requisitos: Sin requisitos de acceso; es información para quien trabaja en el campo.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Página de referencia vigente, sin convocatoria. Guía sobre Derecho del Trabajo Rural publicada el 11/08/2025.
+  - Como postular: No aplica; consultas por https://www.gub.uy/ministerio-trabajo-seguridad-social/institucional/contacto
+  - Lectura automatica posible: none
+  - Aclaracion: No es una bolsa de empleo ni lista trámites de postulación; reúne normativa y una guía para trabajadores rurales.
+  - Aclaracion: Incluye los Decretos 38/022, 321/009, 321/004 y 372/999, y un informe de empleo en cooperativas y sociedades de fomento rural 2025 publicado el 15/06/2026.
+  - Aclaracion: Contacto: Juncal 1511, tel. 1928 y 2915 2020, call center 0800 7171, de lunes a viernes de 9:00 a 16:00.
+- **Sorteos para trabajar en obras de construcción (Vía Trabajo, convenio SUNCA y Cámara de la Construcción)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-trabajo-seguridad-social/comunicacion/comunicados/informacion-sobre-sorteos-para-trabajar-obras-construccion-proyecto
+  - Que es: Personas sin experiencia que quieran trabajar como peón o medio oficial (categorías IV, V y VI) en obras grandes cubiertas por el convenio colectivo de la construcción.
+  - Requisitos: Tener 18 años cumplidos y cédula de identidad vigente. El comunicado no menciona experiencia previa. La persona sorteada debe cumplir los requisitos del convenio colectivo de la construcción (SUNCA - Cámara de la Construcción).
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (según escalas del convenio colectivo de la construcción; valores no vistos)
+  - Plazo o ciclo: Registro abierto todo el año, sin fecha límite (según comunicado del MTSS del 11/02/2025). Sin fechas de sorteo vigentes vistas; los sorteos dependen de cada obra.
+  - Como postular: Inscripción en línea en Vía Trabajo (plataforma del MTSS). Enlace directo no visto en la página oficial; viatrabajo.mtss.gub.uy no abrió (error de certificado), por lo que no está verificado. Ayuda: 1928 int. 1326 o 0800 8764.
+  - Lectura automatica posible: none
+  - Aclaracion: El comunicado es de 2025 y se refiere específicamente al proyecto +Colonia; no se pudo confirmar que la modalidad siga igual ni que aplique a otras obras.
+  - Aclaracion: La inscripción en la plataforma Vía Trabajo es permanente y quien se inscribe participa automáticamente en los sorteos futuros sin reinscribirse; no se vio ninguna fecha de sorteo.
+  - Aclaracion: El comunicado aclara que es falsa la información que circuló sobre entregar currículums en oficinas de INEFOP.
+  - Aclaracion: Hay ayuda en oficinas del MTSS, en Centros Técnicos de Empleo, en el Call Center de INEFOP 0800 8764 y en la mesa de ayuda de Vía Trabajo (1928, int. 1326).
+- **Denuncias laborales ante la Inspección General del Trabajo (MTSS)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/denuncias-laborales
+  - Que es: Trabajadoras y trabajadores con relación laboral vigente, sindicatos y terceros que quieran denunciar incumplimientos, como trabajo sin registrar en BPS.
+  - Requisitos: Vínculo laboral vigente e infracción en curso. Datos del empleador (RUT o identificación), ubicación exacta y descripción detallada de los hechos con fechas. Terceros ajenos: cédula y datos adicionales del empleador. No se pide experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica (servicio gratuito según lo visto; el costo no se menciona expresamente).
+  - Plazo o ciclo: Servicio permanente, sin plazo de apertura ni cierre. Atención presencial de lunes a viernes de 9:00 a 16:00 (9:00 a 15:00 para la nota escrita sobre derechos fundamentales). La página no se actualiza desde el 11/04/2025.
+  - Como postular: Presencial: Oficina de Asesoramiento y Denuncias, oficina 108, 1.er piso, Juncal 1511, Montevideo (y Oficinas de Trabajo del Interior); correo asesoramientoydenuncias@mtss.gub.uy; acoso o violencia: gub.uy/tramites/denuncia-acoso-violencia-trabajo
+  - Lectura automatica posible: none
+  - Aclaracion: No es una oferta de empleo sino un servicio de protección para quienes ya trabajan; en general se exige relación laboral vigente.
+  - Aclaracion: Quienes ya fueron desvinculados o renunciaron deben recurrir al Centro de Asesoramiento del MTSS (Juncal 1511, planta baja) o a las Oficinas de Trabajo del Interior.
+  - Aclaracion: La atención presencial es en la Oficina de Asesoramiento y Denuncias (oficina 108, 1.er piso, Juncal 1511, Montevideo), de lunes a viernes de 9:00 a 16:00; la nota escrita para derechos fundamentales rige de 9:00 a 15:00. También se puede denunciar por correo (asesoramientoydenuncias@mtss.gub.uy) y, solo en derechos fundamentales como acoso o persecución sindical, por formulario en línea con cuenta gub.uy.
+  - Aclaracion: Las denuncias de acoso, persecución sindical o discriminación deben identificar a quien denuncia; las de condiciones y ambiente de trabajo pueden ser anónimas.
+- **MTSS - Empleo juvenil: contrato de Primera Experiencia Laboral (Ley 19.133) y programa de emprendimientos juveniles** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-trabajo-seguridad-social/tematica/empleo-juvenil
+  - Que es: Jóvenes sin experiencia formal previa de más de 90 días (primera experiencia laboral, Ley 19.133) a quienes una empresa o el Estado contrata; y titulares de emprendimientos de 18 a 29 años (programa de promoción de emprendimientos juveniles).
+  - Requisitos: Según BPS y la ficha del MTSS de 2024: jóvenes de 15 a 24 años sin experiencia laboral formal previa de más de 90 días corridos; solo se puede ser contratado una vez bajo esta modalidad; contrato de hasta 12 meses. La empresa debe estar al día con BPS, DGI y planilla MTSS, y no puede contratar parientes. Existe un tope del 20 % de la plantilla permanente.
+  - Sin experiencia previa: si
+  - Pago o beneficio: El joven cobra el salario del contrato; la empresa recibe un subsidio. Los montos y porcentajes difieren entre fuentes (ejemplos vistos: 25 % según BPS; tope de $U 13.567 en un documento de 2020), por lo que debe consultarse el valor vigente.
+  - Plazo o ciclo: La página no indica convocatoria ni plazos; no muestra fecha de actualización y la publicación más reciente listada es del 30/11/2020.
+  - Como postular: https://viatrabajo.mtss.gub.uy/cepes/
+  - Lectura automatica posible: ninguno
+  - Aclaracion: La página oficial solo lista normas y programas (Ley 19.133, Ley 19.689, Decreto 321/020) y no menciona Primera Experiencia Laboral por su nombre ni detalla requisitos; esos datos provienen de fichas del MTSS (2024) y del BPS.
+  - Aclaracion: Que el régimen sea permanente y lo contrate la empresa no surge de la página oficial; corresponde remitir a la norma o al MTSS.
+  - Aclaracion: La ficha de emprendimientos juveniles es de 07/08/2019 y su vigencia no se pudo confirmar; Yo Estudio y Trabajo figura solo en su edición 2020, con inscripción y sorteo.
+  - Aclaracion: Consultas MTSS: Juncal 1511, tel. 2915 2020, asesoramientoempleo@mtss.gub.uy.
+- **MIDES-INEFOP - Curso gratuito de Administración Comercial y Marketing Digital (Melo, Cerro Largo; prioridad personas trans)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-desarrollo-social/comunicacion/convocatorias/inscripciones-abiertas-curso-administracion-comercial-marketing-digital
+  - Que es: Personas LGBTIQ+ mayores de 18 años, con prioridad para personas trans, en Melo, departamento de Cerro Largo.
+  - Requisitos: Persona LGBTIQ+ mayor de 18 años, con prioridad para la población trans; documento de identidad (nacional o extranjero); Primaria completa (no excluyente); carné de salud vigente o en trámite (no excluyente).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito.
+  - Plazo o ciclo: Curso del 07/09/2026 al 15/12/2026; la página indica 'Inscripciones abiertas' y no fija fecha de cierre de inscripción. El curso ya está en marcha y termina en pocas semanas.
+  - Como postular: https://formularios.mides.gub.uy/221166/
+  - Lectura automatica posible: ninguno
+  - Aclaracion: El curso ya está en marcha y termina en pocas semanas, por lo que una inscripción nueva es poco probable; sirve sobre todo como ejemplo de convocatorias similares.
+  - Aclaracion: No se verificó que el MIDES repita estos cursos periódicamente.
+  - Aclaracion: La modalidad es híbrida: presencial lunes y martes de 9 a 12 en el Centro Cultural Justino Muniz (Sala 528, Melo) y virtual los jueves de 9 a 12, por lo que exige poder asistir en Melo.
+- **INAU / CENFORES - Carrera de Educador/a en Primera Infancia, generación 2027** (abierta o vigente, verificada 2 veces) https://inau.gub.uy/inscripciones-generacion-2027
+  - Que es: Personas que quieren formarse como educadores/as de primera infancia (0 a 3 años), con egreso reconocido por el MEC como formación terciaria no universitaria.
+  - Requisitos: Bachillerato completo (se puede inscribir con hasta 2 materias pendientes, pero no se puede comenzar el curso con pendientes). Menos de 35 años (menos de 50 si se egresó de la Formación Básica de Educadores en Primera Infancia de CENFORES). Documentos: cédula y fotocopia, Fórmula 69A, carné de salud vigente. No se pide experiencia previa. Elegir turno (matutino o nocturno).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Curso gratuito; la página no menciona beca ni pago.
+  - Plazo o ciclo: Preinscripción en línea del 25/11 al 04/12/2026; entrega de documentos en CENFORES (Piedras 162, Montevideo) del 07 al 11/12/2026, de 8:30 a 12:30 y de 14:00 a 18:00; sorteo ante escribano en la tercera semana de diciembre de 2026 si hay más postulantes que cupos. Ciclo lectivo 2027.
+  - Como postular: https://forms.gle/Ez9uKh1ZBWdUidLo7
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La preinscripción abre el 25/11/2026 y al 2026-11-23 aún no estaba abierta.
+  - Aclaracion: El curso es presencial en Montevideo, de lunes a viernes, y dura dos años.
+  - Aclaracion: Es formación, no empleo directo.
+  - Aclaracion: Consultas: cenfores@inau.gub.uy.
+- **Programa de Asistentes Personales: cómo se habilita y se contrata a un asistente (BPS y Sistema de Cuidados)** (abierta o vigente, verificada 2 veces) https://www.bps.gub.uy/9973/programa-de-asistentes-personales.html
+  - Que es: Asistentes personales que cuidan a personas en dependencia severa (hasta 29 años o más de 80, viviendo en su hogar) y las familias que los contratan.
+  - Requisitos: Asistente: habilitación de la Secretaría Nacional de Cuidados, certificado del curso básico de cuidador (MEC), inscripción en BPS, sin parentesco con el beneficiario (consanguinidad hasta 4.º grado, afinidad hasta 2.º). Beneficiario: dependencia severa, hasta 29 años o más de 80, vivir en domicilio particular en Uruguay, ciudadanía natural o legal o 10 años de residencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Salario nominal del asistente: $24.377 por 80 horas mensuales (vigente 1/2026). Subsidio total: 4,6 BPC ($31.574,40) por beneficiario, según ingresos del hogar (hasta 3 BPC por persona: 100 %; 3 a 6: 67 %; 6 a 11: 33 %; 11 o más: 0 %).
+  - Plazo o ciclo: Abierto todo el año. Página con 'Última actualización: 22/10/2026'.
+  - Como postular: https://www.bps.gub.uy/9973/programa-de-asistentes-personales.html (inscripción presencial en oficinas de BPS; consultas al *1997 o 0800 1997, lunes a viernes de 8:00 a 18:00)
+  - Lectura automatica posible: none
+  - Aclaracion: Es un subsidio de BPS para que personas con dependencia severa contraten un asistente personal; para quien busca trabajo es una vía de empleo como asistente.
+  - Aclaracion: La contratación es de al menos 80 horas mensuales (Ley 19.353 y Decreto 117/016).
+  - Aclaracion: No exige experiencia previa, pero sí el curso básico de cuidador, que se solicita en el sitio del Sistema Nacional de Cuidados o en oficinas territoriales del Mides.
+  - Aclaracion: La página no declara expresamente que esté abierto todo el año; la continuidad es una inferencia.
+- **Decreto 327/019 - Curso de seguridad vial obligatorio para repartidores en moto y bicicleta** (se repite (hoy sin llamado abierto), verificada 2 veces) https://impo.com.uy/bases/decretos/327-2019
+  - Que es: Personas que realizan reparto (alimentos y/o productos farmacéuticos) en moto o bicicleta y birodados.
+  - Requisitos: Quien reparta alimentos o productos farmacéuticos en moto o bicicleta debe tener el curso y el certificado. No se vieron requisitos de edad ni de experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no se vio si el curso tiene costo)
+  - Plazo o ciclo: Obligación permanente; no se vio calendario de cursos ni fechas de inscripción.
+  - Como postular: sin datos (inscripción a cargo de INEFOP; página de inscripción no verificada)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El decreto establece formación obligatoria con certificado de capacitación profesional; no habla de un curso de seguridad vial.
+  - Aclaracion: La página no dice expresamente que INEFOP dicte el curso: indica un convenio del 05/06/2019 entre la Mesa Interinstitucional Tripartita e INEFOP para extender la capacitación.
+  - Aclaracion: No figura calendario de ediciones ni dónde o cuándo inscribirse; se recomienda consultar a INEFOP.
+  - Aclaracion: La página figura como documento actualizado, pero no confirma de forma expresa su vigencia.
+- **MIDES - Uruguay Trabaja (Integración laboral, Ley 18.240)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.gub.uy/ministerio-desarrollo-social/politicas-y-gestion/programas/uruguay-trabaja
+  - Que es: Personas de 18 a 64 años desocupadas desde hace más de dos años (se admiten hasta tres meses de aportes dentro de ese período), en situación de vulnerabilidad socioeconómica. Cupos reservados por sorteo: 8% afrodescendientes, 4% discapacidad y 2% personas trans; 6% ingresa por derivación directa de programas sociales con convenio con el MIDES.
+  - Requisitos: Tener entre 18 y 64 años; situación de vulnerabilidad socioeconómica; educación inferior al tercer año de Ciclo Básico o UTU; más de dos años sin empleo al abrirse la inscripción (se admiten hasta tres meses de aportes laborales en ese lapso); cédula de identidad vigente y fotocopia legible. No se exige experiencia laboral.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Prestación de apoyo a la inserción laboral de 2,35 BPC (la página no da el monto en pesos).
+  - Plazo o ciclo: Convocatoria pública periódica con sorteo por localidad; la página no informa fechas. No se encontró convocatoria vigente en el listado de convocatorias del MIDES (primeras 10 de 155 resultados; ninguna de Uruguay Trabaja).
+  - Como postular: https://www.gub.uy/ministerio-desarrollo-social/politicas-y-gestion/programas/uruguay-trabaja
+  - Lectura automatica posible: ninguno
+  - Aclaracion: No se encontró convocatoria vigente de Uruguay Trabaja; conviene consultar al MIDES por el período vigente (teléfonos 2400 0302, internos 1370 o 1372, y 0800 7263).
+  - Aclaracion: Es un trabajo transitorio de valor público de 30 horas semanales por hasta 9 meses, con talleres de capacitación y atención oftalmológica y odontológica.
+  - Aclaracion: La inscripción se verifica contra BPS y se sortea en cada localidad hasta completar cupos y suplentes.
+- **Uruguay Impulsa: Trabajo y Capacitación (empleo transitorio con formación; sucesor de Jornales Solidarios y Oportunidad Laboral)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.gub.uy/uruguay-impulsa
+  - Que es: Personas desocupadas que no cobran prestaciones. En la primera edición (agosto de 2025, según nota de prensa de tercero) la edad era de 18 a 65 años. Cupos por sorteo en cada departamento.
+  - Requisitos: sin datos en la página principal (edad y condiciones figuran en secciones enlazadas que no se leyeron). Programa interinstitucional de MIDES, MTSS e INEFOP, con apoyo de OPP y del Congreso de Intendentes. Las consultas se atienden en oficinas de MIDES, MTSS, INEFOP o en las intendencias.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página principal no detalla beneficios; los enlaces «Beneficios del programa» y «Cómo participar» no se leyeron).
+  - Plazo o ciclo: Edición anual con sorteo: la página enlaza los resultados del sorteo de la primera edición (2025) y informa que las inscripciones a la segunda edición finalizaron (sorteo 22/06/2026; primera etapa de capacitación terminada el 02/09/2026; prueba de acreditación el 20/10/2026). Próxima edición: sin datos. Al 23/11/2026 no hay inscripción abierta.
+  - Como postular: https://www.gub.uy/uruguay-impulsa
+  - Lectura automatica posible: none
+  - Aclaracion: La página principal no lista requisitos, edades ni beneficios; remite a «Cómo participar» y «Preguntas frecuentes».
+  - Aclaracion: La edad de 18 a 65 años corresponde a la primera edición, según una nota de prensa de un tercero.
+  - Aclaracion: La página enlaza los resultados del sorteo de 2025 y de 2026.
+- **MIDES: listado de convocatorias (cursos, llamados y programas abiertos)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.gub.uy/ministerio-desarrollo-social/comunicacion/convocatorias
+  - Que es: Público general según cada convocatoria: jóvenes, mujeres, personas LGBTIQ+, organizaciones sociales, entre otros.
+  - Requisitos: Varían por convocatoria. Los ítems vistos son en su mayoría fondos para organizaciones, consultorías y llamados técnicos (Secretaría Técnica del proyecto PDAU, consultorías de equidad racial, propuestas para eventos en Casa INJU), no empleo general.
+  - Pago o beneficio: sin datos (varía por convocatoria).
+  - Plazo o ciclo: Listado permanente que se actualiza durante el año: 155 resultados históricos con estado Vigente o No Vigente. Al 2026-11-23, en la primera página (10 ítems) solo uno figura Vigente: el curso MIDES-INEFOP de Cerro Largo; los otros nueve, No Vigente. Las páginas siguientes no se leyeron.
+  - Como postular: https://www.gub.uy/ministerio-desarrollo-social/comunicacion/convocatorias
+  - Lectura automatica posible: none
+  - Aclaracion: Es una fuente oficial real, pero de bajo rendimiento para quien busca trabajo al 23/11/2026: una sola convocatoria vigente y focalizada.
+  - Aclaracion: Sirve como lugar para vigilar llamados nuevos.
+  - Aclaracion: No se leyeron las otras páginas del listado.
+- **MIDES - INJU Avanza (jóvenes de 18 a 24 años; sucesor de la línea Jóvenes en Red)** (sin verificar, verificada 1 vez) https://www.gub.uy/ministerio-desarrollo-social/comunicacion/comunicados/inju-avanza-1
+  - Que es: Jóvenes de 18 a 24 años que no terminaron el ciclo básico, no estudian y no tienen trabajo formal; también jóvenes de 18 años o más que egresan de privación de libertad a cargo de INISA y son derivados al MIDES. Zonas: Montevideo, Artigas, Canelones, Cerro Largo, Rivera, Salto y Tacuarembó.
+  - Requisitos: Tener entre 18 y 24 años; no haber terminado el ciclo básico; no estudiar; sin empleo formal. También jóvenes de 18 o más egresados de centros del INISA y derivados por el INISA. No se exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es salario: becas y un fondo individual para bienes o servicios (monto no indicado).
+  - Plazo o ciclo: El comunicado dice inscripciones abiertas pero es del 22/01/2024 y no indica cierre. Estado vigente al 2026-11-23 no confirmado.
+  - Como postular: sin datos (formulario en línea o Oficina Territorial del MIDES; ver el comunicado)
+  - Lectura automatica posible: ninguno
+  - Aclaracion: La fuente tiene casi dos años y no se halló una página de estado actual, por lo que conviene confirmar antes de considerarlo abierto.
+  - Aclaracion: El acompañamiento dura de 12 a 18 meses con referente técnico, talleres, becas de estudio y un fondo individual para bienes o servicios.
+  - Aclaracion: La inscripción es por formulario en línea de derivación o postulación, o en Oficinas Territoriales del MIDES o locales con equipos de INJU Avanza.
+  - Aclaracion: Contactos: WhatsApp 092 172 075; 0800 4658; 2400 0302 interno 7083; comunicainju@mides.gub.uy.
+- **INEFOP: Ruta Digital (Despegue Digital, Habilidades Digitales para la Empleabilidad, Inteligencia Artificial)** (sin verificar, verificada 1 vez) https://www.inefop.uy/ruta-digital
+  - Que es: Personas que quieren desarrollar habilidades digitales para el empleo, desde quienes dan sus primeros pasos con la computadora hasta quienes ya usan herramientas digitales.
+  - Requisitos: Sin requisitos formales indicados; solo el público objetivo. Despegue Digital: para quienes dan sus primeros pasos con computadoras (24 horas, presencial; no requiere conocimientos previos). Habilidades Digitales para la Empleabilidad: con habilidades digitales básicas (42 horas, 11 sesiones de 2 horas; Word, Excel, PowerPoint, OneDrive, búsqueda de empleo, CV, introducción a IA). Inteligencia Artificial: para quienes ya usan herramientas digitales (32 horas, 8 sesiones de 2 horas).
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no se indica costo).
+  - Plazo o ciclo: sin datos. La página describe tres cursos pero no muestra fechas de inicio, cohortes ni si hay inscripción abierta.
+  - Como postular: https://oportunidades.inefop.uy
+  - Lectura automatica posible: none
+  - Aclaracion: No se confirmaron fechas ni vía de inscripción en esta página, que solo ofrece enlaces «conocer más» y un formulario general de consultas.
+  - Aclaracion: El portal de oportunidades de INEFOP es la vía probable de inscripción, pero la página no lo indica.
+- **Programa Enlace Educativo (MIDES): retorno al estudio para adolescentes y jóvenes desvinculados** (sin verificar, verificada 1 vez) https://www.gub.uy/ministerio-desarrollo-social/programas/enlace-educativo
+  - Que es: Adolescentes y jóvenes que dejaron o están por dejar el sistema educativo, en un abordaje territorial y comunitario.
+  - Requisitos: Dirigido a adolescentes y jóvenes desvinculados del sistema educativo o en riesgo de desvincularse. La página no indica rango de edad ni otros requisitos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos: la página no menciona beca ni pago
+  - Plazo o ciclo: Programa permanente; la página no describe convocatoria ni fechas
+  - Como postular: https://www.gub.uy/ministerio-desarrollo-social/institucional/contacto
+  - Lectura automatica posible: none
+  - Aclaracion: No es una oferta de empleo ni tiene inscripción en línea descrita; sirve como referencia de orientación para volver a estudiar.
+  - Aclaracion: El contacto es por el Ministerio (18 de Julio 1453, tel. 2400 0302) o por su página de contacto.
+- **Terminal Cuenca del Plata (TCP, Katoen Natie): Trabaje con nosotros y Llamados activos** (abierta o vigente, verificada 2 veces) https://www.terminaltcp.com.uy/trabaje-con-nosotros/
+  - Que es: Terminal de contenedores del puerto de Montevideo. El formulario de postulación recibe candidatos para áreas de operaciones (estiba, trabajo a bordo y en tierra, operación de máquinas), taller (soldadura, mecánica, electricidad, refrigeración), administración, informática y depósitos, además de una opción 'Otro'.
+  - Requisitos: El formulario pide datos personales, estudios (primaria, secundaria, terciaria, UTU), experiencia portuaria si la hay (Taller, Administración, Informática, Depósitos, Operación operativa), últimos dos trabajos, si tiene libreta de conducir y CV en PDF de hasta 2 MB. La página no fija un mínimo de experiencia ni de estudios para la postulación general; los requisitos de cada aviso no se vieron.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto de forma continua mediante formulario; la lista de 'Llamados activos' (con fecha 20/11/2026) muestra dos avisos puntuales, sin fecha de cierre visible.
+  - Como postular: https://www.terminaltcp.com.uy/trabaje-con-nosotros/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los datos cargados pasan a una base de datos y se puede contactar al postulante para el puesto elegido u otro afín.
+  - Aclaracion: Los llamados activos al 20/11/2026 son Encargad@ Gestión Educativa (ref. EGE 2026) y Business Support Group (ref. BSG 0926), de perfil administrativo o profesional; no se vio un aviso concreto de puestos portuarios operativos.
+  - Aclaracion: Que el formulario sea continuo no está dicho expresamente, pero no se ve cierre.
+  - Aclaracion: Contacto: info@katoennatie.com.uy, tel. (598) 2915 8556.
+- **Cipriani (Maldonado): portal de empleos en HiringRoom** (abierta o vigente, verificada 2 veces) https://cipriani.hiringroom.com/jobs
+  - Que es: Empleador de hotelería, gastronomía y casino en Punta del Este. Al momento de la lectura había 24 vacantes, todas presenciales en Maldonado. Entre las de nivel junior: agente de seguridad, operadores de Surveillance/CCTV, auxiliar de recepción de mercadería (temporada de verano), buyer (temporada de verano), storekeeper, y bases de datos de talentos de Housekeeping, Cocina, Front Office, Alimentos y Bebidas, SPA, Mantenimiento y Seguridad.
+  - Requisitos: La lista no detalla requisitos; solo ubicación, jornada, modalidad (presencial) y nivel. Varios avisos están clasificados como nivel 'Junior' (agente de seguridad, operadores de CCTV, auxiliar de recepción de mercadería, bolsas de talentos), pero la experiencia exigida no figura en la lista y consta en cada aviso. Otros son senior (gerencias, técnicos de slots, croupiers con experiencia).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: portal con 24 vacantes en Maldonado (se leyeron 20) y enlace 'Subir CV a base general'. Hay bolsas de talentos permanentes (Spa, Front Office, Cocina, Alimentos y Bebidas, Housekeeping, Mantenimiento, Seguridad). Con etiqueta 'temporada de verano' figuraron Buyer y Auxiliar de Recepción de Mercadería, publicados hace aproximadamente un mes. No se vieron fechas de cierre.
+  - Como postular: https://cipriani.hiringroom.com/jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Todos los puestos son presenciales en Maldonado.
+  - Aclaracion: HiringRoom solo opera el portal; la selección la realiza la empresa.
+  - Aclaracion: La experiencia exigida en los avisos de nivel junior consta en cada aviso y no en el listado.
+- **Grupo Disco Uruguay (Disco, Devoto, Géant) - Formulario de empleo** (abierta o vigente, verificada 2 veces) https://institucional.disco.com.uy/shared/formempleo/form_empleo2018.php
+  - Que es: Cualquier persona que busque trabajo en supermercados Disco, Devoto o Géant: atención en cajas, góndola, carnicería, panadería, rotisería, vigilancia y centros de distribución.
+  - Requisitos: No se exige experiencia: la página dice 'no importa si tenés experiencia' y la empresa ofrece capacitación para el área elegida. Jornadas de 4, 6 u 8 horas. No se indica edad mínima ni máxima. Se piden cédula de identidad, fecha de nacimiento, domicilio, teléfonos y correo, estudios primarios y secundarios, cursos complementarios (con constancia, hasta 1 MB), último empleo, hasta tres áreas de preferencia (con o sin experiencia), disponibilidad horaria (mañana 8 a 16, tarde 14 a 22, noche 22 a 6), zona preferida, foto (máx. 2 MB) y CV en PDF, DOCX o DOC (máx. 2 MB), más el consentimiento para el uso de datos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (formulario de postulación permanente en línea). Sin fecha límite. Vacantes concretas: sin datos.
+  - Como postular: https://institucional.disco.com.uy/shared/formempleo/form_empleo2018.php
+  - Lectura automatica posible: none
+  - Aclaracion: Zonas: Montevideo, Costa de Oro, Atlántida, Ciudad de Canelones, San José, Piriápolis y Punta del Este.
+  - Aclaracion: Incluye un apartado de inclusión laboral (Ley 19.691) para personas con discapacidad inscriptas en la CNHD.
+  - Aclaracion: Es una vía abierta, pero no hay garantía de contacto ni de respuesta de la empresa, y no se publican vacantes concretas.
+- **Prosegur Uruguay - Vacantes (vigilancia, servicios auxiliares, oficina y atención al cliente)** (abierta o vigente, verificada 2 veces) https://prosegur.referrals.selectminds.com/uy
+  - Que es: Personas que buscan trabajo en seguridad privada: vigilancia y servicios auxiliares, además de puestos de oficina, comerciales y atención al cliente, y de tecnología y seguridad electrónica y contra incendios.
+  - Requisitos: No se detallan en la página principal; cada vacante tendrá los suyos. Se desconoce si hay puestos sin experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Portal permanente: permite crear un perfil para oportunidades futuras y enviar el currículum aunque ninguna categoría encaje; abierto todo el año.
+  - Como postular: https://prosegur.referrals.selectminds.com/uy
+  - Lectura automatica posible: none
+  - Aclaracion: No se vieron vacantes concretas; hay que entrar a 'Ver todos' y filtrar por tipo y ubicación.
+  - Aclaracion: Permite crear un perfil para oportunidades futuras y hacer seguimiento de postulaciones.
+  - Aclaracion: La interfaz aparece en gran parte en portugués.
+- **Santander Uruguay - Trabajá con nosotros** (abierta o vigente, verificada 2 veces) https://www.santander.com.uy/trabaja-con-nosotros
+  - Que es: Personas que buscan trabajo en un banco privado (cargos de ingreso: sin datos).
+  - Requisitos: Documento de identidad, datos de contacto, formación y escolaridad en PDF y currículum en PDF (máx. 2 MB c/u). No se indica edad mínima ni experiencia exigida.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: formulario permanente de postulación general; no se vieron vacantes ni plazos.
+  - Como postular: https://www.santander.com.uy/trabaja-con-nosotros
+  - Lectura automatica posible: none
+  - Aclaracion: Es un formulario general de postulación; no se listan puestos abiertos, plazos ni requisitos de puesto.
+  - Aclaracion: El formulario se completa en pasos (datos personales, formación y carga de archivos) y termina con 'Enviar'.
+- **Antel - Oferta laboral (En inscripción / En selección / Finalizados)** (sin verificar, verificada 1 vez) https://www.antel.com.uy/institucional/oferta-laboral
+  - Que es: Ingreso por concurso público a cargos técnicos y administrativos; el llamado de julio 2026 fue para técnicos básicos de planta externa, sin exigir experiencia previa a quienes no trabajan en la empresa.
+  - Requisitos: Según un documento de bases de Antel hallado por búsqueda (sin fecha visible, por lo que puede ser de un llamado anterior): edad máxima 35 años y 4.° año de secundaria aprobado o equivalente; inscripción solo por la web de Antel. El llamado 5105/2026 pedía egreso de UTU en electricidad, electrónica o informática. No verificado para un llamado actual.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: La página existe y tiene las pestañas En selección, En inscripción y Finalizados, pero el contenido de los llamados no cargó en la lectura automática, por lo que no se vio ninguna fecha. Una búsqueda halló el llamado 5105/2026 (puesto técnico, inscripción del 15/01 al 05/02/2026, cerrado) en Uruguay Concursa. No se verificó ningún llamado en inscripción al 23/11/2026.
+  - Como postular: https://www.antel.com.uy/institucional/oferta-laboral (pestaña "En inscripción"); consultas a llamadosexternos@antel.com.uy; algunos llamados figuran en https://www.uruguayconcursa.gub.uy
+  - Lectura automatica posible: Listado cargado dinámicamente en tres pestañas; no se detectó API ni feed.
+  - Aclaracion: El estado actual no pudo confirmarse; requiere revisión manual de la pestaña "En inscripción".
+  - Aclaracion: Los requisitos citados provienen de un documento de bases sin fecha visible, que puede corresponder a un llamado anterior.
+  - Aclaracion: No se verificó la publicación de un llamado en julio de 2026 con cierre el 19/08/2026.
+- **Aeropuertos Uruguay (Corporación América Airports): Sumate a nuestro equipo** (sin verificar, verificada 1 vez) https://heyharvie.com/employer-branding/corporacion-america-airports
+  - Que es: Concesionaria de ocho aeropuertos internacionales (Carrasco, Punta del Este, Carmelo, Rivera, Salto, Melo, Paysandú, Durazno) y de Latin America Cargo City. Según la página institucional, el portal de talento permite postularse y sumarse a la comunidad de talento. Una publicación de LinkedIn vista en una búsqueda anuncia 'Auxiliares de Terminal Zafrales' para el Aeropuerto de Punta del Este en la zafra 2026/2027.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se pudo confirmar ningún aviso ni plazo.
+  - Como postular: https://heyharvie.com/employer-branding/corporacion-america-airports
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No pudo confirmarse ningún aviso, plazo ni la zafra 2026/2027, incluido el aviso de Auxiliares de Terminal Zafrales.
+  - Aclaracion: La URL pertenece a Harvie, plataforma de selección de personal, y su contenido se carga por JavaScript, por lo que debe verificarse a mano en el navegador.
+- **Montecon: Trabaja con nosotros (terminal del puerto de Montevideo)** (sin verificar, verificada 1 vez) https://www.montecon.com.uy/trabaja-con-nosotros
+  - Que es: Operadora del puerto con unos 600 colaboradores directos e indirectos (95 % en el puerto) según El Observador (agosto 2026). La página invita a enviar datos para integrar el equipo. En agosto de 2026 inauguró un centro de capacitación portuaria con simulador de grúas, por al 23/11/2026 solo para su propio personal.
+  - Requisitos: sin datos (la página no los indica)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página carga pero no lista vacantes ni llamados fechados; solo invita a 'enviar sus datos'.
+  - Como postular: https://www.montecon.com.uy/contacto
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No hay vacantes publicadas ni formulario o correo de selección; no se confirmó un canal de postulación abierto.
+  - Aclaracion: Contacto: teléfono +598 2915 0404, línea gratuita 0800 0404 (lunes a viernes de 9:00 a 19:00, sábados de 9:00 a 13:00), WhatsApp +598 9189 0404, Rincón 500, Montevideo.
+- **CUTCSA: formulario de contacto con tipo de mensaje 'Empleo' y portal Personal** (sin verificar, verificada 1 vez) https://www.cutcsa.com.uy/contacto
+  - Que es: La empresa no publica una página de ingreso de personal. El formulario de contacto del sitio ofrece 'Empleo' como tipo de mensaje y admite adjuntos de hasta 3 MB, por lo que sirve para enviar un CV. El menú también enlaza un portal 'Personal' (portalh.statum.biz/cutcsa) cuyo contenido no pudo verse.
+  - Requisitos: sin datos. Para enviar el formulario se piden tipo de mensaje, nombre, correo, CI, asunto y mensaje; el archivo adjunto es opcional (hasta 3 MB).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se vieron llamados ni fechas.
+  - Como postular: https://www.cutcsa.com.uy/contacto
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no explica cómo se tratan los mensajes de tipo 'Empleo'.
+  - Aclaracion: No se confirmó que el portal 'Personal' (portalh.statum.biz/cutcsa) sea un canal de postulación.
+  - Aclaracion: Otros contactos: teléfono 19333, cac@cutcsa.com.uy, Av. José Pedro Varela 3385.
+- **Farmashop - Súmate al equipo** (sin verificar, verificada 1 vez) https://tienda.farmashop.com.uy/
+  - Que es: Personas que buscan trabajo en farmacias y en la operación de Farmashop (cargos de ingreso: sin datos).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://heyharvie.com/jobs-organization/farmashop
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El enlace figura en el pie de página del sitio oficial de Farmashop y corresponde a la plataforma Harvie.
+  - Aclaracion: El contenido de la página se genera con JavaScript, por lo que no se pudieron ver vacantes, ubicaciones, requisitos ni fechas.
+  - Aclaracion: No está confirmado si hay una postulación abierta ni cuál es su ciclo.
+- **CUTCSA - Portal de Personal** (sin verificar, verificada 1 vez) https://www.cutcsa.com.uy/
+  - Que es: Referencia para personas interesadas en trabajar en transporte de pasajeros (conductores, guardas u otros puestos: sin datos).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://portalh.statum.biz/cutcsa
+  - Lectura automatica posible: none
+  - Aclaracion: El enlace corresponde a la entrada 'Personal' del menú del sitio oficial de CUTCSA.
+  - Aclaracion: La página no muestra contenido sobre vacantes ni postulación; no se pudo confirmar que sea una vía de ingreso de personal ni que haya un llamado abierto.
+  - Aclaracion: Contactos generales del sitio oficial: teléfono 19333 y cac@cutcsa.com.uy; no se indica que atiendan ingresos.
+- **Uber Uruguay - Conducir con Uber en Montevideo (registro y requisitos)** (abierta o vigente, verificada 2 veces) https://www.uber.com/uy/es/drive/montevideo
+  - Que es: Personas que quieran trabajar como socio conductor de transporte oneroso de pasajeros por aplicación en Montevideo.
+  - Requisitos: Vehículo propio (no de alquiler), sedán o rural de 4 puertas y 5 plazas, empadronado en Montevideo, hasta 6 años de antigüedad, con ITV al día y requisitos UNASEV (doble airbag frontal y ABS). Libreta de conducir profesional categoría E de Montevideo, libreta de propiedad, SOA, certificado de registro de empresa (formularios 6351, 6361 y 6951) y registro de permisarios de la IM. No se informa edad mínima ni se exige experiencia previa explícita.
+  - Pago o beneficio: sin datos (la página no informa ingresos)
+  - Plazo o ciclo: Abierto todo el año para el registro en línea; el alta efectiva depende de contar con el permiso de la Intendencia (ver sorteo)
+  - Como postular: https://www.uber.com/uy/es/drive/montevideo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El alta depende de contar con el Registro de Permisarios de la Intendencia de Montevideo; quien no tenga permiso no puede operar.
+  - Aclaracion: La página no menciona cupos ni sorteos y no informa edad mínima.
+  - Aclaracion: Las condiciones de vehículo de la página difieren en parte de las del instructivo de la Intendencia, y prevalece la normativa de la Intendencia.
+  - Aclaracion: Hay atención presencial en el centro de activación de Hocquart 2200.
+- **Uber: requisitos para conducir (Uruguay)** (abierta o vigente, verificada 2 veces) https://www.uber.com/uy/es/drive/requirements/
+  - Que es: Personas con auto propio que quieran manejar con la aplicación. Se pide estar formalizado ante DGI.
+  - Requisitos: Edad mínima: la página no la indica. Libreta de conducir vigente; vehículo modelo 2011 o posterior, motor de al menos 1.000 cc, cuatro puertas, baúl, requisitos de seguridad UNASEV (por ejemplo doble airbag frontal y ABS); libreta de propiedad del vehículo; SOA; constancia de pago mensual a DGI; certificado de inscripción de la empresa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no informa ingresos)
+  - Plazo o ciclo: Abierto todo el año (registro en línea permanente).
+  - Como postular: https://www.uber.com/uy/es/drive/requirements/ (registro en línea)
+  - Lectura automatica posible: none
+  - Aclaracion: Esta vía requiere vehículo propio apto, lo que puede ser una barrera.
+  - Aclaracion: El registro es en línea, con teléfono, correo y datos personales y fotos de la libreta de conducir, el SOA y la libreta de propiedad; tras la aprobación se descarga la app Uber Partner. Hay centro de activación en Hocquart 2200.
+  - Aclaracion: La página enlaza una nota sobre nuevas regulaciones, que conviene revisar junto con la Ley 20.396 y el Decreto 145/025.
+  - Aclaracion: La expresión 'todo el año' no aparece textual; es una inferencia de la ausencia de plazos.
+- **PedidosYa Uruguay - repartidores (registro en la app; capacitación INEFOP)** (sin verificar, verificada 1 vez) https://www.gub.uy/presidencia/comunicacion/fotos/lanzamiento-capacitacion-inefop-repartidores-pedidos-ya
+  - Que es: Personas que quieran repartir pedidos con moto o bicicleta en Uruguay.
+  - Requisitos: sin datos (no figuran en la página)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos; la página oficial es de agosto de 2021 y no describe ningún llamado vigente
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL es una galería de fotos de Presidencia del 10/08/2021 sobre cursos de INEFOP para repartidores de PedidosYa; no informa requisitos, inscripción ni vigencia, por lo que no sirve como fuente de postulación actual.
+  - Aclaracion: La página de PedidosYa para repartidores devolvió HTTP 403 y no se encontró una página oficial de registro para Uruguay.
+  - Aclaracion: El proceso actual no pudo verificarse directamente; el registro se haría en la app o web de la empresa.
+- **Mercado Libre - Envíos Flex en Uruguay (cobertura Montevideo-Canelones)** (sin verificar, verificada 1 vez) https://developers.mercadolibre.com.uy/en_us/mercado-envios-flex
+  - Que es: Documentación para vendedores que usan Flex; la entrega la realizan conductores independientes. No se encontró una página oficial de alta de conductores para Uruguay.
+  - Requisitos: sin datos (en Argentina se mencionan vehículo propio y documentación en regla, no confirmado para Uruguay)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página es documentación para desarrolladores sobre integraciones de vendedores, no un registro de conductores, y devolvió HTTP 403 a la lectura directa.
+  - Aclaracion: No se encontró una página oficial de Mercado Libre Uruguay para inscribirse como conductor Flex.
+  - Aclaracion: Un artículo de logística sugiere que la vía para conductores independientes sería Mercado Envíos Extra, sin confirmación para Uruguay.
+  - Aclaracion: No es una fuente de postulación verificable.
+- **MIDES - Cooperativas sociales (Ley 17.978 y Ley 18.407)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-desarrollo-social/politicas-y-gestion/cooperativas-sociales
+  - Que es: Grupos de al menos cinco personas en contextos de fragilidad social, desempleadas o que sobreviven con trabajo informal, o con un emprendimiento no amparado por la ley, que quieran formar una cooperativa de trabajo. Hasta un 25% de los socios puede no estar en vulnerabilidad socioeconómica.
+  - Requisitos: Grupo de al menos 5 personas con un proyecto viable y sostenible; integrantes en situación de vulnerabilidad social, desempleados o con trabajo irregular, o trabajadores de emprendimientos sin amparo legal; hasta 25% de integrantes pueden no estar en vulnerabilidad. No se exige experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es un salario: ingresos del emprendimiento cooperativo. Exoneración de tributos nacionales.
+  - Plazo o ciclo: Sin convocatoria ni plazos. Se accede formando un grupo de al menos 5 personas con un proyecto viable y coordinando por correo con coopsociales@mides.gub.uy. Después siguen la evaluación, la declaración jurada de ingresos, el curso de formación cooperativa y la inscripción en los registros del MIDES y del MEC. Hasta un 25% de los integrantes puede no estar en vulnerabilidad socioeconómica.
+  - Como postular: coopsociales@mides.gub.uy (correo); teléfono 2400 0302, internos 1763/64; 18 de julio 1453
+  - Lectura automatica posible: ninguno
+  - Aclaracion: La página cita la Ley 18.407 (Decreto 183/018) y no la Ley 17.978.
+  - Aclaracion: Es una vía de trabajo asociativo, no un empleo: el grupo presenta un proyecto, se evalúa, completa una declaración jurada de ingresos del hogar, hace un curso básico de cooperativismo y se inscribe en los registros del MIDES y del MEC.
+  - Aclaracion: Las cooperativas tienen exoneración de tributos nacionales y pueden ser contratadas directamente por el Estado hasta el tope de licitación abreviada.
+  - Aclaracion: La página no describe formulario ni fechas límite.
+- **Espacio germina! (MIDES/INJU, ANDE y MIEM): apoyo a emprendimientos de jóvenes** (sin verificar, verificada 1 vez) https://www.gub.uy/ministerio-desarrollo-social/politicas-y-gestion/programas/espacio-germina-0
+  - Que es: Jóvenes de 18 a 29 años con una idea o un emprendimiento; también grupos si al menos la mitad tiene menos de 29 años.
+  - Requisitos: Personas de 18 a 29 años, de forma individual o en grupo (en los grupos, al menos la mitad de integrantes menores de 29; puede haber mayores). Proyecto viable y sostenible, con valor agregado diferencial. No haber comenzado a vender hace más de 12 meses. No se pide experiencia laboral. Alcance nacional; funciona en Casa INJU, Montevideo.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Servicios gratuitos (espacio de trabajo colaborativo, talleres, consultoría); no financia inversiones del proyecto. Cada persona puede beneficiarse hasta dos veces.
+  - Plazo o ciclo: sin datos: la página no indica convocatoria vigente ni fechas; las únicas bases enlazadas corresponden al llamado de febrero de 2018 (archivo subido en marzo de 2019)
+  - Como postular: mailto:germinainju@mides.gub.uy
+  - Lectura automatica posible: none
+  - Aclaracion: No se confirmó que haya una convocatoria abierta ni un ciclo anual vigente; las únicas bases enlazadas son del llamado de febrero de 2018.
+  - Aclaracion: Consulta de estado por correo: germinainju@mides.gub.uy.
+- **Ley N.º 20.396 - Niveles mínimos de protección para trabajadores de plataformas digitales (reparto y transporte)** (abierta o vigente, verificada 2 veces) https://www.impo.com.uy/bases/leyes-originales/20396-2025
+  - Que es: Trabajadores dependientes o autónomos de plataformas digitales de entrega de bienes y de transporte urbano oneroso de pasajeros.
+  - Requisitos: No hay requisitos de acceso; es una norma de protección aplicable a quien trabaje en reparto o transporte por plataforma en Uruguay.
+  - Pago o beneficio: No fija tarifa para autónomos; para dependientes, pago por hora o pieza proporcional al salario mínimo nacional
+  - Plazo o ciclo: Vigente de forma permanente (promulgada el 13/02/2025, publicada el 18/02/2025; entra en vigor a los 90 días de la promulgación)
+  - Como postular: No aplica (norma, no postulación)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es un llamado ni una oferta: sirve para conocer derechos antes de trabajar en plataformas.
+  - Aclaracion: La ley no define por sí sola la relación laboral (art. 13) y no establece piso de pago para trabajadores autónomos.
+  - Aclaracion: La fecha exacta de entrada en vigor no figura expresada en el texto, solo un plazo de 90 días.
+  - Aclaracion: La página de IMPO no informa por sí misma el estado actual de vigencia.
+- **Decreto N.º 145/025 - Reglamentación de la Ley 20.396 (plataformas de reparto y transporte)** (abierta o vigente, verificada 2 veces) https://impo.com.uy/bases/decretos/145-2025
+  - Que es: Trabajadores y empresas de plataformas de reparto de mercancías y transporte urbano de pasajeros.
+  - Requisitos: Sin requisitos de acceso; es reglamentación de derechos y obligaciones.
+  - Pago o beneficio: Pago proporcional al salario mínimo nacional como piso para dependientes; sin piso para autónomos
+  - Plazo o ciclo: Vigente de forma permanente (promulgado el 08/07/2025, publicado el 14/07/2025)
+  - Como postular: No aplica (norma, no postulación)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página está marcada como documento actualizado, pero no dice expresamente 'vigente' ni fija fecha de entrada en vigor.
+  - Aclaracion: No es una oferta de empleo.
+  - Aclaracion: Para optar por monotributo se exigen las condiciones de la Ley 18.083 y el Decreto 199/007.
+- **Intendencia de Montevideo - Instructivo de registro de permisarios y conductores de transporte en vehículos privados** (sin verificar, verificada 1 vez) https://montevideo.gub.uy/sites/default/files/documentos/instructivotpa-v5.pdf
+  - Que es: Permisarios (personas físicas) y conductores que operan para Uber, Cabify y otras plataformas en Montevideo.
+  - Requisitos: Persona física; usuario del portal del Estado; domicilio electrónico constituido; suscripción a notificaciones de la IM; haber salido sorteado y estar habilitado. Vehículo a nombre del titular (verificado en SUCIVE), de hasta 6 años si es a combustible o 10 si es eléctrico, con ITV y seguros de vehículo y de pasajeros. Conductor con licencia profesional vigente, carné de salud, RUT y certificados únicos de DGI y BPS (o planilla de BPS si es dependiente), domicilio en Montevideo.
+  - Pago o beneficio: sin datos (el permisario abona un canon a la IM, retenido por la plataforma; monto no visto)
+  - Plazo o ciclo: Documento de referencia sin fecha visible; el registro solo es posible para quien haya salido sorteado y esté habilitado
+  - Como postular: https://mi.montevideo.gub.uy (acceso al registro solo para sorteados habilitados; URL tomada del propio instructivo, no cargada)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El documento no tiene fecha de publicación y menciona una prórroga cuyo efecto no se pudo contrastar con la normativa vigente, por lo que su actualidad no está confirmada.
+  - Aclaracion: Sirve como guía de requisitos, no como vía de postulación abierta.
+  - Aclaracion: El estado inicial es provisorio (se puede trabajar mientras se validan los datos) y luego pasa a habilitado.
+  - Aclaracion: Los archivos admitidos son de hasta 5 MB en jpg, jpeg, png o pdf.
+- **MTSS - Mesa Interinstitucional Tripartita para Repartidores en Moto y Bicicleta 2025-2029** (sin verificar, verificada 1 vez) https://www.gub.uy/ministerio-trabajo-seguridad-social/comunicacion/noticias/repartidores-trabajo-interinstitucional-conjunto-derechos-salud-seguridad
+  - Que es: Repartidores en moto y bicicleta; información sobre prioridades de seguridad, formación y registro de siniestros laborales.
+  - Requisitos: No aplica (no hay postulación).
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: Noticia del 19/11/2025: relanzamiento de la Mesa para el período actual; el año final 2029 no se confirmó en el texto leído
+  - Como postular: No aplica
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una instancia de coordinación, no un llamado ni una vía de postulación, por lo que no corresponde hablar de apertura.
+  - Aclaracion: La vigencia 2025-2029 proviene del título y no del texto verificado.
+  - Aclaracion: Entre sus prioridades figura promover el curso obligatorio de INEFOP.

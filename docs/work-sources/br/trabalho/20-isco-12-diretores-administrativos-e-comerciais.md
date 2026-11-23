@@ -1,0 +1,100 @@
+# Grupo 12: Diretores administrativos e comerciais
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Michael Page Brasil - busca de vagas e envio de currículo (gerência e média/alta gestão)** (aberta ou vigente, verificada 2 vezes) https://www.michaelpage.com.br/job-search
+  - O que é: Profissionais de nível gerencial e de média/alta gestão em finanças e tributário, RH, vendas, marketing, bancos e serviços financeiros, varejo, operações e supply chain, entre outras áreas. Escritórios em Campinas, Curitiba, Recife, Rio de Janeiro e São Paulo.
+  - Requisitos: Nenhum requisito listado; o público é de nível analista a diretor, ou seja, não indicado a quem não tem experiência.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados (filtro de salário até '50k+', moeda e período não informados).
+  - Prazo ou ciclo: Caminho aberto o ano todo: a página oferece 'Envie seu CV', 'Aplique-se em 23/11/2026' e cadastro/login; nenhuma vaga específica foi exibida no texto lido, portanto vagas publicadas continuamente não foram confirmadas.
+  - Como se candidatar: https://www.michaelpage.com.br/job-search
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Nenhuma lista de vagas apareceu na página de busca, provavelmente por carregamento dinâmico.
+  - Esclarecimento: Os filtros por cargo vão de Analista a Diretor, com foco em média e alta gerência.
+  - Esclarecimento: Há aplicativos para iOS e Android.
+- **Robert Half Brasil - vagas e envio de currículo (finanças, RH, vendas e marketing, gerência)** (aberta ou vigente, verificada 2 vezes) https://www.roberthalf.com/br/pt
+  - O que é: Profissionais de finanças e contabilidade (inclui gerente contábil/fiscal e gerente de crédito), RH (inclui gerente de RH), vendas e marketing (inclui diretor comercial e gerente de marketing), TI, jurídico e engenharia (inclui diretor de supply chain).
+  - Requisitos: Não listado na página inicial; varia por vaga.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Caminho aberto sem prazo: envio de currículo e alerta de vagas; lista de vagas atuais não exibida na página inicial.
+  - Como se candidatar: https://www.roberthalf.com/br/pt/procurando-oportunidade/envie-seu-curriculo
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A empresa informa que nunca cobra taxas de candidatos.
+  - Esclarecimento: 'Gerência' não é uma área própria: cargos de liderança aparecem dentro das seis áreas listadas (Finanças e Contabilidade, TI, Vendas e Marketing, Jurídico, RH e Engenharia).
+  - Esclarecimento: A lista de vagas atuais não aparece na página inicial, e vagas específicas não foram confirmadas.
+- **Hays Brasil - cadastro de currículo e busca de vagas** (aberta ou vigente, verificada 2 vezes) https://www.hays.com.br/portal/registro
+  - O que é: Profissionais de diversas áreas (a página de cadastro oferece áreas como TI, engenharia, vendas e marketing) que querem ser encaminhados a um consultor da agência.
+  - Requisitos: Arquivo .doc, .docx, .rtf, .txt ou .pdf de até 2 MB; nome, sobrenome e e-mail; escolha da profissão (Ciências da Vida, Contabilidade e Finanças, Engenharia, Executivo, Logística, Marketing e Digital, Petróleo e Gás, RH, TI, Vendas) e do escritório; aceite dos termos. Exigência de experiência: sem dados.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Cadastro permanente, aberto o ano todo; a busca de vagas (https://www.hays.com.br/empregos-pesquisar) mostrava 0 vagas ('nenhum resultado encontrado') em 2026-11-23.
+  - Como se candidatar: https://www.hays.com.br/portal/registro
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Um consultor da área entra em contato se surgir oportunidade compatível.
+  - Esclarecimento: Sem vagas abertas listadas na data, o cadastro serve apenas como banco de talentos.
+  - Esclarecimento: É possível criar conta 'My Hays' para acompanhar candidaturas e alertas.
+- **ADM Talentos - plataforma oficial de vagas para a área de Administração (CFA)** (aberta ou vigente, verificada 2 vezes) https://admtalentos.org.br/
+  - O que é: Profissionais e estudantes de Administração e áreas afins, e empresas e recrutadores que queiram publicar oportunidades.
+  - Requisitos: Não exige graduação (estudantes podem concorrer a estágio). Registro no CRA não é necessário para acessar, mas sem ele só há acesso a vagas de Estágio, Auxiliar/Operacional e Júnior/Trainee. Cadastro como Pessoa Física (via CPF) ou Pessoa Jurídica. Experiência: não exigida pela plataforma; depende de cada vaga.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (varia por vaga; a plataforma é gratuita para candidatos)
+  - Prazo ou ciclo: Sem janela ou prazo informado na página; cadastro obrigatório e gratuito, vagas visíveis só após login.
+  - Como se candidatar: https://admtalentos.org.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página não declara que o cadastro é contínuo; informa apenas que é obrigatório e gratuito.
+  - Esclarecimento: As vagas só ficam visíveis após login, e não foi possível confirmar quantas estão abertas em 23/11/2026.
+  - Esclarecimento: A plataforma é descrita como inteiramente gratuita, sem limite de candidaturas.
+- **CFA - Registro profissional de administrador nos CRAs (Conselhos Regionais de Administração)** (aberta ou vigente, verificada 2 vezes) https://cfa.org.br/registro-profissional/
+  - O que é: Administradores que atuam em áreas reservadas à profissão (por exemplo, gerência administrativa) e que precisam do registro no CRA do estado onde têm domicílio profissional.
+  - Requisitos: Conforme a Resolução Normativa CFA nº 649/2024: diploma registrado ou declaração de conclusão de curso (diploma em até 1 ano), documento de identidade, CPF, comprovante de residência com até 90 dias, comprovante de regularidade eleitoral (brasileiros), certificado de reservista (homens), foto 3x4 recente e formulário do CRA preenchido. Exige formação em Administração; não se aplica a quem não tem diploma.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: Não se aplica (o profissional paga anuidade; valor sem dados)
+  - Prazo ou ciclo: Registro permanente, sem prazo de abertura; anuidade devida todos os anos (datas de vencimento não informadas na página)
+  - Como se candidatar: https://cfa.org.br/institucional/conselho-regional/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não é vaga de emprego, e sim o registro profissional exigido para exercer a Administração.
+  - Esclarecimento: O pedido é feito no CRA do estado onde há domicílio profissional.
+  - Esclarecimento: Recém-formados que pedirem o registro em até 90 dias após a colação de grau têm isenção da anuidade do ano corrente e 50% de desconto no ano seguinte.
+  - Esclarecimento: O valor da anuidade não consta na página.
+- **Vagas.com - vagas de gerente (administrativo, financeiro, comercial, logística, contas)** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-gerente
+  - O que é: Candidatos a cargos de gerência em empresas de várias áreas; a consulta mostrou, entre outros, Gerente Administrativo-Financeiro, Gerente Financeiro, Gerente de Logística, Gerente Comercial B2B e Gerente de Contas (100% home office).
+  - Requisitos: Varia por vaga. Cargos de gerência costumam pedir experiência consolidada como gerente e ensino superior (ex.: Administração, Contabilidade, Engenharia, TI); uma vaga pede inglês avançado. Cargos de entrada (auxiliar, assistente, estágio) aparecem na mesma busca, sem exigência de experiência vista.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados (não exibido nas listagens vistas)
+  - Prazo ou ciclo: Aberto o ano todo (anúncios renovados continuamente); em 2026-11-23 o cabeçalho indicava 416 vagas
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-gerente
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Só parte dos resultados tem 'Gerente' no título; o restante são cargos administrativos, auxiliar, assistente e estágio.
+  - Esclarecimento: Muitas vagas são de empresas confidenciais e algumas datam de outubro, então parte pode estar defasada.
+  - Esclarecimento: A candidatura exige cadastro gratuito e login e é feita na página de cada vaga.
+- **Sicredi - vagas na Gupy (gerente de negócios, gerente de agência e outras)** (aberta ou vigente, verificada 2 vezes) https://sicredi.gupy.io/
+  - O que é: Candidatos a gerência de negócios (pessoa física, PJ, agro, desenvolvimento de negócios em agência empresarial), assistente de negócios (inclui vaga exclusiva para PcD) e jovem aprendiz (banco de currículos).
+  - Requisitos: Não listados na página inicial; constam na página de cada vaga. Cargos de gerente tendem a exigir experiência; as entradas de Jovem Aprendiz e banco de talentos não exibiram exigência de experiência.
+  - Pagamento ou benefício: sem dados (não exibido na listagem)
+  - Prazo ou ciclo: Aberto o ano todo (contratação contínua e banco de talentos); em 2026-11-23 a página mostrava 731 vagas em cerca de 74 páginas
+  - Como se candidatar: https://sicredi.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: As 731 vagas incluem os tipos Efetivo e Banco de talentos.
+  - Esclarecimento: Na primeira página (10 de 731 vagas) não apareceu nenhum título 'gerente de agência'; esse cargo não foi confirmado.
+  - Esclarecimento: A opção 'Participar do banco de talentos' está disponível quando nenhuma vaga serve.
+  - Esclarecimento: Entradas de Jovem Aprendiz e PCD costumam não exigir experiência, mas isso não foi detalhado na página.
+- **CFC - Conselho Federal de Contabilidade: registro e Exame de Suficiência (para gerência contábil e financeira)** (não verificada, verificada 1 vez) https://cfc.org.br/registro/
+  - O que é: Contadores que atuam como gerentes contábeis, fiscais ou financeiros e precisam de registro no conselho regional (CRC).
+  - Requisitos: sem dados (a página não lista critérios; o registro contábil em geral depende de formação em Ciências Contábeis e do Exame de Suficiência, mas isso não foi visto na página)
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados
+  - Como se candidatar: https://cfc.org.br/registro/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página não traz requisitos, documentos, valores nem datas de edições do Exame de Suficiência.
+  - Esclarecimento: Apenas os endereços de links mencionam um '2º Exame de Suficiência de 2025' e um '1º Exame de 2020', o que não confirma ciclo anual nem edição vigente em 23/11/2026.
+  - Esclarecimento: A existência de edições periódicas do exame permanece sem confirmação.
+- **Manpower Brasil - Portal de Vagas** (não verificada, verificada 1 vez) https://vagas.manpowergroup.com.br/
+  - O que é: Candidatos a vagas temporárias e permanentes intermediadas pela agência; o conteúdo do portal não foi exibido na leitura.
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados
+  - Como se candidatar: https://vagas.manpowergroup.com.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O conteúdo do portal carregou apenas com o título 'Vagas Manpower', sem vagas, links, contagem nem instruções de candidatura, provavelmente por renderização em JavaScript.
+  - Esclarecimento: Vagas abertas, requisitos e forma de candidatura não foram confirmados.

@@ -1,0 +1,69 @@
+# Servicio domestico, limpieza, seguridad y edificios
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Prosegur Chile: trabajo como guardia de seguridad** (abierta o vigente, verificada 2 veces) https://www.prosegur.cl/trabajo/guardia-seguridad
+  - Que es: Postulantes a guardia de seguridad (vigilancia básica), patrullaje, CCTV y otros cargos de seguridad; la empresa dice contratar con o sin experiencia según el cargo.
+  - Requisitos: Guardia básico: enseñanza media completa y disponibilidad para turnos 4x4, 5x2 o 6x1; la experiencia en seguridad es deseable pero no obligatoria. El curso OS10 aparece como 'imprescindible' en un apartado y como 'no excluyente' en la pregunta frecuente (la página es contradictoria). Si no se tiene OS10, la página dice que se puede hacer a través de Prosegur (90 horas, cerca de un mes). Otros roles piden licencia clase B, curso de CCTV, servicio militar o cursos de supervisor.
+  - Sin experiencia previa: si
+  - Pago o beneficio: La página de preguntas frecuentes menciona desde $620.000 líquidos, con cifra 'actualizada 2025'; confirmar el monto vigente antes de postular
+  - Plazo o ciclo: Abierto todo el año; la página indica '¡Estamos contratando!' sin vacantes, ciudades ni fechas de cierre específicas
+  - Como postular: https://prosegur.referrals.selectminds.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página es contradictoria sobre el curso OS10: lo presenta como imprescindible en un apartado y como no excluyente en la pregunta frecuente.
+  - Aclaracion: El monto de $620.000 líquidos corresponde a una cifra actualizada en 2025; debe confirmarse el monto vigente antes de postular.
+  - Aclaracion: Se postula con el botón 'Trabaja con nosotros', que lleva al portal de reclutamiento; las vacantes puntuales solo se ven en ese portal.
+- **Chiletrabajos: categoría Seguridad (guardias, vigilantes, supervisores)** (abierta o vigente, verificada 2 veces) https://www.chiletrabajos.cl/trabajos/seguridad
+  - Que es: Cualquier persona que busque empleo como guardia, vigilante privado, supervisor o jefe de turno; es la categoría con más avisos de seguridad vistos.
+  - Requisitos: Varían por aviso. Ejemplos vistos: curso OS10 vigente para guardias, curso de vigilante privado vigente (VVPP) para vigilantes, y turnos 4x4 o 2x5. No se vieron requisitos de edad ni documentos en el listado.
+  - Pago o beneficio: sin datos (varía por aviso)
+  - Plazo o ciclo: Abierto todo el año; la categoría mostraba 747 avisos, con fechas de publicación entre el 10 y el 20 de noviembre de 2026 en la primera página
+  - Como postular: https://www.chiletrabajos.cl/trabajos/seguridad
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Algunos avisos son de consultoras que publican por terceros o de empresas confidenciales.
+  - Aclaracion: Se postula desde cada aviso ('Ver más') y se requiere cuenta en el sitio.
+  - Aclaracion: La bolsa muestra 30 avisos por página (unas 25 páginas).
+- **Orientación laboral en línea de SENCE** (abierta o vigente, verificada 2 veces) https://sence.gob.cl/personas/orientacion-laboral
+  - Que es: Personas que buscan empleo y necesitan armar currículum o prepararse para entrevistas, incluyendo quienes buscan su primer trabajo.
+  - Requisitos: No se listan requisitos de elegibilidad ni experiencia. Para la videollamada se ingresa con Clave Única. Videollamada de una hora con orientador laboral, con solo 75 cupos por día.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito según lo visto (la página no menciona costo)
+  - Plazo o ciclo: Abierto; atención disponible desde el lunes 23 de marzo de 2026, sin fecha de cierre
+  - Como postular: https://sence.gob.cl/personas/orientacion-laboral
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un servicio oficial de SENCE, no una oferta de empleo.
+  - Aclaracion: Tiene tres modalidades: autoconsulta, talleres virtuales (se inscribe con el enlace 'Inscríbete') y videollamada (se reserva con el enlace 'Reservar').
+  - Aclaracion: Atención telefónica al 600 712 0028 o *8088, de lunes a jueves de 9:00 a 18:00 y viernes de 9:00 a 17:00.
+- **Trabajadoras y trabajadores de casa particular: derechos, contrato y remuneración (Dirección del Trabajo)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.dt.gob.cl/portal/1626/w3-propertyvalue-23000.html
+  - Que es: Personas que trabajan o quieren trabajar en casas particulares (aseo, cuidado del hogar, choferes particulares), puertas adentro o puertas afuera, y los hogares que las contratan. Sirve para conocer las condiciones legales mínimas antes de aceptar o ofrecer un empleo.
+  - Requisitos: No es una vacante. Contrato escrito dentro de los 15 días de iniciada la relación laboral. Jornada máxima de 45 horas semanales para trabajadores puertas afuera. 15 días hábiles de vacaciones tras un año de servicio. Cotización de indemnización a todo evento de 4,11 % de la remuneración imponible.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No indica monto en pesos. Establece que no puede ser inferior al ingreso mínimo legal; alimentación y habitación son de cargo del empleador y no cuentan como remuneración.
+  - Plazo o ciclo: Referencia normativa permanente, abierta todo el año; la página no tiene fecha de actualización y sus noticias llegan hasta 2019
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una guía de derechos, no una bolsa de empleo ni una vacante.
+  - Aclaracion: La página está desactualizada, por lo que conviene confirmar cifras vigentes (ingreso mínimo, cotizaciones) en dt.gob.cl o leychile.cl.
+  - Aclaracion: No exige experiencia ni estudios.
+- **Registro del contrato de trabajadora o trabajador de casa particular (DT / ChileAtiende)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.dt.gob.cl/portal/1626/w3-article-104604.html
+  - Que es: Empleadores y empleadoras de casa particular, y trabajadoras o trabajadores que quieren verificar que su contrato quedó registrado.
+  - Requisitos: Contrato de trabajo firmado por el trabajador. El empleador ingresa con RUN y clave en el sitio de la DT, o acude a la Inspección del Trabajo. Hay modelos de contrato opcionales para puertas adentro y puertas afuera.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No indica costo en la página (no se menciona arancel)
+  - Plazo o ciclo: Trámite permanente, disponible todo el año; el empleador debe registrar el contrato dentro de los 15 días siguientes a su celebración
+  - Como postular: https://www.dt.gob.cl/portal/1626/w3-article-104604.html
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un trámite del empleador, no una oferta de empleo.
+  - Aclaracion: Sirve a quien trabaja en casa particular para comprobar que su contrato quedó registrado.
+  - Aclaracion: Las consultas se atienden por el Sistema Único de Atención Ciudadana o al 600 450 4000 (lunes a viernes, 9:00 a 17:00); las oficinas de inspección atienden de 9:00 a 14:00.
+- **ISS Chile: trabaja en ISS (aseo, mantención, seguridad y servicios de apoyo)** (sin verificar, verificada 1 vez) https://www.cl.issworld.com/nosotros/carreras/trabaja-en-iss-chile
+  - Que es: Postulantes a funciones de servicio en terreno (colegios, hospitales, oficinas): aseo, mantención, catering, apoyo y seguridad, además de cargos corporativos y técnicos.
+  - Requisitos: No figuran en la página. Experiencia previa: no se indica.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin ciclo visible. El portal global no mostraba vacantes en Chile al 2026-11-23.
+  - Como postular: https://jobs.issworld.com/search/?createNewAlert=false
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página enlaza al portal de empleo global de ISS (jobs.issworld.com), pero no lista vacantes ni requisitos.
+  - Aclaracion: La búsqueda por Chile en ese portal indicó que no hay posiciones abiertas, aunque la lista solo mostraba un marcador de carga, por lo que podría ser una limitación de la lectura automática.
+  - Aclaracion: No se pudo confirmar un camino de postulación abierto en Chile.

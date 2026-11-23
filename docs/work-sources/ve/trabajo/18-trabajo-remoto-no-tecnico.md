@@ -1,0 +1,107 @@
+# Trabajo remoto no tecnico
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **OneForma (anotación de datos, evaluación, transcripción y traducción)** (abierta o vigente, verificada 2 veces) https://www.oneforma.com/
+  - Que es: Personas de más de 100 países con conocimientos de idiomas o de un área específica, interesadas en tareas remotas de anotación, recolección de datos, evaluación de resultados de IA, transcripción y traducción.
+  - Requisitos: No se pide currículum, portafolio ni experiencia previa en IA según la página. Edad: no indicada. Los proyectos piden idiomas o países concretos (algunos limitados a ciertos países). Venezuela no aparece mencionada.
+  - Sin experiencia previa: si
+  - Pago o beneficio: La página dice pago sin comisiones y sin mínimo, en ciclo quincenal (un testimonio menciona Payoneer). Tarifas por proyecto: sin datos.
+  - Plazo o ciclo: Abierto todo el año: registro gratuito de perfil; los proyectos cambian con el tiempo
+  - Como postular: https://www.oneforma.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La elegibilidad de residentes en Venezuela no está confirmada, y algunos proyectos están limitados a ciertos países o idiomas.
+  - Aclaracion: El registro no garantiza ser aceptado ni que haya proyectos disponibles para Venezuela.
+  - Aclaracion: Las cifras de pago de la página son autodeclaradas.
+  - Aclaracion: Ninguna oferta legítima exige pagar para acceder a proyectos; se debe desconfiar de quien pida dinero o datos bancarios fuera de la plataforma.
+- **Prolific (estudios de investigación remunerados)** (abierta o vigente, verificada 2 veces) https://www.prolific.com/participants
+  - Que es: Cualquier persona que quiera ganar dinero respondiendo estudios de investigación en línea; las tareas se filtran según el perfil.
+  - Requisitos: Registro en lista de espera (unos 3 minutos), invitación y verificación (unos 15 minutos, con tarea de práctica corta). La página no indica edad, residencia ni países elegibles. Venezuela no aparece mencionada.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Pago en efectivo solo por PayPal; retiro mínimo de 6 USD/GBP. Tras los primeros 4 retiros, la transferencia es instantánea. Tarifa mínima por hora: no indicada.
+  - Plazo o ciclo: Abierto todo el año mediante lista de espera; la invitación llega cuando hay estudios disponibles
+  - Como postular: https://www.prolific.com/participants
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se pudo confirmar que Venezuela sea un país elegible; la lista de países debe consultarse en el Centro de Ayuda de participantes (participant-help.prolific.com).
+  - Aclaracion: El pago solo se hace por PayPal, lo que puede ser un obstáculo para quienes residen en Venezuela.
+  - Aclaracion: La plataforma no cobra por participar.
+- **Clickworker (microtareas, encuestas y entrenamiento de IA)** (abierta o vigente, verificada 2 veces) https://www.clickworker.com/clickworker/
+  - Que es: Personas que quieran hacer microtareas desde el teléfono o la computadora: encuestas, creación de texto, investigación web, pruebas de apps, fotos, grabaciones de audio y video, entrenamiento de IA.
+  - Requisitos: La página no especifica edad, documentos ni países. Venezuela no aparece mencionada. Sin experiencia requerida según lo visto (tareas como encuestas, grabaciones de voz, pruebas de apps, fotos).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Pago tras la aprobación del trabajo por el cliente; métodos mostrados: PayPal, Payoneer, SEPA y ACH. Pago mínimo y tarifas por tarea: sin datos.
+  - Plazo o ciclo: Abierto todo el año: registro mediante los enlaces 'Signup'
+  - Como postular: https://www.clickworker.com/clickworker/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se pudo comprobar si hay tareas disponibles ni si se admiten residentes de Venezuela.
+  - Aclaracion: Las certificaciones ISO y las reseñas citadas son afirmaciones de la propia empresa.
+  - Aclaracion: No se debe pagar por registrarse ni por recibir tareas.
+- **Rev - transcripción, subtítulos y traducción freelance** (abierta o vigente, verificada 2 veces) https://www.rev.com/freelancers
+  - Que es: Freelancers con muy buen inglés para transcripción, subtitulado, traducción de subtítulos (según el idioma) y transcripción legal (terminología jurídica de EE. UU.).
+  - Requisitos: Elegir rol, aprobar evaluación de habilidades (inglés, gramática y traducción si aplica) y enviar una muestra de transcripción, subtítulos o traducción. Se necesita computadora, internet estable y buen nivel de inglés; algunos roles piden otro idioma. Legal: conocimiento de terminología jurídica de EE. UU. Países elegibles: no indicados; Venezuela no aparece mencionada.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Por minuto de audio/video: transcriptor 0,40-1,10 USD; subtitulador 0,54-1,10 USD; traductor de subtítulos 1,70-4,00+ USD según idioma; transcriptor legal 0,55-2,00+ USD. Pago semanal por PayPal. Sin compromiso mínimo.
+  - Plazo o ciclo: Lista de espera vigente por alto volumen de solicitudes; sin fechas de apertura ni de cierre.
+  - Como postular: https://www.rev.com/freelancers
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no afirma que se reciban solicitudes todo el año: indica una lista de espera por alto volumen y que las solicitudes se procesan por orden de llegada.
+  - Aclaracion: Enviar varias solicitudes no acelera el trámite.
+  - Aclaracion: La elegibilidad de residentes en Venezuela no se pudo confirmar.
+  - Aclaracion: Se debe postular solo desde los enlaces oficiales y no entregar datos financieros ni pagos a quien ofrezca trabajo de Rev por otras vías.
+- **Preply (tutoría en línea de idiomas)** (abierta o vigente, verificada 2 veces) https://www.preply.com/en/teach
+  - Que es: Personas que quieran dar clases particulares de idiomas en línea (por ejemplo, español) a estudiantes de todo el mundo.
+  - Requisitos: No se exige título ni certificación ni experiencia docente. Se pide perfil con fotografía real, descripción de fortalezas y disponibilidad, video de presentación de hasta 2 minutos, computadora, internet estable, cámara y micrófono. Verificación de identidad: no mencionada. Países de tutores: no listados; Venezuela no aparece mencionada.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Clases de prueba con alumno nuevo: 100% para el tutor. Clases posteriores: comisión desde 33% que baja hasta 18% con más horas dictadas. Retiro por PayPal, Payoneer, Skrill o Transferwise. La página afirma que los tutores más populares ganan hasta 550 USD semanales (afirmación de la empresa).
+  - Plazo o ciclo: Abierto todo el año; revisión de perfiles en unos 3 días hábiles
+  - Como postular: https://www.preply.com/en/teach
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Conviene confirmar en el centro de ayuda de Preply si se admiten tutores residentes en Venezuela y qué método de cobro funciona allí.
+  - Aclaracion: Los perfiles no deben incluir datos de contacto ni precios, o se retrasa la aprobación.
+  - Aclaracion: La cifra de hasta 550 USD semanales es una afirmación de la propia empresa.
+  - Aclaracion: La plataforma no cobra por crear el perfil.
+- **Aviso sobre Zinli: bloqueos y fondos retenidos (CriptoNoticias, marzo de 2026)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.criptonoticias.com/comunidad/denuncian-bloqueos-wallet-zinli-venezuela/
+  - Que es: Quienes piensan cobrar o guardar dinero de trabajo remoto en Zinli desde Venezuela.
+  - Requisitos: No aplica (nota informativa).
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica.
+  - Plazo o ciclo: No es una convocatoria. Nota publicada el 26 de marzo de 2026; el estado actual del problema es desconocido (sin actualización posterior vista).
+  - Como postular: No aplica.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una nota de prensa y no una fuente de empleo; no se vio un comunicado formal de Zinli.
+  - Aclaracion: El estado actual del problema es desconocido.
+  - Aclaracion: Conviene no concentrar los fondos en una sola cuenta ni retirar todo de una vez.
+- **TELUS Digital - AI Community (anotación y entrenamiento de IA)** (sin verificar, verificada 1 vez) https://www.telusdigital.com/careers
+  - Que es: Personas interesadas en trabajo remoto de entrenamiento y anotación de datos para IA (AI Trainers, Data Annotators, Data Quality Specialists) y otros perfiles técnicos de la misma línea.
+  - Requisitos: sin datos: la página no lista requisitos, ni edad, ni experiencia, ni países elegibles. Venezuela no aparece mencionada.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin ciclo verificado; la página dirige a un buscador de vacantes de la categoría AI Community (vacantes concretas no vistas)
+  - Como postular: https://www.telusdigital.com/careers
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se vio ninguna vacante concreta ni su disponibilidad para Venezuela, por lo que no se considera abierta.
+  - Aclaracion: Se debe postular solo desde el dominio oficial y no pagar ningún cargo.
+- **Airtm (billetera en dólares y retiro en Venezuela)** (sin verificar, verificada 1 vez) https://www.airtm.com/es
+  - Que es: Freelancers y trabajadores remotos que cobran en dólares y necesitan convertirlos o retirarlos en Venezuela. No es una fuente de empleo sino una vía de cobro.
+  - Requisitos: Verificación de identidad (KYC) con documento oficial en el registro. Edad mínima general: no indicada (18+ solo para la tarjeta Visa). Experiencia: no aplica.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No paga: es una herramienta de cobro. Comisiones: la página no da montos (indica que puede haber cargos por la tarjeta); límite de envío visto: 0,10 a 5.000 USDC.
+  - Plazo o ciclo: No aplica como fuente de empleo; el servicio de billetera está disponible de forma permanente
+  - Como postular: https://www.airtm.com/es
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una vía de cobro y no una fuente de empleo.
+  - Aclaracion: Venezuela aparece en la lista de bancos locales, pero la página no confirma de forma explícita retiros a bancos venezolanos y no menciona Pago Móvil.
+  - Aclaracion: La empresa se declara fintech y no banco.
+  - Aclaracion: Se deben usar solo los canales oficiales de Airtm y desconfiar de intermediarios que pidan transferencias previas o ofrezcan tasas fuera de la app.
+- **Guía de Deel: cobrar en dólares desde Venezuela (comisiones y límites)** (sin verificar, verificada 1 vez) https://www.deel.com/es/blog/stablecoin-cobrar-en-dolares-desde-venezuela/
+  - Que es: Contratistas y freelancers en Venezuela que cobran de empresas extranjeras y comparan formas de recibir el dinero.
+  - Requisitos: No aplica (guía informativa).
+  - Sin experiencia previa: si
+  - Pago o beneficio: No paga. Comisiones según el artículo: Payoneer 1%; PayPal 2,5%; transferencia a cuenta bancaria de EE. UU. 5 USD fijos; Wise o Revolut sin costo pero solo para cuentas abiertas antes (las nuevas están bloqueadas desde Venezuela); stablecoins USDT/USDC 1,5% sin comisión de red. Conversión de stablecoins a bolívares o efectivo añade un diferencial no cuantificado.
+  - Plazo o ciclo: Artículo informativo, no una convocatoria; fecha de última actualización vista: 29 de octubre de 2026 (fecha de publicación original no visible)
+  - Como postular: No aplica. Consultar con cada proveedor antes de depender de un método.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es material promocional de la propia empresa y las comisiones no se contrastaron con cada proveedor.
+  - Aclaracion: Las comisiones corresponden a las vigentes en octubre de 2026 y pueden cambiar; los límites los fijan los proveedores de pago.
+  - Aclaracion: El artículo indica que Zelle queda excluido para residentes en Venezuela.
+  - Aclaracion: Se debe desconfiar de ofertas de trabajo que exijan adelantos, comisiones de inscripción o pagos a billeteras de terceros.

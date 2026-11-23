@@ -1,0 +1,69 @@
+# Grupo 25: Profissionais de tecnologia da informação e comunicação
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **CI&T - Carreiras e oportunidades (Brasil, remoto e híbrido)** (aberta ou vigente, verificada 2 vezes) https://ciandt.com/br/pt-br/carreiras/oportunidades
+  - O que é: Profissionais de tecnologia de nível pleno e sênior, principalmente (desenvolvimento, dados, IA, arquitetura, DevOps, QA); a empresa também mantém um programa de estágio.
+  - Requisitos: Variam por vaga e ficam na página de cada vaga; a listagem geral não os traz. Perfil predominantemente técnico.
+  - Pagamento ou benefício: sem dados (não divulgado na listagem)
+  - Prazo ou ciclo: Vagas abertas continuamente; sem prazo único. Em 2026-11-23 a página mostrava cerca de 113 listagens com botão Candidate-se.
+  - Como se candidatar: https://ciandt.com/br/pt-br/carreiras/oportunidades
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A maioria das vagas é no Brasil (remoto, Campinas-SP, São Paulo-SP), mas há também vagas na Colômbia, Reino Unido, EUA e Singapura.
+  - Esclarecimento: A mesma página exibe mensagem de que não há oportunidades no momento, o que sugere filtro inconsistente; a contagem de cerca de 88 vagas no Brasil não foi confirmada.
+  - Esclarecimento: A empresa informa que usa IA no processo seletivo e oferece apoio a candidatos com deficiência.
+  - Esclarecimento: Vagas voltadas a quem não tem experiência não foram vistas.
+- **IBM Brasil - Carreiras (busca de vagas e programas de início de carreira)** (aberta ou vigente, verificada 2 vezes) https://www.ibm.com/br-pt/careers
+  - O que é: Profissionais de TI e pessoas no início da carreira, incluindo estagiários.
+  - Requisitos: Variam por vaga e por programa; não informados na página lida. Programas de início de carreira citam estágio, mas critérios específicos são sem dados.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Caminho de candidatura contínuo (busca de vagas, alertas e rede de talentos). Datas de programas de início de carreira: sem dados.
+  - Como se candidatar: https://www.ibm.com/br-pt/careers
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Foi confirmado apenas o caminho de candidatura (busca de vagas com filtros, alertas por e-mail, rede de talentos e página sobre as etapas do processo).
+  - Esclarecimento: Nenhuma vaga específica, prazo de programa ou lista de vagas no Brasil foi vista, de modo que a abertura de vagas e de programas não foi confirmada.
+- **Trampos.co - vagas de TI, BI e dados** (aberta ou vigente, verificada 2 vezes) https://www.trampos.co/
+  - O que é: Profissionais de tecnologia, dados e design; a categoria 'TI, BI & Dados' lista Desenvolvedor Front e Back-End e Data Scientist.
+  - Requisitos: Cadastro gratuito; exigências variam por vaga e não foram vistas. Experiência mínima: sem dados.
+  - Pagamento ou benefício: sem dados (varia por vaga; gratuito para candidatos)
+  - Prazo ou ciclo: Cadastro gratuito contínuo para candidatos; vagas publicadas continuamente por empresas.
+  - Como se candidatar: https://www.trampos.co/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página inicial não lista vagas específicas; mostra categorias e remete a uma página de oportunidades.
+  - Esclarecimento: O foco em TI, BI e dados é parcial: a página abrange também criação, marketing, vendas e gestão de pessoas.
+  - Esclarecimento: Empresas publicam vagas diretamente na plataforma, que não é mera repostadora de anúncios de outros sites.
+- **Revelo - vagas remotas de engenharia de software para empresas dos EUA** (aberta ou vigente, verificada 2 vezes) https://www.revelo.com/work
+  - O que é: Engenheiros de software que moram na América Latina (Brasil incluído) e querem vagas remotas em empresas de tecnologia e IA dos EUA, ou projetos de treinamento de IA por tarefa.
+  - Requisitos: Residir na América Latina; no mínimo 3 anos de experiência em engenharia de software; inglês avançado ou fluente para vagas em tempo integral; passar em conversa assíncrona e testes de código. Não serve a quem não tem experiência.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: Tempo integral: até US$ 95.000 por ano, pago mensalmente (por exemplo, até US$ 91.000 back-end e até US$ 74.000 mobile). Trabalho de treinamento de IA: por hora ou por tarefa, em dólar, valores sem dados.
+  - Prazo ou ciclo: Cadastro de perfil contínuo, sem prazo. A aprovação do perfil não garante vaga: a empresa dos EUA decide.
+  - Como se candidatar: https://www.revelo.com/work
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A contratação é como prestador independente; a Revelo paga em nome da empresa e diz não cobrar do candidato.
+  - Esclarecimento: Alguns projetos de treinamento de IA não estão disponíveis em todos os países.
+  - Esclarecimento: O pagamento pode ser em dólar ou moeda local, com taxa na moeda local; os benefícios variam por vaga e país.
+  - Esclarecimento: A página não diz expressamente que o cadastro é contínuo, apenas não mostra prazo.
+- **GeekHunter - plataforma de recrutamento de profissionais de tecnologia (grupo Howdy)** (aberta ou vigente, verificada 2 vezes) https://www.geekhunter.com/pt
+  - O que é: Profissionais de tecnologia de vários níveis e modalidades (remoto, híbrido e presencial; CLT e PJ). A plataforma diz ter mais de 600 mil profissionais validados.
+  - Requisitos: Criar conta gratuita; exigências variam por vaga. Há vagas de nível júnior, mas a maioria é de tecnologia com experiência.
+  - Pagamento ou benefício: Varia por vaga; exemplos de R$ 10.000 a R$ 15.000 por mês. Muitas vagas sem faixa informada.
+  - Prazo ou ciclo: Vagas abertas continuamente; na consulta de 2026-11-23 a página de vagas indicava 490 vagas abertas.
+  - Como se candidatar: https://www.geekhunter.com/pt/vagas
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A plataforma pertence ao grupo Howdy e declara mais de 3.000 empresas clientes.
+  - Esclarecimento: Cada vaga mostra modelo de trabalho, local, tipo de contrato (CLT ou PJ) e faixa salarial quando informada.
+  - Esclarecimento: Existem vagas de nível júnior (por exemplo, Desenvolvedor Full-Stack Júnior em Florianópolis, híbrido), mas a plataforma é centrada em tecnologia.
+- **{reprograma} - cursos gratuitos de programação para mulheres, com plataforma de contratação** (não verificada, verificada 1 vez) https://www.reprograma.com.br/
+  - O que é: Mulheres (a FAQ diz que os cursos são exclusivos para quem se identifica com o gênero feminino), com prioridade em seleções para mulheres negras, trans e travestis. Há cursos para meninas de 14 a 17 anos e para mulheres de 18 anos ou mais.
+  - Requisitos: Ser mulher (processo próprio para meninas de 14 a 17 anos e mulheres de 18 anos ou mais); cumprir os requisitos do edital de cada curso; oficina de programação obrigatória na segunda fase. Experiência exigida: Front-end citado para pouca ou nenhuma experiência em programação; Imersão JavaScript exige conhecimento básico ou intermediário; Futuro + AI Aplicada: sem dados.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Curso gratuito; bolsa de R$ 1.300 por mês por seis meses (critérios após aceitação). Não é emprego.
+  - Prazo ou ciclo: Turmas por edital; nenhum prazo visto. Em 2026-11-23 a página inicial listava como aberto apenas 'Todas em Tech | Futuro + AI Aplicada' (presencial, São Paulo), mas a página de projetos não confirmou abertura nem datas.
+  - Como se candidatar: https://tetfuturomais.reprogramabr.org/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Os cursos são exclusivos para mulheres; homens não podem se candidatar.
+  - Esclarecimento: Conectadas é para meninas de 16 a 18 anos, em processo separado por idade.
+  - Esclarecimento: Os demais cursos aparecem como encerrados; os formulários e prazos ficam nos editais de cada curso, não lidos.
+  - Esclarecimento: Há plataforma de contratação para empresas verem egressas, integrada a Gupy e Greenhouse.

@@ -1,0 +1,90 @@
+# Grupo 26: Profissionais do direito, das ciências sociais e culturais
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **FENAJ - Carteira Nacional de Jornalista (e Carteira Internacional)** (aberta ou vigente, verificada 2 vezes) https://fenaj.org.br/carteiras-nacional-e-internacional/
+  - O que é: Jornalistas com registro profissional no Ministério do Trabalho e Emprego (carteira nacional); jornalistas sindicalizados (carteira internacional da FIJ).
+  - Requisitos: Registro profissional no Ministério do Trabalho e Emprego; documento de identidade com número do RG e data de expedição; carteira de trabalho com o registro profissional anotado; e, para quem tem diploma, cópia do diploma ou certificado de conclusão em Jornalismo. Não se aplica a quem não é jornalista profissional registrado.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: Não se aplica (documento profissional). Custo: R$ 500,00 para qualquer jornalista; associados em dia com o sindicato têm 75% de desconto.
+  - Prazo ou ciclo: Sem prazo: o pedido pode ser feito a qualquer momento por meio do sindicato estadual (ou municipal, quando houver). Validade da carteira nacional: 3 anos. A validade da carteira internacional (alegada em 2 anos) não foi confirmada na página lida.
+  - Como se candidatar: Pedido por meio dos sindicatos de jornalistas filiados à FENAJ.
+  - Leitura automática possível: no
+  - Esclarecimento: É um documento profissional, não uma vaga.
+  - Esclarecimento: O pedido passa pelo sindicato de jornalistas do estado ou município, e a FENAJ emite a carteira.
+  - Esclarecimento: Para renovar, apresenta-se a carteira atual, vencida ou prestes a vencer.
+  - Esclarecimento: A validade de 2 anos da carteira internacional não foi confirmada na página.
+- **Abrates - Exame de credenciamento e programa de mentoria para tradutores e intérpretes** (aberta ou vigente, verificada 2 vezes) https://abrates.com.br/credenciamento/
+  - O que é: Tradutores e intérpretes associados (credenciamento); profissionais com menos de dois anos de experiência ou estudantes do último ano de Tradução, Interpretação ou Letras (mentoria, em https://abrates.com.br/programa-de-mentoria/).
+  - Requisitos: Mentoria (mentorado): ser associado da Abrates e ter menos de 2 anos de experiência como tradutor ou intérprete; quem não tem experiência deve estar no último ano de curso de Tradução, Interpretação ou Letras. Mentor: associado com mais de 5 anos de experiência. Exame: ser associado Efetivo ou Sênior com anuidade em dia; estudantes, pré-candidatos e institucionais não podem fazer; um par de idiomas e uma direção por inscrição; computador, Zoom, ferramenta CAT, câmera e microfone; proibido uso de tradução automática e IA. Não exige experiência para a mentoria quando se está no último ano da graduação.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Mentoria: nenhum custo mencionado na página. Exame: valor não informado (definido pela diretoria e divulgado aos associados; desconto de 50% para quem fez o exame nos dois anos anteriores).
+  - Prazo ou ciclo: Mentoria: sem prazo de inscrição na página, pedido por e-mail a qualquer momento; duração de 6 meses. Exame de credenciamento 2026: realizado em 07/03/2026 (inscrições de 05/01 a 02/03/2026), já encerrado; próxima edição: sem dados.
+  - Como se candidatar: mailto:mentoria@abrates.com.br
+  - Leitura automática possível: no
+  - Esclarecimento: O caminho aberto é a mentoria, por e-mail para mentoria@abrates.com.br com "Mentor", "Mentorado" ou "Info" no assunto (https://abrates.com.br/programa-de-mentoria/).
+  - Esclarecimento: Em ambos os casos, mentoria e exame, é necessário ser associado; os preços de filiação (https://abrates.com.br/filiacao-abrates/) não foram verificados.
+- **Conselho Federal de Biblioteconomia (CFB) - registro obrigatório de bibliotecário no CRB** (aberta ou vigente, verificada 2 vezes) https://cfb.org.br/perguntas-frequentes/
+  - O que é: Graduados em Biblioteconomia (bacharelado) que vão atuar como bibliotecários; técnicos e auxiliares só apoiam as atividades.
+  - Requisitos: Bacharelado em Biblioteconomia (pós-graduação não substitui); graduados em curso a distância podem registrar-se se o curso for reconhecido pelo MEC. Registro no CRB do domicílio profissional (local do endereço fiscal do empregador); o registro vale apenas na jurisdição. Quem não tem a graduação em Biblioteconomia não pode se registrar como bibliotecário. Exigir o registro é fundamentado no art. 29 da Lei 9.674/1998.
+  - Pagamento ou benefício: Não se aplica (registro profissional). Valor da anuidade: sem dados (não exibido; consulta pelo e-mail cfb@cfb.org.br ou telefone (61) 3328-2080).
+  - Prazo ou ciclo: Contínuo (registro profissional, sem prazo). Anuidade com desconto de 15% se paga até 31/01, 10% até fim de fevereiro e 5% até 31/03, com parcelamento em até 5, 4 ou 3 vezes conforme o mês de início.
+  - Como se candidatar: Inscrição no CRB da jurisdição; a lista de conselhos regionais está em https://cfb.org.br/conselhos-regionais/ (link visto na página inicial do CFB). Documentos exatos: sem dados.
+  - Leitura automática possível: no
+  - Esclarecimento: É uma página de perguntas frequentes sobre registro profissional, não uma vaga.
+  - Esclarecimento: Exercer sem registro ou inadimplente pode gerar multa e processo; quem não atua como bibliotecário pode pedir licença temporária ou cancelar o registro.
+  - Esclarecimento: A página não traz desconto para desempregados.
+  - Esclarecimento: O endereço do formulário de registro de cada CRB não é informado.
+- **Ministério da Cultura - Editais abertos (incluindo Edital Biblioteca Comunitária é Cultura Viva)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/cultura/pt-br/assuntos/editais/inscricoes-abertas
+  - O que é: Artistas, produtores, grupos e entidades culturais interessados em fomento federal. A página não detalha o público de cada edital.
+  - Requisitos: Destinado a bibliotecas comunitárias geridas pela própria comunidade (organizações da sociedade civil, associações, coletivos, com ou sem CNPJ). Exige comprovar atividades de incentivo à leitura há pelo menos 2 anos, documento de funcionamento com emissão de no mínimo 2 anos, comprovação de ações recentes (fotos, matérias, relatórios, listas de presença) e ausência de impedimento legal para receber recursos públicos. Não é vaga de emprego nem se aplica a pessoas físicas sozinhas.
+  - Pagamento ou benefício: sem dados (nem o valor total nem o valor por contemplado constam na página; fala apenas em pontuação extra em futuras seleções públicas e apoio financeiro)
+  - Prazo ou ciclo: Edital Biblioteca Comunitária é Cultura Viva: fluxo contínuo, sem data de encerramento; edital publicado em 07/08/2026 e atualizado em 28/08/2026. A listagem mostrava só este edital aberto em 2026-11-23.
+  - Como se candidatar: https://www.gov.br/cultura/pt-br/assuntos/editais/inscricoes-abertas/edital-biblioteca-comunitaria-e-cultura-viva1/edital-biblioteca-comunitaria-e-cultura-viva
+  - Leitura automática possível: no
+  - Esclarecimento: A listagem de editais não trazia prazo; as informações vieram da página do próprio edital.
+  - Esclarecimento: As datas de publicação (07/08/2026) e atualização (28/08/2026) não aparecem na listagem, e o PDF oficial (Edital de Chamamento Público MinC nº 4/2026) traz a data de 6 de agosto de 2026.
+  - Esclarecimento: Não se trata de seleção de vagas, e sim de certificação de bibliotecas comunitárias como Pontos de Cultura.
+  - Esclarecimento: A inscrição é online pelo cadastro do SNBP com login Gov.br: novos cadastros em 'Solicitar Cadastramento', marcando 'Ponto de Cultura' e anexando os documentos.
+- **Exame de Ordem Unificado da OAB (FGV): porta de entrada para a advocacia** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://oab.fgv.br/
+  - O que é: Bacharéis em Direito, estudantes dos dois últimos semestres ou do último ano e portadores de diploma estrangeiro revalidado que querem se inscrever na OAB como advogados.
+  - Requisitos: sem dados (não exibido nas páginas carregadas; a página da 48ª edição só mostra seletor de seccional da OAB e contatos)
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Não se aplica (exame de habilitação profissional; taxa de inscrição: sem dados)
+  - Prazo ou ciclo: Edições recorrentes; a página lista edições passadas e atuais, sendo a 48ª a mais recente (link 'Clique aqui para acessar informações relativas ao 48º EXAME DE ORDEM UNIFICADO'). Datas de inscrição e de prova da 48ª edição: não confirmadas em nenhuma página carregada (as datas da alegação não foram vistas).
+  - Como se candidatar: https://oab.fgv.br/home.aspx?key=651
+  - Leitura automática possível: sem dados (PDFs de edital em oab.fgv.br/arq/...; sem API vista)
+  - Esclarecimento: Não é vaga de emprego: é exame exigido para exercer a advocacia, organizado pela FGV.
+  - Esclarecimento: As datas divulgadas (inscrições de 28/09 a 05/10/2026; 1ª fase em 10/01/2027; 2ª fase em 28/02) não foram confirmadas em nenhuma página carregada.
+  - Esclarecimento: Contato: examedeordem@fgv.br e 0800 283 4628, de segunda a sexta, das 8h às 17h30.
+- **FENAJ - Pisos salariais de jornalistas por estado e sindicato** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://fenaj.org.br/sindicatos/convencoes-e-acordos-coletivos/pisos-salariais-atuais/
+  - O que é: Jornalistas e candidatos a vagas em redações que querem conhecer o piso da categoria e o sindicato de jornalistas do seu estado. A página não traz vagas.
+  - Requisitos: Não se aplica: é tabela de referência salarial, não uma vaga nem um programa. Cada piso vale para jornalistas com a função em empresas abrangidas pela convenção ou acordo coletivo.
+  - Pagamento ou benefício: Pisos de referência vistos: Alagoas R$ 5.000,92 (2025/2026); São Paulo capital, jornais e revistas, 5 horas, R$ 4.439,94; Goiás R$ 3.300,00 (2025/2026); Amazonas R$ 2.400,00 (2025/2026). Amapá, Rondônia e Roraima: 'não definido' (negociação por empresa).
+  - Prazo ou ciclo: Reajuste anual por data-base de cada estado (exemplos vistos: Amazonas em janeiro; Alagoas e Goiás em maio; São Paulo em junho). A página não informa data de atualização; o único indício é o ano de direitos autorais no rodapé (2025).
+  - Como se candidatar: Consultar a tabela, clicar no estado ou município para ver o piso e procurar o sindicato em https://fenaj.org.br/sindicatos-filiados/sindicatos/ (lista citada na página inicial da FENAJ).
+  - Leitura automática possível: no (tabela em HTML)
+  - Esclarecimento: É fonte de referência salarial, não oferta de trabalho.
+  - Esclarecimento: Alguns pisos aparecem com períodos antigos (por exemplo, Dourados 2017/2018 e Rio Grande do Norte 2018/2019), sendo preciso conferir o ano de cada valor antes de usá-lo.
+- **TJSP - Residência Jurídica (processo seletivo de Residentes Jurídicos)** (não verificada, verificada 1 vez) https://www.tjsp.jus.br/Segmento/ResidentesJuridicos/Concursos
+  - O que é: Graduados ou estudantes de Direito interessados em atuar como residentes jurídicos no TJSP (o perfil exato não aparece na página lida).
+  - Requisitos: sem dados (íntegra do edital não lida)
+  - Pagamento ou benefício: sem dados (valor da bolsa não exibido)
+  - Prazo ou ciclo: Notícia de 21/07/2026: 'Publicado edital de abertura de processo seletivo para admissão de Residentes Jurídicos' (edital disponibilizado no DEJESP em 17/07/2026). Datas de inscrição e de prova: sem dados; sem evidência de que a inscrição ainda esteja aberta em 2026-11-23.
+  - Como se candidatar: Inscrição pelo site da Fundação VUNESP, conforme a página do TJSP; o edital completo está linkado na notícia da página.
+  - Leitura automática possível: no
+  - Esclarecimento: A inscrição seria feita pelo site da Fundação VUNESP, cujo endereço não consta na página.
+  - Esclarecimento: O edital não foi lido e o prazo de inscrição não foi encontrado.
+  - Esclarecimento: O público provável são bacharéis em Direito, mas isso não foi confirmado.
+- **Cultura Viva - editais e cadastro de Pontos e Pontões de Cultura** (não verificada, verificada 1 vez) https://www.gov.br/culturaviva/pt-br/rede-cultura-viva/editais
+  - O que é: Pontos e Pontões de Cultura (coletivos e entidades culturais); o edital Ciclo de Saberes (MinC/MEC) é voltado a mestras e mestres das culturas tradicionais e populares e das artes.
+  - Requisitos: 2º Edital de Fomento a Pontões (encerrado): entidade cultural com CNPJ de no mínimo 3 anos, experiência mínima de 3 anos em atividades em rede, capacidade técnica e operacional, e Certificado de Ponto ou Pontão de Cultura ou inscrição no Cadastro Nacional de Pontos e Pontões até a publicação do edital no DOU. Não é oferta de emprego nem aberta a quem não tenha entidade cultural formalizada. Requisitos do cadastro e do Ciclo de Saberes: não vistos.
+  - Pagamento ou benefício: 2º Edital de Fomento a Pontões: R$ 600 mil no total, aportados pela Funarte (valor global do edital, não salário). Demais editais: sem dados.
+  - Prazo ou ciclo: Sem chamada aberta vista em 2026-11-23. Ciclo de Saberes: inscrições até 08/11/2026 (encerrado). 2º Edital de Fomento a Pontões: inscrição prorrogada até 12h de 03/11/2026 (encerrada); recurso do resultado preliminar de 16 a 18/11/2026. Ciclo anual não comprovado. Cadastro Nacional: caminho de inscrição existe, mas não foi possível confirmar se é permanente.
+  - Como se candidatar: https://mapa.cultura.gov.br/oportunidade/11685/ (inscrição do 2º Edital de Pontões, encerrada em 03/11/2026); cadastro: https://www.gov.br/culturaviva/pt-br/cadastro-nacional-cultura-viva/seja-um-ponto-pontao-de-cultura
+  - Leitura automática possível: no
+  - Esclarecimento: A página de inscrição do cadastro nacional redireciona para culturaviva.cultura.gov.br, que retornou HTTP 403; não se confirmou se o cadastro é contínuo nem quais são os requisitos.
+  - Esclarecimento: O 2º Edital de Fomento a Pontões tem resultado preliminar publicado, sem resultado final nem convocação.
+  - Esclarecimento: Premiação Sérgio Mamberti, Construção Nacional do Hip-Hop, Retomada RS e apoio a rádios comunitárias aparecem sem status ou prazo informados.
+  - Esclarecimento: A TEIA 2026 (6ª Teia Nacional, 19 a 24 de maio de 2026) já ocorreu.

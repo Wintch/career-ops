@@ -1,0 +1,140 @@
+# Trabajo remoto no tecnico
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Teleperformance (TP) - Trabajo desde casa** (abierta o vigente, verificada 2 veces) https://www.tp.com/en-us/careers/work-from-home-opportunity/
+  - Que es: Personas que buscan empleo de atención a clientes en modalidad remota. La página lista a México entre los países con trabajo desde casa y el sitio local indica operación en México desde 1996 con más de 20,000 personas, presenciales y remotas.
+  - Requisitos: sin datos (la página no lista requisitos; no se vio si se pide experiencia)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año (ruta de postulación continua; las vacantes cambian). No se vio ninguna vacante específica de México ni fecha límite
+  - Como postular: https://www.tp.com/en-us/careers/work-from-home-opportunity/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se vio ninguna vacante específica de México ni fecha límite; se clasifica como abierto por la ruta de postulación continua.
+  - Aclaracion: El botón «APPLY NOW» lleva a la página general de oportunidades, con filtros por país, ubicación, categoría e idioma y la opción «Only Work-from-home».
+  - Aclaracion: TP indica que solo contacta desde correos @Teleperformance.com, no usa Telegram y nunca pide pagos ni envía cheques.
+- **TaskUs - Carreras (soporte al cliente y moderación de contenido)** (abierta o vigente, verificada 2 veces) https://www.taskus.com/careers/
+  - Que es: Personas que buscan trabajo en atención a clientes (CX) y Trust & Safety (moderación de contenido). El sitio indica sedes en México en Puebla y Tijuana.
+  - Requisitos: Solo seleccionar ubicación y aceptar el aviso de privacidad para recibir el formulario; la página no indica requisitos de experiencia, edad ni estudios.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año (ruta de postulación continua; sin vacantes ni fechas listadas en la página)
+  - Como postular: https://www.taskus.com/contact-us/for-job-seekers/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se vieron vacantes concretas ni salarios; se clasifica como abierto por la ruta continua de postulación.
+  - Aclaracion: El formulario «For job seekers» pide elegir ubicación y aceptar el aviso de privacidad; TaskUs envía por correo un enlace a un formulario web (conviene revisar la carpeta de spam).
+  - Aclaracion: La página indica que nunca se pide pago ni datos bancarios.
+- **Foundever - Empleos en México** (abierta o vigente, verificada 2 veces) https://jobs.foundever.com/
+  - Que es: Personas que buscan empleo en centros de contacto y atención a clientes; el portal tiene página de ubicaciones de México y una categoría de trabajo desde casa global.
+  - Requisitos: Sin requisitos de edad, escolaridad o experiencia visibles en el listado; la página afirma que la experiencia de vida cuenta. Los puestos marcados '(Español)' son en español; los 'Bilingual' piden un segundo idioma (no especificado, probablemente inglés). Evaluación en línea obligatoria para puestos de servicio al cliente. Revisar el requisito de cada vacante.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: En la subpágina de México: 7 vacantes publicadas del 5 al 22 de noviembre de 2026; sin fecha de cierre.
+  - Como postular: https://jobs.foundever.com/go/Mexico-Locations/9247500/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Las 7 vacantes publicadas del 5 al 22 de noviembre de 2026 se ven en la subpágina de México (/go/Mexico-Locations/9247500/), no en la URL principal.
+  - Aclaracion: La evaluación en línea es obligatoria para puestos de servicio al cliente; el currículum solo se pide si la vacante lo requiere.
+  - Aclaracion: Los puestos «Bilingual» piden un segundo idioma no especificado.
+  - Aclaracion: Se recomienda revisar el requisito de cada vacante.
+- **OneForma - Anotación, transcripción, traducción y evaluación de IA** (abierta o vigente, verificada 2 veces) https://www.oneforma.com/
+  - Que es: Personas de más de 100 países que quieran trabajar por proyecto en anotación y etiquetado de datos, recolección de datos, evaluación de resultados de IA, transcripción y traducción.
+  - Requisitos: No pide CV, título ni experiencia formal general; algunos proyectos exigen idiomas o ubicación concretos. Elegibilidad de México: sin datos (se confirma en el registro).
+  - Pago o beneficio: Gratis registrarse, sin mínimo de cobro, pago dos veces al mes; la tarifa se muestra antes de aceptar. Ejemplos vistos: 10 a 50 USD por hora según proyecto; muchos solo dicen 'pago por hora'.
+  - Plazo o ciclo: 24 proyectos abiertos al momento de la consulta; registro continuo sin fecha de cierre.
+  - Como postular: https://my.oneforma.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es trabajo independiente por proyecto, no un empleo fijo.
+  - Aclaracion: La página indica atender a más de 100 países pero no menciona México, por lo que la elegibilidad de residentes de México debe confirmarse con OneForma.
+  - Aclaracion: Algunos proyectos exigen idiomas o ubicación concretos; los proyectos de ejemplo vistos no eran específicos de México.
+  - Aclaracion: La promesa de primera asignación en 24 horas y las cifras de testimonios son afirmaciones promocionales o autodeclaradas.
+- **Preply - Tutoría de idiomas en línea** (abierta o vigente, verificada 2 veces) https://preply.com/en/teach
+  - Que es: Personas que quieran dar clases particulares en línea (por ejemplo inglés o español) a estudiantes de más de 180 países.
+  - Requisitos: No pide certificación ni experiencia docente; requiere computadora, internet estable, cámara web y micrófono, buena comunicación y dominio del idioma que se enseña (inglés, español u otros). Elegibilidad de México: sin datos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Según la página: tutores de inglés suelen cobrar 15 a 25 USD por hora de clase, menos la comisión; 'los tutores más populares' ganan hasta 550 USD por semana (cifra de la empresa, no promedio).
+  - Plazo o ciclo: Abierto todo el año; la página indica revisión de perfiles en 3 días hábiles.
+  - Como postular: https://preply.com/en/teach
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es trabajo independiente.
+  - Aclaracion: La comisión de Preply es del 100% en la clase de prueba con alumnos nuevos y luego baja de 33% a 18% según las horas impartidas; las cifras de ingresos son de la empresa, no promedios.
+  - Aclaracion: La página no aclara restricciones por país ni cómo se pagan los retiros en México; esto se confirma en el centro de ayuda.
+- **Cambly - Tutoría de inglés conversacional** (abierta o vigente, verificada 2 veces) https://www.cambly.com/english/tutors
+  - Que es: Personas que quieran conversar en inglés con estudiantes en línea, sin necesidad de ser docentes.
+  - Requisitos: La página dice que no se necesita certificado de enseñanza, licenciatura ni experiencia docente. Se asume inglés conversacional fluido; otros requisitos técnicos: sin datos. Elegibilidad de México: sin datos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Según la página: 0.17 USD por minuto (10.20 USD por hora) en Cambly; 0.20 USD por minuto (12 USD por hora) en Cambly Kids; pago semanal.
+  - Plazo o ciclo: Abierto todo el año, pero Cambly indica que limita temporalmente los registros nuevos para proteger los horarios de sus tutores, y que el procesamiento de perfiles puede tardar más de lo habitual.
+  - Como postular: https://www.cambly.com/english/tutors
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es trabajo independiente.
+  - Aclaracion: Cambly limita temporalmente los registros nuevos, por lo que la solicitud puede quedar en espera.
+  - Aclaracion: La página no menciona restricciones por país ni confirma que México sea elegible.
+- **Rev - Freelancers (transcripción, subtítulos y traducción de subtítulos)** (abierta o vigente, verificada 2 veces) https://www.rev.com/freelancers
+  - Que es: Personas con buen inglés que quieran transcribir, subtitular o traducir subtítulos de forma remota.
+  - Requisitos: Computadora, internet confiable y buen inglés (gramática, escritura y rapidez al teclear). Traducción de subtítulos: fluidez en un idioma de destino. Transcriptor legal: experiencia o familiaridad con terminología legal de EE. UU. No pide título ni experiencia previa general. Elegibilidad de México: sin datos.
+  - Pago o beneficio: Según la página: transcripción 0.40 a 1.10 USD por minuto de audio/video; subtítulos 0.54 a 1.10; traducción de subtítulos 1.70 a 4.00+ por minuto según idioma; transcripción legal 0.55 a 2.00+ por minuto.
+  - Plazo o ciclo: Se puede solicitar en cualquier momento, pero hay lista de espera por alto volumen de solicitudes; las solicitudes se procesan por orden de llegada y se avisa por correo.
+  - Como postular: https://www.rev.com/freelancers
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El proceso incluye evaluación, envío de una muestra de trabajo y espera de aprobación; las tarifas son cifras de la propia página.
+  - Aclaracion: El pago es semanal por PayPal.
+  - Aclaracion: La página no menciona restricciones por país ni si México es elegible.
+  - Aclaracion: El trabajo es principalmente en inglés; el rol de traductor de subtítulos paga más y exige otro idioma, por ejemplo español.
+- **Concentrix - Empleos (México)** (sin verificar, verificada 1 vez) https://jobs.concentrix.com/
+  - Que es: Personas que buscan trabajo en atención a clientes y servicios de soporte; el portal permite filtrar por idioma, ciudad y categoría, y México aparece como ubicación.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://jobs.concentrix.com/es/job-search/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La lista de empleos solo mostró «Loading jobs...» y no se vio ninguna vacante de México.
+  - Aclaracion: México aparece como opción en el filtro de ubicación; existe versión en español en /es/ y buscador en /es/job-search/.
+  - Aclaracion: Incluye un aviso de fraude de reclutamiento.
+- **TELUS Digital - Carreras (Experiencia del Cliente y Comunidad de IA)** (sin verificar, verificada 1 vez) https://www.telusdigital.com/careers
+  - Que es: Personas interesadas en puestos de atención a clientes (CX), soluciones digitales y la AI Community (tareas de datos e IA).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://jobs.telusdigital.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no menciona México, requisitos ni vacantes.
+  - Aclaracion: Enlaza tres rutas de postulación: Experiencia del Cliente (jobs.telusdigital.com), Soluciones Digitales (jobs2.telusdigital.com) y Comunidad de IA (búsqueda filtrada en jobs.telusdigital.com).
+  - Aclaracion: Podría ser un duplicado de la entrada del portal jobs.telusdigital.com.
+- **Appen Experts (CrowdGen) - Evaluación y datos para IA** (sin verificar, verificada 1 vez) https://appenexperts.com/
+  - Que es: Personas con conocimiento en un área (idiomas, lingüística, contabilidad, derecho, salud, software, entre otras) que quieran colaborar en proyectos de entrenamiento de IA como contratistas independientes. Appen tiene proyectos en español de México (por ejemplo evaluación de redes sociales y grabación de voz según resultados de búsqueda).
+  - Requisitos: Experiencia comprobable en un campo listado (contabilidad, derecho, medicina, lingüística, desarrollo de software, inversiones, entre otros); la mayoría de los proyectos no piden habilidades técnicas, pero sí prueba de calificación. No apto como primer empleo sin experiencia en un área. Elegibilidad por país: sin datos.
+  - Pago o beneficio: Según la página: aprox. 90 a 450 USD por hora según especialidad (no garantizado; sin datos si aplica a México)
+  - Plazo o ciclo: Registro abierto en la página, pero las asignaciones dependen de proyectos disponibles y de aprobar pruebas de calificación; no se vio fecha ni lista de vacantes.
+  - Como postular: https://appenexperts.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es trabajo independiente como contratista, no un empleo.
+  - Aclaracion: La página no indica qué países son elegibles, por lo que no se confirmó si México está incluido; esto se define en el registro o en el Help Desk.
+  - Aclaracion: Las tarifas anunciadas (entre unos 90 y 450 USD por hora) son cifras de la propia página y no están garantizadas; los pagos son mayormente en USD por transferencia, PayPal, Payoneer o Airtm.
+  - Aclaracion: La página indica que nunca se cobra por unirse.
+- **Lionbridge - Comunidad freelance (IA, traducción, localización)** (sin verificar, verificada 1 vez) https://www.lionbridge.com/join-our-community/
+  - Que es: Traductores, intérpretes, personas con experiencia en idiomas o en temas especializados, y quienes participen en proyectos de entrenamiento de IA y pruebas de localización de videojuegos. Comunidad de más de 500,000 personas en 450+ configuraciones regionales.
+  - Requisitos: No hay requisitos generales publicados; dependen de cada vacante (áreas como negocios, ingeniería, medicina, derecho, idiomas). Elegibilidad de México: sin datos.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (la página solo dice 'competitive rates', sin cifras)
+  - Plazo o ciclo: Sin convocatoria con fecha; la página remite a careers.lionbridge.com, donde se publican las vacantes vigentes. Ciclo: abierto de forma continua según el cambio de proyectos.
+  - Como postular: https://careers.lionbridge.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no describe un proceso de solicitud propio ni indica qué convocatorias están abiertas ni si México es elegible.
+  - Aclaracion: Advierte contra estafas: los reclutadores legítimos escriben desde correos @lionbridge.com, las entrevistas son solo por Microsoft Teams y nunca se pide dinero.
+  - Aclaracion: Las vacantes vigentes se publican en careers.lionbridge.com.
+- **Workana - Plataforma de freelancers de Latinoamérica** (sin verificar, verificada 1 vez) https://www.workana.com/
+  - Que es: Freelancers que ofrecen servicios por proyecto (asistencia virtual, traducción, redacción, atención al cliente, entre otros).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: No se pudo confirmar; se presume abierto de forma continua, pero no se vio la página.
+  - Como postular: https://www.workana.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El sitio no pudo leerse, por lo que no se confirmó el registro, las comisiones ni los requisitos.
+  - Aclaracion: Información no verificada directamente; se recomienda revisar el sitio manualmente.
+- **Upwork - Mercado global de freelancers** (sin verificar, verificada 1 vez) https://www.upwork.com/
+  - Que es: Freelancers que ofrecen servicios remotos (asistencia virtual, soporte, traducción, transcripción, entre otros) a clientes internacionales.
+  - Requisitos: sin datos (no se pudo leer la página; no confirmado si se pide experiencia o título)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto de forma continua (no confirmado directamente).
+  - Como postular: https://www.upwork.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El sitio no pudo leerse, por lo que no se confirmó el contenido, el registro desde México ni las comisiones.
+  - Aclaracion: Información no verificada directamente.

@@ -1,0 +1,103 @@
+# Plataformas y trabajo por demanda
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **IMSS: Seguridad Social para empresas y personas trabajadoras de plataformas digitales (página general)** (abierta o vigente, verificada 2 veces) https://www.imss.gob.mx/empresas-personas-trabajadoras-plataformas-digitales
+  - Que es: Personas trabajadoras de plataformas digitales y las empresas que las operan.
+  - Requisitos: Para personas trabajadoras: NSS, alta en UMF, datos personales correctos (nombre, fecha de nacimiento, CURP, NSS). Sin requisito de experiencia ni de estudios. Las plataformas son quienes deben inscribir a las personas trabajadoras.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica (no es empleo). Base de cotización mínima: un salario mínimo general diario de la Ciudad de México por persona trabajadora inscrita.
+  - Plazo o ciclo: Sin fecha de cierre. La prueba piloto (1 jul 2025) terminó el 31 dic 2025, pero las reglas del 24 jun 2025 siguen vigentes hasta que se emitan nuevas directrices (boletín IMSS 002/2026).
+  - Como postular: https://www.imss.gob.mx/empresas-personas-trabajadoras-plataformas-digitales
+  - Lectura automatica posible: none
+  - Aclaracion: No es una oferta de empleo: explica el régimen de seguridad social para quien trabaja con plataformas digitales (conducción y reparto).
+  - Aclaracion: La página no se ha actualizado y sigue describiendo el piloto como si estuviera en curso; el estado de 2026 consta en el boletín IMSS 002/2026, según el cual el IMSS prepara una iniciativa de reforma a la Ley del Seguro Social, sin fecha publicada.
+  - Aclaracion: Pasos para personas trabajadoras: contar con NSS, registrarse y registrar a sus beneficiarios en la UMF (con FIEL en el Escritorio Virtual o en la UMF) y corregir datos personales si hace falta; si el ingreso neto mensual por la plataforma es menor a un salario mínimo mensual de la CDMX, es posible inscribirse retroactivamente como persona trabajadora independiente.
+  - Aclaracion: Teléfono IMSS: 800 623 2323, opción 1.
+- **IMSS: obligaciones de las plataformas digitales (página para empresas)** (abierta o vigente, verificada 2 veces) https://www.imss.gob.mx/sites/all/statics/plataformas/im_digital_plataform.html
+  - Que es: Empresas de plataformas digitales; útil para saber qué debe hacer la plataforma por la persona trabajadora.
+  - Requisitos: Dirigida a empresas de plataformas digitales (registro patronal, Buzón IMSS). No hay requisitos de experiencia o estudios para personas trabajadoras en esta página.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica (no es empleo).
+  - Plazo o ciclo: Sin fecha de cierre. Las reglas siguen vigentes tras el fin del piloto (31 dic 2025) hasta nuevas directrices, según el boletín IMSS 002/2026.
+  - Como postular: https://www.imss.gob.mx/empresas-personas-trabajadoras-plataformas-digitales
+  - Lectura automatica posible: none
+  - Aclaracion: Está dirigida a empresas, no a quienes buscan trabajo; sirve solo como referencia de derechos.
+  - Aclaracion: No menciona 2026 y dice que las reglas no son la versión final.
+  - Aclaracion: Obligaciones de la plataforma: registro patronal (NRP) en Escritorio Virtual, Buzón IMSS, alta de las personas trabajadoras desde el inicio de la actividad con base mínima de un salario mínimo diario de la CDMX, ajustes salariales en IDSE los días 1 a 5 del mes siguiente, propuesta de pago del IMSS el día 10 y pago el día 17.
+  - Aclaracion: La página para personas trabajadoras es https://www.imss.gob.mx/sites/all/statics/plataformas/im_worker.html.
+- **Uber: requisitos para conducir (socio conductor, de flotilla y flotillero) en México** (abierta o vigente, verificada 2 veces) https://www.uber.com/mx/es/drive/requirements/
+  - Que es: Personas que quieran conducir con la app de Uber en México con vehículo propio, en vehículo de flotilla o administrando vehículos.
+  - Requisitos: Mayor de 18 años; foto de perfil; antecedentes verificados; licencia de conducir. Según perfil: identificación oficial (INE/IFE), cuenta bancaria, vehículo registrado, RFC con código postal y régimen fiscal. No se pide experiencia previa ni estudios.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no indica ganancias; Uber cobra una comisión por viaje no mostrada aquí)
+  - Plazo o ciclo: abierto todo el año (registro continuo, sin fecha límite visible)
+  - Como postular: https://drivers.uber.com
+  - Lectura automatica posible: none
+  - Aclaracion: Hay tres perfiles (socio conductor independiente, de flotilla y flotillero) con requisitos distintos.
+  - Aclaracion: Quien tenga RFC dispone de 30 días tras el primer viaje para cargar e.firma (FIEL) y Certificado de Sello Digital (CSD); sin ellos no puede facturar.
+  - Aclaracion: Los requisitos del vehículo varían según la ciudad.
+  - Aclaracion: El perfil independiente exige RFC y licencia; el de flotilla solo pide licencia.
+- **Uber: empieza a conducir o a repartir en México (página principal)** (abierta o vigente, verificada 2 veces) https://www.uber.com/mx/es/drive/
+  - Que es: Cualquier persona que cumpla los requisitos para conducir o hacer entregas con Uber.
+  - Requisitos: Ver la página de requisitos: mayor de 18 años, licencia de conducir y verificación de antecedentes; según perfil, vehículo, cuenta bancaria y RFC. Sin experiencia previa requerida.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no se vieron cifras)
+  - Plazo o ciclo: abierto todo el año (botón "Regístrate para conducir" disponible)
+  - Como postular: https://drivers.uber.com
+  - Lectura automatica posible: none
+  - Aclaracion: La página no muestra cifras de ganancias ni requisitos; enlaza a las páginas "Ganancias" y "Requisitos".
+  - Aclaracion: La lista de ciudades (Ciudad de México, Guadalajara, Tijuana, León de los Aldama, Puebla, Monterrey, Cancún, Mérida, Santiago de Querétaro y Morelia) puede estar incompleta.
+  - Aclaracion: El registro se hace en drivers.uber.com.
+- **inDrive México: conductores (viajes, entregas, fletes y flotas)** (abierta o vigente, verificada 2 veces) https://indrive.com/es-mx/driver
+  - Que es: Conductores que quieran ofrecer viajes con precio negociado con el pasajero.
+  - Requisitos: Mayor de 18 años, licencia de conducir vigente, tarjeta de circulación del vehículo. Sin experiencia previa ni estudios mencionados.
+  - Pago o beneficio: sin datos (la página no indica comisiones ni ingresos)
+  - Plazo o ciclo: abierto todo el año (registro desde la app)
+  - Como postular: https://indrive.com/es-mx/help/drivers/how-to-become-a-driver
+  - Lectura automatica posible: none
+  - Aclaracion: Los requisitos pueden variar según la ubicación.
+  - Aclaracion: El registro se hace en la app (Modo conductor, "Registro en línea"): se suben fotos de documentos y datos personales, y el equipo de inDrive debe aprobar la solicitud.
+  - Aclaracion: La página principal no describe requisitos ni comisiones.
+- **inDrive México: servicios que se pueden ofrecer (ciudad, entre ciudades, entregas, fletes, flotas)** (abierta o vigente, verificada 2 veces) https://indrive.com/es-mx/earn-services
+  - Que es: Conductores y propietarios de flotas que quieran ofrecer viajes urbanos, interurbanos, entregas, fletes o flotas.
+  - Requisitos: No indicados en esta página. Según el artículo de ayuda: mayor de 18 años, licencia vigente y tarjeta de circulación.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: https://indrive.com/es-mx/help/drivers/how-to-become-a-driver
+  - Lectura automatica posible: none
+  - Aclaracion: Es una página de apoyo: no describe registro ni requisitos; el trámite está en el artículo de ayuda https://indrive.com/es-mx/help/drivers/how-to-become-a-driver.
+  - Aclaracion: Los viajes en la ciudad se anuncian sin tarifas dinámicas.
+- **inDrive México: ayuda para conductores (requisitos y registro, cargos, ingresos)** (abierta o vigente, verificada 2 veces) https://indrive.com/es-mx/help/drivers
+  - Que es: Conductores interesados en registrarse.
+  - Requisitos: Mayor de 18 años, licencia de conducir vigente y tarjeta de circulación; la verificación de conductor y vehículo puede incluir foto. Sin experiencia ni estudios requeridos.
+  - Pago o beneficio: sin datos (cargos e ingresos no abiertos)
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: https://indrive.com/es-mx/help/drivers/how-to-become-a-driver
+  - Lectura automatica posible: none
+  - Aclaracion: La página es solo un índice de artículos del centro de ayuda; el contenido de fondo está en el artículo sobre cómo convertirse en conductor.
+  - Aclaracion: Los cargos por servicio e ingresos de quien conduce no se detallan en el índice.
+- **DiDi México: repartidores DiDi Food** (abierta o vigente, verificada 2 veces) https://web.didiglobal.com/mx/food/repartidores/
+  - Que es: Personas que quieran repartir con DiDi Food en México.
+  - Requisitos: Identificación oficial vigente con CURP y selfie para bicicleta; para moto o auto además licencia vigente, tarjeta de circulación vigente (no de servicio público) y seguro con responsabilidad civil. Edad mínima no confirmada en la página vigente (18 años en artículo de 2023). No se pide experiencia ni estudios.
+  - Pago o beneficio: sin datos (no se vieron cifras en fuente oficial)
+  - Plazo o ciclo: abierto todo el año (registro desde la app DiDi Repartidor; activación según la demanda de la zona)
+  - Como postular: https://web.didiglobal.com/mx/food/repartidores/
+  - Lectura automatica posible: none
+  - Aclaracion: La URL original es una portada casi vacía; la página de requisitos es https://web.didiglobal.com/mx/food/repartidores/.
+  - Aclaracion: En bicicleta o bicicleta eléctrica se puede empezar sin licencia ni seguro; en moto o auto se piden además licencia, tarjeta de circulación que no sea de servicio público y seguro con responsabilidad civil.
+  - Aclaracion: La página vigente no indica edad mínima; un artículo de DiDi de 2023 dice más de 18 años y pide RFC con homoclave, y un sitio de terceros dice 21 años, dato no confirmado por DiDi.
+  - Aclaracion: Una nota de prensa de 2025 indica que DiDi no ofrece prestaciones como seguro social, dato no confirmado en fuente oficial.
+- **IMSS: Seguridad Social para personas trabajadoras de plataformas digitales (página para personas trabajadoras)** (sin verificar, verificada 1 vez) https://www.imss.gob.mx/sites/all/statics/plataformas/im_worker.html
+  - Que es: Personas que prestan servicios a terceros mediante una app o plataforma, como choferes y repartidores: entrega de comida o productos, transporte de personas, envíos o mensajería y otros servicios con presencia física.
+  - Requisitos: NSS y CURP correctos; trabajar a través de una plataforma digital; FIEL solo para el trámite en línea.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica; es afiliación al IMSS
+  - Plazo o ciclo: Prueba piloto iniciada el 1 de julio de 2025; la página no indica fecha de término ni menciona 2026; continuidad en 2026 no confirmada (la búsqueda de verificación no pudo realizarse por límite de consultas)
+  - Como postular: https://www.imss.gob.mx/sites/all/statics/plataformas/im_worker.html
+  - Lectura automatica posible: none
+  - Aclaracion: Es una vía de afiliación a la seguridad social, no una oferta de empleo.
+  - Aclaracion: Pasos: obtener NSS, que la plataforma dé de alta a la persona, registrarse en la UMF (en línea con FIEL por Escritorio Virtual o en ventanilla) y corregir datos si hace falta.
+  - Aclaracion: Quien percibe en el mes menos de un salario mínimo mensual de la Ciudad de México netos por la plataforma se considera trabajador independiente y paga en la oficina receptora.
+  - Aclaracion: La página no indica fecha de término de la prueba piloto ni menciona 2026.

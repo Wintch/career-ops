@@ -1,0 +1,69 @@
+# Plataformas y trabajo por demanda
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Yummy Rides - ficha en App Store (modo Conductor)** (abierta o vigente, verificada 2 veces) https://apps.apple.com/app/id1577004455
+  - Que es: Personas con carro o moto que quieran trabajar como conductores; también ofrece entrega de paquetes y comida (Yummy Delivery).
+  - Requisitos: Teléfono con iOS 16.6 o superior (iPhone) o Android equivalente; requisitos de licencia, vehículo y edad: sin datos, se validan en la app. No se indica que se pida experiencia previa.
+  - Pago o beneficio: sin datos (la ficha no indica pago; una nota de 2021 citó a un conductor con hasta 500 USD semanales, dato anecdótico y antiguo)
+  - Plazo o ciclo: Abierto todo el año: la ficha indica seleccionar el modo Conductor y aplicar desde la app. Versión 4.13.1 publicada hace 2 días según la ficha (sin fecha de calendario).
+  - Como postular: Dentro de la app Yummy Rides: modo Conductor > aplicar
+  - Lectura automatica posible: none
+  - Aclaracion: Según prensa (DPL News 2023 y Bloomberg Línea 2021), la empresa evalúa conductores con pruebas psicotécnicas y entrevistas, y en 2021 solo una parte de los postulantes pasó el filtro.
+  - Aclaracion: Reportes de agosto de 2026 indican que el INTT exige nuevas obligaciones a las plataformas (certificado de aptitud para conducción comercial, seguros, inspección de motos), por lo que los requisitos para repartidores pueden cambiar.
+  - Aclaracion: Conviene desconfiar de quien cobre dinero por «activar» un cupo de conductor fuera de la app oficial.
+- **Zinli - preguntas frecuentes (cuenta para recibir pagos en dólares)** (abierta o vigente, verificada 2 veces) https://zinli.com/preguntas-frecuentes
+  - Que es: Venezolanos que cobran de clientes o plataformas del exterior y necesitan una cuenta digital en dólares.
+  - Requisitos: Correo electrónico, documento de identidad vigente (cédula venezolana o pasaporte), validación de teléfono; menores de 12 a 17 años con aprobación del representante. No requiere experiencia ni título.
+  - Pago o beneficio: No aplica (servicio de pagos; comisiones descritas en notas)
+  - Plazo o ciclo: Sin fechas; registro continuo desde la app.
+  - Como postular: Desde la app Zinli (iOS 12.3 o superior; Android 5 o superior; mínimo 4 GB de RAM según la FAQ)
+  - Lectura automatica posible: none
+  - Aclaracion: No es una fuente de empleo sino una billetera digital para cobrar trabajos remotos o por plataformas; se rige por las normas de cumplimiento de Panamá, hay países no elegibles, se permite una sola billetera por persona y la página no aclara que el servicio esté libre de bloqueos.
+  - Aclaracion: Costos indicados: tarjeta Visa 0,99 USD al mes; recarga con tarjeta 3,75 %; envío de dólares a tarjetas 2,5 % (mínimo 2 USD); retiro en cajero 1,50 USD si es menos de 30 USD, o 5 % si es más.
+  - Aclaracion: El límite mensual de recepción es de 500 USD con cédula y 1.000 USD con pasaporte, y los límites superiores requieren una suscripción disponible solo con cédula o pasaporte panameños.
+  - Aclaracion: Como regla general, nunca se debe compartir el PIN ni los códigos de verificación, ni pagar a terceros por «abrir» o «desbloquear» la cuenta.
+- **Freelancer.com - tarifas y retiros** (abierta o vigente, verificada 2 veces) https://www.freelancer.com/feesandcharges
+  - Que es: Personas que ofrecen servicios por proyecto o por hora (diseño, programación, redacción, etc.). Disponibilidad específica para Venezuela no verificada: la página no menciona el país.
+  - Requisitos: Cuenta propia con perfil; saldo mínimo de 20 USD para ofertar; no se pide experiencia ni título en la página, aunque la competencia es alta. Requisitos de edad y verificación de identidad: sin datos.
+  - Pago o beneficio: Variable por proyecto, menos comisión de 10% (15% en programa preferido); retiro mínimo 50 USD
+  - Plazo o ciclo: Sin fechas; plataforma continua.
+  - Como postular: https://www.freelancer.com (crear cuenta y publicar perfil)
+  - Lectura automatica posible: none
+  - Aclaracion: La comisión al freelancer es de 10 % o 5 USD (lo que sea mayor) en proyectos de precio fijo y concursos, 10 % de cada pago en proyectos por hora y 15 % en el Programa de Freelancer Preferido.
+  - Aclaracion: Los retiros por Express, PayPal, Skrill y tarjeta Payoneer cuestan 1 USD, la transferencia internacional 25 USD y el depósito bancario local es gratis; el retiro mínimo es de 50 USD después de comisiones.
+  - Aclaracion: La página no menciona Venezuela ni restricciones por país, por lo que no se confirma la disponibilidad de cada método de retiro para residentes en Venezuela.
+  - Aclaracion: Advertencia general: desconfiar de «clientes» que piden pagar por adelantado, mover la conversación fuera de la plataforma o enviar cheques.
+- **Finanzas Digital - nuevas obligaciones del INTT para plataformas de delivery** (sin verificar, verificada 1 vez) sin datos (no se localizó la resolución en el sitio del INTT)
+  - Que es: Repartidores y empresas de delivery por plataforma que usan moto, propia o alquilada. Sirve para entender qué cambia para quien trabaja con apps como Yummy o Ridery.
+  - Requisitos: Para repartidores de plataformas, según la nota: certificado de aptitud de conducción comercial y capacitación en normas de tránsito. Sin experiencia mínima mencionada.
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: Nota del 21 de agosto de 2026. No indica fecha límite de cumplimiento; solo menciona renovación anual del permiso de operación de cada empresa.
+  - Como postular: No aplica
+  - Lectura automatica posible: none
+  - Aclaracion: Se trata de una nota periodística de contexto, no de una oferta de empleo.
+  - Aclaracion: Según la nota, las plataformas deben contar con autorización del INTT (aunque los repartidores usen vehículo propio o alquilado), inscribirse en el Registro Nacional del INTT, tener una escuela de conducción regulada que emita los certificados y mantener pólizas de responsabilidad civil y seguro médico.
+  - Aclaracion: Según la nota, las motos deben pasar inspecciones técnicas periódicas.
+  - Aclaracion: Lo indicado no se verificó en una fuente oficial del INTT, por lo que conviene contrastarlo antes de actuar.
+- **Descubre - Venezuela exige nuevas regulaciones y seguros a Ridery y Yummy** (sin verificar, verificada 1 vez) sin datos
+  - Que es: Repartidores y conductores de apps de reparto y movilidad; contexto regulatorio.
+  - Requisitos: No se listan requisitos para repartidores individuales.
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: Fecha en la URL: 2026-08-19; la página dice 'hace 3 meses'. Sin fecha de entrada en vigor.
+  - Como postular: No aplica
+  - Lectura automatica posible: none
+  - Aclaracion: Es contexto normativo, no una ruta de postulación.
+  - Aclaracion: Según la página, el INTT exige a las plataformas asumir responsabilidad legal por sus repartidores, inscribirse en el Registro Nacional, operar escuelas de conducción certificadas y garantizar pólizas de responsabilidad civil y seguro médico.
+  - Aclaracion: No se listan requisitos para repartidores individuales ni plazos, y la información no se contrastó con una fuente oficial del INTT.
+- **Workana - plataforma de freelancers de habla hispana** (sin verificar, verificada 1 vez) https://help.workana.com/hc/es/articles/360040846094--Cu%C3%A1nto-cuesta-usar-Workana
+  - Que es: Freelancers que ofrecen servicios en español y portugués. Uno de los destinos mencionados como punto de partida para venezolanos; no verificado.
+  - Requisitos: Crear perfil gratuito y esperar su aprobación (según resultado de búsqueda). Sin requisito de experiencia ni título confirmado. Restricciones por país de residencia: sin datos.
+  - Pago o beneficio: Variable por proyecto; comisión al freelancer reportada entre 5 % y 20 % según lo facturado con cada cliente (no confirmado en página oficial)
+  - Plazo o ciclo: abierto todo el año (según resultado de búsqueda; no confirmado en la página oficial)
+  - Como postular: https://www.workana.com/es
+  - Lectura automatica posible: none
+  - Aclaracion: La información de comisiones proviene de resultados de búsqueda y fuentes secundarias, sin confirmar en la página oficial: se cobra solo cuando hay contratación y sería escalonada (20 % hasta USD 300 con un mismo cliente, 10 % entre USD 300 y 3.000, 5 % por encima), con cifras sujetas a cambio.
+  - Aclaracion: Existen planes de membresía opcionales de pago para postular a más proyectos por semana.
+  - Aclaracion: No se confirmó si hay restricciones para residentes en Venezuela ni cuáles son los métodos de retiro disponibles.
+  - Aclaracion: Precaución general: no pagar por acceder a proyectos ni aceptar pagos o conversaciones fuera de la plataforma.

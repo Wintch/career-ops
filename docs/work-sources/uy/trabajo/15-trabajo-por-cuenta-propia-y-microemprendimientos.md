@@ -1,0 +1,125 @@
+# Trabajo por cuenta propia y microemprendimientos
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **DGI - Monotributo (régimen simplificado para pequeñas actividades por cuenta propia)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/direccion-general-impositiva/comunicacion/publicaciones/monotributo
+  - Que es: Empresas unipersonales (hasta un dependiente) y sociedades de hecho pequeñas; la Ley 20.396 art. 18 lo habilita para autónomos de plataformas.
+  - Requisitos: Empresa unipersonal con hasta un empleado (incluido cónyuge o concubino que colabore), o sociedad de hecho de hasta 2 socios sin empleados (hasta 3 si son parientes cercanos). Ingresos anuales hasta 183.000 UI (unipersonal) o 305.000 UI (sociedad); activos por debajo de 152.500 UI; una sola actividad; ventas a consumidores finales con excepciones; sin local en grandes centros comerciales. No se exige experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es un empleo; el titular paga una cuota mensual única al BPS (monto: sin datos, ver BPS)
+  - Plazo o ciclo: Permanente (abierto todo el año)
+  - Como postular: sin datos (la página remite a las guías de inscripción de unipersonal y de sociedad de hecho dentro de gub.uy, no cargadas)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no describe los pasos de inscripción: enlaza a guías separadas para empresa unipersonal y para sociedad de hecho.
+  - Aclaracion: Los montos vigentes de la cuota están en el sitio del BPS.
+  - Aclaracion: Los límites de ingresos en UI se actualizan, por lo que deben revisarse en el sitio oficial.
+  - Aclaracion: Consultas en la sede de la DGI, Av. Daniel Fernández Crespo 1534, Montevideo, teléfono (2) 1344.
+- **MIDES - Programa de Emprendimientos Productivos** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-desarrollo-social/politicas-y-gestion/programa-emprendimientos-productivos
+  - Que es: Emprendimientos individuales o colectivos, en funcionamiento o en gestación, liderados por personas mayores de 18 años en situación de vulnerabilidad socioeconómica o pobreza. Cobertura nacional.
+  - Requisitos: Mayor de 18 años; situación de vulnerabilidad socioeconómica o pobreza; residente (nacional o extranjero); cédula de identidad. Sirve para emprendimientos individuales o colectivos, en funcionamiento o en etapa de gestación.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No paga salario. Ofrece orientación y capacitación, acceso a crédito productivo, al Monotributo Social MIDES y a ferias y espacios de comercialización.
+  - Plazo o ciclo: Abierto todo el año, por inscripción o derivación.
+  - Como postular: https://www.gub.uy/ministerio-desarrollo-social/politicas-y-gestion/programa-emprendimientos-productivos
+  - Lectura automatica posible: ninguno
+  - Aclaracion: Se accede por inscripción o derivación desde otros programas o desde las Oficinas Territoriales del MIDES.
+  - Aclaracion: La página no dice expresamente que esté abierto todo el año ni fija plazos, y no muestra formulario propio.
+  - Aclaracion: Consultas: 18 de Julio 1453, Montevideo, tel. 2400 0302.
+- **MIDES - Monotributo Social MIDES (formalización de pequeños emprendimientos)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-desarrollo-social/monotributo-social
+  - Que es: Pequeños emprendimientos productivos o de servicios que quieren formalizarse ante BPS y DGI con un tributo único (Ley 18.874, Decreto 220/2012).
+  - Requisitos: Los criterios completos están en un folleto informativo que no se leyó. Para empezar: formulario de registro en línea (cédula, correo, carné de salud, que no se exige si está vigente); luego, en una Oficina Territorial del MIDES, cédula e ingresos de todos los integrantes del hogar.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No paga salario. Es una prestación tributaria unificada para formalizar un pequeño emprendimiento. El costo no figura en la página. Se menciona además un llamado nacional por 1.110 créditos subsidiados para monotributistas sociales, sin fecha vista.
+  - Plazo o ciclo: Trámite abierto todo el año.
+  - Como postular: https://www.gub.uy/ministerio-desarrollo-social/monotributo-social
+  - Lectura automatica posible: ninguno
+  - Aclaracion: Los criterios completos de elegibilidad están en un folleto informativo que no pudo leerse, y el costo no figura en la página.
+  - Aclaracion: El trámite consta de formulario en línea, visita a una Oficina Territorial, recepción de usuario y contraseña por correo e inscripción en DGI y BPS, que puede hacerse en línea.
+  - Aclaracion: La página no dice expresamente que esté abierto todo el año, pero no fija cierre.
+  - Aclaracion: Consultas: tel. 2400 0302.
+- **IVA mínimo, régimen de pequeña empresa (DGI)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/direccion-general-impositiva/comunicacion/publicaciones/regimen-iva-minimo-pequena-empresa
+  - Que es: Pequeños contribuyentes con actividad comercial o industrial que combine capital y trabajo, sin límite de empleados ni de tipo de cliente. Incluye a feriantes no agropecuarios que venden solo en ferias en la vía pública.
+  - Requisitos: Contribuyentes de cualquier forma jurídica cuya actividad combine capital y trabajo (venta de productos, o servicios con herramientas, materiales o maquinaria propios, o con personal contratado) con ingresos anuales menores a 305.000 UI. Quedan excluidos fleteros profesionales, ópticas, negocios que solo venden libros, ingresos agropecuarios, quienes optaron por IRAE y quienes tienen ingresos no empresariales. Debe emitir facturas. Sin requisito de experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Cuota mensual fija de $5.910 en 2026 (Dto. 310/025), con valores reducidos de $1.478 (25 %) y $2.955 (50 %). Quienes facturan solo con e-factura pagan el menor entre el 3,3 % de los ingresos del mes y el monto que corresponda a su fecha de inicio. Es un monto a pagar, no un ingreso.
+  - Plazo o ciclo: Régimen permanente; el tope se calcula con la UI al 1 de enero de cada año. La página no informa fechas de ajuste de la cuota.
+  - Como postular: https://www.gub.uy/direccion-general-impositiva/comunicacion/publicaciones/inscripcion-empresa-unipersonal-0
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página inicial es de navegación y no trae cifras; los datos surgen de las subpáginas oficiales del régimen y de los valores vigentes.
+  - Aclaracion: La inscripción como sociedad de hecho tiene su propia página, y existe una comparación oficial entre IVA mínimo y Monotributo.
+  - Aclaracion: La página del régimen indica que el tope de ingresos se mide con la cotización de la UI vigente al 1 de enero; el ajuste anual de la cuota figura en una publicación vinculada y no se confirmó en la página del régimen.
+  - Aclaracion: La página del régimen lleva fecha de 03/10/2023 y no muestra el monto de la cuota, que consta en otra publicación.
+- **Inscripción de empresa unipersonal con Monotributo (trámite DGI y BPS)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/tramites/inscripcion-empresa-unipersonal-monotributo
+  - Que es: Cualquier persona que cumpla las condiciones del Monotributo y quiera registrarse como contribuyente antes de empezar a trabajar por cuenta propia.
+  - Requisitos: Formulario 0351 firmado por el titular (con domicilio fiscal completo); formulario 0354 si hay más de un local; documento de identidad (si lo presenta un tercero, su documento y copia del documento del titular); comprobante de pago de multa si es tardío; petitorio con pruebas si la fecha de inicio declarada es anterior a más de 90 días. En línea se necesita usuario BPS, cuenta gub.uy de nivel intermedio verificado (o cédula digital, Abitab, TuID) y domicilio electrónico en BPS. En persona: agenda previa en DGI, formularios en 3 copias (al menos 2 originales). Sin requisito de experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Timbre profesional de $270 en 2026. En el trámite en línea no se adjunta timbre: el monto se agrega a la próxima factura de BPS. Multa de DGI si se presenta fuera de plazo.
+  - Plazo o ciclo: Abierto todo el año. En línea: dentro del mes de inicio de actividad (si empieza el mes siguiente, desde el día 25 del mes en curso, hasta 10 días antes del inicio). En persona (solo Montevideo): dentro de los 10 días previos al inicio, hasta la fecha de inicio. Fuera de plazo hay multa.
+  - Como postular: https://www.gub.uy/tramites/inscripcion-empresa-unipersonal-monotributo
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La presentación en persona solo es posible en Montevideo, con agenda previa; quienes viven en el interior del país solo pueden inscribirse en línea.
+  - Aclaracion: En Montevideo no hay presentación tardía en línea; fuera de plazo hay multa.
+  - Aclaracion: Es un trámite de formalización, no un servicio de empleo.
+- **República Microfinanzas, microcréditos** (abierta o vigente, verificada 2 veces) https://www.republicamicrofinanzas.com.uy
+  - Que es: Emprendedores informales, microempresas (monotributistas, Monotributo MIDES, Literal E y régimen general) y profesionales independientes. Atiende también las líneas subsidiadas por ANDE y las del Monotributo Social.
+  - Requisitos: La página principal distingue tres perfiles: emprendimientos informales (sin documentación de ingresos), microempresas (monotributistas, Monotributo MIDES, literal E y régimen general) y profesionales independientes. Los requisitos detallados están en las páginas de cada actividad, no vistas. Productos listados: créditos para empresas, descuento de cheques, Crédito Activa Turismo, créditos con subsidio ANDE (Agricultura Familiar Sustentable, Centro PYMES, Impacto Ambiental, Adecuación tecnológica, Check RUNAEV, Audiovisual) y crédito con subsidio INAC para carnicerías. No exige experiencia laboral previa en general, pero sí una actividad o proyecto.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Crédito, no pago. Montos, plazos y tasas no figuran en la página principal (se indican en las páginas por actividad y en las 'Cartillas de productos').
+  - Plazo o ciclo: Abierto todo el año (solicitud mediante formulario en línea, teléfono o sucursales).
+  - Como postular: https://www.republicamicrofinanzas.com.uy
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Es una institución supervisada por el Banco Central del Uruguay y no autorizada a recibir depósitos.
+  - Aclaracion: Los requisitos, montos, plazos y tasas constan en las páginas por actividad y en las cartillas de productos, no en la página principal.
+  - Aclaracion: Se mencionan campañas estacionales (aguinaldo y zafra) sin plazos.
+- **BROU, paquete Emprendedor y Crédito Express** (abierta o vigente, verificada 2 veces) https://www.brou.com.uy/clientes-empresa/pymes-y-profesionales
+  - Que es: Profesionales, emprendedores y pymes que necesiten cuenta, crédito y medios de cobro para su actividad.
+  - Requisitos: Para el paquete de emprendedores: constancia de empresa registrada en BPS-DGI para servicios personales (unipersonal o SAS), residencia y cédula de identidad vigente. Para Crédito Express no se vieron requisitos. Operar con el banco exige cumplir los 'Requisitos para operar con el banco'. Sin requisito de experiencia visto.
+  - Pago o beneficio: Paquete para emprendedores: microcuenta en pesos sin montos mínimos ni costos fijos y tarjeta de débito Mastercard empresarial sin costos fijos. Crédito Express: crédito 'a sola firma'; montos y tasas no figuran en lo visto.
+  - Plazo o ciclo: Abierto todo el año.
+  - Como postular: https://www.brou.com.uy/clientes-empresa/pymes-y-profesionales
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La oferta para emprendedores figura como "Emprendedores" (microcuenta, tarjeta de débito y eBROU), no como "Paquete Emprendedor"; es una cuenta con servicios bancarios, no un crédito.
+  - Aclaracion: Crédito Express tiene página propia, con montos y tasas no visibles en la página general.
+  - Aclaracion: Las empresas unipersonales pueden contactar por WhatsApp al 2 1996 000; las demás sociedades agendan en "Hacete Cliente al 23/11/2026".
+- **INACOOP, financiamiento para cooperativas (FRECOOP y Fondo de Desarrollo)** (abierta o vigente, verificada 2 veces) https://www.inacoop.org.uy/financiamiento
+  - Que es: Cooperativas de cualquier clase y grado (Ley 18.407) y organizaciones de la economía social y solidaria que necesiten financiar inversiones o capital de trabajo.
+  - Requisitos: Solo cooperativas y organizaciones de la economía social y solidaria (cualquier clase y grado, Ley 18.407). Debe ser un proyecto de inversión que apoye la viabilidad y desarrollo de la cooperativa. INACOOP puede pedir documentos o garantías adicionales. No es para personas individuales sin cooperativa.
+  - Pago o beneficio: Crédito para cooperativas (capital de trabajo, innovación, adecuación tecnológica, infraestructura, intercooperación, proyectos productivos de mediano y largo plazo). Montos y tasas no figuran en lo visto; hay simulador de crédito en la página de FRECOOP. Los préstamos buscan recuperar el capital con tasa que cubra al menos costos administrativos, depreciación y riesgo.
+  - Plazo o ciclo: Sin fecha de cierre en ninguna de las páginas. FRECOOP: el Directorio se expide en un plazo aproximado de 15 días tras recibir toda la documentación. Fondo de Desarrollo: documentación (anexos, balances de tres ejercicios, certificados, etc.) por Cooperbit, sin plazo de evaluación informado.
+  - Como postular: https://www.inacoop.org.uy/frecoop
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Los trámites de FRECOOP se hacen por la plataforma "Inacoop en línea" y los del Fondo de Desarrollo por Cooperbit.
+  - Aclaracion: El plazo aproximado de 15 días figura solo en la página de FRECOOP y corresponde a la evaluación del Directorio de INACOOP; la página del Fondo de Desarrollo no informa plazo.
+  - Aclaracion: No se pudo confirmar cuáles líneas de crédito están activas al 23/11/2026.
+  - Aclaracion: Contacto: financiamiento@inacoop.org.uy o 2916 51 42, interno 119.
+- **INACOOP - Llamados y convocatorias; PROCOOP (formación) e Incubacoop** (sin verificar, verificada 1 vez) https://www.inacoop.org.uy/llamados-convocatorias
+  - Que es: Cooperativas y organizaciones de la economía social y solidaria (y personas que quieren formar una). INACOOP ofrece asesoramiento, formación y asistencia técnica, financiamiento y el programa PROCOOP de capacitación, hecho con INEFOP y CUDECOOP (https://www.inacoop.org.uy/procoop).
+  - Requisitos: Los llamados vistos se dirigen a cooperativas, organizaciones de la economía social y entidades de capacitación o consultores, no a personas que buscan empleo. Los requisitos están en las bases de cada llamado, que no se leyeron.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: No se confirmó un ciclo anual. Vistos: llamado Procoop a entidades de capacitación y consultores con cierres el 11/11/2026 y el 25/11/2026; régimen de regularización de declaraciones juradas abierto hasta el 28/02/2027.
+  - Como postular: Ver la página de llamados y convocatorias de INACOOP; consultas: contacto@inacoop.org.uy, (+598) 2916 51 42 o 0800 1900, Sarandí 302, Montevideo, lunes a viernes de 9 a 17.
+  - Lectura automatica posible: ninguno
+  - Aclaracion: Los llamados vistos se dirigen a organizaciones, entidades de capacitación y consultores, no a personas que buscan empleo; es útil sobre todo para quien integra o forma una cooperativa.
+  - Aclaracion: PROCOOP existe desde 2017 (INACOOP, INEFOP y CUDECOOP) y no muestra plazo de postulación.
+  - Aclaracion: No se confirmaron el llamado de inversión de cooperativas 2026 (cierre 05/08/2026) ni Incubacoop 2026.
+- **ANII, Validación de ideas de negocios** (sin verificar, verificada 1 vez) https://anii.org.uy/apoyos/emprendimientos/51/validacion-de-ideas-de-negocios
+  - Que es: Emprendedores en etapa temprana que quieran validar una idea técnica o comercial con experimentos y un producto mínimo viable.
+  - Requisitos: Hay que presentarse a través de una IPE VIN (institución patrocinante) de la lista del sitio de ANDE, que ayuda a armar y presentar el proyecto. Los proyectos financiados deben mostrar los logos de ANII y ANDE. Curso en línea gratuito optativo sobre validación de ideas en uruguayemprendedor.uy. Sin requisito de experiencia explícito.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Financiamiento no reembolsable de hasta $U 200.000 para ejecutar el plan de validación (experimentos, producto mínimo viable y prueba con el mercado). Acompañamiento de una institución patrocinante (IPE VIN) y asesoría técnica de un experto.
+  - Plazo o ciclo: sin datos. La página no indica si hay convocatoria abierta ni fechas (enlaza bases 2026). No se vio la leyenda de postulación permanente.
+  - Como postular: https://portal.ande.org.uy
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: No se confirmó la fecha de cierre ni que la postulación sea permanente; conviene consultar el calendario de ANII o el portal de ANDE.
+  - Aclaracion: Se postula por el enlace "Postular", que lleva a portal.ande.org.uy.
+  - Aclaracion: Se ejecuta junto con ANDE y la página enlaza las bases 2026 y los criterios de evaluación.
+- **Ferias alimentarias de Montevideo (Intendencia de Montevideo)** (sin verificar, verificada 1 vez) https://montevideo.gub.uy/tipo/area-tematica/salud-y-alimentacion/alimentacion/ferias-alimentarias
+  - Que es: Personas que quieran vender en ferias vecinales de Montevideo. La página describe las ferias por municipio (A, B, C, CH, D, E, F y G).
+  - Requisitos: sin datos (no se vio ningún requisito ni trámite de postulación)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página no describe ningún proceso para postularse como feriante ni indica requisitos, plazos o formularios, por lo que no corresponde presentarla como vía de postulación.
+  - Aclaracion: Para consultas ofrece el Buzón Ciudadano, el teléfono 1950 (lunes a viernes de 8:00 a 19:00, sábados de 9:00 a 13:00), WhatsApp 099 019500 y la sede en Av. 18 de Julio 1360.

@@ -1,0 +1,99 @@
+# Grupo 35: Técnicos de tecnologia da informação e comunicação
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Vagas.com - vagas de suporte técnico (CLT, todo o Brasil)** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-suporte-tecnico
+  - O que é: Candidatos a técnico ou analista de suporte de TI, inclusive em nível júnior e trainee. Também há vagas reservadas a pessoas com deficiência.
+  - Requisitos: Varia por anúncio: de formação técnica ou cursando TI/Redes a experiência em suporte presencial/remoto. Não há regra única sobre experiência.
+  - Pagamento ou benefício: Salário não aparece nos anúncios vistos; a página cita apenas mediana nacional de R$ 1.639,00 para Suporte Técnico
+  - Prazo ou ciclo: Contínuo: em 2026-11-23 a página mostrava 338 vagas, com datas de publicação até 13/11/2026 e rótulos relativos como 'Há 5 dias'; cada anúncio tem seu próprio prazo.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-suporte-tecnico
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O quadro reúne anúncios de vários empregadores em diversas cidades, e há anúncio exclusivo para pessoas com deficiência.
+  - Esclarecimento: Os filtros indicam 295 das 338 vagas como CLT.
+  - Esclarecimento: A disponibilidade individual de cada anúncio não foi confirmada, e a exigência de experiência varia por vaga.
+- **Vagas.com - vagas de técnico de TI** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-tecnico-de-ti
+  - O que é: Candidatos a técnico de informática, laboratorista de informática e consultor técnico júnior de TI.
+  - Requisitos: Varia por anúncio: curso técnico ou superior em TI em várias vagas; alguns pedem 2 a 3 anos de experiência (ex.: Civil Master), enquanto o estágio pede estar cursando ou ter concluído formação técnica/superior. A candidatura exige cadastro gratuito no site.
+  - Pagamento ou benefício: sem dados; nenhum salário nos anúncios vistos
+  - Prazo ou ciclo: Contínuo: a página mostrava anúncios com datas de publicação até 12/11/2026 e rótulos como 'Há 6 dias'; cada anúncio tem seu próprio prazo.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-tecnico-de-ti
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O cabeçalho da página indicava 64 vagas.
+  - Esclarecimento: Os anúncios misturam níveis de estágio a gerência, e o regime de contratação não aparece em todos.
+  - Esclarecimento: A disponibilidade individual de cada anúncio não foi confirmada.
+- **Claro Brasil - portal de vagas 'Vem pra Claro' (Gupy)** (aberta ou vigente, verificada 2 vezes) https://vempraclaro.gupy.io/
+  - O que é: Candidatos a vagas de telecomunicações, infraestrutura e data center, além de áreas comerciais e administrativas da operadora.
+  - Requisitos: sem dados na listagem; varia por vaga e não foi informado se há vaga sem exigência de experiência
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Contínuo: em 2026-11-23 a página listava 48 vagas (5 páginas de 10), todas 'Efetivo', sem datas de encerramento; há botão de banco de talentos.
+  - Como se candidatar: https://vempraclaro.gupy.io/
+  - Leitura automática possível: Páginas Gupy com listagem pública; a API pública não foi testada (sem dados).
+  - Esclarecimento: A página declara que os processos seletivos não exigem pagamento de taxa nem compra de equipamentos.
+  - Esclarecimento: As vagas vistas estão em Bragança Paulista/SP, Campinas/SP, Campo Grande/MS, Rio de Janeiro/RJ e São Paulo/SP.
+  - Esclarecimento: A página cita outros sites de carreira do grupo: Lojas Claro, Claro Empresas, BCC (Brasil Center) e Global Hitss.
+- **Brisanet - portal de vagas (Gupy)** (aberta ou vigente, verificada 2 vezes) https://brisanet.gupy.io/
+  - O que é: Candidatos a vagas de operação, infraestrutura, monitoramento e administrativas em um provedor de fibra óptica do Nordeste.
+  - Requisitos: sem dados na listagem; varia por vaga
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Contínuo: em 2026-11-23 a página listava 457 vagas (46 páginas de 10), todas 'Efetivo', sem datas de encerramento; há botão de banco de talentos.
+  - Como se candidatar: https://brisanet.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Há funções operacionais, como ajudante de motorista e agente de portaria, mas a exigência de experiência de cada vaga não foi verificada.
+  - Esclarecimento: As vagas vistas estão em Fortaleza/CE, Pereiro/CE e Teresina/PI, e o portal tem filtros por modalidade, tipo, área, estado, cidade e bairro.
+- **Accenture Brasil - Carreiras (busca de vagas e início de carreira)** (aberta ou vigente, verificada 2 vezes) https://www.accenture.com/br-pt/careers
+  - O que é: Estudantes (estágio) e profissionais em início de carreira para trilhas como Tecnologia, Operações e Consultoria. A página não cita vagas de help desk ou suporte de TI.
+  - Requisitos: A página não lista critérios gerais; os requisitos variam por vaga. Há trilhas voltadas a estudantes e a quem está começando a carreira, sem informação sobre exigência de experiência ou diploma em cada uma.
+  - Pagamento ou benefício: sem dados (não informado)
+  - Prazo ou ciclo: Caminho de candidatura contínuo (abierto todo el ano): a página oferece 'Busque por vagas abertas' e seções para estudantes (incluindo estágio de verão), início de carreira, profissionais experientes e lideranças. Prazo específico: sem dados. Número de vagas no Brasil: sem dados.
+  - Como se candidatar: https://www.accenture.com/br-pt/careers
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A candidatura é feita por portal externo (Workday) com link na página.
+  - Esclarecimento: Os números de funcionários citados na página são globais, não do Brasil.
+  - Esclarecimento: A página não cita vagas de help desk ou suporte de TI.
+- **ProgramaThor - vagas de tecnologia** (aberta ou vigente, verificada 2 vezes) https://www.programathor.com.br/jobs
+  - O que é: Desenvolvedores e profissionais de tecnologia, com filtro por nível júnior, pleno e sênior. Na consulta, a maioria dos anúncios era de nível pleno ou sênior.
+  - Requisitos: Varia por vaga. Filtros disponíveis: tipo de contrato (CLT, PJ, Estágio), nível (Júnior, Pleno, Sênior), porte da empresa, remoto e disposição para mudança de cidade. Há vagas de nível júnior e estágio, mas não é possível afirmar que dispensem experiência ou diploma; muitas das vagas amostradas eram sênior. Foco exclusivo em tecnologia/programação.
+  - Pagamento ou benefício: sem dados (varia por vaga; ao menos uma vaga externa indicava remuneração em dólares)
+  - Prazo ou ciclo: Contínuo (abierto todo el ano): a primeira página mostrava 15 vagas, com paginação (página 2, 'próxima' e 'última'); total de vagas não informado.
+  - Como se candidatar: https://www.programathor.com.br/jobs
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Os anúncios são publicados por empresas, e ao menos uma vaga vem marcada como 'VAGA EXTERNA'.
+  - Esclarecimento: A página não diz se o uso é gratuito para candidatos nem se republica anúncios de outros quadros.
+  - Esclarecimento: O foco é exclusivamente tecnologia e programação, e muitas das vagas amostradas eram de nível sênior.
+- **Dataprev - Programa Jovem Aprendiz (editais por estado)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.dataprev.gov.br/conheca-dataprev-faca-parte-da-dataprev/programa-jovem-aprendiz
+  - O que é: Jovens estudantes de instituições públicas de ensino, em programa de 18 meses com formação básica e experiência de trabalho na empresa. A página diz que os 876 participantes desde agosto de 2004 vieram de escolas públicas, sem esclarecer se isso é regra de elegibilidade.
+  - Requisitos: A página afirma que os aprendizes admitidos desde 2004 são todos de escolas públicas; idade, escolaridade e demais critérios não constam na página (estão nos PDFs dos editais, não verificados). Não informa se exige experiência prévia; por ser programa de aprendizagem, em tese dirigido a quem está começando.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (a página não informa; consta apenas nos PDFs dos editais, que não foram abertos)
+  - Prazo ou ciclo: Sem inscrição aberta em 2026-11-23. Editais por estado ao longo do ano: Rio de Janeiro (edital em 25/11/2025), Paraíba (19/01/2026), Rio Grande do Norte (10/04/2026), São Paulo (24/04/2026), Ceará (20/07/2026), Distrito Federal (07/08/2026) e Santa Catarina (02/10/2026). Todos com resultado ou lista de aprovados já publicado; o mais recente em 05/11/2026 (Santa Catarina). Próximo edital: sem dados.
+  - Como se candidatar: https://www.dataprev.gov.br/conheca-dataprev-faca-parte-da-dataprev/programa-jovem-aprendiz
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O programa dura 18 meses e tem poucas vagas por edital (1 a 2 onde informado).
+  - Esclarecimento: A página não esclarece se ser de escola pública é regra de elegibilidade; idade, escolaridade e remuneração constam apenas nos PDFs dos editais.
+  - Esclarecimento: A abertura de novo edital deve ser acompanhada na própria página.
+- **Generation Brasil - Programa de Empregabilidade em Data Center e Suporte de TI (São Paulo)** (não verificada, verificada 1 vez) https://brazil.generation.org/learners/
+  - O que é: Pessoas com mais de 18 anos e ensino médio completo que queiram entrar em suporte de TI e operações de data center. A página de alunos descreve a formação como gratuita, prática e intensiva.
+  - Requisitos: Ensino médio completo e idade mínima de 18 anos. Nenhuma experiência ou diploma superior citado.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Gratuito para o aluno; sem bolsa informada
+  - Prazo ou ciclo: sem dados; a página não informa datas de turma nem prazo de inscrição
+  - Como se candidatar: https://brazil.generation.org/programas/data-center/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O programa é descrito como gratuito, de 14 semanas, em formato híbrido, com a maior parte online e prática presencial.
+  - Esclarecimento: O botão 'Inscreva-se' existe, mas a página não mostra turma aberta, data de início nem prazo, então uma chamada aberta não foi confirmada.
+  - Esclarecimento: A mesma página lista outros programas gratuitos, todos online: Análise de Dados (12 semanas, 18 a 35 anos), Atendimento Digital (8 semanas), Vendas (4 semanas), JavaScript, AWS Re/Start Cloud e Java (12 semanas cada).
+- **Dataprev - Programa de Estágio (via CIEE)** (não verificada, verificada 1 vez) https://www.dataprev.gov.br/conheca-dataprev-faca-parte-da-dataprev/programa-de-estagio
+  - O que é: Estudantes de ensino superior que queiram estagiar em TI e áreas correlatas em Ceará, Distrito Federal, Paraíba, Rio de Janeiro, Rio Grande do Norte, Santa Catarina e São Paulo.
+  - Requisitos: Estar matriculado em instituição reconhecida pelo MEC, ter cursado ao menos o 3º período (cursos tecnólogos) ou o 4º período (bacharelados) e comprovar Coeficiente de Rendimento Global igual ou superior a 6,0. Exige ensino superior em andamento.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados; a página não menciona bolsa nem benefícios
+  - Prazo ou ciclo: sem dados; vagas abertas conforme a necessidade da empresa, sem prazo nem seleção em andamento informados (página atualizada em 13/10/2026)
+  - Como se candidatar: https://portal.ciee.org.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Recrutamento e seleção ocorrem na plataforma do CIEE (portal.ciee.org.br), onde o estudante se candidata e cadastra currículo.
+  - Esclarecimento: A página não informa se há vaga aberta em 23/11/2026.
+  - Esclarecimento: A jornada é de 6 horas diárias (30 horas semanais), com supervisão de um analista.
+  - Esclarecimento: Não serve a quem não está matriculado no ensino superior.

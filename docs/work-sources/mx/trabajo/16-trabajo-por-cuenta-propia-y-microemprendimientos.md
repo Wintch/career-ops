@@ -1,0 +1,124 @@
+# Trabajo por cuenta propia y microemprendimientos
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **NAFIN - Micronegocio Pyme (crédito para pequeños negocios)** (abierta o vigente, verificada 2 veces) https://www.nafin.com/portalnf/content/financiamiento/micronegocio-pyme.html
+  - Que es: Micro, pequeñas y medianas empresas y personas físicas con actividad empresarial que necesiten capital de trabajo o activo fijo (inventario, pago a proveedores, maquinaria, ampliación de instalaciones).
+  - Requisitos: Dirigido a micro, pequeñas y medianas empresas o personas físicas con actividad empresarial. Requisitos listados: empresa legalmente constituida (la página parece contradecirse con la inclusión de personas físicas), historial crediticio favorable en buró de crédito, capacidad de pago comprobable, aval u obligado solidario, y la información adicional que pida el banco. No es para quien no tiene un negocio en operación.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Crédito de hasta 500 mil pesos, tasa fija de hasta 15 % anual, plazo de hasta 36 meses, gracia de hasta 6 meses para capital o capital e intereses (incluida en el plazo), sin garantía hipotecaria. Es un préstamo, no un apoyo a fondo perdido.
+  - Plazo o ciclo: abierto de forma continua; la página no indica vigencia ni fecha límite
+  - Como postular: https://www.nafin.com/portalnf/content/financiamiento/micronegocio-pyme.html
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un préstamo, no un apoyo a fondo perdido, y no es para quien no tiene un negocio en operación.
+  - Aclaracion: Se solicita en un banco participante (Banamex para cuentahabientes, Banorte y Mifel), que evalúa y decide.
+  - Aclaracion: Teléfono de contacto: 800 623 4672, de lunes a viernes de 8:00 a 19:00.
+- **NAFIN - Impulso Nafin + Estados (crédito con gobiernos estatales)** (abierta o vigente, verificada 2 veces) https://www.nafin.com/portalnf/content/financiamiento/impulso-nafin-estados.html
+  - Que es: Micro, pequeñas y medianas empresas y personas físicas con actividad empresarial que operen en un estado participante y cuenten con cédula de validación estatal.
+  - Requisitos: Micro, pequeñas y medianas empresas, y personas físicas con actividad empresarial, que operen en un estado participante. Negocio formalmente constituido (de preferencia con 2 años de operación), cédula de validación emitida por la ventanilla estatal y buen historial crediticio. Se firma la solicitud y se autoriza consulta a Buró de Crédito. No sirve para quien no tiene un negocio formal.
+  - Sin experiencia previa: no
+  - Pago o beneficio: No es empleo ni beca: es crédito. Hasta 5 millones de pesos (sujeto al máximo de cada banco), plazo hasta 60 meses, tasa fija de hasta 14.75% anual, sin comisión por apertura ni penalización por pago anticipado, gracia de hasta 6 meses. Garantías hasta 2.5 millones de pesos, limitadas a aval y obligado solidario.
+  - Plazo o ciclo: Abierto de forma continua; la página no indica fechas de inicio, cierre ni vigencia. Depende de que el estado participe (la página lista los 32 estados en cinco regiones, cada uno con su ficha de bancos y tasas).
+  - Como postular: https://www.nafin.com/portalnf/content/financiamiento/impulso-nafin-estados.html
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es crédito, no empleo ni beca, y no sirve para quien no tiene un negocio formal.
+  - Aclaracion: Pasos: solicitar la cédula de validación en la ventanilla del estado, enviarla al banco participante, integrar el expediente (hay formulario en línea) y firmar la solicitud con autorización de consulta a Buró de Crédito.
+  - Aclaracion: Contacto: 800 2000 215 (lunes a viernes, 8:00 a 19:00), info@nafin.gob.mx y apoyopymes@nafin.gob.mx.
+- **NAFIN - Fábrica de Crédito / Promotorías NAFIN (asesoría gratuita para armar una solicitud de crédito)** (abierta o vigente, verificada 2 veces) https://www.nafin.com/portalnf/content/financiamiento/promotorias-nafin.html
+  - Que es: Mipymes de cualquier parte del país que quieran acceder a los programas de financiamiento de NAFIN con bancos comerciales.
+  - Requisitos: La página no enumera requisitos. Está dirigida a micro, pequeñas y medianas empresas de todo el país. Para armar el expediente, NAFIN ofrece un formulario aparte de apoyo con la documentación.
+  - Pago o beneficio: Asesoría gratuita (la página la describe como 'asesoría gratuita'). No otorga dinero por sí misma: orienta para acceder a los créditos de NAFIN.
+  - Plazo o ciclo: Abierto de forma continua; la página no indica fechas ni vigencia.
+  - Como postular: https://forms.office.com/r/aiq2W45jFe
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Las promotorías son despachos acreditados por NAFIN; se contacta a la de la región correspondiente.
+  - Aclaracion: No otorga dinero: orienta, perfila a la empresa y da seguimiento al trámite con el intermediario financiero elegido.
+  - Aclaracion: La página no describe un proceso de solicitud formal; el apoyo con expediente se hace por un formulario de Microsoft Forms.
+  - Aclaracion: Apoyo general: 800 623 4672 (lunes a viernes, 8:00 a 19:00) e info@nafin.gob.mx.
+- **NAFIN - Catálogo de financiamiento para micro, pequeñas y medianas empresas** (abierta o vigente, verificada 2 veces) https://www.nafin.com/portalnf/content/financiamiento/
+  - Que es: Mipymes y personas físicas con actividad empresarial; la página reúne 11 productos (Micronegocio Pyme, Impulso Nafin + Estados, Plan México, ElectroPyME, Eco Crédito Solar y Empresarial, Mueve su Pyme, Garantía sobre Fianzas, Renovación de Autotransporte Federal, Financiamiento Empresarial, Fábrica de Crédito).
+  - Requisitos: Dirigido a micro, pequeñas y medianas empresas. Algunos productos tienen requisitos propios (por ejemplo, empresas de transporte con permiso federal avalado por la SICT, o Pymes con contratos de suministro). La página de catálogo no lista documentos; se consultan en la ficha de cada producto o con NAFIN.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Son créditos, no sueldo ni beca. Los montos y tasas dependen de cada producto y del banco; la página de catálogo no los indica.
+  - Plazo o ciclo: Abierto de forma continua; los productos cambian con el tiempo y la página no indica fechas.
+  - Como postular: https://www.nafin.com/portalnf/content/financiamiento/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Son créditos, no sueldo ni beca, y no es una vía para quien busca empleo.
+  - Aclaracion: La página de catálogo no describe el proceso de solicitud; cada ficha de producto sí lo hace.
+  - Aclaracion: Contacto: 800 623 4672 e info@nafin.gob.mx.
+- **NAFIN - Cadenas Productivas (pago anticipado a proveedores)** (abierta o vigente, verificada 2 veces) https://www.nafin.com/portalnf/content/cadenas-productivas/
+  - Que es: Proveedores y distribuidores de grandes compradores y de dependencias de gobierno afiliadas, para cobrar sus facturas antes del vencimiento; la página menciona también un programa para mujeres empresarias.
+  - Requisitos: La página no define elegibilidad ni requisitos; estarían en las páginas enlazadas de afiliación y manuales de operación, que no se leyeron. Está orientado a proveedores de empresas y de dependencias de gobierno; la página también enlaza financiamiento a distribuidores y el esquema MujerEs Factoraje (PDF). No aplica a quien no tiene un negocio que facture.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Programa de financiamiento a proveedores (adelanto de pago de facturas); no es empleo ni beca. Costos del programa: sin datos. Solo se vio que la asesoría de afiliación es sin costo.
+  - Plazo o ciclo: Abierto de forma continua (afiliación sin fecha límite visible); la página no indica vigencia.
+  - Como postular: https://cadenas.nafin.com.mx/nafin/home/seccion.jsp?seccion=1
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un programa de financiamiento a proveedores, no un empleo ni una beca, y no aplica a quien no tiene un negocio que facture.
+  - Aclaracion: La elegibilidad y los costos no se detallan en la página principal; estarían en las páginas de afiliación y manuales de operación.
+  - Aclaracion: Solo se indica que la asesoría de afiliación es sin costo.
+- **Amazon México - Vender en Amazon (vendedor particular o empresa)** (abierta o vigente, verificada 2 veces) https://vender.amazon.com.mx
+  - Que es: Personas físicas y personas morales que quieran vender productos en línea, incluidos artesanos y creadores (programa 'Hecho a Mano') y pequeñas empresas.
+  - Requisitos: Personas físicas: constancia de situación fiscal del SAT (gratuita), identificación oficial vigente, comprobante de domicilio de máximo 3 meses, tarjeta de crédito o débito y cuenta bancaria que acepte transferencias electrónicas. Empresas: constancia fiscal de la empresa, comprobante de domicilio de la empresa de máximo 3 meses, identificación y comprobante del vendedor principal, carta firmada en papel membretado que lo autorice, tarjeta y cuenta bancaria a nombre de la empresa o del vendedor principal. No pide experiencia ni título; sí exige estar dado de alta en el SAT.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es sueldo: se gana por ventas. Costos: registro de 10 pesos MXN más IVA para validar el método de pago; sin cuota de vendedor los primeros 12 meses, luego 75 pesos al mes si se vende menos de 26,000 pesos al mes, o 600 pesos al mes por encima de eso; comisión por referencia desde 8% según la categoría; costos adicionales por unidad si se usa Logística de Amazon (FBA). Si la misma cuenta vende en otros países, 39.99 dólares al mes.
+  - Plazo o ciclo: Abierto de forma continua; las promociones cambian y la página no indica fechas de inicio ni fin (la oferta de tarifas en cero se anuncia sin fecha; confirmar en vender.amazon.com.mx/terminos/promocion). El pie de la página indica 2024.
+  - Como postular: https://vender.amazon.com.mx/vender/guia-de-registro
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es sueldo: los ingresos dependen de las ventas, y hay que estar dado de alta en el SAT.
+  - Aclaracion: La oferta de tarifas en cero se anuncia sin fecha y de forma poco clara ("cero tarifas por 3 meses" junto con "sin cuota de vendedor por 12 meses"); conviene confirmarla en vender.amazon.com.mx/terminos/promocion.
+  - Aclaracion: El pie de la página indica 2024, por lo que algunas tarifas pueden haber cambiado.
+- **SAT - Constancia de Situación Fiscal (documento que piden las plataformas de venta y los bancos)** (abierta o vigente, verificada 2 veces) https://www.gob.mx/sat/articulos/obten-su-constancia-de-situacion-fiscal-en-linea-o-presencial?idiom=es
+  - Que es: Cualquier persona que ya cuente con RFC de 13 caracteres y necesite comprobar su situación fiscal para vender, abrir cuenta de negocio o solicitar crédito.
+  - Requisitos: RFC de 13 caracteres; contraseña o e.firma para el portal en línea; identificación oficial vigente (para SAT ID, Oficina Virtual y atención presencial; en Oficina Virtual, escaneada a color, legible y en PDF); correo electrónico personal para SAT ID y Oficina Virtual. SAT ID además pide foto de la identificación, video de verificación y firma. Requiere tener RFC; quien no lo tiene debe inscribirse antes (ese trámite no se verificó aquí).
+  - Sin experiencia previa: si
+  - Pago o beneficio: La página no menciona costo (no se vio ningún cobro). No otorga dinero: es un trámite de documento.
+  - Plazo o ciclo: Abierto de forma continua; el artículo está fechado el 5 de noviembre de 2026.
+  - Como postular: https://www.sat.gob.mx/portal/public/home
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un trámite de documento, no otorga dinero; quien no tiene RFC debe inscribirse antes.
+  - Aclaracion: Se puede obtener por siete vías: Portal del SAT, Mi espacio SAT, app SAT Móvil, SAT ID (respuesta en máximo 5 días hábiles), Oficina Virtual con cita, módulo presencial sin cita y Oficina Móvil.
+  - Aclaracion: Es el documento que Amazon México pide a vendedores particulares.
+- **gob.mx - Tu empresa (abrir un negocio y sociedad por acciones simplificada)** (abierta o vigente, verificada 2 veces) https://www.gob.mx/tuempresa
+  - Que es: Personas que quieran iniciar o formalizar una empresa; la portada ofrece 'Abrir mi empresa' y 'Tu empresa en línea' (artículo sobre la sociedad por acciones simplificada, SAS).
+  - Requisitos: Firma electrónica (e.firma) de cada accionista; autorización de denominación; ingresos anuales por debajo del límite que indica la página (5 millones de pesos, actualizable en el DOF); las personas accionistas no pueden ser a la vez socias con poder de decisión en otra sociedad mercantil; solo personas físicas. No se exige experiencia ni título.
+  - Pago o beneficio: No aplica. La constitución de la SAS no tiene costo según la página oficial.
+  - Plazo o ciclo: Abierto todo el año. Trámite en línea continuo, sin fecha límite.
+  - Como postular: https://www.tuempresa.gob.mx/sas/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una vía de autoempleo, no un empleo.
+  - Aclaracion: Solo las personas físicas pueden ser accionistas de la sociedad por acciones simplificada (SAS).
+  - Aclaracion: Los pasos incluyen la autorización de denominación, la constitución en línea, la inscripción en el Registro Público de Comercio, el RFC y la firma electrónica, además del alta en el IMSS si habrá personal.
+  - Aclaracion: Después de constituir la sociedad hay obligaciones continuas, como las publicaciones en psm.economia.gob.mx y el libro de registro de acciones.
+- **NAFIN - Capacitación integral, asistencia técnica y encuentros de negocio (portal NAFIN Capacita)** (sin verificar, verificada 1 vez) https://www.nafintecapacita.com/portal/index.html
+  - Que es: Personas emprendedoras, Mipymes y público en general (según la página de capacitación). Asistencia técnica y encuentros de negocio B2B se describen solo en términos generales.
+  - Requisitos: sin datos. La página dice que la capacitación está dirigida a personas emprendedoras, Mipymes y público en general, pero no indica requisitos, costo ni cómo inscribirse.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no indica costo ni si es gratuito)
+  - Plazo o ciclo: sin datos. La página no indica fechas ni ciclos; la oferta de servicios aparece solo como imagen, sin texto legible.
+  - Como postular: https://www.nafintecapacita.com/portal/index.html
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página de NAFIN no lista cursos, costos, fechas ni pasos de registro; esa información estaría en el portal externo nafintecapacita.com, que no se verificó.
+  - Aclaracion: No se pudo confirmar que la capacitación, la asistencia técnica o los encuentros de negocio sean gratuitos.
+- **INAES - Instituto Nacional de la Economía Social (cooperativas y economía social)** (sin verificar, verificada 1 vez) https://www.gob.mx/inaes
+  - Que es: Personas y grupos que formen o participen en cooperativas y otros organismos del sector social de la economía.
+  - Requisitos: sin datos. No se vieron requisitos publicados en la página principal.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página oficial existe, pero no se pudo identificar ninguna convocatoria vigente ni fechas.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una fuente de referencia para formar una cooperativa, no un empleo.
+  - Aclaracion: No se identificó ninguna convocatoria vigente; el banner de convocatoria de la portada no tiene texto alternativo y no es posible saber qué anuncia.
+  - Aclaracion: Las subpáginas /acciones-y-programas y /documentos devolvieron error 404 con las rutas probadas.
+  - Aclaracion: Contacto publicado: atencionciudadana@inaes.gob.mx.
+- **Financiera para el Bienestar (FINABIEN) - servicios financieros del gobierno federal** (sin verificar, verificada 1 vez) https://www.gob.mx/finabien
+  - Que es: sin datos. La portada muestra una sección 'Servicios FINABIEN' cuyo contenido no se pudo leer.
+  - Requisitos: sin datos. No se vieron requisitos en la página.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No hay convocatoria ni ciclo visible.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una institución financiera (envío de remesas y servicios bancarios), no una fuente de empleo ni de subsidio verificable.
+  - Aclaracion: La página no describe créditos, requisitos ni cómo solicitar, y la subpágina de servicios devolvió error 404.
+  - Aclaracion: Contacto publicado: muycerca@finabien.gob.mx y la línea 079.

@@ -1,0 +1,53 @@
+# Atencion al cliente, administracion y call centers
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Atento Chile - Trabaja con nosotros (Agentes de atención al cliente y ventas)** (abierta o vigente, verificada 2 veces) https://atento.com/es/trabaja-con-nosotros-chile
+  - Que es: Personas que buscan trabajo como agente de atención al cliente y ventas en call center. La página lista una vacante abierta titulada 'Agentes atención al cliente y ventas'. La fecha de publicación y la cantidad de cupos no figuran.
+  - Requisitos: sin datos (la página no informa requisitos de edad, estudios ni experiencia).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto de forma continua: la página mostraba una vacante publicada ('Agentes atención al cliente y ventas') al 2026-11-23, sin fecha de publicación ni de cierre.
+  - Como postular: https://atentochile.buk.cl/seleccions/6e149cbdae7e2c1b334ac4648d7c7dc2550508aadfaa43249ccd49d6dd73d4dd0fd596d345695293f56b8788992d41f09b1ae57be91667bc6c0c3e9c2889d70b/postular?referrer=portal
+  - Lectura automatica posible: sin datos (la postulación es por un portal Buk; no se vio API ni feed)
+  - Aclaracion: La postulación lleva al portal Buk de Atento (atentochile.buk.cl) mediante el botón 'Aplicar'.
+  - Aclaracion: La página no indica ciudad ni modalidad, edad, estudios, experiencia ni sueldo, por lo que no se puede afirmar que no se pida experiencia.
+  - Aclaracion: Atento contrata por volumen y la vacante visible podría cambiar en cualquier momento.
+- **Chiletrabajos.cl - Administración, recepción y atención al cliente** (abierta o vigente, verificada 2 veces) https://www.chiletrabajos.cl/trabajos/administracion
+  - Que es: Cualquier persona. Es una de las principales rutas para cargos administrativos, de recepción y secretaría. El 2026-11-23 el portal mostraba cerca de 34.000 ofertas y unas 7.900 empresas, con categorías como Administración (1.291 ofertas), Asistente administrativo (317) y Recepción / Secretaria (142). No tiene una categoría de call center.
+  - Requisitos: Varían según el aviso; no verificados en el listado. Hay cargos de nivel inicial y otros con título o experiencia.
+  - Pago o beneficio: Varía según el aviso; no se vio sueldo en el listado.
+  - Plazo o ciclo: Abierto todo el año. Se vieron avisos con fechas del 19 al 21 de noviembre de 2026 (p. ej., Asistente Comercial y Administrativo, jornada de 30 horas, Santiago, 21 nov 2026; Recepcionista para consulta oftalmológica, 20 nov 2026; Ejecutivo/a de cobranza telefónica, 19 nov 2026; Conserje polifuncional, 19 nov 2026).
+  - Como postular: https://www.chiletrabajos.cl/trabajos/administracion
+  - Lectura automatica posible: RSS: https://www.chiletrabajos.cl/rss.xml (enlace visto en la página de inicio, no abierto)
+  - Aclaracion: Es un agregador de avisos de distintos empleadores, no un empleador.
+  - Aclaracion: El flujo de postulación no fue verificado.
+- **Teleperformance (TP) Chile - Carreras** (sin verificar, verificada 1 vez) https://www.tp.com/es-cl/ubicaciones/chile/carreras/
+  - Que es: Personas que buscan trabajo en atención al cliente y soporte en call center. La página tiene filtros por categoría, por idioma y para 'solo trabajo desde casa', lo que sugiere roles bilingües y remotos. No se pudo ver ningún cargo concreto porque los resultados cargan de forma dinámica.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página muestra filtros (país, ubicación, categoría, idioma, trabajo desde casa) y un botón 'Ver más resultados', pero no se vio ninguna vacante con fecha.
+  - Como postular: https://www.tp.com/careers/job-opportunities/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial de Chile existe, pero los resultados cargan de forma dinámica y no se vio ninguna oferta concreta, requisitos ni cómo postular.
+  - Aclaracion: El enlace 'Job opportunities' del menú de la página de Chile apuntaba a '#'; los enlaces oficiales encontrados son https://www.tp.com/careers/job-opportunities/ y https://www.tp.com/careers/work-from-home-opportunity/.
+  - Aclaracion: No se afirma que haya vacantes abiertas en Chile al 2026-11-23.
+- **Konecta - Únete a nosotros (selector de país con Chile)** (sin verificar, verificada 1 vez) https://konecta.com/es/unete-a-nosotros
+  - Que es: Personas interesadas en trabajar en atención al cliente y servicios de contacto en Konecta. Chile figura como opción en el selector de país de la página de empleo, pero no se vio ninguna vacante chilena.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Chile figura en el selector 'Elija su país', pero no enlaza a vacantes chilenas ni describe el proceso de postulación ni los requisitos.
+  - Aclaracion: La página de Konecta para Chile (konecta.com/cl/) solo mostró un enlace general 'Join us'.
+  - Aclaracion: No se pudo confirmar vacantes abiertas en Chile ni plazos.
+- **Concentrix - buscador de empleos (Chile no figura entre los países listados)** (sin verificar, verificada 1 vez) https://jobs.concentrix.com/
+  - Que es: Referencia del portal de empleos de Concentrix. El desplegable de ubicación de la portada no incluía Chile (sí Argentina, Brasil, Colombia, Costa Rica, República Dominicana, El Salvador, Guatemala, Honduras, México, Nicaragua y Perú), por lo que no hay evidencia de ofertas en Chile.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://jobs.concentrix.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Chile no figura en el filtro de ubicación ni hay enlaces a empleos chilenos, pero el listado decía 'Loading jobs...' y el contenido estaba truncado, por lo que no se puede descartar.
+  - Aclaracion: No se confirmó ninguna vacante en Chile.

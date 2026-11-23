@@ -1,0 +1,102 @@
+# Industria, fabricas y mantenimiento
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Antofagasta Minerals, Trabaja con nosotros (Portal de Empleo)** (abierta o vigente, verificada 2 veces) https://www.aminerals.cl/trabaja-con-nosotros
+  - Que es: Postulantes a cargos en las operaciones mineras del grupo; la página enlaza además una sección para estudiantes y jóvenes profesionales.
+  - Requisitos: La página no indica requisitos generales; cada aviso define los suyos. Hay una guía de postulación en PDF (https://www.aminerals.cl/docs/default-source/archivo/documentos/buscamos-lo-mejor-de-ti-guia-de-postulacion.pdf). Ofertas de empresas colaboradoras de la Región de Antofagasta en https://portalempleoeecc.aminerals.cl/. No se vio un camino específico para personas sin experiencia ni título; el programa Jóvenes Profesionales apunta a profesionales jóvenes.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (portal permanente). Jóvenes Profesionales: programa de más de una década (21 participantes en 2025), ciclo y fechas no indicados.
+  - Como postular: https://career8.successfactors.com/career?company=AMSAP&career_ns=job_listing_summary&navBarLevel=JOB_SEARCH
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no lista vacantes ni requisitos generales; cada aviso define los suyos.
+  - Aclaracion: No se vio un camino específico para personas sin experiencia ni título; el programa Jóvenes Profesionales apunta a profesionales jóvenes.
+  - Aclaracion: La página advierte que jamás se pide dinero a cambio de postular.
+  - Aclaracion: Las ofertas de empresas colaboradoras de la Región de Antofagasta están en https://portalempleoeecc.aminerals.cl/.
+- **Con tu Talento (Compromiso Minero)** (abierta o vigente, verificada 2 veces) https://contutalento.cl/
+  - Que es: Cualquier persona interesada en minería: reúne ofertas laborales de empresas adherentes, oferta formativa (técnica, universitaria, de especialización) y oportunidades del ecosistema (becas, prácticas, programas trainee, cursos). Incluye una experiencia llamada 'Activa tu Talento' orientada a jóvenes.
+  - Requisitos: Cada oferta enlaza a su ficha de detalle, que define los requisitos; el portal no los declara en general. Los avisos vistos son mayoritariamente de cargos técnicos y profesionales (técnico eléctrico, mecánico, soldador, operador de planta o equipo pesado, ingenieros). También hay un convocatoria de Operadoras/es de Mina Rajo de Codelco, División Ministro Hales, que enlaza a su ficha. No se verificó cuáles avisos aceptan personas sin experiencia.
+  - Pago o beneficio: sin datos (varía por aviso; no se vio sueldo)
+  - Plazo o ciclo: Portal activo con 2 ofertas destacadas en portada; sin fechas de publicación ni de cierre visibles.
+  - Como postular: https://contutalento.cl/laboral/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: En la portada solo se vieron 2 ofertas destacadas, sin fechas de publicación ni de cierre.
+  - Aclaracion: No se pudo confirmar el listado completo de ofertas.
+  - Aclaracion: No se verificó cuáles avisos aceptan personas sin experiencia; los avisos vistos son mayoritariamente de cargos técnicos y profesionales.
+  - Aclaracion: Contacto de consultas: contutalento@compromisominero.cl.
+- **SENCE, cursos en línea gratuitos (incluye Mine Class)** (abierta o vigente, verificada 2 veces) https://sence.gob.cl/personas/cursos-en-linea
+  - Que es: Personas mayores de 18 años que quieran capacitarse gratis en áreas de alta demanda laboral. Hay campañas de Microsoft y Mine Class (10 cursos sobre proyectos mineros, planificación de mina subterránea y mina a rajo abierto), además de Vértice y Gradúate (sin detalle de temas).
+  - Requisitos: La página no declara requisitos de elegibilidad. El ingreso se hace con Clave Única (https://sistemas.sence.cl/claveunica/autorizacion/iniciarsesion). Se puede tomar más de un curso a la vez y combinarlo con otros programas SENCE. Una vez inscrito, hay 30 días para terminar el curso (dato de Mine Class).
+  - Sin experiencia previa: si
+  - Pago o beneficio: No se indica costo en la página. Son cursos asincrónicos y autoinstruccionales de 1 a 100 horas; no entregan pago ni subsidio visto.
+  - Plazo o ciclo: Por campañas. Mine Class: postulaciones CERRADAS y sus cursos solo estuvieron disponibles hasta el 30/09/2026, ya vencido. Abiertas al 2026-11-23: Microsoft (ExperiencIA) hasta el 31/12/2026 con cupos ilimitados (las preguntas frecuentes mencionan otra fecha, 30 de junio, para otros cursos: información inconsistente); Vértice durante todo 2026; Gradúate todo el año (exámenes libres en fechas del Ministerio de Educación).
+  - Como postular: https://eligetucurso.sence.cl/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Mine Class está cerrado y sus cursos solo estuvieron disponibles hasta el 30/09/2026.
+  - Aclaracion: Las fechas de las campañas son inconsistentes: las preguntas frecuentes mencionan el 30 de junio para otros cursos, frente al 31/12/2026 de Microsoft.
+  - Aclaracion: Es capacitación, no empleo directo; no se indica costo y no se vio pago ni subsidio.
+  - Aclaracion: Consultas: https://buzonciudadano.sence.cl/, teléfono 6007120028.
+- **Chiletrabajos, categoría Operarios** (abierta o vigente, verificada 2 veces) https://www.chiletrabajos.cl/trabajos/operarios/
+  - Que es: Personas que buscan cargos de producción, planta, bodega y mantención. La categoría Operarios mostraba 3.301 avisos con fechas del 19 al 22 de noviembre de 2026, con empleadores directos y empresas de reclutamiento en varias regiones (ejemplos vistos: operario de producción en Pudahuel, operario de bodega en Puerto Montt, prevencionista de riesgos en faena Calama).
+  - Requisitos: Variables por aviso, visibles solo en la ficha ('Ver más'). En los títulos se vio licencia de conducir A4 o D, turnos (5x2, 7x7, 14x14), cargos como auxiliar de aseo, bodeguero, peoneta, ayudante, operario de producción y conductor. Para postular se ofrece crear cuenta en el sitio. No se pudo confirmar qué avisos no exigen experiencia.
+  - Pago o beneficio: sin datos (no se vio sueldo en el listado; algunos avisos muestran beneficios como mutual, caja de compensación, colación, transporte de personal o seguro de vida)
+  - Plazo o ciclo: Abierto todo el año. Al 2026-11-23 la categoría mostraba 3.301 avisos; los 30 de la primera página estaban publicados entre el 19 y el 22/11/2026.
+  - Como postular: https://www.chiletrabajos.cl/trabajos/operarios/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Muchos avisos son de consultoras o de empresa confidencial, por lo que el empleador final puede no ser visible.
+  - Aclaracion: No se pudo confirmar qué avisos no exigen experiencia; los requisitos se ven solo en la ficha de cada aviso.
+  - Aclaracion: Al ser un tablero abierto, conviene desconfiar de cualquier aviso que pida dinero.
+  - Aclaracion: La página no indica si hay avisos reposteados.
+- **Codelco, Portal de Empleos** (sin verificar, verificada 1 vez) https://empleos.codelco.cl/search
+  - Que es: Personas que buscan cargos de operación y mantenimiento en minas y plantas (operadores/as de mina rajo, operadores/as de planta, mantenedores/as mecánicos, eléctricos e instrumentistas), además de técnicos y profesionales, en las divisiones Chuquicamata, Radomiro Tomic, Ministro Hales, Gabriela Mistral, Andina, El Teniente, El Salvador y Ventanas.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: No verificado. El portal respondió 403 (también codelco.com/empleos) y no hubo búsqueda disponible para confirmar las convocatorias de Operadores/as Mina Rajo ni los cierres citados.
+  - Como postular: https://empleos.codelco.cl/search
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se pudo leer el listado vigente, por lo que no se confirma ninguna convocatoria.
+  - Aclaracion: El ciclo de convocatorias semanales y los plazos de septiembre y octubre de 2026 no pudieron comprobarse.
+  - Aclaracion: El portal es la ruta oficial de postulación de Codelco; se recomienda revisar directamente empleos.codelco.cl/search.
+- **Arauco, Ofertas Laborales (Chile)** (sin verificar, verificada 1 vez) https://jobs.arauco.com/Chile/?locale=es_ES
+  - Que es: Postulantes a cargos en plantas, aserraderos y operaciones forestales de Arauco en Chile; el portal tiene accesos por país (Chile, Brasil, Norteamérica, Argentina).
+  - Requisitos: sin datos. El menú incluye 'Prácticas Profesionales', sin detalle de requisitos, duración ni cómo postular.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. Existe una ruta de postulación permanente (crear cuenta en el portal SuccessFactors), pero no se vio ninguna oferta concreta: el listado cargaba dinámicamente y se mostró solo 'Cargando...'.
+  - Como postular: https://jobs.arauco.com/Chile/?locale=es_ES
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se vio ninguna oferta concreta y no se pudo confirmar la vigencia de ofertas.
+  - Aclaracion: La URL corregida para Chile es https://jobs.arauco.com/Chile/?locale=es_ES; el dominio antiguo celulosap.jobs2web.com redirige ahí.
+  - Aclaracion: El menú incluye "Prácticas Profesionales" sin detalle de requisitos, duración ni forma de postular.
+- **CMPC, Portal de empleo** (sin verificar, verificada 1 vez) https://www.cmpc.com/trabaja-con-nosotros/
+  - Que es: Postulantes a cargos en plantas y operaciones forestales de CMPC. El sitio también describe iniciativas juveniles y de formación técnica: Campus Nacimiento CMPC Duoc UC (con becas), Construye Futuro y un programa preuniversitario gratuito con Formando Chile.
+  - Requisitos: Solo se indica enviar el CV por el portal; no se declaran otros requisitos. No se vio información sobre personas sin experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página oficial dirige al portal externo de ofertas para enviar el CV; no menciona prácticas, programas juveniles ni fechas.
+  - Como postular: https://cmpc.csod.com/ux/ats/careersite/4/home?c=cmpc
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal cmpc.csod.com cargó con contenido vacío al leerlo automáticamente, por lo que no se vio ninguna oferta.
+  - Aclaracion: No se pudo confirmar el ciclo de las iniciativas juveniles.
+  - Aclaracion: No se vio información sobre personas sin experiencia.
+- **Mowi Chile, Carreras profesionales y Programa Semillero** (sin verificar, verificada 1 vez) https://mowi.com/cl/carreras-profesionales/
+  - Que es: Postulantes a cargos en acuicultura, operaciones (producción de salmón y valor agregado), apoyo a las empresas, innovación y ventas. El Programa Semillero ofrece prácticas profesionales.
+  - Requisitos: No se indican requisitos formales. La página solo menciona valores de la empresa (Pasión, Cambio, Confianza, Compartir). El Semillero está dirigido a estudiantes que quieran hacer su práctica en Mowi.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página no lista vacantes, fechas ni ciclo del Programa Semillero.
+  - Como postular: mailto:trabajaen@mowi.com (vacantes) / mailto:programa.semillero@mowi.com (Programa Semillero, prácticas)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No tiene formulario en línea: las vacantes se consultan por correo a trabajaen@mowi.com y las prácticas a programa.semillero@mowi.com.
+  - Aclaracion: No se pudo confirmar la vigencia actual de convocatorias; la ruta por correo parece permanente pero no está fechada.
+  - Aclaracion: El Programa Semillero está dirigido a estudiantes que quieran hacer su práctica en Mowi.
+- **Liceos SOFOFA, formación técnico-profesional y alternancia dual** (sin verificar, verificada 1 vez) https://www.liceosofofa.cl/
+  - Que es: Estudiantes de enseñanza media técnico-profesional que quieran formarse para la industria: red de diez liceos (industriales, de la construcción y técnico profesional) con modalidad tradicional y 'Formación por Alternancia DUAL', donde el estudiante pasa dos días a la semana en una empresa.
+  - Requisitos: sin datos. La página no indica requisitos de postulación. Es oferta educativa escolar (técnico-profesional), no un empleo; en la modalidad dual el estudiante pasa 2 días a la semana en la empresa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no se vio información de aranceles ni gratuidad)
+  - Plazo o ciclo: sin datos. No se vieron fechas ni proceso de admisión 2027 ni en la página principal ni en la de establecimientos.
+  - Como postular: https://www.liceosofofa.cl/establecimientos/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es oferta educativa escolar técnico-profesional, no un empleo; la admisión debe consultarse en cada liceo o en https://www.liceosofofa.cl/contacto/.
+  - Aclaracion: No se vieron fechas ni proceso de admisión 2027, ni información de aranceles o gratuidad.
+  - Aclaracion: "Trabaja con nosotros" (https://liceosofofa.profejobs.cl/) es para postular a cargos en los liceos, con registro, certificados de antecedentes e inhabilidades; no es una vía de empleo general.
+  - Aclaracion: El dato de que el 100% de egresados puede hacer práctica en empresas de su especialidad es de la propia institución y no está verificado.
