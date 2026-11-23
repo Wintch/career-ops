@@ -1,0 +1,79 @@
+# Atencion al cliente, administracion y call centers
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Banco BCP Bolivia: Trabaja con Nosotros (portal de reclutamiento en Evaluar)** (abierta o vigente, verificada 2 veces) https://bcpbolivia.evaluar.com
+  - Que es: Personas interesadas en banca minorista, microfinanzas y pymes, principalmente en La Paz y Cochabamba.
+  - Requisitos: Varían por cargo; ver ficha. No se vio un cargo explícitamente sin experiencia.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto y recurrente. Al 23-11-2026 el portal indicaba 11 empleos; 4 visibles, sin plazo indicado.
+  - Como postular: https://bcpbolivia.evaluar.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Las vacantes vistas son todas presenciales; el resto está tras 'Mostrar más empleos'.
+  - Aclaracion: Se postula desde cada ficha (por ejemplo, bcpbolivia.evaluar.com/trabajo/oficial-de-microfinanzas/).
+  - Aclaracion: Consultas: teléfono 2-175000 (reclutadores); oficina en Obrajes, Av. Hernando Siles esquina calle 10.
+- **Banco Bisa: Trabaja con Nosotros (vacantes permanentes y convocatorias)** (abierta o vigente, verificada 2 veces) https://www.bisa.com/
+  - Que es: Personas que buscan cargos de cajero y de ventas bancarias (microfinanzas y banca de personas); incluye una sección 'Nueva Generación' que sugiere un programa para jóvenes profesionales.
+  - Requisitos: Varían por cargo; ver ficha. No confirmados.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: vacantes permanentes más convocatorias puntuales. Al 23-11-2026 se vieron 7 convocatorias sin plazo indicado.
+  - Como postular: https://bancobisa.evaluar.com/convocatorias-2/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La portada no lista vacantes, pero las secciones del sitio sí.
+  - Aclaracion: Las convocatorias están en bancobisa.evaluar.com/convocatorias-2/.
+  - Aclaracion: Contacto: 71222706, 72132541, 72120429; sitio del banco https://www.bisa.com/.
+- **Banco Mercantil Santa Cruz (BMSC) - portal de reclutamiento "Súmate"** (abierta o vigente, verificada 2 veces) https://postulate.evaluar.com/sumate-al-bmsc
+  - Que es: Cualquier persona interesada en cargos bancarios: atención y servicios integrales, cajas, asesoría comercial, áreas de tecnología y riesgo; incluye pasantías y una convocatoria de 'Evaluación de Competencias' descrita como inicio de carrera.
+  - Requisitos: No se listan requisitos formales en la página principal; cada oferta tiene su detalle en postulate.evaluar.com/trabajo/. Perfiles vistos: cajeros con aptitudes de servicio; analistas orientados a resultados. Hay dos pasantías («Proyecto de Movilidad Comercial») en La Paz y Santa Cruz de la Sierra; sus requisitos no se vieron. Cajero no exige explícitamente experiencia en el texto leído.
+  - Pago o beneficio: sin datos: no se vio salario.
+  - Plazo o ciclo: Abierta de forma continua: la página anuncia 22 ofertas el 2026-11-23 y mostró 15. Sin fechas de publicación ni cierre (solo «© 2026»).
+  - Como postular: https://postulate.evaluar.com/sumate-al-bmsc
+  - Lectura automatica posible: No se vio API ni feed; HTML renderizado con listado paginado.
+  - Aclaracion: La selección la gestiona Evaluar.com y el botón de la página no está verificado como sitio propio del banco; conviene confirmar en el sitio oficial del banco antes de entregar documentos.
+  - Aclaracion: Conviene desconfiar de cualquier cobro por postular.
+  - Aclaracion: Entre las vacantes figuran Ejecutivo de Servicios Integrales (Tupiza), Cajero (Yapacaní y Cobija), Asesor Comercial MPE y Asesor Captaciones PyME (Santa Cruz de la Sierra), Analista de Administración y Mantenimiento (Cochabamba) y varios puestos de ciberseguridad y riesgo en La Paz.
+  - Aclaracion: De las 15 ofertas visibles, 8 son de La Paz, 3 de Santa Cruz de la Sierra, y 1 en cada una de Tupiza, Yapacaní, Cobija y Cochabamba.
+- **Banco Ganadero - Trabaja con Nosotros** (abierta o vigente, verificada 2 veces) https://www.bg.com.bo
+  - Que es: Cualquier persona interesada en cargos bancarios. Se vio 'Administrador de Punto de Reclamo (4850)', 'Office Manager', 'Ejecutivo de Negocios Junior' y otros, en Santa Cruz de la Sierra.
+  - Requisitos: Solo se vio un requisito: Analista de Ciberseguridad pide título en Ingeniería de Sistemas o afín (posgrado deseable). Los demás avisos aparecieron truncados. Se pide enviar hoja de vida y postular al cargo acorde al perfil.
+  - Pago o beneficio: sin datos: no se vio salario.
+  - Plazo o ciclo: Abierta: la página anuncia 15 ofertas el 2026-11-23 y mostró 5. Sin fechas de cierre vistas.
+  - Como postular: https://bancoganadero.evaluar.com/
+  - Lectura automatica posible: No se vio API.
+  - Aclaracion: Los avisos son presenciales; el encabezado indica Santa Cruz, pero dos avisos señalan base en La Paz.
+  - Aclaracion: Las ofertas no están en bg.com.bo: el botón «Ver vacantes» de «Trabaja con Nosotros» lleva al portal externo bancoganadero.evaluar.com.
+  - Aclaracion: La página no incluye advertencia de fraude; se recomienda confirmar por la línea gratuita 800 10 3999 del banco antes de compartir documentos.
+- **Banco Nacional de Bolivia (BNB): Portal de Empleo (Trabaja con nosotros)** (sin verificar, verificada 1 vez) https://bancadigital.bnb.com.bo/PortalEmpleo/
+  - Que es: Personas que buscan empleo en el BNB; el portal es el canal oficial de postulación.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://bancadigital.bnb.com.bo/PortalEmpleo/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal está enlazado desde bnb.com.bo ('Trabaja con nosotros' y 'Postula a nuestras vacantes'), por lo que la URL es la oficial.
+  - Aclaracion: El contenido probablemente se carga con JavaScript, por lo que conviene abrir el portal en un navegador para ver vacantes y requisitos.
+  - Aclaracion: No se confirmó si hay recepción abierta de hojas de vida.
+  - Aclaracion: Un banco no cobra por postular; cualquier pedido de pago es señal de fraude.
+- **Entel Bolivia - sitio oficial (sin enlace de empleo visible)** (sin verificar, verificada 1 vez) https://www.entel.bo/
+  - Que es: Personas interesadas en telecomunicaciones; la ruta de empleo no se pudo confirmar.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El sitio oficial no tiene enlace ni mención de empleo; no hay ruta de postulación verificable y no debe listarse como fuente directa de empleo.
+  - Aclaracion: El enlace https://provee.entel.bo corresponde al registro de proveedores, no a empleo, y el perfil de LinkedIn de la empresa no está rotulado como página de empleo.
+  - Aclaracion: Los portales de empleo hallados (trabajaenentel.cl y Perú) son de Entel Chile y Perú y no sirven para Bolivia.
+- **Teleperformance (TP) - búsqueda de empleo global** (sin verificar, verificada 1 vez) https://www.tp.com/en-us/careers/
+  - Que es: Aspirantes a call center y BPO. Esta fila sirve para descartar a TP como vía directa en Bolivia, no como fuente de empleo.
+  - Requisitos: sin datos (depende de cada vacante; idiomas según el puesto)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (sin vacantes visibles para Bolivia)
+  - Como postular: https://www.tp.com/en-us/careers/job-opportunities/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Bolivia no figura en el filtro de país ni en la lista de ubicaciones, y no se vieron vacantes bolivianas; solo existe una opción regional «LATAM - English».
+  - Aclaracion: No se pudo confirmar que TP contrate en Bolivia.
+  - Aclaracion: Advertencia oficial: los reclutadores de TP solo contactan desde correos @Teleperformance.com, TP no usa Telegram y nunca pide pagar equipos ni enviar cheques.
+  - Aclaracion: Ante un contacto sospechoso, la página indica usar su sección «contact us».

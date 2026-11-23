@@ -1,0 +1,55 @@
+# Primer empleo, juventud y capacitacion
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Banco Unión: Trabaja con Nosotros (portal de convocatorias en Evaluar)** (abierta o vigente, verificada 2 veces) https://bancounion.evaluar.com/
+  - Que es: Personas que buscan empleo en banca estatal: cajeros, oficiales de microcrédito (MYPE), personal de operaciones y cargos profesionales, en La Paz, Santa Cruz, Beni y otras plazas.
+  - Requisitos: Varían por cargo; se detallan en cada ficha. No se pudo confirmar si cajero y similares exigen experiencia.
+  - Pago o beneficio: sin datos (no se publica salario en el listado)
+  - Plazo o ciclo: Abierto y recurrente. Al 23-11-2026 el portal indicaba 14 ofertas (3 páginas). En las 5 vistas, dos indican plazo 26-11-2026 (SC-144-2026 Oficial MYPE Agencia Camiri y SC-143-2026 Jefe de Operaciones de PAF Urbano).
+  - Como postular: https://bancounion.evaluar.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Las vacantes vistas son todas presenciales.
+  - Aclaracion: Se postula desde la ficha de cada vacante en bancounion.evaluar.com.
+  - Aclaracion: Se recomienda postular solo por el portal oficial y no pagar por ningún trámite de selección.
+- **Nanaka, plataforma de becas, cursos y programas de formacion (presentada por el Ministerio de Trabajo)** (sin verificar, verificada 1 vez) https://mintrabajo.gob.bo/index.php/nota_prensa/ministro-de-trabajo-destaca-la-plataforma-nanaka-como-una-ventana-de-oportunidades-para-los-jovenes-bolivianos/
+  - Que es: Estudiantes y jovenes de todo el pais, en especial quienes tienen dificultad para acceder a educacion superior o formacion.
+  - Requisitos: sin datos. La pagina no senala requisitos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La nota oficial lleva fecha de La Paz, 15 de octubre de 2026; no indica fecha de cierre ni de lanzamiento.
+  - Como postular: sin datos
+  - Lectura automatica posible: none
+  - Aclaracion: La nota no da la dirección web de la plataforma ni requisitos, y una búsqueda web no devolvió ninguna página de Nanaka, por lo que su funcionamiento y su enlace quedan sin confirmar.
+  - Aclaracion: La nota indica que la plataforma se presenta a las Escuelas Superiores de Formación de Maestros (ESFM).
+  - Aclaracion: Como regla general, ninguna beca o empleo legítimo exige pagar por postular.
+- **Servicio Social Comunitario, Descolonizador y Despatriarcalizador (SSCDD), Ministerio de Trabajo** (sin verificar, verificada 1 vez) https://mintrabajo.gob.bo/index.php/servicio/servicio-social-comunitario-descolonizador-y-despatriarcalizador/
+  - Que es: sin datos: la pagina no describe a quien va dirigido.
+  - Requisitos: sin datos. La pagina solo ofrece dos formularios en PDF (evaluacion SSCDD y postulacion SSCDYD) sin explicar quien puede postular.
+  - Pago o beneficio: sin datos. No es un empleo remunerado visto; el DS 4469 (2021) lo establece como requisito para ingresar a la carrera administrativa publica.
+  - Plazo o ciclo: sin datos. La pagina no indica fechas. En una busqueda aparecio una invitacion a una 'tercera convocatoria publica' fechada el 4 de junio de 2025 (actividad el 28 de junio de 2025), lo que sugiere convocatorias periodicas, pero no se vio ninguna de 2026.
+  - Como postular: https://mintrabajo.gob.bo/index.php/servicio/servicio-social-comunitario-descolonizador-y-despatriarcalizador/ (formularios PDF en la misma pagina); consultas: telefono 2408606, mteps@mintrabajo.gob.bo
+  - Lectura automatica posible: none
+  - Aclaracion: No es una oferta de empleo ni una beca, sino un requisito previo para el empleo público de carrera, respaldado por el DS 4469 (3 de marzo de 2021).
+  - Aclaracion: No se confirmó ninguna convocatoria abierta en 2026.
+- **UMSA: becas de pregrado (auxiliares academicos con estipendio, beca comedor, apoyo por rendimiento)** (sin verificar, verificada 1 vez) https://www.umsa.bo/web/guest/pregrado-becas
+  - Que es: Estudiantes de la UMSA.
+  - Requisitos: Ser estudiante de la UMSA. Auxiliares: documentos segun el reglamento general de auxiliares y las convocatorias de cada carrera; evaluacion de meritos, examen escrito y examen oral. Beca comedor: criterios academicos y socioeconomicos. No sirve a quien no esta inscrito en la UMSA.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Auxiliares academicos: pago mensual por planilla general (monto no indicado). Beca comedor: estipendio mensual que cubre parcialmente la alimentacion, en tres categorias (montos no indicados).
+  - Plazo o ciclo: sin datos. La pagina no muestra fechas. Las convocatorias de auxiliares academicos las emite cada carrera (convocatoria interna); la beca comedor se asigna por criterios academicos y socioeconomicos, sin fechas visibles. El sistema becats.umsa.bo no pudo abrirse (error: certificado vencido), por lo que la beca BAERA 2026 no se pudo confirmar.
+  - Como postular: Cada carrera de la UMSA (convocatoria interna); contacto: informate@umsa.bo, telefono (591-2) 2612298, Av. Villazon N 1995, Plaza del Bicentenario
+  - Lectura automatica posible: none
+  - Aclaracion: Es una vía de ingreso económico solo para estudiantes de la UMSA.
+  - Aclaracion: Las convocatorias de auxiliares académicos las emite cada carrera.
+  - Aclaracion: La beca BAERA 2026 no se pudo confirmar, porque el sistema becats.umsa.bo no abrió por certificado vencido; la página no menciona ciclo anual ni el enlace de BAERA.
+- **UPB: Vinculacion profesional (CONECTA UPB, bolsa de trabajo)** (sin verificar, verificada 1 vez) https://www.upb.edu/vinculacion-profesional
+  - Que es: Estudiantes y egresados de la UPB (la Red Alumni es solo para graduados).
+  - Requisitos: La pagina dice que la bolsa ofrece oportunidades laborales exclusivas para estudiantes y egresados de la UPB; por tanto no es una via abierta al publico general. No describe el proceso de registro.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Permanente segun la pagina, pero no se vieron ofertas ni plazos: la bolsa conectaupb.net/jobs solo mostro una animacion de carga.
+  - Como postular: https://conectaupb.net/jobs (requiere vinculo con la UPB; contenido no verificado)
+  - Lectura automatica posible: none
+  - Aclaracion: La bolsa de trabajo es un recurso restringido a estudiantes y egresados de la UPB, no una vía abierta al público general.
+  - Aclaracion: El contenido de la bolsa no se pudo ver, por lo que no hay ofertas vigentes confirmadas.

@@ -1,0 +1,99 @@
+# Educacion y cuidado infantil
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **UMSA: portal de convocatorias docentes y estudiantiles (concursos de méritos y exámenes de competencia)** (abierta o vigente, verificada 2 veces) https://convocatorias.umsa.bo/inicio
+  - Que es: Profesionales con título que quieran enseñar en la UMSA como docente interino, contratado o investigador, o dirigir cursos preuniversitarios; también hay convocatorias de auxiliares de docencia dirigidas a estudiantes de la facultad.
+  - Requisitos: Cargos docentes: Diploma Académico y Título Profesional, experiencia en la asignatura; extranjeros con residencia legal y documentos convalidados. PSA: bachilleres.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Publicación continua por facultad y semestre. Docentes vistos con plazo vigente al 2026-11-23: Coordinador del CRALI (FHCE) hasta 25/11/2026 11:00; Docente interino Administración de Empresas 1er y 2do sem. 2027 (FCEF) hasta 24/11/2026 11:30. Ya vencidos: Ingeniería Mecánica y Electromecánica (20/11), Lingüística e Idiomas (19/11), investigadores IIL (19/11) e IICCFA (20/11). Admisión (PSA) 2027 abierta: Tecnología 16/11/2026-23/01/2027 (examen 25-30/01/2027); FHCE 16/11-11/12/2026 (examen 13/12); Economía/Administración/Contaduría 09/11-18/12/2026 y 05-14/01/2027 (examen 17/01/2027); Agronomía 11/11-06/12/2026 (examen 7-10/12); Geología 01/10-06/12/2026.
+  - Como postular: https://convocatorias.umsa.bo/inicio
+  - Lectura automatica posible: HTML; convocatorias en PDF.
+  - Aclaracion: La postulación a cargos docentes es presencial: se entrega un folder con la documentación ordenada, separada y foliada en la Secretaría del Vicedecanato de cada facultad.
+  - Aclaracion: Ejemplos de sede: Ingeniería, Av. Mariscal Santa Cruz N° 1175 (tel. 2205000 int. 1502); FHCE, Av. 6 de Agosto N° 2118 (tel. 2441988); FCEF, Av. Villazón N° 1995 (tel. 2441506).
+  - Aclaracion: Costos de admisión (PSA): Tecnología Bs 150; FHCE Bs 250 (nacionales) y Bs 700 (extranjeros); FCEF Bs 890 y Bs 2.600; Agronomía Bs 400 y Bs 500; Geología Bs 260 y Bs 400.
+  - Aclaracion: El listado de la página llegó truncado, por lo que puede haber más convocatorias.
+- **Unifranz: Convocatoria docente 1-2027 y Trabaja con nosotros** (abierta o vigente, verificada 2 veces) https://unifranz.edu.bo/servicios/convocatorias-talento/
+  - Que es: Profesionales que quieran enseñar en las sedes de La Paz, El Alto, Cochabamba y Santa Cruz; la página lista una 'Convocatoria docente 1-2027' y enlaza a otras convocatorias de talento.
+  - Requisitos: Docente: licenciatura afín a la materia (indispensable); Diplomado en Educación Superior por Competencias o al menos 5 años de experiencia profesional afín (indispensable); al menos 3 años de experiencia profesional en el área; NIT vigente (indispensable); posgrado en la materia es deseable. CV en PDF de máximo 2 páginas y 1 MB. Los cargos administrativos del portal E-Talent tienen requisitos propios (sin datos). No es una vía para personas sin título ni experiencia en el caso docente.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Convocatoria Docente Gestión I/2027: cierre el 29 de noviembre de 2026 (según el formulario oficial). Además, el portal de empleo E-Talent (unifranz.evaluar.com) mostró 20 convocatorias vigentes (docentes y personal administrativo) y una bolsa de talento abierta para postular a futuro. Probablemente se repite cada semestre (no confirmado).
+  - Como postular: https://zfrmz.com/88r024zv8DXrntqsx5om (Santa Cruz); otras ciudades: Cochabamba https://zfrmz.com/9xEpsA286o85QNK4bFzq, El Alto https://zfrmz.com/WBOqcD0xeDtcWBES3EDJ, La Paz https://zfrmz.com/jlApT9BzMxcghl1OjRIu; personal administrativo y bolsa de talento: https://unifranz.evaluar.com
+  - Lectura automatica posible: HTML; formularios externos.
+  - Aclaracion: El formulario de Santa Cruz muestra títulos inconsistentes (encabezado 'Gestión II/2026 (Modelo Optimizado)' y título 'Gestión I/2027'), aunque la fecha de cierre figura igual.
+  - Aclaracion: El formulario no permite modificar las respuestas una vez enviado.
+  - Aclaracion: El NIT puede ingresarse como 0 y tramitarse si se contrata a la persona.
+  - Aclaracion: Los cargos administrativos (Staff) se postulan por separado en unifranz.evaluar.com; conviene postular solo desde enlaces del sitio unifranz.edu.bo.
+- **UNICEF Bolivia: Trabaja con nosotros y portal global de vacantes** (abierta o vigente, verificada 2 veces) https://www.unicef.org/bolivia/trabaja-con-nosotros
+  - Que es: Profesionales con perfil para áreas de educación, protección de la infancia, desarrollo, administración y otras; también hay programas de pasantías y de voluntariado de las Naciones Unidas.
+  - Requisitos: sin datos en la página (se remite a páginas aparte de 'lo que buscamos'); cada vacante publica sus propios requisitos; normalmente se pide formación y experiencia profesional
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año a través del portal global jobs.unicef.org; el 2026-11-23 el filtro de país mostró 1 vacante para Bolivia (título y cierre no visibles en la carga). También hay programas de pasantías y de voluntariado de la ONU.
+  - Como postular: https://jobs.unicef.org
+  - Lectura automatica posible: Portal global jobs.unicef.org (formato no verificado).
+  - Aclaracion: La página en español no lista vacantes ni pasos de postulación y remite al sitio global en inglés (https://www.unicef.org/about/employ/ y https://jobs.unicef.org), con inicio de sesión de candidatos.
+  - Aclaracion: UNICEF no cobra ningún monto en ninguna etapa de la contratación y nunca pide datos bancarios.
+  - Aclaracion: Circulan ofertas falsas por correo, redes sociales y bolsas de empleo; las vacantes legítimas aparecen solo en sus sitios oficiales (https://www.unicef.org/careers/beware-fraudulent-job-offers).
+  - Aclaracion: Las denuncias se dirigen a la Oficina de Auditoría e Investigaciones Internas.
+- **UAGRM: Desarrollo Humano y Escalafón Docente (contacto para convocatorias y concursos)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.uagrm.edu.bo/noticias
+  - Que es: Docentes y administrativos de la UAGRM; la unidad de Desarrollo Humano gestiona el personal.
+  - Requisitos: sin datos (el aviso completo del concurso de méritos no se abrió; en general se piden título profesional y méritos para la cátedra)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Por semestre (se vio el 'Concurso de Méritos para la cátedra (Gestión 2/2026)' de la Facultad de Ingeniería en Ciencias de la Computación y Telecomunicaciones, publicado el 16 y el 20 de octubre de 2026; fecha de cierre: sin datos). La página de Desarrollo Humano no lista ninguna convocatoria.
+  - Como postular: https://www.uagrm.edu.bo/noticias
+  - Lectura automatica posible: HTML.
+  - Aclaracion: La página de Desarrollo Humano solo describe la unidad, formularios internos y avisos al personal; las convocatorias docentes se publican en la sección de noticias (https://www.uagrm.edu.bo/noticias).
+  - Aclaracion: El plazo de presentación y los requisitos figuran en documentos separados por asignatura, no en la publicación.
+  - Aclaracion: Contacto de la unidad: rrhh@uagrm.edu.bo y (591) 3-3363124.
+  - Aclaracion: Conviene confirmar cualquier convocatoria en el sitio oficial uagrm.edu.bo.
+- **USFX (Sucre): sección de convocatorias de la universidad** (sin verificar, verificada 1 vez) https://usfx.bo/convocatorias/
+  - Que es: Postulantes a estudiar y, posiblemente, a cargos docentes y administrativos; la página es la entrada oficial a las convocatorias de la USFX.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://usfx.bo/convocatorias/
+  - Lectura automatica posible: HTML.
+  - Aclaracion: La sección mostró solo convocatorias de admisión de estudiantes (Mérito Deportivo y Mejores Bachilleres, gestión 2026) y listas de admitidos.
+  - Aclaracion: No se vio ninguna convocatoria de empleo docente ni administrativo, por lo que no se puede confirmar que sirva para buscar trabajo.
+- **UPSA: postulación como docente (Sé docente en la UPSA)** (sin verificar, verificada 1 vez) https://www.upsa.edu.bo
+  - Que es: Profesionales que quieran enseñar en la UPSA (Santa Cruz de la Sierra); es una postulación abierta mediante formulario de currículum.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (formulario aparentemente permanente, pero la página no indica vigencia ni fechas)
+  - Como postular: https://pvd.upsa.edu.bo/postulaciones/
+  - Lectura automatica posible: HTML; formulario.
+  - Aclaracion: La raíz pvd.upsa.edu.bo corresponde solo al inicio de sesión de la Plataforma Virtual Docente.
+  - Aclaracion: La página no indica requisitos, fechas ni si hay una convocatoria abierta, por lo que no se confirma que esté activa.
+  - Aclaracion: El portal institucional es www.upsa.edu.bo.
+- **UCB (Universidad Católica Boliviana): sección de convocatorias del sitio** (sin verificar, verificada 1 vez) https://www.ucb.edu.bo/category/convocatorias-noticia/
+  - Que es: Profesionales interesados en cargos docentes y administrativos en las sedes de la UCB; el sitio publica de forma ocasional llamados a cargos.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: HTML (WordPress).
+  - Aclaracion: Las entradas más recientes de la categoría eran noticias institucionales y no convocatorias de empleo.
+  - Aclaracion: No se confirmó una página oficial de empleo de la UCB, por lo que la categoría no sirve como ruta de postulación verificada.
+- **UMSS (Cochabamba): Docentes y Fechas y Convocatorias** (sin verificar, verificada 1 vez) https://www.umss.edu.bo/docentes/
+  - Que es: Docentes y aspirantes a docencia en la UMSS; el sitio central no publica convocatorias docentes de forma visible.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: HTML (WordPress).
+  - Aclaracion: La página es el portal de servicios para docentes (WEBSIS, plataformas, calendario académico, seguro universitario) y no contiene convocatorias laborales.
+  - Aclaracion: El enlace 'Fechas y Convocatorias' (https://www.umss.edu.bo/fechas-y-convocatorias/) está protegido con contraseña y aparece bajo 'Admisiones', por lo que probablemente corresponde a admisión de estudiantes.
+  - Aclaracion: Contacto general: +591 (4) 4525161, info@umss.edu.
+- **Aldeas Infantiles SOS Bolivia: convocatorias (Tía SOS, cuidado de niñas y niños)** (sin verificar, verificada 1 vez) https://www.aldeasinfantiles.org.bo/conocenos/convocatorias
+  - Que es: Personas que quieran trabajar en el cuidado de niñas, niños y adolescentes en aldeas SOS; la convocatoria 'Tía SOS' es para el cuidado diario en un entorno familiar. También hay cargos de captación de fondos.
+  - Requisitos: Promotor de Captación de Donantes Individuales: bachiller; Microsoft Office a nivel usuario; experiencia en ventas, atención al cliente o trabajo de campo deseable pero no excluyente (no exige experiencia). Promotor de Alianzas MIPYMES: bachiller, estudiante universitario o titulado; Office a nivel usuario; al menos 1 año de experiencia en ventas, desarrollo de negocios o prospección. Tía SOS (vencida): edad de 25 a 45 años; bachiller o técnico en área social o educativa; experiencia en cuidado de niñas, niños y adolescentes valorada.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: La lista mostró tres convocatorias el 2026-11-23. Tía SOS Santa Cruz: publicada el 8 de mayo de 2026, cierre 31 de julio de 2026 (vencida). Promotores de Alianzas Empresariales MIPYMES (Santa Cruz o La Paz) y Promotores de Captación de Donantes Individuales (Cochabamba, La Paz, Oruro, Potosí, Santa Cruz, Tarija y Sucre): sin fecha de cierre explícita; el encabezado dice 'Buscamos – julio 6 2026' y 'julio 7 2026', fechas ya pasadas, por lo que su vigencia no está confirmada. Se publican por temporadas: revisar la página.
+  - Como postular: https://forms.gle/K7TEz4hduvoLqmkC6 (captación); https://forms.gle/ZbcKqdco9cfSdiUK8 (MIPYMES); vigencia no confirmada
+  - Lectura automatica posible: HTML.
+  - Aclaracion: Los puestos de promotor se postulan con formularios de Google (captación: https://forms.gle/K7TEz4hduvoLqmkC6; MIPYMES: https://forms.gle/ZbcKqdco9cfSdiUK8), pero no se puede confirmar que sigan abiertos.
+  - Aclaracion: Conviene usar solo los formularios enlazados desde el sitio oficial.

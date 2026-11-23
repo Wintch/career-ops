@@ -1,0 +1,65 @@
+# Estaciones de servicio y tiendas de conveniencia
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **YPFB Refinación S.A. - Trabaja con nosotros (contratación de personal / ofertas de trabajo)** (abierta o vigente, verificada 2 veces) https://www.ypfbrefinacion.com.bo/trabaja-con-nosotros/
+  - Que es: Personas interesadas en trabajar en la empresa estatal de refinación (refinerías y plantas, no en el surtidor de una estación). Se incluye porque es la vía oficial de empleo más cercana al sector combustibles que se pudo verificar.
+  - Requisitos: Hoja de vida y llenado de formularios y evaluaciones en línea. Los requisitos de cada vacante se publican en su aviso. No se indica experiencia mínima general.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Registro de hoja de vida abierto sin fecha límite; no se vieron vacantes ni plazos concretos el 2026-11-23.
+  - Como postular: https://ypfbrefinacion.evaluar.com/trabajo/trabaja-con-nosotros-3/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no lista requisitos ni vacantes concretas: indica que quien se registre podrá ser considerado en oportunidades laborales actuales y futuras, y no se pudo confirmar ninguna vacante abierta.
+  - Aclaracion: Se postula con el enlace "Déjanos tus datos" hacia ypfbrefinacion.evaluar.com, completando formularios y evaluaciones y adjuntando la hoja de vida.
+  - Aclaracion: Conviene verificar que cualquier contacto provenga del dominio oficial ypfbrefinacion.com.bo o del portal enlazado y no entregar datos ni pagos a terceros.
+  - Aclaracion: Contacto: info@ypfbrefinacion.com.bo, (591-3) 3586888.
+- **YPFB Refinación S.A. - Programas y pasantías** (abierta o vigente, verificada 2 veces) https://www.ypfbrefinacion.com.bo/programas-y-pasantias/
+  - Que es: Estudiantes de los últimos semestres o egresados de hasta 26 años (primera experiencia laboral).
+  - Requisitos: Estudiante regular de últimos semestres o egresado, hasta 26 años; 75% de la carrera aprobada; disponibilidad para el período de pasantía. No es para personas sin estudios universitarios.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fecha límite ni periodo publicado; página actualizada el 27/07/2026.
+  - Como postular: https://ypfbrefinacion.evaluar.com/trabajo/programa-de-pasantias/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no publica fecha límite ni periodo de convocatoria, y no se pudo confirmar que el programa figure como vacante abierta en el portal de empleo.
+  - Aclaracion: Se postula llenando el formulario en línea y entregándolo en las oficinas de la empresa (Av. Santos Dumont Final, Santa Cruz), junto con otros requisitos que la página no detalla.
+  - Aclaracion: Las prácticas se realizan en las refinerías Guillermo Elder Bell y Gualberto Villarroel.
+  - Aclaracion: Contacto: info@ypfbrefinacion.com.bo, (591-3) 3586888.
+- **Registro de Operadores de la ANH (estaciones de servicio y puntos de venta de combustible)** (sin verificar, verificada 1 vez) https://www.anh.gob.bo/w2019/contenido.php?s=40
+  - Que es: Cualquier persona que busque a qué estación de servicio acudir. No es una bolsa de trabajo: es el registro oficial de operadores, filtrable por departamento y por actividad (incluye venta de combustible en estaciones de servicio o puntos de venta, distribución de GLP y mantenimiento de estaciones).
+  - Requisitos: No aplica (directorio de operadores; no hay requisitos de empleo).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Registro permanente (licencias con codificación 2025/2026); sin fecha de actualización visible
+  - Como postular: sin datos
+  - Lectura automatica posible: No hay API a la vista. Es una tabla web filtrable; también hay PDF de 'Nómina de Proveedores' en el sitio de la ANH.
+  - Aclaracion: Es un directorio de operadores: no contiene ofertas de trabajo ni forma de postular.
+  - Aclaracion: La página enlaza un formulario de "Denuncias En Línea" y un área de "Gestión de Personal y Desarrollo del Conocimiento" sin ofertas.
+- **YPFB Refinación - Distribuidores a nivel nacional** (sin verificar, verificada 1 vez) https://www.ypfbrefinacion.com.bo/distribuidores-a-nivel-nacional/
+  - Que es: Quien quiera saber qué distribuidores de combustible existen por ciudad; sirve como pista para ubicar empresas del rubro, no como oferta de empleo.
+  - Requisitos: No aplica.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Consulta permanente (buscador por región)
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un buscador de distribuidores por región (Cochabamba, Santa Cruz, La Paz, Sucre, Oruro, Potosí, Tarija, Trinidad, Riberalta, entre otras) y no explica cómo ser distribuidor.
+  - Aclaracion: Los enlaces "Cómo ser proveedor de YPFBR" y "Regístrate como proveedor" son para proveedores, no para postulantes a un empleo.
+- **Automóvil Club Boliviano (ACB) - sitio institucional** (sin verificar, verificada 1 vez) sin datos
+  - Que es: Personas interesadas en trabajar en una entidad con estaciones de servicio en varias sucursales. Es un operador que figura en el registro de la ANH con varias sucursales.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El dominio acbolivia.com pertenece a Auditores & Consultores de Bolivia S.R.L. y no al Automóvil Club Boliviano, por lo que no debe usarse como fuente de empleo del ACB.
+  - Aclaracion: El botón "Trabaja con Nosotros" de ese sitio enlaza a "#" sin vacantes ni instrucciones.
+  - Aclaracion: No hay un sitio oficial del Automóvil Club Boliviano confirmado.
+- **Ministerio de Trabajo, Empleo y Previsión Social - plataforma RRAPE (agencias privadas de empleo)** (sin verificar, verificada 1 vez) https://rrape.mintrabajo.gob.bo/
+  - Que es: Agencias privadas de empleo que se registran ante el Ministerio. No es una bolsa de trabajo para postulantes.
+  - Requisitos: Para agencias: llenar el formulario de registro de agencias privadas de empleo. No hay requisitos para personas que buscan trabajo.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Permanente (portal de acceso para agencias)
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Solo ofrece inicio de sesión, solicitud de acceso y recuperación de contraseña para agencias; no tiene directorio público, registro de postulantes ni ofertas.
+  - Aclaracion: Las agencias privadas de empleo deben registrarse ante el Ministerio, pero no hay una lista pública para verificarlas.

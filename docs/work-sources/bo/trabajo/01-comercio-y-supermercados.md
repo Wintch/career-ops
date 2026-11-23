@@ -1,0 +1,69 @@
+# Comercio y supermercados
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Nexocorp en Evaluar (bolsa de empleo enlazada desde Farmacorp)** (abierta o vigente, verificada 2 veces) https://nexocorp.evaluar.com
+  - Que es: Personas que busquen empleo en farmacias, contact center y áreas de apoyo (mantenimiento, soporte TI, pasantías) en Bolivia. Al 2026-11-23 la página mostraba 30 ofertas en 8 páginas, entre ellas Asesor Farmacéutico en Chuquisaca, Asesor Farmacéutico Contact Center en Santa Cruz de la Sierra, Asistente de Mantenimiento en Cochabamba y Pasante de Soporte en Cochabamba. Todas figuran como presenciales.
+  - Requisitos: Varían según la oferta. Asesor Farmacéutico Chuquisaca: estudios en Bioquímica y Farmacia o Químico Farmacéutico (marcado como indispensable), experiencia en atención al cliente, conocimientos de dispensación de medicamentos. Hay también una pasantía de soporte TI en Cochabamba, descrita como dirigida a personas en formación (sin más detalle de requisitos). Otras ofertas vistas: Asistente de Mantenimiento Cochabamba y Asesor Farmacéutico Contact Center Santa Cruz.
+  - Pago o beneficio: No se indica en las ofertas vistas.
+  - Plazo o ciclo: Abierto de forma continua; 33 ofertas en 9 páginas el 2026-11-23. En las 4 ofertas visibles no se indica fecha de cierre; el cierre del 10 de diciembre de Asesor Farmacéutico Chuquisaca no se pudo comprobar.
+  - Como postular: https://nexocorp.evaluar.com/trabajo/asesor-farmaceutico-chuquisaca1/
+  - Lectura automatica posible: none (portal HTML de Evaluar con páginas de detalle por oferta)
+  - Aclaracion: El botón "Postularme" lleva a un formulario de autenticación de Evaluar, por lo que hay que registrarse o iniciar sesión en ese portal.
+  - Aclaracion: El número de ofertas cambia (otra lectura mostró 33 ofertas en 9 páginas) y el cierre del 10 de diciembre de la oferta de Chuquisaca no pudo confirmarse.
+  - Aclaracion: Los requisitos completos de cada oferta se ven solo en su propia página.
+  - Aclaracion: Conviene postular solo desde este dominio y no pagar por postular.
+- **Farmacorp (sitio oficial, enlace "Trabaja con nosotros")** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.farmacorp.com
+  - Que es: Cadena de farmacias de Bolivia. Es una de las rutas de entrada para cargos de asesor farmacéutico, atención al cliente y contact center. Las vacantes no se publican en el propio sitio sino en el portal enlazado de Nexocorp.
+  - Requisitos: No figuran en el sitio de Farmacorp; se detallan en cada oferta del portal (ver Nexocorp en Evaluar).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin calendario visto. La contratación se canaliza de forma continua por el portal de Nexocorp en Evaluar, con ofertas rotativas y fechas de cierre propias.
+  - Como postular: https://nexocorp.evaluar.com
+  - Lectura automatica posible: none
+  - Aclaracion: El sitio no tiene una sección de empleo propia ni explica el proceso o los requisitos; su enlace "Trabaja con nosotros" dirige al portal externo https://nexocorp.evaluar.com.
+- **Fidalga Super (tienda en línea oficial)** (sin verificar, verificada 1 vez) https://www.fidalga.com
+  - Que es: Personas interesadas en trabajar en un supermercado de Santa Cruz de la Sierra: cajas, reposición, atención y tareas de pedidos en línea. Solo se verificó que la empresa existe y cómo contactarla; no hay evidencia de vacantes abiertas.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: none
+  - Aclaracion: El sitio no tiene enlace de empleo ni explica cómo postular.
+  - Aclaracion: El contacto disponible es general: teléfono +591 75005048, correo ecommerce@fidalga.com (de comercio electrónico, no de recursos humanos) y dirección Av. René Moreno 212, frente a Plaza Blacut, Santa Cruz de la Sierra.
+  - Aclaracion: No se confirmó convocatoria ni canal de contratación.
+- **Supermercados IC Norte (sitio oficial)** (sin verificar, verificada 1 vez) https://www.icnorte.com
+  - Que es: Cadena de supermercados (el título de la página es "Supermercados IC Norte | Ofertas, Promociones y Delivery"). Es una referencia de empleador de supermercado; no se confirmó ninguna vacante.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: none
+  - Aclaracion: No se encontró una sección de empleo ni forma de postular, y no se confirmó ninguna vía de contratación.
+- **Multicenter (tienda en línea y sucursales)** (sin verificar, verificada 1 vez) https://www.multicenter.com/
+  - Que es: Personas interesadas en ventas de piso en tiendas de electrodomésticos, atención al cliente y logística. Es un empleador de comercio por departamentos, no de supermercado. Solo se verificó que existe y tiene sucursales.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: none
+  - Aclaracion: El menú visible no tiene enlace de empleo y no se halló una página oficial de empleo; no se confirmó convocatoria.
+  - Aclaracion: La lista de sucursales está en https://linktr.ee/SucursalesMulticenter.
+- **Farmacias Chávez (sitio oficial)** (sin verificar, verificada 1 vez) https://www.farmaciaschavez.com.bo
+  - Que es: Cadena de farmacias de Bolivia, posible empleadora de asesores de farmacia y atención en mostrador. Solo se verificó la existencia del sitio y sus canales de contacto.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: none
+  - Aclaracion: El contenido visible del sitio no muestra enlace de empleo, aunque podría existir en una parte no revisada.
+  - Aclaracion: No se confirmó ninguna vía de postulación.
+- **Computrabajo Bolivia** (sin verificar, verificada 1 vez) https://bo.computrabajo.com
+  - Que es: Bolsa de empleo generalista con presencia en Bolivia, donde en principio pueden buscarse categorías de comercio como cajero, repositor y vendedor (por ejemplo /trabajo-de-cajero y /trabajo-de-repositor). Es el principal agregador de este rubro en el país según el criterio de la tarea, pero no pudo verificarse su contenido.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Se presume abierto de forma continua, pero no se pudo comprobar.
+  - Como postular: https://bo.computrabajo.com
+  - Lectura automatica posible: none
+  - Aclaracion: El dominio computrabajo.com.bo redirige a bo.computrabajo.com, pero su contenido no pudo verificarse, incluidos el número de ofertas y si el registro es gratuito.
+  - Aclaracion: Como en cualquier bolsa abierta, conviene desconfiar de ofertas que pidan pagos por postular.

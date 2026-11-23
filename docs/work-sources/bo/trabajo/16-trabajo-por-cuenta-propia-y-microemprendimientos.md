@@ -1,0 +1,131 @@
+# Trabajo por cuenta propia y microemprendimientos
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **SEPREC: Inscripción de Comerciante Individual o Empresa Unipersonal (matrícula de comercio)** (abierta o vigente, verificada 2 veces) https://www.seprec.gob.bo/index.php/tramite1
+  - Que es: Personas que ejercen comercio por cuenta propia y quieren formalizarse como comerciante individual o empresa unipersonal.
+  - Requisitos: Formulario virtual como declaración jurada, aprobado con Ciudadanía Digital; pago en la plataforma habilitada; selección de la actividad del clasificador CAEB; para actividades reguladas, PDF de la autorización del ente regulador. No exige experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Costo del trámite: Bs 130,00 (no es un pago al solicitante)
+  - Plazo o ciclo: Abierto todo el año (trámite en línea permanente); la matrícula se renueva cada año (ver Trámite 10)
+  - Como postular: https://tramites.seprec.gob.bo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un trámite de formalización, no una oferta de empleo.
+  - Aclaracion: Sin actividad regulada, la matrícula se emite de inmediato tras el pago; con actividad regulada hay revisión legal de hasta 24 horas desde el siguiente día hábil, y las observaciones aparecen en la bandeja 'OBSERVADOS'.
+  - Aclaracion: Una persona natural solo puede inscribir una empresa unipersonal, y el nombre comercial es el nombre del titular.
+  - Aclaracion: La página recomienda verificar el dominio .gob.bo con https y candado antes de ingresar datos sensibles.
+- **Banco Unión: Microcrédito para el sector productivo y agropecuario** (abierta o vigente, verificada 2 veces) https://www.bancounion.com.bo/Microcreditos/MicrocreditoProductivoAgro
+  - Que es: Personas naturales y jurídicas que tienen una actividad propia (transformación, artesanía, producción agrícola o pecuaria) en zonas urbanas, periurbanas y rurales de los nueve departamentos.
+  - Requisitos: Persona o empresa con una actividad ya en marcha que genere ingresos suficientes para pagar (no es para quien aún no tiene negocio). Documentos: copia de cédula de identidad; factura de servicio básico o, en área rural, certificación de la autoridad comunitaria; croquis de domicilio y negocio; respaldo de la actividad; respaldo de activos; respaldo de pasivos si corresponde. Garantías: microempresa personal, prendaria o hipotecaria; pequeña empresa hipotecaria. Incluye seguro de desgravamen.
+  - Pago o beneficio: Crédito: microempresa de Bs 1.000 a Bs 140.000 (capital de trabajo hasta 36 meses, inversión hasta 96 meses); pequeña empresa de Bs 140.001 a Bs 1.000.000 (trabajo hasta 36 meses, inversión hasta 120 meses). Tasas: no se vieron en la página; remiten a un PDF de tarifas que no se pudo abrir.
+  - Plazo o ciclo: Abierto todo el año (la página no menciona convocatoria ni cierre).
+  - Como postular: https://www.bancounion.com.bo/Microcreditos/MicrocreditoProductivoAgro
+  - Lectura automatica posible: none
+  - Aclaracion: Es un crédito, no una donación ni un empleo.
+  - Aclaracion: La solicitud se hace en los Puntos de Atención del banco o por el Contact Center; la página no describe un trámite en línea.
+  - Aclaracion: Contactos: línea gratuita 800 10 2872, teléfono 68223223, contacto@bancounion.com.bo; oficina central en Calle 21 de Calacoto N° 8484, La Paz.
+  - Aclaracion: Como regla general, ninguna entidad regulada cobra por adelantado para otorgar un crédito, y conviene tramitar solo en agencias o canales oficiales.
+- **Banco FIE: Microcrédito, Crédito Pyme y Crédito agropecuario** (abierta o vigente, verificada 2 veces) https://www.bancofie.com.bo/productos/credito
+  - Que es: Microempresarios y pequeñas empresas del comercio, los servicios, la producción y el agro.
+  - Requisitos: La página general no detalla requisitos, montos ni pasos; hay que consultar la página de cada producto o atención al cliente. Es para quien ya tiene actividad económica.
+  - Pago o beneficio: Crédito. Montos y plazos: no se vieron en esta página. Clientes con buen historial (CPOP, según la CIC de ASFI) pueden obtener una tasa hasta 0,50 puntos menor que la de pizarra; en el sector productivo la rebaja es de hasta 0,10.
+  - Plazo o ciclo: Abierto todo el año (productos permanentes; sin convocatoria).
+  - Como postular: https://www.bancofie.com.bo/agencias-oficinas
+  - Lectura automatica posible: none
+  - Aclaracion: La solicitud se hace en agencias; la página no describe un trámite en línea.
+  - Aclaracion: La página general solo enlaza a «Agencias y oficinas» y «Atención al cliente»; el detalle está en la página de cada producto.
+  - Aclaracion: El único enlace de «convocatorias» está en «Trabaja en Banco FIE» y se refiere a empleo, no a crédito.
+- **Pro Mujer Bolivia IFD: créditos para emprendedoras y microempresarias** (abierta o vigente, verificada 2 veces) https://promujer.org.bo/es/apoyo-financiero/
+  - Que es: Mujeres emprendedoras y microempresarias. Créditos: Banca Comunal, Crédito Individual, Crédito Individual Digital y Microcrédito Grupo Solidario.
+  - Requisitos: La página no detalla requisitos; indica comunicarse con la institución. Enfocado en emprendedoras y microempresarias.
+  - Pago o beneficio: Crédito. Productos listados: Banca Comunal, Crédito Individual, Crédito Individual Digital y Microcrédito Grupo Solidario. Montos y tasas: no se vieron.
+  - Plazo o ciclo: Abierto todo el año. Línea gratuita y WhatsApp todos los días, las 24 horas, según la página; atención presencial de lunes a viernes de 9:00 a 16:00.
+  - Como postular: https://promujer.org.bo/es/apoyo-financiero/
+  - Lectura automatica posible: none
+  - Aclaracion: Es un crédito, no una donación.
+  - Aclaracion: Según la página, la solicitud puede hacerse desde la app Pro Mujer (App Store y Google Play), eligiendo monto y plazo; conviene descargarla solo desde las tiendas oficiales.
+- **Emprende Pro Mujer: plataforma de formación en línea para emprendedoras** (abierta o vigente, verificada 2 veces) https://promujer.org.bo/es/emprendimiento/
+  - Que es: Mujeres que quieren iniciar o hacer crecer un negocio. Cinco etapas: Ideo mi negocio, Comienzo mi negocio, Mejoro mi negocio, Fortalezco mi negocio y Expando mi negocio.
+  - Requisitos: Dirigido a mujeres emprendedoras. La página no lista requisitos de edad, documentos ni experiencia; no pide tener un negocio previo, ya que hay un programa para quien solo tiene una idea (Ideo Mi Negocio).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito: la página no indica ningún costo (no se pudo confirmar si es gratuito en todos los casos). Formación, no pago ni subsidio.
+  - Plazo o ciclo: Abierto todo el año (programas en línea a ritmo propio; no se vio calendario ni cierre).
+  - Como postular: https://www.emprendepromujer.org
+  - Lectura automatica posible: none
+  - Aclaracion: Inscripción: entrar a www.emprendepromujer.org, elegir el programa y pulsar «Regístrate Aquí».
+  - Aclaracion: El estudio es a ritmo propio y hay una comunidad de mujeres de Latinoamérica; es solo para mujeres.
+- **CRECER IFD: Banca Comunal y crédito individual** (abierta o vigente, verificada 2 veces) https://www.finrural.org.bo/crecer-ifd/
+  - Que es: Personas, sobre todo mujeres, sin acceso a crédito tradicional. Banca Comunal: grupos de 8 a 30 personas que se garantizan entre sí. También crédito individual para negocio, vivienda, producción, agro y salud.
+  - Requisitos: La página no lista requisitos ni documentos. Banca Comunal requiere formar un grupo de 8 a 30 personas que se garantizan entre sí. Para créditos de negocio se espera una actividad económica en marcha.
+  - Pago o beneficio: Crédito. Banca Comunal: grupo de 8 a 30 personas con garantía mutua, reuniones cada 28 días con capacitación y operaciones financieras; incluye módulos de ahorro y salud. Crédito individual: para su negocio, de libre disponibilidad, vivienda, productivo, agropecuario y salud. Montos y tasas: no se vieron.
+  - Plazo o ciclo: Abierto todo el año (sin convocatoria).
+  - Como postular: https://www.crecerifd.bo
+  - Lectura automatica posible: none
+  - Aclaracion: La página es de la asociación FINRURAL sobre CRECER IFD; el sitio propio de la entidad, según la página, es www.crecerifd.bo.
+  - Aclaracion: Contactos: +591 2 2178000, +591 2 2114040, +591 2 2419253, consultas@crecerifd.bo; Calle Demetrio Canelas N° 27, Obrajes, La Paz.
+  - Aclaracion: La página no describe el trámite de solicitud.
+- **IDEPRO IFD: Crédito Micro, Transforma, Agro y Banca Comunal** (abierta o vigente, verificada 2 veces) https://www.finrural.org.bo/idepro-ifd/
+  - Que es: Clientes del comercio y los servicios (Crédito Micro), de manufactura y transformación (Transforma), del agro (Agro) y grupos de 8 o más personas con garantía conjunta (Banca Comunal).
+  - Requisitos: La página no incluye requisitos ni procedimiento. Banca Comunal requiere un grupo de 8 o más personas. Los demás créditos suponen una actividad económica en marcha.
+  - Pago o beneficio: Crédito. Crédito Micro (comercio y servicios), Crédito Transforma (transformación o manufactura), Crédito Agro (agrícola y pecuario, sobre todo rural), Banca Comunal (grupo de 8 o más personas con garantía solidaria). Montos y tasas: no se vieron.
+  - Plazo o ciclo: Abierto todo el año (sin convocatoria).
+  - Como postular: https://www.idepro.com.bo
+  - Lectura automatica posible: none
+  - Aclaracion: El sitio propio de la entidad, según la página, es www.idepro.com.bo.
+  - Aclaracion: Contactos: +591 2 2419252, +591 69991636, marketing@idepro.com.bo; Calle Pedro Salazar N° 509, Sopocachi, La Paz.
+  - Aclaracion: La sección de contacto de la página también muestra datos de FINRURAL (Av. Arce esq. Montevideo, +591 2 244 1326, info@finrural.org.bo), que no son de IDEPRO.
+  - Aclaracion: La página no describe el trámite de solicitud.
+- **FINRURAL: directorio de Instituciones Financieras de Desarrollo (IFD)** (abierta o vigente, verificada 2 veces) https://www.finrural.org.bo
+  - Que es: Cualquier persona que busque microcrédito. Agrupa a CIDRE, CRECER, DIACONÍA-FRIF, FONDECO, FUBODE, IDEPRO, IMPRO y PRO MUJER (cada una con ficha propia en el sitio).
+  - Requisitos: Ninguno en el directorio; los requisitos los fija cada IFD.
+  - Pago o beneficio: No aplica: es un directorio de entidades que prestan crédito. Los montos dependen de cada IFD.
+  - Plazo o ciclo: Sin convocatoria ni fechas de eventos visibles. Permanente como sitio de la asociación.
+  - Como postular: https://www.finrural.org.bo
+  - Lectura automatica posible: none
+  - Aclaracion: Es el sitio de la asociación FINRURAL, con enlaces a las IFD asociadas, y no un directorio completo.
+  - Aclaracion: Tiene un enlace a una bolsa de empleo de IFD.
+  - Aclaracion: Las cifras estadísticas del sitio se contradicen entre sí (por ejemplo 65 % frente a 66 % de prestatarias mujeres), por lo que no deben citarse.
+  - Aclaracion: La página no indica cómo verificar contactos legítimos; para comprobar que una entidad esté autorizada, corresponde consultar a la ASFI.
+- **AFCOOP: registro y personalidad jurídica de cooperativas** (abierta o vigente, verificada 2 veces) https://www.afcoop.gob.bo
+  - Que es: Grupos de personas que quieren formar una cooperativa para trabajar de forma asociada.
+  - Requisitos: No vistos: la sección «Personalidad Jurídica» solo mostró un encabezado e imágenes. El menú enlaza «Trámites», «Preguntas Frecuentes» y «Modelos de Notas, Actas y Estatuto Orgánico». Antes de otorgar la personalidad jurídica se verifica la disponibilidad del nombre.
+  - Pago o beneficio: No es empleo ni subsidio. La tasa de regulación tiene su propia página; monto no visto (sin datos).
+  - Plazo o ciclo: Abierto todo el año (trámites permanentes; la noticia del 29 de junio de 2026 anunció el lanzamiento del sistema SITCOOP).
+  - Como postular: https://www.afcoop.gob.bo
+  - Lectura automatica posible: none
+  - Aclaracion: Sirve como forma de autoempleo mediante cooperativas (por ejemplo de trabajo o producción); los trámites se hacen en línea mediante SITCOOP, con seguimiento de hoja de ruta.
+  - Aclaracion: Los requisitos concretos no están confirmados; corresponde consultar a AFCOOP.
+  - Aclaracion: La sección «Convocatorias Públicas» parece referirse a contrataciones del Estado, sin llamados con fecha.
+  - Aclaracion: Contacto: teléfono (591) 2 129205 y correo afcoop@afcoop.gob.bo.
+- **Expocruz (Feria Internacional de Santa Cruz), Fexpocruz** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.fexpocruz.com.bo/ferias
+  - Que es: Empresas y emprendedores que quieren exponer y vender en la feria anual de Santa Cruz.
+  - Requisitos: Expositores: llenar el formulario «Exponé con nosotros» (nombre, correo, teléfono, empresa, rubro, feria y descripción del proyecto). Visitantes: la página no describe entradas ni registro. Sin requisitos de edad, título ni experiencia vistos.
+  - Pago o beneficio: No es empleo. Es espacio comercial para expositores; costo de stands: sin datos.
+  - Plazo o ciclo: Anual. El calendario muestra Expocruz del 17 al 26 de septiembre de 2027 (el título dice 2026 pero la fecha dice 2027; confirmar con Fexpocruz). Otras ferias vistas: Expográfica y Bolivia Textil del 13 al 15 de noviembre de 2026, Festival de Vinos y Quesos 20-21 de noviembre (año no indicado), Expoauto 3-7 de marzo de 2027, Agropecruz/Expoleche/ExpoPet 7-11 de abril de 2027, Expoagro 6-8 de mayo de 2027.
+  - Como postular: https://www.fexpocruz.com.bo/ferias
+  - Lectura automatica posible: none
+  - Aclaracion: Es un canal para emprendedores y para contactar empresas, no una oferta laboral.
+  - Aclaracion: La página advierte que las fechas están sujetas a cambios sin previo aviso.
+  - Aclaracion: Contacto: WhatsApp +591 75385666 y correo info@fexpocruz.com.bo.
+- **Servicio de Impuestos Nacionales (SIN): NIT y regímenes especiales (RTS, RAU, STI)** (sin verificar, verificada 1 vez) https://www.impuestos.gob.bo/index.php/regimenes/
+  - Que es: Pequeños comerciantes, artesanos, transportistas, productores agropecuarios y otros trabajadores por cuenta propia que necesitan inscribirse como contribuyentes.
+  - Requisitos: sin datos. La página es un índice: los requisitos del RTS están en una imagen y en el PDF RTS-1.pdf (que también tiene versiones en aymara y quechua); los del RAU, en los PDF BIP-RAU, RAU-REGIMEN y RAU-CERTIFICADO. No se pudieron leer ni confirmar quién califica, los límites ni las categorías.
+  - Pago o beneficio: sin datos (no se vio el costo de inscribirse en el NIT ni en los regímenes)
+  - Plazo o ciclo: Sin plazo visto; el trámite se presenta como permanente, pero no se pudo confirmar. No se vio un calendario tributario en la página. Atención en oficinas de 08:00 a 16:30.
+  - Como postular: https://www.impuestos.gob.bo/index.php/regimenes/
+  - Lectura automatica posible: none
+  - Aclaracion: El enlace «NIT digital del SIN» usa HTTP sin cifrado y no coincide con el dominio principal; conviene no ingresar datos sin confirmar antes con el SIN.
+  - Aclaracion: Contactos: teléfono 2606060 y línea gratuita 800-10-3444.
+  - Aclaracion: La página es un índice de regímenes: los requisitos están en imágenes y archivos PDF.
+- **Concurso de fondos "Emplea + Verde Impulsa" (Swisscontact, Unión Europea y Ministerio de Producción)** (sin verificar, verificada 1 vez) https://produccion.gob.bo/nota_prensa/el-ministerio-de-produccion-y-swisscontact-suscriben-alianza-para-fortalecer-a-empresas-sostenibles-y-jovenes-emprendedores/
+  - Que es: Más de 70 negocios y emprendimientos sostenibles de La Paz, Cochabamba, Santa Cruz y Potosí; empresas consolidadas con prácticas ecológicas y jóvenes emprendedores (capital semilla).
+  - Requisitos: Solo se vio que el tramo de 3.500 euros es para empresas «consolidadas» que adoptan prácticas verdes. Cobertura: La Paz, Cochabamba, Santa Cruz y Potosí. Reglas de elegibilidad completas: sin datos.
+  - Pago o beneficio: Fondo cofinanciado por la Unión Europea de 173.000 euros en total para más de 70 empresas y emprendimientos sostenibles. Hasta 40 empresas consolidadas con prácticas verdes (reciclaje, eficiencia energética) pueden recibir hasta 3.500 euros más capacitación; además hay capital semilla de hasta 1.100 euros (criterios no vistos).
+  - Plazo o ciclo: Nota oficial del 9 de septiembre de 2026 (La Paz): indica que la convocatoria se presentaría al día siguiente. No se vio fecha de cierre ni página de postulación; vigencia del fondo 2026-2028. No se pudo confirmar si sigue abierta (la búsqueda web no estuvo disponible).
+  - Como postular: sin datos
+  - Lectura automatica posible: none
+  - Aclaracion: La nota no da plazos ni cómo postular; la convocatoria se debe buscar en el sitio de Swisscontact Bolivia o consultar al ministerio (+591 (2) 2184444, línea gratuita 800101585, info@produccion.gob.bo).
+  - Aclaracion: La nota nombra «Ministerio de Producción» mientras el pie de página dice «Ministerio de Desarrollo Productivo, Rural y Agua»; conviene confirmar el canal.
+  - Aclaracion: Es un fondo para emprendimientos, no un empleo.
+  - Aclaracion: Conviene desconfiar de cualquier cobro por postular a fondos de este tipo.

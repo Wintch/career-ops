@@ -1,0 +1,76 @@
+# Servicio domestico, limpieza, seguridad y edificios
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Ley N° 2450 de Regulación del Trabajo Asalariado del Hogar (texto oficial)** (abierta o vigente, verificada 2 veces) https://gacetaoficialdebolivia.gob.bo/normas/verGratis_gob/18860
+  - Que es: Trabajadoras y trabajadores asalariados del hogar y sus empleadores (referencia legal, no es una oferta de empleo).
+  - Requisitos: No es una convocatoria. Rige para trabajo asalariado del hogar continuo. Contrato verbal o escrito (escrito si supera un año). Período de prueba de 90 días (Art. 6). Jornada de 10 horas efectivas con cama adentro y 8 horas sin cama adentro (Art. 11). Un día de descanso semanal. Afiliación a la Caja Nacional de Salud con aviso tras 3 meses de trabajo (Arts. 8 y 9). Aguinaldo desde el tercer mes. Preaviso de 45 días (empleador) y 15 días (trabajadora). No se exige experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Remuneración mensual en moneda de curso legal, no menor al salario mínimo nacional en jornada completa (Art. 14) y la mitad del mínimo en jornada parcial.
+  - Plazo o ciclo: Norma permanente, sin plazo. El texto cargado indica fecha 9 de abril de 2003; la fecha de publicación 11-04-2003 no se pudo confirmar en la página.
+  - Como postular: No aplica (norma)
+  - Lectura automatica posible: PDF: https://gacetaoficialdebolivia.gob.bo/normas/descargarPdf/18860
+  - Aclaracion: Es una referencia de derechos y obligaciones, no una vía de postulación.
+  - Aclaracion: Las denuncias de maltrato, agresión o acoso (Art. 23) se presentan ante la Brigada de Protección a la Mujer y la Familia, la Policía, el Ministerio Público u otras autoridades competentes.
+  - Aclaracion: Conviene desconfiar de cualquier empleador que pida dinero antes de emplear y consultar al Ministerio de Trabajo.
+- **Caja Nacional de Salud: afiliación de trabajadoras del hogar (empleador y trabajadora)** (abierta o vigente, verificada 2 veces) https://www.cns.gob.bo/Site/trabajador
+  - Que es: Empleadores de hogares y trabajadoras o trabajadores del hogar que necesitan afiliarse al seguro de salud.
+  - Requisitos: Empleador: formularios AVC-01 y RCI-1A sin llenar, fotocopia de cédula de identidad, formulario de aclaración de vínculo laboral firmado (1 original y 2 copias), planilla salarial firmada por ambas partes (1 original y 2 copias), fotocopia de factura de luz o agua del domicilio y recibo del examen preocupacional. Trabajadora: certificado de nacimiento, cédula de identidad, formulario AVC-04 llenado y firmado por el empleador y formulario AVC-05 (carnet de asegurado). No se exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es empleo. Costos de trámite: Bs. 5 (AVC-01), Bs. 3 (RCI-1A), Bs. 3 (AVC-04), Bs. 2,50 (AVC-05) y Bs. 100 por trabajador por el examen preocupacional.
+  - Plazo o ciclo: Trámite permanente (abierto todo el año).
+  - Como postular: https://www.cns.gob.bo/Site/trabajador
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los formularios se adquieren en la Tesorería regional o distrital de la CNS.
+  - Aclaracion: La página no precisa la oficina donde se presenta el trámite completo, por lo que conviene consultar en la regional correspondiente.
+- **Ministerio de Trabajo, Empleo y Previsión Social: portal oficial, trámites y herramientas digitales** (abierta o vigente, verificada 2 veces) https://mintrabajo.gob.bo/index.php/lista-herramientas-page/
+  - Que es: Trabajadores y empleadores en general (incluye hogar, limpieza, seguridad y edificios) que necesitan trámites laborales, consultas o denuncias.
+  - Requisitos: No hay requisitos generales. Cada herramienta tiene los suyos. Herramientas vistas: Oficina Virtual de Trámites (https://ovt.mintrabajo.gob.bo/#/loginRoe), registro de agencias privadas de empleo (https://rrape.mintrabajo.gob.bo/), plataforma D-TICKET (https://dticket.mintrabajo.gob.bo/), plataforma de personas con discapacidad (https://motomendez.gob.bo/).
+  - Pago o beneficio: sin datos (no es una oferta de empleo)
+  - Plazo o ciclo: Permanente (portal de herramientas digitales).
+  - Como postular: https://mintrabajo.gob.bo/index.php/lista-herramientas-page/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal no tiene bolsa de trabajo ni buscador de vacantes; el registro RRAPE es para agencias privadas de empleo, no para quienes buscan trabajo.
+  - Aclaracion: Contacto: teléfono 2408606 y mteps@mintrabajo.gob.bo.
+  - Aclaracion: El sitio recomienda usar solo portales .gob.bo con https y candado antes de compartir datos sensibles.
+  - Aclaracion: El enlace de la OVT antigua usa http y una IP numérica, por lo que conviene extremar la cautela antes de ingresar datos.
+- **Ministerio de Gobierno: trámite ED5 Empresas Privadas de Vigilancia (licencia y registro de personal)** (abierta o vigente, verificada 2 veces) https://web.mingobierno.gob.bo/?tramite=ed5-empresa-de-seguridad-privada
+  - Que es: Empresas de seguridad privada, y por referencia quienes buscan trabajo como vigilantes: sirve para saber qué empresas deben estar autorizadas.
+  - Requisitos: Lo solicitan las empresas, no las personas que buscan trabajo. La empresa necesita Matrícula de Comercio, NIT, licencia de funcionamiento municipal, seguros de accidentes personales y de responsabilidad civil, y registro del personal administrativo y operativo con antecedentes policiales, penales y de no violencia. Para un postulante, el dato útil es que una empresa de vigilancia debe tener licencia o autorización del Ministerio y registrar a su personal.
+  - Pago o beneficio: No es empleo. La página no indica costos del trámite.
+  - Plazo o ciclo: Trámite permanente para empresas (en línea).
+  - Como postular: estadodigital.mingobierno.gob.bo/ed5
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una vía de postulación: sirve para comprobar que una empresa de seguridad esté autorizada antes de aceptar una oferta.
+  - Aclaracion: El trámite es en línea en estadodigital.mingobierno.gob.bo/ed5 y está dirigido solo a empresas, no a personas naturales.
+  - Aclaracion: Contacto del Ministerio de Gobierno: Av. Arce esq. Belisario Salinas N° 2409, La Paz; teléfonos (591-2) 2170200, 2120002 y 2120003; info@mingobierno.gob.bo.
+- **trabajo.com.bo (portal de empleo de alcance nacional)** (sin verificar, verificada 1 vez) https://www.trabajo.com.bo
+  - Que es: Cualquier persona que busque empleo en Bolivia, con filtros por departamento: Beni, Chuquisaca, Cochabamba, El Alto, La Paz, Oruro, Pando, Potosí, Santa Cruz y Tarija.
+  - Requisitos: Según el sitio, las empresas publican sus propias vacantes y la contratación se acuerda directamente con el candidato. Los candidatos pasan una revisión manual de perfil y se les pide la cédula de identidad para verificar la cuenta. La página no indica si el registro es gratuito para candidatos; sí lista planes de pago para empresas y dice "Sin comisiones" por contratación.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Portal abierto de forma permanente, pero no se pudo confirmar ninguna vacante vigente.
+  - Como postular: https://www.trabajo.com.bo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El sitio se describe como plataforma de avisos, no como agencia de empleo.
+  - Aclaracion: El 2026-11-23 todos los filtros por departamento mostraban 0 vacantes y no aparecían categorías de limpieza, seguridad ni servicio doméstico.
+  - Aclaracion: Conviene no entregar dinero ni datos bancarios a quien contacte por este medio.
+- **Prosegur: portal global de empleo (Bolivia no confirmada)** (sin verificar, verificada 1 vez) https://prosegur.referrals.selectminds.com/glo
+  - Que es: Postulantes a puestos de vigilancia, transporte de valores y servicios auxiliares en los países donde opera.
+  - Requisitos: sin datos. No se vio ninguna vacante ni requisito.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://prosegur.referrals.selectminds.com/glo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal global (Oracle Taleo) tiene categorías como 'Vigilancia, serviços auxiliares' y 'Logística e gestão de numerário', pero no menciona Bolivia ni lista vacantes en ese país.
+  - Aclaracion: No se confirma la presencia de Prosegur en Bolivia ni una vía de postulación local.
+- **FENATRAHOB Bolivia (Federación de Trabajadoras del Hogar, página en Facebook)** (sin verificar, verificada 1 vez) https://www.facebook.com/fenatrahob
+  - Que es: Trabajadoras del hogar que buscan orientación sobre derechos, apoyo sindical o contactos.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.facebook.com/fenatrahob
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página de Facebook no muestra descripción, contacto ni publicaciones sin iniciar sesión.
+  - Aclaracion: No se confirma que sea la cuenta oficial de la federación ni que ofrezca orientación o bolsa de empleo.
+  - Aclaracion: Conviene tratarla con cautela hasta verificarla por otra vía.

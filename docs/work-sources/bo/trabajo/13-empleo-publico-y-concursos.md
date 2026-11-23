@@ -1,0 +1,62 @@
+# Empleo publico y concursos
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Gobernación de Santa Cruz - Convocatorias externas (portal de transparencia)** (sin verificar, verificada 1 vez) https://convocatoriasexternas.santacruz.gob.bo/
+  - Que es: Postulantes a cargos de la Gobernación de Santa Cruz, incluidas sus secretarías y servicios departamentales. Los tipos de cargo (operativos o de apoyo) no se pudieron verificar.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://convocatoriasexternas.santacruz.gob.bo/
+  - Lectura automatica posible: No visible: aplicación React sin API pública conocida.
+  - Aclaracion: El portal está enlazado desde el menú 'Transparencia' de santacruz.gob.bo, por lo que la URL es la oficial.
+  - Aclaracion: Al cargar solo apareció el encabezado 'Transparencia', probablemente por contenido dinámico; no se vieron convocatorias, fechas, cargos ni requisitos.
+  - Aclaracion: No se pudo confirmar el decreto de 2026 mencionado.
+  - Aclaracion: Los procesos de la administración pública son gratuitos; se debe desconfiar de quien cobre por 'asegurar' un cargo.
+- **ENTEL - Requerimiento de personal (R.R.H.H.)** (sin verificar, verificada 1 vez) https://institucional.entel.bo/inicio3.0/index.php/r-r-h-h/requerimiento-de-personal
+  - Que es: Convocatorias de personal de ENTEL. El contenido de la página son dos imágenes (carpeta /images/RR_HH/2026/07/), que no se pudieron leer.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página carga, pero el contenido está en dos imágenes (1_1.jpg y 2_1.jpg) ubicadas en una carpeta 2026/07, que no se pudieron leer como texto; no se confirmó si la convocatoria sigue vigente.
+  - Como postular: sin datos
+  - Lectura automatica posible: none (imágenes)
+  - Aclaracion: El contenido de la página son dos imágenes que no se pudieron leer, por lo que no se verificó cargo, fecha de cierre ni forma de postulación.
+  - Aclaracion: La sección de denuncias con un enlace 'Estafa' es un canal para reportar fraudes, no una advertencia específica sobre ofertas laborales falsas.
+  - Aclaracion: Se recomienda abrir la página directamente y revisar las imágenes.
+- **Servicio de Impuestos Nacionales - Oportunidades de Empleo** (sin verificar, verificada 1 vez) https://www.impuestos.gob.bo/index.php/oportunidad-de-empleo/
+  - Que es: Convocatorias de personal del SIN. La tabla incluye cargo, cantidad, formación, experiencia, actividades específicas, fecha de cierre y enlace.
+  - Requisitos: sin datos (sin convocatoria abierta).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. El 2026-11-23 la tabla mostraba 'No se encontraron registros'; no se vio evidencia de un ciclo anual.
+  - Como postular: sin datos
+  - Lectura automatica posible: ninguna vista (tabla HTML con filtros)
+  - Aclaracion: La página está activa pero sin convocatorias publicadas.
+  - Aclaracion: Contactos oficiales: 2606060 y línea gratuita 800-10-3444, de 08:00 a 16:30.
+  - Aclaracion: No se debe pagar nunca por postular.
+- **ASFI - Oportunidades de Empleo** (sin verificar, verificada 1 vez) https://www.asfi.gob.bo/oportunidad-de-empleo
+  - Que es: Convocatorias de personal de la ASFI. La tabla tiene fecha de cierre, puesto, formación académica y enlace 'Aplicar'.
+  - Requisitos: sin datos. El formato de la tabla sugiere que se pide formación académica específica por cargo.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La tabla tiene solo encabezados (Fecha de cierre, Puesto, Formación académica, Aplicar) y ninguna fila el 2026-11-23; podría cargar de forma dinámica, no se pudo confirmar.
+  - Como postular: sin datos
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La tabla de convocatorias no mostró ninguna fila; podría cargar de forma dinámica, lo cual no se pudo confirmar.
+  - Aclaracion: Contactos oficiales: (591-2) 2174444 y 2431919, línea gratuita 800 103 103 y correo asfi@asfi.gob.bo; la página no aclara si esos canales reciben postulaciones.
+- **EGPP - Oportunidad de Empleo** (sin verificar, verificada 1 vez) https://egpp.gob.bo/oportunidad-de-empleo/
+  - Que es: Convocatorias de personal de la EGPP. La tabla incluye número, tipo de contrato, cargo, cantidad, formación, experiencia, actividades, fecha de cierre y enlace.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. El 2026-11-23 la página mostraba 'No se encontraron registros'; no se vio evidencia de un ciclo anual.
+  - Como postular: sin datos
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página está activa pero sin convocatorias y no describe un proceso de postulación.
+  - Aclaracion: Contactos oficiales: teléfono +591 2-2200353 y formulario de contacto https://egpp.gob.bo/formulario-de-contacto/.
+- **SIGEP - portal del Ministerio de Economía y Finanzas Públicas** (sin verificar, verificada 1 vez) https://www.sigep.gob.bo/
+  - Que es: Sistema de gestión pública del Estado. No se pudo comprobar si el portal publica convocatorias de empleo.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. Solo se leyó el título 'SIGEP - Mefp'; no se vio contenido sobre empleo, convocatorias ni registro de postulantes.
+  - Como postular: sin datos
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: El portal respondió pero se leyó casi vacío (probablemente se renderiza con JavaScript), por lo que no se confirmó que ofrezca ofertas laborales ni cómo postular.

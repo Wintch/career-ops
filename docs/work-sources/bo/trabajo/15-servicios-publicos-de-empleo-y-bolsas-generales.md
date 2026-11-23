@@ -1,0 +1,68 @@
+# Servicios publicos de empleo y bolsas generales
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **LinkedIn Empleos - Bolivia** (abierta o vigente, verificada 2 veces) https://bo.linkedin.com/jobs/bolivia-empleos
+  - Que es: Ofertas de empresas medianas y grandes y de multinacionales. Incluye ventas, atención al cliente y call center, sucursales y comercio, banca y microfinanzas, logística y tecnología. Los cargos son sobre todo de oficina y comerciales; hay pocos de mano de obra.
+  - Requisitos: Varía por oferta. En la vista pública se pide iniciar sesión para ver más empleos y crear alertas; no se confirmó si postular exige cuenta (lo habitual es que sí). No es específico para primer empleo.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito para postular; salario según cada oferta (sin datos en la vista pública)
+  - Plazo o ciclo: Abierto todo el año; la página mostró '1000+ empleos de Bolivia' (60 visibles)
+  - Como postular: https://bo.linkedin.com/jobs/bolivia-empleos
+  - Lectura automatica posible: Ninguna oficial verificada. La lista pública es HTML.
+  - Aclaracion: Es un agregador, por lo que conviene confirmar cada oferta en la página de empleo de la propia empresa; algunas ofertas llevan la postulación a la web del empleador.
+  - Aclaracion: No se debe pagar por postular ni entregar datos bancarios.
+- **Clasificados El Deber - Empleos** (abierta o vigente, verificada 2 veces) https://clasificados.eldeber.com.bo/category/empleos
+  - Que es: Avisos de empleo del diario cruceño, con mucha oferta de oficios y de mano de obra: comercial y ventas, administración, choferes, agro y ganadería, atención al cliente, albañil y pintor, mecánico y tornero.
+  - Requisitos: Varía por aviso. Hay avisos para ventas, restaurantes y hotelería, administración, choferes, limpieza, almacén y trabajo doméstico, algunos sin exigir título. Se vieron con frecuencia: experiencia en el rubro, licencia de conducir B o C, Excel, certificados FELCC/FELCN (seguridad) y, en algún caso, garantías reales o vehículo propio. Un aviso de preventista indicaba que la moto propia no es indispensable. No es un programa para primer empleo: no hay una regla general de "sin experiencia".
+  - Sin experiencia previa: si
+  - Pago o beneficio: Variable según el aviso; un aviso de personal de seguridad indicaba Bs 3.300 mensuales. Muchos avisos no indican sueldo.
+  - Plazo o ciclo: Abierto todo el año: el 2026-11-23 la página mostraba 509 avisos de empleo en Santa Cruz (60 visibles, con "Ver más anuncios"). Los avisos no muestran fecha de publicación; solo uno indicaba un plazo (15-11-2026, ya vencido).
+  - Como postular: https://clasificados.eldeber.com.bo/category/empleos
+  - Lectura automatica posible: Ninguna. HTML con rutas por categoría (/category/empleos).
+  - Aclaracion: Se postula contactando al anunciante (correo, WhatsApp, teléfono, Google Forms o presencial); todos los avisos corresponden a Santa Cruz.
+  - Aclaracion: Hay señales de alerta en algunos avisos: promesas de ingresos sin detalle del trabajo, avisos con solo un número de referencia y sin empresa, y ofertas con solo teléfono y pedido de garantías.
+  - Aclaracion: Se recomienda verificar la empresa, no pagar por postular y no entregar documentos a anunciantes sin identificar.
+  - Aclaracion: La página no muestra ninguna advertencia propia contra ofertas fraudulentas.
+- **Trabajo.org Bolivia (agregador)** (abierta o vigente, verificada 2 veces) https://bo.trabajo.org
+  - Que es: Buscador que reúne ofertas de portales, sitios de empresas y agencias. Se lista porque es el único agregador visto que cubre todo el país y sirve para buscar por ciudad y sector. No publica ofertas propias: conviene confirmar cada una en el sitio del empleador.
+  - Requisitos: Varía por oferta. La alerta por correo es gratuita. Cada oferta enlaza al formulario del empleador o al portal de origen.
+  - Pago o beneficio: Variable; no se vio ninguna oferta con sueldo.
+  - Plazo o ciclo: Abierto todo el año; el 2026-11-23 mostraba 1.966 ofertas activas (La Paz 282, Santa Cruz de la Sierra 160) y decía actualizarse a diario. No se vio ninguna oferta individual con fecha.
+  - Como postular: https://bo.trabajo.org
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: Es un agregador, no un empleador: no publica ofertas propias y dice recopilar ofertas de más de 2.000 fuentes; el titular de derechos es BEBEE PLATFORM SL.
+  - Aclaracion: Cada oferta debe confirmarse en la página del empleador antes de postular.
+- **Clasificados Los Tiempos - Empleos** (sin verificar, verificada 1 vez) http://clasificados.lostiempos.com
+  - Que es: Avisos de empleo del diario cochabambino, con subcategorías de administración y finanzas, comercial y ventas, salud y farmacia, y Mano de obra, además de choferes en Cochabamba. Sirve para quien busca trabajo manual o de servicios en Cochabamba.
+  - Requisitos: sin datos. El único aviso visible ("Empresa importante requiere personal para limpieza de gallinazo...", ID 2249269) estaba truncado. La sección Empleos tiene las categorías: Administración/Contabilidad/Finanzas, Comercial/Ventas/Negocios, Salud/Medicina/Farmacia, Mano de obra y Trabajo Chofer Cochabamba.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto (sitio activo: imágenes subidas en noviembre de 2026), pero solo se vio un aviso de empleo en la portada y sin fecha.
+  - Como postular: http://clasificados.lostiempos.com
+  - Lectura automatica posible: Ninguna.
+  - Aclaracion: Cada aviso indica su propio contacto para postular.
+  - Aclaracion: El sitio carga por HTTP, sin cifrado, por lo que conviene no ingresar contraseñas ni datos sensibles.
+  - Aclaracion: Los enlaces visibles son para anunciantes (publicar anuncio, registro y manual de 10 pasos en PDF) y el pago se hace por Pagos Net.
+- **ManpowerGroup Bolivia (empleo temporal y selección)** (sin verificar, verificada 1 vez) https://www.manpower.com.bo
+  - Que es: Agencia de selección y de personal temporal. En la fecha de revisión el sitio mostraba un aviso de mantenimiento, así que no se vieron vacantes ni requisitos.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. El 2026-11-23 el sitio cargó solo una página de "Mantenimiento programado", sin ofertas ni forma de postular.
+  - Como postular: sin datos
+  - Lectura automatica posible: Ninguna.
+  - Aclaracion: La página de mantenimiento lista dos contactos para consultas urgentes: Carla Enriquez (+591 7500 6301, cenriquez@manpower.com.bo) y Raquel Martínez (+591 7722 3598, rys@manpower.com.bo).
+  - Aclaracion: No se pudo confirmar ninguna convocatoria ni ruta de postulación.
+  - Aclaracion: Como con cualquier agencia, no debería cobrarse por postular.
+- **BancoSol - Trabaja con nosotros** (sin verificar, verificada 1 vez) https://www.bancosol.com.bo/trabaja-con-nosotros
+  - Que es: Banco de microfinanzas con red nacional de agencias. La página presenta el empleo en el banco, sin vacantes visibles; en LinkedIn aparecen oficiales de crédito y de microfinanzas en bancos del país.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página carga, pero es de marca empleadora (propósito "Transformar Vidas", valores, plan de carrera, testimonios) y no muestra vacantes, fechas ni pasos para postular.
+  - Como postular: sin datos
+  - Lectura automatica posible: Ninguna.
+  - Aclaracion: La página es de marca empleadora y no enlaza a vacantes, convocatorias ni bolsa de trabajo; el único enlace de empleo apunta a la misma página.
+  - Aclaracion: Los contactos FonoSol 800 10 2929 y WhatsApp 62302300 son de atención al cliente, no un canal de reclutamiento.
+  - Aclaracion: La página enlaza el perfil de LinkedIn de la empresa (https://www.linkedin.com/company/bancosol-s-a), sin que se haya confirmado que allí haya ofertas.
+  - Aclaracion: La página enlaza consejos de seguridad en https://www.bancosol.com.bo/consejos-de-seguridad.

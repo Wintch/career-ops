@@ -1,0 +1,139 @@
+# Trabajo remoto no tecnico
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Freelancer.com (directorio de freelancers en Bolivia)** (abierta o vigente, verificada 2 veces) https://www.freelancer.com/freelancers/bolivia
+  - Que es: Cualquier persona que quiera ofrecer servicios por proyecto (administrativos, ingreso de datos, traducción, marketing, edición de video, desarrollo). La página pública de freelancers en Bolivia se vio activa y mostró 18 perfiles con bandera de Bolivia, por lo que hay presencia de residentes bolivianos.
+  - Requisitos: Cuenta gratuita con correo electrónico y nombre de usuario; sin requisitos de edad, título ni experiencia publicados en la página (condiciones de edad y verificación: sin datos).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Variable por proyecto; tarifas por hora listadas por cada freelancer (rango sin datos). Comisión de la plataforma: sin datos.
+  - Plazo o ciclo: abierto todo el año (registro permanente; proyectos publicados de forma continua)
+  - Como postular: https://www.freelancer.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una plataforma de trabajo por proyecto, no empleo en relación de dependencia.
+  - Aclaracion: Las tarifas y comisiones no figuran en la página, que remite a «Fees and Charges»; también se mencionan extras pagados como destacar el perfil o un lugar patrocinado.
+  - Aclaracion: La página no acredita que existan proyectos aptos para principiantes ni indica reglas de elegibilidad por país o verificación de identidad para residentes de Bolivia.
+  - Aclaracion: Conviene verificar comisiones y condiciones de retiro, y desconfiar de quien pida pagar o trasladar la conversación fuera de la plataforma.
+- **Lionbridge Community (traducción, IA, juegos, interpretación)** (abierta o vigente, verificada 2 veces) https://www.lionbridge.com/join-our-community/
+  - Que es: Lingüistas, traductores, intérpretes, colaboradores de datos para IA y testers de juegos. La comunidad declara más de 500.000 personas y más de 450 locales.
+  - Requisitos: La página no indica requisitos (idiomas, experiencia o estudios): dependen de cada vacante. Traducción e interpretación suelen exigir dominio de un par de idiomas, pero eso no figura en la página y no debe darse por seguro.
+  - Pago o beneficio: Dice 'tarifas competitivas'; no publica cifras (desconocido).
+  - Plazo o ciclo: Abierto todo el año: las vacantes se publican de forma continua en careers.lionbridge.com (sin fechas límite vistas).
+  - Como postular: https://careers.lionbridge.com/jobs/search
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No hay formulario de postulación general: se postula a vacantes concretas, y la página no confirma que se contrate en Bolivia.
+  - Aclaracion: Según la página, las ofertas válidas están en careers.lionbridge.com y en sus perfiles oficiales de LinkedIn y Lever.co; las entrevistas virtuales se hacen solo por Microsoft Teams.
+  - Aclaracion: Advertencia oficial: los reclutadores escriben desde direcciones @lionbridge.com, solo se piden datos personales a quienes se registraron en plataformas oficiales y nunca se pide dinero ni tarjetas de regalo.
+  - Aclaracion: Conviene desconfiar de ofertas recibidas por otros canales.
+- **GoTranscript (transcripción freelance, incluye español)** (abierta o vigente, verificada 2 veces) https://www.gotranscript.com/transcription-jobs
+  - Que es: Personas con buen oído, escritura rápida y gramática sólida en su idioma; la página lista más de 140 idiomas, entre ellos español. No exige experiencia previa.
+  - Requisitos: No se exige experiencia previa. Se requiere buena escucha, ortografía y gramática, escritura rápida, computadora, internet estable, auriculares de calidad y un lugar silencioso. Hay que aprobar una prueba de inglés y otra del idioma elegido (cada idioma tiene su prueba; la reprobada se puede repetir). Hablantes no nativos pueden postular con nivel casi nativo.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Hasta USD 1,75 por minuto de audio/video según la página; varía por idioma, dificultad, plazo y calidad.
+  - Plazo o ciclo: Abierto todo el año, con lista de espera: la página dice a la vez que 'no se aceptan nuevos transcriptores por al 23/11/2026' (se avisa por correo al reabrir) y que la contratación está abierta, con proyectos grandes desde el 30 de abril, el 15 de mayo y el 1 de julio de 2026 (fechas ya pasadas).
+  - Como postular: https://www.gotranscript.com/transcription-jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los medios de pago (PayPal o Payoneer) dependen de la región y no se confirmó cuál funciona en Bolivia.
+  - Aclaracion: Los pagos son semanales, los viernes, y se calculan por minuto de audio o video, no por tiempo de trabajo.
+  - Aclaracion: Se permite una sola cuenta por persona: crear varias provoca el rechazo automático.
+  - Aclaracion: La inscripción no tiene costo.
+- **TranscribeMe (programa Crowd de transcripción)** (abierta o vigente, verificada 2 veces) https://www.transcribeme.com/jobs
+  - Que es: Personas que quieran transcribir clips cortos (2 a 4 minutos) de audio. Unirse es gratuito.
+  - Requisitos: Computadora e internet confiable. Registro gratuito y con capacitación inicial. La página no pide experiencia, título ni edad mínima (desconocido si existen requisitos adicionales).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Desde USD 15 a 22 por hora de audio (según la página); equipos médicos y especializados pagan más.
+  - Plazo o ciclo: Abierto todo el año: el registro se hace en workhub.transcribeme.com mediante 'Get Started'. La página no dice si hay cupos limitados.
+  - Como postular: https://workhub.transcribeme.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El trabajo se hace por fragmentos cortos de audio, a voluntad; las ganancias publicadas (promedio mensual USD 250, máximo USD 2.200) indican que suele ser un ingreso complementario.
+  - Aclaracion: La página no menciona restricciones por país, forma de pago ni idiomas; no se confirmó la disponibilidad ni el medio de cobro para Bolivia.
+  - Aclaracion: El proceso de postulación posterior al registro no está descrito.
+- **Rev (transcripción, subtitulado y traducción de subtítulos)** (abierta o vigente, verificada 2 veces) https://www.rev.com/freelancers
+  - Que es: Personas con muy buen inglés (algunos puestos piden otro idioma adicional) para transcripción, subtitulado, subtitulado traducido y transcripción legal.
+  - Requisitos: Computadora, internet confiable y buen nivel de inglés; algunos roles piden otro idioma. Transcripción legal conviene con experiencia o familiaridad con terminología legal de EE. UU. No se exige título ni experiencia en los demás roles según la página.
+  - Pago o beneficio: Por minuto de audio/video: transcripción USD 0,40-1,10; subtitulado USD 0,54-1,10; traducción de subtítulos USD 1,70-4,00 o más según idioma; transcripción legal USD 0,55-2,00 o más.
+  - Plazo o ciclo: Abierto todo el año, con lista de espera por alto volumen de postulaciones; se procesan por orden de llegada. Enviar más de una postulación no acelera el trámite.
+  - Como postular: https://www.rev.com/freelancers
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Hay cuatro roles: Transcriptor, Subtitulador, Traductor de subtítulos y Transcriptor legal; el proceso incluye una evaluación breve y el envío de una muestra, sin compromiso mínimo de horas.
+  - Aclaracion: La página dice que se puede trabajar desde cualquier lugar, pero no confirma que se contrate en Bolivia.
+  - Aclaracion: El pago es semanal por PayPal y no se verificó si PayPal permite cobrar en Bolivia.
+  - Aclaracion: El trabajo es principalmente en inglés.
+- **Remotive: empleos remotos de servicio al cliente** (abierta o vigente, verificada 2 veces) https://remotive.com/remote-jobs/customer-service
+  - Que es: Personas que buscan soporte o atención remota. Cada oferta muestra una región; el filtro distingue ofertas 'disponibles desde mi ubicación' de las que nombran explícitamente el país.
+  - Requisitos: Varían por oferta; se vieron puestos de nivel inicial (entry-level). Restricciones de ubicación frecuentes: exigir residir en un país o región concreto. El idioma suele ser inglés.
+  - Pago o beneficio: Varía por oferta; ejemplos vistos: USD 14-20 por hora y USD 18 por hora (EE. UU.); muchas sin salario publicado.
+  - Plazo o ciclo: Abierto todo el año: listado en continua renovación (se vieron 7.781 empleos remotos en total, con ofertas marcadas como nuevas y otras de hace 1 a 2 semanas).
+  - Como postular: https://remotive.com/remote-jobs/customer-service
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: Funciona como tablero de empleos con fichas propias, donde se postula en la empresa o en Remotive; cada oferta debe verificarse en el sitio de la empresa.
+  - Aclaracion: La mayoría de las ofertas vistas son para un país concreto (EE. UU., Egipto, Portugal, Filipinas); se vio una de atención telefónica nivel 1 de SupportYourApp para LATAM, de nivel inicial y por contrato.
+  - Aclaracion: Hay filtros «Available from my location(s)» y «Explicitly in my location(s)»; en las ofertas visibles no apareció «Worldwide», por lo que debe verificarse la ubicación de cada aviso.
+  - Aclaracion: Parte del acceso (alertas tempranas) es de pago.
+- **We Work Remotely: soporte al cliente remoto** (abierta o vigente, verificada 2 veces) https://weworkremotely.com/categories/remote-customer-support-jobs
+  - Que es: Personas con experiencia en soporte o atención. Las ofertas llevan etiquetas de región como 'Anywhere in the World', 'North America Only' o 'Asia Only'.
+  - Requisitos: Varían por oferta; buscar las marcadas 'Anywhere in the World'. Algunos puestos son técnicos (ingeniería de soporte) y otros de atención general; la experiencia exigida depende de la ficha.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Varía por oferta; ejemplo visto: desde USD 16 por hora (contrato solo EE. UU.); muchas sin salario publicado en el listado.
+  - Plazo o ciclo: 107 empleos en la categoría; "Latest post 18 minutes ago"; ofertas recientes con "New" o "4d". Rotación continua, sin cierre.
+  - Como postular: https://weworkremotely.com/categories/remote-customer-support-jobs
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: Muchas ofertas restringen la ubicación: solo EE. UU., solo Norteamérica, solo Europa, solo Asia o un país concreto como Colombia o Canadá.
+  - Aclaracion: Algunas están marcadas «Anywhere in the World» (por ejemplo Customer Support Specialist - Risk de Mercury y Customer Support Engineer de Vercel), que en principio admitirían residentes en Bolivia, aunque debe confirmarse en cada ficha.
+  - Aclaracion: La categoría mostró 107 empleos en la última consulta, uno más que el conteo indicado.
+  - Aclaracion: Hay que desconfiar de ofertas que pidan dinero o datos bancarios para postular.
+- **OneForma (Centific): anotación, transcripción, traducción y evaluación de IA** (sin verificar, verificada 1 vez) https://www.oneforma.com/
+  - Que es: Personas con idiomas o conocimientos de dominio para tareas pagadas de anotación de datos, recolección de datos, evaluación (judging), transcripción y traducción. La plataforma declara pagar a expertos en más de 100 países.
+  - Requisitos: Sin requisitos formales publicados; algunos proyectos piden idiomas específicos (p. ej. chino o portugués) o residencia en ciertos países. Elegibilidad de Bolivia: sin datos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Según el sitio, desde unos 10 USD/hora (ejemplos vistos; varía por proyecto), pago quincenal sin comisión ni mínimo, a veces vía Payoneer.
+  - Plazo o ciclo: abierto todo el año según la página (perfil en my.oneforma.com; primera asignación típica en 24 horas según el sitio)
+  - Como postular: https://my.oneforma.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La plataforma dice atender a expertos en más de 100 países, pero no nombra Bolivia; la elegibilidad conviene verificarla en el registro o en el Centro de Ayuda.
+  - Aclaracion: Algunos proyectos no indican tarifa; las vistas se muestran antes de aceptar el proyecto.
+  - Aclaracion: Se debe desconfiar de cualquier oferta que pida pagos por acceder a proyectos.
+- **Appen Experts (contribuidores de datos para IA)** (sin verificar, verificada 1 vez) https://appenexperts.com/
+  - Que es: Profesionales con conocimiento en áreas listadas: contabilidad, finanzas, administración de salud, inversiones, derecho, lingüística, medicina e ingeniería de software. No es una opción de primer empleo sin formación.
+  - Requisitos: Experiencia profesional en un área de dominio; sin credenciales ni años mínimos publicados. Verificación de perfil y calificación por proyecto. Elegibilidad de Bolivia: sin datos.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Variable por proyecto y ubicación; hasta 100 USD/hora o más en perfiles expertos según el sitio; pago en USD.
+  - Plazo o ciclo: abierto todo el año según la página; el acceso depende de la revisión del perfil y de la calificación por proyecto
+  - Como postular: https://appenexperts.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Appen declara que nunca pide pagar para participar en proyectos.
+  - Aclaracion: La página no indica países elegibles ni menciona Bolivia, y señala que el pago depende de la ubicación y las habilidades.
+  - Aclaracion: La tarifa se informa antes de empezar y el retiro es por transferencia bancaria, PayPal, Payoneer o Airtm.
+  - Aclaracion: Está orientada a expertos con conocimiento profesional, por lo que no es una ruta típica para un primer empleo.
+- **TP (Teleperformance): trabajo desde casa en atención al cliente** (sin verificar, verificada 1 vez) https://www.tp.com/en-us/careers/work-from-home/
+  - Que es: Postulantes a puestos de atención al cliente y soporte con filtros por país, categoría e idioma (casilla 'Only Work-from-home' en la página de ofertas).
+  - Requisitos: La página no indica requisitos (estudios, equipos, internet, idiomas): dependen de cada vacante. Para trabajo remoto suele hacer falta computadora e internet, pero eso no está confirmado en la página.
+  - Pago o beneficio: Desconocido (no se publica).
+  - Plazo o ciclo: Se presenta como abierto con vacantes rotativas, pero no se vieron vacantes concretas ni fechas.
+  - Como postular: https://www.tp.com/en-us/careers/work-from-home/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Bolivia no figura en ninguno de los listados de países de la página (sí figuran Argentina, Chile, Colombia, Perú, Brasil, México y Costa Rica, entre otros, además de la región Latam); no se puede afirmar que haya vacantes para residentes en Bolivia.
+  - Aclaracion: No se encontró un sitio de TP para Bolivia.
+  - Aclaracion: Advertencia oficial: las personas de selección contactan solo desde direcciones @Teleperformance.com y no usan Telegram; TP nunca envía cheques ni cobra por equipos o por el empleo.
+  - Aclaracion: Los contactos sospechosos se denuncian con el enlace «contact us».
+- **TELUS Digital: carreras (AI Community, Customer Experience)** (sin verificar, verificada 1 vez) https://www.telusdigital.com/careers
+  - Que es: Áreas listadas: AI Community (AI Trainers, Data Annotators, Data Quality), Customer Experience (representantes de servicio, soporte técnico) y Digital Solutions.
+  - Requisitos: No figuran en la página; dependen de cada vacante.
+  - Pago o beneficio: Desconocido.
+  - Plazo o ciclo: Se presenta como abierto con vacantes rotativas; no se vieron fechas ni vacantes concretas.
+  - Como postular: https://www.telusdigital.com/careers
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Cada área enlaza con un portal de vacantes («Search for roles»), pero el portal careers.telusdigital.com devolvió HTTP 403 y no se pudieron ver ofertas ni filtro de país.
+  - Aclaracion: La página no nombra países ni confirma contratación en Bolivia.
+  - Aclaracion: No se describen pasos de postulación.
+- **Payoneer (cobro de pagos internacionales para freelancers)** (sin verificar, verificada 1 vez) https://www.payoneer.com/solutions/freelancers/
+  - Que es: Freelancers que cobran de plataformas o clientes del exterior. La página dice servir a más de 190 países y territorios, sin nombrarlos.
+  - Requisitos: No hay requisitos de elegibilidad en la página; indica que la disponibilidad de productos depende de la elegibilidad del cliente. Los clientes no necesitan cuenta Payoneer para pagar.
+  - Pago o beneficio: No paga: es un servicio de cobro. Comisiones no detalladas en la página (varían según cómo se recibe y se retira el dinero; ver tabla de precios en la cuenta).
+  - Plazo o ciclo: Abierto: registro mediante el enlace 'Open your account' (sin fecha; no es una oferta de empleo sino un servicio de cobro)
+  - Como postular: Consultar el centro de ayuda de Payoneer sobre la disponibilidad en Bolivia antes de aceptar un trabajo que pague solo por este medio.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una fuente de trabajo, sino un medio de cobro de marketplaces (Upwork, Fiverr) o de clientes directos, en más de 70 monedas.
+  - Aclaracion: Dice atender a 190+ países y territorios pero no los lista, por lo que no se pudo confirmar que Bolivia esté incluida.
+  - Aclaracion: El retiro a cuenta bancaria local es «típicamente en 24 horas» según la página; la disponibilidad en Bolivia no se verificó.

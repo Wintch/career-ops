@@ -1,0 +1,449 @@
+# Fuentes transversales y de otros rubros
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Cancillería (Ministerio de Relaciones Exteriores): Convocatoria de Personal** (se repite (hoy sin llamado abierto), verificada 2 veces) https://cancilleria.gob.bo/mre/convocatoria-publica/
+  - Que es: Personas que buscan cargos administrativos y de apoyo en embajadas (auxiliar, secretaria, adjunto civil) y cargos profesionales en La Paz. Al 23/11/2026 la página mostraba las convocatorias 10/2026 a 21/2026 'en proceso' (Embajadas en Brasil, México, Panamá, Paraguay, Perú, Uruguay, Venezuela, Estados Unidos, Austria, Turquía e India); las 01/2026 a 09/2026 (cargos de inversiones en La Paz) figuran como concluidas.
+  - Requisitos: Ejemplo leído (Convocatoria Pública Externa 10/2026, Auxiliar, Embajada en Brasil): nacionalidad boliviana; técnico medio o 2.º año de licenciatura en ciencias sociales, económicas y financieras o secretariado (excluyente); 1 año de experiencia general y 1 año de experiencia específica como asistente administrativo, auxiliar de oficina, secretaria o mensajería (excluyentes); libreta de servicio militar para varones; certificado básico de idioma originario; cursos de Políticas Públicas, Ley 1178, Responsabilidad por la Función Pública y Prevención de la Violencia; inglés básico e idioma del país de destino. No puede tener residencia ni nacionalidad del país de destino. No es un puesto sin experiencia ni sin estudios.
+  - Pago o beneficio: sin datos (no figura en la convocatoria 10/2026 que se leyó)
+  - Plazo o ciclo: Varias convocatorias por año, por proceso. En 2026 se vieron 21 (01 a 09 ya concluidas; 10 a 21 'en proceso'). La recepción de documentos de la Convocatoria 10/2026 cerró el 25 de septiembre de 2026 a las 16:00; la página no muestra ninguna con recepción abierta al 2026-11-23. Próxima convocatoria: sin fecha anunciada.
+  - Como postular: https://cancilleria.gob.bo/mre/convocatoria-publica/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Cada convocatoria se descarga en PDF desde la página con sus requisitos propios; se postula llenando y firmando el Formulario de Postulación y entregándolo en sobre manila cerrado en la Ventanilla Única de Correspondencia (Calle Junín esq. Ingavi, La Paz), y solo se puede postular a un puesto por proceso.
+  - Aclaracion: El estado 'en proceso' no equivale a recepción abierta, y la convocatoria 21/2026 figura como desierta.
+  - Aclaracion: La persona seleccionada debe pasar un período en La Paz para inducción antes de la designación, y la convocatoria no está sujeta a la Carrera Administrativa.
+  - Aclaracion: El trámite no tiene costo y no se debe pagar a intermediarios; las consultas se atienden en el teléfono (591-2) 2408900, internos 4312 o 4314.
+- **SEMAPA (agua, Cochabamba) - Convocatorias de personal** (sin verificar, verificada 1 vez) https://www.semapa.gob.bo/contrataciones-de-personal
+  - Que es: Postulantes a cargos de la empresa municipal de agua de Cochabamba; los cargos operativos no se vieron en la página.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La tabla de convocatorias se cargó vacía; filtros de gestión 2014, 2015, 2018, 2020 y 2026; última actualización 28/04/2025.
+  - Como postular: sin datos
+  - Lectura automatica posible: La tabla podría cargarse por JavaScript; no se identificó API.
+  - Aclaracion: La tabla de convocatorias carga sin filas (encabezados Título, Estado, Publicación) y puede llenarse de forma dinámica al elegir filtros.
+  - Aclaracion: Los filtros de estado son EN CURSO, CONTRATADO, DESIERTO y ANULADO.
+  - Aclaracion: No se pudo verificar si existe una convocatoria 2026 y no hay evidencia de ciclo anual.
+- **Gobierno Autónomo Municipal de Sucre - Recursos Humanos y reglamento de personal eventual (D.E. 065/2025)** (sin verificar, verificada 1 vez) https://sucre.bo/direccion-de-gestion-de-recursos-humanos/
+  - Que es: Personas que desean trabajar como personal eventual a plazo fijo en la alcaldía de Sucre. El reglamento (Decreto Edil N.º 065/2025, 29 de abril de 2025) regula esos contratos.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se vio ninguna convocatoria abierta ni confirmación del ciclo anual.
+  - Como postular: sin datos
+  - Lectura automatica posible: No.
+  - Aclaracion: La sección de Recursos Humanos solo tiene un encabezado, sin texto: no se pudo ver el reglamento de personal eventual (D.E. 065/2025) ni su carácter anual.
+  - Aclaracion: El menú de Convocatorias lista Corredor Urbano, Movilidad Urbana, 2024, Festividad Virgen de Guadalupe y Alianza Pública Privada, ninguna de personal.
+  - Aclaracion: Contacto general de la Alcaldía: Villa Bolivariana, Bloque Norte, piso 6; teléfonos (4) 64-56185 y 64-39769; línea gratuita 800-13-2505 (no se indica que sean de Recursos Humanos).
+  - Aclaracion: La página muestra contenido ajeno de apuestas, que debe ignorarse.
+- **Gobierno Autónomo Departamental de La Paz - Convocatorias GADLP** (sin verificar, verificada 1 vez) https://www.lapaz.gob.bo
+  - Que es: Postulantes a cargos de la Gobernación de La Paz. Cargos operativos o de apoyo: sin datos.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: No.
+  - Aclaracion: 'Convocatorias GADLP' y 'Convocatorias e información' se cargaron sin entradas, y las URL /convocatorias y /convocatorias-gadlp/ devolvieron 404.
+  - Aclaracion: Contacto: (2) 204127 o (2) 204340, de 08:30 a 16:30.
+  - Aclaracion: La Dirección de Transparencia indica el WhatsApp +591 74032723 para denuncias.
+- **Empresa Minera Huanuni - sitio oficial** (sin verificar, verificada 1 vez) https://emhuanuni.gob.bo/index.php/home
+  - Que es: Interesados en trabajo minero estatal en Huanuni (Oruro). No se vio ninguna convocatoria; los cargos operativos no están descritos.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: No.
+  - Aclaracion: El sitio no tiene enlaces de convocatorias, empleo ni personal; solo noticias de contrataciones directas y programa anual de contrataciones (compras, no empleo).
+  - Aclaracion: Gran parte del contenido es de 2015-2016, por lo que parece desactualizado.
+  - Aclaracion: Un 'Aviso Importante' para trabajadores figura sin año (lunes 02 de febrero, probablemente 2026).
+  - Aclaracion: No existe vía de postulación visible.
+- **Empresa Metalúrgica Vinto - sitio oficial (sección Personal)** (sin verificar, verificada 1 vez) https://vinto.gob.bo/?page_id=100
+  - Que es: Interesados en trabajo en la fundición estatal de Vinto. La página dice que la empresa tiene 397 trabajadores, la mayoría en producción y mantenimiento.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: No.
+  - Aclaracion: La sección Personal solo contiene información institucional (empresa creada el 15 de julio de 1966 como ENAF; 397 trabajadores), sin convocatorias ni forma de postular.
+  - Aclaracion: La sección Contrataciones (https://vinto.gob.bo/?page_id=3428) muestra solo la Resolución Administrativa EMV-GG-N° 008/2025 (PDF de septiembre de 2025, contenido no confirmado).
+  - Aclaracion: 'Invitaciones II Requerimientos' (?page_id=88) y 'Contáctanos' (?page_id=68) no tienen contenido de empleo visible.
+  - Aclaracion: No hay evidencia de empleo abierto.
+- **Mi Teleférico - sitio oficial** (sin verificar, verificada 1 vez) https://www.miteleferico.bo
+  - Que es: Postulantes a cargos de la empresa de transporte por cable. Los cargos operativos no se pudieron verificar. Una búsqueda mostró una convocatoria de pasantías (enero de 2025, para estudiantes de contabilidad de la Universidad Salesiana), ya vencida.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: No.
+  - Aclaracion: El contenido de empleo del sitio solo carga con JavaScript, por lo que no hay convocatoria, requisito ni ciclo confirmados.
+  - Aclaracion: Debe verificarse con un navegador con JavaScript antes de considerarla fuente abierta.
+- **INE (Instituto Nacional de Estadística): Convocatorias, expresiones de interés y pasantías** (sin verificar, verificada 1 vez) https://www.ine.gob.bo/index.php/institucion/convocatorias-bienes-servicios/
+  - Que es: Personas que quieran trabajar como personal de campo en encuestas y censos, o como pasantes. Al 23/11/2026 la página de convocatorias (de bienes y servicios) mostraba solo una entrada de 2026 relacionada con trabajo de campo: 'Convocatoria de CIL Encuesta Hogares 2026 Potosí-Beni-Pando' (sigla CIL no explicada en la página). La página de Expresiones de Interés tenía 13 entradas marcadas 'Vigentes', sin fechas confirmadas (imágenes de 2022 a 2025), y la de Pasantías solo tenía el encabezado y datos de contacto.
+  - Requisitos: sin datos (los PDF enlazados no se pudieron leer). La mayor parte de la página son compras y contrataciones de bienes y servicios (seguros, pasajes, limpieza, equipos), no vacantes de personal. 'CIL' no se pudo confirmar como sigla.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Por proceso; sin calendario fijo. La página muestra, bajo gestión 2026, una 'Convocatoria de CIL para la Encuesta de Hogares 2026 (Potosí, Beni y Pando)'; no se pudo leer su fecha ni su cierre. La documentación técnica del INE indica que la Encuesta de Hogares se ejecuta en el segundo semestre de cada gestión (dato de fuente secundaria).
+  - Como postular: https://www.ine.gob.bo/index.php/institucion/convocatorias-bienes-servicios/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página solo muestra títulos de convocatorias y enlaces a PDF, sin fechas, requisitos ni estado, por lo que no se puede dar un plazo ni confirmar una vacante abierta.
+  - Aclaracion: La mayor parte de las convocatorias de la página corresponde a compras y contrataciones de bienes y servicios, no a vacantes de personal.
+  - Aclaracion: En Bolivia circulan ofertas de trabajo falsas en redes; conviene verificar solo en el sitio oficial del INE.
+  - Aclaracion: Contacto: oficina central Av. José Carrasco N.° 1391 (Miraflores), La Paz, teléfono (591-2) 2222333, correo info@ine.gob.bo; hay oficinas departamentales en Potosí, Trinidad y Cobija.
+- **Ministerio de Trabajo: directorio de Jefaturas Departamentales de Trabajo (direcciones y teléfonos)** (abierta o vigente, verificada 2 veces) https://mintrabajo.gob.bo/index.php/lista-direcciones-page/
+  - Que es: Cualquier persona que trabaje o haya trabajado sin contrato, o con incumplimientos (sueldo, aguinaldo, finiquito), y quiera saber dónde acudir en su departamento.
+  - Requisitos: Ninguno para consultar. Llamar antes para confirmar horario y documentos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: Atención permanente; el horario no figura en la página (no verificado)
+  - Como postular: https://mintrabajo.gob.bo/index.php/lista-direcciones-page/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un directorio, no una bolsa de empleo.
+  - Aclaracion: La página no indica horario de atención; conviene llamar antes para confirmar horario y documentos. Contacto central: teléfono 2408606, correo mteps@mintrabajo.gob.bo.
+  - Aclaracion: Advertencia oficial del Ministerio de Trabajo (30 de junio de 2026): personas inescrupulosas usan el nombre de autoridades y servidores del Ministerio para ofrecer puestos, designaciones y contratos a cambio de dinero; el Ministerio no realiza cobros para acceder a cargos, contrataciones o trámites, y pide verificar solo por canales oficiales y denunciar cualquier cobro indebido.
+- **SEDEM Tarija - Servicio Departamental de Empleo (Gestora del Trabajo, Mi Primer Empleo)** (sin verificar, verificada 1 vez) https://www.tarija.gob.bo/gobierno/servicios-departamentales/sedem
+  - Que es: Habitantes del departamento de Tarija que buscan empleo, incluida la primera vez. La página describe un servicio de intermediación gratuito, público y universal, formación laboral y los programas 'Mi Primer Empleo' y 'Mi Primer Negocio'.
+  - Requisitos: La página no indica requisitos. Se presenta como servicio universal.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (servicio gratuito según la página)
+  - Plazo o ciclo: Servicio permanente según la página; sin fechas ni ciclos publicados.
+  - Como postular: sin datos
+  - Lectura automatica posible: No.
+  - Aclaracion: Se confirma la existencia del servicio, no que haya ofertas vigentes ni una convocatoria 2026 de SEDEM.
+  - Aclaracion: La página describe un servicio gratuito, público y universal de intermediación laboral, además de los programas Mi Primer Empleo y Mi Primer Negocio, sin convocatorias, fechas ni procedimiento de postulación.
+  - Aclaracion: Contacto: Calle España esquina Av. Las Américas Nº 154 (ex CODETAR); correo SEDEMgobtarija@gmail.com; teléfono general de la Gobernación (591) 4-6672412.
+  - Aclaracion: Ningún trámite oficial de empleo público debería requerir pagos.
+- **Ministerio de Trabajo: Sistema de Inspectoría de Trámites (beneficios sociales de trabajadores desvinculados)** (sin verificar, verificada 1 vez) https://mintrabajo.gob.bo/index.php/servicio/sistema-de-inspectoria-de-tramites/
+  - Que es: Trabajadores desvinculados y empleadores que depositan beneficios sociales, con autorización de las Jefaturas Departamentales de Trabajo.
+  - Requisitos: sin datos (no figuran en la página)
+  - Pago o beneficio: No aplica; el Ministerio indica que no cobra por trámites administrativos
+  - Plazo o ciclo: sin datos (la página no describe el servicio)
+  - Como postular: https://mintrabajo.gob.bo/index.php/lista-direcciones-page/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página solo muestra el título y datos de contacto: no describe el servicio, quién puede usarlo, requisitos, costos ni pasos, por lo que no se pudo confirmar su alcance.
+  - Aclaracion: El listado de trámites revisado muestra planillas de aguinaldo, primas y multas, pero nada sobre inspectoría ni beneficios sociales.
+  - Aclaracion: Contacto: teléfono 2408606, correo mteps@mintrabajo.gob.bo y formulario de contacto del sitio del Ministerio.
+  - Aclaracion: El Ministerio no realiza cobros por trámites administrativos (comunicado del 30 de junio de 2026); cualquier cobro indebido debe denunciarse.
+- **Caja Nacional de Salud (CNS): registro de empleadores y empresas unipersonales** (abierta o vigente, verificada 2 veces) https://www.cns.gob.bo/Site/empleador
+  - Que es: Quien contrata personal, incluidas las empresas unipersonales, y debe inscribirse como empleador.
+  - Requisitos: Formularios AVC-01 (firmado por el representante legal, con sello), AVC-02 y RCI-1A (firmado por el propietario, con número de cédula de identidad); solicitud dirigida al jefe de la unidad regional o distrital de afiliación; fotocopia del NIT y su certificado electrónico; balance de apertura firmado por el Colegio Departamental de Contadores o Auditores; planilla de haberes (1 original y 5 copias, firmada por los trabajadores); lista de personal con fechas de nacimiento; croquis de ubicación; comprobante de examen preocupacional (la página indica Bs 100 por trabajador); todo en folder amarillo. Se presenta en la Unidad de Afiliación regional o distrital (dirección general citada: Mariscal Santa Cruz esq. Almirante N° 123).
+  - Pago o beneficio: No aplica (trámite de afiliación; costo indicado: Bs 100 por trabajador por el examen preocupacional)
+  - Plazo o ciclo: Abierto todo el año (trámite sin fecha límite en la página)
+  - Como postular: https://www.cns.gob.bo/Site/empleador
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un trámite para quien emprende o contrata personal, no una oferta de empleo.
+  - Aclaracion: La página no muestra fechas ni pasos numerados.
+  - Aclaracion: Se recomienda no entregar datos sensibles fuera de portales .gob.bo con https.
+- **Google Career Launchpad Bolivia: 5.000 becas en competencias digitales** (sin verificar, verificada 1 vez) sin datos
+  - Que es: Jóvenes bolivianos de 18 años o más: estudiantes universitarios y de institutos, emprendedores y 'todos los jóvenes de Bolivia', según la nota. Seis meses de acceso a Google Skills y 50 % de descuento en exámenes de certificación Google Cloud; además 100 becas completas para docentes tutores.
+  - Requisitos: Jóvenes desde 18 años; estudiantes de universidades e institutos y emprendedores, según la nota. Sin más requisitos publicados. No se menciona experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Beca gratuita de formación (no es un empleo ni paga salario); 50% de descuento en exámenes de certificación Google Cloud.
+  - Plazo o ciclo: Lanzamiento oficial el 26-08-2026 (nota de ABI). Plazo de postulación y enlace de inscripción: no indicados en la nota. No se encontró una página oficial del Ministerio de Educación (minedu.gob.bo) que mencione el programa.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La cifra de aumento salarial de 15 a 25 % es una afirmación del presidente, no una garantía del programa.
+  - Aclaracion: La nota de ABI no indica proceso de postulación ni enlace de inscripción.
+  - Aclaracion: Las inscripciones a becas solo deben hacerse por canales oficiales del Gobierno.
+- **Caja Nacional de Salud: sitio oficial y contactos de la oficina central** (sin verificar, verificada 1 vez) https://www.cns.gob.bo/
+  - Que es: Quien necesite ubicar la regional de la CNS donde afiliarse, incluidas trabajadoras del hogar y trabajadores independientes.
+  - Requisitos: sin datos. No se vio ninguna convocatoria con requisitos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. El menú 'Recursos Humanos > Convocatorias' (https://www.cns.gob.bo/Convocatorias/_Convocatorias) cargó pero no mostró ninguna convocatoria de personal; no se vio fecha ni ciclo.
+  - Como postular: https://www.cns.gob.bo/Convocatorias/_Convocatorias
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página de contactos no es un canal de postulación; la oficina central está en Av. Mariscal Santa Cruz esq. Almirante Grau Nº 123, La Paz, teléfonos 2112132 y 2113555.
+  - Aclaracion: 'Contrataciones > Convocatorias Vigentes' remite a SICOES y corresponde a compras de bienes y servicios, no a empleo.
+  - Aclaracion: Conviene verificar directamente con la CNS si publica convocatorias de personal.
+  - Aclaracion: Se debe desconfiar de cualquier cobro por un puesto (comunicado del Ministerio de Trabajo del 30/06/2026 sobre cobros fraudulentos por empleos).
+- **Banco Ganadero: Trabaja con Nosotros (portal de vacantes en Evaluar)** (abierta o vigente, verificada 2 veces) https://www.bg.com.bo/trabaja-con-nosotros/
+  - Que es: Personas que buscan empleo en banca, sobre todo en Santa Cruz de la Sierra (también cargos con base en La Paz).
+  - Requisitos: Varían por cargo; ver ficha.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto y recurrente. Al 23-11-2026 el portal de Evaluar indicaba 15 ofertas; 5 visibles, sin plazo indicado.
+  - Como postular: https://bancoganadero.evaluar.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL de postulación correcta es https://bancoganadero.evaluar.com/, a la que lleva el botón 'Ver vacantes' del sitio oficial del banco.
+  - Aclaracion: Las vacantes vistas son presenciales; en Ejecutivo Banca Empresa Jr y Gerente de Oficina la ficha indica Santa Cruz y la descripción indica La Paz.
+  - Aclaracion: Se postula enviando la hoja de vida desde la ficha.
+  - Aclaracion: Consultas: línea gratuita 800 10 3999; oficina central en Calle Bolívar #99, Santa Cruz.
+- **Banco Mercantil Santa Cruz (BMSC): Súmate a Nuestro Equipo** (abierta o vigente, verificada 2 veces) https://postulate.evaluar.com/
+  - Que es: Personas interesadas en trabajar en el banco; el portal ofrece el acceso 'Conoce nuestras convocatorias'.
+  - Requisitos: sin datos (no se vieron los requisitos completos; figuran en la ficha de cada vacante). La pasantía y el cargo de cajero podrían no exigir experiencia, pero no se confirmó.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: el 2026-11-23 el listado mostraba 22 vacantes (15 visibles), sin fechas de cierre visibles. Convocatorias rotativas.
+  - Como postular: https://postulate.evaluar.com/sumate-al-bmsc
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Todas las vacantes vistas son presenciales y el listado no muestra fechas de publicación ni de cierre.
+  - Aclaracion: Los requisitos completos figuran en la ficha de cada vacante.
+  - Aclaracion: Un banco no cobra por postular: cualquier solicitud de pago o depósito para acceder a un empleo debe tratarse como posible estafa.
+- **Minera San Cristóbal (Potosí) - Trabaja con nosotros** (abierta o vigente, verificada 2 veces) https://www.minerasancristobal.com/v3/es/oportunidadesdeempleo/
+  - Que es: Personas que buscan empleo en la mina San Cristóbal (municipio de Colcha K, Potosí). Según un informe citado en una búsqueda, 1.322 empleados propios y 1.501 contratistas en 2022, por lo que muchas vacantes se publican por contratistas.
+  - Requisitos: Para RC-41-26: licenciatura en Administración, Ingeniería Comercial, Economía, Sistemas o afines; 2 a 4 años de experiencia general; 1 a 3 años en RR.HH. y en planillas salariales en empresas industriales o mineras; trámites ante Gestora Pública, Ministerio de Trabajo y CNS; licencia de conducir nacional vigente; Excel, Word y PowerPoint intermedios; curso de administración de planillas. Requiere título y experiencia: no apto para primer empleo.
+  - Pago o beneficio: sin datos (no publicado en la convocatoria vista)
+  - Plazo o ciclo: Convocatorias abiertas el 2026-11-23, con cierre variable por vacante. La vacante RC/41/26 cierra el 23 de noviembre de 2026 (es decir, al 23/11/2026); las RC-40-26 y RC-42-26 no se verificaron en detalle. Páginas actualizadas de forma continua.
+  - Como postular: https://www.minerasancristobal.com/v3/es/inicio/oportunidadesdeempleo/oportunidades-rc-41-26-analista-nominas/
+  - Lectura automatica posible: No.
+  - Aclaracion: Las tres vacantes listadas son de Recursos Humanos: RC-40-26 Analista Sénior de Desarrollo Organizacional (La Paz), RC-41-26 Analista de RR.HH. Nóminas (Campamento Toldos, Nor Lípez, Potosí; contrato indefinido; jornada 14/7) y RC-42-26 Analista Sénior de RR.HH. Compensaciones y Beneficios (La Paz).
+  - Aclaracion: Son puestos de perfil profesional con experiencia, no de primer empleo; solo se leyó el detalle de RC-41-26.
+  - Aclaracion: Para postular a RC-41-26: descargar el 'Formulario de Postulación Laboral' (.xlsx), completarlo y enviarlo, preferentemente en PDF, a reclutamiento@minerasancristobal.com; a quienes sean habilitados se les piden los documentos de respaldo.
+  - Aclaracion: La empresa indica que no cobra por capacitación ni por derechos de postulación; se debe desconfiar de quien pida pagos.
+- **Cinemark Bolivia: Trabaja con Nosotros** (sin verificar, verificada 1 vez) https://www.cinemark.com.bo/trabaja-con-nosotros
+  - Que es: Personas que buscan trabajo en cines (atención al público y dulcería, entre otros). La página ofrece horarios flexibles pensados para quienes estudian y una línea de carrera según el desempeño.
+  - Requisitos: sin datos (la página no indica edad, estudios ni documentos; no se confirmó si se exige experiencia)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página no indica si el formulario es permanente ni fecha de cierre (la afirmación 'abierto: formulario permanente' no se pudo confirmar).
+  - Como postular: https://www.cinemark.com.bo/trabaja-con-nosotros (botón 'POSTULA AQUÍ', enlace a Microsoft Forms)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página invita a postular mediante un formulario externo de Microsoft Forms ('POSTULA AQUÍ'), sin nombrar cargos, requisitos ni fecha de cierre.
+  - Aclaracion: Menciona horarios flexibles que permiten compatibilizar trabajo y estudios.
+  - Aclaracion: Solo se confirma que existe un canal de postulación, no que esté abierto de forma permanente.
+- **ACIERTA CAINCO: Talento Humano (reclutamiento y selección)** (sin verificar, verificada 1 vez) https://acierta.cainco.org.bo/talento-humano/
+  - Que es: Servicio dirigido a empresas que buscan personal. La página mostró tres vacantes en Santa Cruz: Gestor de Marketing y Redes Sociales, Gerente de Negocios y Analista de Finanzas.
+  - Requisitos: sin datos. Los requisitos están en la ficha de cada vacante, que no se abrió. Los cargos vistos apuntan a perfiles profesionales o con experiencia.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto, vacantes cambiantes. Se vieron tres vacantes en Santa Cruz (Gestor de Marketing y Redes Sociales, Gerente de Negocios, Analista de Finanzas), sin fecha de cierre.
+  - Como postular: https://acierta.cainco.org.bo/talento-humano/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un servicio de CAINCO orientado a empresas; las personas postulan mediante cada vacante y el proceso no se describe en la página.
+  - Aclaracion: No se confirmó que las vacantes sigan vigentes al 23/11/2026.
+  - Aclaracion: Contacto: WhatsApp +591 77024203, teléfono +591 33383334, lunes a viernes 8:30-13:00 y 14:00-17:30, Av. Las Américas N.º 7, piso 9, Santa Cruz.
+- **Fundación INFOCAL: Capacitación (cursos cortos, 39 áreas)** (abierta o vigente, verificada 2 veces) https://www.fundacioninfocal.edu.bo/capacitacion/
+  - Que es: Cualquier persona que quiera aprender un oficio o una habilidad: la página lista unas 39 áreas (computación, electricidad, electrónica, soldadura, gastronomía, peluquería y cosmetología, construcción, textil, diseño web, idiomas, instalación de gas natural, turismo y hotelería, entre otras). Según la propia fundación, el enfoque es 70 % práctico y 30 % teórico.
+  - Requisitos: La página nacional no detalla requisitos de inscripción para cursos cortos. En el sitio de FAQs se indica que las capacitaciones duran entre 8 y 1.200 horas, con enfoque 70% práctico y 30% teórico. No se indica edad mínima ni experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Costo: sin datos (la página no informa aranceles). Es capacitación paga o con becas según la sede; no es empleo.
+  - Plazo o ciclo: Oferta continua (abierto todo el año); las fechas y cupos los define cada sede. La página nacional no indica fechas.
+  - Como postular: https://www.fundacioninfocal.edu.bo/capacitacion/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es capacitación, no empleo; las ofertas concretas se consultan en las webs de cada sede (Beni, Chuquisaca, Cochabamba, La Paz, Oruro, Pando, Potosí, Santa Cruz y Tarija).
+  - Aclaracion: La página nacional no describe inscripción ni plazos.
+  - Aclaracion: Contacto nacional: teléfonos (591) 2246537 y 2246529, correo infocal.nacional@gmail.com.
+  - Aclaracion: No se debe pagar a intermediarios; la inscripción se hace solo en la sede o el sitio oficial.
+- **INFOCAL Cochabamba: Capacitación Continua** (abierta o vigente, verificada 2 veces) https://www.infocalcbba.edu.bo/capacitacion/
+  - Que es: Estudiantes, técnicos y personas que busquen oficios: áreas descritas en el sitio incluyen alta tecnología automotriz, automatización y robótica industrial, manufactura y metalmecánica, gestión de energía y electricidad, gastronomía y servicios, y educación y desarrollo infantil. Subsedes en Tupuraya (av. General Galindo 1406) y Arocagua (av. Villazón km 3).
+  - Requisitos: La página no describe prerrequisitos ni proceso de inscripción; se debe consultar directamente a INFOCAL Cochabamba. Los cursos se dirigen a profesionales, técnicos y estudiantes que desean actualizarse; no se indica edad, título ni experiencia mínima.
+  - Pago o beneficio: Costos: sin datos (la página no los informa).
+  - Plazo o ciclo: Oferta continua (abierto todo el año); fechas de inicio de cada curso: sin datos (no figuran en la página).
+  - Como postular: https://www.infocalcbba.edu.bo/contacto/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no figura con fechas, precios ni requisitos; hay que consultar directamente a INFOCAL Cochabamba.
+  - Aclaracion: Contacto: piloto 4242660, correo infocal@infocalcbba.edu.bo, formulario en https://www.infocalcbba.edu.bo/contacto/.
+  - Aclaracion: Los certificados se verifican en https://certificados.infocalcbba.edu.bo/.
+  - Aclaracion: Es formación, no empleo.
+- **Fundación INFOCAL: preguntas frecuentes y oferta formativa (carreras técnicas)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://fundacioninfocal.edu.bo/faqs/
+  - Que es: Personas que quieran una carrera técnica (Técnico Medio de 2 años o Técnico Superior de 3 años, acreditadas por el Ministerio de Educación) con horarios pensados para quien trabaja. La formación técnica es presencial por norma del Ministerio. También recibe listas de becarios del Ministerio de Educación al inicio de cada gestión.
+  - Requisitos: Carreras técnicas (Técnico Superior o Técnico Medio, presenciales): fotocopia de cédula de identidad vigente (llevar el original), fotocopia del certificado de nacimiento (llevar el original), fotocopia del diploma de bachiller (si está en trámite, libreta escolar o certificado de estudios del último año por un máximo de seis meses), 2 fotos, llenar el formulario de inscripción y firmar el contrato de servicios. Se necesita ser bachiller. No se indica edad ni experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Costos: sin datos (la página no informa aranceles). Es formación, no empleo; las prácticas laborales duran entre 300 y 420 horas según la carrera.
+  - Plazo o ciclo: Gestión académica anual; la página no indica fechas de inscripción. Se menciona que INFOCAL recibe listas de becarios del Ministerio de Educación al inicio de cada gestión académica. Fecha 2027: sin datos (confirmar con la sede). La afirmación sobre el cierre del 16 de febrero de 2024 en Sucre no se vio en la página.
+  - Como postular: https://fundacioninfocal.edu.bo/capacitacion/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Las preguntas frecuentes no enumeran las carreras ni contienen calendario de inscripción; el ciclo anual se infiere del texto sobre el inicio de gestión, no de una convocatoria vista.
+  - Aclaracion: Es formación, no empleo.
+  - Aclaracion: Dirección nacional: Calle Chichas N° 1280, Edificio INFOCAL, tercer piso, oficina 302 (La Paz); teléfonos 2246537 y 2246529; correo infocal.nacional@gmail.com.
+- **INFOCAL La Paz y El Alto (carreras técnicas y más de 400 cursos cortos)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://infocallp.edu.bo
+  - Que es: Personas de La Paz y El Alto. Técnico Superior (3 años): Parvulario, Secretariado Ejecutivo, Sistemas Informáticos, Gastronomía, Mecánica Automotriz, Mecánica Industrial, Contaduría General, Mercadotecnia, Informática Industrial. Técnico Medio (2 años): Enfermería. El sitio menciona más de 400 cursos cortos de capacitación.
+  - Requisitos: Los requisitos específicos están en la página de cada carrera (https://infocallp.edu.bo/requisitos-inscripcion.php lista las carreras pero no los requisitos). Para los requisitos generales de carreras técnicas ver las FAQs de la Fundación (cédula, certificado de nacimiento, diploma de bachiller, 2 fotos). No se indica edad ni experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Costos: sin datos (no se vieron aranceles).
+  - Plazo o ciclo: Gestión académica anual para carreras; cursos cortos con oferta continua. Fechas de inscripción 2027: sin datos (la página no las muestra; confirmar con la sede o mediante 'Solicitar Información').
+  - Como postular: https://infocallp.edu.bo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El listado de cursos cortos se carga dinámicamente y no pudo verse.
+  - Aclaracion: La inscripción se hace mediante los formularios 'Inscríbete al 23/11/2026' o 'Solicitar Información'.
+  - Aclaracion: Sedes: Miraflores (Calle Chichas #1280), El Alto (Av. 6 de Marzo #340) y subsede Ballivián (El Alto, Calle Cap. René Vargas N° 3262 B); teléfonos (591-2) 2242000, 2221569, 2221435, WhatsApp +591 76797031; correo informaciones@infocallp.edu.bo.
+  - Aclaracion: Es formación, no oferta de empleo.
+- **Fe y Alegría Bolivia: Formación para el Trabajo** (sin verificar, verificada 1 vez) https://www.feyalegria.org/bolivia/formacion-trabajo/
+  - Que es: Estudiantes de Centros de Educación Alternativa (CEA) e Institutos Técnicos Superiores (ITS) de la red: la página indica 18.365 estudiantes en 11 ITS y 35 CEA (dato 2022). Ofrece formación técnica con 70 % de práctica, horarios flexibles, intermediación laboral, prácticas laborales, inserción y acompañamiento, y emprendimiento; hay proyectos con enfoque en jóvenes en vulnerabilidad y mujeres. En Cochabamba la red tiene el Instituto Técnico Nuestra Señora del Pilar y el Instituto Tecnológico Padre Antonio Berta.
+  - Requisitos: sin datos: la página no indica requisitos, cursos, inscripción ni fechas. Atiende a participantes de Centros de Educación Alternativa (CEA) e Institutos Técnicos Superiores (ITS).
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no se informan costos ni becas).
+  - Plazo o ciclo: Gestión académica anual (fechas sin datos); la página no muestra convocatorias de inscripción.
+  - Como postular: https://www.feyalegria.org/bolivia/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no indica requisitos, cursos, inscripción ni fechas; para inscribirse hay que acudir al CEA o ITS más cercano.
+  - Aclaracion: La cifra de 18.365 estudiantes corresponde a 2022 y no es un dato actual.
+  - Aclaracion: El enlace 'Convocatorias' del sitio principal corresponde a empleos en la propia organización, no a inscripción de estudiantes.
+  - Aclaracion: Contacto general: teléfonos 2444134, 2444136, 2444139; correo secretaria@feyalegria.edu.bo.
+- **Ministerio de Trabajo: Reglamento para trámites de organizaciones sindicales (2026)** (sin verificar, verificada 1 vez) https://mintrabajo.gob.bo/index.php/sindicales/
+  - Que es: Sindicatos, federaciones, confederaciones y centrales obreras (incluidos los de choferes, gremiales y construcción) que necesitan personería jurídica, reconocimiento de directorio y otros trámites.
+  - Requisitos: sin datos (están en los PDF, no verificados)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se vio ciclo ni plazo; el año 2026 solo figura en la ruta del archivo)
+  - Como postular: https://mintrabajo.gob.bo/index.php/sindicales/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un trámite para organizaciones, no una vía de empleo.
+  - Aclaracion: Los requisitos y plazos están en los PDF, que no se abrieron, por lo que no están confirmados.
+  - Aclaracion: Según un resumen de búsqueda, un comunicado del Ministerio de Trabajo fechado 30 de junio de 2026 señala que no autoriza ni promueve supuestos cargos, nombramientos o contratos ofrecidos a cambio de dinero u otros beneficios, y pide denunciar esas ofertas.
+  - Aclaracion: Contactos del Ministerio en la página: teléfono 2408606 y correo mteps@mintrabajo.gob.bo.
+- **CEPB e-Campus (plataforma de cursos en línea)** (sin verificar, verificada 1 vez) https://cepb-ecampus.com/
+  - Que es: Más de 80 cursos: emprendimiento y negocios, habilidades blandas, gastronomía (panadería, pastelería, cocina nacional), seguridad industrial, electricidad domiciliaria, textil y moda, guías de turismo, nivelaciones.
+  - Requisitos: Requiere crear una cuenta e iniciar sesión. No se indican otros requisitos.
+  - Pago o beneficio: sin datos. No se vieron precios.
+  - Plazo o ciclo: Plataforma Moodle en línea con catálogo de decenas de cursos; no se vieron fechas de inicio ni cierre. Los anuncios del sitio no tenían publicaciones. Si cada curso está abierto al 23/11/2026: sin datos.
+  - Como postular: https://cepb-ecampus.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es formación, no empleo.
+  - Aclaracion: No se pudo confirmar la vigencia de cada curso ni su costo.
+  - Aclaracion: Está disponible en español e inglés y con aplicación móvil.
+- **Cámara Nacional de Comercio (CNC): Capacitación Empresarial** (sin verificar, verificada 1 vez) https://www.cnc.bo/capacitacion-empresarial/
+  - Que es: Público del sector comercial y empresarial. La página solo muestra 'conoce nuestros cursos' y un botón de WhatsApp; no se vio lista de cursos.
+  - Requisitos: sin datos (no se publican en la página)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (la página no indica fechas ni calendario)
+  - Como postular: https://www.cnc.bo/capacitacion-empresarial/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página solo muestra el encabezado «conoce nuestros cursos» y un botón de WhatsApp, sin nombres de cursos, costos, requisitos ni fechas, por lo que no se puede confirmar ninguna convocatoria.
+  - Aclaracion: El botón de WhatsApp apunta al 65173414, distinto del celular impreso (65173410); conviene confirmar cuál está vigente.
+  - Aclaracion: Es oferta de capacitación empresarial, no una bolsa de empleo.
+  - Aclaracion: Advertencia oficial del Ministerio de Trabajo (30 de junio de 2026): ninguna institución pública cobra por acceder a cargos o contrataciones; se debe desconfiar de cualquier cobro a cambio de empleo.
+- **Fe y Alegría: Formación para el Trabajo (iniciativa de la Federación Internacional)** (sin verificar, verificada 1 vez) https://www.formacionparaeltrabajo.org/fpt/
+  - Que es: Iniciativa presente en 22 países que promueve formación para un trabajo digno. La página solo muestra 'Santa Cruz – Bolivia' como ubicación; no detalla programas ni institutos de Bolivia.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: No se halló enlace específico de Fe y Alegría Bolivia en https://www.feyalegria.org/donde-estamos/ (solo selector de país). Dirigirse a la oficina o instituto técnico local de Fe y Alegría de cada departamento.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un portal internacional, no el canal de postulación en Bolivia; la página no muestra cursos, contacto, requisitos ni inscripción específicos del país.
+  - Aclaracion: Para conocer la oferta vigente y las fechas de inscripción hay que consultar directamente a Fe y Alegría Bolivia o a cada instituto técnico.
+  - Aclaracion: Advertencia oficial del Ministerio de Trabajo (30 de junio de 2026): no se debe pagar por conseguir un empleo o contrato.
+- **SIN: Registro Nacional de Contribuyentes (obtener el NIT)** (abierta o vigente, verificada 2 veces) https://www.impuestos.gob.bo/index.php/registro-nacional-de-contribuyentes/
+  - Que es: Cualquier persona natural o empresa que quiera trabajar por cuenta propia o vender con respaldo legal.
+  - Requisitos: sin datos (ver los documentos TEXTO-RCN-PERSONA y PREGUNTAS-RCN enlazados en la página); no se vio exigencia de experiencia ni título
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no menciona un costo)
+  - Plazo o ciclo: Abierto todo el año (trámite permanente; no tiene ciclo)
+  - Como postular: https://www.impuestos.gob.bo/index.php/registro-nacional-de-contribuyentes/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un trámite de formalización tributaria, no una oferta de empleo.
+  - Aclaracion: La página no detalla requisitos ni costo; figuran en los documentos enlazados (TEXTO-RCN-PERSONA y PREGUNTAS-RCN).
+  - Aclaracion: Atención en oficinas de 08:00 a 16:30, teléfono 2606060 y línea gratuita 800-10-3444.
+  - Aclaracion: La página recomienda compartir datos sensibles solo en portales oficiales .gob.bo con https.
+- **ASFI: entidades de intermediación financiera con licencia (Bancos PYME, IFD y cooperativas)** (abierta o vigente, verificada 2 veces) https://www.asfi.gob.bo/la/entidades-intermediacion-financiera-licencia-funcionamiento
+  - Que es: Emprendedores y microempresarios que buscan microcrédito en una entidad autorizada.
+  - Requisitos: Ninguno para consultar la lista. Los requisitos de crédito dependen de cada entidad (no verificados).
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: Lista de consulta permanente; la página no declara fecha de corte. Los archivos están rotulados "08_2026" y alojados en una carpeta 2026-09, lo que sugiere datos a agosto de 2026 (no se vio la frase "31 de agosto").
+  - Como postular: https://www.asfi.gob.bo/la/entidades-intermediacion-financiera-licencia-funcionamiento
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una oferta de empleo ni un crédito en sí; sirve para comprobar que una entidad tiene licencia antes de contratar un préstamo.
+  - Aclaracion: La página no declara fecha de corte, y los nombres de las entidades están dentro de los PDF.
+  - Aclaracion: Contactos ASFI: (591-2) 2174444 / 2431919, línea gratuita 800 103 103 y correo asfi@asfi.gob.bo.
+- **SEPREC: Renovación de Matrícula de Comercio** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.seprec.gob.bo/index.php/tramite10/
+  - Que es: Comerciantes individuales, empresas unipersonales y sociedades ya inscritas, que deben renovar cada año.
+  - Requisitos: Formulario virtual de renovación (declaración jurada) y Encuesta Anual de Unidades Económicas si corresponde; pago en línea; para renovar con fines de cancelación, balance de cierre en PDF y/o certificación del SIN sobre el NIT. Sin requisito de experiencia.
+  - Pago o beneficio: Costo del trámite (no es un pago al solicitante): Bs 260,00 para comerciante individual o empresa unipersonal
+  - Plazo o ciclo: Renovación anual en línea, sin Ciudadanía Digital. Tarifas: Bs 260,00 (unipersonal), Bs 455,00 (SRL y sociedades colectivas o en comandita simple) y Bs 584,50 (S.A. y similares). Con NIT activo la renovación es inmediata; con NIT inactivo, hasta 48 horas desde el día hábil siguiente al pago. Hay un cargo adicional de "Prescripción" si se adeudan más de cinco periodos. Último plazo de ampliación visto en la portada: 30/09/2026.
+  - Como postular: https://tramites.seprec.gob.bo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un trámite para quien ya tiene un negocio registrado, no una oferta de empleo.
+  - Aclaracion: Con NIT activo el certificado se emite al momento; con NIT inactivo tarda hasta 48 horas hábiles tras el pago y requiere análisis financiero.
+  - Aclaracion: Otros costos: Bs 455 para SRL, colectiva o comandita simple, y Bs 584,50 para S.A. y otras; la prescripción (más de 5 gestiones adeudadas) cuesta Bs 78, 136,50 o 175 según el tipo.
+  - Aclaracion: Los avisos de ampliación de plazo figuran en la portada de seprec.gob.bo y no en la página del Trámite 10.
+- **CEMSE: formación técnica productiva para jóvenes (La Paz, El Alto, Tiquipaya)** (sin verificar, verificada 1 vez) https://cemse.edu.bo
+  - Que es: Jóvenes de La Paz, El Alto y Tiquipaya (proyecto con LED 2024-2026), jóvenes y mujeres en centros de educación alternativa de La Paz y El Alto (ASATA 2025-2026; AECID 2023-2026) y proyecto de ecosistema de emprendimiento y empleabilidad en el área metropolitana de Cochabamba (MariaMarina 2024-2026). Hay además una feria 'Mercado Joven Emprendedor'.
+  - Requisitos: sin datos: la página no indica requisitos, edad, inscripción ni fechas. Los proyectos se dirigen a jóvenes, en especial mujeres, de Centros de Educación Alternativa (CEA) en La Paz y El Alto y de los municipios de La Paz, El Alto y Tiquipaya.
+  - Pago o beneficio: sin datos (no se informan costos ni becas).
+  - Plazo o ciclo: Proyectos con vigencia declarada hasta 2026 (ASATA 2025-2026, AECID 2023-2026, LED 2024-2026); renovación sin datos. No se vio calendario de inscripción.
+  - Como postular: https://cemse.edu.bo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El menú 'Cursos' enlaza a un sitio externo cuyo listado de cursos no se mostró, por lo que la oferta no pudo verificarse.
+  - Aclaracion: Los años entre corchetes son plazos de proyectos de cooperación, no vigencia de cursos; conviene confirmar si hay nuevas cohortes en 2027.
+  - Aclaracion: Contacto: Calle Pichincha Nro. 750, Zona Norte, La Paz; teléfonos (591) 2280183 y 2280800; correo cemse@cemse.edu.bo; horario 9:00-17:00.
+- **SIN: Régimen Tributario Simplificado (RTS)** (sin verificar, verificada 1 vez) https://www.impuestos.gob.bo/index.php/regimen-tributario-simplificado/
+  - Que es: Comerciantes minoristas, artesanos y vivanderos (personas naturales) que quieren tributar con un pago bimestral fijo y sin emitir factura.
+  - Requisitos: sin datos (la página enlaza 'Requisitos para la inscripción al RTS' y un PDF del régimen, no leídos)
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (no confirmado); no se vio en la página una fecha ni un ciclo de revisión de categorías
+  - Como postular: https://www.impuestos.gob.bo/index.php/regimen-tributario-simplificado/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un régimen tributario para pequeños comerciantes y artesanos por cuenta propia, no una oferta de empleo.
+  - Aclaracion: La página solo muestra títulos y enlaces, por lo que quién califica, las categorías, los montos y el procedimiento no están confirmados.
+  - Aclaracion: Atención del SIN: teléfono 2606060 y línea gratuita 800-10-3444, de 08:00 a 16:30.
+- **Feria del Empleo y Emprendimiento de Cochabamba (UPB, Feicobol y FEPC)** (sin verificar, verificada 1 vez) sin datos
+  - Que es: Jóvenes que buscan ofertas laborales, nuevas oportunidades e ideas de emprendimiento; la nota de 2022 la describe como gratuita para los visitantes.
+  - Requisitos: Abierto al público; asistencia gratuita; sin requisito de experiencia.
+  - Pago o beneficio: No aplica (feria de empleo).
+  - Plazo o ciclo: Edición de 30 y 31-08-2022 (tercera). Periodicidad y edición 2026: no confirmadas.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No hay prueba de una edición vigente en 2026; la nota de 2022 solo sirve como referencia de un evento periódico en Cochabamba.
+  - Aclaracion: No es una fuente de postulación directa.
+- **Entel Bolivia: página de LinkedIn de la empresa (único canal de empleo visto)** (sin verificar, verificada 1 vez) sin datos
+  - Que es: Personas interesadas en la operadora estatal de telecomunicaciones; cargos de asesor comercial, atención al cliente o técnico: sin datos.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.linkedin.com/company/entelbolivia (no se pudo verificar)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: LinkedIn devolvió HTTP 403, por lo que no se pudo ver la página ni sus vacantes.
+  - Aclaracion: No hay confirmación de que sea el canal oficial de empleo de Entel Bolivia ni de que tenga ofertas vigentes.
+  - Aclaracion: LinkedIn es un canal de terceros: conviene priorizar la página de empleo propia de la empresa si existe.
+  - Aclaracion: Ante ofertas falsas, verificar que el aviso provenga de la cuenta oficial de la empresa y no pagar nada por postular.
+- **Confederación de Gremiales de Bolivia (comerciantes minoristas, artesanos y vivanderos)** (sin verificar, verificada 1 vez) sin datos
+  - Que es: Gremiales, comerciantes minoristas, artesanos y vivanderos, que se organizan en federaciones locales afiliadas a la confederación nacional.
+  - Requisitos: sin datos
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: sin datos (el artículo es del 27 de febrero de 2024; no hay ciclo)
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La fuente es una nota de prensa (eju.tv), no una página oficial de la organización, y no indica cómo afiliarse.
+  - Aclaracion: Existe una disputa con otros dirigentes ("falsos dirigentes"); conviene verificar con quién se trata antes de pagar cuotas.
+  - Aclaracion: El artículo cita pagos bimestrales del RTS de Bs 47 (capital de Bs 12.001 a 15.000) a Bs 350 (capital de Bs 37.001 a 60.000); son datos de 2024 no confirmados para 2026.
+  - Aclaracion: Para la vigencia actual del RTS corresponde consultar el Servicio de Impuestos Nacionales (impuestos.gob.bo).
+- **Fundación Munasim Kullakita: capacitación técnica y reintegración social (El Alto)** (sin verificar, verificada 1 vez) https://www.munasimkullakita.org
+  - Que es: Niñas y adolescentes de 10 a 18 años atendidas en su hogar; adolescentes y jóvenes en alta vulnerabilidad en reintegración posinstitucional; personas que salen del sistema penitenciario; niñez y juventud en situación de calle. Oferta de formación técnica vista: sublimación y tejido (terapia ocupacional), emprendimiento de galletería.
+  - Requisitos: La página no lista requisitos. El hogar atiende a niñas y adolescentes de 10 a 18 años; no se confirmó acceso para otras personas.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Servicio permanente; no hay convocatorias visibles
+  - Como postular: https://www.munasimkullakita.org
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una fuente de empleo ni una convocatoria: es un servicio de protección y reintegración social con un grupo destinatario específico.
+  - Aclaracion: La página no indica si la capacitación está abierta al público general ni cómo inscribirse.
+  - Aclaracion: Contacto: teléfono 2-2843853, correo info@munasimkullakita.org, Calle 7 «La Plata» N.º 67, Zona Ferropetrol, El Alto.
+- **Comunicado del Ministerio de Trabajo contra ofertas de empleo falsas (junio 2026)** (abierta o vigente, verificada 2 veces) https://mintrabajo.gob.bo/wp-content/uploads/2026/06/COMUNICADO-30-DE-JUNIO-1-1.pdf
+  - Que es: Toda persona que busque empleo público o reciba ofertas de cargos, designaciones o contratos en nombre del Ministerio.
+  - Requisitos: No aplica.
+  - Pago o beneficio: No aplica (es una advertencia contra fraudes).
+  - Plazo o ciclo: Comunicado fechado en La Paz el 30 de junio de 2026; advertencia vigente (no es convocatoria).
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Personas inescrupulosas usan el nombre de la máxima autoridad y de servidores públicos del ministerio para ofrecer supuestos puestos, designaciones y contratos a cambio de dinero u otros beneficios.
+  - Aclaracion: El ministerio no autoriza, promueve ni realiza cobros de ninguna naturaleza para el acceso a cargos públicos, procesos de contratación o trámites administrativos.
+  - Aclaracion: Se exhorta a verificar la información solo por los canales oficiales y a denunciar de inmediato cualquier cobro indebido; ninguna oferta legítima exige pagar por un puesto.
+  - Aclaracion: Teléfono del ministerio: (591-2) 2408606; sitio www.mintrabajo.gob.bo.
+- **ASFI: actividad financiera ilegal y cómo denunciarla** (abierta o vigente, verificada 2 veces) https://www.asfi.gob.bo/pb/actividad-financiera-ilegal
+  - Que es: Cualquier persona que reciba ofertas de crédito o inversión de origen dudoso.
+  - Requisitos: Cualquier persona puede denunciar; carta firmada con datos de identidad y pruebas disponibles, presentada en una oficina de ASFI.
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: Permanente
+  - Como postular: https://www.asfi.gob.bo/node/770
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es útil frente a ofertas de crédito, inversión o "trabajo" que piden dinero adelantado.
+  - Aclaracion: Otros avisos sobre fraudes de empleo: el comunicado del Ministerio de Trabajo del 30 de junio de 2026 y una advertencia, vista en prensa, sobre falsas ofertas laborales a jóvenes bolivianos para explotación laboral en Chile.
+  - Aclaracion: La denuncia se presenta en persona en una oficina de ASFI; hay oficinas en La Paz, El Alto, Santa Cruz, Cochabamba, Sucre, Oruro, Potosí, Tarija, Cobija y Trinidad.
+  - Aclaracion: Línea gratuita 800 103 103 y correo asfi@asfi.gob.bo; la página aconseja compartir información sensible solo por portales oficiales .gob.bo con https.
+- **Ley 263 Integral contra la Trata y Tráfico de Personas (trabajo forzoso, servidumbre y agencias de empleo)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://gacetaoficialdebolivia.gob.bo/normas/verGratis_gob/140540
+  - Que es: Toda persona que reciba una oferta de empleo dentro o fuera del país, en especial trabajo de temporada, zafra, castaña, minería o trabajo del hogar con anticipos o enganche.
+  - Requisitos: No aplica. Contenido visto: el art. 6 define trabajo forzoso (labor o servicio bajo amenaza o coacción; el pago de salario no implica que no sea forzado) y servidumbre (incluida la servidumbre por deudas); el art. 25 dice que el Ministerio de Trabajo, Empleo y Previsión Social regula por reglamento a las agencias privadas de empleo, que la intermediación laboral desde Bolivia hacia el exterior debe ser autorizada y registrada por ese Ministerio, y que las agencias no pueden cobrar comisiones a los trabajadores, retener documentos de identidad o de viaje, exigir exclusividad ni pedir pagos anticipados (el costo lo paga el empleador); el art. 34 sanciona la explotación laboral, el trabajo forzoso y cualquier forma de servidumbre.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica (norma legal, no oferta de empleo).
+  - Plazo o ciclo: Norma permanente. La Gaceta la muestra como 'Ley de 31 de julio de 2012' (sancionada el 13 de julio de 2012, promulgada el 31 de julio de 2012), de modo que la fecha coincide con la afirmada. El encabezado de la página también muestra 'Decreto Supremo Nº 3453', sin explicación en lo visto.
+  - Como postular: sin datos
+  - Lectura automatica posible: PDF y Word en la Gaceta Oficial (rutas /normas/descargarPdf/140540 y /normas/verGratis_gob1/140540).
+  - Aclaracion: Es una referencia para reconocer ofertas fraudulentas (cobros por colocar, retención de documentos, ofertas al exterior de agencias no registradas), no un lugar donde postular.
+  - Aclaracion: No se verificó si la norma tuvo modificaciones posteriores.
+  - Aclaracion: El Ministerio de Trabajo publica una guía para el registro de agencias privadas de empleo, vista solo como resultado de búsqueda y no abierta.
+- **Diagnóstico de la oferta de capacitación laboral (CEPB e INFOCAL Santa Cruz, julio de 2024)** (sin verificar, verificada 1 vez) https://cepb.org.bo/wp-content/uploads/2024/10/2.-Oferta-y-capacitacion-laboral.pdf
+  - Que es: Documento de referencia sobre la oferta de capacitación técnica y laboral en Bolivia (incluye una sección de programas de apoyo al empleo y emprendedurismo). No es una vía de postulación.
+  - Requisitos: No aplica. Los programas citados en el estudio mencionan, entre otros, mayores de 18 años (PAE) y 15 a 30 años (Centro de Jóvenes y Empleo), sin verificación de vigencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: No aplica: documento publicado en julio de 2024, solo lectura
+  - Como postular: No aplica. Útil para ubicar proveedores de capacitación (INFOCAL, institutos) antes de contactarlos.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un estudio, no una convocatoria ni una vía de postulación.
+  - Aclaracion: Los datos son de 2024 o anteriores y no se verificó que los programas citados sigan abiertos en 2026; no debe usarse como prueba de vigencia.
+  - Aclaracion: Su sección 4 describe programas de apoyo al empleo como PAE y PAE II del Ministerio de Trabajo, Mi Primer Empleo y Centro de Jóvenes y Empleo (La Paz) y la formación técnica de la Fundación Fautapo con apoyo mensual mínimo de Bs 560.

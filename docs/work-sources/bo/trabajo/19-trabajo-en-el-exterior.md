@@ -1,0 +1,82 @@
+# Trabajo en el exterior
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Argentina: residencia temporaria por nacionalidad Mercosur (Bolivia incluida)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-por-nacionalidad-mercosur
+  - Que es: Personas nacidas en Bolivia (y en otros países del Mercosur y Estados Asociados) que quieren vivir y trabajar en Argentina. No exige oferta de trabajo ni título; la residencia habilita a trabajar.
+  - Requisitos: Pasaporte vigente o documento del Anexo I del acuerdo Mercosur; certificado de antecedentes penales argentino (mayores de 16, se incorpora vía RADEx); certificado de carencia de antecedentes de los países donde se vivió más de un año en los últimos tres (mayores de 16); constancia de domicilio e ingreso regular; documentos extranjeros legalizados o apostillados y traducidos al español si corresponde, en original; menores: partida de nacimiento legalizada y autorización de los padres.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es un empleo. Tasas migratorias según cuadro oficial (montos no vistos).
+  - Plazo o ciclo: Abierto todo el año (trámite permanente; sin fecha de cierre vista)
+  - Como postular: https://www.migraciones.gob.ar/radex/index.html
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no aclara de forma expresa si la residencia habilita a trabajar; conviene confirmarlo con la Dirección Nacional de Migraciones.
+  - Aclaracion: Incluye a nacionales de origen y también a naturalizados con al menos cinco años de nacionalidad boliviana; el trámite se hace en línea por RADEx, exige encontrarse dentro del territorio argentino y luego se recibe por correo un turno presencial.
+  - Aclaracion: Los costos remiten al cuadro de tasas migratorias (argentina.gob.ar/cuadro-tasas-migratorias); un turno preferencial tiene costo adicional.
+  - Aclaracion: Se recomienda hacer el trámite solo en sitios .gob.ar.
+- **Argentina: RADEx (Radicación a Distancia de Extranjeros)** (abierta o vigente, verificada 2 veces) https://www.migraciones.gob.ar/radex/index.html
+  - Que es: Personas extranjeras que inician una radicación (residencia) en Argentina, incluido el trámite por nacionalidad Mercosur.
+  - Requisitos: No indicados en la portada; ver subpáginas de cada trámite. Para residencia Mercosur, ver la ficha de argentina.gob.ar (se debe estar dentro de Argentina).
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es un empleo. Tasas según cuadro oficial (no vistas).
+  - Plazo o ciclo: Abierto todo el año (sistema permanente; sin fecha de cierre vista)
+  - Como postular: https://www.migraciones.gob.ar/radex/index.html
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La portada solo lista cuatro vías (radicaciones generales, trámites corporativos, ingreso electrónico TIE 24H y radicaciones exentas de tasa) y no indica quién es elegible, requisitos, tarifas ni si se puede iniciar desde el exterior; esos datos están en subpáginas no revisadas.
+  - Aclaracion: Funciona como canal de solicitud del trámite Mercosur descrito en la ficha de residencia temporaria.
+- **Chile: residencia temporal por actividades remuneradas (contrato de trabajo u oferta laboral)** (abierta o vigente, verificada 2 veces) https://serviciomigraciones.cl/residencia-temporal/subcategorias/actividades-remuneradas/
+  - Que es: Personas extranjeras con contrato de trabajo, contrato de prestación de servicios (cuenta propia) u oferta laboral formal aceptada de una persona chilena, que solicitan desde el exterior.
+  - Requisitos: Pasaporte vigente al menos un año desde la solicitud; certificado de antecedentes penales del país de origen o donde se vivió en los últimos 5 años (mayores de 18, emitido hace menos de 60 días); fotografía reciente a color fondo blanco (JPG/PNG); acreditación de liquidez para cubrir el contrato; documentos del empleador (carpeta tributaria y registros según tipo de entidad); contrato firmado por el empleador ante notario chileno y por el trabajador ante el consulado, u oferta formal notariada aceptada ante el consulado; documentos apostillados o legalizados, traducidos si no están en español o inglés, subidos en PDF; plazos de emisión: 30 días privados, 60 días públicos.
+  - Pago o beneficio: No es un empleo. Tarifa del permiso no indicada en la página.
+  - Plazo o ciclo: Abierto todo el año (trámite permanente). Con contrato: hasta 2 años, prorrogable por 2 más sucesivamente. Con oferta laboral: permiso inicial de 90 días y 45 días tras el ingreso para presentar el contrato definitivo, que otorga una prórroga de un año.
+  - Como postular: https://tramites.extranjeria.gob.cl/tramites/ver_ficha/245
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Exige un empleador u oferente en Chile: no es una vía para buscar trabajo sin contrato u oferta.
+  - Aclaracion: Si el contrato no se concreta, el permiso de 90 días se cancela y debe abandonarse el país.
+  - Aclaracion: Quienes trabajan por cuenta propia deben firmar antes de ingresar un contrato de servicios con un chileno o residente definitivo si superan 90 días.
+  - Aclaracion: La vigencia cuenta desde el ingreso al país.
+- **Chile: residencia temporal para trabajadores de temporada** (abierta o vigente, verificada 2 veces) https://serviciomigraciones.cl/residencia-temporal/subcategorias/trabajadores-de-temporada/
+  - Que es: Personas extranjeras contratadas para trabajos estacionales específicos (incluye faenas agrícolas), con empleador en Chile.
+  - Requisitos: Contrato con empleador chileno con inicio de actividades en el SII y domicilio o sucursal en Chile, vinculado a su giro principal; pasaporte vigente al menos un año; certificado de antecedentes penales (mayores de 18, menos de 60 días); fotografía reciente fondo blanco JPG/PNG; acreditación de liquidez; documentos del empleador según tipo; contrato firmado por el empleador ante notario chileno y por el trabajador ante el consulado; documentos apostillados o legalizados, traducidos si corresponde, en PDF.
+  - Pago o beneficio: No es un empleo. Tarifa no indicada en la página.
+  - Plazo o ciclo: Abierto todo el año (trámite permanente). Permiso de hasta 5 años, prorrogable por 2 más, con estadía máxima de 6 meses por año calendario.
+  - Como postular: https://tramites.extranjeria.gob.cl/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El tiempo bajo este permiso no cuenta para la residencia definitiva.
+  - Aclaracion: Dentro de los 45 días siguientes al ingreso hay que presentar copia notariada del contrato y su registro electrónico; no hacerlo puede llevar al rechazo y orden de salida.
+  - Aclaracion: Terminar el contrato no revoca el permiso y se puede cambiar de empleador sin avisar.
+  - Aclaracion: La vía por oferta formal sin contrato aplica solo a nacionales de países con convenio bilateral de trabajadores temporales con Chile; no se vio que Bolivia lo tenga.
+- **Portal de Consulados de Bolivia (trámites y directorio de oficinas en el exterior)** (abierta o vigente, verificada 2 veces) https://consulados.cancilleria.gob.bo/
+  - Que es: Cualquier persona boliviana que trabaja o piensa trabajar en el exterior y necesita documentos, ayuda consular o ubicar su consulado.
+  - Requisitos: No se exigen requisitos para consultar el directorio. Los requisitos de cada trámite (pasaporte, legalización, etc.) dependen del trámite y del consulado, y no se verificaron aquí.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica (no es oferta de empleo). Los trámites tienen aranceles consulares; la página tiene una sección de aranceles, cuyos montos no se verificaron.
+  - Plazo o ciclo: Permanente (abierto todo el año). Sin plazos ni convocatorias.
+  - Como postular: https://consulados.cancilleria.gob.bo/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una fuente de empleo: no publica vacantes ni convocatorias, y no menciona empleo, trata de personas ni advertencias sobre ofertas fraudulentas.
+  - Aclaracion: Incluye un directorio de unas 75 oficinas en 34 países; Argentina tiene el mayor número (14 oficinas) y España 8.
+  - Aclaracion: Dos oficinas figuran como inactivas (Palma de Mallorca y Estambul) y la de Bérgamo tiene la dirección incompleta; conviene confirmar con cada consulado antes de acudir.
+  - Aclaracion: Las fechas de actualización de cada contenido no figuran.
+- **Cancillería: asistencia y protección consular (incluye protocolo para víctimas de trata en el exterior)** (abierta o vigente, verificada 2 veces) https://cancilleria.gob.bo/mre/asistencia-y-proteccion-consular/
+  - Que es: Personas bolivianas en el exterior que necesitan asistencia consular, incluidas víctimas de trata.
+  - Requisitos: La página no indica requisitos. Los protocolos están dirigidos a bolivianos y bolivianas en el exterior en situación de vulnerabilidad (niñez y adolescencia, violencia de género, trata).
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica (servicio de asistencia, no empleo).
+  - Plazo o ciclo: Permanente (abierto todo el año). Sin plazos ni convocatorias.
+  - Como postular: https://cancilleria.gob.bo/mre/asistencia-y-proteccion-consular/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una fuente de empleo: la página lista cuatro documentos (R.M. 258-2025, R.M. 231-2025, R.M. 063-2024 y R.M. 062-2024) solo con títulos y enlaces a PDF, cuyo contenido no se verificó.
+  - Aclaracion: Recomendación general, no incluida en la página: desconfiar de ofertas en el exterior que pidan pagos anticipados, retengan documentos o no den contrato por escrito, y consultar al consulado antes de viajar.
+  - Aclaracion: Datos de contacto: Plaza Murillo, esquina Ingavi y Junín; teléfonos (591-2) 2408900, 2409114 y 2408595; el correo está oculto en la página.
+- **Brasil: autorización de residencia por el Acuerdo de Residencia del Mercosur (Policía Federal)** (sin verificar, verificada 1 vez) https://www.gov.br/pf/pt-br/assuntos/imigracao/duvidas-frequentes
+  - Que es: Nacionales de países del Acuerdo de Residencia del Mercosur, entre ellos Bolivia, que quieren residir en Brasil.
+  - Requisitos: No detallados en el texto leído (ver la página específica de Bolivia y Chile). Documentos de Bolivia: certificación consular y sin traducción obligatoria. Pago por GRU (con posibilidad de declarar insuficiencia económica).
+  - Pago o beneficio: No es un empleo. Montos de tasas no vistos.
+  - Plazo o ciclo: Abierto todo el año (trámite permanente según las preguntas frecuentes; sin fecha de cierre vista)
+  - Como postular: Pedir el servicio 'Obter Autorização de Residência' en el portal gov.br; tras la aprobación, registrarse con el servicio 'Registrar-se como Estrangeiro no Brasil' para obtener la CRNM. La atención es con cita, en línea o por correo de la unidad de la Policía Federal de residencia (la página trae una tabla de correos por ciudad).
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los requisitos específicos, costos, plazos y el derecho a trabajar no figuran en el texto leído; la página enlaza una ficha específica para Bolivia y Chile, por lo que la información está sin confirmar en detalle.
+  - Aclaracion: Los turnos se piden por sistema en línea o por correo de la unidad de residencia.
+  - Aclaracion: No es posible combinar normas: se aplica la norma específica del acuerdo.

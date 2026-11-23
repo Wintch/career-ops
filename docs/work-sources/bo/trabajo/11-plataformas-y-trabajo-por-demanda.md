@@ -1,0 +1,69 @@
+# Plataformas y trabajo por demanda
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Uber - Conducir en Bolivia (registro de socios conductores)** (abierta o vigente, verificada 2 veces) https://www.uber.com/bo/es/drive/
+  - Que es: Personas que tengan auto y quieran hacer viajes con la app en Santa Cruz de la Sierra, La Paz, El Alto, Porongo, Warnes, Achocalla, La Guardia y Cotoca (ciudades listadas en la página, vista el 2026-11-23).
+  - Requisitos: Según esta página: mayor de 21 años; verificación de antecedentes; vehículo que cumpla los requisitos mínimos; licencia de conducir, SOAT y foto de la placa o RUA. No se indica experiencia previa ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (ganancias variables; la página no publica montos)
+  - Plazo o ciclo: Abierto todo el año (botón 'Regístrate para conducir'; sin fecha de cierre visible el 2026-11-23).
+  - Como postular: https://www.uber.com/bo/es/drive/
+  - Lectura automatica posible: none
+  - Aclaracion: La edad mínima es inconsistente: esta página indica más de 21 años y la página de requisitos indica 18; conviene confirmarla durante el registro.
+  - Aclaracion: Algunos requisitos varían según país, región y ciudad.
+  - Aclaracion: Se trabaja como socio conductor independiente, que decide cuándo y cuánto conducir.
+  - Aclaracion: Conviene registrarse solo en uber.com o en la app oficial y no pagar a intermediarios.
+- **Uber Bolivia - Requisitos y documentos (página de requisitos)** (abierta o vigente, verificada 2 veces) https://www.uber.com/bo/es/drive/requirements/
+  - Que es: Postulantes a conductor con auto propio o prestado (no tiene que estar a su nombre, según la página).
+  - Requisitos: 18 años o más (según esta página; la principal dice 21); licencia de conducir vigente; CRPVA; SOAT; certificado FELCC; auto modelo 2004 o posterior, cuatro puertas, con inspección técnica; visita a un centro de servicio para activar la cuenta. No exige experiencia laboral ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (página de requisitos permanente; sin fecha de cierre).
+  - Como postular: https://www.uber.com/bo/es/drive/
+  - Lectura automatica posible: none
+  - Aclaracion: La edad mínima de 18 años contradice los 21 años de la página principal de registro; debe confirmarse al registrarse.
+  - Aclaracion: La verificación de antecedentes toma de 2 a 3 días.
+- **inDrive Bolivia - Registro de conductores (viajes en la ciudad)** (abierta o vigente, verificada 2 veces) https://indrive.com/es-bo/driver
+  - Que es: Conductores de autos en Bolivia. El pasajero propone el precio y el conductor acepta o contrapropone.
+  - Requisitos: Categoría B: al menos 3 años de experiencia conduciendo; categoría D: al menos 5 años; edad mínima de 25 años; licencia de transporte para minibuses de cualquier tipo; documentos solicitados en la app (lista exacta no vista). Exige experiencia de conducción.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (el conductor propone su tarifa; sin montos publicados)
+  - Plazo o ciclo: Abierto todo el año (registro desde la app, sin fecha de cierre).
+  - Como postular: https://indrive.com/es-bo/driver
+  - Lectura automatica posible: none
+  - Aclaracion: La lista exacta de documentos se muestra en la app durante el registro en línea y la cuenta requiere aprobación del equipo de inDrive.
+  - Aclaracion: La página no lista ciudades de Bolivia.
+  - Aclaracion: El registro debe hacerse solo desde la app oficial.
+- **inDrive Bolivia - Socios de flota** (abierta o vigente, verificada 2 veces) https://indrive.com/es-bo/fleet
+  - Que es: Dueños de flotas de taxis, empresas de alquiler o leasing que quieran sumar vehículos y conductores a la plataforma; también puede servir a quien busque vehículo mediante una flota.
+  - Requisitos: No se listan criterios en la página; por el perfil se requiere ser una flota u operador de vehículos (taxi, alquiler o leasing) y firmar un acuerdo de asociación. No es una opción de primer empleo individual.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (formulario 'Aplica al 23/11/2026'; sin fecha de cierre).
+  - Como postular: https://indrive.com/es-bo/fleet
+  - Lectura automatica posible: none
+  - Aclaracion: Está dirigida a flotas de taxi, compañías de alquiler y socios de leasing, no a personas sin vehículo ni empresa.
+  - Aclaracion: La página no enumera requisitos; el botón 'Aplica al 23/11/2026' lleva a un formulario externo.
+  - Aclaracion: El acuerdo de asociación se firma después de que el equipo de inDrive contacta al solicitante.
+- **Uber Bolivia - Registro para conducir en Warnes (incluye opción de entregas)** (abierta o vigente, verificada 2 veces) https://www.uber.com/bo/es/e/drive/warnes-santa-cruz-bo/
+  - Que es: Personas de Warnes (Santa Cruz) que quieran conducir o, según la página, hacer entregas de comida con vehículo de 2 o 4 ruedas.
+  - Requisitos: Conducir: mayor de 18 años, licencia de conducir vigente y cumplir los requisitos mínimos del vehículo. Entregas: requisitos no listados (varían por ubicación; se indica vehículo de 2 o 4 ruedas). Sin experiencia previa requerida.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (botones 'Regístrate para conducir en Warnes' y 'Regístrate para hacer entregas').
+  - Como postular: https://www.uber.com/bo/es/e/drive/warnes-santa-cruz-bo/
+  - Lectura automatica posible: none
+  - Aclaracion: Para entregas no se listan requisitos propios: la página indica que varían según la ubicación.
+  - Aclaracion: La disponibilidad real de Uber Eats en Bolivia debe confirmarse en el registro.
+  - Aclaracion: Es una página local de Warnes (Santa Cruz).
+- **inDrive Bolivia - Repartidores (entregas) y centro de ayuda** (sin verificar, verificada 1 vez) https://indrive.com/es-bo/earn-courier
+  - Que es: Personas que quieran hacer entregas con inDrive en Bolivia, con moto o bicicleta según el centro de ayuda (sección Repartidores y motos).
+  - Requisitos: sin datos (la página no indica requisitos para repartidores).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se pudo confirmar que haya entregas activas en Bolivia).
+  - Como postular: https://indrive.com/es-bo/earn-courier
+  - Lectura automatica posible: none
+  - Aclaracion: La página trata de conducir para viajes en la ciudad y no describe requisitos, pasos de registro ni ciudades para repartidores.
+  - Aclaracion: No se puede confirmar el servicio de entregas ni su alcance por ciudad en Bolivia; conviene verificarlo en la app o en el centro de ayuda de inDrive.

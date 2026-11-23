@@ -1,0 +1,96 @@
+# Campo, trabajo rural y de temporada
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Ministerio de Trabajo: autorización de trabajo adolescente (formulario y requisitos)** (abierta o vigente, verificada 2 veces) https://mintrabajo.gob.bo/index.php/enlaces-de-interes/
+  - Que es: Adolescentes y sus familias que consideran trabajo (incluido agrícola o zafra) y necesitan registro o autorización; también empleadores.
+  - Requisitos: sin datos en detalle: el PDF oficial de requisitos no se pudo leer. Consultar https://mintrabajo.gob.bo/wp-content/uploads/2025/09/requisitospara-autor.pdf. El formulario se tramita en coordinación con las Defensorías de la Niñez y Adolescencia, según las guías enlazadas.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica (es un trámite; no paga ni otorga nada)
+  - Plazo o ciclo: Permanente (trámite sin fecha límite). Los archivos están cargados en el sitio con fecha de subida 2025/09.
+  - Como postular: https://mintrabajo.gob.bo/wp-content/uploads/2025/09/form-reg.pdf
+  - Lectura automatica posible: none
+  - Aclaracion: Es un trámite de autorización para adolescentes que trabajan, no una bolsa de empleo.
+  - Aclaracion: La sección 'Convocatorias' del sitio corresponde a compras y contrataciones de bienes y servicios.
+  - Aclaracion: La página no detalla los requisitos ni la oficina donde se tramita; esos datos figuran en el PDF de requisitos.
+- **Cámara Agropecuaria del Oriente (CAO), Carnet de Productor y Centro de Formación Agropecuaria** (abierta o vigente, verificada 2 veces) https://cao.org.bo/servicios/carnet-productor-agropecuario/
+  - Que es: Productores afiliados a una de sus asociaciones; el centro de formación se dirige a productores y trabajadores de establecimientos productivos.
+  - Requisitos: Datos de la propiedad (hectáreas, provincia, zona de producción, nombre del predio); carta de la institución afiliada que confirme el registro; dos fotos 3x4 con fondo rojo; fotocopia de la cédula de identidad. Requiere estar afiliado a un subsector de la CAO. No se menciona experiencia ni título.
+  - Pago o beneficio: No es un pago: tiene costo. Pequeño productor Bs 50, mediano Bs 140, grande Bs 320.
+  - Plazo o ciclo: Sin fechas ni convocatoria. El carnet tiene validez de 1 año; la página no describe cómo se renueva. Contacto: Av. Roca y Coronado (predios de Fexpocruz), teléfono +591-3 3522200, correo cao@cao.org.bo.
+  - Como postular: https://cao.org.bo/servicios/carnet-productor-agropecuario/
+  - Lectura automatica posible: none
+  - Aclaracion: El carnet se obtiene a través de un subsector afiliado a la CAO, que asigna la categoría (pequeño, mediano o grande) según la superficie y las unidades animales.
+  - Aclaracion: La página no indica el procedimiento de renovación ni menciona el Centro de Formación Agropecuaria.
+  - Aclaracion: Es un documento para productores, no una oferta de empleo.
+  - Aclaracion: Contacto CAO: Av. Roca y Coronado (Predios de Fexpocruz), Santa Cruz; teléfonos +591-3 3522200 y 3522621; cao@cao.org.bo.
+- **EBA, página de generación de empleo (redes de productores: castaña, miel, fruta, lácteos)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://eba.com.bo/index.php/generacion-de-empleo/
+  - Que es: Productores y recolectores rurales que abastecen a EBA (castaña, miel, fruta, leche). Es empleo indirecto o venta de producto, no contratación asalariada directa.
+  - Requisitos: sin datos. La página no lista requisitos, edad, documentos ni experiencia. Por su naturaleza, está dirigida a productores organizados (asociaciones, centrales campesinas) y no a personas que buscan un empleo.
+  - Pago o beneficio: sin datos (la página no indica precios ni pagos; menciona solo pago justo y oportuno a productores)
+  - Plazo o ciclo: Estacional. La página indica que la miel de Shinahota y Samuzabety (unos 119 productores) tiene su mayor producción de septiembre a diciembre, y que los proveedores de fruta (Chapare, Caranavi) varían según la temporada, hasta unos 400. No se vio una convocatoria con fecha.
+  - Como postular: https://eba.com.bo/index.php/generacion-de-empleo/
+  - Lectura automatica posible: none
+  - Aclaracion: Es una red de proveedores de EBA; la página no explica cómo incorporarse y no se confirma si recibe postulaciones.
+  - Aclaracion: Contacto: eba@eba.com.bo, teléfonos (591) 2146292 y 2146307, Av. Mariscal Santa Cruz N° 1392, Edif. Cámara Nacional de Comercio, piso 12, La Paz.
+- **INE, Encuesta Continua de Empleo (referencia de empleo rural y agropecuario)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.ine.gob.bo/index.php/desocupacion/
+  - Que es: Cualquier persona que quiera conocer el mercado laboral rural y urbano. No es fuente de ofertas.
+  - Requisitos: No aplica (datos públicos)
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: Publicación trimestral y mensual, según la propia página. No indica calendario de publicación ni el último período publicado.
+  - Como postular: No se postula. Consultar tablas del área rural en la misma página y el Censo Agropecuario en https://censoagropecuario.ine.gob.bo/.
+  - Lectura automatica posible: Tablas de indicadores y bases de datos de encuestas en el sitio del INE (formato no verificado).
+  - Aclaracion: Es una fuente de estadísticas de referencia, no de ofertas de trabajo ni de postulaciones.
+  - Aclaracion: La página no indica calendario de publicación ni el último período publicado.
+- **EBA, Línea Amazónica (plantas de procesamiento de castaña: Riberalta, El Sena, Cobija)** (sin verificar, verificada 1 vez) https://eba.com.bo/index.php/informacion-plantas-productos-3-3/
+  - Que es: Personas que buscan trabajo en el procesamiento de castaña (almendra amazónica) en el norte amazónico (Pando y norte de Beni). La zafra de castaña alimenta estas plantas.
+  - Requisitos: sin datos. No hay proceso de postulación publicado.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página no menciona contratación de temporada ni fechas; "zafra" solo aparece en relación con controles de plaguicidas y combustible.
+  - Como postular: eba@eba.com.bo (contacto general; no hay formulario de empleo confirmado)
+  - Lectura automatica posible: none
+  - Aclaracion: La planta propia de El Sena genera unos 250 empleos directos; las plantas tercerizadas generan unos 290 en Riberalta y unos 65 en Cobija, y no son plantas propias de EBA.
+  - Aclaracion: El sitio no tiene sección de empleo; el menú muestra 'Expresiones de Interés' sin confirmar si aplica a empleo.
+  - Aclaracion: La contratación en las plantas tercerizadas sería con sus operadores.
+  - Aclaracion: Contacto general: eba@eba.com.bo, teléfono (591) 2146292, Av. Mariscal Santa Cruz N° 1392, Edif. Cámara Nacional de Comercio, Piso 12 (La Paz).
+- **EMAPA, Empresa de Apoyo a la Producción de Alimentos (convocatorias de empleo y acopio de cosecha)** (sin verificar, verificada 1 vez) https://emapa.gob.bo/
+  - Que es: Personas interesadas en empleo en la empresa estatal de acopio de granos y alimentos, y productores que venden cosecha a EMAPA.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se vio ninguna convocatoria ni ciclo anual.
+  - Como postular: Entrar al sitio y buscar las secciones de convocatorias de empleo y de acopio. NO VERIFICADO: la página mostró solo el título y la mención de esas secciones, sin enlaces ni listado de cargos.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La portada y la ruta /convocatorias solo mostraron el título del sitio, sin secciones de convocatorias de empleo, de acopio ni datos de contacto.
+  - Aclaracion: No se confirma ninguna convocatoria abierta ni ruta de postulación.
+- **UNAGRO S.A., Unión Agroindustrial de Cañeros (ingenio azucarero, Santa Cruz)** (sin verificar, verificada 1 vez) https://www.unagro.com.bo/contacto/
+  - Que es: Personas que buscan trabajo agrícola o industrial en la cadena de la caña de azúcar; también cañeros (productores) que entregan caña.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página no menciona la zafra ni fechas.
+  - Como postular: Sin canal de postulación visto. Contacto: informaciones@unagro.com.bo, teléfono (+591 3) 3 474704, oficina en Mineros, Santa Cruz (lunes a viernes 7:30 a 18:00, sábado 7:30 a 12:30). Existe un portal para cañeros: https://canero.unagro.com.bo.
+  - Lectura automatica posible: none
+  - Aclaracion: El sitio no tiene sección de empleo, formulario de postulación ni correo para hojas de vida; el formulario de contacto (https://www.unagro.com.bo/contacto/) es para consultas generales.
+  - Aclaracion: Contacto general: informaciones@unagro.com.bo, teléfono (+591 3) 3474704, dirección en Mineros, Santa Cruz de la Sierra.
+  - Aclaracion: Atención de lunes a viernes de 7:30 a 18:00 y sábados de 7:30 a 12:30.
+  - Aclaracion: No hay ruta de postulación confirmada.
+- **Ministerio de Desarrollo Productivo, programas para productores (Accesos Rural, Conecta Productiva)** (sin verificar, verificada 1 vez) https://produccion.gob.bo/
+  - Que es: Productores y comunidades rurales (agricultura familiar, quinua y camélidos, riego). No es bolsa de empleo asalariado.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se vio ninguna convocatoria abierta con fecha. Solo noticias: el 27 de octubre de 2026 se anunció el inicio de la evaluación de medio término de Accesos Rural.
+  - Como postular: Sin trámite descrito en las notas. Contacto: info@produccion.gob.bo, teléfono +591 (2) 2184444, línea gratuita 800101585. La sección de convocatorias https://produccion.gob.bo/convocatoria/ cargaba vacía (Cargando...) al consultarla; las pasantías en https://produccion.gob.bo/empleo/ son solo para egresados de Bibliotecología e Informática.
+  - Lectura automatica posible: none
+  - Aclaracion: Conecta Productiva figura como serie de ruedas de negocios (19, 21 y 22 de agosto de 2026 en La Paz y 3 de octubre de 2026 en Cochabamba), no como programa con postulación.
+  - Aclaracion: De Accesos Rural solo se vio el titular de la evaluación de medio término; no consta cómo participar.
+  - Aclaracion: Contacto: info@produccion.gob.bo, teléfono +591 (2) 2184444, línea gratuita 800101585.
+- **Fideicomiso Impulso Productivo (créditos al 6 % y 6,5 % para productores)** (sin verificar, verificada 1 vez) https://produccion.gob.bo/nota_prensa/creditos-al-6-y-65-de-interes-para-productores-conoce-los-cuatro-tipos-de-prestamos/
+  - Que es: Personas naturales y jurídicas con actividad productiva o ligada a la cadena de producción y logística, incluidos pequeños productores que quieran trabajar por cuenta propia. El crédito asociativo es solo para personas jurídicas.
+  - Requisitos: Según el artículo 1 del decreto, personas naturales y jurídicas legalmente constituidas que desarrollen actividades económicas de producción, y las vinculadas a la cadena productiva y su logística. Documentos y garantías: sin datos.
+  - Pago o beneficio: No es un salario: crédito con tasa anual de 6 % o 6,5 %. Monto individual: sin datos. El fondo total es de hasta Bs 800.000.000.
+  - Plazo o ciclo: sin datos. La nota es del 24 de septiembre de 2026 y no indica plazos ni ventanilla. Una nota del 6 de noviembre de 2026 dice que se avanza en la aprobación de un fondo productivo de Bs 800 millones, lo que no coincide claramente con la nota de septiembre que lo presenta como ya creado por el DS 5720. No se pudo confirmar si ya otorga créditos.
+  - Como postular: La nota no describe el trámite; el prestamista es Banco Unión, por lo que habría que consultar allí. NO VERIFICADO el procedimiento de solicitud.
+  - Lectura automatica posible: none
+  - Aclaracion: La nota oficial no indica requisitos, montos por crédito ni dónde solicitar; solo menciona a Banco Unión S.A. como fiduciario.
+  - Aclaracion: Es financiamiento para productores, no empleo.
+  - Aclaracion: Conviene confirmar en Banco Unión o en el ministerio antes de iniciar el trámite; contacto del ministerio: info@produccion.gob.bo, línea gratuita 800101585.
