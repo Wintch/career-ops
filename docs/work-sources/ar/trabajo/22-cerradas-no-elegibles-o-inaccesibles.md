@@ -1,0 +1,148 @@
+# Cerradas, no elegibles o inaccesibles
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+Se dejan listadas para no volver a investigarlas.
+
+- **Farmacity - página en LinkedIn (búsquedas de farmacia y tienda)** (no cargo) https://www.farmacity.com/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: LinkedIn devolvió HTTP 403 y bloquea la lectura automática.
+  - Aclaracion: La portada farmacity.com menciona un enlace a empleos al pie, pero no pudo abrirse; la ruta /trabaja-con-nosotros devolvió "No encontramos resultados".
+- **Portal Empleo - Buscador de cursos de formación profesional y ofertas de trabajo** (no cargo) https://portalempleo.gob.ar
+  - Plazo o ciclo: sin datos: el sitio no cargó (error HTTP 500 en varios intentos, con y sin 'www', 2026-11-23).
+  - Aclaracion: El sitio devolvió error HTTP 500 en varios intentos al 23/11/2026, por lo que su contenido no se verificó.
+  - Aclaracion: argentina.gob.ar/trabajo/portalempleo da 404; las páginas oficiales de PIL, Fomentar Empleo y EPT lo nombran como vía de registro.
+- **CABA - Sistema de Clasificación Docente** (no cargo) https://www.buenosaires.gob.ar/educacion/quiero-ser-docente
+  - Plazo o ciclo: No verificado en el sitio. El ciclo anual se confirma solo de forma indirecta por la página oficial del Estatuto (inscripción ordinaria anual; listados afectados cierran el 30/04/2027).
+  - Aclaracion: No se pudo ver el sitio mismo ni fechas de inscripción; las fechas quedan como no verificadas.
+  - Aclaracion: La página oficial 'Quiero ser docente' de buenosaires.gob.ar lo cita como paso 2: ingresar al sistema, cargar documentación y registrarse; el paso previo es obtener la cuenta @bue.
+- **Emplea Neuquén - Ministerio de Trabajo y Desarrollo Humano de Neuquén** (no cargo) https://mintrabajoydl.neuquen.gob.ar/empleaneuquen/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El sitio presentaba un error de certificado vencido y no pudo cargarse, y tampoco la bolsa de trabajo virtual provincial rumbo.neuquen.gov.ar.
+  - Aclaracion: Los datos sobre el programa provienen de prensa y mezclan años.
+- **Personal / Telecom Argentina - Empleos** (no cargo) https://empleos.personal.com.ar/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El portal no cargó, y tampoco empleos.telecom.com.ar, el dominio que mencionan las notas de prensa.
+  - Aclaracion: La información encontrada en la web corresponde a notas de 2022 a 2023 y a un aviso de Bumeran para técnicos instaladores en La Plata, que no pudo leerse.
+- **Cursos de formación profesional gratuitos (Buscador de Cursos de Portal Empleo)** (no cargo) https://formando.capitalhumano.gob.ar/
+  - Plazo o ciclo: No verificable: la página devolvió HTTP 500 en dos intentos.
+  - Aclaracion: La URL falló dos veces con error 500 del servidor.
+  - Aclaracion: No se pudo confirmar el buscador, la oferta de cursos ni su gratuidad.
+- **INAP - Portal de capacitación (Instituto Nacional de la Administración Pública)** (no cargo) https://capacitacion.inap.gob.ar/
+  - Plazo o ciclo: sin datos. La página devolvió HTTP 503 en dos intentos; no se pudo comprobar la afirmación de que la oferta se publica todos los meses.
+  - Aclaracion: El contenido del portal no pudo verificarse, por lo que no se confirmó el ciclo de la oferta.
+  - Aclaracion: Se desconoce si la oferta está abierta a ciudadanos o solo a agentes públicos.
+- **MTE - Movimiento de Trabajadores Excluidos, rama Cartoneros y Cartoneras** (no cargo) https://mteargentina.org.ar/ramas-cartoneros-cartoneras/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El contenido del sitio no pudo leerse, por lo que no se obtuvo ninguna afirmación verificable sobre la rama ni sobre cómo sumarse.
+- **AFOA - Asociación Forestal Argentina: Programa de Certificación de Competencias Laborales y Formación Continua** (no cargo) https://afoa.org.ar/competencias-laborales/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El contenido del sitio no pudo leerse, por lo que no se confirmó nada del programa.
+- **RENATRE - Registro Nacional de Trabajadores y Empleadores Agrarios (Libreta de Trabajo Rural y Portal RENATRE)** (no cargo) https://portal.renatre.org.ar
+  - Plazo o ciclo: sin datos: ni portal.renatre.org.ar ni www.renatre.org.ar cargaron (error de certificado 'unable to verify the first certificate', dos intentos en cada dominio).
+  - Aclaracion: No es una bolsa de empleo sino un registro y libreta de trabajo para trabajadores y empleadores agrarios; no ofrece vacantes.
+  - Aclaracion: Los sitios oficiales no cargaron por un error de certificado, de modo que la información no está verificada en la fuente oficial.
+- **Colegio Militar de la Nación - Carrera de oficial del Ejército Argentino** (no cargo) https://colegiomilitar.mil.ar/esp/index.php
+  - Plazo o ciclo: sin datos
+  - Aclaracion: La página no cargó por un error de certificado TLS ('unable to verify the first certificate') en dos intentos.
+  - Aclaracion: No se pudo leer información de ingreso, fechas, requisitos ni remuneración, por lo que el ciclo de inscripción queda sin confirmar.
+- **Programa Movilidad Geográfica (traslado de trabajadores rurales en la intercosecha)** (no cargo) https://www.argentina.gob.ar/trabajo/rural
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El contenido de la página oficial no pudo verificarse (error HTTP 403); la existencia del programa se conoce por la página índice de Empleo Rural y por la Resolución 858/2014, artículo 8.
+  - Aclaracion: Los montos mencionados en prensa (2022 y 2024) no sirven como dato vigente.
+- **Telecentro - Trabajá con nosotros** (no cargo) sin datos
+  - Plazo o ciclo: sin datos
+  - Aclaracion: La página oficial remite a los avisos en LinkedIn, que no es una fuente propia del empleador.
+  - Aclaracion: No se pudo ver ninguna búsqueda concreta.
+- **Indeed Argentina - empleos de soporte técnico y help desk** (no cargo) https://ar.indeed.com/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: Es un agregador de avisos de terceros, no una fuente oficial de un empleador.
+  - Aclaracion: No se pudo ver ningún aviso.
+- **Medicus - Sumate al equipo (búsquedas laborales)** (no cargo) sin datos
+  - Plazo o ciclo: sin datos
+  - Aclaracion: No se confirmaron el empleador, los avisos, los requisitos ni la forma de postulación.
+- **Cancillería Argentina: Programas de Vacaciones y Trabajo (listado de convenios, 19 países)** (no elegible) https://www.cancilleria.gob.ar/es/servicios/programas-de-vacaciones-y-trabajo/argentinos
+  - Plazo o ciclo: Anual por convenio, sin fechas de apertura publicadas en la página. Listado de 19 convenios 'hasta enero de 2026'
+  - Aclaracion: La URL de origen corresponde a la sección para extranjeros: describe la visa que Argentina otorga a ciudadanos de otros países, y no sirve para quienes residen en Argentina y buscan trabajar afuera.
+  - Aclaracion: La página para argentinos solo indica consultar a la embajada del país de destino.
+- **International Experience Canada (Canadá): Argentina no figura** (no elegible) https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec.html
+  - Plazo o ciclo: Anual. La página dice que los grupos de postulantes de la temporada 2026 están cerrados y que se reabrirán para 2027, sin fecha informada.
+  - Aclaracion: Según la página, quienes tienen solo pasaporte argentino quedan excluidos de este programa.
+  - Aclaracion: Quienes tengan otra ciudadanía (por ejemplo una europea) deberían revisar la elegibilidad según esa nacionalidad.
+- **Escuela de Oficio para personal de estaciones de servicio (CESGAR + Universidad Nacional de Rosario)** (cerrada) https://cecha.org.ar/site/index.php/2025/09/05/se-oficializo-el-convenio-para-profesionalizar-a-futuros-empleados-de-estaciones-de-servicio/
+  - Plazo o ciclo: Sin edición 2026 vista. La nota del 05/09/2025 anunciaba una segunda edición para noviembre de 2025; no hay confirmación de que se repita
+  - Aclaracion: Es un curso de 18 horas en tres semanas (lunes y miércoles, presencial en aulas de la UNR) con certificación de la UNR.
+  - Aclaracion: La nota no da proceso de inscripción, fechas límite ni contacto del curso; el teléfono general de CECHA (011) 4342-4804/9394 no es contacto propio del curso.
+- **Provincia de Buenos Aires - Calendario de Actividades Docentes 2026** (cerrada) https://abc.gob.ar/calendario-docente
+  - Plazo o ciclo: Calendario 2026 vigente (RESOC-2026-275-GDEBA-DGCYE, del 10/02/2026, anexo IF-2026-04247643-GDEBA-SSEDGCYE de 178 páginas). No se vio uno de 2027.
+  - Aclaracion: Es un calendario de referencia y no una oportunidad de empleo; solo sirve como enlace de apoyo.
+  - Aclaracion: Los PDF mensuales de 2026 pueden contener fechas de listados, que no se vieron.
+- **Provincia de Buenos Aires - Examen psicofísico y registro en el Portal del Empleado (citación 2027)** (cerrada) https://abc.gob.ar/noticias/examen-psicofisico-plazo-de-inscripcion-hasta-el-20-de-noviembre
+  - Plazo o ciclo: Plazo vencido el 20/11/2026 (noticia del 5/11/2026). Es un trámite para docentes DGCyE ya en funciones, que se repite según la noticia para la citación de 2027.
+  - Aclaracion: Está dirigida a docentes que ya están en la DGCyE y no a quienes buscan empleo.
+  - Aclaracion: El trámite consiste en actualizar datos en el Portal del Empleado/a para recibir la citación al examen psicofísico.
+- **Programa Registradas (incentivo a la formalización del servicio doméstico)** (cerrada) https://www.argentina.gob.ar/capital-humano/trabajo/programa-registradas
+  - Plazo o ciclo: La inscripción estuvo abierta hasta el 31/12/2023. La página no menciona reapertura ni ciclo anual.
+  - Aclaracion: No es una oferta de empleo sino un incentivo al empleador.
+  - Aclaracion: La última fecha vista es diciembre de 2023 y no hay indicio de repetición; corresponde descartarlo como oportunidad vigente.
+- **Cámara Minera de San Juan - Tecnicaturas mineras en departamentos del interior** (cerrada) https://www.fi.unsj.edu.ar/institucional/institucional/114
+  - Plazo o ciclo: Nota del 12 de enero de 2026; cursada desde febrero de 2026. No se encontró confirmación de una inscripción 2027. Se mencionan carreras de la UNSJ proyectadas para 2027 (gestión del agua, agroindustria, soldadura, IA), pero sin relación confirmada con este programa.
+  - Aclaracion: La convocatoria 2026 ya pasó y no hay evidencia de que se repita.
+  - Aclaracion: El enlace del formulario viene de la nota y puede estar cerrado.
+- **Cinemark Argentina - RRHH (Trabajá con nosotros)** (cerrada) https://applicants.selenios.com/c/cinemark
+  - Plazo o ciclo: Sin vacantes abiertas al 2026-11-23. No se vio ciclo anual.
+  - Aclaracion: Al 23/11/2026 el portal mostraba 'No hay vacantes abiertas en este momento', por lo que no hay dónde postularse.
+  - Aclaracion: No hay evidencia de un ciclo fijo de búsquedas.
+- **Cancillería Argentina: boletín 'Programa de Vacaciones y Trabajo' (2018)** (cerrada) https://www.cancilleria.gob.ar/es/servicios/programas-de-vacaciones-y-trabajo/argentinos
+  - Plazo o ciclo: No aplica: boletín de octubre de 2018, desactualizado
+  - Aclaracion: Es un boletín de octubre de 2018, desactualizado: menciona 11 convenios, mientras el listado oficial al 23/11/2026 muestra 19.
+  - Aclaracion: Los requisitos que menciona (solvencia económica, reservas de hotel para los primeros días, certificado de antecedentes penales) están dirigidos a solicitantes extranjeros que contactan una representación argentina en su país.
+- **Administración de Parques Nacionales - Convocatoria al Cuerpo de Guardaparques Nacionales 2026 (Agrupamiento Técnico, GT-2)** (cerrada) https://www.argentina.gob.ar/parquesnacionales/convocatoria-para-el-ingreso-al-cuerpo-de-guardaparques-nacionales-2026-0
+  - Plazo o ciclo: Cerrada: la presentación de documentación fue del 12 de mayo de 2026 (08:00) al 2 de junio de 2026 (23:59). La página indica que el período concluyó y el proceso ya llegó a la etapa del curso de formación (acta 16 como la última publicada). No se mencionó la próxima convocatoria; la periodicidad es sin datos.
+  - Aclaracion: La convocatoria GT-2 está cerrada y no hay evidencia en la página de una nueva apertura.
+  - Aclaracion: Los requisitos figuran en el PDF 'Bases y condiciones GT-2', que no se leyó.
+- **CPIC - Cartelera de empleo y matriculación de ingenieros civiles** (cerrada) https://servicios.cpic.org.ar/cartelera
+  - Plazo o ciclo: Sin avisos vigentes: el 2026-11-23 la cartelera indicaba '0 avisos disponibles' y 'No hay avisos publicados por el momento'. Ciclo de publicación: sin datos.
+  - Aclaracion: El canal existe, pero la cartelera no tiene ninguna búsqueda abierta y no hay indicio de un ciclo de publicación.
+  - Aclaracion: La página no aclara quién puede publicar o postularse y solo ofrece 'Iniciar sesión'.
+- **ArcelorMittal Acindar - Portal de empleo en Universidad de San Andrés (Conectar)** (cerrada) https://conectar.udesa.edu.ar/trabajar-en-arcelormittal-acindar
+  - Plazo o ciclo: Sin ofertas activas al 2026-11-23: la página mostraba '0 Ofertas activas' y 'No hay ofertas laborales activas'. No se vio ningún ciclo de repetición.
+  - Aclaracion: La página pertenece a la plataforma Conectar de la Universidad de San Andrés y no tiene convocatoria abierta.
+  - Aclaracion: Permite dejar el CV para futuras oportunidades.
+- **Escuela de Suboficiales del Ejército 'Sargento Cabral' (ESESC) - Ingreso** (cerrada) https://esesc.ejercito.mil.ar/
+  - Plazo o ciclo: La página dice 'INSCRIPCIÓN AÑO LECTIVO 2027 FINALIZADA' (visto 2026-11-23). No menciona el año lectivo 2028 ni fecha de la próxima inscripción; el ciclo anual es probable pero no está confirmado en la página.
+  - Aclaracion: La inscripción 2027 figura como finalizada y la página no menciona el año lectivo 2028 ni la fecha de la próxima inscripción.
+  - Aclaracion: Los requisitos de edad y estudios y las fechas del próximo ciclo están en la 'Guía de ingreso' y el 'Calendario' (PDF), que no se abrieron y quedan sin confirmar.
+- **Fuerza Aérea Argentina - Curso de Servicios Profesionales (CUSERPRO)** (cerrada) https://www.argentina.gob.ar/fuerzaaerea/ingreso-a-la-fuerza-aerea-argentina/curso-de-servicios-profesionales-cuserpro
+  - Plazo o ciclo: La inscripción 2026 fue del 21 de septiembre al 14 de octubre de 2026 (ya cerrada). No se vio evidencia explícita de una próxima convocatoria; la redacción genérica ('año de ingreso') sugiere un programa permanente, pero no se pudo confirmar un ciclo anual.
+  - Aclaracion: Requiere título profesional en una de las carreras convocadas, que pueden cambiar en cada convocatoria.
+  - Aclaracion: No hay evidencia explícita de una próxima convocatoria; se recomienda revisar la página periódicamente.
+- **Fuerza Aérea Argentina - Residencias Hospitalarias (Hospital Aeronáutico Central)** (cerrada) https://www.argentina.gob.ar/fuerzaaerea/ingresa-la-fuerza-aerea-argentina-0/residencias-hospitalarias
+  - Plazo o ciclo: Concurso 2026: inscripción en el HAC del 16 de marzo al 30 de junio, inscripción en el Ministerio de Salud del 6 al 17 de abril, exámenes el 30 de junio y el 7 de julio, ingreso a residencias el 19 de octubre (varias fechas tentativas; el cronograma no indica el año en cada fila). La convocatoria ya cerró; no se vio una próxima.
+  - Aclaracion: Requiere título universitario de grado.
+  - Aclaracion: Hay doble inscripción: SISA del Ministerio de Salud y presentación presencial en el HAC (Ventura de la Vega 3697, CABA).
+- **Fuerza Aérea Argentina - Incorporación Zonal de Músicos (bandas militares)** (cerrada) https://www.argentina.gob.ar/fuerzaaerea/ingreso-a-la-fuerza-aerea-argentina/incorporacion-zonal-de-musicos
+  - Plazo o ciclo: Inscripción 2026 del 23 de marzo al 22 de mayo de 2026 (cerrada); inicio de curso previsto el 10 de agosto (año no indicado). No se vio evidencia explícita de una próxima convocatoria.
+  - Aclaracion: Requiere nivel musical profesional y no es para principiantes; el instrumento es propio.
+  - Aclaracion: El destino es la ciudad de residencia, según vacantes por instrumento (listadas en un PDF del sitio).
+- **Provincia de Buenos Aires - Carrera Profesional Hospitalaria (Ley 10.471): ingreso al escalafón** (cerrada) https://www.gba.gob.ar/saludprovincia/llamados_concurso/llamados_a_concurso_ley_10471
+  - Plazo o ciclo: Sin llamado vigente: la página muestra solo llamados de 2021 (RESO-2021-3491, modificada por RESO-2021-3659 y DISPO-2021-248) y de 2017 (RESOL-2017-250-E-GDEBA-MSALGP y RESOL-2018-424), sin fechas de inscripción.
+  - Aclaracion: No hay convocatoria vigente: la página muestra solo llamados de 2017 a 2021.
+  - Aclaracion: No se observa ninguna convocatoria posterior a 2021 ni indicio de repetición anual.
+- **CABA - Concurso de enfermería de la Dirección General SAME (emergencias médicas)** (cerrada) https://buenosaires.gob.ar/salud/recursos-humanos-de-salud/carrera-de-profesionales-de-enfermeria
+  - Plazo o ciclo: Sin llamado abierto al 2026-11-23. Últimos llamados vistos: perfil general, inscripción del 27 al 31 de octubre de 2025 (DI-2025-60-GCABA-DGESAME), y perfil neonatología, del 15 al 21 de octubre de 2024 (DI-2024-74-GCABA-DGESAME, marcado FINALIZADO).
+  - Aclaracion: Los requisitos están en los PDF del llamado y del perfil del puesto.
+  - Aclaracion: La URL corresponde al sitio histórico y puede estar desactualizada; la página vigente de concursos de enfermería no tiene entrada para el SAME.
+- **Rosario - Mercado del Centro (convocatoria a puestos, Plaza Montenegro)** (cerrada) https://www.rosario.gob.ar/inicio/mercado-del-centro
+  - Plazo o ciclo: Convocatoria vista: presentación de propuestas del 11/05/26 al 25/05/26; apertura, análisis y entrevistas del 26/05/26 al 29/05/26; selección el 01/06/26. Cerrada al 2026-11-23. La página indica que los puestos se renuevan por convocatoria pública cada dos años (la última ronda recibió más de 50 propuestas y se seleccionaron 10); próxima convocatoria: sin datos.
+  - Aclaracion: La convocatoria está cerrada y no hay fecha confirmada de la próxima.
+  - Aclaracion: Es una concesión de puesto y no un empleo con sueldo.
+- **Universidad de la Defensa Nacional (UNDEF) - Tecnicatura Universitaria Militar en Gestión de Recursos del Ejército** (cerrada) https://undef.edu.ar/gestion-de-recursos-del-ejercito/
+  - Plazo o ciclo: Cohorte 2026: inscripción hasta el 26 de junio e inicio de cursada el 3 de agosto de 2026, ambos ya vencidos al 2026-11-23. La página no informa convocatoria 2027.
+  - Aclaracion: Es una capacitación a distancia, no un empleo.
+  - Aclaracion: Está restringida a suboficiales en actividad del Ejército, por lo que no sirve a quienes no pertenecen a la fuerza.
+- **SSN - Examen de Liquidadores de Siniestros y Averías** (cerrada) https://www.argentina.gob.ar/servicio/inscripcion-en-el-examen-de-liquidadores-de-siniestros-y-averias
+  - Plazo o ciclo: Última convocatoria vista ('Examen noviembre 2026'): inscripción del 1/10/2026 al 31/10/2026, examen escrito remoto el 17/11/2026 y oral el 20/11/2026 en CABA; ya finalizada al 2026-11-23. Próxima convocatoria: sin datos (no publicada en lo visto).
+  - Aclaracion: La página del trámite no trae fechas y remite a una sección de la SSN (https://www.argentina.gob.ar/node/57787), donde figura la convocatoria de noviembre 2026.
+  - Aclaracion: Hay indicios de que el examen es periódico, pero no se confirmó un ciclo anual ni la fecha de la próxima convocatoria.

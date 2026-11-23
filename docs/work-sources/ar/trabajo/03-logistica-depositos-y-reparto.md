@@ -1,0 +1,157 @@
+# Logistica, depositos y reparto
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Loginter - Búsquedas activas** (abierta o vigente, verificada 2 veces) https://www.loginter.com.ar/busquedasactivas
+  - Que es: Perfiles de transporte, distribución y operaciones logísticas. Al revisar la página, las cuatro búsquedas eran de nivel analista o jefatura, no operativas.
+  - Requisitos: Los 4 puestos vistos piden experiencia y no son de primer empleo. Soporte IT semi senior (3 vacantes, Retiro, presencial): formación técnica en sistemas o afín y al menos 4 años de soporte técnico. Analista administrativo de distribución y transporte (costos, Retiro, híbrido): secundario completo o estudios universitarios y al menos 3 años en administración de transporte, costos o logística, con Excel avanzado. Jefe/a de Operaciones (Gualeguaychú, Entre Ríos): al menos 2 años liderando equipos en logística, estudios técnicos o universitarios y movilidad propia. Analista de Proyectos (Planeamiento, Don Torcuato, híbrido): ingeniería industrial y 3 a 4 años de experiencia.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (no se publican salarios)
+  - Plazo o ciclo: Abierto al 2026-11-23, sin fecha de cierre. Soporte técnico IT: incorporación prevista para enero de 2027. Las demás no indican fecha
+  - Como postular: rrhh@loginter.com.ar (correo; para Analista de Proyectos usar el asunto 'Analista de Proyectos'; la página menciona también un chatbot)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Ninguna de las 4 búsquedas es para personas sin experiencia, y no se vieron puestos operativos de depósito o reparto.
+  - Aclaracion: La búsqueda de Jefe/a de Operaciones en Gualeguaychú es señal de un nuevo centro en esa ciudad.
+- **Cruz del Sur - Recursos Humanos** (abierta o vigente, verificada 2 veces) https://www.cruzdelsur.com/nosotros_rrhh.php
+  - Que es: Quienes buscan trabajo en transporte y distribución, depósitos (warehousing), e-commerce y servicio postal. La empresa informa una dotación permanente de 1.700 personas.
+  - Requisitos: No se indican requisitos ni puestos. No se vio exigencia de experiencia ni de título.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (recepción de CV continua, sin búsquedas ni fechas listadas)
+  - Como postular: empleos@cruzdelsur.com (correo para enviar el CV; el banner 'envía tu CV' de la página lo lleva)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La dirección empleos@cruzdelsur.com está ofuscada en la página y fue decodificada por la herramienta de lectura; conviene confirmarla al abrir la página.
+  - Aclaracion: No lista búsquedas puntuales: es una vía abierta, no una oferta concreta.
+  - Aclaracion: La empresa es un transportista de pasajeros y encomiendas.
+- **Correo Argentino - Recursos Humanos (formulario de postulación)** (abierta o vigente, verificada 2 veces) https://www.correoargentino.com.ar/recursos-humanos
+  - Que es: Cualquier persona que quiera postularse a puestos del correo postal (clasificación, reparto, sucursales, administración) en todo el país.
+  - Requisitos: La página no fija edad, estudios ni experiencia mínima. El formulario pide datos personales (incluye DNI, nacionalidad y domicilio), estudios (secundario, terciario, universitario) con su estado, experiencia laboral, el puesto al que se postula (obligatorio), si trabajó antes en Correo Argentino (obligatorio), disponibilidad para mudarse, idiomas y herramientas informáticas. No exige experiencia previa de forma explícita.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (formulario general permanente; la página no lista búsquedas, concursos ni fechas)
+  - Como postular: https://www.correoargentino.com.ar/recursos-humanos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se vieron puestos ni concursos abiertos, y no se confirma que la empresa responda a todas las postulaciones.
+  - Aclaracion: Es una vía de postulación abierta, no una vacante.
+  - Aclaracion: Las secciones de experiencia laboral son opcionales salvo las marcadas con asterisco.
+- **Randstad Argentina - Empleos de logística** (abierta o vigente, verificada 2 veces) https://www.randstad.com.ar/trabajos/q-logistica/
+  - Que es: Candidatos a operarios de depósito, autoelevadoristas/clarkistas, repositores, armadores de pedidos, supervisores de logística y otros en varias provincias. Hay un programa de 'primer empleo' con 'cero experiencia' en el sitio, no asociado a logística en lo visto.
+  - Requisitos: Varía según el aviso; la vista previa está cortada. Ejemplos vistos: clarkista con 3 años de experiencia y secundario completo, residencia en la zona, disponibilidad para turnos rotativos. Hay avisos de depósito y reposición que piden experiencia previa en el rubro. No se vio un aviso que diga explícitamente 'sin experiencia'.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la mayoría de los avisos no la informa)
+  - Plazo o ciclo: Abierto todo el año (avisos rotativos). El 2026-11-23 mostraba 89 trabajos de logística, 30 visibles; los más recientes publicados el 20/11/2026.
+  - Como postular: https://www.randstad.com.ar/trabajos/q-logistica/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La vista previa de los avisos está cortada, por lo que los requisitos varían según el aviso.
+  - Aclaracion: Algunos avisos son viejos (el más antiguo visible es de diciembre de 2025), por lo que conviene mirar la fecha de cada uno.
+  - Aclaracion: Se postula con el botón "postularme" de cada aviso, con o sin cuenta.
+  - Aclaracion: Ofrece alertas por mail (diaria, semanal o mensual).
+- **Uber Eats - Repartir con Uber** (abierta o vigente, verificada 2 veces) https://www.uber.com/ar/es/deliver/
+  - Que es: Personas que quieran hacer reparto de comida y paquetes de forma independiente, en auto, moto o bicicleta.
+  - Requisitos: Subir documentación y datos bancarios en la app; el vehículo (bicicleta, moto o auto) debe tener sus documentos al día. La edad mínima no figura en la página. No pide experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Pago por entrega completada más propinas opcionales; suscripción semanal de ARS 989,42 según la página. Monto por entrega: sin datos.
+  - Plazo o ciclo: Abierto todo el año: botón 'Registrate' activo, sin cupo ni lista de espera mencionados.
+  - Como postular: https://drivers.uber.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El registro no tiene costo, pero para recibir pedidos la página informa una suscripción semanal.
+  - Aclaracion: Se registra desde el botón 'Registrate' (drivers.uber.com) o desde la app Uber Driver.
+  - Aclaracion: Las ganancias se calculan de lunes a lunes y se depositan los jueves.
+  - Aclaracion: Los viajes de reparto incluyen seguro sin costo extra.
+- **Uber - Requisitos para conducir (Argentina)** (abierta o vigente, verificada 2 veces) https://www.uber.com/ar/es/drive/requirements/
+  - Que es: Conductores de viajes de pasajeros. No tienen que tener auto propio.
+  - Requisitos: Licencia de conducir profesional; edad mínima (la página no indica el número); cédula del vehículo y seguro automotor; foto de perfil clara de frente y sin anteojos de sol. No se menciona exigencia de experiencia previa ni de título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no figura en esta página)
+  - Plazo o ciclo: Abierto todo el año; la verificación de documentos suele tardar 1 a 2 días.
+  - Como postular: https://drivers.uber.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los requisitos pueden variar según la ciudad.
+  - Aclaracion: El alta se hace en la página de registro de Uber o en la app Uber Driver, subiendo los documentos; el soporte de Uber los revisa y avisa por mail.
+- **Cabify - Requisitos para conductores** (abierta o vigente, verificada 2 veces) https://www.cabify.com/ar/conductores
+  - Que es: Conductores de auto particular para viajes de pasajeros.
+  - Requisitos: Ser mayor de 21 años; licencia de conducir vigente; cédula verde o azul que autorice a manejar el auto; póliza de seguro automotor vigente; ser monotributista; DNI, licencia, cédula, seguro y certificado de antecedentes penales. No pide experiencia laboral previa ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: botones 'Registrate como conductor' activos; no se mencionó cierre.
+  - Como postular: https://www.cabify.com/ar/conductores
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El alta se hace desde 'Registrate como conductor', que lleva al sitio de alta de conductores de Cabify.
+  - Aclaracion: La página enlaza una guía de 'Habilitación' con pasos según la ciudad, pero no aclara si la disponibilidad varía por ciudad.
+- **Licencia de conducir profesional (clases C, D y E) - Derecho Fácil** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/justicia/derechofacil/leysimple/licencia-de-conducir
+  - Que es: Quienes quieran manejar camiones, vehículos de pasajeros o maquinaria. La clase C es camiones sin acoplado, la D pasajeros/emergencia/seguridad y la E articulados, con acoplado y maquinaria especial no agrícola.
+  - Requisitos: 21 años (la página también menciona 20 como edad del registro profesional); haber tenido la licencia para automóviles al menos 1 año; examen psicofísico, teórico (normas, señales, leyes), teórico-práctico (mecánica y seguridad) y práctico; curso especial; saber leer y escribir; certificado de antecedentes penales del Registro Nacional; DNI para acreditar domicilio.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (el trámite tiene un costo que la página no informa)
+  - Plazo o ciclo: Trámite permanente, abierto todo el año; se hace en el centro emisor de licencias del domicilio (provincia o CABA). Renovación: aptitud psicofísica cada 2 años.
+  - Como postular: https://www.argentina.gob.ar/justicia/derechofacil/leysimple/licencia-de-conducir
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es información sobre el trámite, no una oferta de empleo: sirve como paso previo para trabajar como chofer de camión, colectivo o transporte de cargas.
+  - Aclaracion: La página da 21 años como edad general y menciona 20 años en el registro de conductores profesionales, por lo que conviene confirmar en el centro emisor.
+  - Aclaracion: Quien reprueba un examen debe esperar 30 días para repetirlo.
+- **Portal Empleo y cursos gratuitos de formación profesional (Secretaría de Trabajo)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/formacionycapacitacion
+  - Que es: Cualquier persona desempleada o que quiera capacitarse; incluye a jóvenes de 18 a 24 años a través de Fomentar Empleo y a quienes no tienen secundario (pueden certificar competencias básicas).
+  - Requisitos: Cursos de formación: la página no lista requisitos. Fomentar Empleo: 18 a 64 años, estar desocupado/a (sin ingresos registrados en los últimos 3 meses) y registrarse en el Portal Empleo. No exige experiencia ni título según lo leído.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Cursos gratuitos. Monto de ayudas económicas de Fomentar Empleo: sin datos (no figura en las páginas leídas).
+  - Plazo o ciclo: Permanente, abierto todo el año; la página no da fechas de cursos ni cierres.
+  - Como postular: https://www.portalempleo.gob.ar/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los cursos de oficios son gratuitos y los financia la Secretaría por convenios sectoriales o territoriales, para personas ocupadas y desocupadas; se listan en portalempleo.gob.ar.
+  - Aclaracion: Fomentar Empleo (https://www.argentina.gob.ar/trabajo/fomentar-empleo) ofrece orientación laboral, formación, prácticas en ambientes de trabajo e intermediación, con inscripción en el Portal Empleo.
+  - Aclaracion: No se confirmó en una fuente oficial que Fomentar Empleo haya reemplazado a Jóvenes con Más y Mejor Trabajo: la página del programa no menciona ese programa.
+  - Aclaracion: Contacto: portalempleo@trabajo.gob.ar, oficina de empleo local, agencia territorial o 0800-222-2220.
+- **Programa de Inserción Laboral (PIL)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/pil
+  - Que es: Desempleados mayores de 18 años inscriptos en programas nacionales (Secretaría de Trabajo o PROGRESAR) con mayores dificultades de empleabilidad. Las empresas contratan con un subsidio; no hay tope de edad en la fuente.
+  - Requisitos: Trabajador/a: persona desocupada, mayor de 18 años, inscripta en programas de la Secretaría de Trabajo o en PROGRESAR. Empresa: de cualquier tamaño, sin figurar en el REPSAL y con Alta Temprana en ARCA. No exige experiencia previa de forma expresa. La página no especifica documentación ni residencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Es un incentivo para la empresa, no un sueldo: la Secretaría de Trabajo paga un monto mensual que la empresa descuenta del salario. Según la página, de $13.000 a $52.000 por mes según tamaño de la empresa, tipo de jornada y género (montos que pueden estar desactualizados).
+  - Plazo o ciclo: Permanente: la página no indica fechas de cierre; la adhesión de la empresa dura hasta 12 meses. La página no dice expresamente que esté vigente al 23/11/2026.
+  - Como postular: https://portalempleo.gob.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un incentivo que usa la empresa que contrata; la persona no solicita el PIL.
+  - Aclaracion: La persona se registra en Portal Empleo, carga su historial laboral y se postula a una oferta, o acude a una Agencia Territorial u Oficina de Empleo municipal.
+  - Aclaracion: Portal Empleo devolvió error 500 en varios intentos, por lo que el registro en línea no se pudo comprobar al 23/11/2026.
+  - Aclaracion: Consultas: 0800-222-2220, consultas@trabajo.gob.ar.
+- **Mercado Libre - Empleos (centros logísticos, última milla)** (sin verificar, verificada 1 vez) https://jobs.mercadolibre.com
+  - Que es: Personas que buscan trabajo en depósitos y centros de distribución (clasificación, preparación y empaque, almacenamiento, reparto) en Escobar, Tigre, Córdoba (Río Cuarto, Villa María) y otros centros. Es el mayor contratador de logística de última milla del país según la prensa.
+  - Requisitos: sin datos
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se pudo cargar la página; el ciclo declarado, abierto de forma continua, no se confirmó)
+  - Como postular: https://jobs.mercadolibre.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página devolvió HTTP 403 en dos intentos, igual que https://www.mercadolibre.com.ar/c/empleos, por lo que no se pudo ver ninguna búsqueda ni requisito.
+  - Aclaracion: No se confirmaron puestos abiertos de centros logísticos o última milla ni cómo se postula.
+  - Aclaracion: Se trata de una pista para revisar a mano en el navegador, sin afirmar vacantes.
+- **Oficina de Empleo de Escobar - Portal de empleo municipal (convocatoria Mercado Libre)** (sin verificar, verificada 1 vez) https://www.escobar.gob.ar/escobarempleo/
+  - Que es: Vecinos del partido de Escobar que buscan puestos operativos en el nuevo centro logístico de Mercado Libre (Representante de Envíos, Team Leader).
+  - Requisitos: sin datos
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. El portal viejo ya no se usa y no se pudo abrir el nuevo
+  - Como postular: https://www.escobar.gob.ar/escobarempleo/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL registrada ya no sirve para postularse: el portal redirige a escobar.zohorecruit.com/careers y dice que ya no se usa.
+  - Aclaracion: El portal nuevo, https://www.escobar.gob.ar/escobarempleo/, devolvió HTTP 403, por lo que no se pudo ver ninguna convocatoria; hay que verificar a mano su vigencia.
+  - Aclaracion: Contacto visto en el portal viejo: Oficina de Empleo, Av. 25 de Mayo 459, Belén de Escobar, lunes a viernes de 8 a 15, teléfonos 0348 4262825 u 011 21500251.
+  - Aclaracion: No se pudo confirmar si la convocatoria es solo para residentes de Escobar.
+- **Adecco Argentina - Encontrá trabajo** (sin verificar, verificada 1 vez) https://empleo.adecco.com.ar/
+  - Que es: Candidatos a puestos industriales y operativos a través de la consultora; la división Industrial es la más cercana a depósito y logística.
+  - Requisitos: sin datos (depende de cada aviso)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (la página dice 'Todas las Oportunidades' pero los avisos no se vieron)
+  - Como postular: https://empleo.adecco.com.ar/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los avisos se cargan con JavaScript, por lo que no se confirmó la cantidad ni la vigencia de los avisos publicados.
+  - Aclaracion: El sitio ofrece cargar el CV y buscar empleo con filtros por provincia y rubro.
+- **Rappi - Alta de repartidores (Rappitendero)** (sin verificar, verificada 1 vez) https://soyrappi.com.ar/
+  - Que es: Personas que quieran repartir como independientes en bicicleta, moto u otro medio, en las ciudades donde opera Rappi.
+  - Requisitos: Según prensa, no oficial: mayor de 18 años, DNI vigente, CUIL o CUIT activo, certificado de antecedentes penales, celular con datos móviles y medio de transporte propio. No requiere experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (pago por entrega; no confirmado en fuente oficial)
+  - Plazo o ciclo: sin datos (no se vio una convocatoria con fecha; el sitio responde HTTP 200)
+  - Como postular: https://soyrappi.com.ar/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los requisitos provienen de notas periodísticas (El Economista, C5N), no del sitio oficial, y entre ellas no coinciden del todo.
+  - Aclaracion: Se mencionan reclamos de registros rechazados sin explicación.
+  - Aclaracion: Conviene confirmar los requisitos en soyrappi.com.ar o en la app SoyRappi.

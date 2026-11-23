@@ -1,0 +1,103 @@
+# Grupo 22: Profesionales de la salud
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Fleni - Trabajar en Fleni (búsquedas abiertas y carga de CV)** (abierta o vigente, verificada 2 veces) https://www.fleni.org.ar/institucional/trabajar/
+  - Que es: Profesionales de la salud: médicos (guardia, internación, medicina del sueño), enfermeros, kinesiólogos, fonoaudiólogos, farmacéuticos, psicopedagogos y becarios en nutrición. También fellowships médicos.
+  - Requisitos: Varían por puesto. Enfermería: título oficial y matrícula nacional (UTI/UCO en el puesto de Belgrano). Farmacia hospitalaria: residencia o experiencia en farmacia hospitalaria. Medicina del Sueño: especialidad y matrícula provincial. Fellowship de Medicina del Sueño 2026-2027: especialista en neurología de adultos. Formulario de CV: nombre, fecha de nacimiento, DNI/CUIT/CUIL, teléfono, email, nivel de estudios y archivo Word o PDF de hasta 15 MB. Mayormente roles de salud con título; no se vio ninguna búsqueda sin requisitos de formación.
+  - Pago o beneficio: sin datos (sin montos; solo se indica que la beca de Nutrición es 'rentada' y 'interesantes condiciones de incorporación' en una búsqueda de enfermería)
+  - Plazo o ciclo: abierto todo el año (carga de CV en base de datos); 17 búsquedas listadas el 2026-11-23, sin fecha de cierre visible; los fellowships no mostraron ciclo anual confirmado
+  - Como postular: https://www.fleni.org.ar/institucional/trabajar/carga-su-cv/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Casi todos los roles son de salud y exigen título; no hay búsquedas sin requisitos de formación.
+  - Aclaracion: Las búsquedas se concentran en las sedes Belgrano (CABA) y Escobar.
+  - Aclaracion: Varios fellowships pueden tener ciclos vencidos y no se confirmó que sean anuales; el de Medicina del Sueño 2026-2027 ya comenzó (septiembre 2026).
+  - Aclaracion: La página tiene dos enlaces de carga de CV con rutas distintas (/carga-su-cv/ y /cargar-su-cv/); solo el primero fue probado.
+- **Hospital Universitario Austral - Portal 'Sumate' (Enfermería, Médicos, Profesionales de la salud)** (abierta o vigente, verificada 2 veces) https://sumate.hospitalaustral.edu.ar/
+  - Que es: Postulantes a puestos de enfermería, médicos y otros profesionales de la salud; también administrativos, hotelería y sistemas.
+  - Requisitos: sin datos; el portal no mostró avisos individuales, por lo que no hay requisitos visibles
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año (carga de CV e inicio de sesión; alerta de empleos por correo); no se pudo leer ninguna vacante concreta
+  - Como postular: https://sumate.hospitalaustral.edu.ar/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: No se pudo leer ninguna vacante concreta, por lo que solo se confirma el camino abierto de carga de CV, no que haya vacantes al 2026-11-23.
+  - Aclaracion: Las páginas de búsqueda y categoría no listaron avisos, lo que puede deberse a carga con JavaScript o a ausencia de ofertas.
+  - Aclaracion: Las áreas de Hotelería y Atención al paciente sugieren puestos no sanitarios, sin confirmar.
+- **Sanatorio Allende (Córdoba) - Trabaja con nosotros (HiringRoom)** (abierta o vigente, verificada 2 veces) https://sanatorioallende.hiringroom.com/jobs
+  - Que es: Profesionales y personal de salud y apoyo: licenciados en enfermería, instrumentadores quirúrgicos, atención al paciente, telemedicina, mucamas, cocina, cadetería.
+  - Requisitos: El listado no trae requisitos; solo área, tipo y nivel. Niveles indicados: Junior para cadete (Sede Nueva Córdoba), secretaria de atención al paciente y mucamos/as; Semi Senior para ayudante de cocina, camarero/a y licenciados/as en enfermería; Senior para encargado de Oficina de Atención al Paciente y supervisor de telemedicina. Otro aviso: instrumentador/a quirúrgico/a (nivel no especificado). No se abrieron las fichas, así que la experiencia exigida es sin datos, incluso en los puestos Junior.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año; el 2026-11-23 había 9 vacantes publicadas hace entre 11 días y 4 meses, y una opción 'Subir CV a base general'
+  - Como postular: https://sanatorioallende.hiringroom.com/jobs
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Todas las vacantes publicadas son en Córdoba, presenciales y de jornada completa, salvo la de secretaria, cuyo tipo no se especifica.
+  - Aclaracion: Varios avisos tienen entre 3 y 4 meses de antigüedad y podrían estar vencidos, ya que no figura fecha de cierre.
+  - Aclaracion: Los puestos como cadete, mucamos/as, ayudante de cocina y camarero/a no parecen exigir título sanitario, a confirmar en cada ficha.
+  - Aclaracion: HiringRoom es solo la plataforma de postulación.
+- **Ciudad de Buenos Aires - Carrera de Profesionales de Enfermería (CAPE): concursos** (abierta o vigente, verificada 2 veces) https://buenosaires.gob.ar/salud/recursos-humanos-de-salud/carrera-de-profesionales-de-enfermeria
+  - Que es: Enfermeros y licenciados en enfermería para hospitales públicos porteños. Llamados vistos en hospitales Fernández, Argerich y Piñero, salud mental (Alvear y Tobar García) y nivel central.
+  - Requisitos: Título de Enfermero/a Profesional y/o Licenciado/a en Enfermería y matrícula profesional nacional vigente (excluyente). Según el llamado, entre 1 y 2 años de experiencia laboral certificada (recibo de sueldo o nota membretada); el de Piñero solo la declara deseable. Requiere título: no es apto sin título; la experiencia es exigida en la mayoría de los llamados.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto al 2026-11-23: Subsecretaría de Atención Hospitalaria (Casas Vinculares), inscripción 26, 27 y 30/11/2026, de 10 a 14 hs; Hospital Piñero, inscripción 9, 10 y 11/12/2026, de 9 a 12 hs. Ya cerrados: Hospitales Fernández, Argerich y Alvear (16 al 18/11/2026) y Tobar García (12 y 13/11/2026). Los llamados se repiten por hospital durante el año.
+  - Como postular: https://buenosaires.gob.ar/salud/concurso-enfermeria-subsecretaria-de-atencion-hospitalaria
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Las fechas de inscripción están en la ficha de cada concurso y no en la página de listado.
+  - Aclaracion: La inscripción es presencial, sin trámite en línea mencionado.
+  - Aclaracion: Los hospitales de niños y monovalentes figuran sin concursos disponibles en esta página.
+  - Aclaracion: El cargo es incompatible con otro empleo remunerado en la Ciudad o en el ámbito nacional, provincial o municipal, salvo autorización.
+- **Ciudad de Buenos Aires - Salud: 'Dejanos tu CV' (base de postulantes del Ministerio)** (abierta o vigente, verificada 2 veces) https://buenosaires.gob.ar/salud/recursos-humanos-de-salud/dejanos-su-cv
+  - Que es: Personas que buscan trabajo en el Ministerio de Salud porteño, sin puesto ni profesión especificada en la página.
+  - Requisitos: La página no lista requisitos de elegibilidad; solo completar el formulario y adjuntar el CV. No exige experiencia ni título en el texto, aunque el destino son puestos del sistema de salud.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Formulario en línea disponible; la página no da fechas ni dice expresamente que la recepción sea permanente (inferido: sin plazo visible).
+  - Como postular: https://forms.cloud.microsoft/pages/responsepage.aspx?id=Lkd3IwSASEaEVr2Wh6-hUEJBcllieHJChVKNkAR-aztUNUpXUFlaTzBBUThCNEVQU0RDWDNLVEFXTy4u&route=shorturl
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Es una base de postulantes y no un concurso, por lo que no garantiza contacto ni búsquedas.
+  - Aclaracion: La página no afirma expresamente que la recepción sea permanente; solo muestra un formulario abierto sin fecha de cierre.
+  - Aclaracion: El formulario es de Microsoft Forms y se adjunta el CV.
+- **Provincia de Buenos Aires - Salud: llamados a concurso en hospitales (funciones jerarquizadas)** (abierta o vigente, verificada 2 veces) https://www.gba.gob.ar/saludprovincia/llamados_concurso/llamados_a_concurso_hospitales
+  - Que es: Personal ya vinculado o con perfil para cargos de conducción en hospitales provinciales: jefaturas de Departamento de Enfermería, Recursos Humanos, Sistemas, Laboratorio, etc.
+  - Requisitos: No visibles en la página; constan en anexos (I, II, III) y en cada disposición. Por tratarse de jefaturas de departamento, se presume exigencia de pertenecer al sistema y experiencia en el área, pero no se vio el texto. No apto sin experiencia.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abiertos al 2026-11-23: Jefe/a de Departamento de Enfermería, Hospital Interzonal 'Petrona V. de Cordero' (San Fernando), vigencia 20/11/2026 a 30/11/2026 (DISPO-2026-545); Jefe/a de Departamento de Gestión de RR.HH., Hospital 'Prof. Dr. Luis Güemes' (Haedo), 16/11/2026 a 30/11/2026 (DISPO-2026-538). Otros llamados de 2026 ya vencidos (por ejemplo 26/10 a 06/11/2026 y 31/08 a 11/09/2026) o sin fecha visible.
+  - Como postular: https://www.gba.gob.ar/saludprovincia/llamados_concurso/llamados_a_concurso_hospitales
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Son llamados a funciones jerarquizadas (jefaturas de departamento) y no puestos de ingreso.
+  - Aclaracion: Las fechas figuran como vigencia y la página no dice expresamente que sean el plazo de inscripción.
+  - Aclaracion: Los requisitos y el procedimiento están en anexos y disposiciones enlazados.
+  - Aclaracion: Está dirigido a personal con experiencia en gestión hospitalaria.
+- **Ciudad de Buenos Aires - Concursos de la Carrera Profesional Hospitalaria de la Salud** (se repite (hoy sin llamado abierto), verificada 2 veces) https://buenosaires.gob.ar/salud/recursos-humanos-de-salud/concursos-publicos-abiertos
+  - Que es: Profesionales de la salud de todas las especialidades, para los hospitales públicos de la Ciudad (concursos abiertos). Los concursos cerrados cubren cargos de conducción.
+  - Requisitos: Título profesional de salud y condiciones generales y específicas de cada llamado (se detallan en cada disposición). Los llamados de ingreso suelen pedir experiencia o antecedentes según el perfil; no hay una regla única visible. No es un empleo sin título.
+  - Pago o beneficio: sin datos (la grilla salarial figura en https://data.buenosaires.gob.ar/dataset/grilla-salarial, no revisada)
+  - Plazo o ciclo: Llamados rodantes por hospital y especialidad durante todo el año; sin calendario fijo. Ejemplos vistos en 2026: kinesiología Hospital Elizalde del 05/10/2026 al 19/10/2026 (cerrado); enfermería con inscripciones del 16 al 18/11/2026 (cerradas), 26, 27 y 30/11/2026 y 9 al 11/12/2026 (próximas).
+  - Como postular: https://buenosaires.gob.ar/salud/recursos-humanos-de-salud/concursos-publicos-abiertos
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página es solo un portal con tres categorías: concursos públicos abiertos, concursos cerrados de conducción y concursos cerrados internos.
+  - Aclaracion: Cada llamado se inscribe según su propia disposición y no hay un procedimiento general descrito.
+  - Aclaracion: Algunos enlaces del listado apuntan a un dominio de prueba o a otra página, por lo que son poco confiables.
+  - Aclaracion: Aplica solo a profesionales de salud con título habilitante.
+- **Hospital El Cruce - Trabaja con nosotros y concursos de residencias, concurrencias y fellows** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.hospitalelcruce.org/index.php/component/sppagebuilder/52-residencias-2026/
+  - Que es: Postulantes a puestos del hospital y a residencias, concurrencias y fellowships para profesionales de la salud.
+  - Requisitos: Título universitario de grado en salud (según especialidad) con las fechas de expedición indicadas, examen integrado nacional y entrevista presencial obligatoria. Requiere título; no pide experiencia previa para residencias básicas. Para el empleo general en el hospital: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Residencias: ciclo anual aparente; en 2026 la inscripción fue del 10 de abril al 15 de junio, examen el 1 de julio, orden de mérito entre el 15 y el 31 de julio e ingreso el 1 de septiembre (cerrado a la fecha). La edición 2027 no estaba publicada. Concurrencias y fellows: sin fechas vistas.
+  - Como postular: https://www.argentina.gob.ar/salud/residencias/ingreso
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La edición 2027 de las residencias no estaba publicada.
+  - Aclaracion: La evidencia de ciclo anual es indirecta, ya que se basa en la existencia de páginas de ediciones 2021 y 2026.
+  - Aclaracion: La página lleva la etiqueta del menú Concurrencias 2026, pero el contenido corresponde a residencias.
+  - Aclaracion: Las vacantes de empleo general en el hospital no pudieron verse.
+- **Grupo OSDE - Quiero trabajar en OSDE** (sin verificar, verificada 1 vez) https://www.osde.com.ar/conoce-osde/grupo-osde/trabaja-en-grupo-osde
+  - Que es: Quien quiera sumarse a OSDE, que declara más de 6.500 personas trabajando en el país. La página no lista roles ni ofertas de salud.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.linkedin.com/company/osde/jobs/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página no lista vacantes, requisitos, programas ni fechas.
+  - Aclaracion: El único canal de postulación confirmado es la página de empleos de OSDE en LinkedIn, que exige cuenta.

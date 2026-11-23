@@ -1,0 +1,89 @@
+# Grupo 33: Profesionales de nivel medio en operaciones financieras y administrativas
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Superintendencia de Seguros de la Nación (SSN) - Matrícula de Productor Asesor de Seguros (PAS)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/servicio/obtener-matricula-de-productores-asesores-de-seguros-aspirantes
+  - Que es: Personas que quieren vender seguros como productor asesor (intermediario entre asegurado y aseguradora). Hay matrícula para todos los ramos y matrícula solo para seguros de vida.
+  - Requisitos: Título secundario (o título de Técnico en Seguros con su validación). Certificado del Ente Cooperador Ley 22.400 que acredite haber aprobado el examen de idoneidad. DNI (frente y dorso), foto 4x4, comprobante de pago del arancel y usuario de TAD con clave fiscal; toda la documentación digitalizada. No se menciona experiencia previa: no se exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es un empleo: es una matrícula para ejercer como productor asesor. Costo del trámite que figura en la página: $33000.00 (moneda no indicada, presumiblemente pesos). Además rige un derecho fijo anual; 2 años sin pago suspende la matrícula y 5 años la hace caducar.
+  - Plazo o ciclo: Trámite por TAD sin período de inscripción publicado en la página (ruta de postulación abierta). Vigencia indicada: 12 meses. Fecha del trámite: sin datos.
+  - Como postular: https://www.argentina.gob.ar/servicio/obtener-matricula-de-productores-asesores-de-seguros-aspirantes
+  - Lectura automatica posible: Registro público de productores consultable en línea por DNI o número de matrícula (https://seguro2.ssn.gob.ar/sujetoshabilitados); sin API vista.
+  - Aclaracion: No es un empleo: es una matrícula para ejercer como productor asesor.
+  - Aclaracion: La página no dice expresamente que el trámite esté abierto todo el año ni cuánto demora.
+  - Aclaracion: El examen previo lo rinde el Ente Cooperador, cuyas fechas no se verificaron.
+- **Grupo San Cristóbal (aseguradoras) - Trabajá en GSC (portal HiringRoom)** (abierta o vigente, verificada 2 veces) https://sancristobalrrhh.hiringroom.com/jobs
+  - Que es: Postulantes a puestos de seguros y comerciales en Buenos Aires, Córdoba y Rosario.
+  - Requisitos: Cada aviso tiene su propio perfil. Todos los vistos son de nivel Semi Senior o Senior (Ejecutivo/a de Cuentas Vida y AP; Médico/a Auditor/a; Administrador/a de Daños Parciales en Córdoba; Ejecutivo/a de Cuentas Agro y Especialista Comercial de Productos Financieros en Rosario; Analista de Negocios; Ejecutivo/a de Cuentas Seg. Empresas; Analista de Responsabilidad Civil). No se vio ningún puesto sin experiencia. Detalles de cada aviso: sin datos.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (los avisos vistos en el listado no informan salario)
+  - Plazo o ciclo: Abierto todo el año: el 2026-11-23 se vieron 8 avisos (los más recientes de hace 2 y 4 días, los más viejos de hace 4 meses) y un enlace 'Subir CV a base general'.
+  - Como postular: https://sancristobalrrhh.hiringroom.com/jobs
+  - Lectura automatica posible: Portal HiringRoom; sin API vista.
+  - Aclaracion: El portal está alojado en HiringRoom con marca y datos de Grupo San Cristóbal, pero no se verificó el enlace desde el sitio corporativo.
+  - Aclaracion: Se puede postular desde la ficha de cada aviso o subiendo el CV a la base general.
+  - Aclaracion: Las modalidades vistas son presencial e híbrida.
+- **Federación Patronal Seguros - Quiero ser Productor** (abierta o vigente, verificada 2 veces) https://www.fedpat.com.ar/institucional/quiero-ser-productor-de-federacion-patronal/
+  - Que es: Personas que quieren vender los seguros de la compañía como productores independientes (no es empleo en relación de dependencia).
+  - Requisitos: No se requiere experiencia previa: la página dice "No necesitás saber todos los requisitos ni tener experiencia previa". No lista otros requisitos formales.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no menciona comisiones ni remuneración; se trata de un rol de productor asesor de seguros, no de empleo en relación de dependencia)
+  - Plazo o ciclo: Sin fecha de apertura ni cierre en la página; formulario de registro disponible el 2026-11-23. La página no indica si la recepción es permanente o por períodos.
+  - Como postular: https://www.fedpat.com.ar/institucional/quiero-ser-productor-de-federacion-patronal/ (formulario de Microsoft Forms "Quiero sumarme como Productor" enlazado desde la página; URL del formulario no vista)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página invita a completar un formulario en línea; la compañía evalúa el perfil y luego se comunica para continuar el proceso.
+  - Aclaracion: No figura fecha de actualización ni plazo, y el carácter permanente se infiere de la ausencia de un período de inscripción.
+  - Aclaracion: Ser productor asesor de seguros suele implicar matrícula de la Superintendencia de Seguros de la Nación, pero eso no figura en la página y no se verificó.
+  - Aclaracion: Se trata de sumarse a una red de más de 12.000 productores, no de un empleo en relación de dependencia.
+- **Comisión Nacional de Valores (CNV) - Registro de Idóneos y examen de idoneidad** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/cnv/tramites
+  - Que es: Personas que quieren trabajar en el mercado de capitales (por ejemplo en agentes de bolsa y otros agentes registrados) y necesitan estar inscriptas como idóneos.
+  - Requisitos: La página solo dice que las personas 'se podrán inscribir para rendir el examen de idoneidad en el mercado de capitales'. Los trámites del registro van por TAD, previo a completar el 'Formulario de Solicitud de Inicio de Trámite' en registroagentes.cnv.gov.ar; la documentación depende de la categoría. Requisitos de estudios y experiencia: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se vieron fechas de examen ni de inscripción)
+  - Como postular: https://registroagentes.cnv.gov.ar
+  - Lectura automatica posible: Registros públicos consultables en cnv.gov.ar (Agentes, Idóneos); buscador global https://www.cnv.gov.ar/sitioweb/buscadorglobal; sin API vista.
+  - Aclaracion: La página oficial no describe el Registro de Idóneos ni fechas, aranceles o requisitos del examen.
+  - Aclaracion: La URL https://www.argentina.gob.ar/cnv/registro-de-idoneos devuelve error 404.
+  - Aclaracion: No corresponde tomarla como convocatoria hasta contar con la página específica del examen.
+- **CUCICBA - Colegio Único de Corredores Inmobiliarios de la Ciudad de Buenos Aires (matrícula)** (sin verificar, verificada 1 vez) https://www.cucicba.com.ar/diferencias-entre-corredor-inmobiliario-matriculado-y-agente-no-matriculado/
+  - Que es: Personas que quieren trabajar como corredor inmobiliario matriculado en CABA. Un agente no matriculado solo puede actuar como dependiente de un corredor matriculado, sin firmar documentos, tasar ni negociar con ambas partes.
+  - Requisitos: Título universitario específico en Corretaje Inmobiliario (o Martillería), mayoría de edad, buena conducta, domicilio de más de un año en la región, garantía real o personal. No se menciona experiencia previa. Requiere título, por lo que no sirve a quien no tiene estudios terminados.
+  - Sin experiencia previa: no
+  - Pago o beneficio: No es un empleo ni un programa de capacitación gratuito: es una matrícula profesional. Montos que figuran como ejemplo (CUCICBA, CABA): inscripción única $4.000.000, matrícula anual $650.000, gastos administrativos $140.000 más fianza fiduciaria (monto no indicado); total inicial aproximado $4.655.000, pagables en cuotas. Fecha de esos montos: sin datos.
+  - Plazo o ciclo: sin datos: la página no indica si el trámite está abierto todo el año ni fechas; solo que la matrícula es anual y requiere renovación vigente para ejercer.
+  - Como postular: https://www.cucicba.com.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página es un artículo informativo del colegio, no el trámite de inscripción: no da pasos ni enlaces para inscribirse y solo remite a Contacto.
+  - Aclaracion: Los montos tienen apariencia de ejemplo y conviene confirmarlos con el colegio.
+  - Aclaracion: Fuera de la Ciudad de Buenos Aires, la matrícula depende del colegio provincial.
+- **Centro Despachantes de Aduana de la República Argentina (CDA) - inscripción de socios** (sin verificar, verificada 1 vez) http://cda.org.ar/detalle_noticia.php?id=36698
+  - Que es: Despachantes de aduana que quieren asociarse al centro; sirve como puerta de entrada al oficio aduanero (importación y exportación) en Buenos Aires.
+  - Requisitos: Formulario de solicitud (aval de un socio con más de 2 años, opcional); foto, DNI, copia certificada del certificado de capacitación de AFIP, copia del título de la institución o cámara donde se estudió, constancia de CUIT, antecedentes penales, constancia de CBU y declaración jurada. Se exige formación de despachante de aduana; no es para personas sin estudios ni experiencia en el rubro.
+  - Sin experiencia previa: no
+  - Pago o beneficio: No es un empleo: es alta como socio de una entidad gremial/profesional. Cuota adelantada: seis cuotas de $60.000 por mes según la nota, más un derecho de ingreso cuyo monto se pide por mail.
+  - Plazo o ciclo: Nota fechada 01/12/2025 que dice 'las inscripciones para socios nuevos se encuentran abiertas'; sin fecha límite y sin confirmación de que siga abierta al 2026-11-23.
+  - Como postular: http://cda.org.ar/detalle_noticia.php?id=36698
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La nota tiene casi un año de antigüedad y no hay confirmación de que las inscripciones sigan abiertas.
+  - Aclaracion: La Comisión Directiva revisa la solicitud y, si se acepta, envía el número de socio por mail.
+  - Aclaracion: Contacto indicado: roxana@cda.org.ar (la nota escribe otra dirección con un error tipográfico).
+  - Aclaracion: Es un trámite de nicho, orientado a un perfil técnico muy específico.
+- **Banco Hipotecario - Recursos Humanos y portal de postulación** (sin verificar, verificada 1 vez) https://www.hipotecario.com.ar/nosotros/desarrollo-organizacional3/
+  - Que es: Postulantes a puestos del banco; la página no lista vacantes ni perfiles.
+  - Requisitos: sin datos. La página solo lista competencias valoradas (agilidad, orientación a resultados, visión de negocio, mejora continua, cliente en el centro, redes de colaboración). No menciona programas de jóvenes ni pasantías.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos: la página de RR. HH. invita a sumarse a la #ComunidadBH y enlaza al portal https://hipotecario.hiringroom.com/jobs, pero no se pudo ver ningún aviso ni fecha.
+  - Como postular: https://hipotecario.hiringroom.com/jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El botón 'Ver más' de la página oficial apunta al portal HiringRoom, pero https://hipotecario.hiringroom.com/jobs devolvió 404 y la raíz del subdominio cargó vacía, por lo que la vigencia de avisos no pudo confirmarse.
+  - Aclaracion: Contactos del banco en la página: 0810-222-7777, WhatsApp 11-4411-7777 y formulario de consultas.
+- **MAPFRE Argentina - Trabajar en MAPFRE** (sin verificar, verificada 1 vez) https://www.mapfre.com.ar/sobre-mapfre-argentina/trabajar/
+  - Que es: Postulantes a puestos de la aseguradora; la página enlaza al portal global de empleo y describe beneficios para empleados.
+  - Requisitos: sin datos. La página describe el plan de beneficios para empleados (formación, horarios flexibles, becas de estudio, descuentos, etc.) pero no requisitos ni proceso de postulación.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos: la página no describe proceso ni fechas y remite al portal global https://jobs.mapfre.com/, donde no se vieron avisos de Argentina.
+  - Como postular: https://jobs.mapfre.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se pudo confirmar que exista una base de talentos para postulantes externos: la 'Global Talent Network' mencionada es de promoción interna.

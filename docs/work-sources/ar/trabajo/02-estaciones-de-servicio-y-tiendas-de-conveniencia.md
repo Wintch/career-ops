@@ -1,0 +1,58 @@
+# Estaciones de servicio y tiendas de conveniencia
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Signar Energy - Trabajá con nosotros (portal Gupy)** (abierta o vigente, verificada 2 veces) https://signarenergy.gupy.io/
+  - Que es: Candidatos a puestos de la empresa (planta, administración, ventas B2B). No se vieron puestos de playa ni de tienda de conveniencia.
+  - Requisitos: No se vieron en el listado; se ven al abrir cada aviso. Los puestos de analista son claramente de nivel senior o con experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto: el portal mostró 6 avisos al 2026-11-23 y un banco de talentos permanente
+  - Como postular: https://signarenergy.gupy.io/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Cinco de los seis avisos son de perfil con experiencia; Operadores de Planta es la vía más cercana a trabajo operativo.
+  - Aclaracion: La empresa advierte que nunca pide pagos ni datos bancarios por estudios preocupacionales, antecedentes penales ni otros gastos.
+- **DAPSA (Dock Sud) - Trabajá con nosotros y Red de estaciones** (abierta o vigente, verificada 2 veces) https://www.dapsa.com/empresa/
+  - Que es: Dos públicos: (1) quien busca empleo en la empresa; (2) emprendedores que quieren abrir o pasarse a una estación de la red DAPSA ('Forma parte de nuestra red'), vía por la que una persona puede terminar contratada en una estación.
+  - Requisitos: No se indican requisitos. La página menciona que valoran 'lealtad, buena voluntad y espíritu de cooperación'. No se vio exigencia de experiencia ni de título.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (formulario permanente, sin fechas de cierre)
+  - Como postular: https://www.dapsa.com/empresa/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL registrada es la página comercial de la red de estaciones; la sección "Forma parte de nuestra red" es para emprendedores y no es empleo.
+  - Aclaracion: El formulario de empleo está en https://www.dapsa.com/empresa/ y, según la página, abre un Google Form; no se listan puestos concretos, ni correo de RRHH ni carga de CV.
+  - Aclaracion: El botón de la página /valores/ apuntaba a un dominio ajeno (avnam.net); conviene usar solo la página /empresa/ del dominio dapsa.com.
+  - Aclaracion: Teléfono general: (54-11) 4229-2000. No se confirmó qué puestos cubre ni si hay respuesta efectiva.
+- **YPF - estaciones de servicio (playero, tienda Full): postulación online o en mano** (se repite (hoy sin llamado abierto), verificada 2 veces) https://oportunidades.ypf.com/
+  - Que es: Personas que buscan trabajo de playero/operador de playa, vendedor de estación o empleado de tienda Full en estaciones YPF (sobre todo AMBA; también otras ciudades según la estación).
+  - Requisitos: Según iProfesional (no oficial): secundario completo, disponibilidad para turnos rotativos, buen trato con clientes, vivir cerca de la estación; la experiencia en atención al cliente se valora pero no es obligatoria. Otros medios mencionan un rango de edad de 21 a 35 años en algunas ofertas. Hay entrevistas, test online, psicotécnico y examen preocupacional.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (el personal de estaciones corresponde al convenio del sindicato SOESGPyLA según un medio; no hay monto oficial)
+  - Plazo o ciclo: Portal oportunidades.ypf.com: 72 puestos publicados (los 25 visibles, del 18 al 21 nov. 2026, son de ingeniería, coordinación y operaciones en Capital Federal, Neuquén, Buenos Aires y Chubut). La búsqueda "playero" devuelve "no hay ninguna vacante acorde a sus preferencias" y 0 resultados.
+  - Como postular: https://oportunidades.ypf.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La portada ypf.com no tiene enlace de empleo ni información sobre playeros, y la ruta ypf.com/trabaja-con-nosotros devolvió página no disponible.
+  - Aclaracion: Los requisitos de playero provienen de la prensa, no de una guía oficial de YPF.
+  - Aclaracion: "Abierto" no debe leerse como que haya una ronda vigente para estaciones: no hay vacantes de playero ni de tienda Full en el portal oficial.
+  - Aclaracion: Según iProfesional, las vacantes se abren durante 10 días corridos y el proceso completo lleva de 60 a 90 días; algunas estaciones reciben CV en mano, aunque la empresa recomienda el canal digital.
+  - Aclaracion: Las estaciones suelen ser operadas por terceros, por lo que los requisitos varían por estación.
+- **YPF - buscador de estaciones (para dejar CV en persona o consultar a la estación)** (sin verificar, verificada 1 vez) https://mapa.ypf.com/
+  - Que es: Cualquier persona que quiera ubicar estaciones YPF y tiendas Full cercanas para consultar por vacantes en el lugar.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no es un aviso de empleo)
+  - Como postular: https://oportunidades.ypf.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página carga con el título "Estaciones de servicio", pero no mostró mapa ni buscador y no menciona empleo ni envío de CV.
+  - Aclaracion: No se pudo confirmar que sirva como localizador ni que las estaciones reciban CV en mano; solo sirve para ubicar una estación, no como canal de empleo verificado.
+- **CECHA - Confederación de operadores de estaciones de servicio (convenio 371/03 y noticias del sector)** (sin verificar, verificada 1 vez) https://cecha.org.ar/site/
+  - Que es: Referencia para entender cómo se contrata y paga en estaciones: quien trabaja o quiere trabajar de playero, ayudante o empleado de tienda. No es una bolsa de trabajo.
+  - Requisitos: No aplica: no es una bolsa de empleo ni recibe postulaciones.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin ciclo de empleo. El sitio se actualiza de forma continua (última noticia vista: 26/06/2026)
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se vio ninguna oferta de empleo ni formulario de postulación; sirve como referencia del convenio 371/03 y de escalas salariales.
+  - Aclaracion: Se leyó solo la primera parte de la página, que es muy larga.
+  - Aclaracion: Para las estaciones, la postulación es directamente en cada estación o empresa operadora.
+  - Aclaracion: Dirección y teléfono: Av. de Mayo 633, 2º piso, of. 12, CABA, (011) 4342-4804/9394.

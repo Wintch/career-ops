@@ -1,0 +1,104 @@
+# Grupo 12: Directores administradores y comerciales
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Randstad Argentina - Sección Professional (administración, finanzas, RRHH, marketing y ventas)** (abierta o vigente, verificada 2 veces) https://www.randstad.com.ar/candidatos/professional/
+  - Que es: Profesionales de Finanzas y contabilidad, Administración, Recursos humanos y legales, Marketing y ventas, Ingeniería, Salud y educación.
+  - Requisitos: La página Professional no fija requisitos. Cada aviso tiene los suyos: algunos piden experiencia (por ejemplo, 3 años en autoelevador, experiencia en caja o en venta telefónica) y otros son puestos junior o eventuales. No se vio que haya un requisito común de experiencia para todos los avisos. Se puede cargar el CV en Mi Randstad.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año. El listado general (https://www.randstad.com.ar/trabajos/) mostró 30 de 548 avisos, con publicaciones del 19 y 20 de noviembre de 2026.
+  - Como postular: https://www.randstad.com.ar/trabajos/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El listado general mostró 548 avisos en todo el país; la cifra de 112 corresponde a la página de Buenos Aires.
+  - Aclaracion: La postulación se hace desde el listado de trabajos, con cuenta en Mi Randstad o con la app.
+  - Aclaracion: El listado general incluye puestos operativos y técnicos, además de los profesionales.
+- **ManpowerGroup Argentina - Ofertas de trabajo (Manpower, Experis, Talent Solutions)** (abierta o vigente, verificada 1 vez) https://talento.manpower.com.ar/
+  - Que es: Candidatos a puestos temporarios y permanentes que gestiona la consultora; Experis cubre perfiles de tecnología y Talent Solutions ofrece reclutamiento a medida para empresas. Si cubre cargos gerenciales: sin datos (la portada no menciona niveles de seniority).
+  - Requisitos: No se vio un requisito general. Los avisos varían (desarrollo IT, ayudantes de cocina, soldador, según el resultado de la búsqueda). Para postularse a un aviso hace falta registrarse en el portal. También se puede cargar el CV sin aviso específico, sin costo, para futuras búsquedas en la localidad.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año. Una búsqueda web mostró el portal con avisos del 08/11/2026 y 105 vacantes en total (dato de la búsqueda; la página en sí no se pudo leer).
+  - Como postular: https://talento.manpower.com.ar/vacantes
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Las cifras de vacantes y fechas provienen de un resumen de búsqueda y no de una lectura directa del portal.
+  - Aclaracion: El botón 'Encontrar empleo' deriva a un portal externo; se recomienda usar talento.manpower.com.ar como URL de postulación.
+  - Aclaracion: etalent.manpower.com.ar es un canal de ventas para empresas, no de búsqueda de empleo.
+- **Banco Galicia / Galicia Seguros - Portal de empleos (Carga tu CV)** (abierta o vigente, verificada 1 vez) https://empleos.galicia.com.ar
+  - Que es: Postulantes a puestos de un banco y una aseguradora de gran escala: según notas periodísticas, ejecutivos de red de sucursales, analistas, perfiles de inversiones e IT; el portal permite cargar el CV aunque no haya vacante. Cargos gerenciales de administración, finanzas, RRHH o comercial: sin datos (no se vio ningún aviso).
+  - Requisitos: No se vieron requisitos en el listado. Los títulos vistos son de perfil profesional o técnico (Especialista de Proyecto IT, Head of AI & Transformation, Fraud Prevention Sr Analyst) y avisos genéricos 'Sumate al equipo' en varias áreas. No se vio un puesto para personas sin experiencia. Notas de prensa de 2022 a 2024 indican que a veces se piden estudios afines o inglés, pero no son fuente oficial vigente.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año, con búsquedas puntuales. El listado de Banco Galicia mostró 15 búsquedas abiertas, con fechas del 12 al 19 de noviembre de 2026.
+  - Como postular: https://empleos.galicia.com.ar/bancogalicia/search/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página de inicio no muestra avisos, pero el buscador de Banco Galicia (https://empleos.galicia.com.ar/bancogalicia/search/) lista búsquedas vigentes.
+  - Aclaracion: La sección de Galicia Seguros está en https://empleos.galicia.com.ar/galiciaseguros.
+  - Aclaracion: Los avisos 'Sumate al equipo' pueden ser convocatorias genéricas o de base de talentos, aunque esto no está confirmado.
+- **CPCECABA - Servicio de Empleo y Selección de Talentos (Ciencias Económicas)** (abierta o vigente, verificada 2 veces) https://www.consejo.org.ar/servicios/servicio-empleo
+  - Que es: Contadores, administradores, economistas y estudiantes de Ciencias Económicas que buscan puestos administrativos, contables, financieros y afines en empresas e instituciones que publican búsquedas.
+  - Requisitos: Exclusivo para profesionales o estudiantes de Ciencias Económicas ('necesario y excluyente' según la página). Quienes no cumplen ese perfil son derivados al portal de empleo del Gobierno de la Ciudad de Buenos Aires (trabajo.buenosaires.gob.ar). No se mencionó costo. Los avisos vistos eran de nivel senior o de docencia, en Capital Federal.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año. El portal mostró 3 búsquedas abiertas, publicadas hace 2 a 4 días (fechas relativas; sin fecha exacta). Cada búsqueda queda publicada 60 días corridos.
+  - Como postular: https://cpcecaba.hiringroom.com/jobs
+  - Lectura automatica posible: sin datos (las búsquedas están en HiringRoom, sin API vista)
+  - Aclaracion: Se postula en el portal Hiring Room con el botón 'Postularse', o se sube el CV a la base general ('Subir CV a base general').
+  - Aclaracion: Contacto: servicioempleo@consejocaba.org.ar, teléfono 5382-9569 / 5382-9200, Viamonte 1549, CABA.
+  - Aclaracion: Hay turnos de mentoría.
+  - Aclaracion: La página no da fechas de cierre por aviso.
+- **CPCE Santa Fe Cámara II - Avisos de trabajo (exclusivo para profesionales en Ciencias Económicas)** (abierta o vigente, verificada 2 veces) https://www.cpcesfe2.org.ar/avisos-trabajo/
+  - Que es: Profesionales de Ciencias Económicas que buscan empleo; los avisos de empleadores se ven después de ingresar con usuario.
+  - Requisitos: Exclusivo para profesionales en Ciencias Económicas. Los avisos vistos piden contador/a (senior y junior) o Lic. en Administración, en Rosario. No se vio un requisito general de experiencia, que depende de cada aviso.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año. La página de avisos mostró 4 avisos vigentes, sin fechas de publicación visibles. La página original (?p=552420) tiene fecha 08/02/2022 pero el servicio sigue activo.
+  - Como postular: https://www.cpcesfe2.org.ar/avisos-trabajo/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El servicio vigente está en https://www.cpcesfe2.org.ar/avisos-trabajo/; la página ?p=552420 es una versión de 2022.
+  - Aclaracion: Hay un Banco de profesionales en https://www.cpcesfe2.org.ar/banco-de-profesionales/.
+  - Aclaracion: Los datos de contacto de la página (biblioteca@cpcesfe2.org.ar, teléfono (0341) 477 2727) son para empresas que quieren publicar; no se indica cómo se postula quien busca empleo.
+  - Aclaracion: Los avisos son pocos y sin fecha, por lo que su vigencia exacta no está confirmada.
+- **EY Argentina - Carreras (profesionales con experiencia, estudiantes y graduados recientes)** (abierta o vigente, verificada 2 veces) https://www.ey.com/es_ar/careers
+  - Que es: Profesionales con experiencia y estudiantes o graduados recientes en Auditoría y finanzas, Impuestos, Consultoría, People Advisory Services, Servicios Financieros, Tecnología y Core Business Services; ruta frecuente hacia roles de finanzas, control y gestión.
+  - Requisitos: El programa de ingreso EY FastPass no exige experiencia: la página dice que está abierto a quienes están terminando sus estudios o recién comienzan, 'tengas o no experiencia laboral'. Perfil buscado: estudiantes o graduados de administración, ciencias actuariales, economía, contabilidad, relaciones internacionales, comercio exterior, derecho, ingenierías, estadística, física, matemática, psicología, marketing, diseño de experiencia o carreras de IT. Hace falta formación universitaria en curso o terminada. Para las búsquedas de profesionales con experiencia, cada aviso fija sus requisitos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año, con comunidad de talento para quienes no encuentran vacante. Búsquedas de 'Base de Talentos' en careers.ey.com, tomadas de una búsqueda web con fechas de mediados de 2026 (una del 25 de agosto de 2026); no se cargó el portal para ver fechas actuales.
+  - Como postular: https://www.ey.com/es_ar/careers/ey-fastpass
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La postulación se hace desde las listas de FastPass y de búsquedas en careers.ey.com; para auditoría hay un formulario de base de talentos ('Inscríbete aquí').
+  - Aclaracion: Hay una advertencia oficial contra reclutadores no autorizados que cobran por ayudar a postularse.
+  - Aclaracion: El programa EY Empodera América Latina, para personas con barreras económicas o sociales, cerró su inscripción 2026 el 15 de febrero; este dato no se verificó en la página oficial.
+  - Aclaracion: La vigencia se apoya en la comunidad de talento y los avisos de base de talentos, no en una convocatoria con fecha de cierre.
+- **CPCE Córdoba - Bolsa de Trabajo para profesionales en Ciencias Económicas** (se repite (hoy sin llamado abierto), verificada 2 veces) https://web.cpcecba.org.ar/areas/servicios-y-beneficios/bolsa-de-trabajo/
+  - Que es: Profesionales de Ciencias Económicas matriculados (y estudiantes que figuren en el registro de estudiantes del Consejo) que buscan empleo o un cambio laboral; empresas, estudios, consultoras e instituciones inscriptas piden perfiles al Consejo.
+  - Requisitos: Postulantes: profesionales matriculados y estudiantes registrados en el Registro de estudiantes del Consejo. Los profesionales completan los formularios en Autogestión. No se indicó costo.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Continuo, sin fechas de cierre. Funciona por demanda: cuando una empresa pide personal, el perfil se envía por mail a los inscriptos. No se vio ningún aviso concreto abierto a la fecha.
+  - Como postular: https://autogestion.cpcecba.org.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El servicio lo gestiona la Comisión Asesora de Jóvenes Profesionales.
+  - Aclaracion: Los inscriptos reciben el perfil por email y, si les interesa, envían el CV, que el Consejo entrega a la empresa.
+  - Aclaracion: Empresas: registrolaboral@cpcecba.org.ar. Atención de lunes a viernes de 8 a 16 h, teléfono (0351) 4688319.
+  - Aclaracion: Se describe el mecanismo, pero no hay un llamado o aviso vigente.
+- **Arcor - Programa de pasantías (carreras de administración, RRHH, marketing, ventas, comercio exterior)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.arcor.com/ar/rrhh-programa-de-pasantias
+  - Que es: Estudiantes de 3.º o 4.º año de ingenierías y de carreras de gestión (recursos humanos, psicología, contador, administración de empresas, marketing, ventas, comercio exterior, relaciones internacionales, seguridad e higiene, entre otras); sirve como puerta de entrada a áreas de Administración, Finanzas, Ventas, Marketing y RRHH de una empresa grande.
+  - Requisitos: Estar cursando 3.º o 4.º año de ciertas carreras: ingenierías (eléctrica, electrónica, electromecánica, mecánica, industrial, química), licenciaturas (química, alimentos, informática, ambiental, sistemas) y otras (RRHH, psicología, contaduría, administración de empresas, marketing, comercialización, comercio exterior, relaciones internacionales, seguridad e higiene). Es un programa para estudiantes: exige estudios universitarios en curso. Duración de 12 meses con posibilidad de extensión, jornada part time, en distintas plantas y oficinas del país.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Fechas de convocatoria: sin datos. La página oficial no indica ciclos ni plazos. Una nota periodística (Infonegocios, sin fecha confirmada y posiblemente de un ciclo anterior) menciona reclutamiento de enero a abril. La página tiene un botón de postulación activo.
+  - Como postular: https://emqm.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/es/sites/grupoarcorgl
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La lista de carreras incluye también ingenierías y licenciaturas técnicas, no solo las de administración y ventas.
+  - Aclaracion: La evidencia de un ciclo anual es indirecta (artículos de prensa; el programa existiría desde 2013 según una nota sobre la edición 2022).
+  - Aclaracion: Una nota de La Gaceta del 8 de julio de 2026 mostró un llamado puntual para la planta de Lules (Tucumán), cerrado el 19 de julio.
+- **Michael Page Argentina - Ofertas de trabajo (Finanzas, RRHH, Ventas, Marketing, Manager, Executive Search)** (sin verificar, verificada 1 vez) https://www.michaelpage.com.ar/job-search
+  - Que es: Profesionales con experiencia en las áreas de Finanzas, Recursos Humanos, Ventas, Marketing, Supply Chain, Seguros y funciones de Manager y Gerente Comercial; también hay una vertical de Executive Search.
+  - Requisitos: sin datos; no se vio ningún aviso. Consultora de selección orientada a perfiles profesionales y gerenciales, en general con experiencia previa (no confirmado en la página).
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos; la página solo muestra filtros de rango salarial (de 250k a +3500k, moneda no indicada).
+  - Plazo o ciclo: Continuo según el sitio ('Mirá nuestros anuncios, aplicá en dos clics'); no se vio ningún aviso concreto con fecha.
+  - Como postular: https://www.michaelpage.com.ar/job-search
+  - Lectura automatica posible: sin datos (solo HTML; no se vio feed ni API)
+  - Aclaracion: Es una agencia con avisos propios de clientes, no un agregador.
+  - Aclaracion: No se confirmó que haya avisos abiertos a la fecha.
+  - Aclaracion: La página ofrece filtros por categoría y por provincia, y las opciones Enviar CV y Acceder.

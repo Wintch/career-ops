@@ -1,0 +1,99 @@
+# Trabajo en el exterior
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **J-1 Au Pair (Departamento de Estado de EE. UU.)** (abierta o vigente, verificada 2 veces) https://j1visa.state.gov/programs/au-pair
+  - Que es: Jóvenes de 18 a 26 años que quieren vivir con una familia en EE. UU. y cuidar niños.
+  - Requisitos: Entre 18 y 26 años; secundaria completa o equivalente; inglés hablado fluido; examen físico satisfactorio, entrevista personal en inglés y verificación de antecedentes. Al menos 32 horas de capacitación en cuidado infantil antes de la colocación, y 200 horas documentadas de experiencia con bebés para familias con niños menores de 2 años. No se exige título universitario. La página no menciona requisito de conducir.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Alojamiento y comida, más una remuneración semanal por cuidado de niños que fija un mínimo según la opción del programa (la página no da montos), y hasta USD 500 para estudios. Las participantes EduCare reciben el 75 % de la tarifa semanal.
+  - Plazo o ciclo: Abierto todo el año a través de patrocinadores autorizados; colocación inicial de 12 meses con una familia, con prórroga posible de 6, 9 o 12 meses.
+  - Como postular: https://j1visa.state.gov/participants/how-to-apply/sponsor-search/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No hay postulación directa al Departamento de Estado: se elige un patrocinador desde el buscador oficial.
+  - Aclaracion: La página no indica qué países son elegibles; conviene confirmar con el patrocinador si se acepta a residentes de Argentina.
+  - Aclaracion: Se recomienda desconfiar de agencias que cobren por una colocación sin ser patrocinadoras listadas.
+- **J-1 Intern (Departamento de Estado de EE. UU.)** (abierta o vigente, verificada 2 veces) https://j1visa.state.gov/programs/intern-program
+  - Que es: Estudiantes de nivel post-secundario fuera de EE. UU. o egresados de hasta 12 meses antes del inicio de la pasantía.
+  - Requisitos: Ser extranjero y estar cursando estudios en una institución posterior a la secundaria fuera de EE. UU., o haberse graduado de ella no más de 12 meses antes del inicio del programa. El anfitrión debe firmar el plan de prácticas DS-7002. No se admiten puestos de trabajo no calificado u ocasional, cuidado de niños o ancianos, atención de pacientes, ni puestos con más de 20 % de tareas administrativas. No sirve para quien no estudia ni se graduó recientemente.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no menciona remuneración)
+  - Plazo o ciclo: Abierto, según el patrocinador. La página no indica duración ni fechas de convocatoria.
+  - Como postular: https://j1visa.state.gov/participants/how-to-apply/sponsor-search/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La postulación se hace a través de un patrocinador listado en el buscador oficial, no en el sitio del Departamento de Estado.
+- **EURES: portal europeo de empleo** (abierta o vigente, verificada 2 veces) https://eures.europa.eu/index_en
+  - Que es: Personas que buscan empleo en alguno de los 31 países de la red EURES, y empleadores europeos.
+  - Requisitos: La página no aclara si residentes de fuera de la UE (como Argentina) pueden registrarse o postularse, ni menciona a nacionales de terceros países. Cada oferta fija sus propias condiciones. Trabajar en Europa exige además tener derecho a residir y trabajar en el país del empleo (ciudadanía de la UE o un permiso).
+  - Pago o beneficio: Varía según la oferta; no se vio un monto general.
+  - Plazo o ciclo: Abierto todo el año: la página muestra ofertas publicadas en los últimos 7 días y búsqueda por país.
+  - Como postular: https://eures.europa.eu/index_en
+  - Lectura automatica posible: El portal tiene una sección de búsqueda de vacantes en https://europa.eu/eures/portal/jv-se/home?lang=en; no se verificó si ofrece API.
+  - Aclaracion: Portal gestionado por la Autoridad Laboral Europea; sirve como referencia de ofertas en Europa y no sustituye el trámite de visa o permiso.
+  - Aclaracion: No se confirmó el alcance del portal para residentes en Argentina.
+  - Aclaracion: Se vieron la sección de búsqueda de empleo y la de información para vivir y trabajar en Europa.
+- **Consulado General de Italia en Buenos Aires: ciudadanía por descendencia (iure sanguinis)** (abierta o vigente, verificada 2 veces) https://consbuenosaires.esteri.it/es/servizi-per-il-cittadino/cittadinanza/
+  - Que es: Descendientes de italianos que quieren que se les reconozca la ciudadanía italiana, que habilita a vivir y trabajar en Italia y en la UE.
+  - Requisitos: Según la reforma (art. 3-bis), quien nació en el extranjero y tiene otra ciudadanía se considera que nunca adquirió la italiana, salvo excepciones: ciudadanía ya reconocida por solicitud o juicio oportuno antes del corte; un ascendiente de primer o segundo grado con ciudadanía exclusivamente italiana; o un padre que residió al menos 2 años continuos en Italia tras adquirir la ciudadanía y antes del nacimiento del hijo. Documentación: actas de nacimiento con traducción oficial al italiano de todos los descendientes en línea recta, y certificado histórico de residencia para probar los 2 años. La solicitud con turno por Prenot@mi solo conserva las reglas anteriores si el turno fue comunicado por correo antes del corte.
+  - Pago o beneficio: No es un empleo. Los aranceles se pagan solo por transferencia bancaria en pesos argentinos, al tipo de cambio de la fecha del turno (montos no vistos).
+  - Plazo o ciclo: Vía abierta pero restringida: rige el Decreto-Ley 36 del 28/03/2025, convertido por la Ley 74 del 23/05/2025 (vigente desde el 24/05/2025). Quedó fijado un corte al 27/03/2025 a las 23:59 (hora de Roma) para las solicitudes bajo las reglas anteriores.
+  - Como postular: https://consbuenosaires.esteri.it/es/servizi-per-il-cittadino/cittadinanza/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Sirve a quienes puedan acreditar descendencia italiana, que da acceso al trabajo en toda la UE.
+  - Aclaracion: Para la mayoría de los descendientes lejanos la vía quedó cerrada tras marzo de 2025.
+  - Aclaracion: La página recomienda leer el texto consolidado de la ley, y conviene verificar la situación personal en la página oficial antes de gastar en documentos.
+- **Embajada de Alemania en Buenos Aires: visas y entrada** (abierta o vigente, verificada 2 veces) https://buenos-aires.diplo.de/ar-de/service/05-visaeinreise
+  - Que es: Argentinos que quieren viajar o residir en Alemania; la página trata las visas nacionales y Schengen.
+  - Requisitos: Los ciudadanos argentinos necesitan visa nacional, tramitada antes de entrar, para estancias de más de 90 días. Para estancias de hasta 90 días por período de 180 sin actividad remunerada se usa visa Schengen. La página no lista checklist de documentos ni menciona visas de trabajo, de trabajador calificado ni Working Holiday; incluye un Visa Navigator para saber qué visa corresponde.
+  - Pago o beneficio: No es un empleo. En la página no se vieron aranceles; una fuente no oficial menciona EUR 75 para la visa de Working Holiday, dato sin confirmar en la página de la embajada.
+  - Plazo o ciclo: Abierto todo el año, solo con turno previo reservado en línea (no se dan turnos por teléfono ni por correo).
+  - Como postular: https://buenos-aires.diplo.de/ar-de/service/termin-1801004
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La existencia de un programa de Working Holiday entre Alemania y Argentina (edad 18 a 30 años, una sola vez, hasta 12 meses) surge de resultados de búsqueda de sitios oficiales del Auswärtiges Amt y de otras embajadas alemanas, no de esta página; los requisitos vigentes deben confirmarse con la embajada.
+  - Aclaracion: Una fuente no oficial indica pocos turnos semanales, que se agotan rápido.
+- **Línea 145 y Comité Ejecutivo para la Lucha contra la Trata (Argentina)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trata
+  - Que es: Cualquier persona en Argentina que reciba una oferta de trabajo en el exterior dudosa o sospeche explotación.
+  - Requisitos: Ninguno. Se puede llamar desde cualquier lugar del país, incluso ante una situación dudosa. No es una fuente de empleo sino un recurso de protección y denuncia ante ofertas de trabajo o viajes sospechosos (trata y explotación).
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica: servicio gratuito.
+  - Plazo o ciclo: Abierto todo el año: la Línea 145 funciona las 24 horas, es gratuita y anónima.
+  - Como postular: https://www.argentina.gob.ar/trata
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Contactos que figuran en la página: teléfono 145, WhatsApp +11 6546-0580, teléfono de oficina 011-5278-9800 y correo comitecontralatrata@minseg.gob.ar.
+  - Aclaracion: Según la página, la línea está a cargo del Ministerio de Justicia y el Comité coordina la política pública de prevención, persecución y asistencia a víctimas.
+  - Aclaracion: Resulta útil como advertencia previa a postular a ofertas en el exterior.
+- **J-1 Summer Work Travel (Departamento de Estado de EE. UU.)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://j1visa.state.gov/programs/summer-work-travel
+  - Que es: Estudiantes universitarios o terciarios de instituciones acreditadas fuera de EE. UU. que quieren trabajar en empleos estacionales o temporarios durante las vacaciones.
+  - Requisitos: Estudiante universitario o terciario de tiempo completo, matriculado en una institución acreditada fuera de EE. UU., con al menos un semestre completo aprobado. Se exige inglés suficiente. La página no indica edad mínima. Duración máxima: 4 meses, y el participante debe volver antes del inicio de sus clases. Quien no es de un país del Programa de Exención de Visa debe tener empleo pre-acordado por el patrocinador. No es una vía para quien no estudia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: El pago debe ser al menos el mayor entre el salario mínimo estatal y el federal de EE. UU., con horas extra según la ley estatal. La página no menciona aranceles del programa.
+  - Plazo o ciclo: Anual, por temporada. La página enlaza tablas de fechas por país de la temporada 2024 (únicas vistas); las fechas actuales dependen de cada patrocinador. No se vio una convocatoria con fecha límite.
+  - Como postular: https://j1visa.state.gov/participants/how-to-apply/sponsor-search/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se postula directamente al Departamento de Estado: se elige un patrocinador autorizado desde el buscador oficial (Find a Program Sponsor).
+  - Aclaracion: La página no menciona a Argentina ni lista países elegibles, por lo que la elegibilidad concreta y las fechas de la temporada vigente deben confirmarse con el patrocinador.
+  - Aclaracion: La página parece desactualizada (referencias a 2021 y 2024).
+  - Aclaracion: Para denunciar abusos se informa la línea 1-866-283-9090.
+- **El Cronista: Working Holiday, uno por uno, los países que reciben argentinos** (sin verificar, verificada 1 vez) https://www.cancilleria.gob.ar/es/servicios/programas-de-vacaciones-y-trabajo/argentinos
+  - Que es: Argentinos de 18 a 35 años según el artículo, con límite de 30 en algunos países.
+  - Requisitos: Según el artículo: 18 a 35 años en general (Noruega hasta 30); el resto lo fija cada convenio. Sin dato de experiencia ni de título, que según el país pueden exigirse.
+  - Pago o beneficio: No aplica: es una visa que permite trabajar de forma temporal; el sueldo depende del empleo que se consiga en destino (sin datos)
+  - Plazo o ciclo: Artículo del 7 de agosto de 2025; no informa fechas de apertura. Cada país tiene fechas propias y los cupos cambian cada año
+  - Como postular: Embajada o consulado del país de destino
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Se trata de un medio periodístico y no de una fuente oficial; sirve solo como orientación y conviene verificar los datos en la embajada de cada país.
+  - Aclaracion: El artículo lista 17 países con convenio, mientras que la Cancillería lista 19 (suma Armenia y Eslovenia).
+  - Aclaracion: Indica cupos limitados en Noruega (unos 300), Austria, Irlanda, Países Bajos y España, y Alemania sin tope.
+  - Aclaracion: No detalla requisitos ni fechas y remite a las embajadas.
+- **OIT: Contratación equitativa (Fair Recruitment)** (sin verificar, verificada 1 vez) https://www.ilo.org/topics-and-sectors/fair-recruitment
+  - Que es: Trabajadores que migran por empleo y quieren evitar agencias de contratación abusivas.
+  - Requisitos: No hay requisitos de postulación: no es un programa de empleo. Los materiales están dirigidos a profesionales del reclutamiento, empleadores y organismos públicos, no a quienes buscan trabajo.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no ofrece empleo ni pago)
+  - Plazo o ciclo: No aplica. Es un portal temático informativo sin convocatoria ni ciclo de postulación. Se vio contenido actualizado en noviembre de 2026.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un portal informativo oficial de la OIT sobre contratación equitativa de personas trabajadoras migrantes e internas, no una fuente donde postularse a un empleo.
+  - Aclaracion: No se vieron bolsa de empleo, formulario de postulación, línea de ayuda ni herramienta de reclamo para trabajadores, ni mención de Argentina o América Latina.
+  - Aclaracion: Sirve solo como referencia sobre derechos y prácticas de reclutamiento, por ejemplo que no se cobren comisiones a quien busca trabajo.

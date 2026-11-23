@@ -1,0 +1,68 @@
+# Grupo 32: Profesionales de nivel medio de la salud
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **CABA - Concursos de Enfermeros/as Profesionales y Licenciados/as en Enfermería (hospitales y centros de salud)** (abierta o vigente, verificada 2 veces) https://buenosaires.gob.ar/salud/recursos-humanos-de-salud/carrera-de-profesionales-de-enfermeria
+  - Que es: Enfermeros/as profesionales y licenciados/as en enfermería que quieran un cargo en hospitales agudos, de niños, de salud mental y monovalentes, o en centros de salud de la Ciudad. La página enlaza una ficha de concurso por cada hospital.
+  - Requisitos: Título de Enfermero/a Profesional y/o Licenciado/a en Enfermería y matrícula nacional vigente; 1 a 2 años de experiencia certificada en la mayoría de los llamados. Requiere título; no apto sin experiencia salvo llamados donde se la declara deseable (Piñero).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Misma situación que la página vigente: abiertos al 2026-11-23 el llamado de la Subsecretaría de Atención Hospitalaria (26, 27 y 30/11/2026) y el de Hospital Piñero (9 al 11/12/2026); los de Fernández, Argerich, Alvear y Tobar García cerraron entre el 13 y el 18/11/2026.
+  - Como postular: https://buenosaires.gob.ar/salud/concurso-enfermeria-subsecretaria-de-atencion-hospitalaria
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL corresponde a la versión histórica del sitio, con 37 concursos por hospital sin fechas; la página vigente es la de carrera de profesionales de enfermería.
+  - Aclaracion: Las fechas están en la ficha de cada concurso.
+  - Aclaracion: La inscripción es presencial.
+  - Aclaracion: Probable duplicado de otra fuente del catálogo.
+- **ATSA Buenos Aires - Escuela de Enfermería Amado Olmos (Tecnicatura Superior en Enfermería)** (abierta o vigente, verificada 2 veces) https://atsa.org.ar/escuela-de-enfermeria-amado-olmos/
+  - Que es: Trabajadores de la sanidad afiliados al sindicato que quieran la Tecnicatura Superior en Enfermería (3 años, presencial, lunes a viernes, turno mañana 7.30 a 13.20 h o tarde 15 a 20.50 h), en Alberti 191, CABA. La página no menciona auxiliar de enfermería ni licenciatura.
+  - Requisitos: No requiere experiencia laboral previa. Documentación listada (en copia y original): 2 fotos 4x4, partida de nacimiento, recibo de sueldo reciente, carnet de afiliación al sindicato, título secundario legalizado, DNI, certificado de aptitud psicofísica que habilite prácticas hospitalarias y libreta de vacunación (hepatitis B, doble bacteriana, COVID-19). Los requisitos de recibo de sueldo y carnet sindical sugieren que la inscripción está pensada para afiliados o familiares de ATSA; la página no aclara si se admiten postulantes no afiliados. Hace falta secundario completo.
+  - Pago o beneficio: No remunerado: es una carrera de formación (tecnicatura de 3 años, presencial). Costo o cuota: sin datos (no figura en la página).
+  - Plazo o ciclo: Banner de portada: inscripciones desde el 26/10/2026 para el ciclo lectivo 2027, sin fecha de cierre visible. La página de la escuela solo muestra fechas de 2025 y 2026.
+  - Como postular: https://atsa.org.ar/escuela-de-enfermeria-amado-olmos/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página de la escuela no menciona el ciclo 2027 y sus datos de inscripción son de 2025 y 2026; conviene confirmar las condiciones con la escuela.
+  - Aclaracion: La documentación exigida incluye carnet de afiliación sindical y recibo de sueldo, por lo que la inscripción podría estar restringida a afiliados o familiares; la página no lo aclara.
+  - Aclaracion: Para inscribirse se pide turno por teléfono o en persona, y luego se presenta la documentación y se realiza una entrevista de admisión.
+  - Aclaracion: Es una formación y no un empleo.
+- **Matriculación profesional en salud (Ministerio de Salud de la Nación, trámite TAD)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/servicio/matriculaciones
+  - Que es: Profesionales de la salud cuyas profesiones figuran en las leyes 17.132 y 17.565 y normas relacionadas (Resolución 3320/2024), con título oficial argentino o extranjero convalidado o revalidado. La página no nombra a técnicos ni a enfermería; para confirmar si una tecnicatura entra en el trámite nacional o en la matrícula de la jurisdicción, consultar rups@msal.gov.ar o el ministerio de salud provincial.
+  - Requisitos: Requiere título de nivel superior (universitario o terciario) de una profesión de salud comprendida en las leyes 17.132 y 17.565 y la Resolución Ministerial 3320/2024, argentino (legalizado) o extranjero convalidado o revalidado. Además: DNI original vigente (no sirve comprobante en trámite ni residencia temporaria), certificado de antecedentes penales de no más de 5 días, clave fiscal nivel 2 o superior, constancia de CUIL/CUIT, foto carnet, registro de graduados y formulario de solicitud firmado. Farmacéuticos y bioquímicos también deben estar matriculados en el COFyBCF. No es para personas sin título.
+  - Pago o beneficio: Gratuito. No es un empleo ni paga nada: es el trámite de habilitación profesional.
+  - Plazo o ciclo: Abierto todo el año (trámite permanente, solo virtual por Trámites a Distancia). Demora mínima de 21 días hábiles desde que un agente matriculador toma el expediente.
+  - Como postular: https://www.argentina.gob.ar/servicio/matriculaciones
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no nombra a técnicos ni a enfermería; para saber si una tecnicatura entra en el trámite nacional o en la matrícula de la jurisdicción, corresponde consultar al ministerio.
+  - Aclaracion: El DNI debe estar vigente; no sirve comprobante en trámite ni residencia temporaria.
+  - Aclaracion: Es un trámite de habilitación profesional y no un empleo.
+  - Aclaracion: El trámite se hace solo de forma virtual, por Trámites a Distancia.
+- **CEMIC - Recursos Humanos (carga de CV en base de búsquedas)** (abierta o vigente, verificada 2 veces) https://www.cemic.edu.ar/institucional.php
+  - Que es: Postulantes a puestos del instituto, que informa unas 2.000 personas trabajando, entre ellas 800 profesionales. La sección no lista puestos.
+  - Requisitos: La página no detalla requisitos ni lista puestos abiertos; no indica si se pide experiencia o título. Cada puesto tendrá sus propios requisitos: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: formulario (Google Form 'rrhhcv') que alimenta una base de datos para búsquedas actuales y futuras; sin fechas.
+  - Como postular: https://www.cemic.edu.ar/institucional.php
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una base de CV y no un llamado con vacantes, por lo que no garantiza una entrevista.
+  - Aclaracion: No hay correo ni teléfono específico de RR.HH.; los datos generales de contacto corresponden a atención a pacientes.
+  - Aclaracion: La mención del formulario de CV se confirmó en la página, pero no se abrió el enlace directo.
+- **Sanatorio Mater Dei - Recursos Humanos (CV por correo)** (abierta o vigente, verificada 2 veces) https://www.sanatoriomaterdei.com.ar/recursos-humanos
+  - Que es: Postulantes a puestos del sanatorio; la página no lista puestos ni requisitos y remite a los avisos activos en su perfil de Bumeran y en LinkedIn.
+  - Requisitos: La página no lista requisitos ni puestos abiertos; no se indica si se pide experiencia o título. sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: recepción de CV por correo electrónico a empleos@smdei.com, indicando en el asunto el puesto de interés; sin fechas. Las búsquedas activas se publican en el perfil del sanatorio en Bumeran y en LinkedIn (linkedin.com/company/smdei).
+  - Como postular: mailto:empleos@smdei.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una vía de postulación espontánea por correo electrónico.
+  - Aclaracion: Los avisos concretos, con requisitos y condiciones, están en Bumeran y LinkedIn, que no se verificaron.
+- **Provincia de Buenos Aires - Salud: Llamados a concurso (sede central y hospitales)** (abierta o vigente, verificada 2 veces) https://www.gba.gob.ar/saludprovincia/llamados_concurso
+  - Que es: Página de llamados con tres secciones de cargos: Sede Central, Hospitales y Ley 10.471 (carrera hospitalaria). No se vieron cargos concretos de enfermería ni técnicos en la página, y el procedimiento descrito (PSP, Ley 10.430, pedido por GDEBA a la Dirección Delegada) parece dirigido a personal que ya está en el sistema, aunque la página no lo aclara.
+  - Requisitos: Los llamados vigentes son para cargos de jefatura de departamento (enfermería, RRHH, administrativo, etc.), no de ingreso inicial; el detalle está en anexos (ANEXO I a III) que no se abrieron. La Ley 10.471 exige estar matriculado en los colegios profesionales provinciales y cumplir los artículos 4 y 6 del Decreto 1192/91. No es una vía para personas sin experiencia ni título. Postulación: sin datos (el índice del Proceso de Selección de Personal indica que la solicitud de inicio se tramita por GDEBA desde el área, es decir, que es un trámite institucional).
+  - Pago o beneficio: sin datos (no figura en las páginas leídas; depende del cargo y del escalafón)
+  - Plazo o ciclo: Hay llamados vigentes en la subpágina de hospitales (todos de 2026): Jefe/a de Depto. de Enfermería, Hospital Interzonal 'Petrona V. de Cordero' (San Fernando), vigencia 20/11/2026 al 30/11/2026; Jefe/a de Depto. de Gestión de RRHH, Hospital Interzonal 'Prof. Dr. Luis Güemes' (Haedo), 16/11/2026 al 30/11/2026. Otros llamados listados ya vencieron o sin fecha visible. La página es un índice de procesos continuos sin ciclo anual declarado. La sección Ley 10.471 (Carrera Profesional Hospitalaria) muestra llamados de 2017 a 2021, sin plazos vigentes.
+  - Como postular: https://www.gba.gob.ar/saludprovincia/llamados_concurso/llamados_a_concurso_hospitales
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página principal es solo un índice; los llamados están en subpáginas por sede central, hospitales y Ley 10.471.
+  - Aclaracion: Los llamados vigentes son para jefaturas de departamento y no para ingreso inicial.
+  - Aclaracion: Los plazos de la tabla corresponden a la vigencia del llamado, interpretada como cierre.
+  - Aclaracion: El procedimiento parece dirigido a personal que ya está en el sistema, aunque la página no lo aclara.

@@ -1,0 +1,91 @@
+# Grupo 82: Ensambladores
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Newsan - Búsquedas laborales (HiringRoom)** (abierta o vigente, verificada 2 veces) https://newsan.hiringroom.com/jobs
+  - Que es: Personas que buscan trabajo en un fabricante de electrónica y electrodomésticos con planta en Ushuaia; el listado mezcla puestos de planta, administrativos y comerciales.
+  - Requisitos: No se detallan en el listado; cada aviso indica tipo de empleo (full-time, pasantía), modalidad, nivel y área. Hay avisos de nivel pasantía/junior (ej. Pasante de Back Office) y de operarios o vendedores; la experiencia exigida depende de cada aviso y no se vio.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Portal continuo: 33 vacantes, publicadas entre hace 9 días y hace 2 meses; sin fecha de cierre visible.
+  - Como postular: https://newsan.hiringroom.com/jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Hay vacantes en Ushuaia, Munro, Villa Mercedes (San Luis) y Capital Federal.
+  - Aclaracion: Se postula abriendo cada vacante o cargando el CV en la base general.
+  - Aclaracion: Las publicaciones no son todas recientes: las fechas relativas van de 'hace 9 días' a 'hace 2 meses'.
+- **Mirgor - Empleos (portal SuccessFactors y buscador de ofertas)** (abierta o vigente, verificada 2 veces) https://mirgor.com/empleos/
+  - Que es: Postulantes a un grupo industrial con operaciones en Argentina (incluye Baradero, Buenos Aires) y otros países; ensamblado de electrónica y de aires acondicionados es su rubro conocido.
+  - Requisitos: No listados en la página; se ven en 'Más info' de cada aviso. No se pudo confirmar si algún puesto no pide experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: la página muestra 13 oportunidades para Argentina (de 20 en total entre Argentina, República Dominicana, Ecuador y Colombia) y permite cargar el CV para futuras oportunidades.
+  - Como postular: https://mirgor.com/empleos/ (botón 'Carga tu CV' hacia el portal career8.successfactors.eu/SuccessFactors de Mirgor; el enlace exacto no se abrió)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Solo se vieron dos avisos de Argentina (Vendedor en Córdoba; Jefe de Producción en Baradero), aunque el contador marca 13.
+  - Aclaracion: El trámite de postulación se confirma solo por lo que dice la página oficial.
+- **Grupo BGH - Trabajá con nosotros** (abierta o vigente, verificada 2 veces) https://grupobgh.com/trabaja-con-nosotros/
+  - Que es: Personas interesadas en trabajar en una empresa de productos tecnológicos y electrodomésticos con producción local.
+  - Requisitos: No se listan requisitos; la página solo dice que busca personas con 'nuevos desafíos técnicos y profesionales'. No se declara que no se requiera experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: recepción permanente de CV por correo. La página invita a consultar 'búsquedas activas' pero no las lista; el enlace lleva a la misma casilla de correo.
+  - Como postular: rrhh@bgh.com.ar (envío de CV por correo electrónico)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No hay portal, formulario ni vacantes publicadas; el único canal es el correo rrhh@bgh.com.ar.
+  - Aclaracion: No se confirmó la existencia de vacantes concretas al 23/11/2026.
+- **Motomel - Dejanos tu C.V.** (abierta o vigente, verificada 2 veces) https://motomel.com.ar/dejanos-su-c-v/
+  - Que es: Postulantes a un fabricante y comercializador de motocicletas; el formulario no distingue áreas.
+  - Requisitos: Sin requisitos publicados. Campos obligatorios: nombre, apellido, correo electrónico y teléfono; comentarios opcionales; adjuntar CV (formatos y tamaño no indicados). No se declara si se exige experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: formulario permanente de carga de CV, sin vacantes listadas.
+  - Como postular: https://motomel.com.ar/dejanos-su-c-v/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Otros contactos en la página: teléfono 0810 444 1892, dirección Raulet 55, C.A.B.A. y formulario general en motomel.com.ar/contacto/.
+  - Aclaracion: No hay evidencia de vacantes concretas ni de que el formulario sea revisado activamente.
+- **Grupo Corven - Sumate al equipo (HiringRoom)** (abierta o vigente, verificada 2 veces) https://corven.com.ar/sumate-al-equipo/
+  - Que es: Postulantes a un grupo con fabricación de motos y otras unidades (plantas en La Reja, Venado Tuerto y otras localidades).
+  - Requisitos: No se detallan en el listado ni en la página institucional (solo describe valores del equipo). Se ven avisos de operación industrial, recepcionista corporativa, jefatura de PCP y HRBP; la experiencia exigida depende de cada aviso.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: listado continuo con 22 búsquedas vistas en grupocorven.hiringroom.com/jobs el 2026-11-23, más enlace 'Subir CV a base general'.
+  - Como postular: https://grupocorven.hiringroom.com/jobs (base general de CV: https://hiringroom.com/jobs/get_vacancy/5fea1424c7463d099555c41a/candidates/new)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL de la página institucional no es el listado; las búsquedas están en grupocorven.hiringroom.com/jobs.
+  - Aclaracion: Los avisos vistos se ubican en Venado Tuerto, La Reja, Campana, Junín y Capital Federal.
+  - Aclaracion: Hay una segunda página con 2 avisos.
+- **Yamaha Motor Argentina - Forma parte de Yamaha (formulario de RRHH)** (abierta o vigente, verificada 2 veces) https://www.yamaha-motor.com.ar/empresa/rrhh/forma-parte-de-yamaha
+  - Que es: Postulantes a una empresa de motocicletas con planta en General Rodríguez (Buenos Aires); también ofrece pasantías y prácticas profesionales para estudiantes.
+  - Requisitos: Sin requisitos de puesto publicados. El formulario pide nombre, apellido, fecha de nacimiento, DNI, CUIL, domicilio, provincia, localidad, correo y teléfonos; el CV es obligatorio y solo en PDF; hay un adjunto opcional y casilla de aceptación de términos. No se declara si se exige experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: formulario permanente, sin vacantes listadas.
+  - Como postular: https://www.yamaha-motor.com.ar/empresa/rrhh/forma-parte-de-yamaha
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El formulario es el único canal; la página no muestra correo, teléfono ni dirección de RRHH.
+  - Aclaracion: No hay evidencia de vacantes concretas.
+- **FAdeA - Recursos Humanos / Trabajá con nosotros** (abierta o vigente, verificada 2 veces) https://www.fadeasa.com.ar/es/institucional/recursos-humanos/
+  - Que es: Postulantes a la fábrica estatal de aviones (Córdoba); incluye mecánicos y técnicos de montaje aeronáutico, entre otros perfiles.
+  - Requisitos: No se especifican requisitos de experiencia, estudios ni edad. El único criterio publicado es el formato del archivo: CV en PDF de hasta 5 MB. No se publican perfiles ni vacantes concretas.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: la página de FAdeA ofrece envío de CV por correo sin fecha límite ni ciclo indicado.
+  - Como postular: https://www.fadeasa.com.ar/es/institucional/recursos-humanos/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El correo de postulación es postulantes@fadeasa.com.ar; no hay formulario web, vacantes listadas ni fechas.
+  - Aclaracion: La página no usa la palabra 'permanente', pero el pedido de CV es incondicional y sin plazo; es recepción espontánea, sin garantía de contacto.
+- **Volkswagen Group Argentina - Búsquedas activas y carga de CV** (sin verificar, verificada 1 vez) https://www.volkswagen.com.ar/es/volkswagen-group-argentina.html
+  - Que es: Postulantes a una terminal automotriz con plantas en General Pacheco y Córdoba (cajas de cambio, camiones, ómnibus y motos).
+  - Requisitos: La página no lista requisitos formales (estudios, experiencia, idiomas); solo describe un perfil deseado (pasión por la innovación, trabajo en equipo). Menciona un onboarding de seis meses.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos: la página oficial ofrece 'Ver búsquedas activas' y 'Cargá tu CV', pero no se vio ningún aviso concreto para Argentina ni se confirmó el portal de carga.
+  - Como postular: https://jobs.volkswagen-group.com (búsquedas activas) y portal SuccessFactors career5.successfactors.eu (carga de CV); el segundo enlace no se abrió
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página institucional enlaza dos portales externos; el portal global jobs.volkswagen-group.com mostró solo 'Loading...' sin avisos visibles.
+  - Aclaracion: No se pudo comprobar que existan búsquedas para Argentina.
+  - Aclaracion: Cada marca o empresa del grupo gestiona su propio reclutamiento y contacta a quien coincida con una vacante.
+- **Nissan Argentina - Recursos Humanos (portal Workday)** (sin verificar, verificada 1 vez) https://www.nissan.com.ar/corporativo/rrhh.html
+  - Que es: Postulantes a Nissan en Argentina (producción de pick-ups en Córdoba, según prensa; la página no lo detalla).
+  - Requisitos: La página no fija requisitos formales; solo describe rasgos buscados (iniciativa y entusiasmo, compromiso con la mejora continua, trabajo en equipo, flexibilidad al cambio). No menciona pasantías ni programas para graduados. Los requisitos de cada puesto figuran en cada aviso del portal.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fecha ni ciclo publicado. El portal global de Workday está activo, pero el 2026-11-23 no tenía ningún puesto en Argentina.
+  - Como postular: https://alliance.wd3.myworkdayjobs.com/nissanjobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El botón 'TRABAJÁ CON NOSOTROS' lleva al portal global de Workday (https://alliance.wd3.myworkdayjobs.com/nissanjobs), que al 2026-11-23 no tenía puestos en Argentina.
+  - Aclaracion: El endpoint público del portal devolvió 361 puestos en total, sin Argentina entre los países; las búsquedas 'Argentina', 'Buenos Aires', 'Córdoba' y 'Nissan Argentina' dieron 0 resultados.
+  - Aclaracion: No se confirmó una convocatoria abierta ni un ciclo para residentes en Argentina; el portal podría publicar avisos locales más adelante.
+  - Aclaracion: Corresponde tratarla como portal sin vacantes argentinas vistas y no como convocatoria abierta.

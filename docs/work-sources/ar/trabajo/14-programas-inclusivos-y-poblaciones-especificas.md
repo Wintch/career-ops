@@ -1,0 +1,85 @@
+# Programas inclusivos y poblaciones especificas
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Programa Promover la Igualdad de Oportunidades de Empleo (personas con discapacidad)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/discapacidad/promover
+  - Que es: Personas con discapacidad, desocupadas y que buscan empleo o desarrollar un emprendimiento.
+  - Requisitos: Personas mayores de 18 años con discapacidad, desocupadas y residentes en Argentina. Documentación: DNI, constancia de CUIL y Certificado Único de Discapacidad vigente. No se exige experiencia laboral.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Ayuda económica pagada por la Secretaría de Trabajo, Empleo y Seguridad Social (monto no indicado en la página). La participación puede durar hasta 24 meses desde la firma del convenio de adhesión.
+  - Plazo o ciclo: Vía de adhesión permanente (sin cierre indicado). La página no da cupos ni fechas y no confirma el estado actual del programa; conviene verificar en la oficina de empleo.
+  - Como postular: Oficina de Empleo o Agencia Territorial más cercana (mapa: https://www.argentina.gob.ar/trabajo/mapa-oficinas/); consultas: 0800-222-2220, consultas@trabajo.gob.ar
+  - Lectura automatica posible: ninguna; páginas HTML y guía en PDF
+  - Aclaracion: Es un servicio gratuito que incluye talleres de búsqueda de empleo, orientación, cursos de formación, entrenamiento en el trabajo, inclusión laboral y asistencia para emprendimientos.
+- **Intermediación Laboral para Personas con Discapacidad** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/discapacidad/intermediacion-laboral-para-personas-con-discapacidad
+  - Que es: Personas con discapacidad que buscan empleo.
+  - Requisitos: La página no lista requisitos. El servicio incluye una entrevista personalizada para definir el perfil laboral y los apoyos o ajustes razonables necesarios.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sin costo; no es un pago sino un servicio de orientación e intermediación.
+  - Plazo o ciclo: Servicio permanente, sin fechas. La página no indica vigencia ni cierre; los canales de contacto figuran activos.
+  - Como postular: Agencia Territorial (https://www.argentina.gob.ar/trabajo/agencias-territoriales) u Oficina de Empleo (https://www.argentina.gob.ar/trabajo/mapa-oficinas/); 0800-222-2220; consultas@trabajo.gob.ar; portalempleo@trabajo.gob.ar
+  - Lectura automatica posible: ninguna
+  - Aclaracion: No describe un trámite formal de postulación: se accede por visita, teléfono o correo.
+- **Pueblos indígenas: adaptación de Fomentar Empleo y Empleo Independiente** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/pueblosindigenas
+  - Que es: Personas y comunidades de pueblos indígenas.
+  - Requisitos: Pertenecer a un pueblo indígena; registrarse en Portal Empleo (Fomentar Empleo) o acudir a la Agencia Territorial u Oficina de Empleo más cercana (Empleo Independiente). No se requiere experiencia según la página, pero tampoco se detallan otros requisitos (edad, documentos, residencia: sin datos).
+  - Pago o beneficio: Fomentar Empleo: ayuda económica mensual según el programa (monto: sin datos). Empleo Independiente: asistencia técnica y económica (monto: sin datos).
+  - Plazo o ciclo: Sin fechas publicadas; vías de acceso permanentes (inscripción en Portal Empleo para Fomentar Empleo; consulta presencial para Empleo Independiente).
+  - Como postular: https://www.argentina.gob.ar/trabajo/oficinas-de-empleo
+  - Lectura automatica posible: ninguna
+  - Aclaracion: Quien cobre POTENCIAR, ACOMPAÑAR o PROGRESAR puede cursar Fomentar Empleo, pero recibe una sola ayuda económica estatal (no se suman).
+  - Aclaracion: La página no indica si hay cupos abiertos ni menciona discontinuación.
+  - Aclaracion: El sitio portalempleo.gob.ar redirige a formando.capitalhumano.gob.ar, que falló la verificación de certificado al 23/11/2026; conviene confirmar el canal vigente por el 0800-222-2220.
+- **Migraciones: residencias (transitoria, temporaria y permanente)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/migraciones/residencias
+  - Que es: Personas extranjeras que quieren radicarse en Argentina.
+  - Requisitos: Dependen de la subcategoría (actividad, nacionalidad, vínculo familiar o con el país). Detalle en las páginas de cada categoría. No se exige experiencia laboral en sí misma.
+  - Pago o beneficio: No aplica. Tasas migratorias: no figuran en esta página (sin datos).
+  - Plazo o ciclo: Trámite permanente, sin convocatoria; la residencia transitoria dura hasta 1 año, la temporaria hasta 3 años y la permanente no vence.
+  - Como postular: https://www.argentina.gob.ar/migraciones/residencias
+  - Lectura automatica posible: ninguna
+  - Aclaracion: No es una oferta de empleo: es información sobre residencias para extranjeros que buscan trabajar en regla.
+  - Aclaracion: La página no trata costos, autorización para trabajar ni el trámite en línea; esos datos están en las páginas de cada categoría.
+  - Aclaracion: La residencia transitoria no permite obtener DNI; la temporaria permite DNI temporario y la permanente, DNI permanente.
+  - Aclaracion: Una solicitud dentro del país se llama radicación; desde el exterior, permiso de ingreso o acto consular.
+- **Residencia temporaria por nacionalidad (criterio Mercosur y países asociados)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-por-nacionalidad-mercosur
+  - Que es: Personas nacidas en Uruguay, Brasil, Paraguay, Bolivia, Chile, Perú, Ecuador, Colombia, Venezuela, Guyana o Surinam, o naturalizadas hace al menos cinco años en algunos de esos países.
+  - Requisitos: Nacionalidad de Uruguay, Brasil, Paraguay, Bolivia, Chile, Perú, Ecuador, Colombia, Venezuela, Guyana o Surinam (o nacionalizados hace al menos 5 años en algunos de esos países, por ejemplo Brasil, Paraguay, Uruguay, Bolivia, Chile, Colombia, Ecuador o Perú). Pasaporte vigente o documento válido del Acuerdo Mercosur; certificado de antecedentes penales argentino (desde 16 años, se verifica por RADEX) y de países de residencia mayor a un año en los últimos tres años; constancia de domicilio y de ingreso regular. Menores de 18: partida de nacimiento legalizada y autorización de un progenitor. Documentos extranjeros apostillados o legalizados y con traducción pública si no están en español. No se pide experiencia.
+  - Pago o beneficio: No aplica. Tasas: se abonan por la plataforma, montos no indicados en la página (sin datos).
+  - Plazo o ciclo: Trámite permanente, sin cierre; la residencia otorgada dura hasta 2 años y es prorrogable.
+  - Como postular: https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-por-nacionalidad-mercosur
+  - Lectura automatica posible: RADEX (trámite en línea)
+  - Aclaracion: El trámite se hace en línea por la plataforma RADEX y, si se acepta, termina con un turno presencial; hay que estar dentro de Argentina y no se admiten gestores.
+  - Aclaracion: Quienes están fuera de Argentina no pueden iniciar este trámite.
+  - Aclaracion: Con turno prioritario pago, el certificado de antecedentes penales argentino se obtiene fuera de RADEX.
+  - Aclaracion: La página no dice que la residencia incluya autorización para trabajar ni lista los montos de las tasas; no es una oferta de empleo.
+- **Cupo laboral del 4% para personas con discapacidad en el sector público (Ley 25.689, que modifica el art. 8 de la Ley 22.431)** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/normativa/nacional/81041/texto
+  - Que es: Personas con discapacidad que postulan a puestos en el Estado nacional (tres poderes, organismos descentralizados o autárquicos, entes públicos no estatales, empresas del Estado) y en empresas privadas concesionarias de servicios públicos.
+  - Requisitos: No se detallan en la norma condiciones para postulantes más allá de priorizar a postulantes con discapacidad que reúnan condiciones de idoneidad para el cargo.
+  - Pago o beneficio: No corresponde (es una obligación legal, no un programa de pago).
+  - Plazo o ciclo: Norma permanente (sancionada el 28-11-2002, publicada el 03-01-2003). No es una convocatoria y no tiene fechas propias.
+  - Como postular: No hay vía de postulación en la norma; las vacantes se publican en cada convocatoria del organismo.
+  - Lectura automatica posible: ninguna
+  - Aclaracion: Es una referencia legal, no una fuente donde postularse.
+  - Aclaracion: Las provincias y la Ciudad de Buenos Aires están invitadas a adherir; la obligación alcanza al Estado nacional y a concesionarias de servicios públicos.
+  - Aclaracion: El artículo 8 bis establece priorizar compras a empresas que emplean personas con discapacidad.
+- **Red de Oficinas de Empleo (mapa) y Agencias Territoriales** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/trabajo/oficinas-de-empleo
+  - Que es: Cualquier persona que busque empleo o formación; es la puerta presencial para Promover, Empleo Independiente, Fomentar y otros programas.
+  - Requisitos: No detallados en las páginas vistas; el servicio está pensado para quienes buscan empleo, trabajadores, empleadores y emprendedores. No se indica requisito de experiencia, edad ni residencia (sin datos).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito (servicio público). Sin monto asociado.
+  - Plazo o ciclo: Servicio permanente (no hay convocatoria); no se pudo confirmar el mapa.
+  - Como postular: https://www.argentina.gob.ar/trabajo/agencias-territoriales
+  - Lectura automatica posible: ninguna
+  - Aclaracion: La URL carga, pero no muestra mapa ni listado de oficinas, servicios, requisitos ni contactos.
+  - Aclaracion: El enlace al mapa de oficinas figura roto, por lo que no se pudo ver ninguna dirección.
+  - Aclaracion: Las oficinas son unidades de gestión municipal coordinadas por la Secretaría de Trabajo; el teléfono nacional visto en otras páginas oficiales es 0800-222-2220.
+- **ENCOPE: unidades productivas en cárceles federales** (sin verificar, verificada 1 vez) https://www.encope.gob.ar/inicio
+  - Que es: Personas privadas de la libertad en unidades del Servicio Penitenciario Federal.
+  - Requisitos: No indicados. Trabajan personas privadas de libertad en unidades federales; no hay proceso de postulación público visible.
+  - Pago o beneficio: sin datos (el trabajo penitenciario no figura con montos en la página).
+  - Plazo o ciclo: Permanente; no hay convocatoria ni vía de postulación visible.
+  - Como postular: https://www.encope.gob.ar/inicio
+  - Lectura automatica posible: ninguna
+  - Aclaracion: La página no explica quién puede participar ni cómo postularse, y no menciona empleo para personas liberadas.
+  - Aclaracion: No sirve como fuente de empleo para público general; sí sirve para comprar productos o contactar al ente.

@@ -1,0 +1,124 @@
+# Campo, trabajo rural y de temporada
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Programa Buena Cosecha (centros de cuidado para hijos de trabajadores rurales)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/buenacosecha
+  - Que es: Trabajadores agrarios temporarios o que trabajan lejos de su casa y tienen hijos o adolescentes a cargo. También organismos públicos, gremios, cooperativas y ONG que quieran abrir o reforzar centros de cuidado.
+  - Requisitos: Presentan proyectos organismos públicos provinciales y municipales, entidades representativas de trabajadores y empleadores e instituciones públicas o privadas sin fines de lucro. Quedan excluidas las inscriptas en REPSAL o con deudas de programas previos. Documentación: formulario de propuesta, inscripción en el registro de instituciones de formación y empleo, estatutos y última elección de autoridades, inscripción fiscal, alta como beneficiario del Tesoro y datos bancarios. Los trabajadores beneficiarios deben ser mayores de 16 (18 para tareas no permitidas a menores), tener hijos o adolescentes a cargo, DNI y CUIL, y trabajar en forma estacional o lejos de su domicilio.
+  - Pago o beneficio: No paga a personas. Financia a las instituciones: hasta $3.000.000 para crear o fortalecer un centro, hasta $2.000.000 para reactivar o readaptar, hasta $1.400.000 para acciones de gestión local (montos según la página).
+  - Plazo o ciclo: Abierto todo el año: la página dice 'La convocatoria a presentar propuestas es abierta y de carácter permanente'. Proyectos de hasta 9 meses. También figura en la Guía 2026.
+  - Como postular: https://www.argentina.gob.ar/trabajo/agencias-territoriales
+  - Lectura automatica posible: none
+  - Aclaracion: No es una vía de empleo para personas: lo gestiona una institución, que presenta el proyecto y recibe el financiamiento.
+  - Aclaracion: Orientación en la agencia territorial; contacto 0800-222-2220, consultas@trabajo.gob.ar.
+- **Guía de Programas de Empleo y Formación Laboral 2026 (PDF oficial)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/sites/default/files/guia_de_programas_de_empleo_y_formacion_laboral_2026.pdf
+  - Que es: Cualquier persona que busca trabajo, formación o apoyo para un emprendimiento. Reúne los programas nacionales vigentes en 2026 con requisitos y pasos de cada uno.
+  - Requisitos: Cada programa fija las suyas. Incluye Portal Empleo, Fomentar Empleo, Plan de Formación Profesional y Continua, Entrenamiento para el Trabajo (EPT), Programa de Inserción Laboral (PIL), Puente al Empleo, Empleo Independiente (PEI), Entramados Productivos Locales, Promover (personas con discapacidad), Trabajo Autogestionado (PTA), Prestaciones por Desempleo, Intercosecha y Buena Cosecha.
+  - Pago o beneficio: No aplica: es un catálogo. Cada programa tiene su propio monto.
+  - Plazo o ciclo: Edición 2026, fechada en el propio PDF 'Octubre 2026'. Los metadatos del archivo indican creación el 11 de noviembre de 2026. Es una guía de referencia, no una convocatoria con fecha de cierre.
+  - Como postular: https://www.argentina.gob.ar/trabajo/agencias-territoriales
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un catálogo de referencia y no una convocatoria con fecha de cierre.
+  - Aclaracion: Que un programa figure en la guía no prueba que tenga cupo abierto al 23/11/2026.
+  - Aclaracion: Es un PDF oficial de 50 páginas, editado por la Subsecretaría de Empleo y Formación Laboral.
+- **Entramados Productivos Locales (EPL)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/epl
+  - Que es: Pequeños productores y emprendedores organizados en cooperativas o asociaciones, y municipios que quieran dar servicios de apoyo a la producción y comercialización. Sirve para proyectos rurales y agroindustriales colectivos.
+  - Requisitos: No es para personas sueltas: presentan proyectos Centros de Servicios (organismos públicos, incluidos municipios) y Unidades Productivas (cooperativas o asociaciones de pequeños productores y emprendedores). Requiere personería jurídica vigente e inscripción en REGICE. Se completa un formulario 'Idea Proyecto' con asistencia técnica de la agencia. No pide experiencia laboral individual.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Aporte no reembolsable de hasta $30.000.000 por proyecto (monto según la página) para maquinaria, equipos, herramientas, insumos, capacitación y asistencia técnica, y adecuación de infraestructura.
+  - Plazo o ciclo: Sin fecha de cierre ni de apertura en la página; la vía de presentación es permanente a través de la agencia territorial. Figura en la Guía 2026.
+  - Como postular: https://www.argentina.gob.ar/trabajo/agencias-territoriales
+  - Lectura automatica posible: none
+  - Aclaracion: No es para personas sueltas ni para empleo en relación de dependencia: sirve para sumarse a un emprendimiento asociativo o cooperativa.
+  - Aclaracion: Contacto 0800-222-2220, consultas@trabajo.gob.ar.
+  - Aclaracion: La página no indica fecha de actualización, por lo que la disponibilidad de fondos se confirma en la agencia.
+- **Programa de Empleo Independiente (PEI)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/empleoindependiente
+  - Que es: Personas desocupadas y trabajadores independientes que quieren iniciar o ampliar un emprendimiento, por ejemplo una chacra o un servicio rural.
+  - Requisitos: Desocupados de calificación media o baja con perfil emprendedor registrados en una Oficina de Empleo o Agencia Territorial. También pueden acceder quienes cobran el seguro de desempleo en pago único, trabajadores estacionales incluidos en acciones del Ministerio durante el receso, quienes aprobaron un curso de Formación Profesional y quieren emprender en ese rubro, y personas con discapacidad del programa Promover. Se hace una entrevista de perfil emprendedor y una historia laboral. No exige experiencia previa formal en general; para emprendimientos en actividad se pide conocimiento del oficio.
+  - Pago o beneficio: Subsidio no reembolsable para capital inicial (la página no informa el monto) más un incentivo económico mensual durante el curso de gestión empresarial y los primeros 9 meses del emprendimiento, según la Guía 2026. Incluye curso de gestión empresarial, tutoría y apoyo a la comercialización. Hay también modalidades de refinanciamiento (una vez, para emprendimientos de más de un año) y de formalización.
+  - Plazo o ciclo: Sin fechas en la página; el trámite es presencial y permanente en la Oficina de Empleo o Agencia Territorial. Figura en la Guía 2026 (octubre 2026).
+  - Como postular: https://www.argentina.gob.ar/trabajo/oficinas-de-empleo
+  - Lectura automatica posible: none
+  - Aclaracion: La página no confirma si hay cupo en este momento.
+  - Aclaracion: Contacto 0800-222-2220, consultas@trabajo.gob.ar.
+  - Aclaracion: El trámite es presencial en la Oficina de Empleo o Agencia Territorial.
+- **Grupo Lucci / Citrusvil, búsquedas laborales (citrus, Tucumán)** (abierta o vigente, verificada 2 veces) https://www.grupolucci.com.ar/busquedas-laborales/
+  - Que es: Quienes buscan empleo agroindustrial en Tucumán, Salta y Santiago del Estero. Citrusvil declara más de 3.000 trabajadores durante la cosecha, con fincas en Cevil Pozo, Tucumán.
+  - Requisitos: La página no lista requisitos; cada puesto tiene una página de detalle ('Conocé más') que no se leyó. Los puestos visibles son profesionales o técnicos (auditoría, contabilidad, administración, jefatura de campo), no de cosecha. También figura el 'Programa Jóvenes Profesionales' (abril 2026) y la Fundación Vicente Lucci (diciembre 2025), ambos con fecha anterior a noviembre 2026. No se verificó que se pida o no experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año a través de la base de talento por correo. Búsquedas activas con fecha: Jefe de Campo Ganadero (Santiago del Estero, noviembre 2026), Administrativo (Tolloche, Salta, octubre 2026), Auditor Interno de procesos y Analista Contable (Cevil Pozo, Tucumán, septiembre 2026). Se verificó que la página NO menciona cosecha ni zafra.
+  - Como postular: https://www.grupolucci.com.ar/busquedas-laborales/
+  - Lectura automatica posible: none
+  - Aclaracion: La página no menciona cosecha ni zafra: los puestos visibles son profesionales o técnicos, no de cosecha.
+  - Aclaracion: Para la base de talento se envía el CV por correo con asunto 'Base de Talento – Área de interés'; la dirección está ofuscada en la página.
+  - Aclaracion: Cada empresa del grupo gestiona sus búsquedas; teléfono general +54 381 4515500.
+  - Aclaracion: Para trabajo de cosecha hay que consultar directamente.
+- **Cerro Castor (Ushuaia), Forma parte / Empleo** (abierta o vigente, verificada 2 veces) https://www.cerrocastor.com/es_ar/forma-parte.html
+  - Que es: Quienes buscan trabajo en un centro de esquí. El sitio no detalla los puestos de temporada.
+  - Requisitos: sin datos. La página no lista puestos ni requisitos; dependen de cada búsqueda en el portal.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año como carga de CV en un portal; sin fecha de contratación publicada. La temporada de invierno es la de mayor demanda, pero el sitio no da fechas.
+  - Como postular: https://recluta.com.ar/portal/grupo-popper
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El botón '¡Quiero formar parte!' lleva al portal de reclutamiento del Grupo Popper (recluta.com.ar), donde no se vieron vacantes concretas.
+  - Aclaracion: El correo de contacto del pie (contacto@cerrocastor.com) no es una casilla de empleo.
+- **Cerro Catedral / Catedral Alta Patagonia (Bariloche), recursos humanos** (abierta o vigente, verificada 2 veces) https://catedralaltapatagonia.com/atencion-al-cliente/
+  - Que es: Quienes buscan trabajo de temporada de invierno y verano en el centro de esquí de Bariloche.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año como envío de CV por correo; no hay fechas de temporada publicadas.
+  - Como postular: https://catedralaltapatagonia.com/
+  - Lectura automatica posible: none
+  - Aclaracion: La dirección de correo de Recursos Humanos está ofuscada en el sitio y no pudo leerse.
+  - Aclaracion: No hay lista de vacantes, requisitos ni fechas de temporada; solo se verifica el camino abierto de enviar CV.
+  - Aclaracion: Dirección postal: Edificio Telesilla Séxtuple, 1er piso, Base Cerro Catedral, San Carlos de Bariloche, Río Negro.
+- **Programa Intercosecha (ayuda económica para trabajadores agrarios temporarios)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/trabajo/intercosecha
+  - Que es: Personas trabajadoras temporarias del sector agrario y agroindustrial, durante el receso entre cosechas.
+  - Requisitos: Mayor de 18 años, DNI, CUIL, residencia permanente en el país. Aportes registrados como trabajador del sector durante 3 a 10 meses de los últimos 12 (remuneración sobre medio SMVM). Promedio de ingresos de 12 meses no mayor a 3 SMVM. Al menos una declaración de un empleador de actividad vinculada al cultivo. Incompatible con autoempleo, jubilación o seguro de desempleo, otros programas de empleo o formación (salvo PROGRESAR) y con haber participado en Intercosecha en los 10 meses previos. No exige experiencia nueva, pero sí historial laboral registrado en el sector.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Ayuda económica no remunerativa de $123.000 (monto según la página) durante el receso, hasta 4 meses. Incluye acceso a cursos de formación y programas de empleo.
+  - Plazo o ciclo: Anual, ligado al receso estacional de cada cosecha. La página no indica fechas de inscripción ni cupos. La Guía 2026 (octubre 2026) lo mantiene vigente para trabajadores de 'la cosecha del año en curso' desocupados en el receso.
+  - Como postular: https://www.argentina.gob.ar/trabajo/agencias-territoriales
+  - Lectura automatica posible: none
+  - Aclaracion: Solo sirve a quien ya trabajó registrado en el sector agrario: no es una vía de ingreso para quien no tiene historial.
+  - Aclaracion: Se postula en la agencia territorial más cercana; consultas al 0800-222-2220 o consultas@trabajo.gob.ar.
+  - Aclaracion: La normativa citada difiere entre la página (Res. SE 1726/2015 y MTEySS 858/2014) y la Guía 2026 (Res. MT 477/21, SE 1315/21 y SE 110/23), por lo que conviene confirmar la vigente en la agencia.
+  - Aclaracion: La página no indica fechas de inscripción ni cupos.
+- **UATRE (Unión Argentina de Trabajadores Rurales y Estibadores)** (sin verificar, verificada 1 vez) https://www.uatre.org.ar/
+  - Que es: Trabajadores rurales y estibadores. Es el sindicato del sector y la referencia para convenios, afiliación y condiciones de la cosecha.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.uatre.org.ar/
+  - Lectura automatica posible: none
+  - Aclaracion: El sitio no pudo leerse (se renderiza en el navegador): no se vio ninguna bolsa de trabajo, curso, inscripción ni convocatoria.
+  - Aclaracion: Es el sindicato oficial del sector, pero su utilidad como contacto no se confirmó en el sitio.
+- **San Miguel (limón y cítricos, Famaillá, Tucumán), oportunidades profesionales** (sin verificar, verificada 1 vez) https://www.sanmiguelglobal.com/oportunidades-profesionales
+  - Que es: Quienes quieren trabajar en producción y planta citrícola en Famaillá, Tucumán (planta en Ruta 301, km 33).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.sanmiguelglobal.com/oportunidades-profesionales
+  - Lectura automatica posible: none
+  - Aclaracion: La página no muestra avisos, instrucciones de postulación, formulario, correo ni requisitos, por lo que no se puede afirmar que haya búsquedas abiertas.
+  - Aclaracion: La única vía comprobable es contactar por teléfono la oficina central (+54 11 4721 8300) o la planta de Famaillá (+54 386 346 2500).
+- **Establecimiento Las Marías (yerba mate, Misiones y Corrientes)** (sin verificar, verificada 1 vez) https://www.lasmarias.com.ar/trabajoresponsable
+  - Que es: Interesados en trabajar en yerba mate, té y producción agroindustrial de la empresa.
+  - Requisitos: sin datos. No se publican requisitos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página no menciona cosecha (zafra), búsquedas abiertas ni fechas.
+  - Como postular: mailto:recursoshumanos@lasmarias.com.ar
+  - Lectura automatica posible: none
+  - Aclaracion: No hay portal de vacantes: solo un enlace 'Trabajá con nosotros' que abre un correo a Recursos Humanos (recursoshumanos@lasmarias.com.ar).
+  - Aclaracion: La página no explica cómo anotarse a la cosecha; esa contratación parece pasar por contratistas, pero no se confirmó.
+- **Salentein (bodega, vendimia, Valle de Uco, Mendoza)** (sin verificar, verificada 1 vez) https://www.salentein.com/
+  - Que es: Quienes buscan trabajo en bodega y viñedo, incluida la vendimia.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se pudo ver ninguna fecha ni sección de empleo.
+  - Como postular: sin datos
+  - Lectura automatica posible: none
+  - Aclaracion: El contenido del sitio no pudo extraerse: no se vio ningún enlace de empleo, vendimia ni contacto de RRHH.
+  - Aclaracion: No se confirmó la vigencia de una convocatoria ni el ciclo de vendimia.
+  - Aclaracion: No conviene usarlo como ruta de postulación hasta confirmarla a mano en el navegador.

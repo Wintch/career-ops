@@ -9,7 +9,7 @@ This is a catalog of sources, not a promise that the scanner can read them. `doc
 | Country | Topic | Markdown | Structured rows |
 |---------|-------|----------|-----------------|
 | Argentina | Artists and musicians: grants, prizes, calls, public jobs and teaching, residencies, platforms | [`work-sources/ar/artes-musica.md`](work-sources/ar/artes-musica.md) | [`work-sources/ar/artes-musica.json`](work-sources/ar/artes-musica.json) |
-| Argentina | Work of any kind, by category: retail, fuel stations, logistics, construction trades, industry, hospitality, care, education, domestic and security work, rural and seasonal work, gig platforms, first job and training, public-sector calls (including armed and security forces), inclusive programs, public employment services, self-employment, call centers, non-technical remote work, work abroad | [`work-sources/ar/trabajo.md`](work-sources/ar/trabajo.md) | [`work-sources/ar/trabajo.json`](work-sources/ar/trabajo.json) |
+| Argentina | Work of any kind, by category: retail, fuel stations, logistics, construction trades, industry, hospitality, care, education, domestic and security work, rural and seasonal work, gig platforms, first job and training, public-sector calls (including armed and security forces), inclusive programs, public employment services, self-employment, call centers, non-technical remote work, work abroad | [`work-sources/ar/trabajo/`](work-sources/ar/trabajo/README.md) (one file per category and per ISCO-08 group) | [`work-sources/ar/trabajo.json`](work-sources/ar/trabajo.json) |
 
 More categories and countries are added as separate files under `docs/work-sources/{country}/`. The Markdown is written in the language of the country; this index is in English.
 
@@ -20,6 +20,7 @@ More categories and countries are added as separate files under `docs/work-sourc
 3. **Audit.** Every source marked open, and most of those marked recurring, is re-read by a second, independent reader. In the first two runs this found a wrong date, count or requirement in about one source in three for grant and prize calls and about one in ten for employer career pages, so a row verified once is weaker than a row verified twice. Each row says how many times it was read.
 4. **Neutralize.** Verifier remarks are rewritten as impersonal caveats. A script rejects any rewritten caveat that contains a number or a URL that is not in the row's own text, so the rewrite cannot add facts.
 5. **Build.** The Markdown is generated from the rows by a script, with no free-form writing, so nothing is invented between the data and the page.
+6. **Coverage.** Each source is tagged with the ISCO-08 sub-major occupation groups it serves (43 groups). Groups with few sources got a targeted search, verified and read twice like the rest; those rows are listed under "Cobertura por ocupacion". Counts per group before that search ranged from 0 (executives and legislators, waste collectors) to well over 100 (professionals in law, social and cultural fields). Groups that already had 16 or more sources were not searched again and may still be thin in practice: electricians and electrotechnology (74), food-processing and craft operators (75), protection services (54), science and engineering technicians (31) and other administrative support (44).
 
 ## Reading a row
 

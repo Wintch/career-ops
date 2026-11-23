@@ -1,0 +1,77 @@
+# Grupo 24: Especialistas en organizacion de la administracion publica y de empresas
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Grant Thornton Argentina - Oportunidades de empleo (HiringRoom)** (abierta o vigente, verificada 2 veces) http://grantthornton.hiringroom.com/portal
+  - Que es: Profesionales contables, impositivos y de auditoría de una firma de auditoría y consultoría.
+  - Requisitos: Cada aviso pide nivel semi-senior, supervisor o senior (la experiencia exacta figura en cada aviso, no vista). La base general de CV no muestra requisitos. No se vio ningún aviso sin experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año: portal continuo con base general de CV (botón 'Subir CV a la base'). Al 2026-11-23 se vieron 3 avisos, publicados hace entre 9 y 24 días.
+  - Como postular: http://grantthornton.hiringroom.com/portal
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La carga de CV en la base general está abierta a cualquiera, pero no hay avisos para personas sin experiencia.
+  - Aclaracion: El enlace 'Ver todas las vacantes' puede mostrar más avisos que los tres vistos.
+- **Banco Supervielle - Trabaja en Supervielle (HiringRoom)** (abierta o vigente, verificada 2 veces) http://supervielle.hiringroom.com/portal
+  - Que es: Perfiles de banca de empresas, productos y gestión bancaria, en Buenos Aires y otras provincias.
+  - Requisitos: Los requisitos figuran en cada aviso (no vistos). Los avisos vistos indican nivel semi-senior o senior. No se vio ningún aviso para personas sin experiencia.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año: portal externo continuo con base de CV ('Subir CV a la base'). Al 2026-11-23 se vieron 3 avisos: uno de hace 6 días y dos de hace 2 meses.
+  - Como postular: http://supervielle.hiringroom.com/portal
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los dos avisos de Neuquén son presenciales y de nivel semi-senior.
+  - Aclaracion: El enlace 'Ver todas las vacantes' puede mostrar más avisos que los tres vistos.
+- **CPCE Provincia de Buenos Aires - Matriculación (inscripción, reinscripción, sociedades)** (abierta o vigente, verificada 2 veces) https://www.cpba.com.ar/servicios/matriculacion
+  - Que es: Graduados en ciencias económicas que ejercen en la provincia de Buenos Aires y deben matricularse; también sociedades y agrupaciones profesionales.
+  - Requisitos: No detallados en la página vista. Corresponde a graduados en ciencias económicas; los requisitos exactos están en la página de cada trámite (no vistas).
+  - Pago o beneficio: sin datos (es un trámite con aranceles; los montos no figuran en la página vista)
+  - Plazo o ciclo: abierto todo el año: la página ofrece los trámites de forma permanente (sin fechas ni cierres). Solo se vio el listado de trámites, no una afirmación explícita de ciclo.
+  - Como postular: https://www.cpba.com.ar/servicios/matriculacion
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una oferta de empleo: es el trámite de matrícula profesional, que no aplica a quienes no tienen título.
+  - Aclaracion: Lista seis trámites: inscripción, reinscripción o rehabilitación, cancelación, modificación de datos, baja por fallecimiento y sociedades y agrupaciones.
+  - Aclaracion: La página no detalla requisitos ni aranceles y remite a otras páginas de valores.
+- **UBA Ciencias Económicas - Pasantías educativas** (abierta o vigente, verificada 2 veces) https://economicas.uba.ar/extension/pasantias-educativas/
+  - Que es: Estudiantes regulares de grado de la FCE-UBA que quieren hacer una pasantía en empresas u organismos públicos, vinculada a su carrera (contabilidad, administración, economía y afines).
+  - Requisitos: Ser alumno regular de grado de la FCE-UBA, tener al menos 18 años y no tener otra pasantía asignada; no se puede hacer la pasantía a través de otra facultad. No se exige experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Asignación estímulo mensual a cargo de la empresa; el mínimo se calcula proporcional a las horas sobre el básico del convenio colectivo aplicable (el más favorable si hay varios) o, sin convenio, sobre el salario mínimo, vital y móvil. Monto en pesos: sin datos.
+  - Plazo o ciclo: abierto todo el año según requerimientos de empresas; la página no indica convocatorias con fechas. Las vacantes se publican en la cartelera (1.º piso, sector Uriburu) y en el sistema de pasantías.
+  - Como postular: https://economicas.uba.ar/extension/pasantias-educativas/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Se necesita ser alumno regular de la facultad, por lo que no sirve a quienes no cursan allí.
+  - Aclaracion: La duración es de 2 a 12 meses, renovable hasta 6 meses más con nuevo acuerdo individual, con hasta 20 horas semanales.
+  - Aclaracion: La empresa entrevista y decide; luego se firman los acuerdos y se asigna un tutor académico.
+  - Aclaracion: No se vio ninguna vacante concreta.
+- **ARCA (ex AFIP) - Selección externa de personal vía ASPA (Disposición 80/2026)** (sin verificar, verificada 1 vez) https://www.boletinoficial.gob.ar/detalleAviso/primera/343298/20260618
+  - Que es: Personas que quieran ingresar a la planta del organismo recaudador (puestos administrativos, de fiscalización, contables, jurídicos y de gestión). La norma regula ingreso, distribución y movilidad del personal.
+  - Requisitos: No confirmados oficialmente. Según prensa, hay que cargar títulos, especializaciones y antecedentes laborales y técnicos en ASPA. No se vio un requisito de experiencia mínima ni de título para ningún puesto en particular.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La Disposición 80/2026 se firmó el 17/06/2026 y se publicó el 18/06/2026; no se vio ninguna fecha de apertura ni de cierre de inscripción.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La Disposición 80/2026 es una norma interna de política de dotación; el texto visto no abre una convocatoria.
+  - Aclaracion: Que la selección externa se canalice por la plataforma ASPA, que los antecedentes queden en una base para convocatorias futuras y la ventana de 90 días corridos surgen solo de notas de prensa, sin confirmación oficial.
+  - Aclaracion: De haber comenzado la ventana en junio, ya habría vencido.
+  - Aclaracion: Según la prensa, se da prioridad a residentes a menos de 50 km de la sede y hay tres meses de prueba.
+- **KPMG Argentina - Carreras y vacantes** (sin verificar, verificada 1 vez) https://kpmg.com/ar/es/home/careers.html
+  - Que es: Profesionales de auditoría, impuestos, consultoría y áreas internas de una de las grandes firmas de servicios profesionales.
+  - Requisitos: No se listan requisitos formales. Describe como perfil buscado a personas que buscan desafíos, trabajan en equipo y valoran la innovación. No se informa si exige experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se vieron fechas ni avisos concretos.
+  - Como postular: sin datos (la página dirige a un enlace de LinkedIn no visto)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los botones de vacantes remiten a una publicación de LinkedIn; la fuente oficial es la página de la firma.
+  - Aclaracion: No se vio ninguna vacante abierta ni detalle de los programas de reclutamiento.
+  - Aclaracion: Los enlaces de contacto y de solicitud de RFP son para clientes, no para postulantes.
+- **FACPCE - Federación de Consejos Profesionales de Ciencias Económicas (matrícula profesional por provincia)** (sin verificar, verificada 1 vez) https://www.facpce.org.ar
+  - Que es: Contadores, licenciados en administración y economía y otros graduados en ciencias económicas que necesitan la matrícula del Consejo Profesional de su jurisdicción para ejercer.
+  - Requisitos: No figuran en la página. Dependen de cada consejo profesional provincial.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página no describe trámite ni ciclo; la afirmación 'trámite permanente' no se pudo confirmar.
+  - Como postular: sin datos (se matricula en el consejo de cada jurisdicción)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una fuente de empleo ni de oportunidades: es un directorio de entes de matriculación profesional.
+  - Aclaracion: La página principal solo lista los 25 consejos, con enlace a cada uno, y no explica la matriculación ni sus requisitos.
+  - Aclaracion: La matrícula se tramita en el consejo de cada jurisdicción.

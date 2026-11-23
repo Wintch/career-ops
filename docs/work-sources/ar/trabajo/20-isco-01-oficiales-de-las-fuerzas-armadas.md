@@ -1,0 +1,63 @@
+# Grupo 01: Oficiales de las fuerzas armadas
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Escuela de Suboficiales de la Fuerza Aérea Ezeiza (ESFAE) - Ingreso** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/fuerzaaerea/ingreso-a-la-fuerza-aerea-argentina/ingreso-la-escuela-de-suboficiales-de-la-fuerza-aerea-ezeiza
+  - Que es: Jóvenes de 17 a 24 años que quieren ser suboficiales de la Fuerza Aérea; curso de 2 años, ingresan con grado de cabo y se especializan en 9 especialidades.
+  - Requisitos: Ser argentino/a nativo/a o por opción; tener entre 17 y 24 años al 30 de junio del año de ingreso; secundario completo (puede postularse cursando el último año); soltero/a; aprobar examen intelectual (Matemática, Lengua, Historia, Inglés), pruebas físicas y examen médico. No requiere experiencia laboral ni título superior.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no menciona remuneración)
+  - Plazo o ciclo: Inscripción abierta del 26 de mayo al 27 de noviembre de 2026 (cierra a los 4 días de la fecha de verificación). Examen intelectual en diciembre; pruebas físicas y médicas a fines de enero y principios de febrero en el Instituto de Formación Ezeiza (año no indicado en la página). Cuadernillo enlazado de nombre esfae_cuadernillo2027.
+  - Como postular: https://www.argentina.gob.ar/fuerzaaerea/ingreso-a-la-fuerza-aerea-argentina/ingreso-la-escuela-de-suboficiales-de-la-fuerza-aerea-ezeiza
+  - Lectura automatica posible: no
+  - Aclaracion: La inscripción cierra el 27 de noviembre de 2026, a 4 días de la fecha de verificación.
+  - Aclaracion: El formulario se envía en línea con la documentación; la página no da una URL directa del formulario.
+  - Aclaracion: Los egresados de ciertas escuelas técnicas (electrónica, mecánica, informática) están exentos del examen intelectual.
+  - Aclaracion: La página indica 'No se aceptan excepciones' en los requisitos.
+- **Armada Argentina - Curso de Incorporación de Profesionales (CUINA)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://incorporacion.armada.mil.ar/profesional.html
+  - Que es: Graduados universitarios (médicos, ingenieros, abogados y otras profesiones según las vacantes anuales) que ingresan como oficiales profesionales.
+  - Requisitos: Ser argentino/a nativo/a o por opción; título universitario y certificado analítico; ser seleccionado en el concurso específico; edad: menos de 31 años al 31 de diciembre del año de inscripción (médicos e ingenieros: hasta 35); abogados: máximo 30 años al 1° de marzo del año de incorporación (Decreto 1715/11). Requiere título universitario; no es para personas sin título.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (la página no indica remuneración)
+  - Plazo o ciclo: La página indica dos convocatorias por año, con vacantes definidas anualmente por profesión; fechas exactas: sin datos (no publicadas en la página).
+  - Como postular: https://sinu.incorporacion.armada.mil.ar
+  - Lectura automatica posible: no
+  - Aclaracion: El nombre que figura en la página es Curso de Integración Naval (CUINA), no 'Incorporación de Profesionales'.
+  - Aclaracion: Requiere título universitario; no es para personas sin título.
+  - Aclaracion: Las modalidades CARNA/CUFNA/CUCNA se abren cuando hay vacantes.
+  - Aclaracion: La recurrencia surge de lo que declara la página, sin calendario concreto.
+- **Escuela Naval Militar (Armada Argentina) - Ingreso de cadetes** (sin verificar, verificada 1 vez) https://incorporacion.armada.mil.ar/marina.html
+  - Que es: Aspirantes a oficial de la Armada con secundario completo o cursando el último año.
+  - Requisitos: Ser argentino/a nativo/a o por opción; tener hasta 24 años al 1° de marzo del año de ingreso; secundario completo o cursando el último año; aprobar los exámenes de ingreso; pago de arancel único de inscripción. No requiere experiencia laboral ni título superior.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Haber mensual de cadete (monto: sin datos); desde el quinto año, sueldo de guardiamarina.
+  - Plazo o ciclo: Sin fechas de inscripción publicadas; la única referencia de año es la guía de ingreso enlazada (nombre del archivo: guia-cadetes2024.pdf). Ciclo anual no confirmado en la página.
+  - Como postular: https://sinu.incorporacion.armada.mil.ar
+  - Lectura automatica posible: no
+  - Aclaracion: La inscripción exige pagar un arancel único que no garantiza el ingreso.
+  - Aclaracion: La página no publica fechas de inscripción y la guía de ingreso enlazada es de 2024 (guia-cadetes2024.pdf), por lo que el ciclo anual no está confirmado.
+  - Aclaracion: Es una carrera de régimen interno, de lunes a viernes.
+- **Escuela de Suboficiales de la Armada (ESSA) - Aspirante Naval** (sin verificar, verificada 1 vez) https://incorporacion.armada.mil.ar/essa.html
+  - Que es: Jóvenes que quieren ser suboficiales de la Armada (aspirante naval).
+  - Requisitos: Ser argentino/a nativo/a o por opción; soltero/a; hasta 24 años al 1° de marzo del año de ingreso; secundario completo o cursando el último año; autorización de los padres si es menor de 18; sin baja previa de institutos militares por conducta o ineptitud con impedimento de reingreso; aprobar los exámenes de ingreso. No requiere experiencia laboral.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Haber mínimo para gastos durante el curso (monto: sin datos); al egresar, sueldo de Cabo Segundo.
+  - Plazo o ciclo: Sin fechas de inscripción publicadas; guía de ingreso enlazada con nombre guia-cadetes2024.pdf. Ciclo anual no confirmado en la página.
+  - Como postular: https://sinu.incorporacion.armada.mil.ar
+  - Lectura automatica posible: no
+  - Aclaracion: Se paga un derecho de inscripción que no garantiza el ingreso.
+  - Aclaracion: La página no muestra convocatoria abierta con fecha y la guía de ingreso enlazada es de 2024 (guia-cadetes2024.pdf).
+  - Aclaracion: El curso tiene régimen interno, con salida habitual los fines de semana.
+- **Armada Argentina - Delegaciones Navales y Oficinas de Incorporación** (sin verificar, verificada 1 vez) https://incorporacion.armada.mil.ar/delegaciones.html
+  - Que es: Cualquier persona que quiera consultar presencialmente o por correo cómo ingresar a la Armada (cadetes, suboficiales, marineros voluntarios, profesionales).
+  - Requisitos: No aplica: es un punto de información y orientación. Los requisitos dependen de cada curso (ver las páginas de la Escuela Naval, ESSA y CUINA).
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fechas ni horarios visibles en la página; la 'atención permanente' no se pudo confirmar.
+  - Como postular: https://sinu.incorporacion.armada.mil.ar
+  - Lectura automatica posible: no
+  - Aclaracion: Es un directorio de contacto y no una convocatoria; la inscripción se hace en línea con el enlace 'Inscribite'.
+  - Aclaracion: La página no muestra fechas ni horarios y no se pudo confirmar la 'atención permanente'.
+  - Aclaracion: Hay una discrepancia de correo en la oficina de la ESOA, a verificar antes de usarlo.
+  - Aclaracion: Departamento Incorporación: Edificio Libertad, Av. Comodoro Py 2055, CABA; (011) 4317-2000 int. 3085, incorpor@armada.mil.ar.

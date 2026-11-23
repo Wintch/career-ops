@@ -1,0 +1,90 @@
+# Grupo 13: Directores de produccion y operaciones
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Michael Page Argentina - Empleos de Industrial Manufacturing** (abierta o vigente, verificada 2 veces) https://www.michaelpage.com.ar/jobs/industrial-manufacturing
+  - Que es: Profesionales con trayectoria que buscan cargos de jefatura y gerencia industrial: jefe de planta, gerente de operaciones, de mantenimiento y de producción, además de jefaturas de recursos humanos industriales.
+  - Requisitos: Cargos con experiencia: en general de 2 a 5+ años según el puesto; inglés avanzado en muchos avisos; varios híbridos. No es una vía para quien no tiene experiencia. 47 avisos permanentes y 1 temporal.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (los avisos no muestran montos; el sitio ofrece un filtro por salario en ARS pero sin cifras visibles)
+  - Plazo o ciclo: Abierto todo el año (avisos continuos); fechas de cierre: sin datos. El 2026-11-23 el listado informaba 48 empleos (unos 30 visibles, el resto con 'Mostrar más empleos').
+  - Como postular: https://www.michaelpage.com.ar/jobs/industrial-manufacturing
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una consultora de selección con avisos propios de empresas clientes; el sitio no es un agregador de otros portales.
+  - Aclaracion: Ubicaciones de los avisos: CABA, Provincia de Buenos Aires, GBA Norte y Noroeste, Tortuguitas, Chascomús, Bahía Blanca, o solo 'Argentina'.
+  - Aclaracion: Algunos títulos publicados: Jefe de Planta, Gerente de Producción, Gerente de Mantenimiento, Quality Analyst, SHE Specialist, Técnico Electromecánico de Campo.
+- **Cargill Argentina - Portal de carreras** (abierta o vigente, verificada 2 veces) https://careers.cargill.com/es/search-jobs?acm=ALL&alt=0&apt=0&location=Argentina
+  - Que es: Personas que buscan empleo en plantas y oficinas de Cargill en Argentina: operarios, mantenimiento, ingeniería de confiabilidad, comercio de granos, y programas de trainee y pasantías.
+  - Requisitos: sin datos para la mayoría de los avisos (solo se vio un aviso en la página: 'Operador(a) Temporal - Pergamino', cuyos requisitos no se leyeron). Experiencia exigida: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (portal continuo). El 2026-11-23 el filtro por Argentina indicaba 8 empleos; fechas de cierre: sin datos.
+  - Como postular: https://careers.cargill.com/es/search-jobs?acm=ALL&alt=0&apt=0&location=Argentina
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página advierte sobre fraudes: las ofertas legítimas figuran solo en Cargill.com/Careers o careers.cargill.com.
+  - Aclaracion: Se postula desde la página de detalle de cada aviso.
+  - Aclaracion: La búsqueda total devuelve 271 resultados mundiales en 19 páginas; solo 1 de los 8 avisos de Argentina quedó visible.
+- **Centro Argentino de Ingenieros - Bolsa de Trabajo** (abierta o vigente, verificada 2 veces) https://cai.org.ar/inicio-bolsadetrabajocai/
+  - Que es: Ingenieros y estudiantes de ingeniería que suben su CV, y empresas que publican búsquedas de perfiles de ingeniería, incluidos cargos de gerencia y control de proyectos.
+  - Requisitos: No se indican en la página: no se vio si hace falta ser socio o tener título; el objetivo declarado es conectar empresas con profesionales (ingeniería). Costo: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Bolsa continua; 3 búsquedas activas en el listado (el contador de inicio marca 5), sin fechas de aviso visibles.
+  - Como postular: https://cai.org.ar/inicio-bolsadetrabajocai/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es la bolsa de trabajo de un colegio profesional orientada a ingeniería, no abierta en la práctica a cualquier rubro.
+  - Aclaracion: El contador de inicio indica 5 búsquedas y 272 CV cargados, pero el listado de 'Búsquedas activas' muestra solo 3, dos de ellas de la consultora Esentia RH (minería, Salta).
+  - Aclaracion: La página no aclara si la bolsa es solo para socios.
+  - Aclaracion: Los pasos de postulación y el detalle de cada búsqueda no están disponibles en la página.
+- **COPIME - Búsquedas laborales y matrícula de ingenieros** (abierta o vigente, verificada 2 veces) https://www.copime.org.ar
+  - Que es: Ingenieros mecánicos, electricistas, electromecánicos y de otras especialidades; el consejo otorga la matrícula y publica búsquedas laborales de empresas.
+  - Requisitos: No detallados en la página. No se vio si la postulación exige matrícula COPIME. Los puestos vistos son técnicos o de ingeniería (electricista/electromecánico, jefe de obra eléctrica, calculista de instalaciones contra incendio, foguista, mantenimiento termomecánico, docentes de Higiene y Seguridad).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (cartelera continua). Avisos vistos con fechas entre 2026-08-05 y 2026-10-20; fecha de cierre de cada aviso: sin datos.
+  - Como postular: https://www.copime.org.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un consejo profesional de ingeniería mecánica, electricista y afines.
+  - Aclaracion: Cada aviso enlaza a /classifieds sin detalle visible.
+  - Aclaracion: Contactos que figuran en el sitio: copime@copime.org.ar (administración) y capacitacion@copime.org.ar; no se indica cuál usar para búsquedas laborales.
+  - Aclaracion: Registrarse en el sitio permite publicar ofertas; la forma de postularse no está indicada.
+- **Loma Negra - Trabajá con nosotros (Selenios)** (abierta o vigente, verificada 2 veces) https://www.lomanegra.com/en/work-with-us/
+  - Que es: Personas que buscan trabajo en plantas y oficinas de la cementera; la empresa se describe como en busca de gente comprometida con el servicio.
+  - Requisitos: No figuran en las páginas leídas. Vacantes vistas: Operador/a Polifuncional (Planta Zapala, presencial), Operador/a Polifuncional con foco en Mantenimiento (Planta L'Amali, presencial), Analistas de Producción y Supervisor de Producción (Lomax Planta Fertil Pampa, presencial), Analista Sr. de Asuntos Corporativos y Analista Senior de Planificación de Demanda y Capacidades (oficinas centrales, híbrido). Experiencia exigida: sin datos; no se confirmó ningún puesto sin experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: base de talentos permanente más 7 vacantes publicadas el 2026-11-23 (una de ellas es la propia base de talentos); fechas de cierre: sin datos.
+  - Como postular: https://applicants.selenios.com/c/loma-negra
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial remite a la plataforma de selección Selenios para ver vacantes y para cargar el CV en la base de talentos ('Upload CV').
+  - Aclaracion: Cada vacante tiene su propio formulario en applicants.selenios.com/screening/.
+  - Aclaracion: Contacto telefónico en el sitio: 0800-555-1-555.
+  - Aclaracion: Entre las vacantes hay puestos presenciales en plantas (Zapala, L'Amali, Lomax Planta Fertil Pampa) e híbridos en oficinas centrales.
+- **Cervecería y Maltería Quilmes (AB InBev) - Oportunidades laborales en Workday** (abierta o vigente, verificada 2 veces) https://wd1.myworkdaysite.com/es/recruiting/abinbev/ARG
+  - Que es: Personas que buscan empleo en la cervecera: plantas, logística, ventas y oficinas; programas de Jóvenes Profesionales y pasantías para perfiles junior.
+  - Requisitos: sin datos por aviso (no se abrieron los detalles). Avisos vistos: Líder Trade MKT On Premise, Project Manager, Analista Comercial, Jefe/a de Comunicaciones Externas y Reputación (temporal), Banco de Talentos - PATAGONIA (Ventas Neuquén). Experiencia exigida: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: la consulta al endpoint público de Workday del mismo portal devolvió 42 publicaciones el 2026-11-23 (33 de jornada completa), con avisos publicados hace entre 4 y 12 días; fechas de cierre: sin datos.
+  - Como postular: https://wd1.myworkdaysite.com/es/recruiting/abinbev/ARG
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página se carga vacía para un lector sin JavaScript; la cifra de publicaciones proviene de la consulta pública de búsquedas del propio portal.
+  - Aclaracion: Una cifra de 11 vacantes de julio de 2026 no se confirmó ni coincide con las 42 actuales.
+  - Aclaracion: Incluye un banco de talentos regional (Patagonia) como vía abierta sin puesto específico.
+- **Ledesma - Portal de empleo (HiringRoom)** (abierta o vigente, verificada 2 veces) https://ledesma.hiringroom.com/portal
+  - Que es: Personas que buscan trabajo en Jujuy y en Buenos Aires con la agroindustria; se vieron roles administrativos, de compras y operarios.
+  - Requisitos: No figuran en el listado; cada aviso debe abrirse para ver el detalle. Solo se vieron niveles: Junior (Analista Administrativo - Compras y Abastecimiento Frutas y Jugos) y Semi Senior (Analista de Compras; Operario de Conversión - Zona Pompeya). No se vio un puesto que indique expresamente que no se requiere experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: portal continuo con 3 vacantes publicadas hace 11 a 17 días al 2026-11-23, más opción 'Subir CV a la base'.
+  - Como postular: https://ledesma.hiringroom.com/portal
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Vacantes vistas: Analista Administrativo Compras (Libertador Gral. San Martín, Jujuy, presencial, jornada completa), Analista de Compras Semi Senior (Libertador Gral. San Martín, Jujuy) y Operario de Conversión (Capital Federal, presencial).
+  - Aclaracion: La URL original con http redirige al mismo portal en https.
+  - Aclaracion: HiringRoom es solo la plataforma de soporte; la contratación es de la empresa.
+- **Pampa Energía - Búsquedas laborales (SuccessFactors)** (sin verificar, verificada 1 vez) https://pampa.com/en/team/
+  - Que es: Personas que buscan empleo en la empresa energética, desde plantas y yacimientos hasta oficinas centrales.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://career4.successfactors.com/career?company=PampaEnergiaP
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal carga (título 'Career Opportunities', con formulario de alerta de búsqueda guardada), pero no mostró ningún listado de vacantes, probablemente por renderizado dinámico.
+  - Aclaracion: No se pudo confirmar ninguna oferta abierta.
+  - Aclaracion: La página oficial pampa.com/en/team/ enlaza a este portal con 'Upload your CV' y no menciona programas de jóvenes ni fechas.
+  - Aclaracion: Una nota periodística sin fecha visible indicó que Pampa no tenía vacantes activas en LinkedIn y que se puede cargar el CV en su portal oficial.
