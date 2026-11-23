@@ -17,6 +17,10 @@ This is a catalog of sources, not a promise that the scanner can read them. `doc
 
 More categories and countries are added as separate files under `docs/work-sources/{country}/`. The Markdown is written in the language of the country; this index is in English.
 
+## Extend it
+
+The scripts, the workflow definitions and the step-by-step method used to build every country are in [`work-sources/method/`](work-sources/method/README.md). Anyone can add a country, re-verify a file or run the ISCO-08 coverage pass with them.
+
 ## How each row was produced
 
 1. **Discover.** One search lane per work category (or per channel), each told to use generic queries only, to prefer official pages, and to report only what it saw.
