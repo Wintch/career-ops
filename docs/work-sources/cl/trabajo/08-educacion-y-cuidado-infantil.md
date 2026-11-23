@@ -1,0 +1,79 @@
+# Educacion y cuidado infantil
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **JUNJI - Trabaja con Nosotros (portal de postulación, convocatorias tipo ranking)** (abierta o vigente, verificada 2 veces) https://junji.myfront.cl/
+  - Que es: Personas que buscan trabajo en jardines infantiles y salas cuna públicas: educadores/as de párvulos, técnicos/as en educación parvularia y auxiliares de servicios, también reemplazos.
+  - Requisitos: No visibles en el listado (ver detalle de cada oferta). Los cargos de Técnico/a y Educador/a de Párvulos suelen exigir título del área, pero no se verificó. No se vio exigencia de experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto de forma continua por regiones. Al 2026-11-23 se vieron 13 convocatorias: Arica y Parinacota 16-30 nov; Atacama (Técnico/a) 13 nov-14 dic y (Auxiliar) 22 oct-30 nov; Valparaíso (Quintero, Puchuncaví, Zapallar) 12 nov-18 dic y 11-30 nov; Los Lagos 11 sep-14 dic; Tarapacá 10 sep-11 dic; Antofagasta 04 sep-26 nov. El portal no muestra el año.
+  - Como postular: https://junji.myfront.cl/register/
+  - Lectura automatica posible: ninguna vista (plataforma Hirefront, listado HTML)
+  - Aclaracion: Cada convocatoria es un "ranking", es decir, una invitación a integrar la base de datos de postulantes de la oficina regional, y muchos cargos son de reemplazo.
+  - Aclaracion: Para postular se crea una cuenta en https://junji.myfront.cl/register/ y se usa "Déjanos tu CV".
+  - Aclaracion: El detalle de cada oferta debe abrirse desde el listado, porque la URL sin el texto final da 404.
+  - Aclaracion: Auxiliar de Servicios suele ser una vía de entrada sin título profesional, pero esto no se confirmó en la página.
+- **Fundación Integra - Trabaja con Nosotros** (abierta o vigente, verificada 2 veces) https://trabajaconnosotros.integra.cl/
+  - Que es: Personas que buscan trabajo en jardines infantiles y salas cuna de Integra (educadoras, técnicos en párvulos, personal de apoyo) y en oficinas regionales o casa central.
+  - Requisitos: No visibles en el portal; dependen de cada oferta. Las rutas de promociones y movilidad interna probablemente exigen ser personal de Integra (no confirmado).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (portal permanente; sin cantidad de plazas ni fechas de cierre visibles)
+  - Como postular: https://jobs.airavirtual.com/jardines_infantiles_integra
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Las rutas de promociones y movilidad interna parecen ser solo para personal actual de Integra, lo que no está confirmado.
+  - Aclaracion: No se vieron ofertas concretas, requisitos ni pago.
+  - Aclaracion: Incluye una lista de YouTube "¿Cómo postular?" y la sección "Mis Postulaciones" en https://login.airavirtual.com.
+- **Duoc UC - Portal de empleos (roles docentes y corporativos)** (abierta o vigente, verificada 2 veces) https://empleos.duoc.cl/
+  - Que es: Profesionales y técnicos que quieren hacer clases desde la experiencia en la industria, y personas para cargos de apoyo institucional. Sedes en 22 localidades del país.
+  - Requisitos: No se listan en la portada; cada vacante define los suyos. Se puede crear cuenta para recibir alertas y seguir postulaciones. No se indica si se exige experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (portal de vacantes con filtros y alertas; no se vio una vacante puntual ni fecha de cierre)
+  - Como postular: https://empleos.duoc.cl/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La portada no muestra cargos individuales; estos aparecen en los enlaces "Vacantes" o "Explorar vacantes".
+  - Aclaracion: Los cargos docentes suelen pedir título o experiencia profesional, pero esto no se vio en la página.
+  - Aclaracion: Se puede crear cuenta para recibir alertas y seguir postulaciones.
+- **Elige Educar - Quiero Ser Profe (orientación para estudiar Pedagogía)** (abierta o vigente, verificada 2 veces) https://eligeeducar.cl/proyectos-iniciativa/quiero-ser-profe/
+  - Que es: Estudiantes de 4º medio, egresados de enseñanza media, licenciados y profesionales que piensan estudiar Pedagogía; sirve a quien aún no tiene título docente.
+  - Requisitos: Dirigido a estudiantes de cuarto medio, egresados de enseñanza media, titulados universitarios y profesionales interesados en estudiar Pedagogía. No se piden requisitos formales ni experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito (programa de orientación vocacional; no es un empleo)
+  - Plazo o ciclo: Inscripciones abiertas según una noticia del 27 de julio de 2026; sin fecha de cierre visible. Ciclo anual probable, no confirmado
+  - Como postular: https://eligeeducar.cl/proyectos-iniciativa/quiero-ser-profe/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: No es una oferta de empleo sino un programa de orientación vocacional para quienes piensan estudiar Pedagogía.
+  - Aclaracion: Se inscribe en el formulario de la página o por correo a quieroserprofe@eligeeducar.cl.
+  - Aclaracion: El ciclo anual es probable pero no está confirmado; la página no muestra fechas del programa.
+- **Dirección de Educación Pública - Concursos internos de los Servicios Locales de Educación Pública (SLEP)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://dep.gob.cl/participacion-ciudadana/nuevosconcursosinternos-2026/
+  - Que es: Personal que ya trabaja en los territorios de los SLEP (según la página, en los Departamentos de Administración de Educación Municipal, DAEM) y que integra la dotación del nuevo servicio.
+  - Requisitos: Trabajar actualmente en un DAEM o corporación municipal de educación dentro del territorio del SLEP respectivo (según la página 2026). Otros requisitos: sin datos.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Anual, ligado al traspaso de nuevos territorios a SLEP. Hay archivos de 2024, 2025 y 2026; 2026 lista nueve SLEP (Hanga Roa, Chacabuco, Los Viñedos, Talagante, La Quebrada, Del Reloncaví, Los Copihues, Los Cerezos, Del Litoral). Fechas de postulación: no vistas.
+  - Como postular: https://dep.gob.cl/participacion-ciudadana/nuevosconcursosinternos-2026/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: No es una convocatoria abierta a quienes no trabajan ya en los DAEM o corporaciones municipales de los territorios que pasan a cada SLEP.
+  - Aclaracion: No se vieron fechas ni requisitos; el detalle de Chacabuco dio 404 y las demás páginas no se verificaron una por una.
+  - Aclaracion: Los archivos de 2024 y 2025 son enlaces de navegación a páginas alojadas en educacionpublica.gob.cl; las fechas de cada concurso están en la página de cada SLEP.
+  - Aclaracion: La URL de 2026 se escribe sin guion en "nuevosconcursosinternos-2026": https://dep.gob.cl/participacion-ciudadana/nuevosconcursosinternos-2026/.
+- **DocenteMás - Sistema de Reconocimiento y Sistema Único de Evaluación Docente** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.docentemas.cl/
+  - Que es: Docentes y educadores/as de establecimientos municipales, de SLEP, particulares subvencionados, de administración delegada y de jardines infantiles (estos tres últimos de forma gradual). Explica cómo se avanza en la carrera y en el sueldo.
+  - Requisitos: Ser docente o educador en ejercicio en un establecimiento municipal, SLEP u otros que se incorporan gradualmente; trabajar en aula en el nivel, asignatura o modalidad evaluada; ClaveÚnica; inscripción por el sostenedor y confirmación de participación. No sirve para personas que aún no ejercen.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Anual. Existe un 'Calendario Evaluativo 2026' en PDF (https://www.docentemas.cl/wp-content/uploads/2026/04/Calendarizacion-2026-1.pdf, enlazado desde https://www.docentemas.cl/calendarios/); las fechas no se leyeron. ECEP se publica en evaluacionconocimientos.cl.
+  - Como postular: https://www.docentemas.cl/calendarios/
+  - Lectura automatica posible: PDF de calendario
+  - Aclaracion: No es una fuente de empleo ni una beca: es el sistema de evaluación con que docentes en ejercicio avanzan por los tramos de la Carrera Docente (Ley 20.903 y Ley 21.625).
+  - Aclaracion: Se sugiere listarlo solo como referencia para docentes en ejercicio.
+  - Aclaracion: La ECEP requiere inscripción aparte; el Portafolio se rinde en la plataforma DocenteMás con ClaveÚnica.
+  - Aclaracion: La evaluación es obligatoria para los tramos Inicial y Temprano, y para Acceso tras tres o más años; es voluntaria para Avanzado y Experto. No se vieron montos de la asignación.
+- **Integra - ofertas para jardines infantiles (plataforma Aira Virtual)** (sin verificar, verificada 2 veces) https://trabajaconnosotros.integra.cl/
+  - Que es: Postulantes a cargos en jardines infantiles y salas cuna de Integra.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto de forma continua según el portal oficial de Integra; no se vieron ofertas ni fechas
+  - Como postular: https://jobs.airavirtual.com/jardines_infantiles_integra
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: El listado de ofertas no aparece, probablemente por carga dinámica, y no se pudo confirmar que haya cargos abiertos al 2026-11-23.
+  - Aclaracion: Rutas hermanas enlazadas desde Integra: /oficinas_regionales_integra y /casa_central_integra.

@@ -1,0 +1,117 @@
+# Programas inclusivos y poblaciones especificas
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Fundación Descúbreme, Quiero Trabajar y programa Capacitarte** (abierta o vigente, verificada 2 veces) https://www.descubreme.cl/quiero-trabajar/
+  - Que es: Personas con discapacidad intelectual o mental leve a moderada, mayores de 18 años, sin trabajo o en busca de su primer empleo (Capacitarte). El sitio aclara que no trabaja directamente con discapacidad cognitiva en otras líneas y remite a un directorio de instituciones: http://www.descubreme.cl/directorio-de-sitios/ .
+  - Requisitos: Quiero Trabajar: mayor de 18 años, poder vivir de forma autónoma, credencial de discapacidad (o en trámite) o pensión de invalidez. Capacitarte: mayores de 18 años con discapacidad intelectual y/o psíquica leve o moderada, sin trabajo o en búsqueda de primer empleo. No exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fechas ni plazos publicados; el envío de currículum por correo no muestra cierre. Capacitarte no muestra fechas de ingreso.
+  - Como postular: mailto:contacto@descubreme.cl
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no indica que esté abierto todo el año ni fija plazos; solo invita a enviar el currículum actualizado a contacto@descubreme.cl.
+  - Aclaracion: Capacitarte aparece solo como enlace en el menú, sin fechas ni detalle, y no describe un proceso de postulación individual.
+  - Aclaracion: La fundación indica que no trabaja directamente con personas con discapacidad cognitiva en otras líneas y remite a una guía de instituciones.
+  - Aclaracion: La cobertura regional proviene de la página de Capacitarte.
+- **Credencial de Discapacidad (calificación COMPIN y Registro Nacional de la Discapacidad)** (abierta o vigente, verificada 2 veces) https://www.senadis.gob.cl/pag/600/1898/credencial_de_discapacidad
+  - Que es: Personas con discapacidad que necesiten acreditarla para programas como los de SENCE, la cuota de la Ley 21.015 o el subsidio de empleo.
+  - Requisitos: Cédula de identidad vigente y los tres informes indicados; la discapacidad debe ser calificable por COMPIN.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito
+  - Plazo o ciclo: Abierto todo el año; el trámite no debería superar 25 días hábiles.
+  - Como postular: https://home.milicenciamedica.cl
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un trámite previo, no un empleo; sirve para acceder a programas, a la cuota laboral y al SUE para personas con discapacidad.
+  - Aclaracion: La certificación de COMPIN puede apelarse dentro de 5 días hábiles.
+  - Aclaracion: Se ingresa en home.milicenciamedica.cl con ClaveÚnica o en la oficina COMPIN (lunes a viernes, 9:00 a 14:00).
+- **Servicio Nacional de Migraciones, residencia temporal por actividades remuneradas y habilitación laboral** (abierta o vigente, verificada 2 veces) https://serviciomigraciones.cl/residencia-temporal/subcategorias/actividades-remuneradas/
+  - Que es: Personas extranjeras que quieran trabajar en Chile: con contrato de trabajo, con oferta formal de empleo o trabajadoras independientes con contrato de servicios.
+  - Requisitos: Dos vías: contrato de trabajo (permiso de hasta 2 años, prorrogable por 2 más) u oferta formal de trabajo (permiso de 90 días; tras ingresar, 45 días para presentar el contrato firmado, que da una prórroga de un año). Se exige pasaporte con al menos 1 año de vigencia, certificado de antecedentes penales de su país o de donde vivió en los últimos 5 años (emitido dentro de 60 días), foto reciente, contrato y solvencia económica, y documentos del empleador. Los documentos extranjeros se apostillan o legalizan y se traducen si no están en español o inglés. El contrato se firma ante notario en Chile y ante el consulado. Para trabajo independiente se requiere contrato previo con chileno o residente definitivo por más de 90 días.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica. El permiso autoriza trabajar con contrato. Los aranceles se informan en la página 'Aranceles migratorios' (montos no verificados).
+  - Plazo o ciclo: Abierto todo el año. La página no indica ventana de postulación, pero tampoco establece plazos. El trámite está disponible solo desde el exterior.
+  - Como postular: Portal de Trámites Digitales del Servicio Nacional de Migraciones (con cuenta del portal o ClaveÚnica); la página enlaza al portal, URL exacta no verificada
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Está dirigido a extranjeros que aún no están en Chile y requiere empleador en Chile.
+  - Aclaracion: Según la página, quienes ya residen en Chile no pueden iniciar este trámite desde el país.
+  - Aclaracion: En la vía de oferta de trabajo de 90 días, si el contrato no se concreta, el permiso se cancela.
+  - Aclaracion: Perder el empleo o cambiar de empleador no es por sí mismo causal de revocación de la residencia temporal.
+- **Solicitud de refugio y residencia por razones humanitarias** (abierta o vigente, verificada 2 veces) https://serviciomigraciones.cl/refugio/
+  - Que es: Personas que temen por su vida, seguridad o libertad en su país por persecución política, racial, religiosa, de nacionalidad o de grupo social, o por violencia generalizada o conflicto. La residencia por razones humanitarias (https://serviciomigraciones.cl/residencia-temporal/subcategorias/razones-humanitarias/) cubre a personas extranjeras en Chile víctimas de violencia o vulnerabilidad: niñas, niños y adolescentes, embarazadas, trata de personas, tráfico de migrantes y violencia intrafamiliar o de género.
+  - Requisitos: Ser perseguido por opinión política, raza, religión, nacionalidad o pertenencia a un grupo social discriminado, o huir de violencia generalizada, agresión extranjera, conflictos o violaciones masivas de derechos humanos. Se debe acreditar los hechos; cada caso se evalúa de forma individual con entrevista de admisibilidad y entrevista individual. La prórroga de refugio aplica si la solicitud sigue sin resolverse tras 8 meses.
+  - Pago o beneficio: No aplica. Si se reconoce la condición de refugiado, se otorga residencia definitiva, protección, documento de viaje y no devolución.
+  - Plazo o ciclo: Sin ventana de postulación. La solicitud debe presentarse personalmente dentro de 7 días hábiles desde el ingreso a Chile. La página no indica cierres estacionales.
+  - Como postular: Presencial en el Departamento de Refugio en Santiago o en una Dirección Regional del Servicio Nacional de Migraciones. Prórroga en línea: tramites.extranjeria.gob.cl/tramites/ver_ficha/167
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página trata solo el refugio y su prórroga; no describe un permiso de residencia por razones humanitarias.
+  - Aclaracion: No informa si quien solicita puede trabajar mientras se resuelve el trámite; eso debe consultarse en ayuda.serviciomigraciones.cl o en una Dirección Regional.
+  - Aclaracion: Es un trámite de protección, no una vía de empleo.
+- **SernamEG - Programa Mujeres Jefas de Hogar (empleabilidad y autonomía económica)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.sernameg.gob.cl/programa-mujeres-jefas-de-hogar/
+  - Que es: Mujeres jefas de hogar de 18 a 65 años, económicamente activas, hasta el 80% de la Calificación Socioeconómica del Registro Social de Hogares, que vivan o trabajen en una comuna donde se ejecuta el programa.
+  - Requisitos: Ser jefa de hogar, tener entre 18 y 65 años, pertenecer hasta el 80% de la Calificación Socioeconómica del Registro Social de Hogares, estar económicamente activa y vivir o trabajar en una comuna donde opera el programa. No pueden postular quienes participaron en los últimos tres años. Tienen prioridad las derivadas por programas de SernamEG y las participantes del Subsistema de Seguridad y Oportunidades. No exige experiencia previa ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No entrega bonos ni aporte monetario directo (lo dice la página en mayúsculas). Ofrece talleres de capacitación laboral, un proyecto laboral personal, acompañamiento del equipo comunal y apoyos complementarios según la oferta local (capacitación, cuidado infantil, nivelación de estudios, alfabetización digital, atención dental, psicológica y de salud, apoyo psicosocial y legal).
+  - Plazo o ciclo: Postulación de enero a marzo de 2026, según disponibilidad de cupos por comuna; la página ya la muestra como cerrada. Inicio de talleres en marzo y abril de 2026. Se espera una nueva convocatoria en el primer trimestre de 2027 (no confirmado en la página).
+  - Como postular: https://www.sernameg.gob.cl/programa-mujeres-jefas-de-hogar/
+  - Lectura automatica posible: no
+  - Aclaracion: Opera en 16 regiones, de forma presencial o en línea según la comuna; la página enlaza un PDF de cobertura con la modalidad por comuna.
+  - Aclaracion: La página no indica un canal de postulación más allá de la cobertura comunal.
+  - Aclaracion: Contacto: +56 2 2549 6100 y línea SernamEG Te Orienta 1455 (todos los días, 08:00 a 00:00).
+- **Gendarmería de Chile - Empleabilidad (CET, PILSA, Reinserción Laboral)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.gendarmeria.gob.cl/empleabilidad.html
+  - Que es: Personas privadas de libertad, personas con penas sustitutivas, personas en libertad condicional y personas con antecedentes que están eliminándolos o participan en programas de reinserción.
+  - Requisitos: Dirigido solo a personas en ejecución penal: privadas de libertad (CET, cerrados dentro de las unidades penales y semiabiertos independientes), con penas sustitutivas (PILSA) o con apoyo postpenitenciario (Reinserción Laboral, junto a PAP y libertad condicional). La página no especifica requisitos ni un procedimiento de postulación; la necesidad la detecta el delegado de libertad vigilada o la persona por iniciativa propia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos. No se indica remuneración ni beca. Ofrece capacitación, actividad productiva en talleres (CET) y gestión de capacitación o empleo (PILSA, Reinserción Laboral).
+  - Plazo o ciclo: Permanente, sin fechas de postulación. La página confirma que los CAIS gestionan anualmente convenios de colaboración para conseguir ofertas de empleo (Reinserción Laboral).
+  - Como postular: https://www.gendarmeria.gob.cl/empleabilidad.html
+  - Lectura automatica posible: no
+  - Aclaracion: No es una vía abierta al público general.
+  - Aclaracion: Para empleadores, la página indica el trámite 'Oferta de empleo' con Clave Única, que sirve para contratar a personas en ejecución penal o que ya cumplieron condena.
+  - Aclaracion: Contacto: Littré Quiroga Carvajal (ex Rosas) 1264, Santiago, +56 2 916 3000 y formulario en la página Contacto.
+  - Aclaracion: Los productos de los CET se ofrecen en rehace.cl.
+- **SENCE, curso de capacitación para personas con discapacidad (programa Discapacidad)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://sence.gob.cl/personas/discapacidad
+  - Que es: Mujeres y hombres desde los 16 años, sin tope de edad, con discapacidad acreditada.
+  - Requisitos: 16 años o más, sin límite superior; acreditar discapacidad con al menos uno de: informe médico, inscripción en el Registro Nacional de la Discapacidad, resolución COMPIN, certificado del Registro Civil o comprobante de pensión de invalidez. No exige experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es un empleo: subsidio de transporte $4.000 y cuidado infantil $5.000 por día de clase asistido (condiciones en la ficha).
+  - Plazo o ciclo: Por convocatorias de cursos; la página no indica fechas ni si hay postulación abierta. Se postula en eligetucurso.sence.cl según los cursos publicados.
+  - Como postular: https://eligetucurso.sence.cl
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El subsidio de cuidado infantil corresponde a menores de 6 años o personas dependientes y rige para el 40% del Registro Social de Hogares.
+  - Aclaracion: El certificado se otorga con 75% de asistencia.
+  - Aclaracion: Se postula con ClaveÚnica en eligetucurso.sence.cl o en oficinas regionales de SENCE.
+  - Aclaracion: No se pudo comprobar si el programa figura como 'Postulación cerrada'.
+- **Subsidio Unificado de Empleo (SUE)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.subsidioalempleo.cl/SUE/index.html
+  - Que es: Trabajadores dependientes e independientes en grupos prioritarios: jóvenes de 18 a 24 años, mujeres de 25 a 54, personas de 55 años o más y personas con discapacidad inscritas en el Registro Nacional de la Discapacidad (desde los 18). El empleador debe ser una empresa privada de primera categoría.
+  - Requisitos: Dependientes: pertenecer a un grupo prioritario, cumplir el límite de renta, tener 6 meses continuos u 8 discontinuos sin empleo en los últimos 18 meses y, el primer año, estar en el 40% más vulnerable del Registro Social de Hogares (no se exige a personas inscritas en el Registro Nacional de la Discapacidad). Independientes: reglas similares, con a lo más un año desde el inicio de actividades en el SII o sin ingresos por honorarios en 12 meses. Empresas: postular dentro de 3 meses desde el inicio de la relación laboral, sin empleo previo de esa persona en los últimos 12 meses y con obligaciones laborales y previsionales al día.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Trabajadores: hasta 10% de la remuneración bruta mensual el primer año, con mínimo de 2,5% del ingreso mínimo mensual ($13.225). Empresas: hasta 20% de la remuneración bruta del contratado el primer año. Tope de renta 2,25 ingresos mínimos ($1.190.250); disminuye gradualmente sobre 1,25 ($661.250).
+  - Plazo o ciclo: Vigente desde el 1 de octubre de 2026. Períodos de postulación listados: octubre, noviembre y diciembre de 2026 (primeros pagos a más tardar en diciembre de 2026, enero y febrero de 2027). SENCE fija los períodos y los avisa con al menos 30 días de anticipación; habrá más de uno al año.
+  - Como postular: https://www.subsidioalempleo.cl/SUE/index.html
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un subsidio para quien ya trabaja o es contratado, no una oferta de empleo.
+  - Aclaracion: Reemplaza al Subsidio al Empleo Joven, al Bono al Trabajo de la Mujer y al Subsidio Previsional a los Trabajadores Jóvenes.
+  - Aclaracion: Dura hasta 12 meses (15 para personas con discapacidad y micro y pequeñas empresas).
+  - Aclaracion: El pago es mensual a dependientes y empresas, y anual en agosto para independientes; se postula en línea por la Ventanilla Única Social.
+- **Programa Mujer Emprende** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.sernameg.gob.cl/programa-mujer-emprende/
+  - Que es: Mujeres de 18 años o más con un emprendimiento propio.
+  - Requisitos: Tener 18 años o más; negocio con al menos 1 año de funcionamiento; pertenecer al 80% de la Calificación Socioeconómica del Registro Social de Hogares; dedicar al menos 20 horas semanales al negocio; enseñanza media completa.
+  - Sin experiencia previa: no
+  - Pago o beneficio: No entrega bonos ni dinero. Ofrece la Academia Mujer Emprende (40 horas de capacitación asincrónica), redes de emprendimiento y espacios de venta, cursos, talleres y charlas.
+  - Plazo o ciclo: Anual. La postulación 2026 llegó hasta el 15 de febrero o hasta agotar 1.500 cupos nacionales, y la página la muestra como cerrada. El programa 2026 dura de marzo a diciembre. La página no informa ciclo 2027.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Está dirigido a mujeres con un negocio en marcha, no a quienes buscan un primer empleo.
+  - Aclaracion: La página no describe el procedimiento de postulación; informa el teléfono +56 225 496 100, Huérfanos 1219 (Santiago) y la línea 1455 (SernamEG Te Orienta).
+  - Aclaracion: El ciclo anual es una inferencia a partir de 2026 y no está confirmado para 2027.
+- **SENADIS - Ley 21.015 de Inclusión Laboral (marco legal, personas con discapacidad)** (sin verificar, verificada 1 vez) https://www.senadis.gob.cl/pag/421/1694/ley_de_inclusion_laboral
+  - Que es: Personas con discapacidad. La ley obliga a organismos públicos y empresas con 100 o más trabajadores a contratar al menos un 1% de personas con discapacidad, prohíbe la discriminación y fija 26 años como edad máxima para el contrato de aprendizaje con una persona con discapacidad.
+  - Requisitos: Obliga a organismos públicos y empresas con 100 o más trabajadores a que al menos el 1% de su dotación sean personas con discapacidad. Prohíbe la discriminación, elimina la discriminación salarial hacia personas con discapacidad mental y fija 26 años como edad máxima para un contrato de aprendizaje con una persona con discapacidad. La página no explica cómo se acredita la discapacidad ni menciona la BNE u otro registro de ofertas.
+  - Pago o beneficio: No aplica. No entrega pago ni beneficio directo.
+  - Plazo o ciclo: No hay convocatoria: es un marco legal. La página confirma que el reglamento se publicó el 1 de febrero de 2018 y que la ley rige desde el 1 de abril de 2018.
+  - Como postular: No hay postulación en esta página. Preguntas frecuentes: https://www.senadis.gob.cl/pag/420/1695/preguntas_frecuentes_ley_de_inclusion_laboral; contacto: http://contactenos.senadis.cl/. Para ofertas de empleo público, el sitio de SENADIS enlaza a https://www.empleospublicos.cl/.
+  - Lectura automatica posible: no
+  - Aclaracion: La página no da una vía concreta para postular a empleos, por lo que sirve solo como referencia de derechos.
+  - Aclaracion: Como fuente de dónde postular, conviene complementarla con una página oficial de intermediación laboral; esa no se verificó.

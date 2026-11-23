@@ -1,0 +1,88 @@
+# Salud y cuidados
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Clínica Las Condes - Trabaja con nosotros (Buk)** (abierta o vigente, verificada 2 veces) https://clinicalascondes.buk.cl/trabaja-con-nosotros
+  - Que es: Personas que buscan empleo en una de las clínicas privadas más grandes de Santiago. El enlace figura en el pie de página del sitio oficial clinicalascondes.cl.
+  - Requisitos: No indicados en la página de listado; se detallan en cada aviso (no abiertos). El cargo de Técnico en Enfermería de Nivel Superior exige formación técnica de nivel superior en enfermería por su propio nombre; no se vio experiencia mínima.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año; avisos rotativos (2 avisos visibles el 2026-11-23)
+  - Como postular: https://clinicalascondes.buk.cl/trabaja-con-nosotros
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los requisitos se detallan en cada aviso.
+  - Aclaracion: El número de avisos es bajo (2 al 2026-11-23), por lo que conviene revisar la página con frecuencia.
+  - Aclaracion: No se vieron fechas de publicación ni de cierre.
+- **ACHS - Ofertas laborales (trabajos.achs.cl)** (abierta o vigente, verificada 2 veces) https://trabajos.achs.cl/
+  - Que es: Personas que buscan trabajo en una mutualidad de salud laboral. Se espera que publique cargos clínicos y de apoyo; no se confirmó en la lectura.
+  - Requisitos: No indicados en el listado; cada aviso los detalla. Muchos cargos exigen título profesional o técnico. La Comunidad de Talentos no exige postular a un cargo concreto.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año; 98 puestos abiertos el 2026-11-23, con avisos publicados entre el 18 y el 21 de noviembre de 2026
+  - Como postular: https://trabajos.achs.cl/search/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Predominan cargos profesionales y de salud; no se vio un aviso explícito sin experiencia.
+  - Aclaracion: Muchos cargos exigen título profesional o técnico, según cada aviso.
+  - Aclaracion: La Comunidad de Talentos permite dejar datos sin postular a un cargo concreto.
+- **Hogar de Cristo - Trabaja con nosotros (cuidado y apoyo social)** (abierta o vigente, verificada 2 veces) https://www.hogardecristo.cl/trabaja-con-nosotros-hogardecristo/
+  - Que es: Cualquier persona interesada en trabajar en una de las mayores fundaciones sociales del país. Para cargos de cuidado o salud hay que revisar cada oferta; la página no los menciona expresamente.
+  - Requisitos: La página no lista requisitos; se indican en cada aviso del portal. El formulario de envío de antecedentes no exige postular a un cargo específico.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año; los avisos tienen su propia vigencia en el portal
+  - Como postular: https://fundacion-beneficencia-hogar-cristo.pandape.computrabajo.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Ofrece tres vías: portal de vacantes, formulario de Google para enviar el CV sin postular a un cargo y la página de LinkedIn de la institución.
+  - Aclaracion: El número y tipo de avisos vigentes no está confirmado.
+  - Aclaracion: La página indica un call center 600 570 8000, sin precisar si atiende temas de selección.
+- **Integramédica - reclutamiento médico** (abierta o vigente, verificada 2 veces) https://www.integramedica.cl/formulario-reclutamiento-medico
+  - Que es: Solo médicos. El sitio no tiene una página general de empleo para otros cargos (enfermería, TENS, administrativos).
+  - Requisitos: La página no lista requisitos. Por el formulario, se dirige a profesionales médicos con especialidad declarada; se solicita RUT.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (formulario permanente, sin fechas)
+  - Como postular: https://www.integramedica.cl/formulario-reclutamiento-medico
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Está orientado solo a médicos con especialidad; el sitio no tiene una página general de empleo para otros cargos como enfermería, TENS o administrativos.
+  - Aclaracion: El formulario pide nombre, apellido, RUT, correo, teléfono, especialidad y edad.
+  - Aclaracion: No se vio oferta concreta ni plazo, y la relación contractual y el pago no están verificados.
+- **Empleos Públicos (Servicio Civil) - concursos de la salud pública** (sin verificar, verificada 1 vez) https://www.empleospublicos.cl
+  - Que es: Postulantes a cargos y contratas en el sector público, incluidos Servicios de Salud y hospitales (técnicos en enfermería, auxiliares, enfermería, otros profesionales de la salud). Los concursos se filtran por institución y región.
+  - Requisitos: Según fuentes secundarias: ciudadanía chilena o extranjero con permiso de residencia; creación de cuenta con RUN; documentos digitalizados (cédula de identidad y, en algunos concursos, currículum en formato del portal y certificados); posible uso de ClaveÚnica. Los requisitos de estudios y experiencia dependen de cada concurso.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Convocatorias continuas, cada una con su propio plazo (según fuentes secundarias; no verificado directamente)
+  - Como postular: https://www.empleospublicos.cl
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los requisitos y ciclo provienen de fuentes secundarias (prensa y ChileAtiende), no de lectura directa del portal.
+  - Aclaracion: No está confirmado el contenido específico de convocatorias de salud pública; conviene filtrar por institución (servicios de salud, hospitales).
+  - Aclaracion: Mesa de ayuda citada por ChileAtiende: 800 104 270.
+- **Clínica Santa María - Trabaja con nosotros (Trabajando.cl)** (sin verificar, verificada 1 vez) https://www.clinicasantamaria.cl/trabaja-con-nosotros
+  - Que es: Personas que buscan trabajo en la clínica. El enlace aparece en el pie de página del sitio oficial clinicasantamaria.cl bajo "Trabaja con nosotros".
+  - Requisitos: El formulario pide RUT, título u ocupación y currículum adjunto; no indica edad ni experiencia mínima. Los requisitos por cargo no se vieron.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin avisos visibles el 2026-11-23; ruta de postulación abierta (formulario de envío de CV)
+  - Como postular: https://clinicasantamaria.trabajando.cl/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal de Trabajando.cl no mostró avisos, posiblemente por carga dinámica, por lo que no se pudo confirmar que haya vacantes abiertas.
+  - Aclaracion: El formulario de la clínica pide RUT, título u ocupación, indicar si hay discapacidad, correo y CV adjunto.
+  - Aclaracion: Se puede crear un perfil y activar alertas de empleo en el portal.
+  - Aclaracion: Teléfono de la clínica: +56 2 2913 0000.
+- **Chiletrabajos - categoría Medicina / Salud** (sin verificar, verificada 1 vez) https://www.chiletrabajos.cl/
+  - Que es: Cualquier persona que busque ofertas privadas en Chile; el buscador permite filtrar por la categoría "Medicina / Salud".
+  - Requisitos: No visibles en la portada; cada aviso trae sus propios requisitos. Para postular el sitio ofrece crear cuenta o ingresar.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto de forma continua (el sitio muestra avisos del 22-11-2026), pero no se pudo confirmar el listado de la categoría Salud
+  - Como postular: https://www.chiletrabajos.cl/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL carga la portada general sin avisos de salud y con el contador en cero; "Medicina / Salud" aparece solo como opción de filtro, por lo que conviene usar el filtro de categoría del buscador.
+  - Aclaracion: Existe un RSS de la categoría en https://www.chiletrabajos.cl/rss/salud.
+  - Aclaracion: Es un portal que reúne avisos de muchos empleadores, no un empleador.
+  - Aclaracion: El pago no está verificado.
+- **Registro Nacional de Prestadores Individuales de Salud (RNPI)** (sin verificar, verificada 1 vez) https://rnpi.superdesalud.gob.cl/
+  - Que es: Personas del área de la salud que deben verificar su inscripción, y empleadores o familias que quieren comprobar la habilitación de un profesional. No es una bolsa de empleo.
+  - Requisitos: No visibles en la página (el contenido no cargó por completo).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Permanente (registro), pero no es una fuente de empleo
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una bolsa de empleo: es un registro de la Superintendencia de Salud para verificar la habilitación de profesionales.
+  - Aclaracion: No ofrece ofertas ni postulación a trabajos; se sugiere no listarlo como fuente de empleo, a lo sumo como referencia para verificar títulos.
+  - Aclaracion: No se confirmó el procedimiento de inscripción ni sus requisitos.

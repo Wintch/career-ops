@@ -1,0 +1,106 @@
+# Campo, trabajo rural y de temporada
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Convocatoria de brigadistas forestales 2026-2027 (CONAF)** (abierta o vigente, verificada 2 veces) https://www.conaf.cl/conaf-abre-convocatoria-de-brigadistas-forestales-2026-2027
+  - Que es: Personas que quieran trabajar en el control de incendios forestales durante la temporada de mayor ocurrencia. La página habla de más de 3.000 cupos en 13 regiones, con cargos de brigadista, jefatura, conductor, operador y asistente, además de despachadores y coordinadores de las centrales regionales (CENCOR).
+  - Requisitos: No se especifican en la página; el detalle estaría en cada formulario o se consulta a CONAF. No se vio mención de experiencia exigida.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Convocatoria 2026-2027 publicada el 3 de agosto de 2026; no figura fecha de cierre. Anual, para la temporada de incendios.
+  - Como postular: https://www.conaf.cl/conaf-abre-convocatoria-de-brigadistas-forestales-2026-2027
+  - Lectura automatica posible: No. Formularios de Google enlazados desde la página.
+  - Aclaracion: La página solo enlaza formularios de postulación para nueve regiones; para las otras cuatro no se vio la vía de postulación.
+  - Aclaracion: Se postula mediante formularios de Google por región y cargo.
+  - Aclaracion: No se pudo confirmar que los formularios sigan recibiendo postulaciones al 23 de noviembre de 2026.
+- **Concursos laborales CONAF (guardaparques y otros cargos)** (abierta o vigente, verificada 2 veces) https://www.conaf.cl/quienes-somos/concursos-laborales/
+  - Que es: Postulantes a cargos públicos de CONAF. El 2026-11-23 había más de 30 concursos abiertos, en su mayoría de guardaparque en parques y reservas de todo el país (Arica a Magallanes), incluidos cargos de guardaparque técnico no profesional. También hay cargos de administrador/a, fiscalizador/a y profesionales.
+  - Requisitos: Varían por concurso y están en las bases en PDF (no leídas). Algunos cargos son 'técnico no profesional', lo que indica que no exigen título profesional. Experiencia: según las bases.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto de forma continua. Cierres vistos: 20, 23 y 24 de noviembre de 2026 (varios ya vencidos o por vencer al 23-11); otros concursos sin fecha en la página (ver bases).
+  - Como postular: https://www.empleospublicos.cl
+  - Lectura automatica posible: No. Tabla HTML con bases en PDF.
+  - Aclaracion: Los concursos que cerraban el 9/11/2026 y el 20/11/2026 ya vencieron.
+  - Aclaracion: Las bases de cada concurso están en PDF y definen requisitos y experiencia exigida.
+  - Aclaracion: Los concursos 866, 862, 861, 858, 856, 855, 852, 836 y 791 no muestran fecha de cierre en la página.
+  - Aclaracion: Se postula únicamente por el Portal de Empleos Públicos y no se aceptan postulaciones fuera de plazo.
+- **Copefrut: Trabaja con nosotros (plantas de Teno, Romeral y Linares)** (abierta o vigente, verificada 2 veces) https://copefrut.com/trabaja-con-nosotros/
+  - Que es: Personas para trabajar en las plantas de fruta de Teno, Romeral y Linares (Región del Maule), con turno de día, de noche o ambos. La página separa Trabajos de Temporada y Ofertas Laborales. La web anuncia el inicio de la temporada de cerezas 2026-2027.
+  - Requisitos: La página no lista requisitos. El formulario solo pide datos personales y RUT. Experiencia: no se indica.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año mediante formulario de postulación; temporada de cerezas 2026-2027 iniciada oficialmente según el sitio. Sin fechas de contratación.
+  - Como postular: https://copefrut.com/trabaja-con-nosotros/
+  - Lectura automatica posible: No se vio API; HiringRoom es un portal de empleo.
+  - Aclaracion: El portal de vacantes (copefrut.hiringroom.com) mostraba solo 2 avisos profesionales, de hace 2 y 3 meses, y ninguno de trabajo de temporada.
+  - Aclaracion: El formulario permite postular de forma general, pero no se pudo confirmar que lleve a contratación de temporeros.
+  - Aclaracion: Contacto: info@copefrut.com, +56 75 2209100, Longitudinal Sur Km 185, Curicó.
+- **Hortifrut: Trabaja con nosotros** (abierta o vigente, verificada 2 veces) https://www.hortifrut.com/trabaja-con-nosotros
+  - Que es: Productor y comercializador de berries (arándanos) con operaciones en Chile, México y Perú. Admite postulación general con elección de área de interés.
+  - Requisitos: Nombre, correo y teléfono; país; CV en Word o PDF (máx. 3 MB); área de interés y carrera; resumen de experiencia de hasta 500 caracteres. La página no exige experiencia, edad ni título.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (formulario de postulación espontánea siempre disponible; sin fecha de cierre)
+  - Como postular: https://www.hortifrut.com/trabaja-con-nosotros
+  - Lectura automatica posible: No.
+  - Aclaracion: El enlace de ofertas de Chile (hortifrut.trabajando.cl) devolvió 'Sitio web no encontrado'.
+  - Aclaracion: En jobs.hortifrut.com el listado de vacantes quedó en 'Cargando...' y no se vio ninguna oferta.
+  - Aclaracion: Se confirma la vía abierta (formulario), no vacantes específicas ni su vigencia.
+- **Valle Nevado: Trabaja con nosotros (temporada de ski)** (abierta o vigente, verificada 2 veces) https://www.vallenevado.com/es/trabaja-con-nosotros/
+  - Que es: Personas para el centro de montaña. El 2026-11-23 la página mostraba una vacante de aseador(a) de villas. Hay una vía aparte para la escuela de ski.
+  - Requisitos: No se listan requisitos formales. La página busca personas que compartan pasión por la montaña, el servicio y el trabajo en equipo. No se indica que se exija experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto: postulación por correo sin fecha de cierre; un cargo publicado (Aseador/a de Villas) con enlace en Buk. No se indica ciclo de temporada ni fechas.
+  - Como postular: https://www.vallenevado.com/es/trabaja-con-nosotros/
+  - Lectura automatica posible: No.
+  - Aclaracion: Se postula por correo a seleccion@vallenevado.com (indicando el puesto); la Escuela de Ski tiene un correo aparte, seleccion_escuela@vallenevado.com.
+  - Aclaracion: El cargo visible, Aseador(a) de Villas, se postula en línea en el portal Buk (tw-vnevado.buk.cl).
+  - Aclaracion: No se verificó que los cargos sean de temporada.
+- **Trabaje en INDAP (concursos públicos)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.indap.gob.cl/trabaja-en-indap
+  - Que es: Postulantes a cargos de la propia institución, que atiende a pequeños productores agrícolas: profesionales de riego, ejecutivos integrales de agencia de área, jefaturas y equipos técnicos, en distintas regiones.
+  - Requisitos: Varían según el cargo (profesional de apoyo, jefaturas, ejecutivo/a integral); no se vieron los detalles. Son cargos profesionales o de jefatura, no de entrada sin título.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Concursos a lo largo del año, de varias regiones. Al 2026-11-23 no se vio ningún proceso abierto: el último, Jefaturas de Agencia de Área (San Bernardo y Talagante), cerró el 20-11-2026. Otros cierres vistos: 30-10-2026 (Arica y Parinacota), 23-10-2026 (Magallanes), 09-10-2026 (Talca), 28-09-2026 (La Serena), 17-09-2026 (San Felipe). Hay unas nueve páginas de listados; no se revisaron las anteriores.
+  - Como postular: https://www.indap.gob.cl/trabaja-en-indap
+  - Lectura automatica posible: No.
+  - Aclaracion: Las instrucciones de postulación están en la ficha de cada concurso, por lo que hay que abrir cada una.
+  - Aclaracion: El filtro 'Etapa' (Concluido, Postulación, Selección) permite ver los concursos nuevos.
+  - Aclaracion: El último cierre visto, el 20-11-2026, ya pasó.
+- **Programa de Empleo de CONAF (empleo temporal rural)** (sin verificar, verificada 1 vez) https://www.conaf.cl/quienes-somos/programa-de-empleos/
+  - Que es: La página describe un programa que genera empleo temporal para personas cesantes en zonas rurales, con prioridad para quienes tienen más dificultades para encontrar trabajo (programas PEE y PROFOCAP, este último con capacitación).
+  - Requisitos: No figuran. Se dirige a población con mayores problemas de acceso al empleo, según la página, sin criterios concretos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No hay convocatoria ni plazo en la página.
+  - Como postular: sin datos
+  - Lectura automatica posible: No.
+  - Aclaracion: La página no indica quién puede postular, cómo hacerlo ni fechas; solo muestra fechas históricas.
+  - Aclaracion: No se confirmó una convocatoria abierta.
+  - Aclaracion: Contacto vigente: consulta.oirs@conaf.cl, teléfono +56 2 2663 0000, Paseo Bulnes 285, Santiago.
+- **Dirección del Trabajo: reglas para temporeros (contrato, transporte, alojamiento, intermediarios)** (sin verificar, verificada 1 vez) https://dt.gob.cl/portal/1627/w3-article-117963.html
+  - Que es: Temporeros y temporeras de cosecha de fruta en verano. Resume los derechos mínimos que se fiscalizan: contrato escrito, pago de remuneraciones, transporte entre faena y alojamiento, alojamiento e higiene adecuados, alimentación en la faena, agua potable y baños, registro de contratistas e intermediarios en la DT, prohibición de trabajar a menores de 15 años y permiso de padres y escolaridad al día para 15 a 17 años.
+  - Requisitos: No aplica.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Noticia del 21 de diciembre de 2019; referencia general sin vigencia anual comprobada.
+  - Como postular: sin datos
+  - Lectura automatica posible: No.
+  - Aclaracion: Es una noticia de 2019, no una oferta de empleo.
+  - Aclaracion: Resume reglas como transporte (minibuses hasta 18 años y buses hasta 22 años, sin viajar de pie, con identificación) y contratistas e intermediarios inscritos en la DT.
+  - Aclaracion: Los montos de multas y antigüedades máximas pueden haber cambiado desde 2019, por lo que no deben presentarse como vigentes sin revisar la normativa actual.
+- **Ley Fácil BCN: temporeros y temporeras** (sin verificar, verificada 1 vez) https://www.bcn.cl/portal/leyfacil/recurso/temporeros-y-temporeras
+  - Que es: Temporeros y temporeras que quieran conocer sus derechos laborales en lenguaje simple.
+  - Requisitos: No aplica.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Referencia permanente (no verificada).
+  - Como postular: sin datos
+  - Lectura automatica posible: No.
+  - Aclaracion: El contenido y la fecha de actualización no pudieron confirmarse: solo se obtuvo el encabezado de la Biblioteca del Congreso Nacional de Chile, sin cuerpo de texto.
+  - Aclaracion: Es un recurso informativo sobre derechos, no una oferta de empleo.
+- **Nevados de Chillán: Trabaja con nosotros** (sin verificar, verificada 1 vez) https://www.nevadosdechillan.com/trabaja-con-nosotros
+  - Que es: Personas interesadas en trabajar en el centro de montaña. La página es un formulario general; no lista vacantes ni cargos de temporada.
+  - Requisitos: No se publican requisitos. Campos obligatorios del formulario: nombre, teléfono, correo, mensaje y ciudad de residencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (formulario permanente, sin ofertas, fechas ni temporadas publicadas)
+  - Como postular: https://www.nevadosdechillan.com/trabaja-con-nosotros
+  - Lectura automatica posible: No.
+  - Aclaracion: La página no lista vacantes, temporadas ni requisitos.
+  - Aclaracion: Hay contactos generales (nevadoshelp@nevadosdechillan.com, +56443350033 y +56443350034), pero la página no dice que sirvan para postular.
+  - Aclaracion: No hay evidencia de contratación vigente ni de ciclo.

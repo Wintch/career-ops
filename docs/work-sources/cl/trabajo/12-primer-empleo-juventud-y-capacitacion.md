@@ -1,0 +1,92 @@
+# Primer empleo, juventud y capacitacion
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Bono al Trabajo de la Mujer (BTM) - SENCE** (abierta o vigente, verificada 2 veces) https://sence.gob.cl/personas/bono-al-trabajo-de-la-mujer
+  - Que es: Mujeres trabajadoras, dependientes o independientes, de 25 años hasta 59 años y 11 meses, pertenecientes al 40% de las familias más vulnerables. Es un subsidio al sueldo, no una oferta de empleo.
+  - Requisitos: Mujeres trabajadoras (dependientes o independientes) de 25 a 59 años y 11 meses; pertenecer al 40 % más vulnerable de la población. Se postula en línea con Clave Única. La página oficial no menciona requisito de residencia. No exige experiencia ni título, pero sí estar trabajando y cotizando o con ingresos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Subsidio al empleo, no un empleo. Pago anual (ingresos de enero a diciembre): hasta cerca de $706.505 (monto 2025). Pago mensual 2026 (adelanto del anual): hasta alrededor de $45.658 según la página oficial (medios citan $44.157). Dura 4 años consecutivos. Se paga en Cuenta RUT, cuenta bancaria o en caja BancoEstado/ServiEstado.
+  - Plazo o ciclo: Abierto todo el año según medios que citan a SENCE (365 días); la página oficial no declara un plazo, pero muestra un calendario con postulaciones por mes (enero 2026: resultado en abril y primer pago en mayo; febrero 2026: resultado en mayo y primer pago en junio). El pago anual 2026 se procesa en agosto de 2027.
+  - Como postular: https://sence.gob.cl/personas/bono-al-trabajo-de-la-mujer
+  - Lectura automatica posible: no
+  - Aclaracion: Es un beneficio para quien ya trabaja, no una oferta laboral.
+  - Aclaracion: Una fuente secundaria (titular de 24horas) indica que 'no acepta postulaciones' en algún momento, por lo que conviene confirmar en el sitio de SENCE si la postulación está activa.
+  - Aclaracion: Los resultados salen en el Expediente Electrónico entre los días 9 y 11 del mes correspondiente.
+  - Aclaracion: Las cifras de monto difieren entre la página oficial y la prensa; prevalece la página oficial. Contacto: 600 712 0028 o *8088.
+- **SENCE: Plataformas Laborales regionales (Ñuble, Biobío, Araucanía, Los Ríos, Los Lagos y otras)** (abierta o vigente, verificada 2 veces) https://sence.gob.cl/personas/plataformas-laborales
+  - Que es: Cualquier persona que busque empleo en las regiones con plataforma: Arica y Parinacota, Tarapacá, Antofagasta, Ñuble, Biobío, La Araucanía, Los Ríos y Los Lagos.
+  - Requisitos: La página no indica requisitos. No se describe un proceso formal de postulación a la plataforma; basta con asistir en horario de atención o contactar al call center.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Servicio gratuito de intermediación; no es un empleo. Las ofertas tienen la remuneración de cada empleador.
+  - Plazo o ciclo: Atención permanente, de lunes a viernes de 9:00 a 14:00 (presencial). Además existe un servicio general de videollamada de SENCE, de lunes a viernes de 9:00 a 17:00, según el enlace de la página; no figura un horario de videollamada propio de cada plataforma.
+  - Como postular: https://sence.gob.cl/personas/plataformas-laborales
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Corrección: las plataformas no cubren todas las regiones del sur; también hay en el norte, y no figuran Maule ni otras regiones.
+  - Aclaracion: No figura un horario de videollamada propio de cada plataforma.
+- **Potencia+ tus habilidades (cursos en línea SENCE)** (abierta o vigente, verificada 2 veces) https://sence.gob.cl/personas/potencia-su-futuro-laboral
+  - Que es: Cualquier persona mayor de 16 años que quiera reforzar habilidades para el trabajo, inglés y herramientas digitales, sin necesidad de experiencia.
+  - Requisitos: Tener más de 16 años, RUT chileno vigente y Clave Única. No se exige experiencia previa ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no menciona costo ni subsidio)
+  - Plazo o ciclo: Abierto de forma permanente según la página: cupos ilimitados, sin fechas de apertura ni cierre. La página no indica un plazo de término del programa.
+  - Como postular: https://eligemejor.sence.cl/BuscarCursoEspecial/PorPrograma?utm_campaign=ECLASS
+  - Lectura automatica posible: none
+  - Aclaracion: No se pudo confirmar que el programa sea gratuito, porque la página no muestra costo.
+  - Aclaracion: Cada curso entrega certificado de participación y dura 5 horas, con plazo de 14 días para completarlo y extensiones automáticas de 7 días hasta 6 meses en total.
+- **Bolsa Nacional de Empleo (BNE), incluye prácticas y filtro Jóvenes** (abierta o vigente, verificada 2 veces) https://www.bne.cl/
+  - Que es: Personas que buscan empleo en todo Chile, con filtro por grupo Jóvenes y ofertas de práctica; empresas que publican vacantes.
+  - Requisitos: No se listan requisitos de registro; hay dos tipos de cuenta, 'Soy trabajador' y 'Soy empresa'. Registro en https://bne.gob.cl/registro/postulante. No se exige experiencia previa para registrarse.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Servicio gratuito; los sueldos dependen de cada oferta (sin datos en general).
+  - Plazo o ciclo: Abierto todo el año (permanente). El sitio indica que está probando una nueva versión, con aviso 'La nueva BNE ya viene' y encuesta de opinión.
+  - Como postular: https://bne.gob.cl/registro/postulante
+  - Lectura automatica posible: none
+  - Aclaracion: El dominio principal debe confirmarse: la ruta bne.gob.cl/buscar-empleo cargó solo la navegación, sin ofertas visibles.
+  - Aclaracion: No se vio un filtro específico de prácticas, aunque algunos títulos de ofertas incluyen 'PRÁCTICA'.
+  - Aclaracion: El sitio está probando una nueva versión y la mecánica exacta de postulación a cada oferta no se pudo ver.
+- **Gradúate (completar educación básica y media)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://sence.gob.cl/personas/graduate
+  - Que es: Adultos sin educación básica o media completa que necesitan el certificado para trabajar o seguir estudiando.
+  - Requisitos: Ser mayor de 18 años, tener RUT chileno vigente y Clave Única. Para rendir el examen se debe inscribir aparte en Mineduc: Fines Laborales https://inscripcion-validacion-estudios.mineduc.cl/solicitud-inscripcion-snec/finesLaborales y Continuidad de Estudios https://inscripcion-validacion-estudios.mineduc.cl/solicitud-inscripcion-snec/continuidadDeEstudios/. Sirve para quienes no completaron la educación básica o media; no se exige experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no menciona costo)
+  - Plazo o ciclo: Anual. Calendario 2026 con varios períodos de exámenes libres (entre febrero y octubre). Ventanas de inscripción Mineduc indicadas en la página: Fines Laborales del 10 de agosto al 1 de septiembre; Continuidad de Estudios del 26 de julio al 17 de agosto. No hay fechas 2027 publicadas.
+  - Como postular: https://eligetucurso.sence.cl/?campaign=graduate
+  - Lectura automatica posible: none
+  - Aclaracion: La inscripción al examen en Mineduc es un trámite aparte y obligatorio; los cupos de la plataforma son ilimitados.
+  - Aclaracion: Las ventanas de inscripción 2026 ya cerraron y el calendario 2027 debe confirmarse en el sitio de Mineduc.
+  - Aclaracion: La tabla de fechas de la página se lee desordenada, por lo que no se pudo emparejar con certeza cada inscripción con su examen.
+- **Cursos SENCE con certificación ChileValora y Fórmate Sectorial (vía listado de personas sin trabajo)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://sence.gob.cl/personas/personassintrabajo
+  - Que es: Personas sin trabajo, con cursos en construcción, transporte, cuidados, tecnología y emprendimiento según convocatoria; incluye a quienes no tienen experiencia.
+  - Requisitos: Varían por programa. Fórmate Registro especial: tener 16 años o más, pertenecer al 60 % más vulnerable según el Registro Social de Hogares; no haber desertado sin justificación de un curso SENCE el mismo año ni estar cursando otro programa SENCE. Potencia+ y Cursos en línea: mayores de 18 años. Becas Laborales: personas en situación de riesgo, cesantes, que buscan trabajo por primera vez o con empleos de baja calificación. No se exige experiencia laboral en los casos vistos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Fórmate Registro especial: subsidio de $4.000 por día de capacitación, $5.000 por día de práctica, subsidio de cuidado de $5.000 diarios para quienes tienen personas a cargo y $360.000 para herramientas en cursos de trabajo independiente. Otros programas: sin datos.
+  - Plazo o ciclo: Abiertos sin fecha: Becas Laborales, Fórmate Registro Especial, Potencia+ y Orientación Laboral. Cerrados: Fórmate Sectorial (Cuidados), Multisectorial, Reinventate, Becas FCS, Construcción y Transporte.
+  - Como postular: https://eligetucurso.sence.cl/
+  - Lectura automatica posible: none
+  - Aclaracion: La certificación ChileValora solo aparece asociada a los programas Cuidados y Construcción, ambos cerrados, y no a los abiertos.
+  - Aclaracion: Que un programa no esté marcado como cerrado no prueba que esté abierto; hay que confirmarlo en eligetucurso.sence.cl.
+  - Aclaracion: El carácter anual de los ciclos no se vio de forma explícita.
+- **Becas Laborales (cursos gratuitos SENCE)** (sin verificar, verificada 1 vez) https://eligetucurso.sence.cl/
+  - Que es: Personas en riesgo, cesantes, que buscan su primer empleo o con trabajos de baja calificación, según el listado de SENCE.
+  - Requisitos: sin datos
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se pudo confirmar convocatoria abierta ni fechas.
+  - Como postular: https://eligetucurso.sence.cl/?program=BECAS%20LABORALES
+  - Lectura automatica posible: none
+  - Aclaracion: El buscador de cursos de SENCE no mostró resultados en la lectura automatizada, y la ruta sence.gob.cl/personas/becas-laborales devolvió 404.
+  - Aclaracion: No se pudo comprobar si hay cursos abiertos, requisitos ni beneficios.
+  - Aclaracion: No debe presentarse como abierta sin verificarlo en el buscador (filtro Programa) o llamando al 600 712 0028 o *8088.
+- **Servicio País y Prácticas, Fundación Superación de la Pobreza** (sin verificar, verificada 1 vez) https://serviciopais.superacionpobreza.cl/practicas/
+  - Que es: Estudiantes que buscan práctica laboral en la Región Metropolitana; Servicio País (jóvenes profesionales y técnicos) funciona por convocatoria anual.
+  - Requisitos: sin datos; la página no los detalla. Las prácticas se dirigen a estudiantes según el contexto de la sección, pero no se vio un requisito explícito.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Servicio País (jóvenes profesionales y técnicos): la página muestra las postulaciones como cerradas; no se vio fecha de la próxima convocatoria ni evidencia de ciclo anual. Prácticas: la página dice que hay ofertas de práctica laboral en la Región Metropolitana publicadas mediante Instagram, con postulación por correo indicado en esa publicación; el correo no figura en el sitio.
+  - Como postular: https://serviciopais.superacionpobreza.cl/practicas/
+  - Lectura automatica posible: none
+  - Aclaracion: La página de postulación a prácticas no pudo verificarse: el enlace devolvió una redirección mal formada y luego un 404.
+  - Aclaracion: El correo para postular a las prácticas publicadas en Instagram no figura en el sitio.
+  - Aclaracion: No está confirmada la recurrencia anual ni la remuneración.

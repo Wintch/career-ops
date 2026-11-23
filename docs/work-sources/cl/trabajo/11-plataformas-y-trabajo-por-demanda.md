@@ -1,0 +1,67 @@
+# Plataformas y trabajo por demanda
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **inDrive: ser conductor en Chile** (abierta o vigente, verificada 2 veces) https://indrive.com/es-cl/help/drivers/how-to-become-a-driver
+  - Que es: Personas mayores de edad con licencia de conducir válida y un vehículo.
+  - Requisitos: Licencia de conducir vigente, certificado de inscripción del vehículo y mínimo 18 años (pueden variar por ubicación). No se pide experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (registro en la app, sin fecha de cierre)
+  - Como postular: https://indrive.com/es-cl/help/drivers/how-to-become-a-driver
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los requisitos pueden variar según la ubicación.
+  - Aclaracion: El registro se hace en la app: 'Modo conductor', menú adicional, 'Registro en línea', subir documentos y esperar la aprobación del equipo.
+  - Aclaracion: No se vio información de pago ni de condiciones laborales.
+- **Cornershop (integrado a Uber Eats)** (abierta o vigente, verificada 2 veces) https://www.uber.com/cl/es/deliver/
+  - Que es: Quienes buscaban ser shoppers de compras de supermercado por encargo.
+  - Requisitos: Subir documentos y datos bancarios en la app; vehículo auto, moto o bicicleta con documentación al día. Edad mínima, lista exacta de documentos y condiciones para extranjeros: sin datos (no figuran en la página). No se vio mención de experiencia previa requerida.
+  - Pago o beneficio: Pago semanal por transferencia bancaria los jueves (monto por entrega: sin datos)
+  - Plazo o ciclo: Abierto todo el año (registro continuo en la app; sin fecha límite vista)
+  - Como postular: https://www.uber.com/cl/es/deliver/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La ruta verificada es la de repartidor de Uber Eats, no un proceso separado de Cornershop: cornershopapp.com redirige de forma permanente a ubereats.com y la página de Uber para repartidores en Chile no menciona Cornershop.
+  - Aclaracion: Las ganancias se acumulan de lunes a lunes y se transfieren los jueves; las entregas tienen seguro sin costo adicional.
+  - Aclaracion: Una página de Uber para Argentina mencionó una suscripción semanal de pago; no se confirmó que aplique a Chile.
+- **Ley 21.431: marco legal del trabajo en plataformas digitales (texto en Diario Oficial)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.diariooficial.interior.gob.cl/publicaciones/2022/03/11/43200/01/2099107.pdf
+  - Que es: Cualquier persona que trabaje o quiera trabajar para una plataforma digital de servicios (reparto, retiro y distribución de bienes, transporte menor de pasajeros u otros) y desee conocer sus derechos.
+  - Requisitos: No aplica (marco legal)
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: Referencia permanente. Diario Oficial N° 43.200, 11 de marzo de 2022 (CVE 2099107). Las modificaciones posteriores no se verificaron.
+  - Como postular: No aplica. Sirve de referencia para leer el contrato que ofrece cada plataforma.
+  - Lectura automatica posible: PDF oficial con texto extraíble (pdftotext). Texto consolidado en BCN: https://www.bcn.cl/leychile/navegar?idLey=21431 (no cargó en la lectura automática).
+  - Aclaracion: Es una referencia legal, no una oferta de empleo; no hay postulación.
+  - Aclaracion: El PDF oficial corresponde a la Ley N° 21.431, que modifica el Código del Trabajo para regular el contrato de trabajadores de empresas de plataformas digitales de servicios (7 páginas).
+  - Aclaracion: Las modificaciones posteriores a la ley no se verificaron.
+- **ACHS: obligaciones de seguridad de las plataformas digitales (Ley 21.431)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.achs.cl/noticias---noindex/cdigo-del-trabajo-conoce-las-modificaciones-para-el-contrato-de-trabajadores-en-empresas-de-plataformas-digitales-de-servicios
+  - Que es: Personas que repartan o presten servicios por plataforma y quieran saber qué protección de seguridad deben darles las empresas.
+  - Requisitos: No aplica (referencia informativa)
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: Referencia permanente. Noticia del 21 de septiembre de 2022; la ley rige desde el 1 de septiembre de 2022.
+  - Como postular: No aplica.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una noticia de 2022 que sirve como explicación, no como fuente oficial primaria (la oficial es el Diario Oficial).
+  - Aclaracion: Entre las obligaciones de las empresas figuran informar riesgos por escrito, capacitar, entregar casco, rodilleras y coderas a quien use bicicleta o moto, y contratar un seguro por daño a bienes personales de al menos 50 UF anuales.
+  - Aclaracion: No es una vía de empleo.
+- **PedidosYa: repartidores en Chile** (sin verificar, verificada 1 vez) https://www.pedidosya.cl/repartidores
+  - Que es: Personas que quieran repartir pedidos de comida y compras; el detalle de edad, vehículo y documentos no se pudo verificar.
+  - Requisitos: Según resultados de búsqueda, no verificado en la página oficial: mayor de 18 años, cédula de identidad vigente y certificado de antecedentes; licencia y permiso de circulación al día si se usa auto o moto; también bicicleta o a pie en algunas ciudades; extranjeros con planilla de extranjería en trámite pueden postular. No se pide experiencia según esos avisos.
+  - Pago o beneficio: sin datos (los avisos citan cifras referenciales, por ejemplo más de $1.200.000 brutos mensuales con 40 horas semanales; no confirmado en la página oficial)
+  - Plazo o ciclo: Se presenta como abierto de forma continua, pero no verificado directamente
+  - Como postular: https://www.pedidosya.cl/repartidores
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial no pudo cargarse (HTTP 403), por lo que los requisitos y las cifras de ingresos provienen de avisos de terceros y no están confirmados.
+  - Aclaracion: Algunos de esos avisos pueden estar desactualizados.
+  - Aclaracion: Las cifras de ingresos de los avisos no deben usarse como dato confirmado.
+- **Rappi: Rappitenderos y aliados en Chile** (sin verificar, verificada 1 vez) https://soyrappi.cl/
+  - Que es: Personas que quieran repartir con Rappi (Rappitenderos) y comercios aliados.
+  - Requisitos: sin datos (no se vieron requisitos de edad, documentos, residencia ni vehículo)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se vio fecha ni ciclo; el enlace de registro existe, pero no se pudo leer su contenido)
+  - Como postular: https://soyrappi.cl/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página entregada solo mostró el encabezado 'Partners Rappi' sin contenido sobre Chile.
+  - Aclaracion: El enlace 'Quiero ser Rappitendero' lleva a https://soyrappi.cl/, cuyo contenido no pudo leerse; no se confirmaron requisitos, pago ni cupos abiertos.
+  - Aclaracion: No hay evidencia que confirme que el registro esté abierto todo el año.

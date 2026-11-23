@@ -1,0 +1,115 @@
+# Comercio y supermercados
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Walmart Chile: portal de postulación (Líder, Express de Líder, aCuenta, Central Mayorista, centros de distribución, prácticas)** (abierta o vigente, verificada 2 veces) https://postulawalmartchile.cl/
+  - Que es: Postulantes externos a cargos de supermercados, plantas productivas, centros de distribución, oficinas corporativas y prácticas (estudiantes y recién egresados). Hay acceso separado para colaboradores internos.
+  - Requisitos: La página no detalla requisitos generales; cada aviso define los suyos. No se indica experiencia mínima en la portada. Prácticas dirigidas a estudiantes y recién egresados.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (portal permanente; sin fechas de cierre). Los avisos concretos cambian.
+  - Como postular: https://postulawalmartchile.cl/
+  - Lectura automatica posible: Ninguno visto
+  - Aclaracion: No se confirmó ningún aviso específico de vacante.
+  - Aclaracion: Las rutas disponibles son Corporativo, Supermercados/Plantas productivas/Centros de distribución y Prácticas.
+- **Cencosud Chile: portal de empleos (Jumbo, Santa Isabel, Spid, Paris, Easy)** (abierta o vigente, verificada 2 veces) https://empleos.cencosud.com/
+  - Que es: Postulantes a cargos en supermercados (Jumbo, Santa Isabel), tiendas por departamento (Paris, más de 40 tiendas según la página), mejoramiento del hogar (Easy) y oficinas. Enlace para colaboradores internos.
+  - Requisitos: No se declaran requisitos generales; cada cargo tiene su propio perfil de búsqueda y los reclutadores filtran los CV contra ese perfil.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fechas de cierre ni cantidad de vacantes. Cada proceso notifica su cierre ('te notificaremos cuando este se dé por cerrado').
+  - Como postular: https://empleos.cencosud.com/
+  - Lectura automatica posible: Ninguno visto
+  - Aclaracion: Es un portal de varios países: hay que elegir Chile en la lista.
+  - Aclaracion: La página no lista vacantes de Chile y deriva al sitio de carreras de Chile en csod.com.
+  - Aclaracion: Spid no aparece mencionado en la página.
+  - Aclaracion: El proceso descrito incluye revisión de CV contra el perfil, contacto telefónico, entrevistas, comité de selección, oferta y aviso de cierre a todos los postulantes.
+- **SMU (Unimarc, Alvi, Mayorista 10, Super 10): formulario de postulación 'Trabaja con nosotros'** (abierta o vigente, verificada 2 veces) https://rbksmu.rubrika.cl/postulacionGW.php?token=S1pzV0p3bERQdEo2Q2NteHNXbWdoZ2dqL0Vrd3BTdUxFdDhlRHl1TjQrVXFRWVZaVEQ0WitSdldMR0x3QWZScmh6OFNDSUJsNTFIcWpRYWt6eTJqWmc9PQ==
+  - Que es: Postulantes de todo el país. La empresa dice ser 'el único retail supermercadista presente en las dieciséis regiones del país' y declara ser inclusiva y diversa.
+  - Requisitos: Completar los campos obligatorios y aceptar la política de privacidad. Admite desde enseñanza básica incompleta hasta superior completa; no se pide experiencia explícita.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fecha de cierre visible; formulario 'Enviar postulaciones' disponible hoy.
+  - Como postular: https://rbksmu.rubrika.cl/postulacionGW.php?token=S1pzV0p3bERQdEo2Q2NteHNXbWdoZ2dqL0Vrd3BTdUxFdDhlRHl1TjQrVXFRWVZaVEQ0WitSdldMR0x3QWZScmh6OFNDSUJsNTFIcWpRYWt6eTJqWmc9PQ==
+  - Lectura automatica posible: Ninguno visto
+  - Aclaracion: Es una postulación espontánea, no un aviso con cargo específico.
+  - Aclaracion: Las opciones de cargo (gerente, subgerente, jefatura, profesional, técnico y oficina central) apuntan a niveles técnico o superior, no a cargos de local; para estos conviene revisar también el perfil de SMU en Trabajando.cl.
+  - Aclaracion: Pide RUT, región y comuna de residencia, y exige aceptar la política de privacidad.
+  - Aclaracion: El enlace lleva un token; si deja de funcionar, se puede usar el portal de SMU.
+- **SMU en Trabajando.cl (locales y oficinas de soporte; canal Starter para primer empleo)** (abierta o vigente, verificada 2 veces) https://www.trabajando.cl/trabajos-smu-1116
+  - Que es: Postulantes a procesos de selección nacionales para locales y oficinas de soporte; la ficha enlaza canales de empleos 'Starter', 'Mujeres STEM' y 'Profesionales Pro'.
+  - Requisitos: No se declaran requisitos en la página; cada aviso define los suyos. La ruta Starter está pensada para quienes buscan su primer empleo o son recién egresados (sin experiencia previa).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (contratación a nivel nacional declarada; vacantes rotativas).
+  - Como postular: https://www.trabajando.cl/trabajos-smu-1116
+  - Lectura automatica posible: Ninguno visto
+  - Aclaracion: No se vio ningún aviso concreto; la ruta abierta se basa en lo declarado por la propia página.
+  - Aclaracion: Para postular se requiere CV y cuenta en Trabajando.cl.
+  - Aclaracion: El canal Starter es la sección de la plataforma para primer empleo, prácticas y part time, con orientación laboral gratuita vía SENCE.
+  - Aclaracion: Los sellos Mujeres STEM y Profesionales Pro (50+ años) tienen cada uno su propio listado.
+- **Farmacias Ahumada: portal 'Trabaja con nosotros' (Buk)** (abierta o vigente, verificada 2 veces) https://farmaciasahumada.buk.cl/trabaja-con-nosotros
+  - Que es: Postulantes a cargos de farmacia y apoyo logístico. Se vieron 10 vacantes: Auxiliar de Farmacia (jornadas de 20, 30 horas o completa, en Calama, Lo Barnechea y Santiago), Auxiliar Trainee A, Servicios de Apoyo Logístico y Químico Farmacéutico full time en Santiago.
+  - Requisitos: sin datos (no figuran en el listado; se ven en cada aviso)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año; el 2026-11-23 mostraba 10 vacantes (auxiliar de farmacia en Santiago, Calama y Lo Barnechea; Auxiliar Trainee A; Servicios de Apoyo Logístico; Químico Farmacéutico).
+  - Como postular: https://farmaciasahumada.buk.cl/trabaja-con-nosotros
+  - Lectura automatica posible: Ninguno visto
+  - Aclaracion: El cargo Auxiliar Trainee A sugiere una vía de entrada, pero no se vio su detalle ni si exige experiencia.
+  - Aclaracion: Solo Químico Farmacéutico indica ubicación explícita (Santiago); en las demás vacantes la ciudad se deduce del título.
+- **Cencosud, Salcobrand y SMU en Trabajando.cl: portal general de empleo con canales Starter y Pro** (abierta o vigente, verificada 2 veces) https://www.trabajando.cl/
+  - Que es: Cualquier persona que busque empleo en Chile; el sitio dice tener canales para mujeres STEM, mayores de 50 y jóvenes (Starter). Aquí publican cadenas de retail como Salcobrand, SMU, Sodimac y Falabella Retail.
+  - Requisitos: Crear cuenta y completar currículum; cada aviso fija sus propios requisitos. El canal Starter está orientado a empleo joven, sin detalle de requisitos visto.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Portal permanente, sin fechas; incluye secciones de primer empleo, prácticas y Trabajando Starter.
+  - Como postular: https://www.trabajando.cl/
+  - Lectura automatica posible: Ninguno visto
+  - Aclaracion: La portada no menciona a Cencosud, Salcobrand ni SMU, por lo que no se confirmó que Cencosud y SMU publiquen en este portal.
+  - Aclaracion: Salcobrand sí enlaza sus ofertas a Trabajando.cl desde su página oficial.
+  - Aclaracion: Las empresas destacadas en la portada incluyen Casaideas, Clínica Alemana, CCU, Falabella Retail y Garces Fruit.
+- **Salcobrand (Empresas SB): trabaja con nosotros, vendedor integral y químico farmacéutico** (se repite (hoy sin llamado abierto), verificada 2 veces) https://empresassb.cl/trabaja/
+  - Que es: Postulantes a cargos de farmacia: Auxiliar de Farmacia Integral (categoría 'Experiencia' en la página) y Químico Farmacéutico (categoría 'Salud').
+  - Requisitos: sin datos (no se indican en la página; el detalle está en cada aviso de Trabajando.cl)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fechas de publicación ni de cierre; botones 'Postula aquí' y 'Ver vacantes' (Trabajando.cl).
+  - Como postular: https://empresassb.cl/trabaja/
+  - Lectura automatica posible: Ninguno visto
+  - Aclaracion: El cargo se llama Auxiliar de Farmacia Integral, no vendedor integral.
+  - Aclaracion: La página no indica requisitos, fechas ni experiencia; las ofertas completas se ven en Trabajando.cl.
+  - Aclaracion: También lista oportunidades en Preunic.
+- **Cencosud en Trabajando.cl: todas las vacantes (Jumbo, Santa Isabel, Spid, Paris, Easy, malls)** (sin verificar, verificada 1 vez) https://cencosud.trabajando.cl/trabajo-empleo
+  - Que es: Postulantes a vacantes de supermercados (Jumbo, Santa Isabel, Spid), tiendas Paris, Easy y centros comerciales.
+  - Requisitos: sin datos (se necesita cuenta en Trabajando.cl con CV; requisitos por aviso)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se vieron avisos en la lectura)
+  - Como postular: https://cencosud.trabajando.cl/trabajo-empleo
+  - Lectura automatica posible: Ninguno visto
+  - Aclaracion: No se pudo confirmar que haya vacantes abiertas ni que el portal cubra todas las marcas indicadas.
+  - Aclaracion: El listado probablemente se carga con JavaScript, por lo que conviene abrirlo en un navegador.
+  - Aclaracion: Para postular se pide crear una cuenta en Trabajando.cl.
+- **Grupo Falabella: portal 'Muévete' (Falabella, Sodimac, Tottus y otras empresas del grupo)** (sin verificar, verificada 1 vez) https://muevete.falabella.com/
+  - Que es: Postulantes a empleos en el grupo; el título de la página menciona países y una sección sobre Chile, categorías de empleo y requisitos.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://muevete.falabella.com/
+  - Lectura automatica posible: Ninguno visto
+  - Aclaracion: No se pudo confirmar contenido, marcas, vacantes ni forma de postulación; solo se conoce el título de la página.
+  - Aclaracion: Otra fuente indica que las vacantes actuales se ven en www.trabajos.falabella.cl, dominio que presentó error SSL.
+- **Falabella Retail S.A. en Trabajando.cl (perfil de empresa)** (sin verificar, verificada 1 vez) https://muevete.falabella.com/
+  - Que es: Postulantes a cargos en tiendas Falabella (la ficha indica 104 tiendas en Chile, Perú y Colombia).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.trabajando.cl/trabajos-falabella-retail-sa-1512
+  - Lectura automatica posible: Ninguno visto
+  - Aclaracion: Es un perfil de empresa, no un aviso; no se confirmó ninguna vacante abierta.
+  - Aclaracion: Las secciones de empleos por ubicación, sueldo y jornada aparecen vacías.
+  - Aclaracion: La página remite a www.trabajos.falabella.cl para ver vacantes.
+  - Aclaracion: Seguir a la empresa exige iniciar sesión.
+- **Sodimac S.A. en Trabajando.cl (perfil de empresa)** (sin verificar, verificada 1 vez) https://sodimac.trabajando.cl
+  - Que es: Postulantes a cargos en tiendas Sodimac (venta, reposición, atención al cliente, entre otros; los cargos concretos no se vieron).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://sodimac.trabajando.cl
+  - Lectura automatica posible: Ninguno visto
+  - Aclaracion: Es un perfil de empresa, no un aviso; no se confirmaron vacantes.
+  - Aclaracion: La sección de últimos empleos publicados aparece vacía.

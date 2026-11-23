@@ -1,0 +1,102 @@
+# Trabajo por cuenta propia y microemprendimientos
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Sercotec – Postulaciones abiertas (listado de convocatorias vigentes)** (abierta o vigente, verificada 2 veces) https://www.sercotec.cl/postulaciones-abiertas
+  - Que es: Quien quiera ver qué fondos están abiertos al 23/11/2026, por región y programa.
+  - Requisitos: Varía por convocatoria. Ñuble: persona natural o jurídica (o cooperativa) con inicio de actividades en primera categoría, ventas netas anuales entre 200 UF y 25.000 UF, rubro restaurantes, aporte del 5%, registro en sercotec.cl. Sin requisito de edad ni de experiencia visto.
+  - Pago o beneficio: Crece Sostenible Restaurantes Ñuble: $9.000.000 netos de subsidio no reembolsable; otros fondos: sin datos.
+  - Plazo o ciclo: En la portada se vieron noticias del 12/11/2026 (Nacionales y Coquimbo) y del 17/11/2026 (La Araucanía), y dos banners de convocatorias abiertas: 'Crece Sostenible Restaurantes de Ñuble (FNDR 2026)' y 'Convocatoria Agentes Operadores, Región de Antofagasta 2026'. Ninguno muestra fecha de cierre. El texto completo de la afirmación llegó truncado, por lo que solo se verificó lo visible.
+  - Como postular: https://www.sercotec.cl/postulaciones-abiertas
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página /postulaciones-abiertas no muestra un listado de convocatorias con fechas, solo el menú de programas; las convocatorias abiertas aparecen como banners de la portada, sin plazo de cierre visible.
+  - Aclaracion: La convocatoria de Agentes Operadores de Antofagasta es para operadores que ejecutan fondos, no para personas.
+  - Aclaracion: Crece Sostenible Restaurantes de Ñuble (FNDR 2026) prevé 52 empresas beneficiarias, hasta $1.500.000 para gestión empresarial y pasos que incluyen registro en sercotec.cl, test de preselección, video pitch y formulario con carpeta tributaria electrónica.
+  - Aclaracion: El estado y las fechas de los demás programas del menú (Capital Abeja Emprende, Capital Semilla Emprende, Capital Pioneras, Capital Semilla Modo Empleo, Crece, Digitaliza su Almacén, Kit Digital, MejoraNegocios) no se verificaron.
+- **FOSIS - Emprendamos (negocios en funcionamiento) y postulaciones** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.fosis.gob.cl/es/postulaciones/
+  - Que es: Personas con un negocio en funcionamiento que quieren fortalecerlo (versiones básica y avanzada).
+  - Requisitos: Persona con negocio en funcionamiento e inicio de actividades en el SII (versión antigua de la ficha); mayor de 18 años con cédula; vivir en una comuna donde opere el programa; pertenecer al 40 % más vulnerable del RSH o participar en Seguridades y Oportunidades; aportar recursos propios. Las oficinas regionales pueden agregar requisitos.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Según la ficha de Emprendamos: capacitación, asesorías personalizadas y financiamiento de $500.000 a $650.000 para el negocio, más material educativo y cuidado infantil en actividades grupales.
+  - Plazo o ciclo: Convocatoria anual. La de 2026 ('Programa Emprendamos 2026') decía 'Postula hasta el 8 de mayo', por lo que está cerrada al 2026-11-23. La página indica además que la preselección terminó y que puede haber cupos en algunos territorios (consulta por comuna). No se vio ninguna convocatoria 2027; la fecha de la próxima no está confirmada.
+  - Como postular: https://www.fosis.gob.cl/es/postulaciones/
+  - Lectura automatica posible: no
+  - Aclaracion: La página sigue listando 'Programa Emprendamos 2026' como abierto con el plazo del 8 de mayo, fecha que ya pasó; es un aviso desactualizado.
+  - Aclaracion: El ciclo anual se infiere del nombre con año (2026) y de las menciones de 2024 en las fichas; no se vio un calendario oficial futuro.
+  - Aclaracion: La página ofrece una herramienta de cupos por comuna.
+  - Aclaracion: Es apoyo al emprendimiento, no empleo dependiente.
+- **FOSIS - Acceso al Microcrédito (financiamiento para pequeños negocios)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.fosis.gob.cl/es/programas/emprendimiento-y-empleabilidad/acceso-al-microcredito/
+  - Que es: Personas naturales mayores de 18 años con un negocio o una idea de negocio que tienen dificultad para obtener financiamiento formal.
+  - Requisitos: Mayor de 18 años, persona natural; pertenecer al 60 % más vulnerable del Registro Social de Hogares; vivir en una comuna donde opere una institución asociada; tener un negocio en marcha o una idea de negocio. No es necesario haber participado en programas FOSIS. Cada institución puede pedir requisitos adicionales. No exige experiencia laboral ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: FOSIS no entrega el crédito: lo otorgan instituciones asociadas. Montos de unos $60.000 a $2.600.000 con interés de 1,4 % a 3,2 % (una sección antigua de la página habla de hasta $500.000, por lo que las cifras podrían no estar al día). Respuesta habitual en unas dos semanas.
+  - Plazo o ciclo: Opera de marzo a noviembre (la página no indica el año). Al 2026-11-23 queda poco del período; el ciclo se repite cada año a partir de marzo según la ficha.
+  - Como postular: https://www.fosis.gob.cl/es/programas/emprendimiento-y-empleabilidad/acceso-al-microcredito/
+  - Lectura automatica posible: no
+  - Aclaracion: FOSIS no entrega el crédito; se postula directamente en las instituciones asociadas (Banigualdad, Fondo Esperanza y Oriencoop), cada una con cobertura regional distinta.
+  - Aclaracion: Es un crédito, no un subsidio.
+- **Sercotec - Capital Semilla Emprende y Capital Abeja Emprende (formalizar un negocio nuevo)** (se repite (hoy sin llamado abierto), verificada 1 vez) https://www.sercotec.cl/capital-semilla-emprende
+  - Que es: Capital Semilla Emprende: personas desde 18 años con una idea de negocio que aún no inician actividades en el SII. Capital Abeja Emprende (https://www.sercotec.cl/capital-abeja-emprende): lo mismo, solo para mujeres (sexo registral femenino).
+  - Requisitos: Persona emprendedora de 18 años o más, sin inicio de actividades en primera categoría ante el SII, con un proyecto de negocio acorde al foco de la convocatoria de su región. No se pide experiencia ni título. Según resultados de búsqueda, no deben existir deudas laborales ni previsionales ni multas impagas al postular. Modo Empleo es para personas desempleadas. Las bases regionales definen el detalle.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Subsidio no reembolsable de $3.500.000 CLP según la página oficial: $200.000 a $500.000 para gestión empresarial (asistencia técnica, capacitación, marketing, formalización) y $3.000.000 a $3.300.000 para activos, infraestructura y capital de trabajo. Modo Empleo: $3.000.000 (visto en resultado de búsqueda, no en la página oficial). El monto exacto lo fijan las bases regionales. Hay aporte del beneficiario según las bases.
+  - Plazo o ciclo: Convocatoria anual con fechas por año y región. La de 2026 de Capital Semilla Emprende estuvo abierta del 29-04-2026 al 13-05-2026 (según ficha de Ventanilla Única Social vista en resultado de búsqueda) y al 23/11/2026 figura cerrada. Capital Semilla Modo Empleo 2026 (para personas desempleadas) abrió el 25-08-2026 y cerró el 08-09-2026. Hay bases 2025 y 2026 publicadas. Al 23/11/2026 no se vio convocatoria abierta; próximo ciclo probable entre abril y mayo de 2027 (no confirmado).
+  - Como postular: https://www.sercotec.cl/postulaciones-abiertas/
+  - Lectura automatica posible: no
+  - Aclaracion: No es un empleo sino un fondo para iniciar un negocio.
+  - Aclaracion: El monto de $3.000.000 de Modo Empleo se vio solo en un resultado de búsqueda, no en la página oficial, y Capital Abeja Emprende no se verificó con página propia.
+  - Aclaracion: La página de Capital Semilla Emprende no lista fechas y remite a 'Postulaciones abiertas', que tampoco mostraba convocatorias específicas.
+  - Aclaracion: La postulación es en línea y gratuita, con perfil en sercotec.cl, formulario, test y plan de trabajo con video pitch (según Meganoticias).
+- **Sercotec – Ferias Libres, Barrios Comerciales y cooperativas (fondos para organizaciones)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.sercotec.cl/ferias-libres
+  - Que es: Organizaciones de pequeños comerciantes y productores: ferias libres, barrios comerciales, gremios y cooperativas (incluye Creación y fortalecimiento de cooperativas y Cooperativas Culturales).
+  - Requisitos: Organización legalmente constituida (feria libre, barrio comercial o cooperativa); inicio de actividades en primera categoría ante el SII; aporte propio (5% en cooperativas; 2% a 20% en Barrios Comerciales). No se pide experiencia, pero sí formalización.
+  - Pago o beneficio: Subsidio no reembolsable: Barrios Comerciales hasta $80 millones; cooperativas $8 millones (creación) o $20 millones (fortalecimiento); Ferias Libres sin datos.
+  - Plazo o ciclo: Fondos concursables permanentes de Sercotec; las convocatorias se abren por región y sin plazo visible en las fichas. Plazos concretos: sin datos (revisar 'Postulaciones abiertas' o la oficina regional).
+  - Como postular: https://www.sercotec.cl/postulaciones-abiertas
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un fondo para organizaciones, no para personas sin emprendimiento ni organización.
+  - Aclaracion: La página está vigente, pero no muestra una convocatoria abierta con fechas para Ferias Libres, y no se vieron cupos ni plazos de 2026 para los tres fondos.
+  - Aclaracion: Barrios Comerciales exige una organización legalmente constituida o con mandato, con al menos 15 establecimientos con inicio de actividades en primera categoría; para Ferias Libres no figuran monto ni requisitos.
+  - Aclaracion: Los enlaces de la página de Ferias Libres pueden estar rotos (la ley 21.745 apunta al archivo de la ley 21.815).
+- **Sercotec - Capital Semilla Modo Empleo (nuevos negocios para quienes no cotizan)** (sin verificar, verificada 1 vez) https://www.sercotec.cl/capital-semilla-modo-empleo
+  - Que es: Personas desde 18 años que aún no han iniciado actividades en primera categoría en el SII, sin cotizaciones previsionales en los 6 meses previos a la convocatoria, y que pertenezcan a un segmento prioritario: jóvenes de 18 a 29 años, mujeres de 30 a 54 años o mayores de 55 años.
+  - Requisitos: Mayor de 18 años; sin inicio de actividades en primera categoría ante el SII; sin cotizaciones previsionales de ningún tipo en los 6 meses anteriores al inicio de la convocatoria; pertenecer a uno de los segmentos priorizados: jóvenes de 18 a 29 años, mujeres de 30 a 54 años o personas de 55 años o más; pagar por cuenta propia los impuestos asociados al proyecto. No exige experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Subsidio total de $3.000.000: entre $2.500.000 y $2.800.000 para inversión, habilitación y capital de trabajo, y entre $200.000 y $500.000 para gestión empresarial. El beneficiario debe hacer un aporte propio cuyo porcentaje fija cada convocatoria.
+  - Plazo o ciclo: Convocatorias por región; no se vio ninguna convocatoria abierta ni fechas ni año. La página de 'Postulaciones abiertas' solo muestra el menú de programas (Capital Semilla Modo Empleo aparece en 'Quiero emprender') sin plazos.
+  - Como postular: https://www.sercotec.cl/postulaciones-abiertas/
+  - Lectura automatica posible: no
+  - Aclaracion: Es un fondo concursable, no una postulación abierta todo el año.
+  - Aclaracion: Se postula en las convocatorias regionales de Sercotec; la ficha remite a las oficinas de Sercotec y a 'Postulaciones abiertas'.
+  - Aclaracion: No se pudo confirmar una convocatoria abierta al 2026-11-23.
+- **Sercotec – Capital Abeja Emprende** (sin verificar, verificada 1 vez) https://www.sercotec.cl/capital-abeja-emprende
+  - Que es: Mujeres que quieren crear y formalizar un negocio nuevo.
+  - Requisitos: Mujer según sexo registral; mayor de 18 años; sin inicio de actividades en primera categoría ante el SII; proyecto acorde al foco de la convocatoria regional. No se vio exigencia de experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Subsidio de $3.500.000 CLP: $200.000 a $500.000 en gestión (asistencia técnica, capacitación, marketing, formalización) y $3.000.000 a $3.300.000 en activos, infraestructura y capital de trabajo. Con copago según las bases.
+  - Plazo o ciclo: sin datos: sin fechas en la página; convocatorias regionales
+  - Como postular: https://www.sercotec.cl/postulaciones-abiertas/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un fondo concursable para negocios nuevos liderados por mujeres, aún no formalizados.
+  - Aclaracion: Existe en el sitio oficial, pero no se vio ninguna convocatoria abierta con fecha ni evidencia de ciclo anual; las convocatorias son regionales.
+- **Sercotec – Crece y programas para negocios formalizados (Digitaliza tu Almacén, Negocios Digitales, Pymes Globales, MejoraNegocios, Promoción y canales)** (sin verificar, verificada 1 vez) https://www.sercotec.cl/crece
+  - Que es: Micro y pequeños negocios ya formalizados, incluidas cooperativas. Digitaliza su Almacén apunta a pequeños negocios de barrio; Negocios Digitales apoya la entrada a marketplaces nacionales; Pymes Globales, a plataformas de venta internacionales; Promoción y canales, a ferias y exposiciones.
+  - Requisitos: Solo para negocios ya formalizados con inicio de actividades en primera categoría ante el SII. Crece, Negocios Digitales, Pymes Globales y MejoraNegocios: ventas anuales entre 200 y 25.000 UF. Crece exige haber aprobado 3 cursos gratuitos del Portal de Capacitación. Digitaliza su Almacén: almacén con más de 12 meses, ventas hasta 5.000 UF y curso 'Almacenes de Chile'. Negocios Digitales: haber sido cliente de un Centro de Desarrollo de Negocios por al menos 12 meses. No sirven para quien aún no tiene negocio formal.
+  - Pago o beneficio: Crece: subsidio no reembolsable de $5.000.000 CLP (hasta $1.000.000 en gestión; el resto en inversión y capital de trabajo). Digitaliza su Almacén: $3.000.000. MejoraNegocios: hasta $400.000 (asesorías generales) o hasta $1.500.000 (asesorías especializadas), con aporte del negocio de 10% a 30%. Negocios Digitales: apoyos de hasta $500.000 netos por línea (equipamiento, software, campaña digital). Pymes Globales y Promoción y canales: monto no indicado.
+  - Plazo o ciclo: sin datos: ninguna de las páginas indica convocatoria abierta, plazo ni ciclo anual; los llamados son por programa y región. Las páginas de Negocios Digitales y Pymes Globales llevan '2025' en la URL y no confirman la edición 2026.
+  - Como postular: https://www.sercotec.cl/postulaciones-abiertas/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Ninguna de las páginas muestra convocatoria abierta con fecha, y el listado 'Postulaciones abiertas' no trae fechas.
+  - Aclaracion: Los llamados son por programa y región; se recomienda consultar el calendario regional o un Punto Mipe.
+  - Aclaracion: La página de Crece también lista un Portal de Capacitación con cursos gratuitos de Sercotec.
+- **FOSIS – Ferias de Emprendimiento y programas de Emprendimiento y Empleabilidad** (sin verificar, verificada 1 vez) https://www.fosis.gob.cl/es/programas/emprendimiento-y-empleabilidad/
+  - Que es: Listado de seis programas: Emprendamos Semilla, Emprendamos, Emprendamos Grupal, Ferias de Emprendimiento (espacios para vender productos), Acceso al Microcrédito y Apoyo a su Plan Laboral (para participantes del subsistema Seguridades y Oportunidades que buscan empleo).
+  - Requisitos: Varía por programa; los programas de personas piden en general tener un negocio y ser del tramo vulnerable del Registro Social de Hogares; Apoyo a su Plan Laboral exige participar en el Subsistema Seguridades y Oportunidades. Detalles: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página es un índice sin fechas ni estado de cada programa.
+  - Como postular: https://www.fosis.gob.cl/es/postulaciones/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página es un índice oficial sin fechas ni estado de cada programa; las convocatorias vigentes están en la página de postulaciones.
+  - Aclaracion: Apoyo a su Plan Laboral es solo para participantes del Subsistema Seguridades y Oportunidades con Plan Laboral, y su enlace está en 'archivo-programas', por lo que podría estar archivado.
+  - Aclaracion: No se pudo confirmar ninguna convocatoria para Ferias de Emprendimiento ni para Emprendamos Grupal.

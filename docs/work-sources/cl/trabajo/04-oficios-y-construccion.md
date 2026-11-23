@@ -1,0 +1,148 @@
+# Oficios y construccion
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **SENCE - Buscador de cursos gratuitos (Elige Mejor / Elige tu curso)** (abierta o vigente, verificada 2 veces) https://eligemejor.sence.cl/
+  - Que es: Cualquier persona que busque cursos gratuitos financiados por SENCE, incluidos cursos del área Construcción.
+  - Requisitos: Varía según el curso. Ingreso con Clave Única. No se vieron requisitos generales de edad ni de experiencia.
+  - Pago o beneficio: Cursos gratuitos; los subsidios dependen de cada programa. Los montos no se vieron en esta página.
+  - Plazo o ciclo: Buscador abierto todo el año; las convocatorias y fechas de cada curso cambian y no aparecen en la portada.
+  - Como postular: https://eligemejor.sence.cl/
+  - Lectura automatica posible: No se vio API ni feed público.
+  - Aclaracion: Cada curso tiene un apartado "Requisitos para postular" que no se mostró en la portada.
+  - Aclaracion: Los subsidios dependen de cada programa y sus montos no aparecen en esta página.
+  - Aclaracion: Una página hermana (eligetucurso.sence.cl) funciona como buscador por programa.
+  - Aclaracion: Consultas: *8088 o 600 71 200 28.
+- **Oficinas Municipales de Información Laboral (OMIL)** (abierta o vigente, verificada 2 veces) https://www.sence.gob.cl/personas/omil
+  - Que es: Cualquier persona que quiera ampliar sus oportunidades de empleo o capacitación. Es la puerta de entrada más cercana para quien no tiene experiencia ni título.
+  - Requisitos: La página no indica requisitos formales; pueden acudir personas que buscan empleo o capacitación. No se exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Servicio gratuito.
+  - Plazo o ciclo: Sin ciclo ni plazo; horario publicado por oficina en el directorio de la página.
+  - Como postular: https://www.sence.gob.cl/personas/omil
+  - Lectura automatica posible: El directorio se ofrece como planillas descargables y PDF; en bne.gob.cl hay también https://bne.gob.cl/listado-omil.
+  - Aclaracion: El horario depende de cada oficina: algunas atienden solo en la mañana, otras tienen horarios distintos el viernes y algunas figuran sin información.
+  - Aclaracion: Algunas entradas del directorio no traen teléfono u horario, por lo que conviene confirmar antes de asistir.
+  - Aclaracion: El sitio incluye un directorio por región y comuna y un listado descargable en Excel.
+- **Trabajos en Obra - bolsa de empleo de la construcción (CChC)** (abierta o vigente, verificada 2 veces) https://trabajosenobra.cl
+  - Que es: Personas que trabajan o quieren trabajar en obras de construcción; empresas constructoras publican ofertas.
+  - Requisitos: La página no lista criterios de elegibilidad ni experiencia mínima; cada oferta fija los suyos. Requiere registro con CV.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año. La página mostraba 2.529 ofertas publicadas, 612 empresas y 26.438 personas registradas.
+  - Como postular: https://trabajosenobra.cl
+  - Lectura automatica posible: No se vio API ni feed público.
+  - Aclaracion: La página no informa si el registro o la postulación tienen costo.
+  - Aclaracion: No se abrió ninguna oferta individual, por lo que no se conocen sus requisitos.
+  - Aclaracion: Las personas registradas pueden recibir ofertas por WhatsApp y ser encontradas por empresas.
+- **Fundación CChC - capacitación, Escuela de Oficios y Transición Laboral** (abierta o vigente, verificada 2 veces) https://www.fundacioncchc.cl/soy-trabajador
+  - Que es: Trabajadores de la construcción, en general de empresas socias de la CChC y sus familias. Incluye un curso para quienes entran al oficio.
+  - Requisitos: Cursos de jornales y ayudantes: sin experiencia previa declarada, pero requieren que la empresa del trabajador ofrezca el beneficio. Escuela de Oficios B-Learning: al menos 1 año de experiencia en el oficio a certificar y ser cesante con finiquito de una empresa socia de no más de 1 año, o trabajar en una pyme constructora socia. Transición Laboral: haber sido desvinculado de una empresa socia de la CChC. Nivelación de Estudios: necesitar el Cuarto Medio con fines laborales. Pre Técnico: orientado a ingresar a educación superior.
+  - Pago o beneficio: Capacitación gratuita para el trabajador en Transición Laboral, con aporte de 35.000 pesos chilenos al término del proceso. Costo de los otros cursos: sin datos.
+  - Plazo o ciclo: Programas permanentes sin fechas de convocatoria publicadas en la página; no se vio la disponibilidad de cupos.
+  - Como postular: https://www.escuelacchc.cl (Escuela de Oficios); formulario de contacto https://www.fundacioncchc.cl/formulario; teléfono +56 2 2718 7530
+  - Lectura automatica posible: No se vio API ni feed público.
+  - Aclaracion: El acceso es mayormente vía empresas socias de la CChC y no está abierto a cualquier persona; los cursos de jornales y ayudantes solo se acceden si la empresa del trabajador ofrece el beneficio.
+  - Aclaracion: Transición Laboral está dirigida a personas desvinculadas de una empresa socia, con aporte de 35.000 pesos al final del proceso.
+  - Aclaracion: No se indica que se pueda postular sin vínculo con una empresa socia, salvo consultando por el formulario de contacto.
+  - Aclaracion: No se confirmó la remisión a escuelacchc.cl ni se vieron cupos por oficio, fecha y ciudad.
+- **Ingevec - Trabaja con nosotros (constructora)** (abierta o vigente, verificada 2 veces) https://www.ingevec.cl/contacto/trabaja-con-nosotros
+  - Que es: Personas que buscan trabajo en obra o en oficina en una constructora grande. Ingevec figura como empresa destacada en la bolsa de empleo de la CChC.
+  - Requisitos: Trainee: ingenieros recién egresados o con hasta 2 años de experiencia. Prácticas: estudiantes de Construcción Civil, Ingeniería Civil y CFT. Otros cargos: no se detallan.
+  - Pago o beneficio: sin datos (el formulario pide pretensiones de renta)
+  - Plazo o ciclo: Abierto todo el año: portal de ofertas más formulario para enviar CV sin oferta específica.
+  - Como postular: https://ingevec.trabajando.cl ; formulario de CV en https://www.ingevec.cl/contacto/trabaja-con-nosotros
+  - Lectura automatica posible: No se vio API ni feed público.
+  - Aclaracion: No se confirmó ninguna vacante abierta al 23/11/2026; la página no mostró vacantes específicas y el portal trabajando.cl no tenía ofertas visibles.
+  - Aclaracion: El formulario de CV pide pretensiones de renta y archivo PDF de hasta 10 MB; la empresa indica que contactará si surge una oferta compatible.
+  - Aclaracion: El Programa Trainee y las prácticas profesionales están orientados a titulados y estudiantes; para personal de obra la página no detalla requisitos.
+- **Chiletrabajos - ofertas de operarios y técnicos** (abierta o vigente, verificada 2 veces) https://www.chiletrabajos.cl
+  - Que es: Cualquier persona; la categoría Operarios (3.301 ofertas) y la de Profesionales y Técnicos (6.004) son las más cercanas a los oficios. Se vieron avisos de técnico instalador de gas SEC clase 3.
+  - Requisitos: Crear cuenta para postular; los requisitos dependen de cada oferta. No se exige experiencia a nivel de sitio.
+  - Pago o beneficio: Varía según la oferta; sin datos como valor general.
+  - Plazo o ciclo: Abierto todo el año; ofertas con fecha del 22 de noviembre de 2026 en la portada.
+  - Como postular: https://www.chiletrabajos.cl
+  - Lectura automatica posible: No se vio API ni feed público.
+  - Aclaracion: Es una bolsa de empleo general, no un empleador, y se pide crear cuenta para postular.
+  - Aclaracion: El costo para candidatos no se indica; la gratuidad solo se anuncia para empresas que publican.
+  - Aclaracion: Las cifras de ofertas provienen de una captura, no de una lectura en tiempo real.
+- **Ferias laborales SENCE** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.sence.gob.cl/personas/ferias-laborales-sence
+  - Que es: Cualquier persona que busque trabajo; ferias presenciales, virtuales o híbridas por región.
+  - Requisitos: Inscribirse o actualizar el CV en la BNE. La página no indica edad, estudios ni experiencia mínima.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito para asistentes; cada oferta fija su sueldo y no se vieron montos.
+  - Plazo o ciclo: Calendario anual por región (la página no muestra fecha de publicación). Próximas al 2026-11-23: Coquimbo, 23 nov, 10:00 a 16:00, Plaza de Armas (Juan Melgarejo 955), presencial y en línea hasta las 24:00; Aysén, 26 nov, 10:00 a 17:00, Paseo Horn, Coyhaique. El listado conserva ferias ya realizadas en octubre (Maule, Araucanía, Valparaíso, Los Ríos, Arica) y el 13 nov (La Unión, Los Ríos).
+  - Como postular: https://bne.gob.cl
+  - Lectura automatica posible: No se vio API ni feed público.
+  - Aclaracion: Las ferias son regionales y la página no muestra fecha de publicación; el listado conserva ferias ya realizadas.
+  - Aclaracion: Se puede postular a los puestos en la BNE desde el día de la feria presencial y durante los 3 días siguientes.
+  - Aclaracion: Quienes viven en otras regiones pueden postular todo el año por la BNE.
+  - Aclaracion: Consultas: 600 712 0028 o *8088.
+- **SENCE - Fórmate para el Trabajo, Registro Especial (cursos de oficios gratuitos con subsidio)** (sin verificar, verificada 1 vez) https://www.sence.gob.cl/personas/formate-para-el-trabajo-registro-especial
+  - Que es: Personas de 16 años o más, sin estudios de educación superior, en situación de vulnerabilidad. Sirve como primer empleo o cambio de rubro.
+  - Requisitos: Tener 16 años o más y pertenecer al 60% más vulnerable según el Registro Social de Hogares. No se exige experiencia. Otro listado de SENCE indica además 'sin estudios de educación superior'. Ingreso con Clave Única.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Subsidio de $4.000 por día de capacitación asistido; $5.000 por día de práctica; subsidio de cuidado de $5.000 diarios para quienes cuidan a otras personas; $360.000 para herramientas en cursos de trabajo independiente.
+  - Plazo o ciclo: La página no informa fechas ni si la convocatoria está abierta. El botón 'POSTULA AQUÍ' está visible y en el listado de programas no figura como cerrado, pero no se confirmó una convocatoria vigente.
+  - Como postular: https://eligetucurso.sence.cl/
+  - Lectura automatica posible: No se vio API ni feed público.
+  - Aclaracion: No se confirmó una convocatoria vigente; la página no informa fechas.
+  - Aclaracion: Quedan excluidas las personas que abandonaron sin justificación un curso financiado por SENCE en el mismo año calendario y quienes participan al 23/11/2026 en otro curso SENCE.
+  - Aclaracion: La postulación remite a eligetucurso.sence.cl, cuya portada no mencionó el programa ni fechas.
+  - Aclaracion: Consultas: 600 712 0028 o *8088 desde celular.
+- **SENCE - Programas de cursos para personas (Becas Laborales, Fórmate para el Trabajo y modalidades de construcción)** (sin verificar, verificada 1 vez) https://www.sence.gob.cl/personas/cursos
+  - Que es: Cesantes, personas que buscan su primer empleo o con empleos de baja calificación (Becas Laborales); mayores de 16 años sin educación superior (Fórmate Registro Especial).
+  - Requisitos: Varía según el programa; los requisitos de Becas Laborales no se vieron en detalle. Ingreso con Clave Única.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fechas en la página. Cerradas según la etiqueta: Fórmate para el Trabajo en modalidades Construcción, Formación multisectorial, Formación sectorial Cuidados y Transporte (licencias A3 y A5), además de Talento Digital Reinvéntate, Becas FCS, Discapacidad, Educación Continua, Emprende y Diplomados Sociedad Digital. No marcados como cerrados: Becas Laborales, Registro Especial, Potencia+, Microsoft y Sence, Cursos en línea, Orientación Laboral (Conexión Laboral) y Despega MIPE en línea.
+  - Como postular: https://eligetucurso.sence.cl/
+  - Lectura automatica posible: No se vio API ni feed público.
+  - Aclaracion: "No marcado como cerrado" no equivale a una convocatoria abierta confirmada.
+  - Aclaracion: La ficha de Becas Laborales no pudo abrirse (la URL probada dio 404), por lo que no se verificaron montos ni plazos.
+  - Aclaracion: Potencia+ (desde 18 años), Cursos en línea (mayores de 18) y Educación Continua (mayores de 16, cerrado) tienen requisitos distintos.
+  - Aclaracion: Consultas: 600 712 0028 o *8088.
+- **ChileValora - certificación de competencias laborales de oficios** (sin verificar, verificada 1 vez) https://chilevalora.gob.cl/
+  - Que es: Trabajadores que ya ejercen un oficio (albañil, instalador de gas clase 3, entre otros perfiles del catálogo) y quieren un certificado oficial, sin necesidad de título. Sirve de vía hacia licencias SEC.
+  - Requisitos: sin datos
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: No verificado. El sitio respondió 403 a las lecturas automáticas (dos intentos, también desde chilevalora.cl, que redirige a chilevalora.gob.cl).
+  - Como postular: sin datos
+  - Lectura automatica posible: No se vio API ni feed público.
+  - Aclaracion: No fue posible leer la página oficial ni verificar convocatorias, requisitos o costos.
+  - Aclaracion: No se confirma que el servicio esté abierto todo el año.
+  - Aclaracion: SENCE informa el teléfono 600 712 0028 y buzonciudadano.sence.cl para consultas.
+- **SEC - licencia de instalador eléctrico (clases A, B, C y D)** (sin verificar, verificada 1 vez) https://www.chileatiende.gob.cl/fichas/2662-licencia-de-instalador-electrico
+  - Que es: Quienes quieren trabajar legalmente como instaladores eléctricos. La clase D permite ejecutar instalaciones de tipos F y G, pero no diseñarlas ni dirigirlas.
+  - Requisitos: sin datos
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: No verificado. ChileAtiende devolvió 403 y sec.cl rechazó la conexión (ECONNREFUSED); no hubo búsqueda disponible.
+  - Como postular: sin datos
+  - Lectura automatica posible: No se vio API ni feed público.
+  - Aclaracion: La ficha oficial no pudo leerse, por lo que no se confirmaron requisitos, costos ni clases.
+  - Aclaracion: No se confirmó que el trámite pueda hacerse todo el año en línea.
+  - Aclaracion: Es una licencia habilitante, no una oferta de empleo.
+- **SEC - licencia de instalador de gas (clases 1, 2 y 3)** (sin verificar, verificada 1 vez) https://www.chileatiende.gob.cl/fichas/2641-licencia-de-instalador-de-gas
+  - Que es: Gasfíteres e instaladores que quieren trabajar legalmente con gas. La clase 3 cubre instalaciones menores y es la que piden muchos avisos de empleo.
+  - Requisitos: sin datos
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: No verificado. ChileAtiende devolvió 403 y sec.cl rechazó la conexión; no hubo búsqueda para confirmar el curso de 60 horas de preparación para clase 3 en USACH.
+  - Como postular: sin datos
+  - Lectura automatica posible: No se vio API ni feed público.
+  - Aclaracion: La ficha oficial no pudo leerse, por lo que no se confirmaron clases, requisitos, costos ni cursos preparatorios.
+  - Aclaracion: El curso de 60 horas de preparación para clase 3 en USACH no pudo verificarse.
+  - Aclaracion: Es una licencia habilitante, no una oferta de empleo.
+- **Programa Maestros/as para la construcción de viviendas de calidad (Trabajo, Minvu, SENCE, ChileValora, CChC)** (sin verificar, verificada 1 vez) https://www.mintrab.gob.cl/gobierno-anuncia-mas-de-8-mil-cupos-gratuitos-para-capacitarse-como-maestras-y-maestros-de-construccion/
+  - Que es: Mujeres y hombres que quieren capacitarse en oficios de la construcción; cupo del 20% para mujeres desde 2023 y subsidio de cuidado infantil.
+  - Requisitos: El comunicado no lista requisitos de elegibilidad. Dirigido a mujeres y hombres; sin experiencia exigida en lo visto.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Capacitación gratuita (beca); subsidio de cuidado infantil según el comunicado de 2022.
+  - Plazo o ciclo: Comunicado del 4 de agosto de 2022 que declara vigencia hasta 2026. No se encontró evidencia de una convocatoria abierta al 2026-11-23 ni de continuidad después de 2026.
+  - Como postular: https://www.sence.cl ; buscador de cursos https://eligetucurso.sence.cl
+  - Lectura automatica posible: No se vio API ni feed público.
+  - Aclaracion: Es un anuncio de 2022 y no se encontró evidencia de una convocatoria abierta al 2026-11-23 ni de continuidad después de 2026.
+  - Aclaracion: La página de inicio de SENCE leída al 23/11/2026 no menciona Fórmate para el Trabajo, Becas Laborales ni construcción.
+  - Aclaracion: Como alternativa vigente en SENCE figuran cursos en línea gratuitos para mayores de 18 años y el buscador de cursos en eligetucurso.sence.cl.

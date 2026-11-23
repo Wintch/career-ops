@@ -1,0 +1,59 @@
+# Estaciones de servicio y tiendas de conveniencia
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Enex - Únete a nuestra franquicia (Shell, upa!, Lavapro)** (abierta o vigente, verificada 2 veces) https://www.enex.cl/unete-a-nuestra-franquicia/
+  - Que es: Emprendedores o personas independientes que quieran operar una estación Shell y negocios asociados (tienda upa!, Lavapro, naves de lubricación, Shell Autoservicio, carga eléctrica). No es una oferta de empleo dependiente. Sirve para entender quién contrata al personal de cada estación.
+  - Requisitos: Emprendedor independiente con dedicación exclusiva; experiencia en gestión comercial y operativa; capacidad de liderar equipos de hasta 30 personas.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Ingresos del negocio propio; la página no entrega cifras.
+  - Plazo o ciclo: Sin fecha de cierre ni de inicio visible; la página invita a postular ('postula y cuéntanos tu motivación') y menciona una red de más de 450 estaciones Shell, pero no indica expresamente que haya un proceso abierto.
+  - Como postular: https://www.enex.cl/unete-a-nuestra-franquicia/
+  - Lectura automatica posible: none
+  - Aclaracion: No es una oferta de empleo dependiente: busca franquiciados, es decir, empresarios independientes con dedicación exclusiva.
+  - Aclaracion: La página no declara recepción continua ni fechas, por lo que no debe entenderse como convocatoria abierta todo el año.
+  - Aclaracion: Se postula mediante un formulario externo de Google Forms, explicando la motivación.
+  - Aclaracion: No es apta como primer empleo sin experiencia.
+- **Bolsa Nacional de Empleo (BNE)** (abierta o vigente, verificada 2 veces) https://www.chileatiende.gob.cl/fichas/5072
+  - Que es: Cualquier persona que busque trabajo, con filtros por grupo (jóvenes, mujeres, personas mayores, migrantes, pueblos indígenas, personas con antecedentes penales, personas con discapacidad). Incluye la ocupación 'Bomberos (as) de estacion de servicios', además de vendedores y trabajadores de tiendas y almacenes, cajeros y reponedores.
+  - Requisitos: Registro con cédula de identidad, pasaporte o DNI, o con Clave Única; completar datos personales, curriculares y académicos. No se exige experiencia ni título para registrarse; cada oferta fija sus requisitos.
+  - Pago o beneficio: Gratuito para quien busca empleo (según ChileAtiende).
+  - Plazo o ciclo: Abierto todo el año; ofertas con fecha de publicación del 2026-11-23 vistas en la portada; la página anuncia 'La nueva BNEya'.
+  - Como postular: https://www.bne.cl
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal anuncia 'La nueva BNEya', una versión en prueba aún no lanzada.
+  - Aclaracion: Las fechas de publicación aparecen como '23 nov.' sin año visible.
+  - Aclaracion: La inscripción puede hacerse también en la OMIL de la comuna, y es requisito para ciertos beneficios, como el Fondo de Cesantía Solidario.
+  - Aclaracion: Soporte: +56 2 2240 5520 o soporte@bne.cl (según ChileAtiende).
+- **Enex (Shell Chile) - Trabaja con nosotros** (se repite (hoy sin llamado abierto), verificada 2 veces) https://empleos.nacionenex.cl/Enex
+  - Que es: Cualquier persona que quiera postular a cargos de Enex. La página agrupa los empleos por gerencia (Operaciones, Ventas EDS, Ventas Tiendas, Recursos Humanos, entre otras). No lista cargos de playa ni de tienda de forma explícita.
+  - Requisitos: Tener perfil creado en la plataforma y cumplir los requisitos de cada cargo; no hay requisitos generales de estudios o experiencia en la página.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fechas ni cantidad de vacantes; 11 categorías de empleo y enlace 'Ver todas las ofertas de empleo'.
+  - Como postular: https://empleos.nacionenex.cl/Enex
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se confirmaron vacantes concretas abiertas el 2026-11-23.
+  - Aclaracion: La página no declara postulación continua ni espontánea: exige crear un perfil para postular a cada oferta.
+  - Aclaracion: No muestra número de vacantes; el listado completo está en /Enex/search/.
+  - Aclaracion: Ofrece ayuda para postular por WhatsApp al +569 5384 4211.
+- **Esmax - sitio oficial (estaciones Aramco y Petrobras)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.esmax.cl
+  - Que es: Sirve para ubicar las estaciones de la red y conocer a la empresa que opera las marcas Aramco y Petrobras en Chile. El sitio solo describe Aramco Fleet (tarjeta de flota) y no estaciones Aramco como tal.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fechas ni ciclo; solo el enlace 'Trabaja con Nosotros' en el pie de página, que dirige a LinkedIn. No se vieron vacantes en Chile en esa búsqueda.
+  - Como postular: https://www.linkedin.com/jobs/esmax-jobs-worldwide
+  - Lectura automatica posible: none
+  - Aclaracion: Es un punto de partida oficial, no un listado de vacantes.
+  - Aclaracion: El enlace 'Trabaja con Nosotros' redirige a una búsqueda genérica de LinkedIn, sin avisos de Esmax Chile verificados.
+  - Aclaracion: El sitio no declara recepción continua de postulaciones.
+- **Esmax (marca Aramco/Petrobras) - Trabaja con nosotros** (sin verificar, verificada 2 veces) https://www.esmax.cl
+  - Que es: Postulantes a cargos de Esmax. El sitio no describe vacantes de playa ni de tienda.
+  - Requisitos: Según avisos de terceros no verificados: documentación vigente para trabajar y disponibilidad inmediata; en vendedor de combustible a veces se prefiere experiencia en ventas o atención al cliente.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fechas ni ciclo; solo el enlace 'Trabaja con Nosotros' en el pie de página, que dirige a LinkedIn. No se vieron vacantes en Chile en esa búsqueda.
+  - Como postular: https://www.linkedin.com/jobs/esmax-jobs-worldwide
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No hay portal propio: el enlace de empleo envía a una búsqueda genérica de LinkedIn, sin avisos de Esmax Chile verificados.
+  - Aclaracion: Existen avisos de Esmax en Indeed Chile y Computrabajo (vendedor de combustible, tiendas, zonas mineras, con turnos rotativos y part time), no verificados directamente en la página del empleador.
+  - Aclaracion: Los requisitos indicados provienen de avisos de terceros no verificados.
