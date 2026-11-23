@@ -1,0 +1,70 @@
+# Servicio domestico, limpieza, seguridad y edificios
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **IMSS - Personas trabajadoras del hogar: inscripción (trámite para personas empleadoras)** (abierta o vigente, verificada 2 veces) https://www.imss.gob.mx/personas-trabajadoras-hogar/inscripcion
+  - Que es: Personas empleadoras de trabajo del hogar (para registrar a quien trabaja en su casa) y personas trabajadoras del hogar (para exigir su registro). No es una bolsa de empleo: es el registro legal de la relación laboral.
+  - Requisitos: Quien emplea: CURP, correo, datos de contacto y domicilio. Persona trabajadora: NSS, CURP, domicilio, salario diario, días laborados y modalidad de cotización (por mes completo o por día); correo opcional.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica (no es empleo); las cuotas no se vieron en la página, se calculan con la calculadora de cuotas.
+  - Plazo o ciclo: Abierto todo el año (trámite en línea permanente; debe hacerse desde el primer día de trabajo)
+  - Como postular: https://www.imss.gob.mx/personas-trabajadoras-hogar/inscripcion
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una fuente de empleo: es el trámite con el que la persona empleadora inscribe al IMSS e INFONAVIT a quien trabaja en su hogar; sirve solo como referencia de derechos para quien busca trabajo doméstico.
+  - Aclaracion: El trámite en línea tiene cinco pasos (datos de quien emplea, datos de la persona trabajadora, confirmación, formato de alta y líneas de captura de pago) e incluye una calculadora de cuotas.
+  - Aclaracion: La página no indica si el trámite puede hacerse de forma presencial.
+- **IMSS - Información para personas trabajadoras del hogar (derechos y denuncia)** (abierta o vigente, verificada 2 veces) https://www.imss.gob.mx/personas-trabajadoras-hogar/informacion-pth
+  - Que es: Personas trabajadoras del hogar (limpieza, cuidados, asistencia) que quieran saber qué prestaciones deben recibir y cómo denunciar si no están registradas.
+  - Requisitos: No se vieron requisitos específicos; es información y canal de denuncia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: Abierto todo el año (página informativa y denuncia permanentes)
+  - Como postular: https://adodigital.imss.gob.mx/denunciaPTH
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una oferta de empleo: no hay a qué postularse.
+  - Aclaracion: Informa sobre servicios médicos y hospitalarios, incapacidades, pensiones, ahorro para el retiro, guardería y prestaciones de INFONAVIT (ahorro y crédito de vivienda).
+  - Aclaracion: La persona empleadora debe inscribir a la persona trabajadora y pagar cuotas, por días trabajados o por mes completo.
+  - Aclaracion: Si no está inscrita o está dada de alta con un salario menor al real, se puede denunciar en adodigital.imss.gob.mx/denunciaPTH.
+- **STPS - Materiales de trabajo del hogar (contrato, decálogo, obligaciones de la persona empleadora)** (abierta o vigente, verificada 2 veces) https://www.gob.mx/stps/documentos/trabajo-del-hogar
+  - Que es: Personas empleadoras y trabajadoras del hogar. Sirve para contratar y ser contratada en regla.
+  - Requisitos: Ninguno. Material de consulta abierto a cualquier persona, sin experiencia ni documentos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito (material informativo)
+  - Plazo o ciclo: Abierto todo el año (página con fecha 30 de octubre de 2026; sin vencimiento)
+  - Como postular: https://www.gob.mx/stps/documentos/trabajo-del-hogar
+  - Lectura automatica posible: PDF
+  - Aclaracion: Es material informativo en PDF (decálogo del trabajo digno del hogar, contrato de trabajo, beneficios del IMSS, obligaciones de la persona empleadora, seguridad y salud, y mezclas de limpieza peligrosas); no es bolsa de trabajo ni convocatoria.
+  - Aclaracion: La fecha de la página no indica si corresponde a publicación o a actualización.
+- **PROFEDET - Procuraduría Federal de la Defensa del Trabajo (asesoría jurídica gratuita)** (abierta o vigente, verificada 2 veces) https://www.profedet.gob.mx/micrositio/index.php/soy-persona-trabajadora
+  - Que es: Cualquier persona trabajadora, incluidas trabajadoras del hogar, guardias y personal de limpieza, que necesite asesoría o defensa por despido, falta de pago o de prestaciones.
+  - Requisitos: No se especifican en la página consultada (sin datos). Dirigido a personas trabajadoras en general; no se pide experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito (asesoría jurídica sin costo, según la página; condiciones adicionales: sin datos)
+  - Plazo o ciclo: Abierto todo el año (servicio permanente, sin fecha de cierre)
+  - Como postular: https://www.profedet.gob.mx/micrositio/index.php/soy-persona-trabajadora
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un servicio de defensa laboral, no una oferta de empleo.
+  - Aclaracion: La asesoría abarca derechos laborales y de seguridad social (salario, vacaciones, aguinaldo, jornada, PTU, horas extra, despido, descuentos indebidos, pensiones, incapacidades, riesgos de trabajo y Afore).
+  - Aclaracion: La página no muestra requisitos, teléfonos ni direcciones; incluye un botón «Oficinas» para ubicar la sede más cercana y secciones «Contáctanos» y «Preguntas frecuentes».
+- **Sodexo México - Trabaja con nosotros** (abierta o vigente, verificada 2 veces) https://mx.sodexo.com/trabaja-con-nosotros/mas-que-un-trabajo
+  - Que es: Empresa de servicios de instalaciones y alimentación que contrata en volumen personal operativo (por ejemplo, limpieza). No se pudo confirmar cuáles vacantes hay.
+  - Requisitos: La página no especifica edad, documentos ni años de experiencia (sin datos). Para cocina menciona gusto por la gastronomía; para mantenimiento, experiencia en el área; para puestos profesionales, conocimientos y experiencia sin detalle.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fechas de cierre ni vacantes concretas listadas en la página (visto el 2026-11-23).
+  - Como postular: https://mx.sodexo.com/trabaja-con-nosotros/mas-que-un-trabajo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no lista vacantes concretas: remite a portales externos (Talenteca para servicios de alimentos y mantenimiento de instalaciones, OCC para puestos gerenciales y profesionales, y la página «Francia Recluta») y ofrece una página de contacto para puestos de administración y gerencia.
+  - Aclaracion: Debe describirse como página de enlace a portales externos, sin afirmar reclutamiento continuo.
+  - Aclaracion: Áreas mencionadas: cocina y gastronomía, limpieza, mantenimiento, recepción, ventas, marketing, tecnología, compras, recursos humanos y operaciones remotas como plataformas petroleras; no se confirmaron vacantes concretas.
+- **CONASAMI - Salarios mínimos generales y profesionales 2026** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.gob.mx/conasami/documentos/tabla-de-salarios-minimos-generales-y-profesionales-por-areas-geograficas
+  - Que es: Quien contrata o es contratado en limpieza, seguridad, mantenimiento o servicio doméstico y necesita saber el piso salarial legal.
+  - Requisitos: Ninguno. Referencia pública para saber el piso salarial legal por área geográfica y por oficio.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (los montos están en el PDF y no se verificaron)
+  - Plazo o ciclo: Anual: la tabla vigente rige desde el 1 de enero de 2026; los montos se publican cada diciembre en el Diario Oficial de la Federación (los de 2026 se publicaron el 9 de diciembre de 2025)
+  - Como postular: https://www.gob.mx/conasami/documentos/tabla-de-salarios-minimos-generales-y-profesionales-por-areas-geograficas
+  - Lectura automatica posible: PDF
+  - Aclaracion: Es una referencia salarial, no una oferta de empleo.
+  - Aclaracion: Los montos están en el PDF de la tabla 2026 y no se citan cifras aquí.
+  - Aclaracion: La página incluye también las tablas históricas de 2025 a 1992 y tiene fecha del 3 de diciembre de 2025.

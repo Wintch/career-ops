@@ -1,0 +1,104 @@
+# Trabajo en el exterior
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Programa J-1 Au Pair (Departamento de Estado de Estados Unidos)** (abierta o vigente, verificada 2 veces) https://j1visa.state.gov/programs/au-pair/
+  - Que es: Jóvenes de 18 a 26 años que cuidan niños en una familia anfitriona de Estados Unidos.
+  - Requisitos: Edad de 18 a 26 años; inglés hablado con buen nivel, comprobado en entrevista en inglés; secundaria terminada o equivalente; examen físico y revisión de antecedentes (referencias, antecedentes penales, perfil de personalidad). No se exige experiencia general en cuidado infantil, pero para niños menores de 2 años se requieren 200 horas documentadas de cuidado de bebés, y para niños con necesidades especiales, experiencia previa documentada.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Pago semanal mínimo (estipendio) conforme a la ley federal FLSA; monto: sin datos en la página
+  - Plazo o ciclo: Abierto todo el año mediante patrocinadores designados; base de 12 meses, con prórrogas de 6, 9 o 12 meses.
+  - Como postular: https://j1visa.state.gov/programs/au-pair/
+  - Lectura automatica posible: Ninguno visto.
+  - Aclaracion: La postulación se hace por medio de un patrocinador designado; la página enlaza una búsqueda de patrocinadores pero no detalla los pasos.
+  - Aclaracion: Los patrocinadores deben detallar sus cuotas, pero los montos no aparecen en la página.
+  - Aclaracion: El trabajo se limita a 10 horas al día y 45 a la semana (opción EduCare: 30 horas por semana con 75 % del pago estándar).
+  - Aclaracion: La página habla de participantes en general y no se refiere a México en particular.
+- **Canadá: cómo evitar fraudes en migración y ofertas de trabajo (y verificar representantes autorizados)** (abierta o vigente, verificada 2 veces) https://www.canada.ca/en/immigration-refugees-citizenship/services/protect-fraud.html
+  - Que es: Cualquier persona que reciba una oferta de trabajo en Canadá o contrate a un asesor migratorio.
+  - Requisitos: Ninguno. Información abierta al público.
+  - Pago o beneficio: Gratuito (información y herramienta de verificación).
+  - Plazo o ciclo: Consulta permanente, sin fechas; fecha de modificación de la página: 23 de febrero de 2026.
+  - Como postular: https://www.canada.ca/en/immigration-refugees-citizenship/services/protect-fraud.html
+  - Lectura automatica posible: Ninguno visto.
+  - Aclaracion: Es una guía de protección, no una oferta de empleo.
+  - Aclaracion: La página no trata las ofertas de trabajo de forma específica, sino que enlaza a páginas sobre fraude a recién llegados y estafas en línea y telefónicas.
+  - Aclaracion: Indica que el representante migratorio de pago debe estar autorizado y remite a la herramienta 'Check if your representative is authorized' antes de pagar o compartir datos personales.
+- **PROFEDET: defensa laboral gratuita (STPS)** (abierta o vigente, verificada 1 vez) https://www.gob.mx/profedet
+  - Que es: Personas trabajadoras que necesiten asesoría o representación en un conflicto laboral.
+  - Requisitos: La página no especifica requisitos de elegibilidad; es un servicio para personas trabajadoras. No exige experiencia, título ni edad mínima indicada.
+  - Pago o beneficio: Gratuito: la página indica que todos los servicios de la Procuraduría son sin costo.
+  - Plazo o ciclo: Permanente; atención de lunes a viernes de 8:30 a 16:30 horas.
+  - Como postular: https://www.gob.mx/profedet
+  - Lectura automatica posible: Ninguno visto.
+  - Aclaracion: Es un servicio de defensa laboral, no una bolsa de empleo.
+  - Aclaracion: Ofrece abogados que representan gratis en juicio durante todo el proceso de la demanda hasta su resolución.
+  - Aclaracion: Contacto según la página: línea sin costo 01 800 911 7877, desde el interior de la República 01 800 717 29 42, correo orientacionprofedet@stps.gob.mx.
+  - Aclaracion: Los teléfonos y trámites no se confirmaron en el micrositio institucional (profedet.gob.mx), por lo que conviene verificarlos allí.
+- **USCIS: visa H-2A para trabajadores agrícolas temporales (reglas, cuotas prohibidas)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-2a-temporary-agricultural-workers
+  - Que es: Trabajadores extranjeros contratados por empleadores o agentes de Estados Unidos para empleos agrícolas temporales o de temporada.
+  - Requisitos: Contar con una oferta de un empleador de EE. UU. con certificación laboral aprobada; no se paga cuota de colocación. Edad, idioma y experiencia: sin datos (los define cada oferta).
+  - Pago o beneficio: sin datos (salarios especiales por localidad según el DOL)
+  - Plazo o ciclo: Anual y de temporada: el estatus sigue el periodo de la certificación laboral temporal; prórrogas de hasta 1 año cada una; estancia máxima de 3 años, tras la cual se requieren al menos 60 días continuos fuera de EE. UU. Página actualizada el 1 de septiembre de 2026.
+  - Como postular: https://seasonaljobs.dol.gov/
+  - Lectura automatica posible: Ninguno visto.
+  - Aclaracion: La página no explica cómo los trabajadores encuentran empleo: el empleador presenta la petición (Formulario I-129) tras la aprobación del DOL y el trabajador gestiona después la visa.
+  - Aclaracion: Está prohibido cobrar a los trabajadores cuotas de colocación, penalizaciones por incumplimiento u otras cuotas; USCIS niega o revoca peticiones si se cobran.
+  - Aclaracion: Desde el 17 de enero de 2025 ya no se considera si el país del beneficiario está en una lista de países elegibles.
+  - Aclaracion: Las peticiones para operadores de vehículos comerciales pueden requerir prueba de dominio del inglés.
+- **USCIS: visa H-2B para trabajadores temporales no agrícolas (tope anual y cuotas prohibidas)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-2b-temporary-non-agricultural-workers
+  - Que es: Trabajadores extranjeros para empleos temporales no agrícolas (necesidad de temporada, de pico, única o intermitente).
+  - Requisitos: Oferta de un empleador de EE. UU. con certificación laboral; no debe pagarse cuota por conseguir el empleo. Edad, experiencia e idioma: sin datos (según la oferta).
+  - Pago o beneficio: sin datos (el empleador debe pagar al menos el mayor entre el salario vigente y los mínimos federal, estatal o local, según el DOL)
+  - Plazo o ciclo: Anual. Tope de 66,000 por año fiscal (33,000 para inicios del 1 de octubre al 31 de marzo y 33,000 del 1 de abril al 30 de septiembre). Confirmado: el tope de la primera mitad del año fiscal 2027 se alcanzó el 4 de septiembre de 2026; las peticiones nuevas sujetas al tope con inicio antes del 1 de abril de 2027 se rechazan. La siguiente ventana es la segunda mitad (inicios desde el 1 de abril de 2027).
+  - Como postular: https://seasonaljobs.dol.gov/
+  - Lectura automatica posible: Ninguno visto.
+  - Aclaracion: La visa la tramita el empleador; el trabajador no se postula directamente a USCIS.
+  - Aclaracion: Está prohibido cobrar al trabajador cuotas de colocación, penalizaciones u otras cuotas directas o indirectas.
+  - Aclaracion: Desde el 17 de enero de 2025 ya no se considera la lista de países elegibles; la página no lista países.
+  - Aclaracion: Duración inicial según la certificación laboral, con prórrogas de hasta 1 año, máximo 3 años y 60 días fuera de EE. UU. para reiniciar.
+- **DOL, División de Salarios y Horas: protecciones H-2A (vivienda, transporte, horas garantizadas)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.dol.gov/agencies/whd/agriculture/h2a
+  - Que es: Personas con visa H-2A que quieran conocer sus derechos laborales.
+  - Requisitos: No aplica (página de derechos laborales); cubre a trabajadores con visa H-2A.
+  - Pago o beneficio: Salarios especiales por localidad (monto: sin datos)
+  - Plazo o ciclo: Permanente. Confirmado: el 20 de junio de 2025 la División de Salarios y Horas suspendió la aplicación de todas las disposiciones de la regla final H-2A de 2024 y propuso derogarla (comentarios hasta el 2 de septiembre de 2025), por lo que las protecciones pueden cambiar.
+  - Como postular: https://seasonaljobs.dol.gov/
+  - Lectura automatica posible: Ninguno visto.
+  - Aclaracion: Es una guía de derechos laborales, no una oferta de empleo.
+  - Aclaracion: Las protecciones pueden cambiar porque la aplicación de la regla de 2024 está suspendida.
+  - Aclaracion: Línea de la División de Salarios y Horas: 1-866-4-US-WAGE (1-866-487-9243).
+- **DOL: protecciones H-2B y cuotas prohibidas (Hoja informativa 78D), con teléfono para denuncias** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.dol.gov/agencies/whd/immigration/h2b
+  - Que es: Personas con visa H-2B que quieran conocer sus derechos o denunciar abusos.
+  - Requisitos: No aplica (página de derechos laborales); cubre a trabajadores con visa H-2B.
+  - Pago o beneficio: Al menos el mayor entre salario vigente y mínimos federal, estatal o local
+  - Plazo o ciclo: Permanente.
+  - Como postular: https://seasonaljobs.dol.gov/
+  - Lectura automatica posible: Ninguno visto.
+  - Aclaracion: Es una guía de derechos, no una oferta de empleo.
+  - Aclaracion: La Hoja informativa 78D prohíbe deducciones no divulgadas, gastos de viaje y visa, cobro por herramientas y cualquier pago del trabajador por costos de certificación, agentes, abogados o reclutamiento.
+  - Aclaracion: Hay Tarjeta de Derechos del Trabajador H-2B en inglés y español; el teléfono 1-866-4-US-WAGE atiende de 8:00 a 17:00 en la zona horaria de quien llama.
+  - Aclaracion: Parte de las notas recientes de la página son antiguas (2015 a 2022).
+- **Programa J-1 Summer Work Travel (trabajo de verano para estudiantes)** (sin verificar, verificada 1 vez) https://j1visa.state.gov/programs/summer-work-travel/
+  - Que es: Estudiantes universitarios de tiempo completo fuera de Estados Unidos que quieren trabajar y viajar durante el periodo de vacaciones.
+  - Requisitos: Estudiante de tiempo completo en una institución postsecundaria acreditada fuera de EE. UU.; haber cursado al menos un semestre o equivalente; inglés suficiente para trabajar en un entorno angloparlante. Duración máxima de 4 meses y debe regresar a su país antes del inicio de clases. Quienes no son de países del Programa de Exención de Visa (Visa Waiver) deben tener empleo pre-asignado antes de entrar. Se requiere patrocinador designado. No es una opción para quien no estudia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Al menos el salario local vigente, no menor al mínimo estatal o federal de EE. UU.; horas semanales según la oferta; no se permiten puestos basados principalmente en comisión.
+  - Plazo o ciclo: Temporadas vacacionales con patrocinador; la página no indica fechas vigentes (solo enlaza tablas de fechas de 2024). Ciclo anual no confirmado para 2026-2027.
+  - Como postular: sin datos
+  - Lectura automatica posible: Ninguno visto.
+  - Aclaracion: La página no lista países elegibles ni menciona México, por lo que la participación de residentes de México no está confirmada.
+  - Aclaracion: La solicitud se hace a través de un patrocinador designado, que se localiza con la herramienta 'Find a Program Sponsor' del mismo sitio.
+  - Aclaracion: No exige experiencia previa, pero sí ser estudiante universitario.
+- **Programas J-1 Camp Counselor e Intern (consejero de campamento y prácticas)** (sin verificar, verificada 1 vez) https://j1visa.state.gov/programs/camp-counselor/
+  - Que es: Camp Counselor: personas de 18 años o más para supervisar jóvenes en campamentos. Intern: estudiantes de nivel superior o egresados de hasta 12 meses atrás (https://j1visa.state.gov/programs/intern/).
+  - Requisitos: Camp Counselor: tener al menos 18 años, ser estudiante postsecundario, trabajador juvenil, docente o persona con habilidades especializadas, con inglés suficiente para supervisar jóvenes estadounidenses; el patrocinador entrevista en persona y verifica referencias; no se puede ocupar puestos de personal administrativo, cocina ni labores como lavaplatos o conserjería. Intern: estar inscrito en una institución postsecundaria fuera de EE. UU. o haberse graduado hace máximo 12 meses; no se permiten trabajos no calificados, cuidado de niños o adultos mayores, ni contacto con pacientes; no más de 20 % de labores administrativas; requiere plan de prácticas DS-7002 firmado por el anfitrión.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Camp Counselor: pago y prestaciones equivalentes a los de contrapartes estadounidenses del campamento (monto desconocido). Intern: sin datos.
+  - Plazo o ciclo: Sin fechas en las páginas oficiales; el acceso es mediante patrocinadores designados. Ciclo anual no confirmado.
+  - Como postular: https://j1visa.state.gov/programs/intern/
+  - Lectura automatica posible: Ninguno visto.
+  - Aclaracion: Ninguna de las páginas menciona México.
+  - Aclaracion: La duración del Camp Counselor no se indica; para Intern solo se menciona evaluación intermedia si supera 6 meses y no se vio un máximo en meses.
+  - Aclaracion: La solicitud se hace solo a través de un patrocinador (herramienta 'Find a Program Sponsor').
+  - Aclaracion: Exige ser estudiante o recién egresado; no es para quien no tiene estudios postsecundarios.

@@ -1,0 +1,70 @@
+# Educacion y cuidado infantil
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **CONAFE: Convocatoria para ser Educador/a Comunitario/a** (abierta o vigente, verificada 2 veces) https://www.gob.mx/conafe/acciones-y-programas/te-gustaria-ser-educador-a-comunitario-a-en-el-conafe
+  - Que es: Jóvenes con vocación de servicio que van a dar clases en comunidades rurales o de alta marginación (educación inicial, preescolar, primaria o secundaria). La página indica que cualquier persona puede ser propuesta.
+  - Requisitos: La página no fija edad ni escolaridad; dice que cualquier persona puede ser propuesta y que se evalúa con el 'perfil de ingreso' (no leído). Para registrarse: CURP, correo, teléfono, datos personales, INE en PDF y carátula de estado de cuenta bancario en PDF (cada archivo de máximo 2 MB), y datos de nivel de estudios. Sin documentos digitalizados, la Coordinación Territorial indica dónde presentarlos en físico. No se vio mención de que se exija experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Apoyos económicos y formación continua; monto no visto en la página (se detalla en los 'Lineamientos para el otorgamiento de apoyos económicos a figuras 2026', documento no leído). Los apoyos son para continuar estudios superiores.
+  - Plazo o ciclo: Convocatoria Nacional 2026; página fechada el 28 de julio de 2026; sin fecha de cierre visible. La periodicidad anual no se confirmó con fuentes: solo se vio la convocatoria 2026.
+  - Como postular: https://cnfsiiinafe.conafe.gob.mx/Registro
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El trámite es gratuito y se completa con entrevista y revisión de documentos en la Coordinación Territorial del estado o la Coordinación Regional más cercana.
+  - Aclaracion: Quien resulta seleccionado toma un curso intensivo de formación de cinco semanas (dos para educación inicial) y puede seguir estudiando mientras presta el servicio.
+  - Aclaracion: El formulario de registro muestra los ciclos escolares 2025-2026 y 2026-2027, no confirma que esté aceptando registros en este momento y no da fecha de cierre; conviene confirmar con la Coordinación Territorial.
+  - Aclaracion: CONAFE contacta por correo en 10 días hábiles.
+- **CONAFE: Figuras educativas (Educador Comunitario, ECA, ECAR)** (abierta o vigente, verificada 2 veces) https://www.gob.mx/conafe/acciones-y-programas/figuras-educativas-del-conafe
+  - Que es: Personas jóvenes que se incorporan como Educador Comunitario (EC), Educador Comunitario de Acompañamiento microrregional (ECA) o de Acompañamiento Regional (ECAR). Los ECA y ECAR se asignan considerando el desempeño académico y haber sido EC antes.
+  - Requisitos: No hay lista formal de elegibilidad en esta página; se describe como 'jóvenes con vocación de servicio'. ECA requiere haber sido EC; ECAR requiere desempeño demostrado en tutoría.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Apoyo económico para continuar estudios superiores; monto no visto (ver 'Lineamientos para el otorgamiento de apoyos económicos a figuras 2026').
+  - Plazo o ciclo: Convocatoria Nacional 2026; sin fecha de cierre visible
+  - Como postular: https://www.gob.mx/conafe/acciones-y-programas/te-gustaria-ser-educador-a-comunitario-a-en-el-conafe
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una página informativa; el enlace «¡Regístrate aquí!» lleva a la misma convocatoria de Educador/a Comunitario/a de la entrada anterior.
+  - Aclaracion: La formación intensiva es de cinco semanas para educadores nuevos (dos para educación inicial).
+  - Aclaracion: La opción sin experiencia previa aplica solo a Educador Comunitario; ECA y ECAR parten de haber sido Educador Comunitario.
+- **IPN: convocatorias de Capital Humano (personal de mando, servicio profesional de carrera)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.ipn.mx/dch/personaldemando/convocatorias.html
+  - Que es: Personas que buscan puestos de mando (jefaturas y encargos administrativos o técnicos) en el IPN. Las convocatorias 12-2026 y 13-2026 son de puestos administrativos y de cómputo, no de docencia.
+  - Requisitos: Concursos para plazas de mando (jefaturas de departamento y de división, encargados de acuerdos) en direcciones como Cómputo y Comunicaciones, Difusión Cultural, Bibliotecas y Publicaciones. Requisitos y temarios están en las bases de cada convocatoria, que no se abrieron. No es ruta para primer empleo ni para docencia.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Varias convocatorias por año: el archivo de 2026 llega hasta la 13/2026 (12/2026 y 13/2026 con detalle en la página). Fechas de registro y cierre: sin datos (están en los PDF de bases de participación).
+  - Como postular: https://www.ipn.mx/dch/personaldemando/convocatorias.html
+  - Lectura automatica posible: none
+  - Aclaracion: Las convocatorias 12-2026 y 13-2026 son de puestos de mando administrativos y de cómputo, no de docencia ni de primer empleo.
+  - Aclaracion: La página no indica si siguen abiertas al 23 de noviembre de 2026.
+  - Aclaracion: Fechas, requisitos y temarios están en los PDF de bases de cada convocatoria.
+- **USICAMM: portal del Sistema para la Carrera de las Maestras y los Maestros (admisión, promoción y asignación de plazas docentes)** (sin verificar, verificada 1 vez) https://usicamm.sep.gob.mx
+  - Que es: Quienes aspiran a una plaza docente o de otra función en educación básica o media superior pública. USICAMM es la unidad que gestiona el sistema de carrera docente en México.
+  - Requisitos: sin datos (no se vieron requisitos en esta verificación)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se confirmó ninguna convocatoria vigente ni el calendario de admisión.
+  - Aclaracion: Requiere perfil docente (normalmente título o estudios afines); no es una vía de primer empleo sin formación.
+  - Aclaracion: El portal probablemente carga su contenido con JavaScript, por lo que conviene revisarlo en un navegador completo.
+- **UNAM: SIJA y CEIPAB (incorporación de personal académico joven y de bachillerato), DGAPA** (sin verificar, verificada 1 vez) https://dgapa.unam.mx/index.php/renovacion-de-la-planta-academica/sija
+  - Que es: Jóvenes académicos de carrera (SIJA), para ocupar plazas vacantes en entidades académicas de la UNAM; el sitio también lista la CEIPAB, una convocatoria extraordinaria de personal académico de tiempo completo para el Bachillerato UNAM (https://dgapa.unam.mx/index.php/renovacion-de-la-planta-academica/ceipab, página no abierta).
+  - Requisitos: SIJA: incorporar jóvenes académicos de carrera a entidades con plazas vacantes por retiro o reasignación. Requisitos exactos y edad máxima: sin datos. CEIPAB: solo aparece el nombre.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos; la página no indica si hay convocatoria abierta ni fecha límite.
+  - Como postular: Los programas están dirigidos a entidades académicas con vacantes; contacto de DGAPA: dgapaweb@dgapa.unam.mx, tel. 55 5622 6182 (datos vistos en la página).
+  - Lectura automatica posible: none
+  - Aclaracion: La página oficial publica normas de operación (2022), carta compromiso y una circular de incentivo de asistencia, pero no una convocatoria vigente.
+  - Aclaracion: Es una vía para personal académico con posgrado, no para primer empleo.
+  - Aclaracion: Los requisitos exactos y la edad máxima del SIJA no aparecen en la página.
+- **OCC Mundial y Computrabajo: vacantes de profesor y docente en escuelas privadas, institutos de idiomas y guarderías** (sin verificar, verificada 1 vez) https://mx.computrabajo.com/empleos-de-docente
+  - Que es: Quien busque trabajo en escuelas privadas, institutos de idiomas, academias, estancias infantiles o clases particulares, donde la contratación es directa y no pasa por USICAMM.
+  - Requisitos: sin datos; varía por vacante. No se pudo confirmar si hay vacantes sin experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Publicación continua (abierto todo el año); no se vio ninguna vacante concreta.
+  - Como postular: https://mx.computrabajo.com/empleos-de-docente
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: Es un agregador genérico y no se vio ninguna vacante concreta.
+  - Aclaracion: Tiene más sentido listar empleadores específicos con volumen (cadenas de institutos de idiomas, grupos escolares privados) con su propia página de contratación.
+  - Aclaracion: No se pudo confirmar si hay vacantes sin experiencia.

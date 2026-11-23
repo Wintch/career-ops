@@ -1,0 +1,73 @@
+# Gastronomia y hoteleria
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Starbucks México — Trabaja con nosotros (postulación por tienda)** (abierta o vigente, verificada 2 veces) https://www.starbucks.com.mx/trabaja-con-nosotros
+  - Que es: Personas que buscan trabajo en tiendas de café (baristas y puestos de tienda). La página no detalla los puestos disponibles.
+  - Requisitos: La página no indica edad ni experiencia. No se vieron vacantes concretas.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto de forma continua: mapa de ubicaciones para postularse por tienda; vacantes concretas no verificadas.
+  - Como postular: https://www.careerarc.com/job-map/starbucks-mexico/campaign/85146
+  - Lectura automatica posible: No verificado. La postulación se hace en un mapa de CareerArc (https://www.careerarc.com/job-map/starbucks-mexico/campaign/85146), que no pudo abrirse.
+  - Aclaracion: La página oficial indica postularse mediante un mapa interactivo de tiendas alojado en CareerArc (careerarc.com/job-map/starbucks-mexico/campaign/85146).
+  - Aclaracion: El contenido del mapa no pudo comprobarse, por lo que no se vieron vacantes abiertas.
+- **Posadas — Posadas Careers** (abierta o vigente, verificada 2 veces) https://careers.posadas.com/
+  - Que es: Personas que buscan empleo en la cadena hotelera Posadas. Puestos, hoteles y destinos: sin datos.
+  - Requisitos: sin datos a nivel general; varían por vacante y se ven en el detalle de cada una. No se confirmó que alguna no pida experiencia.
+  - Pago o beneficio: sin datos (no se vio en el listado)
+  - Plazo o ciclo: Abierto todo el año (bolsa de vacantes permanente; 96 vacantes vistas el 2026-11-23)
+  - Como postular: https://careers.posadas.com/go/Vacantes/513219/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es el sitio oficial de empleo de Posadas (hoteles Fiesta Americana, Fiesta Inn, Grand Fiesta Americana, Sunvivia).
+  - Aclaracion: Las vacantes incluyen puestos operativos (ayudante de cocina, lavaplatos, operador de lavandería, operador de mantenimiento, recepcionista, estacionador/bell boy), supervisión y ventas, en CDMX, Puebla, Oaxaca, Chiapas, Querétaro, Guanajuato, Nuevo León, Sinaloa, Quintana Roo y otros estados.
+  - Aclaracion: Hay opción de crear alerta de vacantes y una comunidad de talento.
+  - Aclaracion: Requisitos y salarios se indican en el detalle de cada vacante; no se confirmó si se requiere cuenta para postularse.
+- **Talento Xcaret (Grupo Xcaret) - Vacantes** (abierta o vigente, verificada 2 veces) https://talentohumano.grupoxcaret.com/
+  - Que es: Cualquier persona interesada en trabajar en parques, tours y naviera, hoteles Xcaret, club vacacional, resort y proyectos inmobiliarios, áreas comerciales y corporativas (Riviera Maya y otros destinos del grupo). También hay sección de prácticas profesionales.
+  - Requisitos: No se indican en la página principal; dependen de cada vacante.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (registro de candidatos y comunidad de talento); la estacionalidad turística no se confirmó
+  - Como postular: https://talentohumano.grupoxcaret.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El listado de vacantes seguía en 'Cargando...', por lo que no se vieron vacantes concretas, ubicaciones, fechas ni temporadas.
+  - Aclaracion: Para postularse se usa el botón 'Regístrate' (crear cuenta) y la opción 'Únete a Talento Xcaret'.
+  - Aclaracion: Incluye enlaces a Prácticas Profesionales y Beneficios; la estacionalidad turística no se confirmó.
+- **Starbucks México - Trabaja con nosotros** (abierta o vigente, verificada 2 veces) https://www.starbucks.com.mx/seccion/trabaja-con-nosotros
+  - Que es: Personas que buscan trabajar en tiendas Starbucks (los empleados se llaman 'Partners'); la postulación se hace por tienda.
+  - Requisitos: No se indican en la página. Edad, documentos y experiencia: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: la página remite a un mapa de vacantes por tienda; no hay fecha de cierre visible.
+  - Como postular: https://www.careerarc.com/job-map/starbucks-mexico/campaign/85146
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no lista puestos ni requisitos; indica usar el mapa interactivo para encontrar una tienda cercana y postularse allí.
+  - Aclaracion: El enlace de postulación apunta a CareerArc (campaña de Starbucks México) y devolvió HTTP 403 a la lectura automática, por lo que su contenido no se verificó.
+- **Alsea — Empleos (Vips, Starbucks, Domino's, Burger King, Chili's)** (sin verificar, verificada 1 vez) https://www.alsea.net/trabaja-con-nosotros
+  - Que es: Personas que buscan trabajo en las marcas de Alsea. El sitio alsea.net enumera como marcas Vips, Starbucks, Domino's, Burger King y Chili's.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://empleos.alsea.net/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial enlaza a empleos.alsea.net como portal de vacantes, lo que lo confirma como vía oficial.
+  - Aclaracion: No se pudo comprobar qué vacantes, marcas, requisitos ni fechas hay; el portal pudo fallar por exceso de redirecciones y puede requerir cookies o un navegador.
+- **Marriott Careers (empleos en hoteles, sitio en español)** (sin verificar, verificada 1 vez) https://careers.marriott.com/es/
+  - Que es: Personas que buscan empleo en hoteles de las más de 30 marcas de Marriott (Courtyard, Sheraton, The Ritz-Carlton, entre otras), incluidos hoteles en México si hay vacantes publicadas.
+  - Requisitos: No se listan en la página principal; cada vacante define los suyos. Experiencia: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año en principio (14,205 vacantes globales vistas el 2026-11-23), pero no se pudo confirmar ninguna vacante en México.
+  - Como postular: https://careers.marriott.com/es/jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se vieron vacantes de México en la lectura del buscador (solo 10 vacantes en Japón, Alemania, Hong Kong, Polinesia Francesa y Brasil); se presenta como ruta de postulación en el sitio del empleador, sin cifras de México verificadas.
+  - Aclaracion: La búsqueda se hace con el filtro País/Región en la página de empleos.
+  - Aclaracion: Ofrece comunidad de talento gratuita, alertas y 'Mi página de trabajo'.
+- **Secretaría de Turismo (Sectur) - Acciones y programas** (sin verificar, verificada 1 vez) https://www.gob.mx/sectur/archivo/acciones_y_programas
+  - Que es: Personas y negocios del sector turístico y gastronómico que busquen programas oficiales; es el punto de partida para revisar si hay programas de empleo o capacitación turística vigentes.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un archivo de acciones de política turística y no de empleo; ninguno de los programas vistos es una vacante, beca o capacitación para personas en búsqueda de empleo.
+  - Aclaracion: Entre los programas vistos están Registro Nacional de Turismo, Caja de herramientas Kuxatur, Catálogo México Romántico, México Anfitrión 2026 y catálogos de Turismo Wellness y de rutas ecoturísticas 2026.
+  - Aclaracion: No se confirmó que México Anfitrión 2026 sea una capacitación abierta a trabajadores del sector.

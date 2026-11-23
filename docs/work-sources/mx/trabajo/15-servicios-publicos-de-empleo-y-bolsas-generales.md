@@ -1,0 +1,52 @@
+# Servicios publicos de empleo y bolsas generales
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Jooble México** (abierta o vigente, verificada 2 veces) https://mx.jooble.org
+  - Que es: Agregador que reúne vacantes de unos 850 sitios; sirve para comparar en un solo lugar, incluidos filtros para trabajo sin experiencia, medio tiempo, turno nocturno, fines de semana y trabajo remoto.
+  - Requisitos: sin datos; cada vacante fija los suyos. No se vio un requisito de registro.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Varía por vacante; un resultado de búsqueda muestra un salario promedio de 20,000 MXN al mes en una categoría, sin detalle verificado.
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: https://mx.jooble.org
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un agregador de anuncios de otros sitios, no una fuente primaria; conviene confirmar la vacante en la página del empleador.
+  - Aclaracion: No hay fechas de publicación en las vacantes individuales, por lo que la vigencia de cada oferta no está confirmada.
+  - Aclaracion: No se confirmó que sea gratuito para candidatos.
+- **LinkedIn Empleos** (abierta o vigente, verificada 2 veces) https://www.linkedin.com/jobs/
+  - Que es: Red profesional con vacantes de empleadores; más útil para puestos administrativos, técnicos y profesionales que para trabajo manual.
+  - Requisitos: sin datos; la página muestra los botones Unirse e Iniciar sesión, pero no confirma si se requiere cuenta para buscar. Cada vacante fija los suyos.
+  - Pago o beneficio: sin datos; varía por vacante
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: https://www.linkedin.com/jobs/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La versión de la página consultada parece orientada a EE. UU.; para México conviene filtrar por ubicación.
+  - Aclaracion: Tiene mayor peso en puestos profesionales y corporativos que en oficios; no está verificado para primer empleo o para quienes no tienen título.
+  - Aclaracion: No se confirmó que sea gratuito para candidatos.
+- **OCC Mundial** (sin verificar, verificada 1 vez) https://www.occ.com.mx
+  - Que es: Bolsa de trabajo general de México, usada para puestos administrativos, de servicios, ventas, operativos y profesionales.
+  - Requisitos: sin datos; cada vacante fija los suyos. Los resultados muestran vacantes de niveles técnico, universitario sin título y posgrado, así como oficios y servicios generales. El registro de candidato no se pudo confirmar en la página.
+  - Pago o beneficio: Los resultados de búsqueda muestran vacantes con sueldos mensuales aproximados de 10,000 a más de 70,000 MXN, según la oferta; el sueldo varía por vacante.
+  - Plazo o ciclo: abierto todo el año (no verificado directamente)
+  - Como postular: https://www.occ.com.mx
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: Cada vacante fija sus propios requisitos y sueldo.
+  - Aclaracion: No se confirmó que el registro y el uso sean gratuitos para candidatos.
+- **Computrabajo México** (sin verificar, verificada 1 vez) https://mx.computrabajo.com
+  - Que es: Bolsa de trabajo general con presencia fuerte en puestos operativos, de servicios, ventas y atención a clientes.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos; no se pudo leer la página
+  - Como postular: https://mx.computrabajo.com
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: No se confirmó que esté vigente ni que sea gratuita para candidatos.
+- **Indeed México** (sin verificar, verificada 1 vez) https://mx.indeed.com
+  - Que es: Buscador de empleo general que reúne vacantes de empleadores y de otras bolsas, incluidos puestos de servicios y operativos.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año (no verificado directamente)
+  - Como postular: https://mx.indeed.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un buscador que reúne vacantes de empleadores y de otras bolsas.
+  - Aclaracion: No se confirmó que sea gratuito para candidatos.
