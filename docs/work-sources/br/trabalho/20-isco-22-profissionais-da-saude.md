@@ -1,0 +1,105 @@
+# Grupo 22: Profissionais da saúde
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Vagas.com - vagas de enfermeiro** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-enfermeiro
+  - O que é: Enfermeiros (nível superior) de qualquer idade; a listagem também traz vagas de técnico e auxiliar de enfermagem e estágio, que devem ser filtradas pelo título.
+  - Requisitos: Varia por vaga; exemplos vistos: graduação completa em Enfermagem e experiência; COREN ativo; curso técnico de enfermagem para auxiliar. Vagas sem exigência de experiência: sem dados.
+  - Pagamento ou benefício: Sem salário nos anúncios; a página não mostrou valor para enfermeiro.
+  - Prazo ou ciclo: Fluxo contínuo. Na consulta: 136 vagas, datas de 02/09/2026 a 14/11/2026 (algumas relativas, 'Há 4 dias'); a página não informa se as datas são de publicação ou de encerramento.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-enfermeiro
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É um quadro de vagas com anúncios diretos de empresas, não uma fonte oficial de governo nem do empregador.
+  - Esclarecimento: A listagem mistura funções como auxiliar de enfermagem.
+  - Esclarecimento: A candidatura é feita no anúncio individual; há cadastro gratuito de currículo, mas a obrigatoriedade não foi confirmada.
+- **Vagas.com - vagas de médico** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-medico
+  - O que é: Médicos de várias especialidades (clínico geral, psiquiatra, geriatra, intensivista, médico do trabalho, plantonista de telessaúde) e cargos de coordenação médica.
+  - Requisitos: Varia por vaga; exigências específicas não vistas (esperados diploma de Medicina e CRM, mas não confirmado na página).
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: Sem salário nos anúncios; a página mostra salário mediano nacional de R$ 10.527,00 para a categoria (mediana de mercado, não oferta).
+  - Prazo ou ciclo: Fluxo contínuo. Na consulta: 2.266 resultados, datas de 24/09/2026 a 13/11/2026 (algumas relativas, 'Hoje', 'Há 7 dias').
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-medico
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A contagem de 2.266 resultados está inflada por funções que não são de médico humano (médico veterinário, enfermeiro, técnico de enfermagem).
+  - Esclarecimento: A candidatura é feita no anúncio individual; há login ou cadastro gratuito.
+- **Vagas.com - vagas de farmacêutico** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-farmaceutico
+  - O que é: Farmacêuticos de farmácia de varejo (gerente, subgerente, ferista) e de hospital; a contagem inclui também atendente e auxiliar de farmácia.
+  - Requisitos: Varia por vaga; exigências não vistas na listagem. Vagas sem exigência de experiência: sem dados.
+  - Pagamento ou benefício: Sem salário nos anúncios; a página mostra salário mediano nacional de R$ 3.407,00 para a categoria (mediana de mercado, não oferta).
+  - Prazo ou ciclo: Fluxo contínuo. Na consulta: 154 vagas, datas de 16/09/2026 a 11/11/2026 (algumas relativas, 'Há 4 dias' a 'Há 7 dias').
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-farmaceutico
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A listagem inclui funções como auxiliar de farmácia e vagas exclusivas para PcD.
+  - Esclarecimento: A candidatura é feita no anúncio individual; há cadastro gratuito de currículo.
+- **Vagas.com - vagas de fisioterapeuta** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-fisioterapeuta
+  - O que é: Fisioterapeutas de hospital (UTI, UTI neonatal, internação) e clínicas; há uma vaga exclusiva para pessoas com deficiência.
+  - Requisitos: Varia por vaga; exigências não vistas na listagem.
+  - Pagamento ou benefício: Sem salário nos anúncios; a página mostra salário mediano nacional de R$ 2.773,00 para a categoria (mediana de mercado, não oferta).
+  - Prazo ou ciclo: Fluxo contínuo; poucas vagas por vez. Na consulta: 5 vagas, de 16/09/2026 a 09/11/2026 (uma com data relativa 'Há 7 dias').
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-fisioterapeuta
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A listagem é pequena, com vagas em Piracicaba/SP e São Paulo/SP, uma delas exclusiva para PcD.
+  - Esclarecimento: A vaga mais recente tinha 14 dias na data da consulta; não há garantia de que continuem abertas.
+  - Esclarecimento: A candidatura é feita no anúncio individual; há cadastro gratuito de currículo.
+- **Associação Saúde da Família (ASF) - Recrutamento e Seleção** (aberta ou vigente, verificada 2 vezes) https://www.saudedafamilia.org/Home/RecrutamentoSelecao
+  - O que é: Profissionais de saúde de diversas categorias para unidades de atenção básica e serviços de saúde na capital paulista e na Grande São Paulo; a página não lista as categorias, que variam por edital.
+  - Requisitos: Currículo detalhado e atualizado no Vagas.com; documentos e etapas conforme o cargo. Experiência exigida: sem dados (depende da vaga).
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Caminho de candidatura contínuo: vagas atuais no perfil da ASF no Vagas.com e cadastro de currículo. Para cada processo seletivo anunciado, a inscrição fica aberta por 24 horas. Os editais listados no site são antigos (mais recente: 28/11/2022); nenhum edital aberto visto em 2026-11-23.
+  - Como se candidatar: https://trabalheconosco.vagas.com.br/saude-da-familia
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Toda a comunicação e a candidatura passam pelo Vagas.com (trabalheconosco.vagas.com.br/saude-da-familia).
+  - Esclarecimento: As etapas eliminatórias podem incluir documentos, exame médico admissional e testes online (português, raciocínio lógico, idiomas), válidos por 6 meses.
+  - Esclarecimento: Candidatos pré-aprovados ficam em reserva enquanto o processo for válido, e os documentos pessoais devem ter o mesmo sobrenome.
+  - Esclarecimento: Vagas para pessoas com deficiência são indicadas em vagas.com.br/saudedafamilia; a página não lista vagas específicas.
+- **Associação Saúde da Família (ASF) - Vagas para médicos** (aberta ou vigente, verificada 2 vezes) https://www.saudedafamilia.org/TrabalheConosco/Index/
+  - O que é: Médicos interessados em atuar em unidades de saúde em regiões de São Paulo (Capela do Socorro, Parelheiros, Freguesia do Ó/Brasilândia, Casa Verde/Cachoeirinha, Lapa, Pinheiros) e em Guarulhos.
+  - Requisitos: Não informados na página; esperado diploma de Medicina e CRM, mas não confirmado. Termo de consentimento LGPD a ser revisado pelo candidato.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Fluxo contínuo; a página diz 'vagas atualizadas semanalmente', por região. Sem data-limite informada.
+  - Como se candidatar: https://trabalheconosco.vagas.com.br/saude-da-familia
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página inicial não lista vagas individuais nem números; as vagas por região ficam em subpáginas.
+  - Esclarecimento: Para vagas PJ, enviar currículo por e-mail com 'interesse em vagas PJ' no assunto; para as demais modalidades, usar trabalheconosco.vagas.com.br.
+  - Esclarecimento: A atualização semanal é afirmação da própria página, não confirmada por histórico.
+- **Revalida (Inep) - revalidação de diplomas de Medicina obtidos no exterior** (não verificada, verificada 1 vez) https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida
+  - O que é: Médicos formados no exterior (brasileiros ou estrangeiros com residência legal no Brasil) que querem exercer a Medicina no país.
+  - Requisitos: Ser brasileiro ou estrangeiro com residência legal no Brasil; ter CPF; diploma de Medicina de instituição estrangeira de ensino superior reconhecida pelo ministério da educação do país de origem, autenticado por consulado brasileiro ou por apostila de Haia; enviar imagens da frente e do verso do diploma. Valor da taxa: sem dados.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: Não se aplica (exame; taxa de inscrição não vista)
+  - Prazo ou ciclo: sem dados. Edital, datas de inscrição e de provas não foram vistos. A página de legislação (atualizada em 09/07/2026) tem abas por ano de 2026 a 2002, mas o conteúdo das abas não carregou.
+  - Como se candidatar: https://revalida.inep.gov.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não é vaga de emprego: é exame de revalidação para quem tem diploma de Medicina estrangeiro.
+  - Esclarecimento: O exame tem duas etapas eliminatórias (provas escritas e teste de habilidades clínicas), com inscrição pelo Sistema Revalida.
+  - Esclarecimento: Edital aberto e ciclo anual não foram confirmados; conferir diretamente no Inep.
+- **CFM - Portal do Conselho Federal de Medicina (CRM Virtual, credencial e certidões)** (não verificada, verificada 1 vez) https://portal.cfm.org.br/
+  - O que é: Médicos que precisam de registro e documentos do conselho (CRM) para atuar; a página orienta acessar o site do regional do estado.
+  - Requisitos: Não informado na página. Os serviços são voltados a médicos registrados, empresas e cidadãos.
+  - Pagamento ou benefício: Não se aplica (anuidade e taxas em página própria; valores não vistos)
+  - Prazo ou ciclo: Serviço permanente (portal de serviços); anuidade e boletos em página própria. Sem chamada ou prazo.
+  - Como se candidatar: https://crmvirtual.cfm.org.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não é programa de emprego nem chamada aberta; é um portal de serviços do conselho.
+  - Esclarecimento: O registro do médico é feito nos Conselhos Regionais (CRMs).
+  - Esclarecimento: Entre os serviços estão CRM Virtual (crmvirtual.cfm.org.br), credencial digital (ecrm.cfm.org.br), certidões, anuidade, taxas e boletos, busca de médicos e prescrição eletrônica.
+- **CFO - Conselho Federal de Odontologia e lista dos 27 CROs (registro de cirurgiões-dentistas)** (não verificada, verificada 1 vez) https://website.cfo.org.br/conselhos-regionais-de-odontologia/
+  - O que é: Cirurgiões-dentistas e quem se forma em Odontologia e precisa localizar o conselho regional do estado.
+  - Requisitos: Não informado nesta página.
+  - Pagamento ou benefício: Não se aplica
+  - Prazo ou ciclo: Serviço permanente (lista de conselhos regionais). Sem chamada ou prazo.
+  - Como se candidatar: https://website.cfo.org.br/conselhos-regionais-de-odontologia/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página não traz requisitos nem passo a passo de registro de cirurgiões-dentistas.
+  - Esclarecimento: O registro profissional se faz no CRO do estado.
+- **Fundação Faculdade de Medicina (FFM) - Trabalhe Conosco (HCFMUSP, ICESP e outras unidades, via Vagas.com)** (não verificada, verificada 1 vez) https://site.vagas.com.br/ffm
+  - O que é: Candidatos a vagas nas unidades do sistema de saúde ligado à FMUSP e ao Hospital das Clínicas; no Vagas.com apareceram anúncios de médico, de cirurgião-dentista temporário e de fonoaudiólogo da FFM.
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados. Fluxo contínuo é a alegação, mas a listagem não foi vista.
+  - Como se candidatar: https://site.vagas.com.br/ffm
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O endereço original redireciona (301) para https://site.vagas.com.br/ffm.
+  - Esclarecimento: O conteúdo da página de destino veio vazio, provavelmente por renderização em JavaScript, então vagas, prazos e número de vagas não puderam ser vistos, nem confirmado que seja a página da FFM.
+  - Esclarecimento: Recomenda-se conferir manualmente em um navegador.

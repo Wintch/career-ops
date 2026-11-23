@@ -1,0 +1,75 @@
+# Grupo 43: Empregados contábeis e de registro de materiais
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Vagas.com - vagas de auxiliar contábil** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-auxiliar-contabil
+  - O que é: Candidatos a auxiliar, assistente e analista contábil ou fiscal em escritórios de contabilidade e empresas. Na consulta de 2026-11-23 havia 110 vagas, a maioria em SP, RJ e MG, e 29 com opção de home office.
+  - Requisitos: Varia por vaga. Exemplos vistos: cursando Ciências Contábeis (Assistente Fiscal); experiência em escritório contábil como diferencial, não obrigatória (Assistente Contábil); graduação concluída e experiência em fechamento contábil (Sênior). A página não informa anos de experiência de forma geral; sem exigência universal de experiência, mas há vagas que a exigem.
+  - Pagamento ou benefício: sem dados (não exibido na listagem)
+  - Prazo ou ciclo: 110 vagas no cabeçalho (90 CLT, 11 estágio, 9 temporário). Datas absolutas de 07/08/2026 a 13/11/2026; vários anúncios com data relativa ('Há X dias').
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-auxiliar-contabil (abrir cada vaga; o site oferece cadastro gratuito e login; se o cadastro é obrigatório para se candidatar não foi confirmado)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Há mistura de níveis (auxiliar, júnior, estágio, pleno e sênior), de modo que nem todas as vagas servem a quem busca o primeiro emprego.
+  - Esclarecimento: As datas absolutas de publicação vão de 07/08/2026 a 13/11/2026, com anúncios de 07/08, 14/09 e 01/10/2026.
+  - Esclarecimento: Só parte das vagas aparece de início; o restante carrega em 'mostrar mais vagas'.
+- **Vagas.com - vagas de auxiliar financeiro** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-auxiliar-financeiro
+  - O que é: Candidatos a auxiliar e assistente financeiro e fiscal (contas a pagar e a receber, rotinas financeiras). Na consulta de 2026-11-23 havia 306 vagas, concentradas em SP, RJ e MG; 257 em CLT, 30 estágios e 15 temporárias.
+  - Requisitos: Varia por vaga. Exemplos: ensino técnico ou superior (Maurizio & Cia); ensino superior em andamento em Administração, Ciências Contábeis ou Gestão Financeira (estágio Grupo SERES); vaga exclusiva para PCD (Grupo Guanabara). Anos de experiência raramente aparecem de forma explícita.
+  - Pagamento ou benefício: sem dados (não exibido na listagem)
+  - Prazo ou ciclo: Aberto todo o ano (vagas publicadas continuamente). Em 2026-11-23 o cabeçalho indicava 306 vagas, com anúncios de 19/10/2026 a 10/11/2026 entre os vistos.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-auxiliar-financeiro (abrir a vaga desejada; o site oferece cadastro gratuito e login; obrigatoriedade do cadastro para candidatura não confirmada)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Inclui vagas de agências de RH e vagas afirmativas para PCD.
+  - Esclarecimento: Só cerca de 39 vagas aparecem de início, o restante em 'mostrar mais vagas', e as descrições vêm truncadas na listagem.
+- **Vagas.com - vagas de auxiliar de faturamento** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-auxiliar-de-faturamento
+  - O que é: Candidatos a auxiliar e assistente de faturamento e faturista, em indústria, saúde e serviços. Na consulta de 2026-11-23 havia 125 vagas; 74 no nível Auxiliar/Operacional.
+  - Requisitos: Varia por vaga. Exemplos: ERP, preferencialmente TOTVS (BR Talent); português avançado (Taurus); ensino médio completo e experiência com faturamento hospitalar de internação (analista confidencial). Experiência é exigida em parte dos anúncios, não em todos.
+  - Pagamento ou benefício: sem dados (não exibido na listagem)
+  - Prazo ou ciclo: Aberto todo o ano (vagas publicadas continuamente). Em 2026-11-23 o cabeçalho indicava 125 vagas, com anúncios de 09/11/2026 a 12/11/2026 entre os vistos.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-auxiliar-de-faturamento (abrir a vaga; o site oferece 'Cadastre-se gratuitamente' e 'Entrar'; obrigatoriedade do cadastro não confirmada)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Algumas empresas ocultam o nome ('Confidencial').
+  - Esclarecimento: Só cerca de 40 vagas aparecem de início; o restante carrega em 'mostrar mais vagas'.
+- **Vagas.com - vagas de almoxarife** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-almoxarife
+  - O que é: Candidatos a almoxarife, auxiliar e ajudante de almoxarifado em indústrias, hospitais e logística. Na consulta de 2026-11-23 havia 76 vagas, com mais anúncios em SP (33), MG (18) e RJ (7).
+  - Requisitos: Varia por vaga. Exemplos: experiência anterior em almoxarifado (Michelin); rotinas de almoxarifado e informática, principalmente Excel (confidencial RJ); ensino médio e experiência prévia (Curitiba). Em vários anúncios a experiência prévia é pedida; não há exigência universal de diploma superior.
+  - Pagamento ou benefício: sem dados (não exibido na listagem)
+  - Prazo ou ciclo: Fluxo contínuo; 76 vagas em 23/11/2026, com datas de publicação de 17/08/2026 a 12/11/2026 e sem prazo geral.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-almoxarife (abrir a vaga; o site oferece cadastro gratuito e login; obrigatoriedade não confirmada)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A data absoluta mais antiga vista é 17/08/2026 e a mais recente 12/11/2026; há listagens com mais de um mês (por exemplo, 25/09/2026), cuja atualidade não foi verificada individualmente.
+  - Esclarecimento: Várias vagas trazem só datas relativas ('Há 4 dias').
+  - Esclarecimento: A página não mostra botão de candidatura, apenas 'Fazer login' e 'Cadastre-se gratuitamente'; cada cartão leva à página da vaga.
+  - Esclarecimento: Só 40 vagas aparecem de início; o restante carrega em 'mostrar mais vagas'.
+- **Vagas.com - vagas de auxiliar de estoque** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-auxiliar-de-estoque
+  - O que é: Candidatos a auxiliar, assistente e estoquista, em indústria, saúde, varejo e logística. Na consulta de 2026-11-23 havia 240 vagas: 152 no nível Auxiliar/Operacional e 205 em CLT; SP concentrava 122.
+  - Requisitos: Varia por vaga e os trechos exibidos são truncados; descrevem sobretudo tarefas (receber, conferir e armazenar produtos, separação e expedição, inventário). Exemplos: CNH B (evento); experiência com carga, descarga e abastecimento de linhas de produção (Brunel). Exigência de experiência ou escolaridade não é informada de forma geral na listagem.
+  - Pagamento ou benefício: sem dados (não exibido na listagem)
+  - Prazo ou ciclo: Fluxo contínuo; 240 vagas em 23/11/2026, datas visíveis de 30/09/2026 a 13/11/2026, sem prazo geral.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-auxiliar-de-estoque (criar cadastro gratuito ou entrar; abrir a vaga e seguir a página; passo exato de candidatura não visto)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Parte das vagas é de nível básico, e anúncios mais antigos podem estar desatualizados.
+  - Esclarecimento: A listagem é parcial (40 exibidas, restante em 'mostrar mais vagas') e algumas datas são relativas.
+  - Esclarecimento: Há vagas exclusivas para PCD.
+- **Vagas.com - vagas de auxiliar de expedição** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-auxiliar-de-expedicao
+  - O que é: Candidatos a auxiliar de expedição, de depósito e de logística, assistente de armazém e conferência. Na consulta de 2026-11-23 havia 81 vagas (74 CLT, 6 temporárias, 1 estágio), quase todas presenciais, 39 em SP.
+  - Requisitos: Não informado na maior parte dos trechos vistos. O único conjunto claro visto pertence a outra vaga na página (Assistente Logística I, InterCement, Santana do Paraíso/MG): segundo grau completo e vivência em recebimento e expedição, Excel, PowerPoint e Word. Para as cinco vagas listadas, requisitos: sem dados.
+  - Pagamento ou benefício: sem dados (não exibido na listagem)
+  - Prazo ou ciclo: Fluxo contínuo; 81 vagas em 23/11/2026, datas visíveis de 24/09/2026 a 13/11/2026, sem prazo geral.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-auxiliar-de-expedicao (abrir a vaga; cadastro gratuito ou login oferecidos; obrigatoriedade não confirmada)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Os trechos exibidos descrevem tarefas, não requisitos.
+  - Esclarecimento: Vagas de agência de recrutamento (Adecco) aparecem na lista, e há vagas exclusivas para PCD.
+  - Esclarecimento: A listagem é parcial (cerca de 40 exibidas, restante em 'mostrar mais vagas') e algumas vagas mostram só datas relativas ('Há 4 a 7 dias').
+- **Adecco Brasil - portal de vagas abertas (temporárias e efetivas)** (aberta ou vigente, verificada 2 vezes) https://www.adecco.com/pt-br
+  - O que é: Candidatos a vagas administrativas, de estoque, financeiras e operacionais, temporárias ou efetivas, em várias cidades. A página inicial adecco.com/pt-br diz manter mais de 2 milhões de currículos e indica este portal na área 'Candidato'.
+  - Requisitos: Varia por vaga e não foi visto nas listagens. A página oferece envio de currículo geral ('Envie seu currículo para a gente' / 'Deixe o seu currículo'), sem exigência de experiência declarada nesse caminho. Requisitos por vaga: sem dados.
+  - Pagamento ou benefício: sem dados (não exibido)
+  - Prazo ou ciclo: Não foi vista lista de vagas nem prazo; a página apenas direciona ao portal JobConvo.
+  - Como se candidatar: https://app.jobconvo.com/pt-br/careers/Adecco/7b3711ce-e38f-4f76-ab5c-1fbef972c147/ (abrir a vaga ou usar o envio de currículo geral; também há contato por WhatsApp no site oficial)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página não lista vagas: apenas direciona ao portal JobConvo, cuja lista é renderizada no navegador e não pôde ser confirmada, nem a abertura durante todo o ano.
+  - Esclarecimento: O site institucional da Adecco (adecco.com/pt-br) liga 'Confira as nossas vagas abertas!' a esta URL; a Job Convo é a plataforma usada pela Adecco como portal de carreiras.
+  - Esclarecimento: Nenhum envio de currículo geral foi visto na página institucional.
+  - Esclarecimento: As vagas vistas misturam funções operacionais e técnicas.

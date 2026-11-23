@@ -1,0 +1,71 @@
+# Grupo 21: Profissionais das ciências e das engenharias
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **AXIA Energia - vagas na Gupy (portal antes ligado à Eletrobras)** (aberta ou vigente, verificada 2 vezes) https://axiaenergia.gupy.io/
+  - O que é: Engenheiros e técnicos de operação e manutenção, além de analistas jurídicos, de contratos, ESG, TI e novos negócios; inclui banco de talentos para PcD.
+  - Requisitos: Não informados na listagem; cada vaga tem requisitos próprios na página da vaga. Não foi visto nenhum cargo explicitamente sem exigência de experiência ou formação.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Fluxo contínuo (aberto todo o ano); banco de talentos permanente. Sem prazo visto.
+  - Como se candidatar: https://axiaenergia.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A listagem tinha 25 vagas em 3 páginas; nas 10 primeiras, 6 eram de efetivo e 4 de banco de talentos (Rio de Janeiro/RJ, Recife/PE, Brasília/DF e uma sem local).
+  - Esclarecimento: Nenhuma vaga de estágio apareceu nessa primeira página.
+  - Esclarecimento: A ligação anterior com a Eletrobras não foi confirmada na página.
+  - Esclarecimento: A página não mostra requisitos nem etapas, pois o texto de "Nosso processo seletivo" é apenas imagem.
+- **Braskem - carreiras (portal de vagas e programas de estágio e aprendiz)** (aberta ou vigente, verificada 2 vezes) https://www.braskem.com/carreira
+  - O que é: Profissionais experientes (portal de candidatos), universitários (Estágio Universitário), alunos de escola técnica (Estágio Técnico), jovens (Jovem Aprendiz) e candidatos à formação de operador industrial.
+  - Requisitos: Estágio Universitário: 18 anos ou mais, formatura prevista entre 2028 e 2029, disponibilidade presencial (ou híbrida até 2 dias remotos); sem experiência exigida. Estágio Técnico: 18 anos ou mais, ao menos 1 ano de matrícula em curso técnico, disponibilidade presencial. Jovem Aprendiz: 18 a 24 anos, cursando ou com ensino médio ou técnico concluído, todos os cursos aceitos, duração de até 16 meses; sem experiência exigida. Profissionais experientes: não informados.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (estágio: 'bolsa competitiva' sem valor, mais vale-refeição/transporte e plano médico; aprendiz: sem dados)
+  - Prazo ou ciclo: Profissionais experientes: caminho de candidatura contínuo via portal Oracle Cloud (portal não aberto nesta verificação). Estágio Universitário e Estágio Técnico: 'Inscrições encerradas' em 2026-11-23, sem data de reabertura. Jovem Aprendiz: sem datas visíveis.
+  - Como se candidatar: https://epiw.fa.la1.oraclecloud.com (profissionais experientes, não aberto nesta verificação); https://www.ciadeestagios.com.br (Jovem Aprendiz, conforme a página do programa)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O status aberto vale apenas para o caminho contínuo de currículo de profissionais experientes; os dois estágios estão encerrados.
+  - Esclarecimento: A inscrição no Jovem Aprendiz é feita pelo site Cia de Estágios (ciadeestagios.com.br), sem datas.
+  - Esclarecimento: O Estágio Universitário tem locais em AL, BA, RJ, RS e SP e duração de 1 a 2 anos.
+  - Esclarecimento: Programa de trainee não aparece na página.
+- **Copel - carreiras (cadastro, vagas, estágio e PcD)** (aberta ou vigente, verificada 2 vezes) https://carreiras.copel.com
+  - O que é: Engenheiros, técnicos, eletricistas de manutenção, estagiários e pessoas com deficiência (PcD).
+  - Requisitos: Não informados na página. Aluno Energia (programa à parte): estudantes cotistas de Engenharia Elétrica de universidades públicas do Paraná.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Cadastro de perfil contínuo (aberto todo o ano). Listagem de vagas não carregou ('Carregando...'); estágio sem vagas abertas listadas. Sem prazos.
+  - Como se candidatar: https://carreiras.copel.com
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O cadastro de perfil é feito em formulário do SAP SuccessFactors; vagas específicas não foram vistas, pois a listagem não carregou.
+  - Esclarecimento: O Programa de Estágio é descrito, mas sem vagas atuais.
+  - Esclarecimento: As inscrições do programa de bolsas Aluno Energia foram encerradas em 26/09/2025, segundo notícia da Agência Estadual de Notícias do Paraná.
+  - Esclarecimento: A página convida pessoas com deficiência (PcD) a usar o mesmo cadastro ou o LinkedIn.
+- **CNPEM - vagas na Gupy (Campinas/SP)** (aberta ou vigente, verificada 2 vezes) https://cnpem.gupy.io/
+  - O que é: Profissionais de computação científica, desenvolvimento tecnológico, pesquisa e segurança do trabalho; PcD; estudantes (programas PUE, PBV e PIBIC citados no site institucional).
+  - Requisitos: Não exibidos na listagem; constam em cada vaga. Todas as vagas vistas pedem perfil técnico ou superior; nenhuma indicada como sem experiência.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Fluxo contínuo; banco de talentos para PcD permanente. Sem prazo visto.
+  - Como se candidatar: https://cnpem.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A listagem tinha 9 vagas, todas em Campinas/SP: 7 de efetivo, 1 temporária e 1 de banco de talentos (PcD); algumas em modalidade híbrida.
+  - Esclarecimento: Duas vagas estão marcadas como ação afirmativa para mulheres.
+- **Vagas.com - vagas de engenheiro civil** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-engenheiro-civil
+  - O que é: Engenheiros civis de todos os níveis, de estagiário a sênior, em construtoras e consultorias.
+  - Requisitos: Variam por vaga; a busca é por engenheiro civil, então a maioria exige formação em Engenharia Civil. As 5 vagas de estágio indicam acesso para estudantes, sem experiência exigida (requisitos exatos não vistos).
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (varia por vaga)
+  - Prazo ou ciclo: Fluxo contínuo (aberto todo o ano). Cada vaga tem seu próprio prazo, não visto.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-engenheiro-civil
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A listagem tinha 26 vagas: 19 CLT, 5 de estágio e 2 PJ, em 17 cidades de 9 estados; algumas vagas aparecem como "Confidencial".
+  - Esclarecimento: A leitura deu 8 vagas em São Paulo/SP, e não as 13 informadas; a diferença não foi resolvida.
+  - Esclarecimento: A candidatura é feita na página de cada vaga, com cadastro gratuito e login.
+  - Esclarecimento: As 5 vagas de estágio indicam acesso para estudantes, mas os requisitos exatos não foram vistos.
+- **CFBio - Conselho Federal de Biologia (registro nos CRBios e página de concursos)** (não verificada, verificada 1 vez) https://www.cfbio.gov.br
+  - O que é: Biólogos e profissionais de ciências biológicas que precisam do registro regional para exercer a profissão.
+  - Requisitos: Não informadas na página lida; o registro nos CRBios exige formação em Ciências Biológicas, mas isso não foi visto na página e é sem dados.
+  - Pagamento ou benefício: Concurso de 2025 (não confirmado como aberto): R$ 5.645,25 a R$ 7.219,39, conforme o cargo. Fora disso, sem dados.
+  - Prazo ou ciclo: Sem chamada aberta de emprego vista em 2026-11-23. O único concurso público de pessoal visto é o anunciado em 03/01/2025 (Instituto Quadrix); sem datas e sem indicação de repetição.
+  - Como se candidatar: https://cfbio.gov.br/perguntas-frequentes/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não é fonte de vagas abertas: o site não traz vagas de emprego e o registro em CRBio é profissional, não emprego.
+  - Esclarecimento: O concurso de 2025 para a sede em Brasília (banca Quadrix) oferecia Agente Administrativo, Analista de Sistemas e Analista de Desenvolvimento, com 40 h semanais e taxa de R$ 55,00 a R$ 60,00; seu estado atual não foi confirmado.
+  - Esclarecimento: O site aponta o Cadastro Nacional de Biólogos e a lista dos dez CRBios regionais, sem explicar como registrar-se.

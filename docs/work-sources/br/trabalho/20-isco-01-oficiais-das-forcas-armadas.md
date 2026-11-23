@@ -1,0 +1,71 @@
+# Grupo 01: Oficiais das forças armadas
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Programa MFDV: Médicos, Farmacêuticos, Dentistas e Veterinários no serviço militar (Ministério da Defesa)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/defesa/pt-br/assuntos/servico-militar/medicos-farmaceuticos-dentistas-e-veterinarios-mfdv
+  - O que é: Estudantes do último semestre e profissionais formados em Medicina, Farmácia, Odontologia e Veterinária. Para homens, a incorporação é obrigatória; médicos, farmacêuticos, dentistas e veterinários de ambos os sexos também podem se candidatar como voluntários.
+  - Requisitos: Formação superior em Medicina, Farmácia, Odontologia ou Veterinária (concluída ou no último semestre); situação militar comprovada; no voluntariado, menos de 38 anos em 31/12 do ano da convocação. Exige curso superior, não é para quem não tem escolaridade.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (a página não menciona remuneração)
+  - Prazo ou ciclo: Anual. A página diz que a seleção ocorre normalmente de setembro a novembro; nenhuma data específica de 2026 ou 2027 foi vista, e em 2026-11-23 o período normal está no fim.
+  - Como se candidatar: Organização Militar da cidade do candidato, conforme a página; endereço específico não visto
+  - Leitura automática possível: nenhum visto
+  - Esclarecimento: Exige diploma ou formação em curso na área da saúde, portanto não serve a quem não tem escolaridade superior.
+  - Esclarecimento: O serviço obrigatório aplica-se a estudantes homens do último semestre e a profissionais com adiamento de incorporação; o voluntário abrange ambos os sexos.
+  - Esclarecimento: A página remete à Organização Militar da cidade para documentos, data e local de apresentação à Comissão de Seleção Especial.
+  - Esclarecimento: A subpágina "Saiba como participar da seleção" não foi lida.
+- **Serviço Militar Obrigatório: alistamento, seleção geral e incorporação (Ministério da Defesa)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/defesa/pt-br/assuntos/servico-militar/servico-militar-obrigatorio
+  - O que é: Jovens que completam 18 anos; o alistamento é feito no ano em que completam essa idade. É a porta de entrada para soldados e recrutas nas três Forças.
+  - Requisitos: Homens brasileiros no ano em que completam 18 anos. Não exige experiência nem diploma. Online: formulário com CPF. Sem CPF: certidão de nascimento (ou comprovante de naturalização/opção), comprovante de residência ou declaração assinada e, de preferência, documento de identidade com foto. A seleção avalia aptidão física e capacidade analítica, além de aspectos culturais, psicológicos e morais.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (a página não menciona remuneração)
+  - Prazo ou ciclo: Anual. Alistamento do primeiro dia útil de janeiro ao último dia útil de junho, no ano em que o jovem completa 18 anos; Seleção Geral normalmente de fevereiro a novembro; depois incorporação ou matrícula. Datas específicas de 2026 ou 2027 não constam na página.
+  - Como se candidatar: https://alistamento.eb.mil.br
+  - Leitura automática possível: nenhum visto
+  - Esclarecimento: Não é emprego remunerado em sentido estrito; é obrigação militar.
+  - Esclarecimento: A data de comparecimento à seleção deve ser consultada no site de alistamento.
+- **Perguntas frequentes sobre o serviço militar (Ministério da Defesa)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/defesa/pt-br/assuntos/servico-militar/perguntas-frequentes-servico-militar
+  - O que é: Jovens e familiares com dúvidas sobre alistamento, adiamento de incorporação, seleção geral e multas; estudantes de Medicina, Farmácia, Odontologia e Veterinária que querem concorrer como oficiais temporários.
+  - Requisitos: Homens brasileiros no ano em que completam 18 anos, inclusive pessoas com deficiência segundo a página. Sem exigência de experiência ou diploma. CPF para alistamento online; sem CPF, certidão de nascimento, comprovante de residência ou declaração assinada e, de preferência, documento com foto, na Junta de Serviço Militar (órgão municipal).
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (a página não menciona remuneração)
+  - Prazo ou ciclo: Anual. Alistamento de janeiro a junho do ano em que se completam 18 anos.
+  - Como se candidatar: https://alistamento.eb.mil.br
+  - Leitura automática possível: nenhum visto
+  - Esclarecimento: É página de orientação, e não uma vaga; o ciclo é o mesmo da página de serviço militar obrigatório.
+  - Esclarecimento: Esta página informa que mulheres são isentas do serviço militar em tempo de paz, enquanto a página-índice do Ministério fala em alistamento opcional para mulheres; os textos divergem e convém conferir.
+  - Esclarecimento: Há multa por alistamento fora do prazo (R$ 6,38 no 2º trimestre de 2025, reajustada trimestralmente).
+- **Serviço Militar: página-índice com ligações para Marinha, Exército e Força Aérea (Ministério da Defesa)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/defesa/pt-br/assuntos/servico-militar
+  - O que é: Qualquer pessoa que queira entender os caminhos do serviço militar (obrigatório, feminino voluntário, saúde MFDV, reserva) e chegar aos sites de ingresso de cada Força.
+  - Requisitos: Alistamento: homens no ano em que completam 18 anos, sem exigência de experiência ou diploma. Pode ser feito online ou presencialmente em uma Junta de Serviço Militar. EXAR: quem serviu nas Forças Armadas nos últimos cinco anos.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Anual. Alistamento de 1º de janeiro a 30 de junho do ano em que o jovem completa 18 anos. A atualização de dados de reservistas (EXAR) ocorre em dezembro.
+  - Como se candidatar: https://alistamento.eb.mil.br
+  - Leitura automática possível: nenhum visto
+  - Esclarecimento: Serve apenas como índice, com ligações para as páginas da Marinha, do Exército e da FAB; não é uma vaga.
+  - Esclarecimento: A página informa que o alistamento é obrigatório para homens e opcional para mulheres.
+  - Esclarecimento: A página não exibe data de última atualização.
+- **EXAR: Exercício de Apresentação da Reserva (atualização de reservistas e militares temporários licenciados)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/defesa/pt-br/assuntos/servico-militar/exercicio-de-apresentacao-da-reserva-exar-2
+  - O que é: Oficiais e praças de carreira na reserva remunerada, oficiais demitidos sem perda de posto, oficiais e praças temporários licenciados com CDI em Situação Especial, reservistas de 1ª e 2ª categorias licenciados nos últimos cinco anos e aspirantes R/2 formados em OFOR. Não é vaga de emprego, e sim obrigação de quem já serviu.
+  - Requisitos: Ter servido às Forças Armadas e estar dentro dos cinco anos de disponibilidade. Não exige experiência nova nem diploma. Online pelo site da força em que serviu: Marinha em exarnet.dpm.mar.mil.br; Exército e Aeronáutica em www.exarnet.eb.mil.br.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: Não se aplica (obrigação, não vaga remunerada)
+  - Prazo ou ciclo: Anual. Pela internet de 1º de dezembro a 31 de janeiro do ano seguinte; presencialmente, de 9 a 16 de dezembro (segunda a sexta), em unidade militar. Ciclo de 2026/2027 abre em 1º/12/2026 pelo padrão da página (a página não cita o ano).
+  - Como se candidatar: https://www.exarnet.eb.mil.br
+  - Leitura automática possível: nenhum visto
+  - Esclarecimento: Não é vaga de emprego; é obrigação de quem já serviu.
+  - Esclarecimento: A página indica última atualização em 02/09/2024 e não cita o ano do ciclo; o ciclo 2026/2027 foi inferido pelo padrão de datas.
+  - Esclarecimento: Nos quatro primeiros anos a atualização é online; no quinto ano é necessário comparecer à última organização militar, à unidade mais próxima ou a uma Junta de Serviço Militar.
+- **Agência Gov: como se tornar Fuzileiro Naval (caminhos por escolaridade, matéria de março de 2025)** (se repete (hoje sem chamada aberta), verificada 1 vez) https://concursos.marinha.mil.br
+  - O que é: Candidatos ao Corpo de Fuzileiros Navais em três níveis: ensino fundamental (Colégio Naval), ensino médio (Soldado Fuzileiro Naval, Escola Naval, Sargento Músico) e ensino superior (Quadro Complementar de Oficiais do CFN).
+  - Requisitos: Soldado Fuzileiro Naval: ensino médio concluído ou em último ano, 18 a menos de 22 anos em 30 de junho do ano de início do curso. Colégio Naval: ensino fundamental concluído ou no último ano, 15 a menos de 18 anos. Escola Naval: 3ª série do ensino médio concluída ou em curso, 18 a menos de 23 anos. Sargento Músico: ensino médio concluído ou quase, 18 a menos de 25 anos, aptidão musical. QC-FN: ensino superior concluído ou em curso e registro no conselho profissional, menos de 29 anos, brasileiro. Soldado, Escola Naval e Colégio Naval: sem filhos ou dependentes, não casado e sem união estável. Não exige experiência profissional prévia.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: A matéria diz que a remuneração pode superar R$ 9.000; durante a formação a Marinha fornece alimentação, fardamento, soldo e assistência médica, odontológica, psicológica, social e religiosa. Valor exato: sem dados.
+  - Prazo ou ciclo: Concursos anuais com editais próprios. Em 2025: Soldado Fuzileiro Naval (C-FSD-FN) de 21/01 a 28/03 (prorrogadas); Sargento Músico de 03/04 a 16/05; Escola Naval, Colégio Naval e QC-FN previstos para a segunda quinzena de março ou abril de 2025, segundo a matéria. Datas de 2026 e 2027 não vistas.
+  - Como se candidatar: https://concursos.marinha.mil.br
+  - Leitura automática possível: nenhum visto
+  - Esclarecimento: A fonte é uma matéria da Agência Gov de 06/03/2025, com base em conteúdo da Marinha; os prazos citados de 2025 já estão encerrados.
+  - Esclarecimento: Não foi confirmado edital de 2026 ou 2027, e a matéria não indica data de atualização.
+  - Esclarecimento: A candidatura é feita no site do Comando-Geral do Corpo de Fuzileiros Navais (seção "Concursos para o CFN"), no aplicativo "Adsumus Sempre" e no site de concursos da Marinha.

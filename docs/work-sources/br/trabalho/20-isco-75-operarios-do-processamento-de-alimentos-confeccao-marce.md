@@ -1,0 +1,84 @@
+# Grupo 75: Operários do processamento de alimentos, confecção, marcenaria e outros artesãos
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Aurora Coop - Trabalhe na Aurora Coop (vagas, estágio, Jovem Aprendiz e banco de talentos)** (aberta ou vigente, verificada 2 vezes) https://auroracoop.com.br/fale-conosco/trabalhe-na-aurora-coop/
+  - O que é: Qualquer pessoa interessada em trabalhar nas unidades da cooperativa, de Norte a Sul do país, segundo a página; há trilhas separadas para estágio, Jovem Aprendiz (14 a 24 anos, sem limite de idade para pessoa com deficiência) e trainee. Na página inicial do site constava a vaga de Operador de Produção.
+  - Requisitos: Jovem Aprendiz: idade entre 14 e 24 anos (sem limite de idade para pessoa com deficiência), frequência às atividades teóricas e práticas e desempenho escolar e profissional adequado; a página não pede experiência para o programa. Demais vagas: requisitos variam por vaga (não vistos nesta página).
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Caminho de candidatura aberto o ano todo (portal de vagas e banco de talentos); sem prazos ou calendário na página. Jovem Aprendiz é divulgado por escolas parceiras (Senac e Senai) e pelas unidades.
+  - Como se candidatar: https://auroracoop.gupy.io/
+  - Leitura automática possível: sem dados (portal Gupy de vagas, sem API verificada)
+  - Esclarecimento: A candidatura para vagas e trainee é encaminhada ao portal Gupy (auroracoop.gupy.io), enquanto o estágio tem portal Gupy próprio (estagiosauroracoop.gupy.io) e há link de banco de talentos para quando nenhuma vaga serve.
+  - Esclarecimento: O programa Trainee é voltado a carreira de gestão.
+  - Esclarecimento: A empresa declara não cobrar nenhuma taxa de candidatos e alerta sobre fraudes.
+  - Esclarecimento: Salários não aparecem na página.
+- **Aurora Coop - portal de vagas na Gupy** (aberta ou vigente, verificada 2 vezes) https://auroracoop.gupy.io/
+  - O que é: Candidatos a vagas nas unidades da cooperativa. Na consulta de 2026-11-23 havia 45 vagas; as 10 primeiras eram 2 de analista (Efetivo) e 8 de Aprendiz, em São José dos Pinhais (PR), Erechim (RS), Rio de Janeiro (RJ), Guarulhos (SP), Chapecó (SC), Cabo de Santo Agostinho (PE), Campinas (SP) e Campina Grande (PB).
+  - Requisitos: Variam por vaga; vagas de Aprendiz não exigem experiência (idade de 14 a 24 anos segundo a página institucional).
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto de forma contínua; 45 vagas vistas em 2026-11-23 (5 páginas de 10). Prazos individuais não aparecem na listagem.
+  - Como se candidatar: https://auroracoop.gupy.io/
+  - Leitura automática possível: sem dados (Gupy)
+  - Esclarecimento: A listagem não traz nenhuma vaga de estágio, que fica em portal separado (estagiosauroracoop.gupy.io).
+  - Esclarecimento: A candidatura é feita pela própria Gupy.
+- **Cia. Hering - vagas na Gupy (inclui Jovem Aprendiz e área de corte/preparação de facas)** (aberta ou vigente, verificada 2 vezes) https://ciahering.gupy.io/
+  - O que é: Candidatos a vagas da empresa. Na consulta de 2026-11-23 havia 30 vagas em 3 páginas; entre as 10 primeiras, 7 eram de Jovem Aprendiz em lojas de São Paulo (SP) e 3 eram efetivas em Blumenau (SC), incluindo Preparador de Facas.
+  - Requisitos: Variam por vaga e não foram vistos na listagem. Vagas de Jovem Aprendiz normalmente dispensam experiência, mas a exigência não foi vista nesta página.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto de forma contínua; 30 vagas vistas em 2026-11-23. Prazos individuais não aparecem na listagem.
+  - Como se candidatar: https://ciahering.gupy.io/
+  - Leitura automática possível: sem dados (Gupy)
+  - Esclarecimento: Apenas a primeira página (10 das 30 vagas) foi vista; as demais 20 não foram conferidas.
+  - Esclarecimento: A candidatura é feita pela Gupy.
+- **Grendene - portal de vagas na Gupy (calçados: banco de talentos da área produtiva)** (aberta ou vigente, verificada 2 vezes) https://facapartegrendene.gupy.io/
+  - O que é: Candidatos a vagas de fábrica e apoio. Na consulta de 2026-11-23 havia 26 vagas; as 10 primeiras incluíam Ajudante de Produção e Auxiliar de Expedição (Farroupilha, RS), além de três bancos de talentos 'Área Produtiva' para Fortaleza, Crato e Sobral (CE).
+  - Requisitos: sem dados. Não foram vistos requisitos nem exigência de experiência para a área produtiva.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto de forma contínua; 26 listagens vistas em 2026-11-23, incluindo bancos de talentos 2026 da área produtiva. Sem prazos visíveis.
+  - Como se candidatar: https://facapartegrendene.gupy.io/
+  - Leitura automática possível: sem dados (Gupy)
+  - Esclarecimento: A página não separa vagas abertas de bancos de talentos no total de 26 listagens, e apenas as 10 primeiras foram vistas.
+  - Esclarecimento: Banco de talentos não garante contratação.
+- **Bauducco - portal de vagas na Gupy (biscoitos e panetones: Jovem Aprendiz e campanha de Natal)** (aberta ou vigente, verificada 2 vezes) https://bauducco.gupy.io/
+  - O que é: Candidatos a vagas de escritório, vendas e operação de loja, e ao banco de talentos de Jovem Aprendiz em Guarulhos (SP) e Rio Largo (AL). Na consulta de 2026-11-23 havia 38 vagas; as 10 primeiras eram principalmente corporativas em Guarulhos, mais uma vaga temporária 'Campanha de Natal Bauducco 2026, Operações de Loja' em São Paulo.
+  - Requisitos: Não descritos na página de listagem; constam apenas nas páginas individuais das vagas (não abertas). Para os bancos de talentos de Jovem Aprendiz e o banco geral, a página não exige experiência explícita, mas isso não foi confirmado nas páginas individuais.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto em 2026-11-23: 38 vagas listadas e bancos de talentos; sem prazo de inscrição informado na página.
+  - Como se candidatar: https://bauducco.gupy.io/
+  - Leitura automática possível: sem dados (Gupy)
+  - Esclarecimento: A candidatura é feita clicando na vaga ou no banco de talentos; o botão 'Participar do banco de talentos' permite cadastro sem vaga específica.
+  - Esclarecimento: A campanha de Natal aparece como vaga temporária.
+  - Esclarecimento: Os dois bancos de talentos listados são do programa Jovem Aprendiz (Rio Largo/Maceió-AL e Guarulhos-SP).
+- **Guararapes (painéis de MDF e compensado, Caçador/SC) - vagas na Gupy** (aberta ou vigente, verificada 2 vezes) https://guararapes.gupy.io/
+  - O que é: Candidatos a vagas de fábrica, armazém e área florestal. Na consulta de 2026-11-23 havia 37 vagas; as 10 primeiras, todas Efetivo, eram em Caçador (SC) e uma em Palmas (PR), entre elas Auxiliar de produção Acabamento (duas vagas), Auxiliar de pátio, Auxiliar de limpeza externa e Assistente de Armazém, e uma vaga exclusiva para pessoa com deficiência.
+  - Requisitos: Não descritos na listagem; constam nas páginas individuais (não abertas). Há vagas operacionais de entrada (ex.: auxiliar de limpeza externa, auxiliar de pátio, auxiliar de produção), mas a ausência de exigência de experiência não foi confirmada.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto em 2026-11-23: 37 vagas listadas e banco de talentos; sem prazo de inscrição informado.
+  - Como se candidatar: https://guararapes.gupy.io/
+  - Leitura automática possível: sem dados (Gupy)
+  - Esclarecimento: Todas as vagas vistas são efetivas; o regime CLT é presumido, não confirmado.
+  - Esclarecimento: A candidatura é feita pela página da vaga ou pelo banco de talentos.
+- **Vulcabras (Olympikus, Mizuno, Under Armour) - vagas na Gupy e banco de talentos da unidade de Parobé/RS** (aberta ou vigente, verificada 2 vezes) https://vulcabras.gupy.io/
+  - O que é: Candidatos a vagas da empresa e ao banco de talentos da unidade de Parobé (RS). Na consulta de 2026-11-23 havia 11 vagas; as visíveis eram de vendas, lojas e gerência (São Paulo, Jundiaí, Guarulhos, Chapecó, Porto Belo e Parobé) e três bancos de talentos.
+  - Requisitos: Não descritos na listagem; constam nas páginas individuais (não abertas). Os bancos de talentos recebem cadastro sem vaga específica.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto em 2026-11-23: 11 vagas e bancos de talentos permanentes; sem prazo informado.
+  - Como se candidatar: https://vulcabras.gupy.io/
+  - Leitura automática possível: sem dados (Gupy)
+  - Esclarecimento: A página não declara que os bancos de talentos sejam permanentes; apenas lista três bancos (Lojas Vulcabras em Jundiaí/SP, Recursos Humanos e Unidade Parobé em Parobé/RS) e um botão 'Participar do banco de talentos'.
+- **ABIP - Associação Brasileira da Indústria de Panificação e Confeitaria (entidade do setor de padarias)** (não verificada, verificada 1 vez) https://www.abip.org.br/
+  - O que é: Donos e profissionais de padarias e confeitarias. É entidade patronal do setor; a página lida não oferece quadro de vagas nem curso fixo.
+  - Requisitos: Não se aplica: a página não traz portal de vagas nem cursos de formação para quem busca emprego.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Sem ciclo de vagas ou cursos para candidatos. Evento visto: 83ª Convenção Nacional, Goiânia/GO, 4 a 6 de novembro de 2026 (já encerrada em 2026-11-23).
+  - Como se candidatar: sem dados
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É entidade de representação do setor e não oferece vagas, bolsas ou cursos para o público geral.
+  - Esclarecimento: Os seminários digitais gratuitos e o Plantão Jurídico listados são de 2022 e destinados a associados.
+  - Esclarecimento: Não é recomendada como fonte de vagas, no máximo como referência setorial.
+  - Esclarecimento: Contato: comunicacao@abip.org.br e assessoria@abip.org.br.

@@ -1,0 +1,79 @@
+# Grupo 32: Profissionais de nível médio da saúde
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Grupo Fleury - Trabalhe conosco (vagas no Vagas.com)** (aberta ou vigente, verificada 2 vezes) https://trabalheconosco.vagas.com.br/grupo-fleury
+  - O que é: Candidatos a vagas em unidades de medicina diagnóstica do grupo, em várias regiões (SP, ES, RJ, MG, Sul, Nordeste, Norte/Centro-Oeste), inclusive Jovem Aprendiz.
+  - Requisitos: Não informados na página de listagem; cada descrição de vaga define os seus. Vagas como Jovem Aprendiz e atendimento de entrada sugerem porta de entrada, mas a exigência de experiência não foi confirmada.
+  - Pagamento ou benefício: A combinar (nas três vagas vistas); demais vagas não verificadas
+  - Prazo ou ciclo: Fluxo contínuo de vagas; a página exibia 216 vagas abertas e as três vagas de destaque indicavam 'Faltam 7 dias para encerrar esta vaga'. A data exata da consulta não aparece na página (rodapé '© 2026').
+  - Como se candidatar: https://trabalheconosco.vagas.com.br/grupo-fleury
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A data exata da consulta não aparece na página.
+  - Esclarecimento: A página afirma que o processo seletivo é gratuito e que nenhum terceiro pode cobrar por inscrição, treinamento ou material.
+  - Esclarecimento: Vagas vistas: Operador de Atendimento I em Itajaí/SC e Vitória/ES e Programa Jovem Aprendiz em Belém/PA.
+- **Dasa - Carreiras (diagnóstico e rede assistencial; portais por área na Gupy)** (aberta ou vigente, verificada 2 vezes) https://dasa.com.br/carreira
+  - O que é: Qualquer pessoa interessada em vagas de atendimento, assistencial (enfermagem, laboratórios, fisioterapia, nutrição, psicologia, medicina), corporativo, tecnologia e programas de entrada (Jovem Aprendiz, estágio, trainee), além de vagas inclusivas (DiversiDasa).
+  - Requisitos: Definidos em cada vaga na Gupy; a página não lista requisitos gerais. Há trilha de Programas de Entrada (aprendiz, estágio, trainee), mas a exigência de experiência ou escolaridade de cada uma não foi vista.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Contínuo. 'Vagas Banco' funciona como banco nacional de candidatos, avaliado para vagas próximas ao CEP informado; o perfil permanece ativo para oportunidades futuras.
+  - Como se candidatar: https://dasa.com.br/carreira
+  - Leitura automática possível: sem dados
+  - Esclarecimento: As etapas incluem testes online (pode haver vídeo-currículo), entrevista com RH e com gestor e avaliações técnicas conforme o cargo.
+  - Esclarecimento: A admissão exige documentação completa e exame médico (ASO).
+  - Esclarecimento: A empresa afirma não cobrar taxas e não pedir documentos por aplicativos de mensagem.
+  - Esclarecimento: As vagas inclusivas (DiversiDasa) abrangem pessoas mais velhas, LGBTQIA+, mulheres e pessoas com deficiência.
+- **Dasa Assistencial - vagas na Gupy (laboratório, coleta, enfermagem)** (aberta ou vigente, verificada 2 vezes) https://dasaassistencial.gupy.io/
+  - O que é: Candidatos a vagas de laboratório e de apoio à operação de unidades, como Analista de Laboratório, Assistente de Laboratório, Assistente de Operações de Unidade e Coletador(a), em unidades de SP e SC vistas na amostra.
+  - Requisitos: Não informados na listagem; abrir cada vaga. Nenhuma indicação de que seja exigida experiência foi vista, mas também não foi confirmada.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Contínuo. O portal mostrava 39 vagas em 4 páginas de resultado; só as 10 primeiras foram lidas. Há a opção 'Participar do banco de talentos'.
+  - Como se candidatar: https://dasaassistencial.gupy.io/
+  - Leitura automática possível: Gupy: listagem pública de vagas; formato exato não verificado.
+  - Esclarecimento: Apenas as 10 primeiras vagas foram lidas: nove são 'Banco de talentos' e uma é 'Efetivo' (Coletador(a) em Joinville/SC); as páginas 2 a 4 não foram lidas.
+  - Esclarecimento: A maioria das vagas não exibe cidade na listagem.
+  - Esclarecimento: A empresa afirma não cobrar taxas na seleção.
+- **Oncoclínicas&Co - Trabalhe conosco (portal de vagas para colaboradores e médicos)** (aberta ou vigente, verificada 2 vezes) https://grupooncoclinicas.com/trabalhe-conosco/
+  - O que é: Candidatos a vagas em saúde, gestão e administração (colaboradores) e médicos de oncologia, radioterapia, hematologia e transplante de medula óssea.
+  - Requisitos: A página cita apenas alinhamento aos valores da empresa e excelência técnica; requisitos por vaga ficam no portal. Experiência exigida: sem dados.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Contínuo (cadastro de currículo aberto); a página não informa o número de vagas nem prazos. O endereço redireciona (302) para http://grupooncoclinicas.com/trabalhe-conosco.
+  - Como se candidatar: https://grupooncoclinicas.com/trabalhe-conosco/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Os botões de cadastro levam a um portal externo (OncoRH, em Oracle Cloud); o endereço exato do portal não foi visto.
+  - Esclarecimento: Não há cadastro específico para médicos, apenas o mesmo portal.
+  - Esclarecimento: O grupo informa que não cobra por cadastro, exames admissionais ou qualquer etapa e orienta a não passar dados por telefone ou WhatsApp.
+  - Esclarecimento: Vagas concretas não foram vistas.
+- **CONTER - Inscrição de técnicos em radiologia (registro profissional)** (aberta ou vigente, verificada 2 vezes) https://conter.gov.br/inscricao/
+  - O que é: Técnicos em radiologia que precisam do registro para exercer a profissão (inclui radiologia médica e industrial).
+  - Requisitos: Para técnicos: diploma ou certificado de conclusão, histórico escolar com data completa de matrícula e portaria de autorização do conselho estadual de educação. Para todos: comprovante de estágio supervisionado concluído, histórico e certificado do ensino médio, RG, CPF, título de eleitor, certidão de nascimento ou casamento, certificado de reservista (homens), comprovante de residência com CEP, duas fotos 3x4 coloridas e comprovante de pagamento da taxa. Sem diploma ainda: declaração ou certificado de conclusão e histórico, assinados pela direção ou secretaria, para o registro provisório.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: Não se aplica (registro profissional). Taxa de inscrição exigida, valor não informado na página.
+  - Prazo ou ciclo: Permanente (sem prazo). Registro provisório vale 180 dias, prorrogável por igual período; dentro do prazo é preciso entregar o diploma e pedir o registro definitivo, sob pena de cancelamento.
+  - Como se candidatar: https://conter.gov.br/inscricao/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Trata-se de registro profissional, não de vaga de emprego.
+  - Esclarecimento: O pedido é feito ao Conselho Regional competente, e os documentos podem ser autenticados no próprio Conselho Regional com originais e cópias simples.
+  - Esclarecimento: É exigida taxa de inscrição, cujo valor não consta na página.
+  - Esclarecimento: Contato do CONTER na página: (61) 3326-9374 / 3051-6500, conter@conter.gov.br.
+- **CFF - Conselho Federal de Farmácia (consulta de profissionais e cédula digital, inclusive técnicos de farmácia)** (não verificada, verificada 1 vez) https://site.cff.org.br/
+  - O que é: Farmacêuticos e técnicos de farmácia, e quem quer conferir se um profissional está registrado. A busca 'Encontre um Profissional' filtra por estado, cidade, categoria (Farmacêutico ou Técnico) e nome ou número do CRF.
+  - Requisitos: sem dados (não descritos na página inicial)
+  - Pagamento ou benefício: Não se aplica
+  - Prazo ou ciclo: Permanente, mas a página inicial não descreve nenhum processo de inscrição ou candidatura.
+  - Como se candidatar: sem dados
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O registro de profissionais não é descrito na página, e o caminho para se inscrever (em geral nos conselhos regionais) não foi confirmado.
+  - Esclarecimento: O botão 'Cadastrar' é apenas de boletim de notícias.
+  - Esclarecimento: A página traz alerta de golpe sobre falsas ofertas de desconto em anuidade e outros débitos que usam o nome do CFF.
+- **Piso Nacional da Enfermagem (Ministério da Saúde) - piso salarial de enfermeiros, técnicos, auxiliares e parteiras** (não verificada, verificada 1 vez) https://www.gov.br/saude/pt-br/composicao/sgtes/piso-da-enfermagem
+  - O que é: Profissionais de enfermagem (enfermeiros, técnicos, auxiliares e parteiras) e empregadores públicos, filantrópicos e prestadores do SUS que precisam cumprir o piso. A página cita a Lei 14.434/2022 como a que instituiu o piso.
+  - Requisitos: Não se aplica (referência salarial para o vínculo de trabalho)
+  - Pagamento ou benefício: Valores do piso não informados na página
+  - Prazo ou ciclo: Permanente (política salarial); não há inscrição nem prazo. A página não mostra data de atualização (apenas '©2025 - Ministério da Saúde').
+  - Como se candidatar: sem dados
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não é vaga nem inscrição: trata-se de página sobre a política do piso salarial.
+  - Esclarecimento: A assistência financeira complementar (AFC) é repassada a estados, municípios, DF e entidades que atendem ao menos 60% de pacientes pelo SUS, e terceirizadas e cooperativas, em princípio, não são elegíveis.
+  - Esclarecimento: Não foi confirmado que o piso esteja em vigor sem restrições em 2026-11-23.

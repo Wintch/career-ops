@@ -1,0 +1,83 @@
+# Grupo 13: Diretores de produção e operações
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Vagas.com - vagas de gerente de produção** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-gerente-de-producao
+  - O que é: Profissionais com experiência em gestão de fábrica ou produção industrial. A página também mistura vagas de estágio e de logística.
+  - Requisitos: Varia por vaga; requisitos não visíveis nas vagas de Gerente de Produção. Uma vaga de logística na mesma busca pede graduação em Logística, Administração, Engenharia de Produção ou áreas correlatas.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto o ano todo (anúncios contínuos); em 2026-11-23 a página indicava 144 resultados
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-gerente-de-producao
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A busca é ampla: dos 40 resultados exibidos, apenas 2 tinham 'Gerente de Produção' no título (Vallourec Soluções Tubulares, Rio das Ostras/RJ, e InterCement Brasil S.A., Apií/SP).
+  - Esclarecimento: A vaga da InterCement foi publicada em 17/08/2026, há mais de três meses, e pode estar defasada.
+  - Esclarecimento: O restante dos resultados é majoritariamente de logística e operações, inclusive cargos de entrada e supervisão.
+  - Esclarecimento: A candidatura exige cadastro gratuito e login e é feita na página de cada vaga.
+- **Vagas.com - vagas de gerente de logística** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-gerente-de-logistica
+  - O que é: Gestores de logística, armazenagem, distribuição e cadeia de suprimentos. Há também cargos de coordenação e de áreas vizinhas nos resultados.
+  - Requisitos: Varia por vaga. Exemplos: graduação em Logística, Administração, Engenharia de Produção ou áreas correlatas; experiência comprovada em compras, pricing ou logística para a vaga de J&T Express. Não foi visto cargo de gerência sem exigência de experiência.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto o ano todo (anúncios contínuos); em 2026-11-23 a página indicava 388 resultados
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-gerente-de-logistica
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A busca é ampla: dos 40 resultados exibidos, poucos são específicos de logística e muitos são cargos gerais de gerência ou administração.
+  - Esclarecimento: A listagem inclui cargos próximos, como produção, administrativo-financeiro e compras.
+  - Esclarecimento: A candidatura exige cadastro gratuito e login e é feita na página de cada vaga.
+- **Michael Page Brasil - recrutamento especializado (Engenharia & Manufatura, Operações & Supply Chain, Logística)** (aberta ou vigente, verificada 2 vezes) https://www.michaelpage.com.br/
+  - O que é: Profissionais de nível pleno a executivo que buscam posições de gestão em indústria, operações, cadeia de suprimentos e logística, permanentes ou temporárias.
+  - Requisitos: Definidos em cada vaga e não listados na página inicial. As vagas vistas são predominantemente de nível sênior ou de gestão, com experiência exigida (ex.: experiência Latam para Gerente Sr de Marketing). Nenhuma exigência geral de escolaridade foi vista.
+  - Pagamento ou benefício: Varia por vaga; a maioria não informa. Exemplos vistos: R$ 12.000 a R$ 15.000 por mês (analista sênior) e R$ 138.000 a R$ 159.960 por ano (especialista de contas).
+  - Prazo ou ciclo: Em 23/11/2026, /jobs mostrava 355 vagas em português (353 Brasil, 2 internacional), sem prazo por vaga; a página inicial não mostrava número de vagas.
+  - Como se candidatar: https://www.michaelpage.com.br/jobs
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página inicial não exibe contagem de vagas; os 355 anúncios (353 no Brasil e 2 internacionais) aparecem em michaelpage.com.br/jobs.
+  - Esclarecimento: O alerta de vagas aparece de forma explícita em /jobs ('Criar um alerta de vaga').
+  - Esclarecimento: O foco são cargos de nível analista, especialista, coordenação e gerência, e a maior parte das vagas não informa salário.
+  - Esclarecimento: Nenhum caminho voltado a quem não tem experiência foi visto.
+- **Vale - portal de carreiras (Eightfold), vagas no Brasil** (aberta ou vigente, verificada 2 vezes) https://vale.eightfold.ai/careers
+  - O que é: Candidatos a vagas operacionais, de manutenção, engenharia e administrativas em minas, ferrovias e portos no Brasil. A página oficial de carreiras da Vale também lista programas de trainee, estágio, aprendiz e Programa de Formação Profissional (PFP, para maiores de 18 anos com ensino médio ou técnico).
+  - Requisitos: Variam por vaga. Exemplos: Operador(a) Mantenedor(a) I exige ensino médio completo, CNH categoria B, Office básico e turno noturno (19h às 7h); Soldador I exige soldagem MIG/MAG, TIG e eletrodo, com formação de técnico mecânico preferencial; Engenheiro(a) Especialista exige engenharia elétrica com registro ativo, NR-10 e NR-35. Há vagas de nível médio sem exigência de experiência declarada na leitura (Operador Mantenedor I), mas a leitura foi parcial.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (não informado nas vagas lidas)
+  - Prazo ou ciclo: Vagas abertas com prazos vistos de 19/11/2026 a 27/11/2026 (ex.: Operador(a) Mantenedor(a) I e Engenheiro(a) Master até 27/11/2026); também banco de oportunidades sem prazo. Estágio Superior 2026 teve inscrições de 15/04 a 15/06/2026 (encerrado); um novo ciclo não foi visto.
+  - Como se candidatar: https://vale.eightfold.ai/careers
+  - Scanner: a plataforma já é suportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Esclarecimento: O prazo de 19/11/2026 (Técnica(o) Especializada(o) Manutenção - Sossego) já havia vencido em 23/11/2026, e o ciclo de estágio de 15/04 a 15/06/2026 está encerrado.
+  - Esclarecimento: A página exibia 92 vagas no total, das quais cerca de 9 no Brasil (PA, MA, MG) apareceram nos dados lidos, várias sem prazo informado.
+  - Esclarecimento: A vaga de Operador(a) Mantenedor(a) I em Parauapebas-PA é exclusiva para mulheres, e a de Soldador I tem ação afirmativa para pessoas com deficiência.
+  - Esclarecimento: A Vale informa que não cobra taxa em nenhuma etapa e que só se candidata pelo portal de carreiras ou por posts de vagas da Vale no LinkedIn.
+- **Usiminas - vagas na Gupy (siderurgia: MG, SP, RS)** (aberta ou vigente, verificada 2 vezes) https://usiminas.gupy.io/
+  - O que é: Candidatos a vagas de manutenção, laboratório, expedição e outras funções industriais, inclusive vagas exclusivas para pessoas com deficiência (PCD).
+  - Requisitos: Não listados na página inicial; cada vaga tem requisitos próprios na página de detalhe. Jovem Aprendiz: 18 a 22 anos. Global Trainee: formação concluída há no máximo dois anos. Estágio: estar cursando ensino superior ou técnico. Algumas vagas operacionais (Ajudante) podem não exigir experiência, mas isso não foi confirmado.
+  - Pagamento ou benefício: sem dados (não informado nas listagens)
+  - Prazo ou ciclo: Aberto: 14 vagas na consulta de 2026-11-23 (2 páginas), sem prazo visto, mais banco de talentos permanente. Programas de entrada têm página própria, com vagas de Estágio Superior com rótulo '2.2026' abertas na consulta.
+  - Como se candidatar: https://usiminas.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Das 10 entradas da primeira página, 4 são bancos de talentos, então o número de vagas efetivas é menor que 14.
+  - Esclarecimento: Algumas vagas de Mecânico de Manutenção I são exclusivas para pessoas com deficiência.
+  - Esclarecimento: Datas de inscrição e salário não aparecem nas páginas lidas, e apenas a 1ª página de cada listagem foi lida.
+- **CFA - Registro profissional de administrador nos CRAs** (aberta ou vigente, verificada 2 vezes) https://cfa.org.br/registro
+  - O que é: Bacharéis em Administração e categorias afins (gestão pública, tecnólogos, técnicos de nível médio em administração, estrangeiros autorizados a trabalhar) que precisam do registro para exercer a profissão, inclusive em cargos de gestão de produção e operações.
+  - Requisitos: Diploma de formação elegível (bacharelado, tecnólogo, sequencial, nível técnico ou pós-graduação, conforme a categoria) e documentos pedidos pelo CRA do estado. Não se aplica a quem não tem diploma. Exige-se formação, não experiência.
+  - Pagamento ou benefício: Não se aplica (é taxa paga pelo profissional; valores não vistos na página).
+  - Prazo ou ciclo: Aberto o ano todo (registro sem prazo; anuidades fixadas por resolução anual, vista a Resolução Normativa CFA nº 677, de 12/11/2025).
+  - Como se candidatar: https://cfa.org.br/registro
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não é fonte de vagas de emprego, e sim o procedimento oficial de registro profissional.
+  - Esclarecimento: O registro é feito no CRA do estado, não no CFA: pré-cadastro no portal de autoatendimento do CRA, envio de documentos (incluindo cópia do diploma), aprovação e retirada da carteira.
+  - Esclarecimento: A página não afirma expressamente que o registro está aberto o ano todo nem informa prazos.
+  - Esclarecimento: Os valores das anuidades não constam na página, apenas na Resolução.
+- **Gi Group Brasil - vagas industriais, logísticas e temporárias** (aberta ou vigente, verificada 2 vezes) https://br.gigroup.com/vagas-de-trabalho/
+  - O que é: Candidatos a vagas industriais e de logística, temporárias e permanentes (CLT), em vários estados. A listagem vista tinha poucas vagas de supervisão e gestão.
+  - Requisitos: Variam por vaga; os trechos estavam truncados. Exemplos: Operador de Produção exige ensino médio completo (formação desejável); Supervisor Técnico em Segurança do Trabalho exige CNH B e curso técnico em segurança do trabalho. Várias vagas operacionais pedem ensino médio, sem experiência explicitamente exigida no trecho lido.
+  - Pagamento ou benefício: Poucas vagas informam salário. Exemplo visto: Operador de Logística (São José dos Pinhais-PR) R$ 1.889,80 mais benefícios. O restante: sem dados.
+  - Prazo ou ciclo: Aberto: 111 vagas em 6 páginas na consulta de 2026-11-23, com vagas publicadas de 17/11/2026 a 22/11/2026; sem prazo por vaga.
+  - Como se candidatar: https://br.mygigroup.com/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Por ser agência, a vaga é de um cliente, e o contrato pode ser temporário.
+  - Esclarecimento: A candidatura é feita pelo botão 'Candidatar-se', que leva ao portal myGiGroup (br.mygigroup.com); a descrição completa fica no link 'Detalhes'.
+  - Esclarecimento: A página exibia a mensagem contraditória 'Desculpe, a sua busca não teve resultados' junto das listagens.
+  - Esclarecimento: As datas vistas não estavam rotuladas expressamente como datas de publicação.

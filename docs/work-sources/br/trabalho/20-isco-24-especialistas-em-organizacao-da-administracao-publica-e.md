@@ -1,0 +1,94 @@
+# Grupo 24: Especialistas em organização da administração pública e de empresas
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Nubank - vagas no Brasil (São Paulo, Belo Horizonte, Rio de Janeiro e Campinas)** (aberta ou vigente, verificada 2 vezes) https://nu.com/pt/carreiras/localidades/brasil
+  - O que é: Candidatos a vagas nas áreas do banco digital (finanças, risco e crédito, marketing, comercial, pessoas, tecnologia) nos escritórios do Brasil.
+  - Requisitos: Não listados na página; ficam em cada vaga, hospedada no Ashby. Os exemplos vistos eram cargos sênior ou de especialista (FP&A Senior Specialist, Mobile Security Manager, Senior Software Engineer, Senior Machine Learning Engineer, Retail Credit Risk Senior Specialist, Sox Specialist, Customer Support Management Specialist); nenhuma vaga sem experiência foi vista na amostra.
+  - Pagamento ou benefício: sem dados (não consta na listagem)
+  - Prazo ou ciclo: 16 vagas listadas em São Paulo, com link 'Ver mais'; sem prazos.
+  - Como se candidatar: https://jobs.ashbyhq.com/nubank
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A candidatura é feita em jobs.ashbyhq.com/nubank, mas esse quadro, aberto diretamente, só devolveu o título 'Nubank Jobs', sem listagem legível.
+  - Esclarecimento: A página cita escritórios em Campinas, Rio de Janeiro e Belo Horizonte, mas nenhuma vaga listada é dessas cidades.
+  - Esclarecimento: A página de parcerias com universidades é apenas um formulário de contato, não um programa de estágio ou início de carreira.
+- **Cia de Talentos - quadro de vagas de trainee e estágio de mais de 300 empresas parceiras** (aberta ou vigente, verificada 2 vezes) https://www.ciadetalentos.com.br/
+  - O que é: Estudantes e recém-formados que buscam estágio ou trainee, inclusive em áreas administrativas, financeiras, de RH, marketing e comercial das empresas parceiras (a página cita mais de 300 empresas em mais de 20 setores).
+  - Requisitos: Requisitos não listados na página inicial; variam por vaga e por programa. Não foi visto se há exigência de experiência. Trainee e estágio em geral pressupõem formação em andamento ou recente, mas isso não consta na página consultada.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (não informado na página inicial; varia por vaga)
+  - Prazo ou ciclo: Aberto o ano todo: quadro contínuo com filtro por Trainee ou Estágio e por cidade; as datas de cada processo seletivo variam e não aparecem na página inicial.
+  - Como se candidatar: https://www.ciadetalentos.com.br/ (etapas vistas: 'Cadastrar CV' e 'Inscreva-se nas vagas', a partir do botão 'Ver vagas em aberto')
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O texto das vagas individuais não apareceu na consulta, então vagas e datas específicas não foram confirmadas.
+  - Esclarecimento: Há teste comportamental gratuito antes de se candidatar.
+  - Esclarecimento: A página não informa custo de inscrição nem exigência de experiência.
+- **Vagas.com - vagas de analista financeiro (CLT, júnior a sênior)** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-analista-financeiro
+  - O que é: Candidatos a analista financeiro e funções próximas (planejamento financeiro, fiscal, contábil, controladoria). Na consulta de 2026-11-23 havia 140 vagas: 126 CLT e 14 temporárias; 104 presenciais, 35 híbridas e 1 remota.
+  - Requisitos: Variam por vaga. Exemplos vistos: experiência com Simples Nacional, Lucro Presumido e Lucro Real, SPED e EFD; Excel intermediário a avançado; conhecimento de DRE e fluxo de caixa. Há vagas de nível júnior/trainee, mas nada indica que seja dispensada a experiência.
+  - Pagamento ou benefício: Nenhuma vaga exibiu salário. Mediana nacional exibida para o cargo: R$ 3.199,00.
+  - Prazo ou ciclo: Aberto o ano todo: a página indicava 140 vagas, com 40 exibidas; datas vistas de 10/09/2026 a 13/11/2026, além de 'Hoje', 'Ontem' e 'Há 2 dias' (o conteúdo consultado não traz data posterior a 13/11/2026).
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-analista-financeiro (cadastro gratuito pelo botão 'Cadastre-se gratuitamente' ou login, e depois candidatura na página de cada vaga)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Mistura vagas de analista financeiro, fiscal, contábil e controladoria, de nível júnior/trainee a sênior, inclusive vagas para PCD e de empregadores confidenciais.
+  - Esclarecimento: O Vagas.com é um quadro de vagas que recebe anúncios diretamente das empresas, não uma repostagem de outros sites, mas isso não foi verificado de forma independente.
+- **Vagas.com - vagas de analista de recursos humanos** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-analista-de-recursos-humanos
+  - O que é: Candidatos a analista de RH, recrutamento e seleção e departamento pessoal. Na consulta de 2026-11-23 havia 42 vagas, a maioria em São Paulo (21), Minas Gerais (8) e Rio de Janeiro (6).
+  - Requisitos: Variam por vaga. Exemplos vistos: ensino superior em Psicologia (CRP ativo em um caso), Administração ou Gestão de RH, e experiência em recrutamento e seleção ou departamento pessoal. A vaga de estágio e vagas operacionais existem, mas a maioria das vagas de analista pede formação superior e experiência.
+  - Pagamento ou benefício: Nenhuma vaga exibiu salário. Mediana nacional exibida para o cargo: R$ 3.290,00.
+  - Prazo ou ciclo: Aberto o ano todo: a página indicava 42 vagas, com 40 exibidas; datas vistas de 03/08/2026 a 13/11/2026 e 'Há 4 a 6 dias'.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-analista-de-recursos-humanos (cadastro gratuito ou login, e depois candidatura na página de cada vaga)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Algumas vagas listadas não são de RH (fiscal, SAP, marketing, comex, dados, seguros, sucesso do cliente).
+  - Esclarecimento: Inclui uma vaga de estágio (Estagiário - RH Remuneração, ESPM, 29/10/2026), um banco de talentos (MetrôRio) e vagas de empregadores confidenciais.
+- **Vagas.com - vagas de analista de marketing** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-analista-de-marketing
+  - O que é: Candidatos a analista de marketing, comunicação, e-commerce e marketing digital. Na consulta de 2026-11-23 havia 42 vagas (29 em São Paulo, 6 no Rio de Janeiro, 3 em Minas Gerais); 37 CLT, 3 temporárias, 1 estágio e 1 PJ; 22 presenciais, 17 híbridas e 3 remotas.
+  - Requisitos: Variam por vaga. Muitas pedem graduação em Comunicação Social, Publicidade, Marketing ou Administração; algumas citam Google Analytics, HubSpot, Power BI ou inglês. Há vagas júnior/trainee, mas nada indica que seja dispensada a experiência.
+  - Pagamento ou benefício: Nenhuma vaga exibiu salário. Mediana nacional exibida para o cargo: R$ 3.574,00.
+  - Prazo ou ciclo: Aberto o ano todo: a página indicava 42 vagas, com 40 exibidas; datas vistas de 14/08/2026 a 12/11/2026 e 'Há 4 a 6 dias'. A maioria das datas fica entre 25/09/2026 e 12/11/2026.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-analista-de-marketing (cadastro gratuito ou login, e depois candidatura na página de cada vaga)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Inclui vagas afirmativas para PCD e para pessoas pretas e pardas, uma vaga home office e uma de estágio, além de vagas de áreas vizinhas (e-commerce, CRM, planejamento comercial, dados).
+  - Esclarecimento: O intervalo de datas das vagas é aproximado: houve datas um pouco anteriores, como 14/08/2026.
+- **Vagas.com - vagas de analista comercial (planejamento e inteligência de vendas)** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-analista-comercial
+  - O que é: Candidatos a analista comercial, planejamento comercial, estratégia e inteligência de vendas. Na consulta de 2026-11-23 havia 77 vagas (71 CLT; 3 para pessoas com deficiência), com 45 em São Paulo, 13 no Rio de Janeiro e 7 em Minas Gerais.
+  - Requisitos: Variam por vaga. Exemplos vistos: ensino superior em Administração, Gestão Comercial ou Marketing; experiência de um ano ou mais em vendas no setor de saúde (SDR); inglês intermediário em uma vaga de pós-vendas. A vaga de estágio de auditoria de vendas pede ensino médio.
+  - Pagamento ou benefício: Nenhuma vaga exibiu salário. Mediana nacional exibida para o cargo: R$ 3.169,00.
+  - Prazo ou ciclo: Aberto o ano todo: a página indicava 77 vagas, com cerca de 40 exibidas; datas vistas de 01/09/2026 a 13/11/2026 e 'Há 3 a 7 dias'.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-analista-comercial (cadastro gratuito ou login, e depois candidatura na página de cada vaga)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Mistura vagas comerciais com áreas vizinhas (pós-vendas, suprimentos, logística, contratos, tesouraria).
+  - Esclarecimento: Inclui vaga exclusiva para PCD (Stone), vaga afirmativa para pessoas pretas e pardas (FI Group), uma vaga de estágio de nível médio (ALLOS, Barueri/SP) e vagas de empregadores confidenciais.
+- **Vagas.com - vagas de auditor (contábil, interno, compliance; inclui trainee e estágio)** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-auditor
+  - O que é: Candidatos a auditor contábil, interno e de compliance, além de funções próximas. Na consulta de 2026-11-23 havia 235 vagas (195 CLT; 105 em São Paulo, 39 em Minas Gerais e 37 no Rio de Janeiro). A busca também traz auditoria de áreas não financeiras (enfermeiro auditor, recepcionista auditor noturno, qualidade), que não pertencem a este grupo.
+  - Requisitos: Variam por vaga. Exemplos vistos: ensino superior em Ciências Contábeis ou Direito (auditor corporativo); 8 anos ou mais de experiência (gerente de auditoria interna); inglês fluente (recepcionista auditor noturno). Estágios de auditoria de nível médio exigem ensino médio; há vagas de nível básico como auxiliar de serviços agrícolas, sem exigência de experiência vista.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Nenhuma vaga exibiu salário. Mediana nacional exibida para o cargo: cerca de R$ 3.589,00.
+  - Prazo ou ciclo: Aberto o ano todo: a página indicava 235 vagas, com 40 exibidas; datas vistas de 07/08/2026 a 15/11/2026 e 'Há 4 a 7 dias'. Há programa trainee 2026 de Auditoria Contábil da BDO (São Paulo/SP e Florianópolis/SC) com prazo de inscrição não visto.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-auditor (cadastro gratuito ou login, e depois candidatura na página de cada vaga)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A busca traz também auditoria de áreas não financeiras (enfermeiro auditor, recepcionista auditor noturno, qualidade) e cargos de gestão.
+  - Esclarecimento: Há estágios de nível médio (Shopping Taboão, ALLOS em Belo Horizonte, Barueri e São Paulo), estágio da Fundação Salvador Arena (12 vagas) e vagas PCD.
+  - Esclarecimento: O programa trainee da BDO apareceu como vaga (30 vagas em São Paulo, 5 em Florianópolis), mas a data-limite de inscrição não foi vista.
+- **Deloitte Brasil - portal de carreiras (aprendiz, estágio, Novos Talentos e experientes)** (não verificada, verificada 1 vez) https://carreira.inhire.com.br/carreiras/deloitte
+  - O que é: Quem busca vaga em auditoria, consultoria e áreas de apoio em um dos 18 escritórios da empresa; a página cita trilhas para Jovem Aprendiz, estágio, o programa Novos Talentos (recém-formados) e vagas para iniciantes e experientes.
+  - Requisitos: Não listados na página; ficam em cada vaga. Trilhas descritas: Jovem Aprendiz (primeira experiência corporativa), Estágio, Programa Novos Talentos (quem está concluindo os estudos) e vagas para experientes. Experiência exigida: sem dados.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (a página cita mais de 30 benefícios, como PLR, cartão multibenefício e auxílio médico e odontológico)
+  - Prazo ou ciclo: sem dados. A página não lista vagas específicas nem datas; remete a dois quadros de vagas na INHIRE, um para iniciantes e outro para experientes.
+  - Como se candidatar: https://deloitte.inhire.app/inicio-de-carreira/vagas
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Os quadros de vagas na INHIRE só devolveram o nome da empresa, sem vagas legíveis, então nenhuma vaga aberta foi vista.
+  - Esclarecimento: A página avisa que recrutadores só contatam quem demonstrou interesse numa vaga e alerta contra falsos recrutadores que pedem dinheiro.
+- **EY Brasil - busca de vagas e programa EY FastPass (início de carreira)** (não verificada, verificada 1 vez) https://www.ey.com/pt_br/careers/job-search
+  - O que é: Profissionais experientes e, pelo programa EY FastPass, estudantes e recém-formados em Administração, Ciências Atuariais, Economia, Contabilidade, Direito, Relações Internacionais, Engenharia, Estatística, Psicologia, Marketing, Publicidade, TI e outros.
+  - Requisitos: Não listados na página. Experiência exigida: sem dados.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados. Sem datas de abertura, prazos ou início de programa na página.
+  - Como se candidatar: https://www.ey.com/pt_br/careers/job-search
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Os quadros de vagas ligados não foram lidos, e nenhuma vaga ou chamada aberta foi vista.
+  - Esclarecimento: O link 'Programas para estudantes' leva ao EY FastPass, sem explicação na própria página.
+  - Esclarecimento: Há comunidades de talentos separadas para experientes e iniciantes, para quem não encontra vaga.

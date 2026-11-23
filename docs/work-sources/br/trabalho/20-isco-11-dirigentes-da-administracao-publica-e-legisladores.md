@@ -1,0 +1,54 @@
+# Grupo 11: Dirigentes da administração pública e legisladores
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Page Executive (Michael Page) - busca de lideranças, C-level e conselhos** (aberta ou vigente, verificada 2 vezes) https://www.pageexecutive.com/
+  - O que é: Executivos e candidatos a conselho. A página lista Brasil entre os locais de vaga, com uma vaga 'VP, LATAM' em São Paulo e um sócio associado dedicado a nomeações de C-level e conselho de empresas de consumo e tecnologia no Brasil.
+  - Requisitos: Não informados na página inicial. Os cargos são de alta liderança e conselho; não há caminho para quem não tem experiência.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: Não visto para o Brasil. Outras vagas em destaque mostram faixas (por exemplo, Nova York, USD 300.000 a 350.000 por ano), o que não vale para o Brasil.
+  - Prazo ou ciclo: Fluxo contínuo, sem prazo; vaga brasileira em destaque: Diretor Geral - Unidade de Negócio (Santa Catarina), sem data na página.
+  - Como se candidatar: https://www.pageexecutive.com/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O site é global e não específico do Brasil: das 8 vagas em destaque, só 1 é brasileira (Diretor Geral - Unidade de Negócio, Santa Catarina).
+  - Esclarecimento: O link /jobs/brazil retornou erro 404.
+  - Esclarecimento: O site é em inglês; há registro, envio de CV, vagas salvas e botão 'I want to apply'.
+- **Michael Page Brasil - vagas de gestão e diretoria (inclui CFO e Head)** (aberta ou vigente, verificada 2 vezes) https://www.michaelpage.com.br/jobs
+  - O que é: Profissionais de nível gerencial e de diretoria em empresas contratantes. Na consulta havia 353 vagas com localização Brasil, a maioria em São Paulo, e filtros de setor, regime e home office.
+  - Requisitos: Variam por vaga e não foram abertos. Os títulos vistos são de nível sênior e gestão (Gerente Sr de Marketing com experiência Latam obrigatória, Gerente de Tesouraria, Head Financeiro, Gerente de Finanças, Especialista Tributário Sênior, Analista Contábil Sênior). Esta fonte não serve a quem não tem experiência.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados (não exibido nos anúncios vistos)
+  - Prazo ou ciclo: Aberto o ano todo. Em 2026-11-23 a página mostrava 355 vagas em português (353 no Brasil, 2 internacionais), com 'Ver mais vagas', alertas por e-mail, envio de CV geral e 'Envie seu CV para começar' (Job Match). Sem data-limite por vaga vista.
+  - Como se candidatar: https://www.michaelpage.com.br/jobs
+  - Leitura automática possível: sem dados (busca com filtros e alerta por e-mail; sem API vista)
+  - Esclarecimento: O filtro de setor 'Financeiro & Tributário' tem 54 vagas, e o subfiltro 'Diretor Financeiro / CFO' mostra 3.
+  - Esclarecimento: Entre os locais vistos estão São Paulo, Rio de Janeiro, São José dos Campos, Manaus e Mato Grosso (home office).
+- **Hays Brasil - recrutamento de executivos e busca de vagas** (aberta ou vigente, verificada 2 vezes) https://www.hays.com.br/
+  - O que é: Candidatos a vagas de gestão e liderança em empresas clientes. A página cita 'Recrutamento de Executivos' como serviço, sem dizer quais níveis hierárquicos cobre.
+  - Requisitos: Não informados na página inicial; variam por vaga. Não foi visto aviso de que não se exige experiência.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados (o site tem calculadora e tendências salariais e página de transparência salarial, não abertas)
+  - Prazo ou ciclo: Aberto o ano todo: o site oferece 'Buscar Vagas', 'Enviar CV', conta com alertas e vagas salvas. Nenhuma vaga específica foi vista na página inicial, e nenhuma data-limite.
+  - Como se candidatar: https://www.hays.com.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O site avisa que golpistas contatam candidatos de forma fraudulenta; convém conferir que o contato vem de domínio oficial.
+- **Heidrick & Struggles - escritório de São Paulo (busca de executivos: CEO, conselho, diretoria)** (não verificada, verificada 1 vez) https://www.heidrick.com/en/offices/sao-paulo
+  - O que é: Executivos de nível sênior (CEO, conselho de administração, diretores financeiros, de RH, jurídico, riscos e compliance, supply chain e operações). A busca é feita pela consultoria a pedido de empresas clientes, e não por candidatura aberta.
+  - Requisitos: Não informados. Por ser busca executiva (CEO, conselho, diretoria), o público é de nível sênior com histórico de liderança; isso é inferência do tipo de serviço, não requisito visto.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Sem calendário. A página do escritório não lista vagas nem descreve envio de currículo.
+  - Como se candidatar: sem dados (a página remete a um portal de vagas hospedado no Workday, cujo endereço exato não foi visto)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Empresas de busca executiva em geral contatam candidatos por mandato de cliente, e a página do escritório não descreve caminho de candidatura aberto.
+- **Fundação Dom Cabral (FDC) - programas executivos, de conselheiros e de gestores públicos** (não verificada, verificada 1 vez) https://www.fdc.org.br/educacao-profissional
+  - O que é: Executivos, conselheiros e gestores públicos que buscam formação. O catálogo inclui Jornada de Desenvolvimento C-Level, Programa de Desenvolvimento de Conselheiros, Programa de Desenvolvimento de Gestores Públicos, Gestão Municipal em Ação e Executive MBA. É formação, não colocação: a instituição não anuncia vagas de emprego nas páginas lidas.
+  - Requisitos: Não informados na página do catálogo. Os programas executivos (por exemplo, Programa de Desenvolvimento de Executivos e de Conselheiros) se dirigem a profissionais com experiência; os requisitos exatos não foram vistos.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados (preços não exibidos; são programas pagos de escola de negócios, mas o valor não foi visto)
+  - Prazo ou ciclo: Catálogo permanente com 82 resultados; datas de turmas e prazos não aparecem na página e nenhum ciclo anual foi visto.
+  - Como se candidatar: https://www.fdc.org.br/educacao-profissional (atendimento: 0800 941 9200, atendimento@fdc.org.br e WhatsApp, de segunda a sexta, 8h30 às 19h; alguns programas levam a subdomínios externos com a matrícula)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Os programas sociais (B-EPIC para jovens aprendizes, Raízes, Empreendedorismo Popular, AfroGlobal Leaders, Terceiro Setor) têm custos e critérios desconhecidos.
+  - Esclarecimento: Alguns programas levam a subdomínios externos, onde é feita a matrícula.

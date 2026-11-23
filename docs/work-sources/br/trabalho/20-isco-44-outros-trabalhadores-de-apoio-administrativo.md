@@ -1,0 +1,55 @@
+# Grupo 44: Outros trabalhadores de apoio administrativo
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Vagas.com: vagas de auxiliar administrativo** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-auxiliar-administrativo
+  - O que é: Candidatos a rotinas administrativas de apoio (arquivo, cadastro, documentos), com ou sem experiência, em todo o Brasil.
+  - Requisitos: Varia por vaga. Em vários anúncios: ensino médio completo, pacote Office; alguns pedem experiência mínima (ex.: 6 meses) e outros formação em Administração, Ciências Contábeis ou Economia. Há vagas de estágio (57) e nível auxiliar/operacional, mas a página não afirma que todas dispensem experiência. Cadastro gratuito de currículo ('Cadastre-se gratuitamente') disponível.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (varia por vaga; não exibido na listagem)
+  - Prazo ou ciclo: Aberto todo o ano (fluxo contínuo de vagas). Em 2026-11-23 a página mostrava 535 vagas; datas de publicação entre 25/08/2026 e 13/11/2026.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-auxiliar-administrativo
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Várias vagas são de empresas confidenciais, e parte é reservada a pessoas com deficiência (PCD).
+  - Esclarecimento: A visualização não exige conta; cada vaga tem página própria com a candidatura.
+- **Vagas.com: vagas de digitador** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-digitador
+  - O que é: Quem busca trabalho de digitação, entrada de dados e apoio administrativo/atendimento, inclusive primeiro emprego.
+  - Requisitos: Varia por vaga. Frequente: ensino médio completo, conhecimento ou experiência em digitação, informática básica/Office (Excel, Word); algumas pedem atendimento ao cliente ou organização de documentos. Não é possível afirmar que todas dispensem experiência. Cadastro gratuito de currículo disponível.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Em geral não exibido; um estágio indicava bolsa-auxílio de R$ 850 mais auxílio-transporte. Demais: sem dados.
+  - Prazo ou ciclo: Aberto todo o ano (fluxo contínuo). Em 2026-11-23 a página mostrava 109 vagas.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-digitador
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Muitas vagas listadas são de outros cargos (analista, coordenador etc.) que apenas citam digitação como competência; o título 'digitador' é menos frequente.
+  - Esclarecimento: Há 12 vagas exclusivas para PCD e vários empregadores confidenciais.
+- **Vagas.com: vagas de arquivista e auxiliar de arquivo** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-arquivista
+  - O que é: Auxiliares de arquivo, SAME, cadastro e documentação; também quem tem graduação em Arquivologia.
+  - Requisitos: Varia por vaga. Exemplos vistos: ensino médio completo e experiência prévia (Pacaembu Construtora); noções de Office desejáveis e conhecimento de técnicas de arquivamento (Galvani Fertilizantes); informática básica (outras). Há 20 vagas de estágio e 76 de nível auxiliar/operacional, mas a experiência exigida depende de cada anúncio. Cadastro gratuito de currículo disponível.
+  - Pagamento ou benefício: sem dados (não exibido na listagem)
+  - Prazo ou ciclo: Aberto todo o ano (fluxo contínuo). Em 2026-11-23 a página mostrava 146 vagas.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-arquivista
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O título da página é 'arquivista'; o termo 'auxiliar de arquivo' aparece apenas dentro do nível auxiliar/operacional, e algumas vagas são de outras funções.
+  - Esclarecimento: Parte do texto das vagas vem truncado na listagem, e alguns empregadores são confidenciais.
+- **Vagas.com: vagas de auxiliar de departamento pessoal** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-auxiliar-de-departamento-pessoal
+  - O que é: Candidatos a auxiliar/assistente de DP e RH (admissão, cartão de ponto, folha de pagamento), além de aprendizes e estagiários da área.
+  - Requisitos: Costuma exigir conhecimento ou experiência em rotinas de departamento pessoal. Exemplos: ensino médio, rotina de folha, Excel e eSocial (Exata); experiência em folha, legislação trabalhista, controle de ponto e Office (Robert Half); formação em Administração ou RH, atendimento e folha, Office/G-Suite e TOTVS (CIEE). Não é uma fonte adequada para quem busca vaga sem experiência, exceto o estágio isolado. Cadastro gratuito de currículo disponível.
+  - Pagamento ou benefício: sem dados (não exibido na listagem)
+  - Prazo ou ciclo: Aberto todo o ano (fluxo contínuo). Em 2026-11-23 a página mostrava 23 vagas.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-auxiliar-de-departamento-pessoal
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Algumas vagas aceitam candidaturas apenas de certa região, e há vagas exclusivas para PCD.
+  - Esclarecimento: Parte dos textos aparece truncada ou com erros na listagem.
+- **Robert Half Brasil: vagas (administrativo, finanças, RH)** (aberta ou vigente, verificada 2 vezes) https://www.roberthalf.com/br/pt/vagas
+  - O que é: Profissionais de finanças, RH, compras e administração; na amostra lida predominavam vagas de assistente, analista e secretária executiva.
+  - Requisitos: Varia por vaga e, na amostra, é elevada: formação superior, inglês avançado e experiência na área em várias vagas; o assistente de faturamento pede experiência em emissão de notas e ensino médio. Não é indicada para quem não tem experiência nem diploma.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados (a página exibe apenas um valor padrão '0 - 0 BRL / Yearly', sem salário real)
+  - Prazo ou ciclo: Aberto todo o ano (fluxo contínuo). Em 2026-11-23 a página mostrava 25 vagas na primeira página, com link para uma segunda página.
+  - Como se candidatar: https://www.roberthalf.com/br/pt/vagas
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Muitas vagas aparecem marcadas como remotas, mas vários textos exigem presencial ou híbrido.
+  - Esclarecimento: A amostra inclui também vagas de TI e produção/engenharia, além de administrativo, finanças e RH.
+  - Esclarecimento: A listagem não exibe botão de candidatura por vaga nem total de vagas; o envio de currículo é feito pela página /envie-seu-curriculo.
+  - Esclarecimento: Não ficou claro se há cadastro obrigatório.

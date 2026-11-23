@@ -1,0 +1,99 @@
+# Grupo 53: Trabalhadores dos cuidados pessoais
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Home Angels - Seja um Cuidador (banco de talentos nacional de cuidadores)** (aberta ou vigente, verificada 2 vezes) https://www.homeangels.com.br/seja-um-cuidador-ou-supervisor/
+  - O que é: Pessoas que querem trabalhar como cuidador de idosos em domicílio. A página lista unidades em BA, DF, GO, MG, PE, PR, RJ, RN, RS, SC e SP (por exemplo Salvador, Brasília, Goiânia, Belo Horizonte, Recife, Curitiba, Rio de Janeiro, Porto Alegre, Florianópolis, São Paulo, Campinas, Santos).
+  - Requisitos: Para cuidador, nenhum requisito listado na página; não há exigência declarada de experiência nem de curso. Para supervisor: ensino superior na área da saúde.
+  - Pagamento ou benefício: sem dados (a página diz apenas 'recompensado de forma justa', sem valores)
+  - Prazo ou ciclo: Caminho de candidatura permanente (envio de currículo ao Banco de Talentos Nacional de Cuidadores); sem prazo informado. A página não diz se há vagas abertas no momento.
+  - Como se candidatar: https://www.homeangels.com.br/seja-um-cuidador-ou-supervisor/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A abertura de vagas depende de cada unidade, e a página não confirma contratação imediata.
+  - Esclarecimento: A candidatura é feita pelo link 'Clique aqui', que leva ao envio de currículo ao banco de talentos.
+  - Esclarecimento: O telefone 0800 022 1584 é uma linha de relacionamento, não indicada como canal de candidatura.
+- **Home Angels - Curso de Cuidador EAD (160 horas, com certificado e ligação ao banco de talentos)** (aberta ou vigente, verificada 2 vezes) https://www.homeangels.com.br/curso-de-cuidador/
+  - O que é: Pessoas sem experiência em cuidado de idosos que querem um certificado de curso de cuidador (curso completo), e cuidadores em atividade (curso de extensão de 40 horas).
+  - Requisitos: Nenhuma exigência de experiência declarada; o curso completo é voltado a quem nunca atuou como cuidador. Demais requisitos de matrícula não informados.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (preço do curso não informado na página; não é vaga remunerada)
+  - Prazo ou ciclo: Matrícula contínua; curso online no ritmo do aluno, com liberação das aulas após a confirmação da matrícula. Sem datas fixas de início informadas.
+  - Como se candidatar: https://cursoshomeangels.com.br/cursodecuidador/home/course/curso-de-forma%C3%A7%C3%A3o-de-cuidadores-home-angels/2
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É um curso do próprio empregador, não uma vaga de emprego; a página não diz que seja pré-requisito para a contratação.
+  - Esclarecimento: O preço não aparece na página; provavelmente é curso pago, mas isso não foi confirmado.
+  - Esclarecimento: Após o curso, é possível cadastrar-se gratuitamente no Banco de Talentos Nacional como Cuidador Certificado Home Angels, com currículo visível a todas as unidades.
+  - Esclarecimento: Suporte: 0800 022 1584 ou suporte@cursoshomeangels.com.br.
+- **WeCare Brasil - Trabalhe conosco (cuidador parceiro)** (aberta ou vigente, verificada 2 vezes) https://wecarebrasil.com.br/trabalhe-conosco/
+  - O que é: Cuidadores de idosos e profissionais de enfermagem (técnicos, auxiliares, enfermeiros) que queiram atender famílias por meio da empresa. A página não lista cidades; uma busca anterior associou a empresa a São Paulo, sem confirmação na página.
+  - Requisitos: MEI aberto ou disposição para abri-lo; experiência comprovada; certificado de curso de cuidador; ensino médio completo; para técnico/auxiliar/enfermeiro, certificado de conclusão ou COREN ativo; disponibilidade de horários; sem antecedentes criminais. Exige experiência comprovada.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados (a página fala em 'remuneração justa', sem valores)
+  - Prazo ou ciclo: Cadastro permanente por WhatsApp; sem prazo nem lista de vagas na página.
+  - Como se candidatar: https://wecarebrasil.com.br/trabalhe-conosco/ (botões 'Faça seu cadastro' / 'Envie seu cadastro', que levam ao WhatsApp (11) 91130-7010)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O vínculo é como parceiro com MEI, sem registro em carteira indicado, o que difere de emprego CLT.
+  - Esclarecimento: A empresa faz verificação de antecedentes.
+  - Esclarecimento: A página não lista vagas, datas nem valores.
+- **Einstein Hospital Israelita - vagas publicadas no Vagas.com (enfermagem, saúde e apoio)** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/empregos/albert-einsten
+  - O que é: Candidatos a vagas do Einstein, inclusive em unidades públicas geridas por ele em São Paulo e Goiânia. Na consulta de 2026-11-23 apareciam Auxiliar de Enfermagem (Hospital Municipal Vila Santa Catarina e Centro Cirúrgico do Hospital Heliópolis, ambas para pessoas com deficiência), além de terapeuta ocupacional, fonoaudiólogo, enfermeiro e vagas administrativas.
+  - Requisitos: sem dados na listagem (por vaga); várias vagas exigem formação técnica ou superior em saúde; algumas são exclusivas para PCD. Experiência não é mencionada na listagem.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Vagas avulsas; a página mostrava 12 vagas abertas (10 na primeira página). Única data vista: 30/10/2026 para Técnico Administrativo I (HMVSC), já vencida em 23/11/2026. Demais vagas sem prazo informado. Há opção de deixar currículo para vagas futuras.
+  - Como se candidatar: https://www.vagas.com.br/empregos/albert-einsten (abrir a vaga e seguir as instruções; ou 'Deixar currículo' na página da empresa; cadastro gratuito no Vagas.com)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O conteúdo é do portal Vagas.com, não de página própria de carreiras do Einstein; confirmar a vaga na página oficial do empregador antes de candidatar-se.
+  - Esclarecimento: Vários cargos são em unidades públicas de saúde geridas pela instituição, em São Paulo e Goiânia.
+  - Esclarecimento: Várias vagas são exclusivas para pessoas com deficiência (PCD).
+- **SPDM - Trabalhe Conosco (vagas de hospitais, AMEs e unidades de saúde, com portais Gupy por unidade)** (aberta ou vigente, verificada 2 vezes) https://spdm.org.br/trabalhe-conosco/
+  - O que é: Candidatos a vagas em unidades de saúde administradas pela SPDM, com filtros por estado, cidade, área e estabelecimento. A página tinha 614 vagas abertas (613 CLT e 1 estágio) em 26 páginas; havia 14 vagas na área 'Diretoria de Enfermagem'.
+  - Requisitos: sem dados na listagem; varia por vaga. Há cargos de apoio (portaria, promoção ambiental, almoxarifado, acompanhante) que a listagem não indica como exigindo experiência, mas os requisitos devem ser lidos em cada vaga.
+  - Pagamento ou benefício: sem dados na listagem (por vaga, no Gupy)
+  - Prazo ou ciclo: Fluxo contínuo: a página mostrava 614 vagas abertas em 26 páginas de resultados, com 24 vagas na primeira página. Inclui entradas de 'cadastro reserva' (por exemplo Agente Portaria Acolhedor, Analista Administrativo Jr Folguista). Prazos individuais não informados.
+  - Como se candidatar: https://spdm.org.br/trabalhe-conosco/ (escolher a vaga e candidatar-se no Gupy da unidade)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Cada vaga leva ao portal Gupy da unidade, onde constam requisitos e salários.
+  - Esclarecimento: As vagas vistas na primeira página são CLT e presenciais, exceto uma de estágio.
+  - Esclarecimento: Uma vaga aparecia como 'DESATIVADO'.
+- **Fundação do ABC - Trabalhe Conosco (currículos por unidade de saúde na Grande São Paulo e Baixada Santista)** (aberta ou vigente, verificada 2 vezes) https://fuabc.org.br/trabalhe-conosco/
+  - O que é: Candidatos a vagas nas unidades da Fundação do ABC (Santo André, Mauá, São Bernardo do Campo, São Caetano do Sul, Praia Grande, Santos, Sorocaba, Itapevi, Guarujá e outras), incluindo áreas de saúde e apoio.
+  - Requisitos: sem dados (varia por unidade e vaga; a página não informa)
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Em 23/11/2026 a página não listava vagas abertas nem prazo; apenas e-mails e portais por unidade. Não informa se o recebimento é contínuo.
+  - Como se candidatar: https://fuabc.org.br/trabalhe-conosco/ (enviar o currículo ao e-mail ou portal da unidade desejada)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página lista um canal de contato por unidade (e-mails e alguns portais externos), não vagas específicas.
+  - Esclarecimento: A continuidade do recebimento de currículos não está confirmada.
+  - Esclarecimento: Vagas, requisitos, salários e datas dependem de cada unidade.
+- **Hospital Moinhos de Vento - portal de vagas na Gupy (Porto Alegre)** (aberta ou vigente, verificada 2 vezes) https://hospitalmoinhos.gupy.io/
+  - O que é: Candidatos a vagas no hospital em Porto Alegre/RS. Na consulta de 2026-11-23 havia 47 vagas; as 10 primeiras, todas em Porto Alegre, incluíam atendimento ao paciente (auxiliar/assistente) e atendente de nutrição.
+  - Requisitos: Não listados na página inicial; cada vaga tem seus próprios requisitos. Experiência exigida: sem dados.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Fluxo contínuo; portal com banco de talentos (aberto todo o ano). Na consulta havia 47 vagas abertas, sem data-limite informada na página inicial.
+  - Como se candidatar: https://hospitalmoinhos.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Todas as 47 vagas exibidas eram efetivas, em Porto Alegre/RS.
+  - Esclarecimento: Existem funções de entrada (atendente de nutrição, atendimento ao paciente), mas a exigência de experiência só aparece no anúncio individual e não foi confirmada.
+- **HCPA (Hospital de Clínicas de Porto Alegre) - Processo Seletivo Público** (não verificada, verificada 1 vez) https://www.hcpa.edu.br/venha-para-o-hcpa/processo-seletivo-publico
+  - O que é: Candidatos a empregos no hospital em Porto Alegre/RS por seleção pública; a página tem também uma seção de seleções de enfermagem com histórico.
+  - Requisitos: sem dados (constam nos editais, não vistos)
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: A página lista como 'em andamento' os editais 02/2026, 03/2026, 04/2026, 05/2026 e 06/2026, sem datas de inscrição, cargos nem prazos. Ciclo anual não confirmado.
+  - Como se candidatar: https://www.faurgs.com.br/concursos/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O processo é organizado pela FAURGS (Fundação de Apoio da UFRGS), com contato em faurgs.concursos@ufrgs.br.
+  - Esclarecimento: Cargos, datas, requisitos e salários dos editais não foram confirmados; consultar os editais completos na FAURGS antes de afirmar que há inscrições abertas.
+  - Esclarecimento: Aparecem também processos seletivos simplificados antigos, de 2020 e 2021, sem indicação de situação.
+- **HCPA - Jovem Aprendiz** (não verificada, verificada 1 vez) https://www.hcpa.edu.br/venha-para-o-hcpa/venha-para-o-hcpa-jovem-aprendiz
+  - O que é: Jovens de 18 a 24 anos, com ensino médio concluído ou em curso, que queiram primeiro emprego em hospital. Vagas citadas: Auxiliar de Técnicas Administrativas e Auxiliar de Serviços de Alimentação (não são vagas de enfermagem).
+  - Requisitos: Idade entre 18 e 24 anos; ensino médio concluído ou em curso. Nenhuma experiência exigida.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (a página não informa)
+  - Prazo ou ciclo: A página não informa se as inscrições estão abertas nem datas ou ciclo anual.
+  - Como se candidatar: https://www.hcpa.edu.br/venha-para-o-hcpa/venha-para-o-hcpa-jovem-aprendiz (link de inscrição na página, ou presencialmente no IPHAC / iphac.org.br)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O contrato é de até dois anos, com jornada de quatro horas diárias (manhã ou tarde): quatro dias práticos no hospital e um dia teórico no agente integrador.
+  - Esclarecimento: A inscrição é pela internet (link da página) ou presencialmente no IPHAC (Avenida Baltazar de Oliveira Garcia, 2.132, fundos, das 9h às 17h), mencionando interesse em vaga no HCPA.
+  - Esclarecimento: Contatos: IPHAC, WhatsApp (51) 98980.4393, iphac.org.br/contato; HCPA, Serviço de Qualificação e Aperfeiçoamento Continuado, (51) 3359.7321.

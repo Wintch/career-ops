@@ -1,0 +1,81 @@
+# Grupo 34: Profissionais de nível médio de serviços jurídicos, sociais e culturais
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Ministério da Cultura - Editais (abertos, em andamento e outras oportunidades)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/cultura/pt-br/assuntos/editais
+  - O que é: Produtores culturais, artistas, grupos e entidades culturais que busquem fomento, premiação ou credenciamento em chamamentos públicos federais; também mostra oportunidades de formação e intercâmbio.
+  - Requisitos: Biblioteca Comunitária é Cultura Viva: biblioteca comunitária mantida pela sociedade civil (associação, ONG, coletivo, grupo de bairro), com ou sem CNPJ, com pelo menos 2 anos de ações de fomento à leitura comprovadas, sem impedimento legal, formulário online completo, conta Gov.br. Experiência profissional ou diploma individual não se aplicam. Inscrição pelo cadastro BiblioBR/SNBP ('Solicitar Cadastramento', opção 'Ponto de Cultura'). Dúvidas: bibliotecaculturaviva@cultura.gov.br, (61) 2024.2649.
+  - Pagamento ou benefício: Biblioteca Comunitária é Cultura Viva: sem valor informado (certificação). Demais editais: sem dados.
+  - Prazo ou ciclo: Fluxo contínuo de editais. Em 2026-11-23, 'Editais abertos' listava 1 edital (Biblioteca Comunitária é Cultura Viva), de inscrições permanentes em fluxo contínuo (publicado em 07/08/2026, atualizado em 28/08/2026). 'Editais em andamento' listava 13 itens, sem prazos na listagem.
+  - Como se candidatar: https://www.gov.br/cultura/pt-br/assuntos/editais/inscricoes-abertas/edital-biblioteca-comunitaria-e-cultura-viva1/edital-biblioteca-comunitaria-e-cultura-viva
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não é vaga de emprego nem se destina a pessoas físicas sozinhas.
+  - Esclarecimento: O edital Biblioteca Comunitária é Cultura Viva é uma certificação sem repasse de recursos informado, que pode dar pontos em seleções futuras.
+  - Esclarecimento: O II Edital Escolas Livres de Formação em Arte e Cultura, restrito a organizações da sociedade civil sem fins lucrativos, mostra datas inconsistentes (inscrições até 08/06/2026 e até 05/07/2026) e já está encerrado.
+  - Esclarecimento: Os prazos dos demais editais em andamento, como o de Credenciamento de Pareceristas Técnicos (resultado preliminar em 10/11/2026) e o Rouanet nas Favelas 2, não foram verificados e devem ser conferidos na página de cada um.
+- **Vagas.com - vagas de assistente jurídico (CLT e estágio de Direito)** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-assistente-juridico
+  - O que é: Candidatos a assistente jurídico, auxiliar jurídico e estágio de Direito em escritórios, construtoras e hospitais, principalmente em São Paulo.
+  - Requisitos: Variam por vaga. Vaga de estágio exige estudante de Direito; demais vagas CLT têm requisitos próprios, não vistos na listagem. Não foi possível afirmar que alguma dispense experiência.
+  - Pagamento ou benefício: sem dados (varia por vaga e não aparece na listagem)
+  - Prazo ou ciclo: Fluxo contínuo (abierto todo el ano). Em 2026-11-23 a página mostrava 22 resultados (21 CLT e 1 estágio; 19 presenciais e 3 presencial/home office), 18 em SP; publicações de 05/10/2026 a 11/11/2026.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-assistente-juridico (abrir a vaga e seguir as instruções; há cadastro gratuito)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Os resultados são anúncios reais de empresas, cada um com página própria.
+  - Esclarecimento: Vários resultados são apenas vagamente relacionados ao tema, pois mencionam "jurídico" só nos benefícios.
+  - Esclarecimento: Não há confirmação de que cada vaga listada ainda esteja ativa.
+  - Esclarecimento: A página não descreve o processo de candidatura; oferece cadastro gratuito e login.
+- **Vagas.com - vagas de educador social** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-educador-social
+  - O que é: Candidatos a educador social, orientador de público e funções de apoio socioeducativo em organizações sociais, institutos e redes de assistência.
+  - Requisitos: Variam por vaga e não aparecem na listagem. Não confirmado que alguma dispense experiência ou escolaridade.
+  - Pagamento ou benefício: sem dados na listagem (ver Rede Cidadã para faixas salariais)
+  - Prazo ou ciclo: Fluxo contínuo (abierto todo el ano). Em 2026-11-23 a página mostrava 24 resultados (22 CLT, 1 estágio, 1 temporário; 22 presenciais), com datas como 03/11/2026 ou relativas ('Há 5 dias').
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-educador-social (abrir a vaga; há cadastro gratuito)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Só uma parte pequena dos resultados é de educador social; a contagem inclui anúncios correlatos ou sem relação, como recepcionista, técnico de segurança do trabalho e estágio de Ciências Contábeis.
+  - Esclarecimento: Uma vaga de Orientador de Público é exclusiva para pessoas com deficiência e foi publicada em 01/09/2026, portanto pode estar antiga.
+  - Esclarecimento: A página não descreve o processo de candidatura.
+- **Rede Cidadã - Trabalhe conosco (educador social e outras vagas)** (aberta ou vigente, verificada 2 vezes) https://trabalheconosco.vagas.com.br/rede-cidada
+  - O que é: Candidatos a vagas da própria organização, que atua desde 2002 em programas de geração de trabalho e renda; inclui vagas de Educador Social / Analista de Desenvolvimento Humano. O site da entidade também tem páginas separadas para aprendiz e estágio.
+  - Requisitos: sem dados (não exibidos na listagem; nível Júnior/Trainee). Não confirmado que dispense experiência ou diploma.
+  - Pagamento ou benefício: Faixas vistas: Analista de Planejamento e Controle R$ 3.000,00 a R$ 3.400,00; Educador Social em Porto Alegre R$ 2.000,00 a R$ 2.100,00; Educador Social em Belo Horizonte R$ 4.000,00 a R$ 4.018,00.
+  - Prazo ou ciclo: Em 2026-11-23 o site indicava 5 vagas abertas, mas listava apenas 3, com encerramento relativo ('em 7 dias' e 'em 10 dias'), sem data exata, ou seja, por volta de 30/11 a 03/12/2026. Banco de currículos: a página convida a cadastrar currículo sem vaga adequada, mas não confirma se é permanente.
+  - Como se candidatar: https://trabalheconosco.vagas.com.br/rede-cidada
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página de carreiras é hospedada pelo Vagas.com e as vagas fecham em poucos dias.
+  - Esclarecimento: Das 5 vagas anunciadas, apenas 3 estavam listadas, e o encerramento aparece só de forma relativa.
+  - Esclarecimento: Não há confirmação de que o banco de currículos seja permanente.
+- **SOBRASA - Sociedade Brasileira de Salvamento Aquático (certificação e cursos de guarda-vidas)** (aberta ou vigente, verificada 2 vezes) https://sobrasa.org/certificados-e-cursos/
+  - O que é: Quem quer trabalhar ou já trabalha como guarda-vidas (salva-vidas) e precisa de curso, certificado ou requalificação; também professores de natação e instrutores. A página inicial lista cursos gratuitos de primeiros socorros e prevenção de afogamentos.
+  - Requisitos: Idade, escolaridade e teste de natação não informados na página. Não exige experiência prévia segundo o que foi visto, mas não confirmado. Prova de proficiência para quem não tem certificado reconhecido.
+  - Pagamento ou benefício: Custo ao aluno, não remuneração: doação de R$ 130 para curso profissional ou extensivo e certificado avulso; R$ 60 para atividades de prevenção adultas; certificado de instrutor nacional R$ 240; ILS internacional EUR 60 (guarda-vidas) ou EUR 90 (instrutor). A página lista Surf-Salva PRO com dois valores (R$ 430 e R$ 345).
+  - Prazo ou ciclo: Fluxo contínuo (abierto todo el ano) por meio de Centros de Formação e empresas com Selo Ouro. Calendário em 2026-11-23 (https://voluntario.sobrasa.org/eventos/lista/): Curso de Guarda-Vidas Profissional Piscina de 07 a 27/11/2026 no Clube Guarani FC, Campinas/SP (em andamento, contato erichcayres@gmail.com); outros eventos em 25/11, 05/12, 17-20/12 e 28/12/2026 que não são cursos de formação.
+  - Como se candidatar: Contato com um Centro de Formação regional ou empresa Selo Ouro; validação por e-mail sobrasa@sobrasa.org
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É uma fonte de formação e certificação, e não de vagas de emprego.
+  - Esclarecimento: O curso profissional de guarda-vidas é ministrado por Centros de Formação ou empresas com Selo Ouro, e não pela SOBRASA diretamente.
+  - Esclarecimento: Os certificados valem 2 anos, e a certificação por validação exige nota acima de 90% e certificado de centro reconhecido com menos de 2 anos.
+  - Esclarecimento: Há cursos gratuitos de prevenção e primeiros socorros, com certificado mediante doação.
+- **TJSP - Programa de Estágio (nível médio, graduação e pós-graduação)** (não verificada, verificada 1 vez) https://www.tjsp.jus.br/Estagios
+  - O que é: Estudantes de nível médio, de graduação e de pós-graduação interessados em estagiar no Tribunal de Justiça de São Paulo; porta de entrada comum para quem quer seguir carreira jurídica ou administrativa.
+  - Requisitos: A página não detalha requisitos além do nível de formação (cursando ensino médio, graduação ou pós-graduação). Não se exige experiência por se tratar de estágio, mas isso não é dito expressamente.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Bolsa-auxílio: R$ 600,00 (nível médio), R$ 1.100,00 (graduação), R$ 1.500,00 (pós-graduação); auxílio-transporte de R$ 18,80 por dia estagiado presencialmente.
+  - Prazo ou ciclo: sem dados. A página não informa se há inscrições abertas nem prazos.
+  - Como se candidatar: https://www.tjsp.jus.br/Estagios
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O cadastro é feito no site do CIEE (nível médio) e no site da Super Estágios (nível superior).
+  - Esclarecimento: A página não confirma vagas abertas nem prazo, e a jornada é de 4 horas diárias.
+  - Esclarecimento: Contato indicado: portal de suporte do TJSP (categoria Gestão de Pessoas / SGP - Estágio) ou telefone (11) 2711-1667.
+- **TJMG - Programa de Estágio (seleções públicas para estudantes de nível superior)** (não verificada, verificada 1 vez) https://www.tjmg.jus.br/portal-tjmg/concursos-e-selecoes/programa-de-estagio/
+  - O que é: Estudantes de graduação a partir do 3º período e de pós-graduação, matriculados em instituição de ensino superior, que queiram estagiar nas varas e setores do TJMG (início de trajetória em atividades jurídicas e de apoio judiciário).
+  - Requisitos: Estudantes de graduação a partir do 3º período ou de pós-graduação, matriculados em instituição de ensino superior. Não é para quem não tem curso superior em andamento. Carga horária: sem dados.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Bolsa de estágio e auxílio-transporte, valores não informados na página ("conforme valores vigentes").
+  - Prazo ou ciclo: Sem seleção aberta vista em 2026-11-23. A página diz que os editais são publicados periodicamente, mas não lista nenhum e não mostra ciclo anual. Não há evidência de data da próxima seleção.
+  - Como se candidatar: sem dados (editais publicados no Portal TJMG e nos fóruns das comarcas quando houver seleção)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Os editais são publicados no Portal TJMG e nos fóruns das comarcas quando houver seleção, sem ciclo anual evidente.
+  - Esclarecimento: A página de seleções anteriores indicada retornou HTTP 404, então o histórico não pôde ser confirmado.
+  - Esclarecimento: Contato informado: selecaoestagiarios@tjmg.jus.br; telefones (31) 98269-2229 e (31) 3247-8970/8917/8936.
+  - Esclarecimento: A admissão é feita por peticionamento eletrônico via SEI.
