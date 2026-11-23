@@ -1,0 +1,1778 @@
+# Fuentes de trabajo y financiamiento para artistas y musicos en Argentina
+
+Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las abiertas y buena parte de las recurrentes se revisaron una segunda vez por separado. Los plazos cambian: antes de usar una fila, abrir el enlace y confirmar la fecha.
+
+## Como leer este documento
+
+- **Abierta o vigente**: se vio un llamado con fecha, o un tramite que se puede iniciar en cualquier momento.
+- **Se repite**: hoy no hay llamado abierto, pero hay evidencia de un ciclo anual; conviene mirar en el mes indicado.
+- **Sin verificar**: la pagina no cargo o no confirmo lo declarado. No es una recomendacion.
+- **Verificada 2 veces**: dos lecturas independientes de la pagina oficial; si difirieron, se uso la mas reciente y se anoto la correccion.
+- Los requisitos se transcriben tal cual los publica cada fuente. Ninguna fila supone titulo, portfolio ni trayectoria de quien consulta.
+
+## Resumen
+
+- Fuentes: 181. Con segunda verificacion: 98.
+- Abierta o vigente: 42.
+- Se repite (hoy sin llamado abierto): 57.
+- Sin verificar: 39.
+- No cargo: 3.
+- No elegible: 3.
+- Cerrada: 37.
+
+## Becas, subsidios y prestamos del Estado
+
+- **INT (Instituto Nacional del Teatro) - Lineas de fomento 2026 e INT Digital (registro)** (abierta o vigente, verificada 2 veces) https://inteatro.ar/
+  - Que es: Grupos y proyectos de teatro independiente, comunitario o vocacional, salas, festivales y eventos. Quien pinta escenografia o hace musica en vivo puede entrar como integrante de un proyecto (no como artista suelto).
+  - Requisitos: Es solo para teatro independiente: hay que registrarse antes en INT Digital (Registro Nacional del Teatro Independiente), requisito indispensable. Alta individual: ciudadano argentino (nativo, por opción o naturalizado) con 5 años de residencia en el país y mayor de 18 años. Los grupos designan una persona responsable con CUIT, que pueda facturar y esté dada de alta como beneficiaria de pagos; todos los integrantes deben hacer su alta individual. Adjuntos en PDF de hasta 10 MB.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos (la página no informa montos ni topes).
+  - Plazo o ciclo: La portada oficial lista 'Líneas de fomento 2026 abiertas' con cierre el 30 de noviembre (sin año explícito): Producción de Obra, Gestión de Espacios Teatrales, Festivales, Eventos y Programaciones, Circulación Nacional e Internacional, Movilidad Internacional. Además, Préstamos FNA-INT 2026 (0% en UVA, para salas) abiertos hasta el 9/12. Ciclo anual. Ojo: /convocatorias/ mostró 'No encontramos convocatorias con esos criterios' en dos cargas, así que el cierre se vio solo en la portada.
+  - Como postular: https://inteatro.ar/registro/
+  - Lectura automatica posible: No hay API ni feed. La plataforma es INT Digital (web).
+  - Aclaracion: No es para pintores ni músicos como tales, salvo que formen parte de un proyecto teatral registrado.
+  - Aclaracion: Con cierre el 30/11/2026, solo sirve si ya existe un grupo y un proyecto; para el próximo ciclo conviene hacer el registro antes.
+  - Aclaracion: La portada muestra '30 de Noviembre' sin año en seis convocatorias abiertas, pero no dice textualmente que sea el cierre.
+  - Aclaracion: El reglamento PDF enlazado no cargaba.
+- **INAMU - Convocatoria Anual de Fomento (2026, cerrada; se repite cada ano)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://inamu.musica.ar/convocatoria-2026
+  - Que es: Solistas o agrupaciones registrados en el INAMU con proyecto principal declarado. Lineas: Regional (6 regiones, incluye Metropolitana), Nacional y Coral.
+  - Requisitos: Artista solista o agrupación inscripta en el Registro Único del INAMU con proyecto principal declarado antes del 1/10. Mayor de 18 años como titular, DNI de RENAPER y domicilio legal en Argentina. No pueden presentarse quienes recibieron subsidio INAMU en convocatorias 2025 o 2026 ni quienes tengan rendiciones vencidas. Una sola postulación por persona. Usos: conciertos y giras, producción de fonograma o de videograma. Rendición del 100% en 240 días y acción de compensación social.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Subsidios directos: Regional hasta 258 de $700.000 (seis regiones, incluida Metropolitana); Nacional hasta 60 de $1.400.000; Coral hasta 20 de $1.000.000 (solo coros inscriptos).
+  - Plazo o ciclo: Edición 2026: 1 al 15/10/2026 (cerrada). Resultados en el Boletín Oficial y en el sitio del INAMU dentro de 120 días corridos del cierre (aprox. febrero de 2027). No vi la fecha de 2027; el reclamo de ediciones previas (2022, 2023, 2025) no lo reverifiqué en esta pasada.
+  - Como postular: https://musicos.autogestion.musica.ar
+  - Lectura automatica posible: Ninguna vista (formulario del Panel); listado en https://inamu.musica.ar/index.php?sec=convocatorias&id=340
+  - Aclaracion: El ciclo es anual por antecedentes, pero la edición 2027 no está confirmada.
+  - Aclaracion: Las ediciones previas (2022, 2023 y 2025) no fueron reverificadas.
+  - Aclaracion: Quien resulte beneficiario en 2026 queda excluido de 2027 por la regla de no repetir.
+  - Aclaracion: Consultas: convocatorias@inamu.musica.ar, (011) 2150-3865; se recomienda leer las bases completas antes de postular.
+- **Programa Ibermusicas 2026 (via Secretaria de Cultura e INAMU)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.ibermusicas.org/index.php/convocatorias/
+  - Que es: Profesionales de la musica de Argentina y de los paises iberoamericanos miembros del programa.
+  - Requisitos: La página argentina.gob.ar no detalla requisitos. Líneas 2026: apoyo a circulación, apoyo a programación (festivales, ferias, salas), especialización y formación, convocatoria especial con Mid Atlantic Arts (costos de visas de trabajo para EE.UU.), premio de composición orquestal. La Secretaría de Cultura y el INAMU promueven la participación de artistas, gestores y productores argentinos; el detalle de elegibilidad hay que leerlo en las bases de Ibermúsicas.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos (la página oficial argentina no indica montos)
+  - Plazo o ciclo: Edición 2026: presentación de proyectos del 15/06 al 1/10/2026 (cerrada). El sitio de Ibermúsicas dice que las convocatorias 2027, para proyectos que se ejecutan en 2028, se publicarán a mediados de 2027. No vi una fecha de resultados.
+  - Como postular: https://www.ibermusicas.org/index.php/convocatorias/
+  - Lectura automatica posible: Ninguna vista; hay PDFs de bases por linea en ibermusicas.org (aparecidos en resultados de busqueda, no abiertos).
+  - Aclaracion: La página oficial del programa es ibermusicas.org.
+  - Aclaracion: Las fechas exactas del 15/06 al 1/10/2026 no pudieron verificarse.
+  - Aclaracion: No se confirmó que Argentina figure en la lista de países miembros, aunque la página argentina indica que la Secretaría y el INAMU promueven la participación de artistas, gestores y productores argentinos.
+  - Aclaracion: Los resultados 2026 están en la sección Seleccionados 2026 del sitio.
+- **Fondo Nacional de las Artes - portal de becas, concursos, premios y prestamos** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/cultura/fna
+  - Que es: Artistas de todas las disciplinas, incluida musica y artes visuales. Distintas lineas con requisitos propios.
+  - Requisitos: Varía según el llamado. Becas Movilidad: artistas, artesanos, diseñadores, productores, gestores; argentinos o extranjeros con residencia legal; individual o grupal; se necesita invitación confirmada del evento anfitrión (no cubre stands ni tarifas de inscripción al festival). Inscripción en la plataforma app.fnartes.gob.ar.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Becas Movilidad: hasta $1.500.000 para traslados dentro del país y hasta $3.000.000 para actividades en el exterior. Otros llamados: monto sin datos.
+  - Plazo o ciclo: Calendario anual con llamados separados. Al 2026-11-23: el único concurso del listado con fecha era el Programa Federal de Apoyo a Editoriales Independientes (hasta el 19/11, ya cerrado); en la lista de convocatorias de Cultura figura como abierto hasta el 9/12/2026 el préstamo UVA tasa 0% para salas teatrales FNA/INT (no es para pintores ni músicos individuales). Becas Movilidad 2026: primer llamado 14/04 al 19/05, segundo llamado publicado el 2/10; ambos figuran cerrados. Concurso de Arte y Tecnología 2026, Premio Federal de Pintura 2026 y Concurso de Puesta en Escena figuran cerrados.
+  - Como postular: https://app.fnartes.gob.ar/ingresar
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: Al 23/11/2026 no había ningún llamado abierto para artistas individuales de pintura o música.
+  - Aclaracion: La página de becas mostraba solo la primera de dos páginas, por lo que el listado puede estar incompleto.
+  - Aclaracion: La página no muestra un calendario anual; cada llamado se publica por separado.
+  - Aclaracion: Contacto: fnartes@fnartes.gob.ar, (011) 3986-7500.
+- **Fondo Metropolitano de la Cultura, las Artes y las Ciencias (CABA)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://buenosaires.gob.ar/fondometropolitano/como-participo
+  - Que es: Músicos, artistas visuales, bailarines, actores, gestores culturales, asociaciones y organizaciones con sede en CABA. Personas humanas y jurídicas.
+  - Requisitos: Personas físicas, jurídicas, asociaciones y organizaciones con base en CABA. Usuario miBA y Clave Ciudad (titular del proyecto). Una sola solicitud por convocatoria. Leer el Reglamento General. Los gastos no se pueden reutilizar en otros programas de Impulso Cultural.
+  - Pago o beneficio: Por proyecto, hasta: Creación $6.500.000; Funcionamiento de Espacios Culturales $3.500.000; Formación y Capacitación $2.500.000; Intercambio Nacional $2.500.000; Infraestructura Cultural $6.500.000; Eventos $2.500.000.
+  - Plazo o ciclo: Convocatoria 2026 del 16/6 al 30/6/2026, cerrada; próxima convocatoria no anunciada en la página
+  - Como postular: Trámite a Distancia (TAD) de la Ciudad con usuario miBA; el enlace exacto figura en la página oficial
+  - Lectura automatica posible: No visto.
+  - Aclaracion: El requisito es domicilio o base en la Ciudad de Buenos Aires: no alcanza con vivir en Argentina, y quienes viven en el Gran Buenos Aires no cumplen el requisito salvo que acrediten domicilio en CABA.
+  - Aclaracion: No se confirmó cómo se verifica el domicilio.
+  - Aclaracion: La URL redirige a una copia histórica (gcaba_historico/como-participo-3) que sigue diciendo 'Convocatoria abierta' aunque las fechas ya pasaron.
+  - Aclaracion: La página no menciona una próxima convocatoria ni permite verificar que sea anual.
+- **BAMúsica: subsidios a solistas y grupos de música (CABA)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://buenosaires.gob.ar/bamusica/como-participo
+  - Que es: Solistas y grupos de música (y clubes de música en vivo en la primera convocatoria del año).
+  - Requisitos: Mayor de edad, persona física o jurídica con domicilio en CABA, inscripta en el Registro BAMúsica. Solistas y grupos: mínimo 2 años ininterrumpidos de actividad de creación o interpretación. Clubes de música en vivo: hasta 300 espectadores y 500 m². Un titular puede tener un solista y un grupo. Rendir un subsidio anterior antes de volver a postular.
+  - Pago o beneficio: sin datos (la página no publica montos; el Directorio decide el importe y si es total o parcial). Se financian shows en vivo, presenciales o virtuales; rendición de cuentas en 30 días.
+  - Plazo o ciclo: Convocatoria 2026 del 18 de mayo (10 h) al 1 de junio (17 h), ya vencida. No vi un segundo llamado 2026. Postulación online por TAD, con Registro BAMúsica previo.
+  - Como postular: Trámite a Distancia (TAD) con usuario miBA, previa inscripción en el Registro BAMúsica (se puede hacer todo el año); enlace en la página oficial
+  - Lectura automatica posible: No visto.
+  - Aclaracion: El domicilio en CABA es obligatorio, igual que en el Fondo Metropolitano; quienes viven en el conurbano bonaerense podrían quedar fuera.
+  - Aclaracion: La URL redirige a una página histórica (buenosaires.gob.ar/gcaba_historico/como-participo-2) que sigue diciendo 'Convocatoria abierta' aunque las fechas de 2026 ya pasaron.
+  - Aclaracion: La página no dice que haya dos llamados por año; solo menciona un primer llamado del año para Clubes de Música.
+  - Aclaracion: El Registro está abierto todo el año y conviene inscribirse antes del próximo llamado; no aparece una convocatoria 2027.
+- **Mecenazgo (Participación Cultural) del Ministerio de Cultura de CABA** (se repite (hoy sin llamado abierto), verificada 2 veces) http://buenosaires.gob.ar/gcaba_historico/cultura/impulso-cultural/mecenazgo/como-participo
+  - Que es: Personas humanas y entidades sin fines de lucro con proyectos de investigación, formación, difusión, creación o producción en 14 disciplinas artísticas y culturales (incluye danza, teatro, música, literatura, diseño).
+  - Requisitos: Proyecto en una de 14 disciplinas artísticas/culturales. Hasta 3 proyectos por postulante (máximo 2 seleccionados). Domicilio legal en CABA o, si no, el proyecto debe ejecutarse íntegramente en la Ciudad. Cuenta MiBA y Clave Ciudad Nivel 1; entidades: clave vinculada al representante.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Financiamiento de proyectos con aportes de mecenas: tope de $25.000.000 para personas físicas y $60.000.000 para personas jurídicas sin fines de lucro (el Consejo puede aprobar menos de lo pedido).
+  - Plazo o ciclo: Una única convocatoria anual. La de 2026 figura como "Convocatoria cerrada" y sin fechas en la página. No se vio fecha de la de 2027; se repite cada año (usual: sin confirmar el mes).
+  - Como postular: https://buenosaires.gob.ar/gcaba_historico/cultura/impulso-cultural/mecenazgo/como-participo (trámite online por TAD - Trámites a Distancia; consultas: participacioncultural@buenosaires.gob.ar, 4123-9400 int. 1543)
+  - Lectura automatica posible: No visto.
+  - Aclaracion: La URL original redirige a la ruta gcaba_historico.
+  - Aclaracion: Al 23/11/2026 está cerrada y hay que vigilar la apertura de 2027.
+  - Aclaracion: El domicilio o la ejecución en CABA es condición: no basta con vivir en el Gran Buenos Aires.
+- **Ibermúsicas — Ayudas a la música iberoamericana (circulación, residencias, especialización)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.ibermusicas.org/index.php/convocatorias/
+  - Que es: Programa intergubernamental de ministerios de cultura iberoamericanos. En Argentina lo difunden la Secretaría de Cultura de la Nación y el INAMU. Músicos, agrupaciones, compositores, luthiers, productores, investigadores y programadores.
+  - Requisitos: Músicos, agrupaciones, compositores, luthiers, talleristas, técnicos, productores o investigadores de la música, con nacionalidad o residencia certificada en un país miembro. Registro en el Catálogo Ibermúsicas. Carta de invitación firmada de la institución anfitriona en el exterior (línea de circulación). Descripción clara del proyecto. Agrupaciones: 70% de integrantes residentes en el país postulante.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos (no vi los montos; la línea de circulación cubre gastos de movilidad, sobre todo pasajes)
+  - Plazo o ciclo: Anual. Ronda 2026: 15 de junio al 1 de octubre de 2026 (cierre confirmado solo por una búsqueda que cita a Presidencia de la Nación, no lo vi en la página oficial); ya cerró. La página oficial dice que las convocatorias 2027 se publicarán 'a mediados de 2027'. Al 23/11/2026 no hay ninguna abierta.
+  - Como postular: https://www.ibermusicas.org/index.php/convocatorias/
+  - Lectura automatica posible: No hay API vista. Bases publicadas como PDF en ibermusicas.org/wp-content/uploads/2026/05/ y avisos en la web de cada ministerio.
+  - Aclaracion: Las fechas exactas de la ronda 2026 no se confirmaron en la página oficial.
+  - Aclaracion: La línea de circulación no acepta proyectos en el país de residencia.
+  - Aclaracion: El registro en el Catálogo de Ibermúsicas es gratuito.
+  - Aclaracion: En 2026 hubo otras líneas: programación, residencias para artistas e investigadores, especialización y perfeccionamiento, proyectos virtuales y repertorio.
+- **IBERESCENA — Ayudas a las artes escénicas iberoamericanas** (se repite (hoy sin llamado abierto), verificada 1 vez) https://www.iberescena.org
+  - Que es: Programa intergubernamental de artes escénicas (teatro, danza, circo y afines) de 17 países miembros, entre ellos Argentina. Personas y estructuras escénicas.
+  - Requisitos: Proyectos de artes escénicas; las bases detalladas están en la sección Líneas de Acción de iberescena.org (no las leí). Cada línea tiene sus propios requisitos. Se pide trayectoria declarada (emergente, media o larga).
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Según una búsqueda (no confirmado en las bases): hasta EUR 10.000 en Creación en Residencia y hasta EUR 15.000 en Coproducción; la ayuda a la programación fue de EUR 20.000 en 2025-2026
+  - Plazo o ciclo: Anual. Ronda 2026-2027: abrió el 26 de mayo y cerró el 23 de julio de 2026 a las 12:00 (huso de cada país). Resultados previstos para diciembre de 2026; ejecución del 1 de enero al 15 de diciembre de 2027. Próxima ronda probablemente hacia mayo de 2027 (inferido).
+  - Como postular: https://www.iberescena.org
+  - Lectura automatica posible: No hay API vista. El sitio oficial cargó vacío en la lectura; hay noticias en los sitios de los ministerios.
+  - Aclaracion: Los montos provienen de una búsqueda y no de las bases oficiales.
+  - Aclaracion: La línea de programación es para estructuras de programación, no para artistas solos.
+  - Aclaracion: Es para artes escénicas (teatro, danza, circo), no para pintura.
+  - Aclaracion: La fecha de apertura difiere entre fuentes (22 o 26 de mayo); se usa el 26.
+- **UNESCO — Fondo Internacional para la Diversidad Cultural (FIDC / IFCD)** (se repite (hoy sin llamado abierto), verificada 1 vez) https://www.unesco.org/creativity/en/international-fund-cultural-diversity
+  - Que es: UNESCO, a través de la Convención de 2005. Financia proyectos que fortalecen industrias y políticas culturales en países en desarrollo. No financia a artistas individuales.
+  - Requisitos: Postula una institución pública u ONG (no una persona) de un país en desarrollo elegible; proyectos que fomenten sectores culturales y creativos dinámicos; inicio no antes de mayo de 2027 según una fuente.
+  - Pago o beneficio: Hasta 100.000 USD por proyecto de 12 a 24 meses (según resultados de búsqueda, no verificado en la página oficial).
+  - Plazo o ciclo: Anual. La 17.ª convocatoria abrió el 23/03/2026 y cerró el 06/05/2026 (mediodía, hora de París). Resultados anunciados para enero de 2027 según una fuente. La 18.ª no está anunciada; que se repita en la primavera boreal de 2027 es inferencia a partir de las ediciones 15.ª (2024), 16.ª (2025) y 17.ª (2026) vistas en resultados de búsqueda.
+  - Como postular: https://www.unesco.org/creativity/en/international-fund-cultural-diversity
+  - Lectura automatica posible: No hay API vista. Páginas HTML y formularios en PDF.
+  - Aclaracion: No es una beca para artistas individuales, aunque una ONG o institución cultural podría presentar un proyecto.
+  - Aclaracion: El cierre del 6 de mayo se confirmó en la nota de IFACCA y en resultados de búsqueda, no en la página de UNESCO.
+  - Aclaracion: No se pudo comprobar si Argentina figura entre los países elegibles.
+  - Aclaracion: Contacto: convention2005.ifcd@unesco.org.
+- **BAMúsica (Ciudad de Buenos Aires)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://buenosaires.gob.ar/bamusica/como-participo
+  - Que es: Solistas, grupos y clubes de música en vivo con domicilio en CABA.
+  - Requisitos: Mayoría de edad; persona física o jurídica con domicilio en CABA; inscripción previa en el Registro BAMúsica; solistas y grupos con al menos 2 años ininterrumpidos de creación o actuación musical; los shows deben ocurrir después de la solicitud; rendición de cuentas a 30 días de cobrar; quien tenga una rendición anterior pendiente no puede volver a postularse.
+  - Pago o beneficio: Subsidio para producir y realizar presentaciones de música en vivo; el monto lo decide un directorio evaluador y puede cubrir el proyecto total o parcialmente. Monto exacto: sin datos.
+  - Plazo o ciclo: Convocatoria 2026 del 18 de mayo (10 h) al 1 de junio (17 h), ya vencida. No vi un segundo llamado 2026. Postulación online por TAD, con Registro BAMúsica previo.
+  - Como postular: https://buenosaires.gob.ar/bamusica/como-participo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El domicilio exigido es en CABA; quienes viven fuera de la Ciudad, por ejemplo en el conurbano, probablemente no cumplen el requisito salvo que tengan domicilio en la Ciudad.
+  - Aclaracion: Se postula online por TAD con cuenta miBA; el Reglamento 2026 está en static.buenosaires.gob.ar (PDF 'Reglamento BAMúsica 2026').
+  - Aclaracion: La URL del catálogo redirige a una página histórica desactualizada que sigue diciendo 'Convocatoria abierta' con las fechas de 2026, que ya pasaron.
+  - Aclaracion: No aparece una convocatoria 2027 ni un segundo llamado en 2026.
+- **Vicente López: Fondo Municipal de las Artes y Salón de Artes Visuales Fernán Félix de Amador** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.vicentelopez.gov.ar/convocatoria/fondo-municipal-de-las-artes-fma-2026/
+  - Que es: Municipio de Vicente López, Secretaría de Cultura. Las bases oficiales están en el portal de Cultura del municipio, que la nota no enlaza.
+  - Requisitos: FMA: artista mayor de 18 años con residencia acreditable en Vicente López (individual o colectivo); un solo proyecto por artista; el proyecto debe estar en desarrollo (no se aceptan proyectos finalizados); no haber sido becario del FMA 2025; sin vínculo laboral permanente con VL Cultura ni parentesco hasta 2.º grado con un jurado. Disciplinas: música, audiovisual y multimedia, artes visuales, artes escénicas y letras. Inscripción online. No se pide título en lo que se vio.
+  - Pago o beneficio: FMA: beca de $700.000 por proyecto (materiales, equipamiento, tutorías, honorarios, traslados); hasta 10 proyectos y 3 suplentes. Montos del Salón: sin datos.
+  - Plazo o ciclo: FMA 2026: inscripción del 28/8 al 5/10/2026 (cierre extendido; el artículo de prensa decía 27/9, el sitio oficial corrige a 5/10). Resultados desde el 27/10. Ya cerró. La convocatoria exige no haber sido becario del FMA 2025, lo que prueba edición 2025 y 2026, o sea ciclo anual (inscripción probable de fines de agosto a octubre). El Salón de Artes Visuales (56.ª edición) se expone del 24 al 29/11/2026 en Quinta Trabucco; su convocatoria ya pasó y no apareció en el listado oficial.
+  - Como postular: https://www.vicentelopez.gov.ar/convocatorias
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Solo sirve a quienes viven en el partido de Vicente López; residir en el Gran Buenos Aires no alcanza.
+  - Aclaracion: La convocatoria ya cerró; conviene vigilar la página de convocatorias desde agosto 2027.
+  - Aclaracion: La URL original del catálogo es una nota de prensa con fecha de cierre desactualizada; corresponde usar la página oficial.
+  - Aclaracion: Contacto: infovecinos@vicentelopez.gov.ar o 147. No se vieron las bases del Salón ni de ExpoArt.
+- **INCAA - Concursos de fomento 2026 (productores; entrada indirecta para musica original y arte)** (sin verificar, verificada 1 vez) https://www.incaa.gob.ar/convocatorias
+  - Que es: Productores de cine y series (con director). Un musico o pintor no postula solo: se suma al equipo de un proyecto que gane.
+  - Requisitos: sin datos: depende de cada concurso (Anexo I). Los concursos suelen exigir productora o persona inscripta en el Registro Público Audiovisual; no lo confirmé en las bases.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: El listado oficial muestra 8 llamados 2026: Fantástico, Coproducción Internacional y Ópera Prima figuran 'Abierto'; Desarrollo de proyectos de largometrajes y series 'Próximamente'; Codesarrollo Argentina-Paraguay, Series de Ficción, Historias Breves Drama y 2° llamado Ficción/Documental figuran 'Cerrado'. No vi fechas de cierre ni montos en el listado. Un llamado de INCAA de 2026 (Laboratorio de desarrollo de proyectos de largometraje 2026/2027) tuvo cierre el 18/06/2026 según argentina.gob.ar, lo que sugiere ciclo anual, pero no lo confirmé para cada concurso.
+  - Como postular: https://www.incaa.gob.ar/convocatorias
+  - Lectura automatica posible: sin datos. El sitio publica las bases en PDF dentro de wp-content/uploads.
+  - Aclaracion: Es una lista de concursos para productores y realizadores audiovisuales, no una convocatoria para artistas, pintores o músicos individuales; solo se participa como parte del equipo de un proyecto presentado por una productora.
+  - Aclaracion: La página no menciona música, banda sonora ni dirección de arte.
+  - Aclaracion: Fechas de cierre, montos y requisitos figuran en la ficha de cada concurso (Anexo I); no se pudieron ver las bases individuales.
+  - Aclaracion: Figura como no verificable porque el estado 'Abierto' está verificado, pero no las fechas ni la elegibilidad.
+- **Mendoza: Fondo Provincial de la Cultura (subsidios a artistas)** (sin verificar, verificada 1 vez) https://www.mendoza.gov.ar/cultura
+  - Que es: Hacedores culturales de artes (danza, música, teatro, letras, artes visuales, audiovisual) y de otros campos culturales. Líneas vistas: becas de perfeccionamiento, seminarios, circulación cultural, festivales y exposiciones, proyectos socioculturales, espectáculos, edición literaria, muestras de artes visuales, grabaciones fonográficas, producciones audiovisuales.
+  - Requisitos: Según el artículo de 2022: creadores artísticos (danza, música, teatro, letras, artes visuales, audiovisual) y de otras áreas culturales, con unas 11 líneas (becas de perfeccionamiento, circulación, festivales, ediciones, exposiciones de artes visuales, grabaciones sonoras, producciones audiovisuales). Cada línea tiene sus propias bases. Residencia en Mendoza: no verificada, probablemente exigida.
+  - Pago o beneficio: sin datos (el artículo no da montos; son subsidios públicos provinciales)
+  - Plazo o ciclo: El artículo citado es de noviembre de 2022 (cierre 13/11/2022). En las búsquedas solo aparecieron convocatorias 2021, 2022 y 2023 (18/9 al 7/10/2023). No se vio ninguna convocatoria 2024, 2025 ni 2026.
+  - Como postular: Sitio del Ministerio de Cultura de Mendoza (www.mendoza.gov.ar/cultura). Las convocatorias anteriores se inscribían por la plataforma de trámites del gobierno.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL es una nota de prensa de 2022, no la página oficial.
+  - Aclaracion: No se pudo confirmar que el fondo siga activo ni que haya llamado en 2026.
+  - Aclaracion: Antes de considerarlo una oportunidad, hay que consultar el sitio oficial de Cultura de Mendoza.
+
+## Programas y registros del Estado
+
+- **FNA - Préstamos para Proyectos Culturales 2026** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/noticias/prestamos-para-proyectos-culturales-2026
+  - Que es: Artistas, artesanos, técnicos y profesionales vinculados a las disciplinas del FNA (incluye artistas visuales y músicos), argentinos o extranjeros con residencia legal y permanente, con trayectoria comprobable. Se admiten jubilados.
+  - Requisitos: Personas físicas, argentinas o extranjeras con residencia legal y permanente en Argentina, con trayectoria verificable en actividad artística o cultural. Mínimo 6 meses de antigüedad laboral, o un codeudor que la tenga. Garante obligatorio por encima de $3.000.000 (el cónyuge no puede serlo). Sin otro préstamo del FNA activo. Seguro de vida. Rendición con facturas originales a nombre del solicitante, máximo 120 días desde el pago. Usos: producción, edición, puesta en escena, promoción, viajes de estudio, formación, ferias y festivales.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Es un préstamo, no un subsidio: de $2.000.000 a $25.000.000, tasa 0% nominal anual más ajuste UVA. 36 cuotas mensuales hasta $3.000.000 y hasta 48 cuotas por encima. Hay que devolverlo.
+  - Plazo o ciclo: Convocatoria abierta sin fecha de cierre visible (página y listado oficial de préstamos del FNA, consultados el 2026-11-23). Es una ventanilla abierta durante el año; se desconoce si cierra en diciembre.
+  - Como postular: https://app.fnartes.gob.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La postulación se hace en 'Inscripciones' de la plataforma app.fnartes.gob.ar, donde también está el simulador de préstamos.
+  - Aclaracion: El ajuste UVA sigue la inflación, por lo que el costo real depende de ella.
+  - Aclaracion: Exige ingresos y garante, lo que puede ser una barrera.
+- **FNA - Préstamos para Refacciones y Equipamiento 2026 (taller, instrumentos, equipo)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/noticias/prestamos-para-refacciones-y-equipamiento-2026
+  - Que es: Artistas, artesanos, técnicos y profesionales de las disciplinas del FNA y empresas del país. Según la descripción general del FNA sirve para comprar instrumentos musicales, materiales de producción o equipo informático y refaccionar talleres.
+  - Requisitos: Artistas, artesanos, técnicos o profesionales ligados a las disciplinas del FNA, argentinos o extranjeros con residencia legal y permanente. Experiencia o dedicación artística verificable. Mínimo 6 meses de antigüedad laboral, o un codeudor que la cumpla. Garante obligatorio por encima de $3.000.000. Presupuestos y facturas en pesos argentinos. Sin otros préstamos del FNA pendientes (incluida la rendición). Rendición de gastos con comprobantes originales, máximo 120 días desde el pago. Jubilados con condiciones adicionales (ver preguntas frecuentes).
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Préstamo personal de $2.000.000 a $25.000.000, tasa 0% nominal anual más ajuste UVA. Hasta 36 cuotas hasta $3.000.000 y hasta 48 por encima. Hay que devolverlo; se admite cancelación anticipada.
+  - Plazo o ciclo: Convocatoria abierta sin fecha de cierre visible (página y listado oficial de préstamos del FNA, consultados el 2026-11-23).
+  - Como postular: https://app.fnartes.gob.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La postulación se hace en 'Inscripciones' de app.fnartes.gob.ar.
+  - Aclaracion: El listado de préstamos (https://www.argentina.gob.ar/cultura/fna/prestamos) muestra otros dos abiertos: Industrias Culturales 2026 y Salas Teatrales FNA/INT 2026.
+- **INAMU - Registro Unico de Artistas Musicales y Agrupaciones (puerta de entrada a todo el fomento)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/servicio/registro-unico-de-artistas-musicales-y-agrupaciones-musicales-nacionales
+  - Que es: Musicos solistas y agrupaciones. Registro gratuito, online, por declaracion jurada de condicion de musico, sin examen.
+  - Requisitos: Ser músico o integrante de una agrupación musical. Declaración jurada de que es músico; sin examen. Gratuito.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Sin pago directo. Da acceso a convocatorias de fomento, a la agregadora de música AMA (distribución a plataformas) y a descuentos en pasajes de larga distancia, alojamiento, instrumentos y tecnología.
+  - Plazo o ciclo: Registro gratuito en línea, sin fecha de cierre indicada en la página. Para la convocatoria de fomento 2026 había que registrar el proyecto principal antes del 1/10/2026 (el registro cerraba el 30/09/2026), así que conviene registrarse con anticipación para la edición siguiente.
+  - Como postular: https://musicos.autogestion.musica.ar
+  - Lectura automatica posible: Ninguna vista (formulario y panel web).
+  - Aclaracion: La página no dice expresamente que el registro esté abierto todo el año, pero describe un trámite en línea sin plazo.
+  - Aclaracion: El enlace exacto de inscripción no figura en esa página; el panel de músicos aparece en la página de la convocatoria 2026.
+  - Aclaracion: Contacto: registros@inamu.musica.ar.
+- **INAMU - descuentos en instrumentos y accesorios musicales** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/servicio/obtener-descuentos-en-instrumentos-y-accesorios-musicales
+  - Que es: Musicos nacionales registrados en el INAMU.
+  - Requisitos: Ser músico nacional registrado en el INAMU (Registro Único de Artistas Musicales y Agrupaciones Musicales Nacionales). Completar el formulario del INAMU e indicar en Comentarios el tipo de instrumento buscado.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Descuentos de hasta 30% en instrumentos y accesorios con envío a todo el país, envío gratis en baquetas y percusión de Sambys (Misiones), y posibilidad de pago en cuotas. El trámite es gratuito.
+  - Plazo o ciclo: Trámite abierto, sin plazo indicado en la ficha. No hay fecha de vigencia visible; los convenios enlazados incluyen uno de 2020 y uno de 2024 (Cafim), así que conviene confirmar que sigan vigentes.
+  - Como postular: https://inamu.musica.ar/index.php?sec=articulo&id=132
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: Es un beneficio, no una fuente de ingresos.
+  - Aclaracion: Los descuentos dependen de convenios con comercios (por ejemplo Casa Núñez, Sambys y Cafim) y la ficha no indica fecha de vigencia.
+  - Aclaracion: El enlace de la oferta lleva 'cafim2024', lo que sugiere una campaña de 2024; conviene confirmar con el INAMU que el descuento siga vigente.
+- **INAMU - descuentos en pasajes de micro para musicos** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/servicio/obtener-descuentos-en-pasajes-de-micro-para-musicos
+  - Que es: Musicos y agrupaciones registrados en el INAMU que viajan por una actividad musical.
+  - Requisitos: Estar inscripto en el Registro Único de Músicos Nacionales y Agrupaciones Musicales Nacionales del INAMU. Solo tramos nacionales. Enviar constancia de la actividad (foto de recital, nota en medios) hasta 15 días después del regreso. Compra solo por teléfono con tarjeta de crédito.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Descuento en pasajes de micro de larga distancia: la página dice 'hasta 30 %' en la descripción y '40 %' en el paso 4 (inconsistente). No es dinero. Trámite gratuito.
+  - Plazo o ciclo: Trámite permanente, sin fecha de vencimiento visible. Solicitar con 15 a 25 días de anticipación al viaje.
+  - Como postular: https://inamu.musica.ar (formulario del INAMU; consultas a pasajes@inamu.gob.ar). El enlace exacto del formulario no figuró en el texto leído.
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: Es un beneficio, no un llamado a proyectos, y solo sirve a músicos.
+  - Aclaracion: Empresas adheridas: Flecha Bus, Rápido Tata San José, Nueva Chevallier, General Urquiza, Sierras de Córdoba, Empresa Argentina, Micromar, San Juan Mar del Plata y Autotransporte San Juan.
+  - Aclaracion: La página trae dos teléfonos distintos (011-4018-0060 y 0810-222-5202) y no tiene fecha de actualización.
+- **INAMU - Registro Único de Artistas Musicales** (abierta o vigente, verificada 2 veces) https://inamu.musica.ar/registro_unico
+  - Que es: Solistas y grupos musicales independientes de Argentina (Instituto Nacional de la Música).
+  - Requisitos: Músicos solistas o agrupaciones nacionales independientes. La página no lista requisitos. Las bases de Fomento 2026 piden: titular de 18 años o más, domicilio legal en Argentina, DNI emitido por RENAPER (nacionalidad argentina o extranjera), no tener deudas de rendición con el INAMU.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: El registro no paga. Da acceso a beneficios: Convocatoria Anual de Fomento (subsidios directos), distribución digital por AMA, capacitación, descuentos en pasajes, hospedaje e instrumentos, asesoría, ferias internacionales y Unísono.
+  - Plazo o ciclo: Inscripción libre y sin fecha de cierre según la página oficial (no dice 'todo el año' textual). Es requisito para las convocatorias anuales: la de Fomento 2026 exigía registrarse y declarar el proyecto antes del 1/10/2026.
+  - Como postular: https://musicos.autogestion.musica.ar/registration.html
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La Convocatoria Anual de Fomento 2026 estuvo abierta del 1 al 15/10/2026 y ya cerró; registrarse al 23/11/2026 sirve para la edición 2027, que se espera en octubre pero no está confirmada.
+  - Aclaracion: Subsidios 2026: regional hasta 258 de ARS 700.000, nacional hasta 60 de ARS 1.400.000 y coral hasta 20 de ARS 1.000.000.
+  - Aclaracion: Se otorga un subsidio por persona y solo a quien no recibió ayuda del INAMU en 2025 o 2026.
+  - Aclaracion: Contacto: convocatorias@inamu.musica.ar, (011) 2150-3865.
+- **INAMU - Banco de Música Nacional e Independiente** (abierta o vigente, verificada 2 veces) https://inamu.musica.ar/banco-de-musica
+  - Que es: Grupos y solistas independientes inscriptos en el INAMU; lo consultan radios, medios, productores y musicalizadores.
+  - Requisitos: Músico o agrupación independiente inscripta en el Registro Único de Artistas Musicales. Se sube el fonograma desde el Panel de Músicxs y se publica una vez certificado.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: No hay pago ni costo mencionado. El beneficio es difusión: radios y medios descargan los temas para cumplir la cuota de música nacional (art. 65 de la Ley 26.522).
+  - Plazo o ciclo: Carga abierta sin fechas de apertura o cierre en la página oficial; es un acceso permanente a través del Panel. Que esté abierto todo el año no lo dice la página, así que lo confirma bancodemusica@inamu.musica.ar.
+  - Como postular: https://musicos.autogestion.musica.ar/login.html
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una vía de difusión, no de ingresos directos.
+  - Aclaracion: La página oficial indica más de 25.000 canciones publicadas.
+  - Aclaracion: Contacto: bancodemusica@inamu.musica.ar.
+- **Secretaría de Cultura de la Nación: convocatorias abiertas (Cultura Federal)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/cultura/convocatorias
+  - Que es: Listado de la Secretaría de Cultura con convocatorias de Teatro Nacional Cervantes, INCAA, INAMU, Fondo Nacional de las Artes, CONABIP, Red Federal de Teatros.
+  - Requisitos: INT 2026 líneas: orientado al sector teatral/escénico; la formación profesional aparece como condición de participación; requisitos específicos en el reglamento del INT (inteatro.ar/convocatorias/), no leído. Otros llamados del listado: instituciones (bibliotecas, salas, mercados artesanales) o productoras de cine.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: INT líneas: financiamiento con adjudicación mensual, monto sin datos. 'Arte Registrado' 2025 (cerrado 30/03/2026): USD 6.000 por premio para 8 proyectos. Otros: sin datos.
+  - Plazo o ciclo: Hay llamados abiertos al 23/11/2026. Del listado oficial de convocatorias vigentes: INT 2026 líneas de desarrollo (artistas, grupos y salas) hasta 31/12/2026; INT producción de obra y gestión de espacios hasta 31/12/2026; Red Federal de Teatros hasta 31/12/2026 (salas); Registro Argentino de Mercados Artesanales hasta 31/12/2026; Préstamos UVA 0% para salas teatrales hasta 09/12/2026. El INT Líneas 2026 tiene adjudicación mensual. Los llamados se reeditan por año.
+  - Como postular: https://www.argentina.gob.ar/cultura/convocatorias/17086
+  - Lectura automatica posible: No se vio RSS/JSON en esta página.
+  - Aclaracion: La nota de esa URL es del 4 de marzo de 2026 y casi todos los llamados que lista cerraron en marzo-abril 2026; solo siguen abiertos hasta 31/12/2026 los de bibliotecas populares y Red Federal de Teatros, dirigidos a instituciones.
+  - Aclaracion: Lo vigente se consulta en el listado oficial https://www.argentina.gob.ar/cultura/convocatorias.
+  - Aclaracion: Para artistas individuales solo corresponde INT 2026 líneas de desarrollo; no hay llamado específico para pintores ni músicos y los de INCAA son para productoras de cine.
+  - Aclaracion: El reglamento del INT con los requisitos está en inteatro.ar/convocatorias/; la línea de producción de obra y las fechas de cierre por línea no se pudieron confirmar.
+- **Portal Empleo / Capital Humano (bolsa de trabajo del Ministerio de Trabajo)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/empleo
+  - Que es: Plataforma pública y gratuita de empleo del Estado nacional para trabajadores y empleadores; ligada al programa Volver al Trabajo y Fomentar Empleo, con red de oficinas de empleo.
+  - Requisitos: Registrarse y validar datos en el Portal Empleo y cargar el historial laboral. Los requisitos de cada programa (como Volver al Trabajo) no se vieron en detalle.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Es una bolsa de trabajo y no paga nada por sí misma. Los programas asociados pueden dar ayudas económicas, pero no se vieron los montos.
+  - Plazo o ciclo: Abierto de forma continua: la página lo describe como 'plataforma web pública, abierta y gratuita' y no indica plazo de inscripción. Menciona la Guía de Programas de Empleo y Formación Laboral 2026.
+  - Como postular: https://www.argentina.gob.ar/trabajo/empleo (registro en el Portal Empleo desde esa página)
+  - Lectura automatica posible: No verificado.
+  - Aclaracion: No es una bolsa específica para artistas y la página no menciona programas culturales.
+  - Aclaracion: Sirve como bolsa general y para el Programa Volver al Trabajo (capacitación, prácticas laborales, apoyo a emprendimientos).
+  - Aclaracion: La página es informativa y no declara explícitamente que sea continuo, aunque no muestra fechas de cierre ni avisos de baja.
+  - Aclaracion: Contacto: teléfono 0800-222-2220, consultas@trabajo.gob.ar.
+- **CABA: Registro de artistas callejeros/as (constancia de inscripción, Ministerio de Cultura)** (abierta o vigente, verificada 2 veces) https://buenosaires.gob.ar/tramites/registro-de-artistas-callejerosas
+  - Que es: Ministerio de Cultura de la Ciudad de Buenos Aires (registro). El permiso para actuar en un lugar concreto lo otorgan las Comunas, según una búsqueda web no verificada en la página oficial.
+  - Requisitos: Usuario y clave miBA; documento de identidad (DNI, pasaporte, LE, etc.); realizar una actividad cultural de arte callejero según el Manual de Convivencia; aceptar y cumplir el Manual; correo electrónico válido.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Gratuito (según ley tarifaria). No paga ni becas: el ingreso son aportes voluntarios del público.
+  - Plazo o ciclo: Trámite permanente en línea, sin fechas ni cierres en la página. No indica vigencia de la constancia.
+  - Como postular: https://buenosaires.gob.ar/tramites/registro-de-artistas-callejerosas
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es un premio ni una beca: es un registro que habilita a actuar o pintar en la calle y a recibir aportes voluntarios.
+  - Aclaracion: Según el Manual de Convivencia, solo los artistas inscriptos pueden pedir propinas y deben llevar copia de la constancia.
+  - Aclaracion: El trámite se inicia con 'Iniciar trámite' en el Sistema de Trámites Digitales; el resultado llega por mail y, si se aprueba, se recibe una constancia virtual.
+  - Aclaracion: La página no excluye a extranjeros ni a quienes no residen en la Ciudad de Buenos Aires, pero tampoco lo aclara; el permiso para actuar en un lugar concreto lo otorgan las Comunas, dato no verificado en la página oficial.
+- **CABA: Permiso de uso precario en Ferias Artesanales (Plaza Intendente Alvear 'Plaza Francia', Parque Centenario, Plaza Belgrano, Parque Lezama y otras)** (abierta o vigente, verificada 2 veces) https://buenosaires.gob.ar/tramites/permiso-de-uso-precario-en-ferias-artesanales
+  - Que es: Dirección General de Permisos y Ferias (Ministerio de Espacio Público e Higiene Urbana). La Comisión Técnica Interferias evalúa la prueba de taller.
+  - Requisitos: Argentino (nativo, por opción o naturalizado) o extranjero con residencia permanente. Mayor de edad. Domicilio real y legal en CABA. Cuenta miBA nivel 1, DNI frente y dorso, foto 4x4 color fondo blanco, constancia de domicilio y declaración jurada (rubro artesanal que se venderá, no ser funcionario, sin juicios con la Ciudad, sin otro permiso precario en espacio público). Después hay una prueba de taller ante la Comisión Técnica Interferias; aprobarla no garantiza lugar.
+  - Pago o beneficio: El trámite es gratuito. No es un pago: es un permiso para vender la propia producción en la feria. Los ingresos dependen de las ventas.
+  - Plazo o ciclo: Sin fecha de cierre publicada; inscripción continua, con validez de un año desde la inscripción.
+  - Como postular: https://buenosaires.gob.ar/tramites/permiso-de-uso-precario-en-ferias-artesanales (botón 'Iniciar Trámite' a TAD con cuenta miBA nivel 1) o en persona en la Mesa de Entradas de la Dirección General de Permisos y Ferias
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Se aplica a artesanías; no es un concurso de artes plásticas.
+  - Aclaracion: Quienes viven fuera de la Ciudad de Buenos Aires, por ejemplo en el Gran Buenos Aires, no cumplen el requisito de domicilio sin fijar domicilio en la Ciudad.
+  - Aclaracion: Si no se obtiene el permiso dentro del año de validez, la inscripción vence y hay que reinscribirse; los puestos dependen de las vacantes, por orden de inscripción.
+  - Aclaracion: Contacto: 5030-9300 int. 3271, mesadgpf@buenosaires.gob.ar.
+- **CABA: Permiso de uso precario en ferias de manualistas (San Telmo/Plaza Dorrego, Recoleta, Palermo Viejo, Parque Rivadavia y otras)** (abierta o vigente, verificada 2 veces) https://buenosaires.gob.ar/tramites/permiso-de-uso-precario-en-las-ferias-de-manualistas
+  - Que es: Dirección de Permisos y Ferias, Ministerio de Espacio Público e Higiene Urbana (CABA).
+  - Requisitos: Argentino (nativo, por opción o naturalizado) o extranjero con residencia permanente. Mayor de edad. Domicilio real y legal en CABA. miBA, DNI ambos lados, foto 4x4 color fondo blanco y declaración jurada del oficio. Si lo seleccionan, después de la prueba de taller: certificado de no deudor alimentario, certificado de antecedentes penales y prueba de que la actividad y los bienes cumplen la ley (incluida la de marcas, Ley 22.362).
+  - Pago o beneficio: Gratuito según la Ley Tarifaria (Ley 6711). Es un permiso de venta, no un pago ni una beca.
+  - Plazo o ciclo: Sin fecha de cierre publicada; inscripción continua, válida un año.
+  - Como postular: https://buenosaires.gob.ar/tramites/permiso-de-uso-precario-en-las-ferias-de-manualistas (botón 'Iniciar Trámite' a TAD, trámite 100% online, con credenciales miBA)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Se exige domicilio en la Ciudad de Buenos Aires, por lo que quienes viven en el Gran Buenos Aires no cumplen el requisito sin cambiar su domicilio.
+  - Aclaracion: Es un permiso para manualistas, no específico de pintores ni músicos.
+  - Aclaracion: Contacto: 5030-9300 int. 3271, mesadgpf@buenosaires.gob.ar; para ayuda con notificaciones, 147.
+- **INCAA - Registro Publico Audiovisual (INCAA en Linea)** (abierta o vigente, verificada 2 veces) https://www.incaa.gob.ar/tramites/registro-publico-audiovisual/
+  - Que es: Personas y empresas que hacen actividad audiovisual en Argentina. Incluye estudios de grabacion, de sonido, de efectos visuales (VFX), productoras de videojuegos, directores y guionistas.
+  - Requisitos: Ejercer una actividad audiovisual en Argentina (persona física o jurídica). Documentación y costo: sin datos, no figuran en la página.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: No paga ni otorga dinero. Costo del trámite: sin datos.
+  - Plazo o ciclo: Permanente (inscripción de trámite continuo; la página no fija fechas).
+  - Como postular: https://mistramites.incaa.gob.ar
+  - Lectura automatica posible: No hay feed.
+  - Aclaracion: Es un requisito administrativo previo para concursar, no un empleo ni un subsidio.
+  - Aclaracion: La página no menciona explícitamente a compositores, músicos ni directores de arte, por lo que no se puede confirmar que deban o puedan inscribirse.
+  - Aclaracion: No detalla procedimiento, documentación ni costo; remite a INCAA en Línea y al contacto del sitio.
+  - Aclaracion: La página no declara de forma explícita que sea permanente ni muestra períodos o fechas de cierre.
+- **Complejo Teatral de Buenos Aires - Taller-Escuela de Titiriteros 'Ariel Bufano' (cohorte 2027)** (abierta o vigente, verificada 2 veces) https://complejoteatral.gob.ar/inscripcion-abiertaal-taller-escuela-de-titiriteros-ariel-bufano/
+  - Que es: Formacion presencial en teatro de objetos y titeres, martes a viernes de 10 a 13:30 en Av. Cordoba 6056 (Teatro Regio). Los egresados quedan capacitados para crear, construir, dirigir y producir. No pude confirmar que el curso ensene pintura ni construccion de titeres.
+  - Requisitos: Formulario de inscripcion, DNI (original y fotocopia), foto carnet reciente. Examen de ingreso: entrevista con la direccion. Edad y costo: no mencionados en la pagina.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Ingreso gratuito segun la pagina de Formacion. No paga sueldo ni beca (no se vio).
+  - Plazo o ciclo: Primer periodo hasta el 18/11/2026 (ya cerrado). Segundo periodo abierto del 4 al 26 de febrero de 2027, cohorte 2027. La pagina de Formacion dice que ingresan unos 20 alumnos cada tres anos, asi que no es anual como se afirmaba.
+  - Como postular: https://complejoteatral.gob.ar/inscripcion-abiertaal-taller-escuela-de-titiriteros-ariel-bufano/
+  - Lectura automatica posible: No hay feed.
+  - Aclaracion: Es formación, no empleo.
+  - Aclaracion: El ciclo no es anual: según la página de Formación ingresan unos 20 alumnos cada tres años, con dos períodos de inscripción dentro de la misma convocatoria.
+  - Aclaracion: Quienes viven en otras provincias o en el exterior pueden completar el formulario online.
+  - Aclaracion: No se pudo confirmar que el curso enseñe pintura ni construcción de títeres.
+- **Secretaría de Cultura de la Nación - Listado de convocatorias abiertas** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/cultura/convocatorias
+  - Que es: Página maestra con todas las convocatorias vigentes de la Secretaría de Cultura (FNA, INT, INCAA, CONABIP, Salón Nacional, etc.); sirve para monitorear nuevas aperturas.
+  - Requisitos: Cada llamado fija las suyas. Varios exigen inscripción en el Registro Federal de Cultura y, en los del FNA, residencia legal en el país y ser mayor de 18 años.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Varía según la convocatoria; INT líneas 2026: sin datos. Concurso de Arte y Tecnología 2026 (cerrado): $3.000.000 / $2.000.000 / $1.000.000 más $600.000 de exhibición. Programa Federal de Editoriales 2026 (cerrado): $2.500.000.
+  - Plazo o ciclo: Listado vivo, se actualiza de forma continua. Al 23/11/2026 figuraban abiertas, entre otras: INT 2026 líneas de desarrollo (hasta 31/12/2026), INT producción de obra (31/12/2026), INT gestión de espacios teatrales (31/12/2026), Red Federal de Teatros (31/12/2026), Registro Argentino de Mercados Artesanales (31/12/2026), INCAA ficción y cine fantástico (16/12/2026), Préstamos UVA para salas teatrales (9/12/2026).
+  - Como postular: https://www.argentina.gob.ar/cultura/convocatorias
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Al 23/11/2026 no figuraba ninguna convocatoria abierta específica de pintura, artes visuales o música; lo abierto es sobre todo teatro, cine y bibliotecas.
+  - Aclaracion: Las líneas INT 2026 podrían servir a músicos o artistas escénicos, pero la página no especifica quién puede postular en producción de obra; hay que revisar las bases de cada llamado.
+  - Aclaracion: Una convocatoria de composición musical joven estuvo abierta hasta el 19/7/2026 y ya venció.
+  - Aclaracion: No hay evidencia de un Salón Nacional en este listado.
+- **INAMU - Agregadora de Musica Argentina (AMA) para distribuir musica y cobrar regalias** (se repite (hoy sin llamado abierto), verificada 2 veces) https://inamu.musica.ar/convocatoria-ama-2026
+  - Que es: Artistas registrados en el INAMU con producciones listas para distribuir.
+  - Requisitos: Músicos o agrupaciones registrados en el INAMU (Registro Único: https://inamu.musica.ar/registro_unico) y con producciones listas para distribución digital. Inscripción previa a la capacitación desde el panel del INAMU, en Eventos > Próximos Eventos.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: No paga. Los participantes de la capacitación reciben un código exclusivo para subir música sin límite a más de 100 plataformas; las regalías por reproducciones se cobran por AMA. Costo: sin datos.
+  - Plazo o ciclo: La página (22/05/2026) anuncia la 'primera convocatoria 2026' con capacitación virtual el 27/05/2026 a las 19:00 por Zoom, ya pasada. El título 'primera' implica varias convocatorias por año, pero no vi las siguientes ni fechas. Sin plazo abierto visto al 23/11/2026.
+  - Como postular: https://musicos.autogestion.musica.ar/login.html
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: Es un servicio de distribución digital, no un empleo ni una beca.
+  - Aclaracion: La página no menciona el costo, por lo que conviene confirmarlo con el INAMU.
+  - Aclaracion: La página no indica si el servicio es permanente para registrados; solo describe la convocatoria puntual.
+  - Aclaracion: Contacto: info@inamu.musica.ar; las nuevas convocatorias se ven en la sección de eventos del panel de músicos.
+- **INAMU - indice de convocatorias (para vigilar nuevos llamados)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/cultura/convocatorias/17597
+  - Que es: Musicos y profesionales del sector registrados.
+  - Requisitos: Solista, agrupación o coro inscripto en el Registro Único de Artistas Musicales del INAMU, con proyecto principal declarado antes del 1/10/2026. Mayor de 18 años. Domicilio legal en el país y DNI de RENAPER. Una sola solicitud por postulante. Excluidos: beneficiarios de fomentos INAMU en convocatorias 2025 y 2026, y quienes tengan rendiciones vencidas. Hay que rendir el 100 % en 240 días y hacer una compensación social no económica.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Línea Regional: hasta 258 fomentos de $700.000. Nacional: hasta 60 de $1.400.000. Coral: hasta 20 de $1.000.000 (solo coros registrados). Destinos: conciertos/giras, fonogramas, videogramas.
+  - Plazo o ciclo: Convocatoria Anual de Fomento 2026: abrió del 1 al 15/10/2026 (cerrada). La edición 2025 fue del 1 al 14/11/2025, así que es anual y la próxima sería en el último trimestre de 2027 (fecha desconocida). Resultados hasta 120 días corridos después del cierre. 'Música Argentina al Exterior' 2.º semestre 2026 cerró el 27/07/2026.
+  - Como postular: https://inamu.musica.ar/convocatoria-2026 (sitio de la convocatoria; la inscripción se hace por el Panel del INAMU)
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: La URL corresponde a una página de índice y no a un llamado puntual.
+  - Aclaracion: Al 23/11/2026 no hay ningún llamado abierto en la lista.
+  - Aclaracion: Los llamados de 2026 se publican en la página de Presidencia (argentina.gob.ar/cultura/convocatorias).
+  - Aclaracion: La inscripción en el Registro del INAMU se exige antes de que abra el llamado.
+- **Estudio Urbano: grabación y apoyo para proyectos musicales (CABA)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://buenosaires.gob.ar/gcaba_historico/convocatoria-proyectos-musicales/bases-y-condiciones
+  - Que es: Bandas y solistas de cualquier género o formato. Prioridad para artistas emergentes sin contrato con discográfica multinacional.
+  - Requisitos: Mayores de 18 años, residentes en Argentina (no se menciona nacionalidad). Solistas o bandas de cualquier género; en bandas, un responsable y todos los integrantes mayores de edad con conformidad firmada (Anexo III). Formulario online, documentación en el formulario y un tema en mp3; se deben tener los derechos de las grabaciones.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: No es dinero: 2 a 3 jornadas de grabación profesional en Estudio Urbano, difusión por sus canales y asesoramiento personalizado; los fonogramas quedan como propiedad de cada artista. Según disponibilidad, algunos proyectos pueden recibir productor artístico, show en vivo o sesión audiovisual/videoclip.
+  - Plazo o ciclo: Edición 2026; las bases no indican fechas ni estado (plazo según el acto administrativo, prorrogable). No pude confirmar el cierre.
+  - Como postular: https://buenosaires.gob.ar/estudiourbano (formulario online durante el período de inscripción)
+  - Lectura automatica posible: No visto.
+  - Aclaracion: La página de convocatorias no muestra fechas ni estado; las bases solo indican que el período de inscripción es el fijado en el acto administrativo y que puede prorrogarse.
+  - Aclaracion: El estado y las fechas deben consultarse en buenosaires.gob.ar/estudiourbano o en estudiourbano@buenosaires.gob.ar.
+  - Aclaracion: La ciudadanía no es requisito, solo residir en el país.
+- **Coros Porteños (audiciones del Coro de Cámara y del Coro de Mujeres, CABA)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://buenosaires.gob.ar/tramites/inscripcion-al-programa-coros-portenos
+  - Que es: Cantantes profesionales, estudiantes de canto y vecinos con experiencia vocal. Coro de Cámara (repertorio académico, ensayos los viernes en Monserrat) y Coro de Mujeres (ensayos los martes).
+  - Requisitos: Coro de Cámara: cantantes profesionales o estudiantes de canto, repertorio académico, ensayos los viernes en Monserrat; la página de trámite pide experiencia coral previa. Coro de Mujeres: mujeres con o sin experiencia, ensayos los martes en Monserrat. Ingreso por audición. No se vieron requisitos de residencia.
+  - Pago o beneficio: Sin pago: es un programa gratuito de coros (no se vio pago ni beca).
+  - Plazo o ciclo: Inscripción hasta el 30 de octubre (año no indicado; probablemente 2026, cerrada); periodicidad no confirmada
+  - Como postular: https://buenosaires.gob.ar/tramites/inscripcion-al-programa-coros-portenos (botón "Iniciar formulario"; contacto corosportenos@buenosaires.gob.ar)
+  - Lectura automatica posible: No visto.
+  - Aclaracion: No es un empleo ni una beca: es participación en coros comunitarios.
+  - Aclaracion: La URL pedida corresponde a un aviso viejo de junio de 2026; la fuente correcta es la página del trámite.
+  - Aclaracion: No se vieron fechas de audición y no hay certeza de inscripción abierta; conviene revisar la página y escribir al mail.
+  - Aclaracion: La inscripción 'abierta hasta el 30 de octubre' no indica el año y no se confirmó periodicidad anual.
+- **Instituto Cultural de la Provincia de Buenos Aires: listado de convocatorias** (se repite (hoy sin llamado abierto), verificada 2 veces) https://institutocultural.gba.gob.ar/convocatorias
+  - Que es: Variado. Lo visto en 2026: Registro Provincial de Artesanos/as, concursos para teatro, talleres, ferias, y el concurso de obras para orquesta.
+  - Requisitos: Para el Registro: ser artesano/a de un oficio listado, o colectivo/cooperativa con más de 3 años de actividad. Para otras convocatorias: ver cada una.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: El Registro no ofrece dinero. Otras convocatorias: ver cada una.
+  - Plazo o ciclo: Listado continuo con archivo; sin convocatoria claramente abierta hoy (todas las que tienen estado figuran "Finalizada"; Escuela de Libreros 2026 y capacitaciones IPAP sin fechas).
+  - Como postular: https://institutocultural.gba.gob.ar/articulo-noticia/convocatorias/inscripcion-para-el-nuevo-registro-provincial-de-artesanosas
+  - Lectura automatica posible: No visto.
+  - Aclaracion: Es un listado continuo con archivo de unas 14 páginas; no indica que se renueve todo el año, pero publican convocatorias nuevas.
+  - Aclaracion: El Registro de Artesanos/as figura en la página 2 del listado (?page=1), no en la primera.
+  - Aclaracion: El Registro está dirigido a artesanos (orfebrería, cerámica, telar, cuero, bordado, etc.) y colectivos; no menciona pintores, músicos ni artistas visuales.
+  - Aclaracion: Hay capacitaciones gratuitas virtuales, sin estado ni fechas claras.
+- **CABA: inscripción docente (legajo, clasificación y Acto Público en Línea)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://buenosaires.gob.ar/tramites/creacion-de-legajo-postulacion-e-inscripcion-la-docencia
+  - Que es: Quien quiera dar clase en escuelas de la Ciudad (incluida educación artística: plástica, música) como interino o suplente.
+  - Requisitos: Ciudadanía argentina (nativo, por opción o naturalizado) o extranjero que hable castellano; título docente del área o equivalente con formación pedagógica (Art. 13 del Estatuto del Docente); DNI, CUIL, título secundario y título docente o habilitante, escaneado a color. No estar jubilado ni en condiciones de obtener la jubilación ordinaria máxima; aptitud psicofísica; límite de edad solo para nivel inicial.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos (el trámite es gratuito; el sueldo depende del cargo y las horas del escalafón docente)
+  - Plazo o ciclo: Por ciclo lectivo; cronograma publicado al inicio de cada ciclo; sin fecha vigente en la página
+  - Como postular: https://buenosaires.gob.ar/tramites/creacion-de-legajo-postulacion-e-inscripcion-la-docencia
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Exige título docente o habilitante para el área: no alcanza con trayectoria artística.
+  - Aclaracion: Consultas: cadentuescuela@bue.edu.ar o 147.
+  - Aclaracion: Oficina: Carlos H. Perrete 750, lunes a viernes de 9 a 16 h.
+- **Ministerio de Cultura de CABA — 'Oportunidades internacionales y nacionales' (lista mensual)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://buenosaires.gob.ar/noticias-por-area/668
+  - Que es: Dirección General de Cooperación Cultural y Dirección General de Desarrollo Cultural y Creativo del Ministerio de Cultura porteño. Compila becas, apoyos, premios y residencias internacionales y nacionales por disciplina (artes visuales, música, artes escénicas, audiovisual, becas).
+  - Requisitos: Varía por ítem; cada uno indica edad, nacionalidad o residencia, disciplina y obra. Muchos piden mayoría de edad y nacionalidad argentina o residencia legal.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Varía por ítem (ejemplos de agosto: ARS 1.300.000 a 7.000.000 en premios; USD 10.000 en beca)
+  - Plazo o ciclo: Última nota de oportunidades: 02/11/2026; periodicidad no confirmada
+  - Como postular: https://buenosaires.gob.ar/noticias-por-area/668
+  - Lectura automatica posible: PDF con texto extraíble, un archivo por mes con URL propia, sin feed. Se puede procesar con pdftotext.
+  - Aclaracion: Es un agregador: la elegibilidad cambia según cada ítem.
+  - Aclaracion: Los ejemplos de agosto 2026 ya están cerrados.
+  - Aclaracion: Mondriaan Fund aparecía como abierta, pero es para artistas que trabajan en los Países Bajos.
+  - Aclaracion: La periodicidad mensual no pudo confirmarse; la última nota de oportunidades es del 02/11/2026.
+- **AMA - Agregadora de Música Argentina (INAMU)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.ama.musica.ar
+  - Que es: Solistas y agrupaciones registradas en el INAMU con producciones listas para distribuir.
+  - Requisitos: Estar inscripto en el Registro Único de Artistas Musicales y tener producciones listas para distribución digital. Hace falta un código de distribución, que se otorga una sola vez al participar en una presentación o convocatoria de AMA.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Sin costo inicial. El artista se queda con el 85% de las regalías por streaming, sin otros cargos ni permanencia mínima, según www.ama.musica.ar. Distribuye a más de 50 plataformas (la página del INAMU dice más de 100).
+  - Plazo o ciclo: El sitio de AMA no muestra fechas vigentes ni dice si el alta está abierta al 23/11/2026. Hubo una 1ª Convocatoria y Capacitación AMA 2026 con charla virtual por Zoom el miércoles 27 de mayo a las 19 h, ya pasada. Próxima edición: sin datos.
+  - Como postular: https://www.ama.musica.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un servicio de distribución y cobro de regalías, no un empleo ni un subsidio.
+  - Aclaracion: El código de distribución se pide por la web de AMA o en la capacitación disponible en el panel del INAMU, en Eventos > Próximos Eventos.
+  - Aclaracion: No se vio ninguna novedad desde el 2026-05-27, por lo que el ciclo anual no está probado.
+  - Aclaracion: Contacto: consultas@ama.musica.ar.
+- **Feria de Mataderos (Ciudad de Buenos Aires) - permiso para artesanos y productores regionales** (se repite (hoy sin llamado abierto), verificada 2 veces) https://buenosaires.gob.ar/tramites/inscripcion-la-feria-de-mataderos
+  - Que es: Artesanos y artesanas que se dediquen a la artesanía y a la producción de bienes regionales. Es una feria de venta en Mataderos, no una convocatoria de arte contemporáneo.
+  - Requisitos: Único requisito obligatorio: dedicarse a la artesanía y producción de bienes regionales. Formulario en línea con cuenta Google, validación por el área, firma del reglamento si se aprueba.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Sin costo de inscripción (gratuito según ley tarifaria). Es un puesto de venta propia, no hay pago ni beca.
+  - Plazo o ciclo: Al 23/11/2026 no hay convocatoria abierta (la página dice 'Actualmente no hay convocatoria abierta'). El permiso aprobado dura un año y se renueva postulándose de nuevo, con prioridad por antigüedad. No vi fechas de próxima apertura.
+  - Como postular: https://buenosaires.gob.ar/tramites/inscripcion-la-feria-de-mataderos
+  - Lectura automatica posible: no (trámite web)
+  - Aclaracion: Es una feria de venta para artesanos y productores de bienes regionales, no una convocatoria para artistas plásticos ni músicos en general.
+  - Aclaracion: Hay dos categorías: permisionarios estables (todos los domingos) e invitados (fechas especiales).
+  - Aclaracion: Enviar el formulario no garantiza un puesto, que depende del cupo.
+  - Aclaracion: El ciclo anual se infiere del vencimiento anual del permiso, no de un calendario de convocatorias publicado.
+- **CABA: Registro de postulantes del Mercado de las Pulgas (admite pinturas y colecciones de arte)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://buenosaires.gob.ar/tramites/inscripcion-en-el-registro-de-postulantes-del-mercado-de-las-pulgas
+  - Que es: Dirección General de Permisos y Ferias (Ministerio de Espacio Público e Higiene Urbana, CABA).
+  - Requisitos: Argentino (nativo, por opción o naturalizado) o extranjero con residencia permanente. Mayor de edad. Domicilio real y legal en CABA. miBA nivel 1, DNI ambos lados, foto 4x4, certificado de no deudor alimentario, antecedentes penales, constancia de inscripción en ARCA e Ingresos Brutos (AGIP) y declaración jurada del rubro. Rubros admitidos: antigüedades, muebles usados o reciclados, 'Cuadros y colecciones artísticas', coleccionables y objetos decorativos usados. Prohibidos: inflamables, armas, explosivos, comida y bebida.
+  - Pago o beneficio: Inscripción gratuita. No hay pago: se obtiene un puesto de venta. Los ingresos dependen de las ventas.
+  - Plazo o ciclo: Registro abierto del 1 al 30 de junio de cada año (la autoridad puede abrirlo en otras fechas si el mercado lo necesita). Próxima ventana habitual: 1 al 30 de junio de 2027. La inscripción vale 5 años y los permisos se renuevan por períodos iguales si no hubo infracciones sancionadas.
+  - Como postular: https://buenosaires.gob.ar/tramites/inscripcion-en-el-registro-de-postulantes-del-mercado-de-las-pulgas (botón 'Iniciar Trámite' a TAD, opción Registro Único de Postulantes; también en persona en Mesa de Entradas)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página lista 'cuadros y colecciones artísticas', pero el mercado es de antigüedades y usados, por lo que no se sabe si aceptan obra propia de un pintor y habría que consultarlo.
+  - Aclaracion: Requiere estar inscripto como contribuyente (monotributo).
+  - Aclaracion: La exigencia de domicilio en la Ciudad de Buenos Aires es una barrera para quienes viven en el Gran Buenos Aires.
+- **UNA (Artes Visuales): Licenciatura en Conservación-Restauración de Bienes Culturales** (se repite (hoy sin llamado abierto), verificada 2 veces) https://visuales.una.edu.ar/carreras/licenciatura-en-conservacion-restauracion-de-bienes-culturales_19742
+  - Que es: Carrera de grado pública de la Universidad Nacional de las Artes. Según una resolución de la UNA, existe el título de técnico y el de licenciado, con validez nacional (Res. ME 1622/11). Es la vía de formación para trabajar como restaurador en museos y talleres.
+  - Requisitos: No figuran en esta página; remite a la sección Ingreso 2027 y a un instructivo para ingresantes. Costo: no se menciona (universidad nacional).
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: No paga. Es una carrera universitaria; costo no mencionado en la página.
+  - Plazo o ciclo: Ingreso anual (hay una sección Ingreso 2027). Fechas de preinscripción 2027: sin datos, no las pude leer.
+  - Como postular: https://visuales.una.edu.ar/ingreso
+  - Lectura automatica posible: no
+  - Aclaracion: Es formación, no un empleo ni un subsidio.
+  - Aclaracion: Dura 4 años (licenciatura, 3.056 h) con título intermedio de Técnico/a a los 3 años (2.432 h).
+  - Aclaracion: La preinscripción se hace por el sistema Guaraní y no se pudieron confirmar las fechas.
+  - Aclaracion: Hay una vía para quienes terminaron el secundario en el exterior.
+- **Registro Federal de Cultura (Somos Cultura) - requisito para convocatorias de la Secretaría de Cultura** (sin verificar, verificada 1 vez) https://somos.cultura.gob.ar
+  - Que es: Cualquier persona o trabajador/a de la cultura que quiera postular a convocatorias de la Secretaría de Cultura (Salón Nacional, premios nacionales, etc.). Inscripción voluntaria y gratuita.
+  - Requisitos: Cuenta personal con correo de confirmación; luego registro del espacio u organización (con o sin personería jurídica). Documentación exacta: sin datos.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: No otorga dinero: es un registro previo requerido por varias convocatorias.
+  - Plazo o ciclo: Permanente según fuentes oficiales vistas en una búsqueda (no pude cargar el sitio: HTTP 403 en dos intentos).
+  - Como postular: https://somos.cultura.gob.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Primero se crea una cuenta como persona humana o trabajador de la cultura y luego se registra el espacio cultural u organización.
+  - Aclaracion: Lo cargado en el registro se toma como declaración jurada.
+  - Aclaracion: Varias convocatorias exigen estar inscripto, entre ellas Festivales Argentinos, Cultura y Raíces Afro y Gestionar Futuro.
+  - Aclaracion: El sitio devuelve HTTP 403 a consultas automáticas, por lo que su estado actual en 2026 no está confirmado y conviene abrirlo desde un navegador.
+- **Cultura en Territorio (Instituto Cultural PBA): Sembrar Cultura, Circuitos Culturales, Cocina de Festivales, Culturas Colectivas** (sin verificar, verificada 1 vez) https://culturaenterritorio.gba.gob.ar/
+  - Que es: Colectivos, organizaciones, espacios culturales comunitarios, salas teatrales independientes y festivales no estatales de la provincia de Buenos Aires. No es para artistas individuales sueltos.
+  - Requisitos: Pensado para espacios y centros culturales comunitarios y salas independientes de la provincia de Buenos Aires, probablemente con inscripción en el Registro Único. Criterios exactos: no publicados en lo que pude ver.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Desconocido. La página habla de incentivos económicos sin montos.
+  - Plazo o ciclo: Sin fechas ni cierres publicados. Hay una encuesta abierta sin cierre y un 'Plan de Fortalecimiento' sin ciclo visible.
+  - Como postular: https://culturaenterritorio.gba.gob.ar/registro-de-espacios
+  - Lectura automatica posible: No visto.
+  - Aclaracion: Las subpáginas /sembrar y /cocina muestran solo una pantalla de ingreso, sin datos.
+  - Aclaracion: Se aplica por el Registro Único de Espacios Culturales (/registro-de-espacios) y los formularios de Circuitos Culturales y Culturas Colectivas.
+  - Aclaracion: Hay una ventanilla de asesoramiento en culturaencercania@gmail.com y un contacto en culturaenterritorio@ic.gba.gob.ar.
+  - Aclaracion: Sirve a artistas solo si tienen o integran un espacio cultural.
+- **Programa Cultural en Barrios (GCBA): talleres en centros culturales** (sin verificar, verificada 1 vez) https://buenosaires.gob.ar/cultura/promocioncultural/programacion-pcb
+  - Que es: Programa de talleres artístico-culturales gratuitos en unos 35 centros culturales barriales de la Ciudad. Los talleristas son docentes de cada centro.
+  - Requisitos: La página no lista requisitos para talleristas. Solo describe la inscripción de participantes (formulario online por centro cultural; confirmación por mail).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: La inscripción de vecinos es una vez por año, en un período que la página no indica. La oferta 2026 figura 'con cupo cubierto'. No hay llamado a talleristas en la página.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Lo que publica la página es para quienes asisten a los talleres, no una vía de postulación para dar talleres; no se encontró cómo se contratan talleristas.
+  - Aclaracion: Contacto que figura en la página: vecinosgops@buenosaires.gob.ar.
+  - Aclaracion: Es un programa de la Ciudad de Buenos Aires, no del Gran Buenos Aires.
+- **Goethe-Institut — Shadowing Programme para jóvenes profesionales del teatro del exterior** (sin verificar, verificada 1 vez) https://goethe.de/en/kul/foe/hos.html
+  - Que es: Goethe-Institut, instituto cultural alemán financiado por el Estado. Prácticas en un teatro o casa de producción de Alemania para profesionales de artes escénicas (dirección, dramaturgia, escenografía, coreografía, luces, video y técnica).
+  - Requisitos: Según resumen de búsqueda no verificado en la fuente: hasta 40 años, profesional de teatro/artes escénicas, postulación vía el Goethe-Institut local, con 3-5 meses de anticipación. Idioma y documentación: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fecha confirmada. La página oficial devolvió HTTP 403 en dos intentos (con y sin www); lo que sé viene de un resultado de búsqueda que cita la página oficial: postular al menos 3 meses antes del inicio, o 5 meses si es entre marzo y agosto. Listados de terceros muestran cierre 31/12/2026, no confirmado en la fuente oficial.
+  - Como postular: https://www.goethe.de/en/uun/auf/tut/sta.html
+  - Lectura automatica posible: No hay API vista. Formulario por sede local.
+  - Aclaracion: Los datos provienen de un resumen de búsqueda y no están verificados en la fuente oficial.
+  - Aclaracion: Se postula en los Goethe-Institut locales del exterior, sin formulario central.
+  - Aclaracion: No se confirmó si Argentina es país elegible, ni el requisito de alemán ni los montos; para confirmar, escribir al Goethe-Institut Buenos Aires.
+  - Aclaracion: Es un programa del ámbito teatral, no de pintura ni de música.
+- **Unísono (INAMU en Televisión Pública)** (sin verificar, verificada 2 veces) https://inamu.musica.ar/registro_unico
+  - Que es: Grupos y solistas independientes; se envían videos musicales por comités regionales del INAMU.
+  - Requisitos: Según la nota de 2023: estar inscripto en el Registro Único de Artistas Musicales, enviar un video en vivo de al menos 300 MB, sin gráficos y sin videoclip, por correo con los datos del proyecto. Se reciben por región mediante las asociaciones de músicos. Enviar no garantiza la emisión.
+  - Pago o beneficio: sin datos (ninguna nota habla de cachet)
+  - Plazo o ciclo: Sin convocatoria vigente confirmada. La nota de El Litoral es de 2022 sin fecha visible. Una nota regional de Sitio Andino (fecha vista: 17/5/2023) pedía videos sin fecha de cierre. El buscador mostró un título del 5/8/2026 de esa nota, pero no pude confirmar que haya convocatoria en 2026.
+  - Como postular: https://inamu.musica.ar/registro_unico
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La nota de 2023 indicaba que no se recibía material de la provincia de Buenos Aires ni de CABA, solo de NOA, NEA, Nuevo Cuyo, Centro y Patagonia; quienes viven en esas jurisdicciones quedaban fuera, y no se sabe si eso cambió.
+  - Aclaracion: La URL dada es una nota periodística, no una fuente oficial, y no sirve como página de postulación.
+  - Aclaracion: No se cuenta como oportunidad abierta; conviene consultar a convocatorias@inamu.musica.ar o ver el Panel del INAMU.
+- **Instituto Cultural PBA: Mercado de Artesanías Bonaerenses (MAB) - venta, exposición y talleres** (sin verificar, verificada 1 vez) https://www.gba.gob.ar/cultura/noticias/comienzan_los_talleres_del_mercado_de_artesan%C3%ADas_bonaerenses
+  - Que es: Instituto Cultural de la Provincia de Buenos Aires. Sede en calle 7 entre 42 y 43, La Plata.
+  - Requisitos: La nota no indica requisitos ni edad. Sede: calle 7 entre 42 y 43, La Plata. Talleres: telar, soguería, mimbrería, orfebrería, filete porteño, macramé, bordados, cerámica, talla en madera. Contacto: Instagram @mercadodeartesaniaspba.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Talleres gratuitos (inscripción libre y gratuita). No vi pagos ni becas.
+  - Plazo o ciclo: Solo vi la nota de 2024: inscripción por formularios online desde el 28/2/2024, clases desde el 11/3/2024, talleres presenciales durante todo el año. No encontré una convocatoria 2026 ni 2027; la página oficial del MAB que probé dio 404.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es formación en oficios, no una convocatoria laboral ni de pago.
+  - Aclaracion: No se confirmó que siga vigente en 2026 y la página oficial del MAB probada devolvió 404.
+  - Aclaracion: No se vio un proceso publicado para postularse a vender como artesano.
+- **Complejo Teatral de Buenos Aires - Escuela de Oficios Teatrales (Escenografia y Mecanica Escenica)** (sin verificar, verificada 1 vez) https://complejoteatral.gob.ar/formacion/#escuela-de-oficios
+  - Que es: Es formacion, no empleo. Tres anos en el Teatro San Martin y el Teatro de la Ribera, con certificado avalado por el Ministerio de Cultura de la Ciudad. La orientacion Escenografia y Mecanica Escenica incluye Pintura de telones, Utileria teatral, Escultura teatral, Dibujo tecnico y Herreria. Otras orientaciones: Multimedia Escenica y Vestuario y Caracterizacion (con maquillaje y FX). Cupo de 25 por orientacion.
+  - Requisitos: No detallados en la pagina. Residencia en CABA o Provincia de Buenos Aires, o ser personal del Complejo. Cupo 25 por especialidad.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: No indica costo en la pagina (formacion de gestion estatal, probablemente gratuita, no confirmado). No paga sueldo.
+  - Plazo o ciclo: Ciclo 2027-2029 (tercera cohorte). Cohortes trienales, la siguiente inscripcion seria en aprox. 3 anos. No pude confirmar ni el cierre del 20/10/2026 ni el examen del 15/12/2026.
+  - Como postular: https://complejoteatral.gob.ar/formacion/
+  - Lectura automatica posible: No hay feed.
+  - Aclaracion: Es formación, no empleo: dura 3 años (6 cuatrimestres), con 12 a 20 h semanales de lunes a viernes de 9 a 14, en el Teatro San Martin y el Teatro de la Ribera.
+  - Aclaracion: La página oficial indica al 23/11/2026 que la inscripción al ciclo 2027-2029 está abierta y el formulario disponible, pero no muestra fecha de cierre, fechas de examen ni requisitos.
+  - Aclaracion: No se pudo confirmar el cierre del 20/10/2026 ni el examen del 15/12/2026; la página podría estar desactualizada, por lo que se recomienda escribir al Complejo antes de contar con la vacante.
+  - Aclaracion: Está dirigida a la comunidad artística de la Ciudad y la Provincia de Buenos Aires (el Gran Buenos Aires califica) y al personal del Complejo.
+- **CCREI - Centro de Conservación, Restauración e Investigación (Secretaría de Cultura de la Nación)** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/cultura/conservacion-y-restauracion/ccrei
+  - Que es: Taller oficial de conservación y restauración de bienes muebles e inmuebles de las colecciones de la Secretaría de Cultura (Subsecretaría de Patrimonio Cultural). Equipo actual: una referente, seis restauradores, un auxiliar, un investigador y un arquitecto. Taller en la ex sede de la Biblioteca Nacional (México 564, Monserrat, CABA). Asesora y capacita a equipos de museos del país.
+  - Requisitos: No aplica: la página no menciona requisitos ni proceso de postulación.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin convocatoria, empleo ni beca en la página.
+  - Como postular: sin datos
+  - Lectura automatica posible: no
+  - Aclaracion: Es un organismo institucional que describe asesoramiento técnico a museos e institutos.
+  - Aclaracion: No ofrece vía de postulación ni datos de contacto.
+  - Aclaracion: No es una oportunidad postulable para artistas individuales.
+
+## Premios y salones oficiales
+
+- **FNA - Concurso de Arte y Tecnología 2026** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/noticias/concurso-de-arte-y-tecnologia-2026
+  - Que es: Artistas mayores de 18, argentinos o extranjeros con residencia legal, individual o grupal, que trabajen con arte y tecnología (IA, RA/RV, impresión 3D, instalaciones interactivas, net art, videomapping, composición generativa, etc.).
+  - Requisitos: Mayores de 18 años, argentinos o extranjeros con residencia legal en Argentina, individual o en grupo. Obra de arte con nuevas tecnologías (IA, RA/RV, impresión 3D, sonido electrónico, composición generativa, robótica, instalaciones interactivas, net art, videomapping, performance con tecnología), terminada después del 1/1/2024, inédita en concursos o muestras de 2026 y sin premios previos. Una obra por postulante. Fotos o videos de la obra en funcionamiento más texto de hasta 2.000 caracteres. Excluidos: personal del FNA, familiares del Directorio, beneficiarios de becas o premios del FNA 2024-2026, jurados 2026. No se pide título en lo que vi.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: 1.º premio $3.000.000; 2.º $2.000.000; 3.º $1.000.000; premios de exhibición de $600.000 cada uno para obras seleccionadas sin otro premio; posibles menciones. Montos de 2026.
+  - Plazo o ciclo: Edición 2026 cerrada (la página indica cierre el jueves 5 de noviembre, sin año explícito, y el listado oficial de concursos del FNA la marca cerrada). Edición 2025 también existió y cerró alrededor del 28/10/2025 según una búsqueda web (recursosculturales.com, no oficial; esa página no pude abrirla, dio 502). Dos ediciones seguidas sugieren ciclo anual, pero la página oficial no lo afirma. Próxima probable: octubre-noviembre de 2027, sin confirmar.
+  - Como postular: https://app.fnartes.gob.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial indica como cierre el jueves 5 de noviembre de 2026 y figura como 'convocatoria cerrada'.
+  - Aclaracion: Está orientado a obras con nuevas tecnologías y no a pintura tradicional.
+  - Aclaracion: En música solo califica una obra sonora electrónica o generativa.
+  - Aclaracion: La muestra de las obras seleccionadas será en Palacio Libertad, con fecha por confirmar.
+- **FNA - Premio Federal de Pintura 'Fundación María Calderón de la Barca'** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/noticias/premio-federal-de-pintura-fundacion-maria-calderon-de-la-barca-2026
+  - Que es: Artistas visuales argentinos (nativos o naturalizados) mayores de 18 con al menos 2 años de residencia en la provincia desde la que postulan; cupo de al menos 3 emergentes por distrito.
+  - Requisitos: Artistas visuales argentinos (nativos o naturalizados), mayores de 18 años, con al menos 2 años de residencia en la provincia desde la que se presentan. Título en artes visuales o afín (arquitectura, diseño gráfico o industrial, fotografía, audiovisuales) o formación equivalente idónea. Una pintura original e inédita, posterior a 2022, sin premios, de entre 1,20 x 0,80 m y 2 x 2 m, hasta 20 kg con marco. Foto de la obra con título, técnica y medidas, texto descriptivo, copia del DNI y CV.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: 1.º premio USD 30.000; 2.º USD 15.000; 3.º 'Revelación Federal' USD 5.000; posibles menciones honoríficas.
+  - Plazo o ciclo: Bienal según la página oficial ('premio bienal'). Edición 2026 cerrada: cierre prorrogado al jueves 18 de junio, selección desde el 20/7, recepción de obras 3 al 5/8, muestra 13/8 al 13/9 en Palacio Libertad. Próxima esperada en 2028 por ser bienal; fecha no confirmada.
+  - Como postular: https://app.fnartes.gob.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El requisito de título en artes visuales o afín puede cubrirse con formación equivalente idónea, que debe evaluar quien postula.
+  - Aclaracion: La página oficial no indica que el premio sea bienal, por lo que ese dato no está verificado.
+  - Aclaracion: Es el premio de pintura mejor dotado entre los relevados.
+- **FNA y ANBA - Premio de Composicion (obra coral inedita)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/cultura/convocatorias/16795
+  - Que es: Compositores argentinos o nacionalizados, residentes en el pais, mayores de 18 y nacidos desde el 1/01/1986.
+  - Requisitos: Compositores argentinos o naturalizados, residentes en Argentina, mayores de 18 años y nacidos el 1/01/1986 o después. Obra coral a cappella inédita y sin estrenar, de 3 a 12 minutos, para coro mixto de hasta 4 voces (divisi a due opcional, hasta 8 partes reales). Un solo autor (sin coautoría, arreglos ni transcripciones). Debe estar registrada en el Registro Nacional de la Propiedad Intelectual. Los textos con derechos vigentes necesitan autorización firmada. Quedan excluidos los familiares hasta el tercer grado de académicos de la ANBA y el personal del FNA.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: 2.000.000 de pesos, diploma de honor y estreno de la obra por el Coro Nacional de Música Argentina (CONAMA); menciones honoríficas sin dotación.
+  - Plazo o ciclo: Edición 2026 cerrada: inscripción del 5/03 al 4/08/2026. La ficha dice que es el 'segundo año consecutivo' (2025 y 2026). Próxima edición esperable en 2027, sin fecha vista.
+  - Como postular: https://www.argentina.gob.ar/noticias/premio-de-composicion-anba-fna-2026
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: La ventana de inscripción oficial es del 5/03 al 4/08/2026; el dato 19/05 al 1/07 de una fuente secundaria no coincide con la ficha oficial.
+  - Aclaracion: La ficha no dice expresamente que sea anual, solo 'segundo año consecutivo'.
+  - Aclaracion: La ficha no describe el proceso de inscripción y remite a la nota de prensa.
+- **Salón de Artes Plásticas Manuel Belgrano (Museo Sívori, CABA)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://buenosaires.gob.ar/gcaba_historico/noticias/abrio-la-convocatoria-para-participar-de-la-70a-edicion-del-salon-manuel
+  - Que es: Artistas de todo el país, argentinos y extranjeros con residencia permanente. Disciplinas: pintura, escultura, dibujo, grabado y monocopia.
+  - Requisitos: Artistas de todo el país, argentinos y extranjeros con residencia permanente. Disciplinas: pintura, escultura, dibujo, grabado y monotipo. Formulario online con link a portfolio y obras; la primera evaluación es virtual. Edad y arancel: no figuran en la página.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: La página no lista montos en efectivo. Las obras con primeros premios ingresan al patrimonio del Museo Sívori (adquisición).
+  - Plazo o ciclo: 70ª edición: convocatoria abierta hasta el 4 de octubre de 2026 (ya cerrada); premiación 30 de octubre; inauguración 12 de diciembre de 2026. Ciclo anual.
+  - Como postular: https://buenosaires.gob.ar/museosivori (formulario online; reglamento de la 70ª en https://buenosaires.gob.ar/gcaba_historico/reglamento-70deg-smb)
+  - Lectura automatica posible: No visto.
+  - Aclaracion: Es un salón activo desde 1945.
+  - Aclaracion: El año de cierre de la 70ª edición se infiere de la fecha de publicación del anuncio (10 de septiembre de 2026).
+  - Aclaracion: Una 71ª edición se esperaría hacia septiembre-octubre de 2027, dato inferido y no publicado.
+  - Aclaracion: La página principal de inscripción del museo no se cargó directamente; la ruta del reglamento salió de resultados de búsqueda.
+- **Berazategui (PBA): Salón Nacional de Creatividad y Diseño Artesanal (27.ª edición, 2026)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://berazategui.gob.ar/cultura/salon-nacional-de-creatividad
+  - Que es: Escuela Municipal de Artesanías, Secretaría de Cultura y Educación de la Municipalidad de Berazategui.
+  - Requisitos: Artesanos mayores de 18 años (salón nacional, se aceptan envíos del interior); hasta 2 piezas por participante; piezas artesanales con función y criterio estético; no se aceptan copias, seriaciones, manualidades ni obra artístico-visual que no sea artesanía. Ficha de inscripción y fotocopia de DNI. Contacto: artesanias@culturaberazategui.gov.ar, (011) 4356-9200 int. 2111.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Tres Grandes Premios Adquisición de $800.000 cada uno; Premio Estímulo al artesano local de $400.000 y de $200.000 en categoría alumnos; primer y segundo premio y menciones por rubro. Inscripción de $15.000 por artesano. Se seleccionan 150 trabajos.
+  - Plazo o ciclo: Sin convocatoria vigente visible; la página solo exhibe la edición 2024, sin fecha de cierre.
+  - Como postular: https://berazategui.gob.ar/cultura/salon-nacional-de-creatividad
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un salón de artesanía, no de pintura ni de música, y excluye expresamente la obra artístico-visual que no sea artesanía.
+  - Aclaracion: La página solo exhibe la convocatoria 2024 y no hay evidencia de una edición 2026; se recomienda consultar a artesanias@culturaberazategui.gov.ar o al (011) 4356-9200 int. 2111.
+  - Aclaracion: La página del salón devolvió 404 al cargarla como URL propia, pero está enlazada desde la portada de cultura.
+  - Aclaracion: La misma portada enlaza otros certámenes (Bienal Nacional de Arte Cerámico, Salón Nacional Vidrio en el Arte, Salón Final de Finales, Concursos) que no se revisaron.
+- **Salón Provincial de Artes Visuales de Entre Ríos (LXIII edición, 2026)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.entrerios.gov.ar/cultura/abren-la-convocatoria-para-el-lxiii-salon-provincial-de-artes-visuales-de-entre-rios-2026/
+  - Que es: Artistas visuales de Entre Ríos en pintura, dibujo, grabado, escultura, cerámica y arte textil; una obra por disciplina, un formulario por disciplina.
+  - Requisitos: Una obra por disciplina, se puede participar en varias: Arte Textil, Cerámica, Dibujo, Escultura, Grabado y Pintura. Un formulario online por disciplina. Requisitos de residencia, edad y nacionalidad según el reglamento (no visto).
+  - Pago o beneficio: Primeros premios $1.300.000 y segundos premios $950.000 (por disciplina, edición 2026). Las obras premiadas pasan al patrimonio del Museo Provincial de Bellas Artes.
+  - Plazo o ciclo: LXIII edición: del 6/7 al 10/8/2026; cerrada. Certamen anual, próxima edición sin fechas publicadas.
+  - Como postular: https://www.entrerios.gov.ar/cultura/abren-la-convocatoria-para-el-lxiii-salon-provincial-de-artes-visuales-de-entre-rios-2026/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial remite a un reglamento externo que no se pudo consultar.
+  - Aclaracion: Un resultado de búsqueda sobre la edición 62 indicaba que se dirige a artistas nacidos en Entre Ríos o con al menos 3 años de residencia en la provincia, dato que no figura en la página oficial de 2026.
+  - Aclaracion: Quienes viven fuera de Entre Ríos probablemente no califiquen, salvo que cumplan ese criterio.
+  - Aclaracion: Las consultas se hacen solo a salonartesvisualeser@gmail.com; un enlace de formulario (Dibujo) tiene un error de tipeo en la página.
+- **Premios Pregonero (Fundación El Libro, literatura infantil y juvenil)** (se repite (hoy sin llamado abierto), verificada 1 vez) https://www.feriadellibro.ar/
+  - Que es: Fundación El Libro. Reconocimiento a difusores de la literatura infantil y juvenil. Categorías: institución, especialista, comunicación, biblioteca, librería, narrador, teatro, música y títeres, editorial. No hay categoría de ilustración.
+  - Requisitos: Es un reconocimiento a difusores de la literatura infantil y juvenil argentina, no un premio de obra artística. Se postula (uno mismo o a terceros) con antecedentes de 2 a 3 carillas sobre la trayectoria en promoción de la LIJ, indicando categoría. Categorías: Honor, Institución, Especialista, Comunicación, Biblioteca/Bibliotecario, Librería/Librero, Narrador/a, Teatro, Música y Títeres, Editorial/Expositor, Especial. Se pueden sumar fotos o notas de prensa. Jurado de tres figuras.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Reconocimiento público; el PDF no menciona dinero.
+  - Plazo o ciclo: Anual desde 1990 (según el PDF oficial de 2025). Edición 2025: postulaciones hasta el 4/7/2025, premios entregados durante la Feria del Libro Infantil y Juvenil (16/7 al 3/8/2025). Próxima convocatoria (2027): no encontré fecha publicada; el patrón sugiere junio-julio, ligado a la feria de julio.
+  - Como postular: https://www.formpl.us/form/6083088723542016
+  - Lectura automatica posible: no
+  - Aclaracion: Es un reconocimiento a difusores de la literatura infantil y juvenil, no un premio de obra artística; solo encaja con artistas o músicos que trabajen en ese ámbito, por ejemplo en la categoría Teatro, Música y Títeres.
+  - Aclaracion: El formulario enlazado es el de la edición 2025 y casi seguro ya no sirve; hay que esperar la convocatoria 2027.
+  - Aclaracion: No se pudo confirmar la edición 2026 porque el sitio de la Fundación no estuvo accesible.
+  - Aclaracion: Contacto: premiospregonero@el-libro.org.ar, (011) 4370-0600.
+- **Salón de Artes Visuales del Museo del Centro Cultural Leonardo Favio (Lanús)** (sin verificar, verificada 1 vez) https://hipermedula.org/2026/11/salon-de-arte-visuales-centro-cultural-leonardo-favio/
+  - Que es: Artistas visuales mayores de 18, argentinos o extranjeros con al menos 2 años de residencia en Argentina; se aceptan colectivos. Sin categorías por disciplina.
+  - Requisitos: Mayores de 18, argentinos o extranjeros con al menos 2 años de residencia en Argentina. Una obra original inédita en concursos, hasta 100x100x40 cm con marco. Debe enviar foto JPG de la obra, ficha, biografía de hasta 500 caracteres, texto conceptual, DNI frente y dorso y un PDF con tres imágenes de otra obra. Quedan excluidos menores, residentes en el exterior y personas vinculadas al jurado o al complejo.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Según la fuente: $50.000 a cada artista seleccionado y tres premios adquisición (dos de $1.500.000 entre todos los seleccionados y uno para un artista de Lanús), pagados en 2027; el ganador debe tener monotributo a su nombre. Montos no confirmados en fuente oficial.
+  - Plazo o ciclo: 2026: la fuente (blog de terceros) dice que cierra el 22/11/2026, fecha ya vencida. Las bases hablan de octubre 2026 a febrero 2027 sin fecha de cierre; entrega de obras seleccionadas 28/11 al 06/12; muestra diciembre a febrero. Posible plazo extendido, sin confirmar. Edición futura: sin datos.
+  - Como postular: Formulario online desde las redes de la Subsecretaría de Cultura de Lanús y el portal de trámites municipal (enlace exacto no visto). Contacto según la fuente: museodelcclf@gmail.com
+  - Lectura automatica posible: No visto.
+  - Aclaracion: La información proviene solo de una página de terceros (hipermedula.org); no se encontró ninguna página oficial de Lanús ni de la Nación que la confirme.
+  - Aclaracion: La fuente la llama 'Salón Nacional' pero corresponde a Lanús.
+  - Aclaracion: Conviene confirmar con la Municipalidad de Lanús o por el mail de contacto antes de contar con ella; muy probablemente ya está cerrada.
+- **Salones Provinciales del Museo Pettoruti: Florencio Molina Campos (artes visuales) y Arte Joven (PBA)** (sin verificar, verificada 1 vez) https://www.gba.gob.ar/museo_pettoruti/salon_de_arte_joven
+  - Que es: Artistas visuales residentes en la provincia de Buenos Aires: Molina Campos para mayores de 18; Arte Joven de 18 a 30.
+  - Requisitos: Arte Joven (edición 2022): artistas de 18 a 30 años residentes en la provincia de Buenos Aires. Molina Campos: no verificado. Inscripción con bases y formulario online.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Edición 2022 de Arte Joven: tres premios adquisición de $300.000 cada uno. Montos de ediciones posteriores: desconocido.
+  - Plazo o ciclo: Ciclo anual con fechas variables. Ediciones vistas: 2022 (12 a 25/11), 2024 (Arte Joven 05 a 16/08; Molina Campos 30/09 a 13/10, premiación 13/12/2024). No encontré ninguna edición 2025 ni 2026 en la página ni en la búsqueda.
+  - Como postular: https://www.gba.gob.ar/museo_pettoruti/noticias
+  - Lectura automatica posible: No visto.
+  - Aclaracion: La URL muestra solo la edición Centenario 2022.
+  - Aclaracion: No se pudo confirmar una convocatoria abierta ni fechas para 2026.
+  - Aclaracion: De Molina Campos solo se confirmó que es de artes visuales y que comparte jurado con Arte Joven; sus condiciones no se verificaron.
+  - Aclaracion: Conviene revisar el sitio del Museo Pettoruti o su cuenta oficial para ver si abren una edición nueva.
+
+## Empleo publico y docencia
+
+- **Teatro Colón: audiciones (Orquesta Estable dic. 2026, Ballet 2027, Opera Studio, Coro de Niños)** (abierta o vigente, verificada 2 veces) https://teatrocolon.org.ar/audiciones-concursos/
+  - Que es: Músicos instrumentistas (y según el llamado bailarines o cantantes). El llamado abierto al 23/11/2026 es para 2 violines de fila de la Orquesta Estable.
+  - Requisitos: La audición de diciembre es SOLO para 2 vacantes de violín de fila (primer o segundo violín de fila). Nacionalidad argentina nativa, por opción o naturalizada, o extranjero con documentación migratoria y laboral al firmar el contrato. No hay límite de edad publicado. Traer pianista acompañante propio si la obra lo pide. Etapa eliminatoria sin nota; final con puntaje del 1 al 10, aprobación con 7.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos (la convocatoria no menciona salario). Son cargos de planta del Teatro Colón; los elegidos empiezan el 16/02/2027.
+  - Plazo o ciclo: Abierta al 23/11/2026: Orquesta Estable, inscripción del 20/11/2026 al 11/12/2026, audición el lunes 14/12/2026 de 10 a 18 h en Sala Bicentenario (ingreso por Cerrito 624). Cierres ya pasados: Ballet 2027 (2/11/2026), Opera Studio 2026 (27/07 y 6/08/2026), Coro de Niños (13/02/2026). Se repite varias veces al año: audiciones de mayo y de diciembre, ballet cada septiembre-noviembre, Opera Studio y Coro de Niños a comienzos de año.
+  - Como postular: https://forms.gle/5Z1H9TJodBFaP81NA (formulario de la audición de violín de fila, diciembre 2026)
+  - Lectura automatica posible: No hay API ni feed visto. La página de listado muestra título y fechas de inscripción; conviene revisarla de forma periódica.
+  - Aclaracion: La lista tiene 16 entradas de audiciones y la de Opera Studio figura tres veces en 2026.
+  - Aclaracion: Hay además concursos públicos y abiertos de la Orquesta Estable (viola de fila y corno parte real) con inscripción hasta el 23/11/2026, y concursos de Coro Estable y Escenotécnica publicados en octubre, con fechas de cierre sin relevar.
+  - Aclaracion: La audición abierta de diciembre no sirve a quienes no toquen violín.
+  - Aclaracion: La URL sin 'es' (teatrocolon.org.ar/audiciones-concursos/) es la más completa.
+- **Universidad Nacional de las Artes (UNA): concursos docentes** (abierta o vigente, verificada 2 veces) https://www.una.edu.ar/concursos
+  - Que es: Docentes de artes (visuales, música y artes sonoras, movimiento, audiovisuales, formación docente en artes) de la universidad nacional de arte, por concurso de antecedentes y oposición.
+  - Requisitos: La página principal no detalla requisitos; están en cada resolución y en el perfil de cada concurso (título, antecedentes, oposición). Hay que leer la resolución de cada llamado. No se supone título ni trayectoria.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos (cargos docentes universitarios; la página no indica remuneración)
+  - Plazo o ciclo: Visto al 23/11/2026 2026-11-23 en la página oficial: (1) Departamento de Educación en Artes, Res. CS 0078/2026: preinscripción 2 al 23/11 hasta las 16 h e inscripción 9 al 23/11 hasta las 18 h, o sea cierra HOY. (2) Departamento de Artes Musicales y Sonoras, Res. CS 0118/2026: preinscripción 23/11 al 15/12/2026 hasta las 16 h (abre al 23/11/2026) e inscripción 30/11 al 15/12/2026 hasta las 18 h. Los llamados se repiten por departamento durante el año (esto último no lo vi en la página, es inferencia).
+  - Como postular: https://www.una.edu.ar/concursos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La preinscripción de Educación en Artes cierra el 23/11 a las 16 h y la inscripción a las 18 h.
+  - Aclaracion: La plataforma de inscripción no quedó confirmada; hay que ver los enlaces dentro de cada llamado.
+  - Aclaracion: Consultas: concursosdocentes@una.edu.ar.
+  - Aclaracion: Que los llamados se repitan por departamento durante el año es una inferencia, no figura en la página.
+- **Concursar (concursos públicos de la Administración Pública Nacional)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/jefatura/gestion-y-empleo-publico/concursar
+  - Que es: Jefatura de Gabinete / Secretaría de Transformación del Estado. Concursos para cubrir cargos en organismos nacionales (incluye Secretaría de Cultura, museos, etc.).
+  - Requisitos: Se define por cada llamado (perfil del puesto, título, experiencia). Hay que registrarse, autenticarse en Concursar 2.0 y completar 'Mi CV'. Nacionalidad y residencia: no consta en la página. Consultas a concurso@dyte.gob.ar o +54 11 6065-2200 int. 20109/20117.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos (depende del escalafón y nivel de cada puesto).
+  - Plazo o ciclo: Sin fechas visibles en la página; cada convocatoria tiene su propio plazo (verificar en cada llamado).
+  - Como postular: https://concursar.miportal.gob.ar
+  - Lectura automatica posible: No se vio RSS ni JSON público. Portal concursar.miportal.gob.ar renderizado en cliente.
+  - Aclaracion: Los requisitos de nacionalidad y residencia no constan en la página; la Cartelera indica que 'Selección Abierta' admite a cualquier persona que cumpla los requisitos de cada llamado.
+  - Aclaracion: La convocatoria de Museos Nacionales de la Secretaría de Cultura es la más cercana al rubro artístico, pero no se describen los puestos concretos.
+  - Aclaracion: No es de apertura continua: es un portal de convocatorias individuales, cada una con su plazo, y la inscripción es por concursar.miportal.gob.ar.
+  - Aclaracion: Es empleo público formal, no un programa para artistas.
+- **Sinfonica Juvenil Nacional Jose de San Martin - audiciones anuales** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/cultura/convocatorias/15084
+  - Que es: Jovenes musicos de hasta 27 anos al 1 de marzo, de cualquier punto del pais o extranjeros residentes.
+  - Requisitos: Hasta 27 años cumplidos al 1.º de marzo del año de la temporada (excluyente). Preparar dos obras o estudios contrastantes, llevar CV impreso, lectura a primera vista de pasajes orquestales que se envían tras el cierre, y video si se solicita (enlace de YouTube no listado, solo el postulante en cámara). Pianista acompañante opcional. El formulario de 2025 ya no sirve; hay que esperar el nuevo llamado.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Incentivo económico mensual durante toda la temporada (monto: sin datos). Hay docentes por sección; ensayos 4 veces por semana en CABA (lunes, miércoles y jueves de 17:30 a 21:30 y sábados de 13:30 a 17:30).
+  - Plazo o ciclo: Temporada 2025 cerrada: inscripción del 31 de enero al 14 de febrero de 2025; audiciones del lunes 24 al viernes 28 de febrero de 2025. No se vio convocatoria 2026 ni 2027.
+  - Como postular: https://forms.gle/zxSvAuahpuZpMDYU6
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: El nombre oficial en la ficha es 'Orquesta Sinfónica Juvenil Nacional Libertador San Martín' (SJNLSM).
+  - Aclaracion: La ficha corresponde a la temporada 2025, no a 2026.
+  - Aclaracion: El ciclo anual, con inscripción de fines de enero a febrero, se infiere de fichas de años distintos y la falta de un llamado 2026 visible resta certeza.
+- **Teatro Colón: concursos públicos y abiertos (Orquesta Estable, Filarmónica, Coro, Ballet, Escenotécnica)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://teatrocolon.org.ar/concursos/
+  - Que es: Músicos instrumentistas y cantantes (Orquesta Estable, Orquesta Filarmónica de Buenos Aires, Coro Estable), bailarines (Ballet Estable) y personal escenotécnico (Audio, Video, Pintura y Artesanía) del Ente Autárquico Teatro Colón (GCBA).
+  - Requisitos: Cada concurso tiene su reglamento en PDF (Anexo I), repertorio y evaluación de idoneidad (Anexo IV). Nacionalidad, edad y título: no verificados.
+  - Pago o beneficio: Puestos de planta (empleo estable). Sueldo: desconocido.
+  - Plazo o ciclo: Se publican llamados nuevos varias veces al año (24 concursos en el listado, con aperturas en abril, mayo, junio, julio, agosto, octubre y noviembre de 2026). A 2026-11-23 siguen abiertos solo Viola Fila (cierra al 23/11/2026 23/11/2026) y Corno Parte Real (cierra al 23/11/2026 23/11/2026). Cerraron: Percusión (16/11), 2do Fagot Filarmónica (14/11), Tenor del Coro (13/11) y Escenotécnica Pintura y Artesanía (05/11).
+  - Como postular: https://teatrocolon.org.ar/concurso/concurso-publico-y-abierto-orquesta-estable-del-teatro-colon-4/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los dos concursos que cierran el 23/11/2026 son para instrumentistas profesionales de nivel de orquesta estable, no para cualquier músico.
+  - Aclaracion: La inscripción es por Google Form en la página de cada concurso.
+  - Aclaracion: Nacionalidad, residencia y sueldo figuran en los PDF (Resolución de llamado y Anexo I Reglamento), no en las páginas.
+  - Aclaracion: Los concursos cerrados e internos son solo para personal de planta.
+- **CABA: convocatorias docentes de Enseñanza Artística (conservatorios, EMAD y otras escuelas)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://buenosaires.gob.ar/cultura/ensenanza-artistica/convocatorias-docentes
+  - Que es: Docentes de las instituciones de la Dirección General de Enseñanza Artística de la Ciudad (Conservatorio Manuel de Falla, Conservatorio Astor Piazzolla, EMAD, Instituto Vocacional de Arte Labardén e Instituto de Etnomusicología).
+  - Requisitos: No figuran en el listado; cada llamado define formato de CV, documentación, cronograma y comisión evaluadora. No se supone título.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos (horas cátedra del escalafón docente de CABA)
+  - Plazo o ciclo: Página lista tres instituciones "en curso" sin fechas; al menos la del Falla corresponde a 2025 (desactualizada). No pude confirmar convocatorias abiertas hoy.
+  - Como postular: https://buenosaires.gob.ar/cultura/ensenanza-artistica/escuela-metropolitana-de-arte-dramatico-emad/convocatorias-docentes
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La sección del Falla figura como 'CONVOCATORIAS 2025', por lo que no se confirma que haya llamados vigentes.
+  - Aclaracion: La URL de EMAD lista seis llamados con enlace a emad-caba.infd.edu.ar, sin fechas límite relevadas.
+  - Aclaracion: Orientada más a teatro y dramaturgia que a artes plásticas o música.
+- **Conservatorio Superior de Música Manuel de Falla (CABA): cobertura de horas cátedra** (se repite (hoy sin llamado abierto), verificada 2 veces) https://buenosaires.gob.ar/cultura/ensenanza-artistica/conservatorio-superior-de-musica-manuel-de-falla/cobertura-horas
+  - Que es: Docentes de música para interinatos y suplencias (dirección coral, movimiento, ensambles, coros y orquestas, talleres de gestión educativa).
+  - Requisitos: Según la resolución y la ficha de cada llamado (no detalladas en la página). Documentos enlazados: formulario de inscripción para interinatos y suplencias, grilla de puntajes y reglamento de convocatorias (versión 2023). No se supone título.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos (horas cátedra interinas y suplentes)
+  - Plazo o ciclo: Ninguna ventana abierta al 23/11/2026. Vistas en la página: inscripción 30/10 al 6/11 (cerrada) para dos llamados de Taller de Coordinación y Gestión Educativa / Regencia, publicación de inscriptos 7/11; Dirección Coral (Bajo/Barítono) del 9 al 16/09 hasta las 18 h (la página no indica el año); Departamento de Movimiento sin fechas visibles. Los llamados de Movimiento y de Ensambles, Coros y Orquestas arman un orden de mérito con vigencia de 3 años. El dato de 'llamado de marzo 2026' no lo pude confirmar en el texto de la página.
+  - Como postular: https://buenosaires.gob.ar/cultura/ensenanza-artistica/conservatorio-superior-de-musica-manuel-de-falla/cobertura-horas
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La postulación es por correo a mesadeentradasCSMMF@buenosaires.gob.ar con el instructivo vigente, visto en los dos llamados de regencia; para los demás la página no indica el canal.
+  - Aclaracion: Hay varios llamados al año, por lo que conviene revisar la página seguido.
+  - Aclaracion: El llamado de marzo 2026 no pudo confirmarse en el texto de la página.
+- **Provincia de Buenos Aires: Ingreso a la Docencia (listados oficiales y 108 A/B, incluye artística)** (se repite (hoy sin llamado abierto), verificada 1 vez) https://abc.gob.ar/
+  - Que es: Aspirantes a docente en escuelas bonaerenses (incluye educación artística y superior artística) por listado oficial y listados 108 A y B (en fine) de la DGCyE.
+  - Requisitos: Inscripción virtual con declaración jurada en la plataforma ABC (nuevo usuario, luego 'Inscripciones y Acciones Estatutarias'). Se exige título docente, habilitante o supletorio según el listado; no confirmé los requisitos exactos para artística.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos (cargos y horas docentes provinciales; no hay monto en las fuentes)
+  - Plazo o ciclo: Ciclo anual, al 23/11/2026 CERRADO. Listado oficial 2026/2027: inscripción 16/03 al 23/05/2026 (confirmado en infozona y en una Comunicación Conjunta citada). Listados 108 A y B (incluidos 108 A/B de Superior y Artística Superior), Comunicación Conjunta N° 4/2026, copia publicada por la SAD Almirante Brown el 03/08/2026: inscripción 03/08 al 04/09/2026, carga de antecedentes 07/09 al 09/10, exposición de listados (Oblea 2027) 13/10 al 23/10, reclamos 13/10 al 06/11. La próxima apertura probable es marzo (oficial) y agosto (108) de 2027, no confirmada.
+  - Como postular: https://menu.abc.gob.ar/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Corrección: infozona (fuente de terceros, no oficial) da los listados 108 A y B abiertos del 18/02 al 31/12/2026, pero la Comunicación Conjunta 4/2026 reproducida por la SAD Almirante Brown da del 03/08 al 04/09/2026, plazo ya cerrado.
+  - Aclaracion: El texto de la comunicación no se encontró en abc.gob.ar, donde figuran 'Listado oficial' (servado.abc.gob.ar/lof) y 'Secretarías de Asuntos Docentes' (abc.gob.ar/sad).
+  - Aclaracion: Mesa de ayuda: infoayuda@abc.gob.ar, 0800-222-6588 (según un documento municipal).
+  - Aclaracion: Apto para quienes tengan título docente o artístico habilitante; los requisitos exactos para el área artística no se confirmaron.
+- **Concursos de la Orquesta Nacional de Música Argentina 'Juan de Dios Filiberto'** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/cultura/convocatorias/17016
+  - Que es: Concursos de antecedentes y audición para cargos permanentes de la orquesta nacional (concertino, violín, viola, cello, oboe, fagot, timbales, percusión, guitarra eléctrica y criolla).
+  - Requisitos: Nacionalidad argentina (nativa, por naturalización u opción). Los residentes extranjeros permanentes solo pueden ser designados si no hay candidato argentino idóneo. Mayoría de edad y aptitud psicofísica. Concurso de antecedentes más audición con repertorio por instrumento. En 2026 había que llevar pianista acompañante y DNI.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Sueldo de planta o contrato estatal bajo el Decreto 669/22. Monto: desconocido.
+  - Plazo o ciclo: Llamado 2026 cerrado: inscripción del 08/05 al 13/05/2026, audición el 15/05/2026
+  - Como postular: Formulario de Google enlazado en cada llamado, más envío de CV y copia del DNI a concursos.onma@gmail.com
+  - Lectura automatica posible: No
+  - Aclaracion: Los llamados son solo para instrumentistas de orquesta.
+  - Aclaracion: Para llamados nuevos hay que mirar la sección de convocatorias de Cultura; un ejemplo de 2026 es https://www.argentina.gob.ar/cultura/convocatorias/17016 (audición de corno, cerrada).
+  - Aclaracion: La audición de 2026 fue el viernes 15/05/2026 a las 10:00 en el Segundo Subsuelo del Palacio Libertad (Buenos Aires).
+  - Aclaracion: Contacto: concursos.onma@gmail.com.
+- **Teatro Nacional Cervantes - Convocatorias artisticas (audiciones y contratos para musicos y equipos)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.teatrocervantes.gob.ar/convocatorias-artisticas/
+  - Que es: Teatro Nacional Cervantes (organismo nacional). Contrata musicos, actores y bailarines por obra, en CABA, Mar del Plata y giras (TNC Produce en el Pais).
+  - Requisitos: No se ven en la página principal: cada llamado tiene su propia nota con bases. Los vigentes apuntan a salas teatrales y a capacitación técnica, no a pintores ni músicos. Hubo llamados anteriores a bailarines y músicos (La Revista del Cervantes, Mar del Plata).
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos (la página no informa montos ni cachés).
+  - Plazo o ciclo: Ciclo recurrente: el archivo histórico muestra llamados cada año desde 2019 (audiciones, casting de actores, bailarines y músicos, TNC Produce en el País 2023 a 2027). La página lista como vigentes al 23/11/2026 solo dos llamados de la Red Federal de Teatros (una capacitación en iluminación y una convocatoria a salas del país, reabierta). Fechas de cierre: sin datos.
+  - Como postular: https://www.teatrocervantes.gob.ar/contacto/
+  - Lectura automatica posible: No hay feed. Se puede vigilar con una pagina HTML estatica (listado de noticias).
+  - Aclaracion: Cada llamado tiene su propia nota con bases y fechas variables; no hay un llamado único.
+  - Aclaracion: Las convocatorias a músicos aparecen de a ratos y suelen ser por obra o proyecto, por lo que conviene revisar la página con frecuencia.
+  - Aclaracion: El enlace 'Nuestro Teatro' pasa por un proxy de terceros (proxysite.com) y no se recomienda usarlo.
+  - Aclaracion: Contacto: +54 11 4816-4224 o formulario en /contacto/.
+- **Santa Fe: audiciones para suplencias de la Orquesta Sinfónica Provincial de Rosario (llamados periódicos)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.santafecultura.gob.ar/convocatoria/audiciones-para-suplencias-en-la-orquesta-sinfonica-provincial-de-rosario/
+  - Que es: Músicos instrumentistas de orquesta (violín, viola, cello, contrabajo, flauta, oboe, corno, trompeta, tuba, trombón, etc.) que quieran cubrir suplencias en la sinfónica provincial de Rosario.
+  - Requisitos: CV firmado en todas las hojas y fotocopia del DNI certificada por la Oficina de Certificaciones de los Tribunales Provinciales o por escribano. No se vio un requisito de residencia ni de nacionalidad. El título o la trayectoria que se pide para cada instrumento: sin datos.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos (no figura en la página)
+  - Plazo o ciclo: Sin llamado abierto al 2026-11-23. Los llamados de 2025 fueron por instrumento entre el 21/7 y el 24/10 (violín, contrabajo, oboe, flauta, bronces, corno, viola, violoncello). El listado de convocatorias de Santa Fe describe el llamado como periódico.
+  - Como postular: Presentación en persona en Mendoza 1085, 4º piso, oficina 4, Rosario, lunes a viernes de 10 a 13 h. Consultas: administracionospr@santafe.gov.ar, (0341) 4357653 int. 287/288.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página parece desactualizada: su sección se titula 'Convocatorias abiertas – 2025' y no muestra llamados de 2026.
+  - Aclaracion: Conviene confirmar por mail (administracionospr@santafe.gov.ar) o por teléfono ((0341) 4357653).
+  - Aclaracion: Solo sirve para músicos de orquesta (instrumentos sinfónicos), con presentación presencial en Rosario.
+- **Conservatorio Superior de Música Astor Piazzolla (CABA): cobertura de horas** (sin verificar, verificada 1 vez) https://buenosaires.gob.ar/cultura/ensenanza-artistica/conservatorio-superior-de-musica-astor-piazzolla/cobertura-de-horas
+  - Que es: Docentes y preceptores/bedelía de un conservatorio de música popular y tango del GCBA.
+  - Requisitos: No indicados en la página; están en el instructivo y la grilla (no leídos).
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos: la página no lista ningún llamado con fechas. Solo ofrece instructivo, formulario de inscripción general, formulario para Preceptor/Bedelía, grilla de evaluación y modelo de proyecto pedagógico (archivos de 2021 a 2024), y remite a la sección de noticias del sitio del conservatorio para ver las coberturas vigentes.
+  - Como postular: https://buenosaires.gob.ar/cultura/ensenanza-artistica/conservatorio-superior-de-musica-astor-piazzolla/cobertura-de-horas
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se vio un llamado abierto ni evidencia de un ciclo anual con fechas.
+  - Aclaracion: El listado general de CABA lo incluye como institución con convocatoria activa, por lo que podría haber una publicada en cmbsas-caba.infd.edu.ar, sin verificar.
+  - Aclaracion: Contacto: secretaria_piazzolla@buenosaires.gob.ar.
+- **Instituto Cultural de la Provincia de Buenos Aires: concurso de cuerpos artísticos estables (Teatro Argentino y Organismos Artísticos del Sur)** (sin verificar, verificada 1 vez) https://www.gba.gob.ar/cultura/convocatorias
+  - Que es: Músicos de orquesta, coro y bailarines para planta permanente del Teatro Argentino de La Plata y de los Organismos Artísticos del Sur (Bahía Blanca).
+  - Requisitos: Concurso público y abierto de oposición de méritos y antecedentes. Audición práctica ante jurado (obras a elección más obras impuestas). Los requisitos de cada concurso están en el reglamento (carpetas de Google Drive y web del Instituto). Los cargos son para instrumentistas de orquesta, bailarines de ballet y cantantes de coro; no hay cargos para pintores.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Cargos de planta permanente (Ley 12.268, Agrupamiento Artístico I). Sueldo: no figura en la página.
+  - Plazo o ciclo: Sin llamado abierto al 23/11/2026. La nota oficial da inscripciones de enero a febrero (orquesta 20/1 al 3/2, coro 1 al 14/2, ballet 7 al 14/2, Organismos del Sur 13 al 24/2), pero no trae año. La nota de Teatro Argentino con esas mismas fechas y cargos está fechada 29/12/2022 y dice 'En 2023', así que la edición vista parece ser la de 2023, no la de 2026. La edición 2026 que menciona la tarea (10 al 17/02/2026) no la pude ver. Una búsqueda mostró un llamado 2026 de Maestros Sustitutos del Teatro Argentino (Ley 12.268), sin fechas visibles. Que se repita cada año no está confirmado.
+  - Como postular: https://www.gba.gob.ar/cultura/convocatorias
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se confirmó la edición vigente: la nota oficial con las fechas de enero y febrero está fechada 29/12/2022 y dice 'En 2023'.
+  - Aclaracion: La página /cultura/convocatorias mostró solo 4 convocatorias de la primera de 26 páginas, ninguna de cuerpos estables.
+  - Aclaracion: Sirve solo a quienes toquen instrumentos de esos cuerpos (por ejemplo viola, flauta, trompeta, trombón, arpa, corno, oboe, timbal, violonchelo, clarinete, fagot) o canten en coro.
+  - Aclaracion: Conviene mirar el sitio del Teatro Argentino y del Instituto en enero.
+- **Cartelera Pública Central de Ofertas de Empleo Público** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/desregulacion/transformacion/cartelera-publica-central-de-ofertas-de-empleo-publico
+  - Que es: Cartelera que difunde todas las convocatorias a concurso para vacantes de organismos cubiertos por el Convenio Colectivo General de la APN (SINEP y Otros Escalafones).
+  - Requisitos: Según el tipo de llamado: Selección Abierta admite a cualquier persona que cumpla los requisitos obligatorios de cada llamado (no detallados en la página).
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Continuo según el texto de la página, pero no vi ninguna oferta concreta ni fecha de actualización.
+  - Como postular: https://www.argentina.gob.ar/desregulacion/transformacion/cartelera-publica-central-de-ofertas-de-empleo-publico
+  - Lectura automatica posible: No se vio RSS/JSON.
+  - Aclaracion: La página no muestra ofertas específicas, forma de postulación ni fecha de última actualización.
+  - Aclaracion: Los tipos de llamado son Selección General (personal con estabilidad o contratado bajo SINEP), Selección Abierta (cualquier persona que cumpla los requisitos, sea o no empleado público) e Interna (personal del organismo).
+  - Aclaracion: Complementa a Concursar y no es un programa cultural.
+- **Ciudad de Buenos Aires: Convocatorias docentes de Enseñanza Artística** (sin verificar, verificada 1 vez) https://buenosaires.gob.ar/gcaba_historico/convocatorias-docentes-0
+  - Que es: Dirección General de Enseñanza Artística: cobertura de cátedras/horas interinas y suplentes en conservatorios e institutos de arte (música, teatro, etc.).
+  - Requisitos: No indicados en la página. Probablemente se pida título docente o idóneo y antecedentes. Hay que verificarlo en cada llamado.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Horas cátedra del escalafón docente de la Ciudad. Monto: desconocido.
+  - Plazo o ciclo: La página muestra 3 llamados 'en curso' (Conservatorio Manuel de Falla, Conservatorio Astor Piazzolla, Escuela Metropolitana de Arte Dramático) sin fechas. Se renueva con regularidad, pero no se vio ninguna fecha de 2026.
+  - Como postular: Enlaces 'Más info cobertura horas cátedras interinas y suplentes' en la página de cada conservatorio
+  - Lectura automatica posible: No se vio RSS/JSON.
+  - Aclaracion: La URL pertenece a una sección de archivo histórico (gcaba_historico), por lo que su vigencia es dudosa: no hay fechas y el contenido puede estar desactualizado.
+  - Aclaracion: Son llamados de horas cátedra interinas y suplentes para docentes.
+  - Aclaracion: Hay que abrir cada enlace para ver el detalle y las fechas; el de la Escuela Metropolitana de Arte Dramático enlaza a la página general.
+- **INCAA - Postulantes para comites y jurados** (sin verificar, verificada 1 vez) https://www.incaa.gob.ar/tramites/postulantes-para-comites/
+  - Que es: Profesionales del sector audiovisual con trayectoria reconocida. Los elegidos integran comites de evaluacion y jurados de los concursos del INCAA.
+  - Requisitos: Cumplir los mínimos de cada comité, declaraciones juradas y documentación que acredite experiencia y trayectoria en el sector audiovisual.
+  - Pago o beneficio: sin datos (la página no menciona honorarios).
+  - Plazo o ciclo: La página dice inscribirse antes del 30/3 sin indicar el año; las resoluciones vinculadas son de 2024 (Res. INCAA 768-E/2018 como norma base). Parece anual pero no lo pude confirmar. El 30/3/2026 ya pasó, así que si es anual el próximo cierre sería 30/3/2027.
+  - Como postular: https://extranet.incaa.gob.ar
+  - Lectura automatica posible: No hay feed.
+  - Aclaracion: Es un registro de profesionales con trayectoria para integrar comités y jurados; no es una convocatoria para artistas plásticos ni para músicos en general.
+  - Aclaracion: Los integrantes se eligen por sorteo, aprobado por el Consejo Asesor o la presidencia del INCAA.
+  - Aclaracion: Se inscribe por INCAA en Línea, ícono 'presentaciones', opción 'Postulantes para comités'. Consultas: enlinea@incaa.gob.ar y subgerenciadepromocion@incaa.gob.ar.
+  - Aclaracion: La página no menciona nacionalidad ni residencia.
+
+## Residencias
+
+- **DAAD Artists-in-Berlin (Berliner Künstlerprogramm) — Música y sonido** (abierta o vigente, verificada 2 veces) https://www.berliner-kuenstlerprogramm.de/en/application
+  - Que es: DAAD, servicio alemán de intercambio académico financiado por el Estado. Becas de un año en Berlín para artistas internacionales de literatura, música y sonido, cine (6 meses) y artes visuales.
+  - Requisitos: Artistas internacionales ya consolidados; sin límite de edad ni título académico exigido. No se aceptan estudiantes ni recién graduados (sí doctorandos). Se excluye a ciudadanos alemanes (salvo seis años viviendo en el país desde el que postulan) y a quienes residen principalmente en Alemania. Ex becarios no pueden repetir. Música y sonido: enlaces online a grabaciones o videos, un solo PDF de hasta 15 MB, tres obras que el jurado debe escuchar, enlaces activos hasta agosto del año siguiente. Formulario en inglés, en dos pasos online; no se acepta mail.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Beca con estipendio mensual para vida y alquiler; el monto no figura en las páginas que vi.
+  - Plazo o ciclo: Abierta al 23/11/2026: la convocatoria para las residencias 2028 se abrió el 19/10/2026 y cierra el 15/12/2026 a las 23:59 CET (música y sonido, literatura: residencia de 12 meses; cine: 6 meses). Ciclo anual: abre a mediados de octubre y cierra a mediados de diciembre.
+  - Como postular: https://www.berliner-kuenstlerprogramm.de/en/application
+  - Lectura automatica posible: No hay API ni feed visto. Formulario web y páginas HTML.
+  - Aclaracion: Artes visuales no admite postulación: el jurado nomina directamente.
+  - Aclaracion: El programa sirve para músicos o compositores con obra consolidada.
+  - Aclaracion: Contacto: residency.berlin@daad.de.
+- **Casa de Velázquez (Madrid) — Artistas en residencia 2027-2028** (abierta o vigente, verificada 2 veces) https://www.casadevelazquez.org/en/creation-artistique/call
+  - Que es: Casa de Velázquez, Academia de Francia en Madrid (institución pública francesa). Residencia multidisciplinar de artistas, 98.ª promoción.
+  - Requisitos: Mayores de edad; sin requisito de nacionalidad ni de residencia. Artistas con título superior en artes o con obra significativa. Buen nivel de francés: la postulación y la entrevista son en francés. Disciplinas: dibujo, grabado, escultura, pintura, arquitectura, composición musical, coreografía, fotografía, cine y video. Proyecto creativo concreto para desarrollar en la península ibérica. Selección por dossier y entrevista en París.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Residencia de 12 meses (1/9/2027 al 31/8/2028; ocupación de mediados de septiembre 2027 a fines de julio 2028), 12 plazas. El monto de la beca no figura en las páginas que vi.
+  - Plazo o ciclo: Cierre el viernes 27/11/2026 (sin hora publicada en la página)
+  - Como postular: https://candidatures-afm.casadevelazquez.org
+  - Lectura automatica posible: No hay API ni feed visto. Páginas HTML.
+  - Aclaracion: La página no indica hora de cierre ni huso horario.
+  - Aclaracion: El francés es requisito de postulación y de entrevista, por lo que puede ser una barrera para quienes no lo hablan.
+  - Aclaracion: La postulación se hace por el portal candidatures-afm.casadevelazquez.org, según la ficha oficial detallada.
+  - Aclaracion: El listado no menciona requisito de nacionalidad; los criterios completos están en otra página.
+- **Cité internationale des arts (París) — Convocatorias abiertas de residencia (Prisme, Villa Arson, Elles & Cité)** (abierta o vigente, verificada 2 veces) https://www.citeinternationaledesarts.fr/en/open-calls/
+  - Que es: Cité internationale des arts de París, con socios como ADAGP, Villa Arson y el Ministerio de Cultura de Francia. Residencias para artistas visuales y otros creadores.
+  - Requisitos: 2—12: sin datos; ficha no abierta. En general las convocatorias de la Cité piden CV (hasta 4 págs), portfolio con unas 10 imágenes con epígrafe y carta de intención, en francés, y un formulario con cuenta de Google.
+  - Pago o beneficio: 2—12: sin datos (no verificado). Otros programas: 2.000 EUR/mes (Prisme, Elles & Cité); 750 EUR/mes + 750 EUR producción + viaje (Villa Arson).
+  - Plazo o ciclo: Prisme 30/11/2026; Villa Arson 2/12/2026; Elles & Cité 16/12/2026; 2—12 18/01/2027
+  - Como postular: https://www.citeinternationaledesarts.fr/en/appels-a-candidature/2-12/
+  - Lectura automatica posible: No hay API vista. Páginas HTML por convocatoria y PDF de bases.
+  - Aclaracion: Prisme, Villa Arson y Elles & Cité tienen elegibilidad restringida (escena francesa, egresados DNSEP de Villa Arson 2024-2026 y fotógrafas francesas con 10 o más años, respectivamente), por lo que no están abiertas a artistas de otros países.
+  - Aclaracion: La única convocatoria abierta a extranjeros es 2—12 (la portada dice 'Foreign and French artists can submit their applications'), pero sus requisitos y su monto no están verificados.
+  - Aclaracion: Las postulaciones vistas son en francés.
+- **We-Che Art Residency (Trevelin, Chubut) - residencia de otoño y diciembre 2026** (abierta o vigente, verificada 2 veces) https://wecheartresidency.ovh/
+  - Que es: Artistas de cualquier país y de cualquier etapa de carrera (visuales, escritores, 'creadores' en general). Residencia privada al pie de los Andes, cerca del Parque Nacional Los Alerces. Idiomas: inglés, español, francés.
+  - Requisitos: Formulario online o PDF por email; opcional: PDF del proyecto, imagenes de obra, enlaces a sitio web o Instagram; indicar periodo preferido y uno alternativo. Idiomas: ingles, espanol, frances. Sin mascotas. Sin requisito de titulo.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: El artista paga: USD 350 por semana o USD 1.300 por mes (programa general); proyecto Libro USD 1.600 el primer mes (min. 1 mes) y USD 350 por semana extra; comidas compartidas opcionales USD 300 por mes. No incluye pasajes ni seguro. Sin estipendio.
+  - Plazo o ciclo: Postulación continua durante todo el año; próxima estación listada: verano austral 2026/2027 (diciembre a febrero).
+  - Como postular: https://wecheartresidency.ovh/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El cierre del 30/11 proviene de un listado externo: el sitio oficial indica postulación continua durante todo el año.
+  - Aclaracion: Es un programa que paga el artista, no una beca, y la postulación no tiene costo.
+  - Aclaracion: Incluye alojamiento y taller, herramientas y materiales básicos, biblioteca, servicios, wifi, ropa blanca semanal, traslado al aeropuerto de Esquel y una salida grupal por semana.
+  - Aclaracion: La residencia puede dar cartas de invitación para solicitar subsidios aparte.
+- **Residencia Patagonia Argentina 2027 (Lago Moreno, Bariloche) - Casa Naiilha** (abierta o vigente, verificada 2 veces) https://www.casanailha.org/
+  - Que es: Artistas de todas las disciplinas (visuales, fotografía, cine, escritura, artistas sonoros, investigadores) de cualquier parte del mundo y de cualquier etapa; se puede postular en equipo. Estadía de 3 semanas en estudio junto al lago Moreno, dentro del Parque Nacional Nahuel Huapi.
+  - Requisitos: Formulario de postulacion (por email), plan de financiamiento con agencias y fechas de decision; sin requisito de titulo ni edad mencionado.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: El artista paga USD 2.495 (valor listado USD 2.590). Incluye habitacion con bano privado, talleres, wifi, calefaccion, cocina comun, un curador, cenas de bienvenida y despedida, un traslado grupal desde el aeropuerto de Bariloche. No incluye viaje, visas, materiales, la mayoria de las comidas.
+  - Plazo o ciclo: Sesion del 15/4 al 6/5/2027 (3 semanas) segun el listado de artistcommunities.org. Postulacion continua (rolling), sin fecha de cierre; decision en 7 dias. No se pudo confirmar que se repita cada ano.
+  - Como postular: info@casanailha.org (email; formulario a pedido)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Las fechas, la tarifa y la forma de postular provienen solo de un listado externo: la página de detalles del sitio oficial devuelve 404 y el enlace de información apunta a la página de Amazonia.
+  - Aclaracion: Otra fuente indica un costo de USD 2.980 por 3 semanas, por lo que el monto debe confirmarse.
+  - Aclaracion: El formulario se pide por email a info@casanailha.org; la capacidad es de 10 artistas.
+  - Aclaracion: El pago es en dos cuotas (50% a los 10 días de la aceptación y el saldo 60 días antes), con cuotas negociables, y pueden darse cartas de apoyo para solicitar fondos.
+- **R.A.R.O. Buenos Aires - Residencia-Micro 2026 (convocatoria abierta todo el año)** (abierta o vigente, verificada 2 veces) https://www.recursosculturales.com/residencia-micro-raro/
+  - Que es: Artistas, gestores y curadores de Argentina y de cualquier nacionalidad, según el resumen de búsqueda.
+  - Requisitos: Mayor de 18 años y disponibilidad full-time durante la estadía. Un solo PDF con datos personales, CV (formación formal e informal, exposiciones, premios, residencias previas), statement del artista, portfolio de alta resolución y plan de proyecto con duración y talleres elegidos. Formulario online.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Sin pago al artista; residencia arancelada, monto no indicado; posible beca que cubre solo el arancel.
+  - Plazo o ciclo: Convocatoria abierta durante todo 2026; cierra el 31/12/2026. Estadía elegida por el residente, mínimo una semana, en Buenos Aires. Ciclo de 2027: sin datos.
+  - Como postular: https://www.recursosculturales.com/residencia-micro-raro/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una residencia arancelada: el residente paga y el monto del arancel no se indica.
+  - Aclaracion: Una beca, si se concede, cubre solo el arancel, no transporte, materiales, alojamiento ni comida.
+  - Aclaracion: La información proviene de una página de Recursos Culturales, no del sitio propio de R.A.R.O. (esraro.com), que no fue verificado.
+  - Aclaracion: Contacto: info@esraro.com.
+- **Pro Helvetia Sudamérica — Residencias en Suiza (convocatoria anual)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://prohelvetia.ch/en/find-support/residency-in-switzerland/
+  - Que es: Pro Helvetia, fundación cultural pública suiza, con oficina de enlace para Sudamérica. Para artistas y practicantes culturales (música, artes visuales, artes escénicas, literatura, diseño, entre otras).
+  - Requisitos: Residencia permanente en la región (Argentina está en la oficina de Sudamérica) y actividad en la escena cultural local. No estar inscripto en una carrera o formación básica. Proyecto o idea de investigación que profundice el intercambio entre las escenas suiza y argentina. Portfolio completo y trayectoria profesional probada. Interés profesional en Suiza. Inglés o un idioma suizo. Dirigido a personas sin vínculo con Suiza. La postulación es en inglés e incluye título y descripción, carta de motivación, duración y destino deseados, CV y portfolio. No garantizan la visa.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: La página no da un monto total. Cubre alojamiento, viaje, viáticos diarios, un coach cultural local, y espacio de trabajo y costos de producción a pedido. Para quienes tienen hijos a cargo, hasta CHF 1.000 por mes.
+  - Plazo o ciclo: Anual: se abre el 1 de enero y cierra el 1 de marzo a las 23:59 CET; la decisión llega en unas 4 meses y la residencia empieza como pronto al año siguiente. La página no nombra el año. Un resultado de búsqueda (Opportunity Desk, enero 2026) muestra la edición para residencias 2027 con cierre el 1/3/2026, ya cerrada. La ventana de 2027 (para residencias 2028) es inferencia del patrón, no la vi publicada.
+  - Como postular: https://prohelvetia.ch/en/find-support/residency-in-switzerland/
+  - Lectura automatica posible: No hay API ni feed visto. Páginas HTML estáticas; la postulación va por un formulario web.
+  - Aclaracion: La ventana de 2027 es una inferencia del patrón anual y no está publicada.
+  - Aclaracion: La página de residencia no nombra el año de la edición.
+  - Aclaracion: La oficina de Sudamérica aceptaría contacto directo (southamerica@prohelvetia.org), dato que no figura en la página de residencia y debe confirmarse.
+- **Institut français x Cité internationale des arts — Residencias en París** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.institutfrancais.com/en/programme/residence-and-professional-mobility/residencies-institut-francais-x-cite-internationale
+  - Que es: Institut français (institución del Estado francés) con la Cité internationale des arts de París. Para artistas y profesionales culturales de todo el mundo en artes plásticas, música, danza, teatro, cine, creación digital, literatura y otras disciplinas.
+  - Requisitos: Tener el apoyo de uno o más socios asociados que presenten la postulación; actividad profesional reconocida; estar libre de obligaciones laborales durante la residencia; dominio profesional de francés y/o inglés; no residir en Francia en los últimos 5 años; duración de 3, 6 o 9 meses. Se evalúan trayectoria, calidad del proyecto, plan de trabajo y vínculos con la escena artística de París e Île-de-France.
+  - Pago o beneficio: El socio paga una beca de al menos EUR 1.100 por mes, más pasaje internacional, seguro y visa; el Institut français cubre el estudio amueblado en el Marais, París
+  - Plazo o ciclo: Del 1 de julio al 8 de octubre de 2026 (ya cerrada); próxima convocatoria no anunciada, presumiblemente en 2027.
+  - Como postular: https://www.institutfrancais.com/en/programme/residence-and-professional-mobility/residencies-institut-francais-x-cite-internationale
+  - Lectura automatica posible: No hay API vista. Páginas HTML; la postulación la carga el socio nominador.
+  - Aclaracion: La postulación la presenta la estructura asociada, no la persona sola, por lo que depende de que una institución la respalde.
+  - Aclaracion: La página no menciona países ni a Argentina.
+  - Aclaracion: Exige haber residido de forma permanente fuera de Francia al menos 5 años.
+  - Aclaracion: Las llegadas en 2027 son el 9 de abril, el 9 de julio y el 8 de octubre, y el 7 de enero de 2028.
+- **Akademie Schloss Solitude (Stuttgart) — Becas Solitude** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.akademie-solitude.de/en/fellowship/application/
+  - Que es: Akademie Schloss Solitude, fundación pública del estado de Baden-Wurtemberg. Becas residenciales de 6 a 12 meses para artistas, investigadores y profesionales culturales de todas las disciplinas, música incluida.
+  - Requisitos: Formación artística (puede ser autodidacta) o maestría para el ámbito científico; 2-10 años de experiencia como pauta; alemán y/o inglés; residir en Stuttgart a tiempo completo por 6 o 9 meses; dedicación completa al trabajo.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: 1.300 EUR/mes, estudio-vivienda amueblado con servicios, reembolso único de pasajes, fondos de proyecto según presupuesto, seguro de salud para residentes no UE.
+  - Plazo o ciclo: Bienal. La ronda 2026-2028 ya cerró y el jurado decidió en mayo de 2026. La página oficial dice que la próxima convocatoria se espera para el otoño de 2027. No hay convocatoria abierta al 23/11/2026.
+  - Como postular: https://www.akademie-solitude.de/en/fellowship/solitude-fellowship/
+  - Lectura automatica posible: No hay API vista; portal de postulación propio.
+  - Aclaracion: La página no dice explícitamente 'bienal'; se infiere de la ronda 2026-2028 y de la próxima convocatoria esperada en otoño de 2027.
+  - Aclaracion: No hay restricción de nacionalidad ni de edad.
+  - Aclaracion: Excluye estudiantes de grado y profesores titulares.
+  - Aclaracion: Se postula en dos etapas online; en ámbitos con exceso de solicitudes hay preselección aleatoria ante notario.
+
+## Convocatorias abiertas
+
+- **Res Artis - Open Calls de residencias (con filtro por pais)** (abierta o vigente, verificada 2 veces) https://www.resartis.org/open-calls/
+  - Que es: Red internacional de centros de residencia artistica; agrega convocatorias de residencias de todo el mundo, filtrables por pais.
+  - Requisitos: Varía por convocatoria; no verificado en el listado.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos (no se vieron tarifas ni becas en el listado; varía por residencia)
+  - Plazo o ciclo: Patagonia Argentina 2027: 24/11/2026 y 01/12/2026; otras de Patagonia 29/11, 06/12, 13/12 y 20/12/2026
+  - Como postular: https://www.resartis.org/open-calls/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un directorio de convocatorias de terceros: cada una tiene su organizador, requisitos y costo.
+  - Aclaracion: No se vieron tarifas; muchas residencias de este tipo cobran cuota, pero no está confirmado.
+  - Aclaracion: La lista no se leyó completa, por lo que el total de convocatorias no está verificado.
+  - Aclaracion: Conviene abrir cada ficha y comprobar las condiciones antes de postular.
+- **Fiesta Nacional del Lupulo 2027 (El Bolson) - convocatoria a musicos y bandas** (abierta o vigente, verificada 2 veces) https://www.anbariloche.com.ar/noticias/2026/11/16/123015-la-fiesta-del-lupulo-abrio-la-convocatoria-para-artistas-de-bariloche-y-la-comarca
+  - Que es: Organizacion de la 49a Fiesta Nacional del Lupulo, El Bolson (Rio Negro), 18 al 21 de febrero de 2027. La nota no nombra al organismo organizador.
+  - Requisitos: Cupos por origen: 70% artistas de El Bolsón, 20% Comarca Andina, 10% de otras ciudades. Carpeta con descripción del show y material audiovisual o link, caché pretendido, rider técnico, diagrama de ubicación en escenario, bio de un párrafo, dos celulares, CBU a nombre del artista o representante, redes/plataformas. Postulaciones incompletas o tardías se descartan.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Cachet: cada postulante indica el 'caché pretendido'; no se informa monto fijo.
+  - Plazo o ciclo: Recepción hasta el 14/12/2026 inclusive; cupos 70/20/10 por procedencia
+  - Como postular: Presencial: Casa del Bicentenario, Roca 644, El Bolsón (lun-vie 8 a 20 h). Por mail con asunto 'PROPUESTA ART. FNL 2027' (la dirección está oculta en la nota; hay que verla en la nota original o en canales oficiales de la Fiesta/Municipio). No hay formulario online mencionado.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Verificado en una nota periodística (ANB, 16/11/2026) y no en la página oficial de la Municipalidad; la nota no nombra al organismo organizador.
+  - Aclaracion: La postulación puede hacerse en persona (Casa del Bicentenario, Roca 644) o por mail.
+  - Aclaracion: Quienes viven en otras ciudades compiten por solo el 10% de los cupos y deben viajar a El Bolsón.
+  - Aclaracion: Es solo para músicos y artistas escénicos, con pago por actuación.
+- **Recursos Culturales - agregador curado de convocatorias de arte y musica** (abierta o vigente, verificada 2 veces) https://www.recursosculturales.com/convocatorias-populares-artes-plasticas/
+  - Que es: Sitio que republica convocatorias de otras organizaciones, ordenadas por disciplina (artes plasticas, musica, artes escenicas) y tipo de oportunidad; tiene newsletter y formulario para enviar convocatorias.
+  - Requisitos: Varía por convocatoria; hay que leer las bases de cada una. Varias internacionales cobran inscripción. Es un agregador, no un organizador: cada ítem remite a bases externas.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Varía por convocatoria; la mayoría no declara monto. Ejemplos vistos: Arrival Grant £100; Aion Digital Art Prize 50.000 JPY (con inscripción de 3.000 JPY); Swatch Art Peace Hotel residencia con alojamiento y taller.
+  - Plazo o ciclo: Listado actualizado de forma continua; el 23/11/2026 mostraba convocatorias con cierre entre 24/11/2026 y 31/12/2027. En Argentina: Residencia-Micro R.A.R.O. Buenos Aires 2026 (cierre 31/12/2026) y Residencia FotoCreativaBA 2026-2027 (continuo, cierre 31/12/2026).
+  - Como postular: https://www.recursosculturales.com/convocatorias-populares-artes-plasticas/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un agregador: cada convocatoria debe confirmarse en el sitio del organizador.
+  - Aclaracion: No se abrieron los sitios de origen de R.A.R.O. ni de FotoCreativaBA.
+  - Aclaracion: Ibermúsicas figura solo como titular, sin fecha verificable; Iberescena y Fundación Williams Becas de Creación figuran sin fecha.
+- **Artsper (galería online para artistas independientes)** (abierta o vigente, verificada 2 veces) https://partners.artsper.com/independent-artists
+  - Que es: Artistas visuales sin galería que quieren exhibir y vender obra en una galería online europea.
+  - Requisitos: Ser artista independiente (sin galería que lo represente; con galería, debe postular la galería). Formulario con perfil y obra. Portfolio revisado por comité. Sin requisito de título visto.
+  - Pago o beneficio: Cuesta 39 EUR/mes o 390 EUR/año (sin IVA) para exponer; ingresos por ventas, con comisión no confirmada.
+  - Plazo o ciclo: Sin fecha de cierre publicada; respuesta en un mes; membresía paga requerida
+  - Como postular: https://partners.artsper.com/independent-artists
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es un empleo ni una beca: el artista paga por exponer y vender.
+  - Aclaracion: La comisión por venta no está confirmada; las cifras de 15% y 25% que aparecen para reventa se contradicen.
+  - Aclaracion: La página no lista países elegibles ni excluidos.
+  - Aclaracion: La selección es curatorial: se pide obra acorde a la línea de la galería y precios acordes al valor de mercado del artista.
+- **Eisteddfod del Chubut 2026: competencias de artes visuales y artesanías (Trelew)** (se repite (hoy sin llamado abierto), verificada 2 veces) sin datos
+  - Que es: Personas mayores de 16 años, aficionadas o artistas; las artes visuales tienen categorías Noveles y Experimentados.
+  - Requisitos: Mayores de 16 años. Obras con seudónimo y número de competencia, con sobre cerrado con datos personales. Categorías 'Noveles' y 'Experimentados' en artes visuales. Entrega presencial en San Martín 90, Trelew. Consultas: eisteddfodchubut@gmail.com.
+  - Pago o beneficio: sin datos (la nota no menciona premios)
+  - Plazo o ciclo: Festival anual en Chubut desde 1865. Edición 2026: recepción de obras del 21 al 25/9 en San Martín 90, Trelew; competencias centrales el 23 y 24/10/2026 (cerrada). La convocatoria suele abrir hacia julio (inferido de la nota de julio de 2026).
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La fuente es una nota de prensa local, no la página oficial del Eisteddfod, que no fue verificada.
+  - Aclaracion: La entrega de obras es presencial en Trelew, lo que dificulta participar desde otras provincias.
+  - Aclaracion: Las categorías de artes visuales tienen temas fijos (por ejemplo Dibujo 'Bardas al sur', Arte Textil 'Las manos de mi Madre').
+  - Aclaracion: Las fuentes difieren en los días exactos: según Diario Jornada el festival fue del 19 al 25/10/2026.
+- **Bologna Children's Book Fair: Illustrators Exhibition (muestra anual de ilustradores)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.bolognachildrensbookfair.com/en/focus-on/illustrators/the-illustrators-exhibition/how-to-take-part/1041.html
+  - Que es: Ilustradores profesionales y principiantes de cualquier país. Un jurado internacional elige unos 300 finalistas. Los ganadores se publican en el Illustrators Annual y la muestra viaja dos años por Japón, Corea, China y otros países.
+  - Requisitos: Ilustradores profesionales o principiantes nacidos antes del 31/12/2009; exactamente 5 obras sobre un mismo tema, numeradas 1 a 5, inéditas o publicadas después del 1/1/2025; JPG o PNG, máx. 5 MB, 150 DPI; obra propia sin IA; envío online.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Cuesta €25 más IVA si corresponde (gratis con código de escuela). No es un premio en dinero: la selección da exposición en la feria.
+  - Plazo o ciclo: La edición 2027 (64.ª Feria, 5 al 8 de abril de 2027, Bolonia) cerró el 31 de octubre de 2026. Ganadores: a fines de enero de 2027. La convocatoria es anual (64.ª edición), pero no vi la fecha de apertura de la edición 2028: sin datos.
+  - Como postular: https://www.bolognachildrensbookfair.com/en/focus-on/illustrators/the-illustrators-exhibition/how-to-take-part/1041.html
+  - Lectura automatica posible: no
+  - Aclaracion: Hay que registrarse en el Área Reservada de la feria, subir las obras y pagar; subir sin pagar no cuenta.
+  - Aclaracion: La página no fija nacionalidad ni residencia.
+  - Aclaracion: Es una muestra para ilustradores, no para pintores o músicos en general.
+  - Aclaracion: También pueden participar escuelas de arte con proyectos de sus estudiantes.
+- **Crack Bang Boom (Rosario): convención de historieta, concurso de historietas, fanzines y stands** (se repite (hoy sin llamado abierto), verificada 2 veces) https://crackbangboom.com.ar
+  - Que es: Convención de cómic de la Editorial Municipal de Rosario, que se presenta como la más importante del país. La XV edición fue del 13 al 16 de agosto en los Galpones frente al río Paraná. Tiene concurso de historietas, convocatoria de fanzines y de stands.
+  - Requisitos: Requisitos del concurso, de stands y de fanzines: sin datos (están en publicaciones de Instagram que no pude abrir). Los Premios Trillo solo los votan creadores invitados a ediciones 2010-2025, y no son por postulación.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos. El sitio no indica premios en dinero para el concurso de historietas; solo se mencionan los Premios Trillo (reconocimiento a la historieta argentina, nominados en diez categorías).
+  - Plazo o ciclo: XV edición realizada del 13 al 16 de agosto de 2026 en Rosario (galpones frente al Paraná). Es anual por el número de edición y las fechas; las convocatorias 2026 (concurso de historietas, stands, fanzines, cosplay) ya pasaron. Próxima edición 2027: sin datos.
+  - Como postular: https://forms.gle/rYUDKniroH8ApUrJ9
+  - Lectura automatica posible: no
+  - Aclaracion: Los requisitos del concurso, de stands y de fanzines figuran solo en publicaciones de Instagram y no están detallados en el sitio.
+  - Aclaracion: El formulario de fanzines corresponde a la edición 2026 y probablemente ya no esté vigente.
+  - Aclaracion: El sitio no declara condiciones de elegibilidad para residentes, aunque el evento se realiza en Argentina.
+  - Aclaracion: Conviene seguir las redes de la convención desde marzo-abril de 2027 para conocer la próxima convocatoria.
+- **Premio a la Ilustración Latinoamericana (Universidad de Palermo)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://fido.palermo.edu/servicios_dyc/encuentro-latinoamericano/concursos/concurso-ilustracion.php
+  - Que es: Facultad de Diseño y Comunicación de la Universidad de Palermo (Argentina). Abierto a ilustradores profesionales y estudiantes, de forma individual o en grupo, sin exclusiones.
+  - Requisitos: Ilustradores profesionales o estudiantes, individuales o en equipo (un representante; todos los autores deben ser los creadores). Una ilustración o serie de hasta 5 piezas; se aceptan obras publicadas e inéditas y varias postulaciones. Archivo A3 (29,7 x 42 cm) en JPG, RGB, mínimo 150 dpi, máximo 5 MB. Gratis. Hay que registrarse una vez en el formulario de la Semana Internacional de Diseño y subir las obras con usuario y clave; no se acepta por email. Se ceden derechos de exhibición y difusión a la Facultad.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Edición 2025: 1.000.000 de pesos argentinos (el jurado puede dividirlo, declararlo desierto o dar menciones sin dinero), más un Premio del Público. Edición 2026: monto a definir.
+  - Plazo o ciclo: 20.ª edición 'Perspectiva Latina', 2026: fecha límite 'a definir', recepción hasta las 23 h (hora de Buenos Aires) de esa fecha; sin fechas de apertura, jurado ni anuncio.
+  - Como postular: https://fido.palermo.edu/servicios_dyc/encuentro-latinoamericano/concursos/concurso-ilustracion.php
+  - Lectura automatica posible: no
+  - Aclaracion: La fuente oficial es la página de la Facultad de Diseño y Comunicación de la Universidad de Palermo; la URL de terceros que circula refleja la edición 2025, ya cerrada.
+  - Aclaracion: La convocatoria 2026 figura como abierta pero con fecha límite a definir, algo dudoso a fines de noviembre; se recomienda confirmar por correo a premio.ilustracion@gmail.com.
+  - Aclaracion: Se ceden derechos de exhibición y difusión a la Facultad.
+- **Bienal Arte Joven Buenos Aires (CABA)** (sin verificar, verificada 1 vez) https://bienal.buenosaires.gob.ar/convocatorias
+  - Que es: Artistas de 18 a 32 años de todo el país (quien ya participó en una edición anterior puede volver a presentarse sin importar la edad). Cinco disciplinas: artes escénicas, audiovisual, artes visuales, música y literatura.
+  - Requisitos: Edición 2023: artistas de 18 a 32 años de todo el país (los participantes anteriores no tenían límite de edad). Bases por disciplina en PDF.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Desconocido; la página no menciona premios.
+  - Plazo o ciclo: Solo vi la edición 2023 (cierre 03/07/2023). Cinco ediciones entre 2013 y 2022. No encontré convocatoria 2026 ni 2027.
+  - Como postular: https://bienal.buenosaires.gob.ar/convocatorias
+  - Lectura automatica posible: No visto.
+  - Aclaracion: La página es un archivo histórico (gcaba_historico) y trata solo la edición 2023.
+  - Aclaracion: La 'Bienal de Arte Joven' 2026 que aparece en las búsquedas es la de la UNL (Santa Fe), distinta de esta.
+  - Aclaracion: No se confirma que se repita.
+- **Centro Cultural Recoleta - Convocatoria anual de exhibiciones (Espacios Visuales: muestras individuales y colectivas)** (sin verificar, verificada 1 vez) http://www.centroculturalrecoleta.org/agenda/convocatoria-para-artistas-y-proyectos-curatoriales-2025
+  - Que es: Artistas (dossier de obra reciente) y curadores/as (proyecto expositivo para las salas 4, 5, 6 o 10) que viven en Argentina. El Recoleta es del Gobierno de la Ciudad.
+  - Requisitos: Artistas y curadores mayores de 18 años residentes en Argentina. Artistas: dossier de obra reciente. Curadores: proyecto expositivo para las salas 4, 5, 6 o 10. Las bases están en un PDF enlazado desde la convocatoria.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: No vi monto. El CCR cubre producción, montaje, materiales de comunicación y seguro de las obras expuestas.
+  - Plazo o ciclo: La edición vista (programación 2025) abrió del 23/09 al 21/10/2024. No vi la convocatoria 2026 ni 2027; si se repite el patrón, sería septiembre-octubre (inferencia, sin confirmar).
+  - Como postular: http://www.centroculturalrecoleta.org/agenda/convocatoria-para-artistas-y-proyectos-curatoriales-2025
+  - Lectura automatica posible: no (ficha web y PDF)
+  - Aclaracion: La página de callforcurators.com corresponde solo a la convocatoria 2025, ya cerrada, y no permite confirmar un ciclo anual vigente.
+  - Aclaracion: El próximo llamado habría que buscarlo en la página oficial del Centro Cultural Recoleta hacia septiembre de 2027 o antes.
+- **Arte Pequeño Formato - feria de obra de hasta 50x50 cm (Buenos Aires)** (sin verificar, verificada 2 veces) sin datos
+  - Que es: Artistas y galerías con obra de pequeño formato. Organiza VERBO junto a Victoria Baeza, Mariana Gallegos del Santo y Santiago Arce. Es una feria independiente que empezó en 2022 en el taller Fino630.
+  - Requisitos: Obras de hasta 50 x 50 cm incluyendo marco o soporte. La selección considera coherencia conceptual, calidad de las obras, trayectoria y presentación de la propuesta.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos: no vi costo de participación ni pago.
+  - Plazo o ciclo: La 5.ª edición fue del 10 al 14/06/2026 (MARQ, Buenos Aires). Perfil dice que la convocatoria de artistas y galerías se haría en febrero, sin fechas exactas. No vi convocatoria 2027; sería a confirmar hacia febrero de 2027, solo como inferencia.
+  - Como postular: sin datos
+  - Lectura automatica posible: no (nota de prensa)
+  - Aclaracion: La fuente es un artículo de prensa (Perfil), no una página oficial; no se encontró el sitio ni el formulario de convocatoria.
+  - Aclaracion: No hay datos de costos ni de forma de inscripción, por lo que hay que localizar los canales oficiales de la feria.
+  - Aclaracion: Las cinco ediciones realizadas apoyan un ciclo anual, aunque no se pudo confirmar.
+- **arteba (Fundación arteba) - convocatoria de expositores y sección Barrio Joven** (sin verificar, verificada 1 vez) https://www.arteba.org/
+  - Que es: Galerías (no artistas sueltos). La próxima feria es del 8 al 12 de septiembre de 2027 en La Rural. Un artista entra a arteba a través de una galería que lo represente.
+  - Requisitos: sin datos. La convocatoria es para galerías expositoras; los requisitos están detrás del login.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: El sitio anuncia 'edición 35º Aniversario' cerrada y 'fecha 2027'. La fecha exacta no la vi en la página. La página de convocatoria exige iniciar sesión, así que no vi plazos.
+  - Como postular: https://convocatoria.arteba.org/
+  - Lectura automatica posible: no
+  - Aclaracion: La convocatoria es para galerías expositoras, no para artistas individuales; un artista sin galería probablemente no pueda postular directamente.
+  - Aclaracion: convocatoria.arteba.org redirige a un login, por lo que los requisitos y plazos no son visibles.
+  - Aclaracion: No se encontró información sobre la sección Barrio Joven.
+- **Centro Cultural Rojas (UBA) - programación artística y Espacio de Arte** (sin verificar, verificada 1 vez) https://www.rojas.uba.ar/agenda
+  - Que es: Artistas visuales y de otras disciplinas que quieran proponer obra al centro cultural de la Universidad de Buenos Aires. El Rojas hace convocatorias puntuales por disciplina.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La portada y la agenda no muestran ninguna convocatoria abierta.
+  - Como postular: sin datos
+  - Lectura automatica posible: no
+  - Aclaracion: La página de agenda tiene categorías Artes Visuales, Música, Teatro e Institucional, pero no muestra ningún llamado, fecha, requisito ni forma de postularse.
+  - Aclaracion: No se confirmó que existan convocatorias para artistas externos ni un ciclo anual.
+  - Aclaracion: Dirección: Av. Corrientes 2038, CABA; sirve solo como lugar donde consultar o escribir.
+- **Centro Cultural de la Memoria Haroldo Conti - programación y llamados puntuales** (sin verificar, verificada 2 veces) sin datos
+  - Que es: Artistas visuales con propuestas vinculadas a la memoria y los derechos humanos. El centro tiene programas como Arte en Territorio e Itinerancia.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: no
+  - Aclaracion: La URL del catálogo corresponde a un directorio no oficial que describe el centro pero no lista ninguna convocatoria.
+  - Aclaracion: No se encontró la página oficial del centro, por lo que no hay datos de llamados y no debe usarse como fuente de postulación.
+- **Feria Internacional del Libro de Buenos Aires: Zona Dibujada (cómic e historieta) y espacios especiales** (sin verificar, verificada 1 vez) https://www.feriadellibro.ar/
+  - Que es: Fundación El Libro. Llamado a expositores para presentar actividades gratuitas en espacios con programación específica, entre ellos la Zona Dibujada (cómic e historieta), la Zona Infantil Javier Villafañe y la Zona Futuro.
+  - Requisitos: Dirigido a expositores/as que postulan actividades a espacios especiales (Zona Infantil, Zona Futuro, Zona Dibujada, Orgullo y prejuicio, Diversidad Funcional). Las bases de cada espacio estaban detrás de enlaces que no se pudieron seguir.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: No es un pago: permite a expositores postular actividades para participar gratis en los espacios con programación de la Feria. No vi remuneración.
+  - Plazo o ciclo: Edición 2025: plazo extendido hasta el viernes 14 de marzo (2025; el PDF se creó el 6 de marzo de 2025 y no indica el año en el texto). Para 2027: sin datos. No vi evidencia directa de repetición anual.
+  - Como postular: sin datos
+  - Lectura automatica posible: no
+  - Aclaracion: La convocatoria consultada corresponde a la edición 2025 (plazo extendido hasta el 14 de marzo de 2025) y no se encontró una convocatoria vigente para 2026-2027.
+  - Aclaracion: Está dirigida a quienes proponen actividades gratuitas para espacios con programación específica; no es una oferta de trabajo ni un premio para artistas.
+  - Aclaracion: No hay remuneración indicada y las bases de cada espacio no pudieron consultarse.
+  - Aclaracion: La repetición anual de la Feria es habitual, pero no está confirmada en una fuente.
+
+## Becas, premios y fundaciones privadas
+
+- **SADAIC - asociarse como autor/compositor** (abierta o vigente, verificada 2 veces) https://sadaic.org.ar
+  - Que es: Autores y compositores de música (cobro de derechos de autor por ejecución pública); los intérpretes pueden censarse gratis.
+  - Requisitos: Tener al menos una obra musical o literario-musical declarada en SADAIC (propia o en colaboración) y no estar administrado por una sociedad de autores extranjera al momento de asociarse.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: No es un pago ni un subsidio: es la sociedad de gestión colectiva que cobra y distribuye derechos de autor. Costo de asociación como autor: sin datos (la página solo dice que el registro como intérprete es gratuito).
+  - Plazo o ciclo: Sin fecha límite: trámite abierto todo el año (no vi convocatoria con fechas).
+  - Como postular: https://app-registro-obras.sadaic.org.ar/login
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Desde el 1 de octubre el único sistema válido para registrar obras es la plataforma online app-registro-obras.sadaic.org.ar; la primera obra se registra por la opción 'Otros'.
+  - Aclaracion: Sede: Lavalle 1547, CABA, tel. 54-11-4379-8600, lunes a viernes de 10 a 15 h.
+  - Aclaracion: No se pudieron confirmar el costo ni los pasos completos de la membresía; conviene consultar a SADAIC.
+- **Prince Claus Fund — Seed Award (y programa Moving Narratives con British Council)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://princeclausfund.nl/awards-and-programmes/seed-award
+  - Que es: Prince Claus Fund, fondo cultural de los Países Bajos, financiado en parte por el Gobierno neerlandés. Reconoce a artistas y practicantes culturales emergentes (100 premios por año).
+  - Requisitos: Persona individual (no colectivos ni organizaciones) en los primeros 1 a 5 años de práctica profesional (no cuentan los años de estudio); práctica artística o cultural que trate temas sociales o políticos de su contexto local; poco reconocimiento institucional previo; vivir y trabajar en un país elegible; no haber ganado antes un Seed Award. Se pide: formulario online, muestras de obra, CV, carta de referencia firmada de una página, video o audio de hasta 3 minutos ('What drives you as an artist?'). No se financia trabajo académico.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: EUR 5.000 por persona, subvención sin rendición detallada de uso; 100 premios por año
+  - Plazo o ciclo: Anual. La edición 2026 cerró el 8 de enero de 2026 a las 17:00 (Ámsterdam); decisiones a mediados de julio de 2026. La página dice que el premio se ofrece cada año, pero no da fecha de la próxima convocatoria. Por el calendario anterior probablemente abra hacia diciembre de 2026 (inferido). Al 23/11/2026 no hay convocatoria abierta. No pude verificar Moving Narratives.
+  - Como postular: https://princeclausfund.nl/awards-and-programmes/seed-award
+  - Lectura automatica posible: No hay API vista. Páginas HTML y la plataforma de postulación.
+  - Aclaracion: Argentina figura entre los países elegibles, siempre que la persona viva y trabaje en Argentina al postular.
+  - Aclaracion: Contacto para consultar por la próxima edición: e.vanschie@princeclausfund.nl.
+  - Aclaracion: El programa Moving Narratives no pudo verificarse.
+- **Pollock-Krasner Foundation - subsidios para artistas plasticos** (se repite (hoy sin llamado abierto), verificada 2 veces) https://pkf.org/apply/
+  - Que es: Fundacion Pollock-Krasner (EE.UU.). Subsidios sin restriccion de uso para pintores, escultores y artistas que trabajan sobre papel (incluye grabado).
+  - Requisitos: Artista plástico profesional que trabaje principalmente en pintura, escultura u obra sobre papel, con al menos 10 exposiciones en los últimos 10 años en espacios profesionales (requisito muy exigente). No estudiantes. Se pide carta de presentación de 1 página, artist statement de 1 página, CV con historial de exposiciones, 10 imágenes JPEG de obra reciente, lista de identificación de imágenes y 3 referencias profesionales. Quien ya recibió la beca o fue rechazado debe esperar 2 años (la URL original decía 12 meses: dato corregido según la página oficial). No se otorgan a artistas de video según una fuente secundaria.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Hasta USD 50.000, la mayoría alrededor de USD 35.000; fondos sin restricciones, para un año.
+  - Plazo o ciclo: Sin cierre: se reciben postulaciones todo el año (rolling). La revisión tarda 9 a 12 meses. Una postulación inactiva por 120 días se borra automáticamente.
+  - Como postular: https://pkf.org/apply/ (formulario online; no se aceptan mail, correo ni fax; conviene usar computadora)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La fecha 31/12/2027 del agregador es solo un cierre de listado, no un plazo real.
+  - Aclaracion: Reciben artistas de todo el mundo; solo piden contactarlos antes a quienes sean ciudadanos o residentes de un país sancionado por EE.UU.
+  - Aclaracion: Según una fuente secundaria, no se otorgan a artistas de video.
+  - Aclaracion: La URL original (pkf.org/our-grants/) dio 404; la vigente es pkf.org/apply.
+- **Becas Fundacion Ama Amoedo - categoria Artistas** (se repite (hoy sin llamado abierto), verificada 2 veces) https://fundacionamaamoedo.org/programas/becas
+  - Que es: Fundacion Ama Amoedo. Cada edicion otorga 10 becas de USD 10.000 en cuatro categorias: Artistas (4), Arte y Compromiso Social (2), Organizaciones (2) y Publicaciones (2).
+  - Requisitos: Categoría Artistas: artistas y colectivos cuya práctica es de artes visuales, vinculados a América Latina, el Caribe y la diáspora (según fuentes secundarias; no pude leer las bases oficiales). Categorías: Artistas, Arte y Compromiso Social, Organizaciones y Publicaciones.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Diez becas de USD 10.000 por año entre las cuatro categorías (según fuentes secundarias).
+  - Plazo o ciclo: Anual. La 4.ª edición (2026) recibió postulaciones del 7/7 al 9/9/2026, ya cerrada. Fuentes secundarias no traen información de una convocatoria 2027; por el patrón anual, probable mitad de 2027.
+  - Como postular: Postulación online en la web de la fundación durante la ventana anual (no hay convocatoria abierta al 23/11/2026).
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Las bases oficiales no pudieron leerse; los datos provienen de fuentes secundarias.
+  - Aclaracion: La edición 2026 está cerrada, pero la convocatoria es recurrente.
+  - Aclaracion: Contacto: info@fundacionamaamoedo.org.
+- **Premio Argentino a las Artes Visuales - Fundacion OSDE** (se repite (hoy sin llamado abierto), verificada 1 vez) https://www.fundacionosde.com.ar
+  - Que es: Fundacion OSDE, Espacio de Arte (Arroyo 807, CABA). Premio de adquisicion con categoria nacional, cuatro regionales y un premio Joven 18 a 35.
+  - Requisitos: Artistas o colectivos de 18 años o más, argentinos (nativos o por opción) o extranjeros con 2 años de residencia en Argentina. Una obra por artista, creada en 2023 o después, no premiada ni expuesta en otro certamen desde el 1/4/2024; límites de tamaño (150x150 cm en 2D, 150x150x150 cm en 3D); no se aceptan performance ni materiales perecederos. PDF de hasta 8 páginas y 10 MB con CV, descripción conceptual y material, e imágenes JPG de 300 dpi. Inscripción gratuita.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Premios 2025 con adquisición por la Fundación OSDE: Premio Nacional $3.000.000; cuatro Premios Regionales de $2.000.000 cada uno; Premio Nacional 18/35 años $1.500.000; cuatro menciones regionales.
+  - Plazo o ciclo: Última (6.ª, 2025): inscripción del 1/4 al 1/6/2025, cerrada; muestra del 25/9 al 6/12/2025. Parece bienal (5.ª en 2023): la 7.ª edición probablemente abriría hacia abril de 2027, pero no está anunciada.
+  - Como postular: Formulario de Google (edición 2025, cerrado): https://forms.gle/caELGqsxVTfGV5ZM9 ; consultas: premioartesvisuales@fundacionosde.com.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los datos provienen del agregador Recursos Culturales; no se verificaron en el sitio de Fundación OSDE.
+  - Aclaracion: La fecha de la próxima edición es inferida del patrón y no está confirmada.
+- **Premio Federico Jorge Klemm a las Artes Visuales** (se repite (hoy sin llamado abierto), verificada 2 veces) https://premioklemm.klemm.org.ar
+  - Que es: Fundacion Federico Jorge Klemm (CABA). Premio anual desde 1997; las obras premiadas ingresan a la coleccion de la fundacion.
+  - Requisitos: Inscripción solo por la plataforma oficial premioklemm.klemm.org.ar, previo registro. Las bases piden tres ejemplares de cada obra seleccionada (copia master, copia de archivo y copia de exhibición). No pude confirmar edad ni nacionalidad: las bases completas no estaban en el texto que cargué; hay que leerlas en el sitio. Jurado 2026: Carla Barbero, Guadalupe Chirotarrab, Leandro Martínez Depietri, Carlos Huffmann y Pablo La Padula.
+  - Pago o beneficio: Premios de adquisición 2026: primero $7.000.000, segundo $4.000.000, más dos menciones sin adquisición de $1.000.000 cada una (según búsqueda; no figuraba en la página del premio).
+  - Plazo o ciclo: Anual. 29.ª edición (2026): inscripción cerrada el 4/9/2026; selección y muestra en noviembre de 2026 según klemm.org.ar. La próxima convocatoria no está anunciada; por el patrón, esperable alrededor de mitad de 2027.
+  - Como postular: https://premioklemm.klemm.org.ar (inscripción ya cerrada al 23/11/2026)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se confirmaron edad ni nacionalidad; las bases completas deben leerse en el sitio del premio.
+  - Aclaracion: Por ser una fundación de Buenos Aires, es probable que sea para artistas del país, pero no está verificado.
+  - Aclaracion: Los montos provienen de una búsqueda y no figuraban en la página del premio.
+  - Aclaracion: El carácter anual se infiere de que es la edición 29; la próxima fecha no está confirmada.
+- **Premio Pinamar Contemporaneo #2254 - Fundacion arteba y Pinamar S.A.** (se repite (hoy sin llamado abierto), verificada 1 vez) https://www.arteba.org/premio-pinamar-2254
+  - Que es: Fundacion arteba junto con Pinamar S.A. Premio para un proyecto de obra de sitio especifico en espacio publico exterior de Pinamar (rotonda de Barrio Bosques).
+  - Requisitos: Artistas o colectivos con trayectoria en arte contemporáneo, argentinos o extranjeros residentes, mayores de edad. Un solo proyecto por artista. Obra inédita site-specific para espacio público exterior (una rotonda en Pinamar). Inscripción gratuita en arteba.org y carga de un PDF con el proyecto.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Ganador: aprox. USD 15.000 en pesos como honorarios, más producción completa a cargo de Pinamar S.A. Cinco finalistas: aprox. USD 1.000 cada uno en pesos.
+  - Plazo o ciclo: 2ª edición cerró el 31/03/2026 a las 24:00 (GMT-3); inauguración prevista verano 2027. El número 'segunda edición' sugiere ciclo anual (probable convocatoria enero-marzo 2027), pero no está anunciado.
+  - Como postular: https://www.arteba.org/premio-pinamar-2254
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL oficial https://www.arteba.org/premio-pinamar-2254 dio 404; la información proviene de recursosculturales.com.
+  - Aclaracion: El ciclo anual se infiere del número de edición y no está anunciado.
+  - Aclaracion: Contacto: premiopinamar@arteba.org.
+- **Premio Azcuy - Fundacion Azcuy y Museo de Arte Moderno de Buenos Aires** (se repite (hoy sin llamado abierto), verificada 1 vez) https://premioazcuy.com/convocatoria-2026/
+  - Que es: Fundacion Azcuy y Museo de Arte Moderno de Buenos Aires. Premio para una obra inedita en un edificio de la serie arquitectonica de Azcuy en Buenos Aires.
+  - Requisitos: Artistas visuales argentinos (individuales o colectivos) o extranjeros con al menos 3 años de residencia en Argentina. Proyecto inédito pensado para un edificio específico de AZCUY. Se puede registrar antes de tener el proyecto y cargarlo hasta el cierre.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Ganador USD 10.000 más costos de producción de la obra; finalistas (5 o más) reciben USD 1.500 y unas seis semanas para desarrollar la propuesta.
+  - Plazo o ciclo: Ciclo anual: 7ª edición julio-septiembre 2025; 8ª edición (edificio Donna Goia) julio a 14/09/2026, ya cerrada, con ganador elegido en noviembre 2026. Próxima probable: julio-septiembre 2027.
+  - Como postular: https://premioazcuy.com/convocatoria-2026/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El sitio raíz no respondió por límite de pedidos; la 8ª edición se leyó vía recursosculturales.com.
+  - Aclaracion: La convocatoria 2027 todavía no está anunciada.
+  - Aclaracion: Consultas: inscripciones@premioazcuy.com.
+- **Subsidios a la Creacion en Nueva Opera - Fundacion Williams** (se repite (hoy sin llamado abierto), verificada 2 veces) https://fundacionwilliams.org.ar/subsidios-a-la-creacion-en-nueva-opera-2026/
+  - Que es: Fundacion Williams. Subsidios para proyectos escenicos que combinan musica, voz, cuerpo y tecnologia, desde obras en desarrollo hasta producciones terminadas.
+  - Requisitos: Proyectos escénicos que integren música, voz, cuerpo y/o tecnología con enfoque transdisciplinario, en cualquier etapa de desarrollo. Artistas o grupos mayores de 18, argentinos o residentes con DNI argentino. Postulación según las bases enlazadas en la página.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: 2026, por línea: ópera a estrenar o ya estrenada hasta $14.000.000; creación escénica transdisciplinaria con la Orquesta Retrofuturista hasta $10.000.000; ópera en progreso/laboratorio hasta $5.000.000; residencias de ópera inmersiva $2.500.000 o $3.500.000. En 2024 el tope era $4.000.000.
+  - Plazo o ciclo: Edición 2026 cerró el 30/04/2026 a las 17:00 (webinar informativo el 14/04); selección anunciada desde fines de mayo. Existen bases de la edición 2024, así que hay ediciones repetidas, con lanzamiento en primavera-abril; la de 2027 aún no está publicada.
+  - Como postular: https://fundacionwilliams.org.ar/subsidios-a-la-creacion-en-nueva-opera-2026/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Admite proyectos de música y artes escénicas, no solo de artes visuales.
+  - Aclaracion: No se pudo confirmar si hubo edición 2025.
+  - Aclaracion: La página no dice que la convocatoria sea anual; la recurrencia se deduce de las bases 2024 y de la edición 2026.
+  - Aclaracion: Conviene consultar fundacionwilliams.org.ar desde marzo-abril de 2027.
+- **Premio Internacional de Ilustración BCBF x Fundación SM (para ilustradores menores de 35)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.bolognachildrensbookfair.com/en/awards/international-award-for-illustration-bcbf-fundacion-sm/2027-regulations/1055.html
+  - Que es: Ilustradores seleccionados en la Illustrators Exhibition de Bologna. El ganador recibe 15.000 EUR brutos y debe crear un álbum ilustrado publicado por Grupo SM, presentado en la Feria del año siguiente.
+  - Requisitos: Menor de 35 años a la fecha de selección; estar seleccionado en la Illustrators Exhibition 2027; no haber ganado el premio antes; no ser empleado de BolognaFiere ni de SM. Participación gratuita. El ganador debe estar disponible para eventos y promoción del libro.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: 15.000 euros brutos de SM, más el compromiso de crear un álbum ilustrado que SM publicará.
+  - Plazo o ciclo: Edición 2027: inscripción a la Illustrators Exhibition cerrada el 31/10/2026; selección y ganadores publicados hacia fines de enero de 2027.
+  - Como postular: https://www.bolognachildrensbookfair.com/en/focus-on/illustrators/the-illustrators-exhibition/7940.html
+  - Lectura automatica posible: no
+  - Aclaracion: No hay postulación directa: solo accede quien fue seleccionado en la Illustrators Exhibition 2027.
+  - Aclaracion: El reglamento no restringe nacionalidad ni residencia.
+  - Aclaracion: Para este ciclo la vía ya cerró; el siguiente ciclo sería la edición 2028.
+  - Aclaracion: El texto de la muestra mezcla '61st Edition' con '64th', por lo que puede tener partes desactualizadas.
+- **ARS IN FABULA: beca para el Máster en Ilustración para la Edición (Bologna / Macerata)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.bolognachildrensbookfair.com/en/awards/ars-in-fabula-grant-award/2027-rules-of-entry/1053.html
+  - Que es: Ilustradores inéditos seleccionados en la Illustrators Exhibition. El ganador cursa gratis el Máster de primer nivel en Ilustración para la Edición 2027-2028.
+  - Requisitos: Haber sido seleccionado en la Illustrators Exhibition de la edición vigente; menor de 30 años a la fecha de selección; no haber publicado nunca su trabajo. Un jurado de docentes del Máster preselecciona 3 ilustradores y gana el más votado. Participación sin costo.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Beca que cubre la matrícula del Máster de primer nivel ARS IN FABULA 2027-2028: 5.500 euros (IVA incluido). No incluye viaje ni alojamiento según lo visto (no se menciona).
+  - Plazo o ciclo: Edición 2027: inscripción a la Illustrators Exhibition cerrada el 31/10/2026; feria 5-8 de abril de 2027.
+  - Como postular: https://www.bolognachildrensbookfair.com/en/focus-on/illustrators/the-illustrators-exhibition/7940.html
+  - Lectura automatica posible: no
+  - Aclaracion: No hay postulación propia: se accede automáticamente al ser seleccionado en la Illustrators Exhibition 2027.
+  - Aclaracion: Es una beca de estudio, no un pago en dinero, y el máster es presencial en Italia.
+  - Aclaracion: El reglamento no excluye nacionalidades.
+  - Aclaracion: Para este ciclo la inscripción ya cerró.
+- **Premio Itau de Artes Visuales - Fundacion Itau Argentina** (sin verificar, verificada 1 vez) https://www.premioitau.org
+  - Que es: Fundacion Itau Argentina. Premio de artes visuales para produccion emergente; las obras premiadas pasan a la Coleccion Itau de Arte Contemporaneo.
+  - Requisitos: Según las ediciones 2018 y 2023: artistas argentinos o extranjeros radicados en el país, mayores de 18 años, sin límite superior; obras inéditas de temática libre; admite colectivos en 2023.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: En 2018: premios adquisición de $130.000, $80.000 y $40.000 más una categoría especial de arte con impresión 3D por $30.000. Los montos actuales son desconocidos.
+  - Plazo o ciclo: La nota enlazada es de diciembre de 2018 (10ª edición, resultados primer semestre 2019). Una búsqueda mostró una 14ª edición con cierre el 09/02/2023 vía premioitau.org. No encontré convocatoria 2026-2027 ni confirmación de que el premio siga vigente.
+  - Como postular: https://www.premioitau.org
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se pudo confirmar que exista una edición vigente del premio.
+  - Aclaracion: La URL enlazada es una nota de 2018 y no sirve como fuente actual; conviene reemplazarla por premioitau.org o la página de Fundación Itaú Argentina.
+- **Patreon (suscripciones de mecenas)** (sin verificar, verificada 1 vez) https://support.patreon.com/hc/en-us/articles/39694936541965
+  - Que es: Artistas visuales y músicos con audiencia propia que quieren ingresos recurrentes de seguidores.
+  - Requisitos: Cuenta de creador, página con tiers y contenido. Sin requisito de título ni portfolio revisado; en la práctica requiere audiencia. Datos de pago PayPal o Payoneer.
+  - Pago o beneficio: Los mecenas pagan suscripciones al creador. Patreon cobra comisión y el cobro tiene costos de PayPal/Payoneer; porcentajes no vistos.
+  - Plazo o ciclo: Abierto todo el año (plataforma de alta libre); no hay convocatoria.
+  - Como postular: https://www.patreon.com/create
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Según fragmentos de búsqueda, los creadores fuera de EE.UU. cobran por PayPal o por transferencia bancaria vía Payoneer, con una comisión fija por pago en dólares.
+  - Aclaracion: Ninguna fuente consultada nombra a Argentina como habilitada o excluida.
+  - Aclaracion: La disponibilidad de la transferencia depende de la moneda elegida y del país del banco, por lo que conviene ver las opciones de cobro dentro de la cuenta.
+
+## Plataformas y mercados
+
+- **Etsy (tienda propia de arte, prints y originales)** (abierta o vigente, verificada 2 veces) https://help.etsy.com/hc/articles/115015710408
+  - Que es: Cualquier artista o ilustrador que quiera abrir una tienda y vender originales, láminas o productos propios.
+  - Requisitos: Abrir una tienda con cuenta bancaria en un país compatible. En Argentina, Etsy Payments se usa con una cuenta de pago de Payoneer. No pide título ni trayectoria. Hay que tener productos propios o por encargo.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Ingresos por ventas propias. Las comisiones no figuran en esta página (remite al artículo 'Etsy Fee Basics'). Valor exacto: sin datos.
+  - Plazo o ciclo: Sin plazo; abierto todo el año, con cuenta Payoneer para vendedores de Argentina
+  - Como postular: https://www.etsy.com/sell
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los vendedores de Argentina solo pueden cobrar con Etsy Payments mediante una cuenta de Payoneer.
+  - Aclaracion: El país de la tienda lo define el país de la cuenta bancaria y no se puede cambiar después, salvo en la Eurozona.
+  - Aclaracion: No se pudieron leer el detalle de comisiones ni las políticas sobre arte propio frente a reventa.
+  - Aclaracion: El enlace de postulación es la página general de Etsy para vender.
+- **Fiverr (gigs de ilustración, retratos, arte digital)** (abierta o vigente, verificada 1 vez) https://help.fiverr.com/hc/en-us/articles/360010530058-Withdrawing-your-earnings-managing-payout-methods
+  - Que es: Ilustradores y pintores que venden servicios cerrados ('gigs'): retratos, personajes, portadas, arte por encargo.
+  - Requisitos: Crear un perfil de vendedor y publicar gigs. Para retirar hay que agregar un método de pago y esperar 24 horas. No vi requisitos de título ni trayectoria.
+  - Pago o beneficio: Fiverr cobra comisión por pedido (valor no visto aquí). Retiros: PayPal USD 0 (mín. USD 1); transferencia bancaria vía Payoneer USD 1 (mín. USD 20); cuenta Payoneer USD 3 (mín. USD 10). Máximo USD 5.000 por retiro. Los fondos se liberan a los 14 días (7 para vendedores Top Rated).
+  - Plazo o ciclo: Abierto todo el año (sin convocatoria)
+  - Como postular: https://www.fiverr.com/start_selling
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El artículo de retiros no lista países y indica que cada método puede tener restricciones por ubicación, por lo que la elegibilidad desde Argentina queda sin datos.
+  - Aclaracion: Las tarifas de retiro surgen de la página oficial de ayuda de Fiverr.
+  - Aclaracion: El enlace de postulación es la página general de venta.
+- **Bandcamp - vender música y cobrar** (abierta o vigente, verificada 2 veces) https://get.bandcamp.help/en/articles/15263080-how-do-i-get-paid-and-how-often
+  - Que es: Cualquier artista o sello independiente.
+  - Requisitos: Cuenta de pagos conectada. Quien venda más de US$5.000 en un año calendario debe presentar información fiscal para cobrar.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Ingresos por sus ventas. Bandcamp se queda con 10-15% de la venta, más comisión del procesador de pagos, una retención por sociedad de gestión según la ubicación del comprador y 1% de comisión de PayPal con tope de US$1 por pago. Cobros normalmente 24-48 h después de cada venta o en bloque el día 1 de cada mes.
+  - Plazo o ciclo: Sin fecha límite; pagos a las 24-48 h de cada venta o el día 1 de cada mes (opción mensual)
+  - Como postular: https://bandcamp.com/signup
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página de pagos no dice si Argentina está habilitada, por lo que la elegibilidad desde Argentina no está confirmada.
+  - Aclaracion: Otro artículo de ayuda indica que Bandcamp migra a un sistema de pagos con Stripe y que Argentina figura entre los países con cuentas de pago Stripe.
+  - Aclaracion: Según la documentación, Argentina tiene restricciones de conversión de moneda en PayPal.
+  - Aclaracion: La URL de registro (bandcamp.com/signup) es la ruta habitual y no fue verificada.
+- **Audiosocket - biblioteca de licenciamiento (sync)** (abierta o vigente, verificada 2 veces) https://audiosocket.com/artists/registration
+  - Que es: Compositores/artistas con música original propia para cine, TV, publicidad y video.
+  - Requisitos: Enviar 4 canciones originales, 100% de su propiedad. No se aceptan covers, tracks con samples ni música generada con IA. Datos básicos: nombre, apellido y email.
+  - Pago o beneficio: No exclusivo (25/75): el artista recibe 25% de la tarifa inicial y 100% de la parte de autor de regalías. Exclusivo (50/50): reparto igual de tarifas y regalías; el roster exclusivo es mucho más chico.
+  - Plazo o ciclo: Formulario de registro disponible; responden dentro de 90 días. La página no declara fecha de cierre.
+  - Como postular: https://audiosocket.com/artists/registration
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no menciona restricciones por país, pero tampoco confirma que Argentina esté incluida.
+  - Aclaracion: La página no dice explícitamente si el envío está abierto actualmente.
+  - Aclaracion: Solo contactan si la música encaja con sus necesidades actuales.
+- **PremiumBeat / Shutterstock - colaborar con música** (abierta o vigente, verificada 2 veces) https://submit.shutterstock.com/help/en/articles/10594590-how-do-i-become-a-music-contributor
+  - Que es: Compositores con 100% de los derechos de composición y master.
+  - Requisitos: Ser dueño del 100% de los derechos de composición y master; tracks exclusivos (no se acepta música no exclusiva); sin covers, samples sin autorizar ni efectos de sonido; calidad profesional en MP3, máximo 15 MB; hasta 5 tracks, duración ideal 2:30-3:00; indicar título, BPM, instrumentos y compositor. No exige membresía en una PRO. Un solo envío por artista.
+  - Pago o beneficio: Compra de derechos con pago único por track (monto: sin datos; lo informa el equipo de música si te aceptan). Sin regalías posteriores por ventas; los autores afiliados a una PRO conservan la parte de autor de la ejecución pública. Pago por PayPal o transferencia 2-4 semanas después de que 5 tracks estén aprobados.
+  - Plazo o ciclo: Envío abierto sin fecha de cierre; una sola presentación de hasta 5 temas; revisión de hasta unos meses
+  - Como postular: https://www.premiumbeat.com/new-artist
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no lista países elegibles.
+  - Aclaracion: El envío se hace por el formulario premiumbeat.com/new-artist, que figura como enlace en el artículo oficial.
+  - Aclaracion: Implica exclusividad y venta total de los derechos del track.
+- **Freelancer.com: proyectos de música** (abierta o vigente, verificada 2 veces) https://www.freelancer.com/jobs/music/
+  - Que es: Marketplace de proyectos por encargo: remix, saxofón, locución, transcripción a partituras, producción, etc.
+  - Requisitos: Crear perfil de freelancer y ofertar por proyecto. Requisitos por proyecto (algunos piden ubicación o idioma/acento específico). Título o trayectoria: no se exigen a nivel sitio según lo visto.
+  - Pago o beneficio: Pago por proyecto en USD, lo que ofertes. Promedios vistos entre US$16 y US$1.695. Comisión de la plataforma: sin datos (no pude abrir la página de tarifas).
+  - Plazo o ciclo: Abierto/continuo. Al 2026-11-23 el listado dice 'Music Jobs for November 2026' con 51 proyectos y cuentas regresivas por proyecto (ej. '6 days left', '19 hours left'). Cada proyecto tiene su propio plazo.
+  - Como postular: https://www.freelancer.com/signup
+  - Lectura automatica posible: RSS: https://www.freelancer.com/rss.xml (confirmado, general)
+  - Aclaracion: Hay mucha competencia: decenas de ofertas por proyecto.
+  - Aclaracion: El listado muestra el promedio de las ofertas ('average bid') y no el presupuesto del cliente.
+  - Aclaracion: La página no declara restricciones de país a nivel sitio ni menciona Argentina, pero algunos proyectos exigen residencia (Project 540 solo EE.UU. excepto Illinois; otros piden voces nativas de UK o México).
+  - Aclaracion: Las tarifas de comisión no están verificadas.
+- **Saatchi Art (venta de obra original)** (sin verificar, verificada 1 vez) https://www.saatchiart.com/whysell
+  - Que es: Pintores y artistas visuales que venden obra original a coleccionistas.
+  - Requisitos: Mayor de 18 años. Crear una cuenta de artista y subir un documento de identidad con foto. Según una página regional, enviar una postulación breve con una muestra de 3 obras. La aprobación es curada. Requisitos de título: ninguno visto.
+  - Pago o beneficio: Según los resultados de búsqueda de las páginas regionales de Saatchi Art: comisión del 40%, el artista recibe 60% del precio final. Pago por cheque, transferencia o PayPal, 14-19 días después de la entrega.
+  - Plazo o ciclo: Abierto todo el año (postulación continua; fecha límite: sin datos)
+  - Como postular: https://www.saatchiart.com/whysell
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se vio ninguna lista de países ni mención de Argentina, por lo que la elegibilidad desde Argentina no está confirmada.
+  - Aclaracion: Los datos de comisión y pago provienen de fragmentos de páginas regionales y conviene revisarlos en la página oficial.
+  - Aclaracion: Las versiones regionales para Chile, Brasil y Uruguay sugieren que se acepta artistas de la región.
+- **Redbubble (print on demand)** (sin verificar, verificada 1 vez) https://help.redbubble.com/hc/en-us/articles/360031506351
+  - Que es: Ilustradores y artistas que suben diseños para que Redbubble los imprima en láminas, ropa y objetos.
+  - Requisitos: Crear cuenta de artista y subir diseños; cargar datos de pago (PayPal) y elegir moneda de cobro. Requisitos de portfolio o título: no vistos. Probablemente no se exige trayectoria, pero no lo confirmé.
+  - Pago o beneficio: Ganancia = margen que el artista fija sobre el precio base; umbral mínimo de cobro 20 USD/GBP/EUR (por resultados de búsqueda, no leído en la página).
+  - Plazo o ciclo: Pagos mensuales: se procesan a comienzos de cada mes y se envían desde el día 15 (según resultados de búsqueda). No vi una convocatoria con fecha; el alta aparenta ser abierta todo el año, sin confirmar.
+  - Como postular: https://www.redbubble.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los datos surgen de fragmentos de búsqueda, porque la página oficial devolvió 403 de Cloudflare y no se pudo leer.
+  - Aclaracion: La moneda de cobro se elige al inicio y no se puede cambiar.
+  - Aclaracion: Ninguna fuente indica si Argentina está habilitada ni si se puede cobrar en pesos.
+  - Aclaracion: PayPal Argentina exige que la cuenta bancaria de retiro sea en pesos.
+- **Society6 (print on demand, por portfolio)** (sin verificar, verificada 1 vez) https://help.society6.com/en-US/how-do-i-create-an-artist-account-with-society6-1261621
+  - Que es: Artistas e ilustradores con portfolio que quieren vender productos impresos con su obra.
+  - Requisitos: Según fragmentos de búsqueda: portfolio revisado manualmente, con revisión de 30 a 90 días cuando está abierto; quien es rechazado puede volver a postular.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fecha. Resultados de búsqueda indican que las postulaciones de artistas nuevos están pausadas sin fecha de reapertura; no pude confirmarlo en la página.
+  - Como postular: https://society6.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Según fragmentos de búsqueda, Society6 no acepta artistas nuevos al 23/11/2026 y revisará portfolios cuando reabra; no se confirmó en la página oficial.
+  - Aclaracion: Blogs no oficiales indican que en 2025 redujo su base de artistas y quitó la ropa del catálogo.
+  - Aclaracion: Conviene tratarla como probablemente cerrada hasta que se anuncie una reapertura.
+  - Aclaracion: La URL dada y la variante hallada en la búsqueda devuelven 404.
+- **VGen (comisiones de arte, sobre todo ilustración de personajes)** (sin verificar, verificada 1 vez) https://help.vgen.co/hc/en-us/articles/40469294324503-Which-countries-does-VGen-support
+  - Que es: Ilustradores y artistas digitales que ofrecen comisiones (personajes, avatares, emotes) a una comunidad de compradores.
+  - Requisitos: Perfil de artista con portfolio y comisiones publicadas. Revisión previa o requisitos de edad/identidad: no vistos.
+  - Pago o beneficio: El artista fija sus precios; retiro mínimo 50 USD equivalentes (por búsqueda). Comisión de la plataforma: no vista.
+  - Plazo o ciclo: Abierto todo el año (marketplace de alta continua); sin convocatoria con fecha.
+  - Como postular: https://vgen.co/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Según fragmentos de búsqueda, VGen admite cobros a 149 países vía PayPal, VGen Payments (Stripe) o ambos, según el país del banco.
+  - Aclaracion: La inclusión de Argentina no está confirmada en la página oficial.
+  - Aclaracion: El mercado está orientado a ilustración de personajes y estilos anime/VTuber.
+- **Pond5 - vender música y audio** (sin verificar, verificada 1 vez) https://www.pond5.com/sell-your-media
+  - Que es: Cualquier creador de música o audio que pase la verificación de identidad.
+  - Requisitos: Crear una cuenta de colaborador y verificar identidad con un documento válido (según resultados de búsqueda; no pude abrir la página). Edad mínima y demás condiciones: sin datos.
+  - Pago o beneficio: Según un resumen de búsqueda de la propia página de Pond5: 30% de regalías para música (artistas no exclusivos), sin programa de exclusividad para música; el 40% exclusivo aplica solo a video. Cifra no confirmada con la página abierta; las tasas cambiaron en enero 2025.
+  - Plazo o ciclo: Parece abierto todo el año, pero no pude confirmarlo: la página devolvió HTTP 403 en dos intentos.
+  - Como postular: https://www.pond5.com/sell-your-media
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los datos provienen de resultados de búsqueda y no se confirmaron en la página oficial de Pond5.
+  - Aclaracion: Las tasas de regalías cambiaron en enero de 2025 y rige el Contributor Agreement vigente desde 2025-01-15 (pond5.com/legal/contributor).
+  - Aclaracion: Conviene verificar las condiciones en la página oficial antes de postular.
+
+## Ensenanza en linea
+
+- **Preply - dar clases online** (sin verificar, verificada 1 vez) https://preply.com/en/teach
+  - Que es: Tutores de idiomas y otras materias; la página lista 'más de 100 materias' (arte/hobbies), sin nombrar música expresamente. Con ruso, español e inglés hay demanda de idiomas.
+  - Requisitos: Sin título ni experiencia docente obligatorios. Se necesita computadora, internet estable, cámara y micrófono. El perfil pide foto real, video de presentación de hasta 2 minutos, descripción de fortalezas y disponibilidad. No incluir datos de contacto ni precios en el perfil o el video.
+  - Pago o beneficio: Cada tutor fija su tarifa por hora. La página dice que los tutores de inglés promedian USD 15-25 por hora y que los mejores llegan a USD 550 por semana (dato de la propia plataforma).
+  - Plazo o ciclo: Abierto todo el año (alta de perfil sin fecha límite; revisión del perfil hasta 3 días hábiles).
+  - Como postular: https://preply.com/en/teach
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no lista países elegibles para tutores y no se confirmó que residentes en Argentina sean aceptados.
+  - Aclaracion: Las materias nombradas son idiomas, materias escolares y universitarias, hobbies y arte; música, guitarra y piano no aparecen nombrados.
+  - Aclaracion: Comisión: 100% en las clases de prueba con alumnos nuevos; luego desde 33%, bajando hasta 18% según las horas dictadas.
+  - Aclaracion: El cobro se hace por PayPal, Payoneer, Skrill o Transferwise.
+- **Superprof Argentina - clases particulares de música** (sin verificar, verificada 1 vez) https://www.superprof.com.ar
+  - Que es: Profesores de instrumento, solfeo, iniciación musical, etc. con presencia en Buenos Aires y Gran Buenos Aires (ej. perfiles en Lanús).
+  - Requisitos: sin datos (no se pudo ver la página oficial).
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: El profesor fija su precio. Según avisos de terceros, 0% de comisión; no confirmado en el sitio oficial.
+  - Plazo o ciclo: Abierto todo el año (según avisos de terceros; no verificado en el sitio oficial).
+  - Como postular: https://www.superprof.com.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se pudo ver ninguna página oficial; los datos provienen de avisos de terceros que citan el marketing de Superprof y son autodeclarados.
+  - Aclaracion: Según esos avisos, publicar el anuncio es gratis, la comisión al profesor es 0% y el profesor fija su precio y disponibilidad.
+  - Aclaracion: No se confirmó en la fuente oficial que se pueda postular desde Argentina, aunque el dominio .com.ar y los avisos locales lo hacen plausible.
+
+## Bolsas de trabajo
+
+- **Remote OK (empleos remotos de arte de juegos, con feed JSON)** (abierta o vigente, verificada 2 veces) https://remoteok.com/api
+  - Que es: Concept artists, game artists, 2D/3D artists y diseñadores que buscan empleo o contrato remoto.
+  - Requisitos: Cada oferta fija el suyo (portfolio, años de experiencia). Para ofertas 'US Only', residencia en EE.UU. Nada visto sobre título.
+  - Pago o beneficio: Varía por oferta; no vi sueldos en las 2 ofertas de arte.
+  - Plazo o ciclo: Feed activo al 23/11/2026: 100 ofertas, con fecha de 2026-11-20 en las más recientes; se actualiza a diario.
+  - Como postular: https://remoteok.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El feed es general, no solo de arte de juegos.
+  - Aclaracion: Al 23/11/2026 solo hay 2 ofertas de arte o diseño ('Art Director' en Abnormal y 'Product Designer' en Tebra), ambas limitadas a EE.UU.
+  - Aclaracion: La elegibilidad cambia por oferta, por lo que hay que leer la ubicación de cada una.
+  - Aclaracion: Los términos de la API exigen enlazar a Remote OK con enlace seguido (follow) y citarlo como fuente si se reutilizan sus datos.
+- **Work With Indies (empleos y encargos para artistas de juegos indie)** (abierta o vigente, verificada 2 veces) https://workwithindies.com/
+  - Que es: Artistas 2D, pixel art, concept y ilustradores freelance o de contrato para estudios indie.
+  - Requisitos: Cada estudio define lo suyo, normalmente portfolio y experiencia en juegos. Hay roles de 2D, 3D, concept, pixel art y animación. Muchos dicen Anywhere, pero otros se limitan a husos horarios (por ejemplo CET, GMT±4) o países concretos (EE.UU., Canadá, Reino Unido, UE).
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos (la página no muestra sueldos; los empleadores pagan desde USD 49 por publicar)
+  - Plazo o ciclo: Abierto de forma continua; sin fecha de cierre (listado en vivo)
+  - Como postular: https://workwithindies.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Se postula en la página de cada estudio con el botón Learn More, no en el sitio de Work With Indies.
+  - Aclaracion: El sitio advierte que alguien suplanta su identidad y que solo escribe desde @workwithindies.com.
+  - Aclaracion: Hay newsletter semanal y Discord con revisión de portfolio; si es gratis, sin datos.
+  - Aclaracion: No se ven fechas de publicación de las ofertas.
+- **Domestika Empleo** (abierta o vigente, verificada 2 veces) https://www.domestika.org/es/jobs
+  - Que es: Bolsa de trabajo creativa en español: diseño gráfico, ilustración, foto/video, animación, etc. Ofertas de empresas y estudios.
+  - Requisitos: Varía por oferta. Casi todas piden perfil de diseño, motion o marketing digital y portfolio.
+  - Pago o beneficio: Varía por oferta. No se vio ningún monto. Hay prácticas y puestos freelance.
+  - Plazo o ciclo: Abierto: el listado muestra ofertas 'Publicados este mes', fechadas del 10/11/26 al 22/11/26. Actualización continua.
+  - Como postular: https://www.domestika.org/es/jobs (el botón de postulación está en cada oferta)
+  - Lectura automatica posible: Atom: https://www.domestika.org/es/jobs.atom (confirmado)
+  - Aclaracion: La mayoría de las ofertas son de empresas de España (Madrid, Barcelona, Valencia), muchas son prácticas o becas y a veces están en catalán.
+  - Aclaracion: Solo 5 de unas 30 ofertas figuran como 'En remoto' y la página no dice si aceptan postulantes de Latinoamérica.
+  - Aclaracion: No es una fuente para pintores ni músicos.
+- **We Work Remotely: categoría Design** (abierta o vigente, verificada 2 veces) https://weworkremotely.com/categories/remote-design-jobs
+  - Que es: Bolsa de trabajo remoto en inglés; la categoría Design incluye roles de arte conceptual, ilustración, storyboard, matte painting, UI/UX, gráfica.
+  - Requisitos: Varía por oferta. En general piden experiencia en diseño digital y portfolio.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Varía por oferta. No se vieron montos en el listado.
+  - Plazo o ciclo: Abierto: contador de 32 ofertas, la más reciente de hace unas 12 horas. Actualización continua.
+  - Como postular: https://weworkremotely.com/categories/remote-design-jobs (cada oferta tiene su propio enlace para postular)
+  - Lectura automatica posible: RSS: https://weworkremotely.com/categories/remote-design-jobs.rss (confirmado, con campos region, skills y expires_at). Índice de feeds: https://weworkremotely.com/remote-job-rss-feed
+  - Aclaracion: La mayoría de las ofertas dicen 'Anywhere in the World', pero otras son solo de EE. UU., Europa, Asia, África o Canadá, y esas excluyen a quienes viven en Argentina.
+  - Aclaracion: Hay que filtrar por el campo de región en cada oferta.
+  - Aclaracion: Los puestos son de diseño digital (UX, producto, marca, 3D, gráfico), no de arte plástico ni música.
+- **Remotive: categoría Design** (abierta o vigente, verificada 2 veces) https://remotive.com/remote-jobs/design
+  - Que es: Bolsa de trabajo remoto en inglés; categoría Design (más UX/UI que arte tradicional).
+  - Requisitos: Varía por oferta, y muchas tienen restricción geográfica. En general piden perfil de diseño digital y portfolio.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Varía por oferta. No se vieron montos en el listado.
+  - Plazo o ciclo: Abierto: 3.073 ofertas de diseño remotas en el listado y 439 agregadas en la semana del 23/11/2026. Actualización continua.
+  - Como postular: https://remotive.com/remote-jobs/design (botón 'View Job' en cada oferta)
+  - Lectura automatica posible: JSON: https://remotive.com/api/remote-jobs?category=design (confirmado); RSS existe según el pie de la página (URL exacta no vista).
+  - Aclaracion: Cada oferta indica su ubicación; el filtro 'Available from my location(s)' muestra solo las abiertas al país del usuario o a todo el mundo.
+  - Aclaracion: Algunas ofertas muestran '[Company Name]' en lugar del empleador, por lo que conviene desconfiar.
+  - Aclaracion: Según la página, sin sesión paga solo se ve una fracción de las ofertas (no verificado).
+  - Aclaracion: Son puestos de diseño digital, no de arte plástico ni música.
+- **Remotive (empleos remotos de diseño, API pública)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://remotive.com
+  - Que es: Diseñadores, artistas de juegos y creativos que buscan trabajo remoto.
+  - Requisitos: Depende de cada oferta. Solo algunas dicen Worldwide o LATAM; varias son solo USA/Canadá.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos (varía por oferta; no se vieron montos)
+  - Plazo o ciclo: Feed activo con publicaciones diarias (última vista 2026-11-19); sin fecha de cierre
+  - Como postular: https://remotive.com/remote-jobs/design
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El filtro category=design devolvió el feed completo y no hay ofertas de arte, ilustración o diseño; son de programación, soporte, ventas y redacción.
+  - Aclaracion: Los términos de Remotive piden atribución y enlace, retrasan las ofertas 24 h, limitan a unas 4 consultas por día y prohíben reenviar las ofertas a terceros.
+- **Work With Indies - audio para videojuegos** (se repite (hoy sin llamado abierto), verificada 2 veces) https://workwithindies.com/
+  - Que es: Compositores y sound designers para estudios indie; muchas ofertas remotas y freelance.
+  - Requisitos: Varía por oferta; el sitio no lo describe a nivel general. Revisar cada aviso (herramientas, portfolio, zona horaria).
+  - Pago o beneficio: sin datos (cada oferta define su pago).
+  - Plazo o ciclo: Ofertas rotativas todo el año; sin fechas fijas. Cada oferta tiene su propia fecha.
+  - Como postular: https://workwithindies.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una bolsa de trabajo para desarrolladores de juegos indie con categoría Audio; los roles vistos eran de diseño de sonido y no se vio ninguno específico de música o composición.
+  - Aclaracion: Muchas ofertas dicen 'Anywhere' o 'Remote', pero otras exigen zona horaria o ciudad, o se limitan a EE.UU., UE/Reino Unido u Ontario; la elegibilidad desde Argentina depende de cada aviso.
+  - Aclaracion: La postulación se hace desde 'Learn More' en cada oferta; la página no la explica.
+  - Aclaracion: El sitio advierte que fue suplantado y que solo envía correos desde @workwithindies.com.
+- **Workana (freelance LatAm: ilustración y diseño)** (sin verificar, verificada 1 vez) https://help.workana.com/hc/es/articles/360040846094--Cu%C3%A1nto-cuesta-usar-Workana
+  - Que es: Ilustradores, diseñadores y artistas que ofrecen trabajos por encargo a clientes de Latinoamérica y otros países.
+  - Requisitos: Crear un perfil de freelancer y postular a proyectos. Los planes de pago son opcionales. No vi requisitos de título. El portfolio ayuda.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: Comisión solo cuando hay contratación. Escala según el centro de ayuda en inglés (visto en un resultado de búsqueda): 20% hasta USD 300, 10% de 301 a 3.000, 5% desde 3.000, acumulada por cliente. El centro de ayuda en español dice que baja hasta 5% con clientes de largo plazo. Un artículo de 2026 de un tercero da 10% o USD 5 mínimo, lo que contradice la escala; no verificado.
+  - Plazo o ciclo: Abierto todo el año (sin convocatoria)
+  - Como postular: https://www.workana.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Workana es una plataforma latinoamericana con sede en Argentina, pero la elegibilidad no figura escrita en las páginas consultadas.
+  - Aclaracion: Las tarifas exactas conviene confirmarlas en el sitio oficial.
+- **Upwork (encargos freelance de ilustración y arte)** (sin verificar, verificada 1 vez) https://www.upwork.com/hire/ar/
+  - Que es: Ilustradores, artistas conceptuales y diseñadores que cobran por proyecto o por hora de clientes internacionales.
+  - Requisitos: Crear un perfil, pasar la revisión de Upwork y postular a trabajos. Se usan 'Connects' para enviar propuestas (dato no visto en esta sesión). No vi requisitos de título.
+  - Pago o beneficio: Comisión del freelancer: sin datos. Fuentes de 2026 (Wise, Skydo) indican entre 0% y 15% por contrato. La tarifa fija del 10% era de 2023. Un calculador argentino aún usa 10%, y suma ~2% por conversión a pesos y una tarifa de retiro.
+  - Plazo o ciclo: Abierto todo el año (sin convocatoria)
+  - Como postular: https://www.upwork.com/freelancers/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se encontró una fuente que confirme de forma explícita la elegibilidad desde Argentina.
+  - Aclaracion: Upwork opera en más de 180 países y tiene una página de contratación para Argentina (upwork.com/hire/ar/), lo que sugiere que hay freelancers argentinos.
+- **Working Nomads: Design** (sin verificar, verificada 1 vez) https://workingnomads.com/jobs?category=design
+  - Que es: Bolsa de trabajo remoto 'worldwide' con alertas por email.
+  - Requisitos: No visto en la página. Cada oferta define lo suyo (normalmente portfolio y experiencia en diseño digital). Hay alertas gratuitas por mail.
+  - Pago o beneficio: sin datos (depende de cada oferta)
+  - Plazo o ciclo: Abierto/continuo (sin fechas de publicación visibles)
+  - Como postular: https://workingnomads.com/jobs?category=design
+  - Lectura automatica posible: JSON: https://workingnomads.com/api/exposed_jobs/ (enlazado en la página, no abierto). RSS: no visto.
+  - Aclaracion: La página no muestra ofertas individuales ni fechas de publicación, por lo que no se pudo confirmar que haya ofertas abiertas.
+  - Aclaracion: Las categorías más cercanas son diseño gráfico y diseño de juegos; el contenido es de diseño digital (UI/UX, producto, gráfico), no arte plástico ni música.
+  - Aclaracion: Cada oferta puede tener restricciones de país propias.
+
+## Otros
+
+- **SADEM - Sindicato Argentino de Musicos (afiliacion, tarifas minimas y contratos)** (abierta o vigente, verificada 2 veces) https://sadem.org.ar/afiliaciones/
+  - Que es: Musicos profesionales. El sindicato tiene mas de 25.000 afiliados y obra social propia (OSDEM). Sus paginas de Gremiales listan tarifas minimas, convenios colectivos y contratos por actividad. Para trabajar en una produccion hay que presentar el contrato que corresponde.
+  - Requisitos: Ser mayor de 16 años y acreditar ejercicio profesional como músico con alguno de: contratos de trabajo, recibos o pagos de SADEM; título o certificado de estudios musicales; disco editado (físico o digital) o carnet de AADI; si no tiene ninguno, una audición de aptitud con docentes de SADEM. Documentos: formulario firmado, DNI frente y dorso, constancia de CUIL, foto 4x4 digitalizada, ficha de afiliación completa.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: No paga. Cuesta $9.000 de inscripción más $9.000 mensuales (moneda no indicada).
+  - Plazo o ciclo: Permanente. Las solicitudes se revisan en 10 días hábiles.
+  - Como postular: mailto:afiliaciones@sadem.org.ar
+  - Lectura automatica posible: No hay feed.
+  - Aclaracion: Es un sindicato, no un empleo ni un subsidio: ofrece defensa gremial en conflictos laborales, consultas legales gratuitas con abogados especializados en música, acceso a la obra social OSDEM y descuentos en turismo.
+  - Aclaracion: Dice garantizar escalas salariales, pero no publica las tarifas mínimas ni los términos de contratos en esta página.
+  - Aclaracion: La cuota de inscripción y la mensual no indican moneda; se entiende que son pesos argentinos, sin confirmar.
+  - Aclaracion: La presentación es presencial en Av. Belgrano 3655, CABA, de lunes a viernes de 10 a 16 h, o por mail; el teléfono de la página (011 4957 3522) difiere del del pie (011 4857 3522), por lo que conviene confirmarlo antes de llamar.
+- **Argentores - socio autor de teatro y cine (compositor de obra escenica)** (abierta o vigente, verificada 2 veces) https://www.argentores.org.ar/como-asociarse/
+  - Que es: Autores de obras de teatro y cine. Tiene secciones de Cine y Teatro con aranceles, minimos de contrato y contrato tipo cinematografico 2025. Lo que vi de Cine habla del libro cinematografico (guion), no de la partitura.
+  - Requisitos: Autor con obra original estrenada y con derechos cobrados por Argentores; solicitud escrita a la Junta Directiva con nombre, seudónimo, edad, nacionalidad, domicilio, documento, prueba de categoría y compromiso de cumplir el estatuto.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: No paga. Cuota de ingreso y mensual: sin datos (la fija la Junta cada año).
+  - Plazo o ciclo: Sin fechas publicadas; ingreso sujeto al 'período DISPO' (no especificado) y a la decisión de la Junta Directiva.
+  - Como postular: https://www.argentores.org.ar/como-asociarse/
+  - Lectura automatica posible: No hay feed.
+  - Aclaracion: Es una sociedad de gestión de derechos de autores, no un empleo ni un subsidio; para un compositor solo es relevante con obra escénica o audiovisual estrenada y gestionada por Argentores.
+  - Aclaracion: La solicitud se exhibe 10 días en la sede, los socios pueden objetar (10 días para responder) y la Junta acepta o rechaza; tras un rechazo hay que esperar un año.
+  - Aclaracion: Categorías: Honorario, Activo (8 o más obras estrenadas en Argentina), Administrado A (3 a 8), Administrado B (3 o menos) y Representados (no socios).
+  - Aclaracion: La página no fija condiciones de nacionalidad ni residencia (solo pide declararlas); las cuotas las fija la Junta cada año y no figuran.
+- **CABA: Manual de Convivencia del Arte Callejero (Disp. 101/2021) y Disp. 74/2025 - reglas para actuar y pintar en la calle** (sin verificar, verificada 1 vez) https://documentosboletinoficial.buenosaires.gob.ar/publico/PE-DIS-MCGC-DGPLBC-101-21-ANX-1.pdf
+  - Que es: Dirección General Promoción del Libro, Bibliotecas y la Cultura (Ministerio de Cultura CABA). Aplican los lugares y autoridades de cada espacio.
+  - Requisitos: Inscripción previa en el Registro de artistas callejeros; cumplir las reglas del Manual.
+  - Residentes en Argentina pueden postular: si
+  - Pago o beneficio: sin datos (solo aportes voluntarios del público)
+  - Plazo o ciclo: No aplica: es una norma, no una convocatoria.
+  - Como postular: https://buenosaires.gob.ar/tramites/registro-de-artistas-callejerosas
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un documento de reglas, no una oportunidad de postulación; complementa el registro de artistas callejeros.
+  - Aclaracion: El PDF es oficial (Anexo II, informe del 6 de agosto de 2021) y establece, entre otras reglas, actuaciones de alrededor de 1 hora, límite de 75 dBA, caballete para artistas plásticos (hasta 5 más en grupos, en plazas y no en veredas) y sombrero o caja de propinas a unos 1,5 m.
+  - Aclaracion: El texto se extrajo de un PDF mal convertido y puede contener errores.
+  - Aclaracion: La Disp. 74/2025 aparece mencionada en la fuente original, pero su contenido no está confirmado.
+- **CABA y GBA: Ley 6063 de Espacios Culturales Independientes (habilitar bares y clubes de música en vivo) y Catálogo CECI** (sin verificar, verificada 1 vez) https://boletinoficial.buenosaires.gob.ar/normativaba/norma/446775
+  - Que es: Ley de la Ciudad. El Ministerio de Cultura registra el catálogo (CECI), la Agencia Gubernamental de Control y la Dirección General de Habilitaciones y Permisos habilitan. La delegación de la inscripción al CECI en la Dirección General Desarrollo Cultural y Creativo figura en la Res. 7124-MCGC-25.
+  - Requisitos: Aplica a Espacios Culturales Independientes de hasta 300 asistentes y 500 m² cubiertos (teatro independiente, peñas, milongas, clubes de música en vivo, centros culturales, galerías). Exige condiciones físicas: dimensiones, accesibilidad, salidas, sanitarios, protección contra incendio, luces de emergencia y certificación eléctrica. El texto no fija reglas propias para entrar al CECI.
+  - Pago o beneficio: No es un pago ni una beca. Es un régimen de habilitación y fiscalización de espacios culturales. El texto no indica montos. El cambio de encuadre de locales ya habilitados bajo leyes anteriores es sin costo (Art. 40).
+  - Plazo o ciclo: Norma permanente (sancionada 29/11/2018, publicada 27/12/2018). No se confirmó ningún plazo de renovación: el texto leído no menciona renovación ni de la habilitación ni del CECI, así que lo de 12 y 6 meses no se pudo verificar.
+  - Como postular: sin datos (no se vio una página oficial de inscripción al CECI; la Res. 7124-MCGC-25 menciona a la Dirección General Desarrollo Cultural y Creativo como responsable de altas y bajas)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una ley de la Ciudad de Buenos Aires: no rige en el Gran Buenos Aires, que pertenece a la provincia de Buenos Aires, pese al título de la fuente.
+  - Aclaracion: Es una ley de habilitación de locales, no una convocatoria ni un programa de empleo o subsidio; sirve solo para quien quiera abrir o regularizar un espacio propio de música o arte.
+  - Aclaracion: La norma está vigente (Ley 6063, modificada por Ley 6146 en los arts. 37 y 44) y cita las resoluciones 3631-MCGC-19, 227-AGC-19 y 7124-MCGC-25.
+  - Aclaracion: No se confirmó en una página de gobierno el trámite de alta ni los plazos.
+- **AADA - Asociacion Argentina de Directores de Arte de la industria y medios audiovisuales** (sin verificar, verificada 1 vez) https://aadarte.com.ar/nosotros/guia/
+  - Que es: Directores de arte del cine, la TV y los medios audiovisuales. Tiene Consejo de Admision (3 integrantes), listado de socios activos con perfil propio y guia de socios. Sirve para conocer el circuito de direccion de arte. Si alcanza para conseguir trabajo, no lo se.
+  - Requisitos: sin datos (no figuran en las páginas que se pudieron leer).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (se presume permanente por ser una asociación, pero no pude confirmarlo).
+  - Como postular: https://aadarte.com.ar/contacto/
+  - Lectura automatica posible: No hay feed. Se puede mirar el listado de socios para ubicar a quienes dirigen arte y escribirles.
+  - Aclaracion: Es una asociación profesional para directores de arte de cine y TV, no una fuente de empleo en sí misma.
+  - Aclaracion: Ni la portada ni las subpáginas revisadas muestran requisitos de ingreso, cuotas, nacionalidad o residencia, bolsa de trabajo ni convocatorias.
+  - Aclaracion: Para saber cómo asociarse hay que usar https://aadarte.com.ar/contacto/.
+  - Aclaracion: Las URLs correctas son https://aadarte.com.ar/nosotros/guia/ y https://aadarte.com.ar/nosotros/consejo-de-admision/.
+
+## Cerradas, no elegibles o inaccesibles
+
+Se dejan listadas para no volver a investigarlas.
+
+- **Workana (marketplace freelance en español)** (no cargo) https://www.workana.com/es/jobs
+  - Plazo o ciclo: Abierto/continuo (no confirmado en la página)
+  - Aclaracion: Los datos provienen de fuentes de terceros y no del sitio oficial; conviene confirmarlos en help.workana.com.
+  - Aclaracion: Según esas fuentes, crear el perfil y enviar propuestas es gratis y el cliente paga además un cargo de 4,5% (mínimo US$2).
+- **Behance Jobs** (no cargo) https://www.behance.net/joblist
+  - Plazo o ciclo: Abierto/continuo (no confirmado en la página)
+  - Aclaracion: No se encontró aviso de cierre de la Job List; Adobe sí cerró Work in Progress y Livestreaming (diciembre 2024), pero no la lista de empleos.
+  - Aclaracion: El centro de ayuda de Behance documenta cómo postularse y cómo publicar ofertas (activas 30 días).
+- **UNSAM: Licenciatura en Conservación y Restauración del Patrimonio Cultural (Escuela de Arte y Patrimonio)** (no cargo) https://www.unsam.edu.ar/escuelas/eayp/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El PDF y la página de la escuela devolvieron HTTP 402, por lo que no se pudo leer su contenido.
+  - Aclaracion: El ciclo bianual, las fechas y los requisitos no se pudieron confirmar.
+- **Santa Fe: Proyectos Expositivos de Artes Visuales (premio de producción, anual)** (no elegible) https://www.santafecultura.gob.ar/convocatorias/
+  - Plazo o ciclo: Edición 2025 con cierre prorrogado al 13/7/2025 (nota del 8/7/2025). La edición 2026 no se pudo verificar: no aparece en el listado oficial de convocatorias de Santa Fe y se agotó el cupo de búsquedas. No hay llamado abierto al 23/11/2026.
+  - Aclaracion: Quienes viven fuera de la provincia de Santa Fe, por ejemplo en el Gran Buenos Aires, no cumplen el requisito de residencia (no es de nacionalidad).
+  - Aclaracion: La edición 2026 no pudo verificarse.
+- **Mendoza: convocatoria de artistas para la Fiesta Nacional de la Vendimia (música, danza, actuación)** (no elegible) https://www.mendoza.gov.ar/cultura/
+  - Plazo o ciclo: Se repite cada noviembre. Vendimia 2026: inscripción 14 al 20/11/2025. Vendimia 2027: la inscripción corrió del 13 al 19/11/2026 (cerrada; según El Sol del 16/11/2026), audiciones desde el 28 y 29/11/2026 y Acto Central el 6 y 7/3/2027. Próxima: noviembre de 2027 (inferido).
+  - Aclaracion: El requisito de residir en la provincia de Mendoza es excluyente: quienes viven fuera de Mendoza no pueden postularse.
+  - Aclaracion: Las fuentes son notas periodísticas de El Sol, no la página oficial de la Subsecretaría de Cultura de Mendoza.
+- **TEFAF Museum Restoration Fund (restauración de obras en museos públicos)** (no elegible) https://www.tefaf.com/foundation/museum-restoration-fund
+  - Plazo o ciclo: La ronda 2027 ya está cerrada (la página dice que quienes postularon antes del 1/10/2026 reciben respuesta hacia mediados de noviembre). Próxima ronda: no publicada, la página no da fechas. Es probable un ciclo anual, pero no lo pude confirmar.
+  - Aclaracion: Solo postulan museos públicos; las personas artistas a título individual no pueden presentarse.
+  - Aclaracion: La página de postulación conserva texto de 2024 (cierre 2 de octubre de 2024) y está desactualizada.
+- **Salón Nacional de Artes Visuales (113.ª edición) - Palais de Glace / Secretaría de Cultura** (cerrada) https://www.argentina.gob.ar/node/502949
+  - Plazo o ciclo: Edición 113: inscripción del 28/05 al 21/06/2026 (la página oficial consultada muestra esas fechas; la prórroga al 28/06 no la pude confirmar). La página no informa próxima edición. Periodicidad irregular: la edición de 2024 no se realizó y esta convocatoria incluyó sus premios. Próxima: desconocida.
+  - Aclaracion: Los requisitos completos figuran en el sitio del Palais de Glace.
+  - Aclaracion: La prórroga del plazo de inscripción al 28/06 no está confirmada.
+- **FNA - Becas Movilidad 2026 (primer y segundo llamado)** (cerrada) https://www.argentina.gob.ar/noticias/becas-movilidad-2026-segundo-llamado
+  - Plazo o ciclo: Segundo llamado 2026: cierre indicado el miércoles 4 de noviembre (la página dice 'convocatoria cerrada'); eventos entre 1/1 y 1/6/2027; resultados estimados en diciembre. Primer llamado 2026 también figura cerrado en el listado oficial de becas. Vi dos llamados en 2026 pero no pude confirmar que se repitan en 2027: la página no anuncia convocatoria 2027.
+  - Aclaracion: Resulta útil solo para quien consigue una invitación a una feria o festival.
+  - Aclaracion: No se confirma que los llamados se repitan en 2027.
+- **FNA - Becas Creación y Becas Formación (convocatorias anteriores, sin llamado actual)** (cerrada) https://www.argentina.gob.ar/cultura/fna/becas
+  - Plazo o ciclo: Último listado visto: Creación 2021-2024 (una por año), Formación 2021-2023, Programa para Formadores 2024; todas cerradas. No vi llamado 2025 ni 2026 de Creación/Formación (el listado tiene una segunda página que no pude leer). Sí hubo dos llamados de Becas Movilidad 2026 (el segundo cerró el 4/11/2026).
+  - Aclaracion: Los 10 llamados de la primera página del listado figuran como 'convocatoria cerrada'.
+  - Aclaracion: El listado tiene una segunda página que no pudo leerse, por lo que puede estar incompleto.
+- **FNA - Concurso de Proyectos Curatoriales (edición 2024)** (cerrada) https://www.argentina.gob.ar/noticias/concurso-de-proyectos-curatoriales-2024
+  - Plazo o ciclo: Edición 2024 publicada el 14/10/2024, cerrada; la página no dice si se repite. No encontré edición 2025 ni 2026.
+  - Aclaracion: Está dirigido a curadores, no a pintores ni a músicos.
+  - Aclaracion: Un pintor podría participar solo como artista cuyas obras incluye un curador.
+- **Casa Nacional del Bicentenario - Convocatoria Espacio de Arte Nacional** (cerrada) https://www.argentina.gob.ar/cultura/convocatorias/16549
+  - Plazo o ciclo: Edición 2026: inscripción del 1/12/2025 al 31/1/2026, resultados desde el 21/2/2026, muestras de marzo a diciembre de 2026. Cerrada. La página no dice que se repita cada año; si hubiera edición 2027, la apertura caería hacia diciembre (inferencia mía, no confirmada).
+  - Aclaracion: La página oficial es argentina.gob.ar/cultura/convocatorias/16549; recursosculturales.com es un sitio de terceros que solo repite la información.
+  - Aclaracion: Las bases completas están en un PDF enlazado desde la página.
+- **FNA - Subsidios y concursos de proyectos para entidades culturales** (cerrada) https://www.argentina.gob.ar/cultura/fna/concurso-de-proyectos-para-entidades-culturales
+  - Plazo o ciclo: Las cuatro convocatorias de la página figuran cerradas (Orquestas Sinfónicas y de Cámara, Entidades Culturales 2024, Mejora y Adecuación de Espacios Culturales, Subsidios Proyectos Culturales). Año de tres de ellas: sin datos. Próximo llamado: sin datos.
+  - Aclaracion: Está dirigido a entidades sin fines de lucro, no a artistas individuales; una persona solo podría acceder si integra una entidad o la crea.
+  - Aclaracion: Los requisitos específicos de cada llamado figuran en sus páginas individuales.
+- **Programa Puntos de Cultura (Secretaría de Cultura de la Nación)** (cerrada) https://www.argentina.gob.ar/cultura/convocatorias
+  - Plazo o ciclo: Última convocatoria vista: la 9.ª (2023). El listado oficial de convocatorias de la Secretaría (argentina.gob.ar/cultura/convocatorias) al 2026-11-23 no incluye Puntos de Cultura; la página argentina.gob.ar/cultura/puntos-de-cultura devuelve 404. No vi señal de una nueva edición.
+  - Aclaracion: Está dirigido a organizaciones comunitarias, no a artistas individuales.
+  - Aclaracion: No hay llamado visible ni ciclo anual comprobado.
+- **INAMU - Fomento Internacional / Musica Argentina al Exterior (ferias y showcases)** (cerrada) https://inamu.musica.ar/musica-al-exterior-2026
+  - Plazo o ciclo: Edición 2026 (showcases en BIME Bilbao, 27-30/10, y Monkey Week, 19-21/11): inscripción del 13 al 27/07/2026, cerrada. La página no menciona un llamado 2027 ni un ciclo.
+  - Aclaracion: No se confirma que se repita en 2027.
+  - Aclaracion: La afirmación de llamados semestrales no figura en la página.
+- **Elencos estables nacionales - concursos y audiciones (Orquesta Sinfonica Nacional, Orquesta Nacional de Musica Argentina Juan de Dios Filiberto, Coro Polifonico Nacional)** (cerrada) https://www.argentina.gob.ar/cultura/convocatorias/17016
+  - Plazo o ciclo: Llamado 2026 cerrado: inscripción del 08/05 al 13/05/2026, audición el 15/05/2026
+  - Aclaracion: La ficha describe solo una audición de corno de la ONMA, no el conjunto de concursos de los tres elencos.
+  - Aclaracion: Los concursos de 2023 mencionados en otra fuente no aparecen en esa página y no fueron confirmados.
+- **Becas Martha Argerich (jovenes de orquestas infantiles y juveniles publicas)** (cerrada) https://www.argentina.gob.ar/noticias/becas-martha-argerich-abre-la-convocatoria
+  - Plazo o ciclo: Último llamado visto: inscripción del 5 al 19/11/2025 (la nota está fechada el 5/11/2025). Una búsqueda indicó que el plazo se prorrogó hasta el 30/11/2025 (Boletín Oficial). Becas pagadas de abril a noviembre de 2026. No se vio ningún llamado 2026 a fecha 23/11/2026.
+  - Aclaracion: El llamado visible es de noviembre de 2025, no de 2026.
+  - Aclaracion: Según una búsqueda web fue la tercera convocatoria (el programa nació en 2021) y el jurado se formalizó en enero de 2026, lo que sugiere un ritmo irregular y no una repetición anual comprobada.
+- **INAMU y FNA - proyectos para orquestas sinfonicas y de camara (partituras y derechos de autor)** (cerrada) https://www.argentina.gob.ar/cultura/convocatorias/16595
+  - Plazo o ciclo: Cerrada. La página indica del 16/12/2025 al 6/04/2026 y estado 'cerrada'. No vi indicio de repetición.
+  - Aclaracion: Está cerrada y va dirigida a organizaciones con personería jurídica, no a artistas individuales.
+  - Aclaracion: No sirve a una persona sola salvo que integre una orquesta que postule.
+- **5° Salón Municipal de Artes Visuales de La Matanza** (cerrada) https://lamatanza.gov.ar/upload/pdf/cultura/concurso-artes-visuales-2026.pdf
+  - Plazo o ciclo: Recepción por mail hasta el 03/09/2026 (cerrada). El acto de premiación estaría dentro de la inauguración de la XVIII Feria Municipal del Libro, fecha a determinar. Edición 2027: sin datos (es la 5ª edición, pero no se vio fecha de la próxima).
+  - Aclaracion: El tema de la edición fue Identidad y Cultura en el territorio.
+  - Aclaracion: Solo sirve a residentes u oriundos de La Matanza.
+- **Concurso Provincial de Obras para Orquesta Sinfónica Marta Lambertini (PBA)** (cerrada) https://institutocultural.gba.gob.ar/articulo-noticia/convocatorias/4ta-edicion-del-concurso-provincial-de-obras-para-orquesta-sinfonica
+  - Plazo o ciclo: 4ª edición: 15/04 al 30/08/2026, listada como Finalizada. Es la 4ª edición, así que parece anual, pero la próxima no está anunciada. Probable ventana abril-agosto de 2027 (no confirmado).
+  - Aclaracion: Las bases completas están en un PDF que no se pudo abrir; los requisitos provienen de la página.
+  - Aclaracion: Se presenta con seudónimo, por mail a concursosmusicapba@gmail.com.
+- **Universidad Nacional de Quilmes (UNQ): convocatoria a concursos docentes 2026** (cerrada) https://www.unq.edu.ar/concursos-docentes/
+  - Plazo o ciclo: Resolución (R) 676/26 del 16/07/2026. Inscripción del miércoles 19 al jueves 27 de agosto de 2026, ya cerrada. La página oficial de concursos dice que al 23/11/2026 no hay concursos docentes abiertos y que los nuevos se publican ahí. No vi un calendario anual fijo; los concursos salen según un plan plurianual aprobado por el Consejo Superior.
+  - Aclaracion: La convocatoria ya cerró y, al 23/11/2026, la página oficial no muestra concursos docentes abiertos.
+  - Aclaracion: Sirve solo como señal de que la UNQ abre concursos de arte de vez en cuando, por lo que conviene seguir la página de concursos.
+- **CCEBA (Centro Cultural de España en Buenos Aires, AECID) — Residencia Plataforma Cardinal y otras convocatorias** (cerrada) https://cceba.aecid.es
+  - Plazo o ciclo: Plataforma Cardinal 2026 (residencia de artes escénicas) cerró el 24 de julio de 2026 a las 16:00 (Argentina); resultados el 31 de agosto de 2026. No hay evidencia de que se repita. En el listado del CCEBA, las 12 convocatorias que vi parecen todas cerradas al 23/11/2026 (la más reciente, 'Cruzar las prácticas', con fecha 27 de octubre de 2026).
+  - Aclaracion: Plataforma Cardinal 2026 fue de artes escénicas y eligió 3 proyectos.
+  - Aclaracion: El CCEBA publica varias convocatorias por año, todas las vistas ya cerradas; conviene revisar cceba.aecid.es con regularidad.
+- **British Council — Connections Through Culture (Argentina-Reino Unido)** (cerrada) https://arts.britishcouncil.org/connections-through-culture
+  - Plazo o ciclo: Ronda 2026 cerrada: abrió el 17/06/2026 y cerró el 12/08/2026 (23:59 BST). Resultados provisorios desde el 14/10/2026. Proyectos de diciembre de 2026 a diciembre de 2027. La página no anuncia fecha de la próxima ronda; ofrece un boletín para enterarse.
+  - Aclaracion: Aceptan artistas, organizaciones, colectivos y profesionales culturales.
+  - Aclaracion: Los festivales y bienales de artes visuales, arquitectura, diseño, moda y artesanía deben postular a través de la organización, no como individuos.
+- **Premio Fundacion Santander Argentina a las Artes Visuales** (cerrada) https://app.santanderopenacademy.com/es/program/premio-fsav
+  - Plazo o ciclo: 2ª edición: inscripción del 26/05/2025 al 27/07/2025 (cerrada). La muestra ganadora (ReversoDoble) ya se exhibió en 2026. No vi convocatoria de 3ª edición ni fechas 2026-2027.
+  - Aclaracion: La página oficial cargó sin contenido; los datos provienen de La Gaceta (junio 2025) y de un aviso de la Universidad de Palermo (octubre 2026).
+  - Aclaracion: Se postula en equipo de artista y curador.
+- **Premio Witcomb de las Artes Visuales - Galerias Witcomb** (cerrada) https://galeriaswitcomb.com.ar/premio-witcomb-2026/
+  - Plazo o ciclo: 1ª edición: inscripción abierta desde el 01/10/2025; según la página oficial cerró el 16/01/2026 (Infobae decía 31/12/2025). Finalistas publicados el 20/02/2026 y muestra en la Casa Nacional del Bicentenario desde el 20/03/2026. No hay 2ª edición anunciada.
+  - Aclaracion: La fecha de cierre de la fuente original se corrige: según la página oficial cerró el 16/01/2026.
+  - Aclaracion: Es una primera edición sin repetición confirmada.
+- **ArtStation Marketplace y tienda de prints** (cerrada) https://help.artstation.com/en/articles/16154979-payouts-when-and-how-do-i-get-paid
+  - Plazo o ciclo: El Marketplace deja de tomar pedidos el 2026-12-18 (15:59 PT) y pasa a Gumroad. La tienda de Prints termina en la misma fecha y el nuevo socio de impresión aún no está anunciado.
+  - Aclaracion: Según prensa (80.lv y tutkit.com, 19-11-2026), el Marketplace y la tienda de Prints terminan juntos, por lo que se considera cerrado en la práctica.
+  - Aclaracion: Una alternativa es usar ArtStation como portfolio y abrir una tienda en Gumroad.
+- **Salón de Arte Textil - Museo de Arte Popular José Hernández (XXII edición, 2026)** (cerrada) https://www.buenosaires.gob.ar/noticias/abre-la-convocatoria-del-xxii-salon-de-arte-textil-2026
+  - Plazo o ciclo: La edición XXII (2026) ya cerró: imágenes del 13 al 17/07/2026, aviso a seleccionados el 10/08, entrega de obra del 19 al 21/08, inauguración y premios el 10/09, cierre de la muestra el 25/10/2026. La página no dice que sea anual; el ordinal XXII sugiere que se repite, pero no vi fecha de la XXIII.
+  - Aclaracion: Es un salón de selección por imágenes, solo para arte textil (trama y urdimbre).
+  - Aclaracion: Las categorías y los montos de los premios figuran en las bases: https://buenosaires.gob.ar/gcaba_historico/abre-la-convocatoria-del-xxii-salon-de-arte-textil-2026.
+- **Fondo Municipal de las Artes (FMA) 2026 - Vicente López** (cerrada) https://www.vicentelopez.gov.ar/convocatoria/fondo-municipal-de-las-artes-fma-2026/
+  - Plazo o ciclo: La edición 2026 cerró el 05/10/2026 (23:59, plazo extendido); resultados a partir del 27/10/2026. Por la regla que excluye a los becarios del FMA 2025, la convocatoria parece anual, pero la página no lo afirma. La apertura fue el 28/08.
+  - Aclaracion: Exige residencia acreditable en Vicente López (Gran Buenos Aires); quienes viven en otros partidos o en la Ciudad de Buenos Aires no cumplen el requisito.
+  - Aclaracion: Se eligen hasta 10 proyectos y hasta 3 suplentes.
+- **Ch.ACO (Santiago de Chile) - feria de arte con secciones Galerías y Proyectos de Arte** (cerrada) https://chaco.cl/ch-aco-17/
+  - Plazo o ciclo: Ch.ACO-17 será del 17 al 21/03/2027 en Metropolitan Santiago. La página dice que las postulaciones están 'en proceso de selección', es decir, ya cerraron. No vi el plazo. El ciclo parece anual, pero solo vi esta edición.
+  - Aclaracion: Es una feria de galerías y proyectos, no una convocatoria a artistas individuales.
+  - Aclaracion: No se indica si se exige residencia o nacionalidad; los detalles están en las bases.
+- **Fuera de Serie (MuseosBA) - feria de gráfica y arte de pequeño formato en jardines de museos de la Ciudad** (cerrada) https://www.buenosaires.gob.ar/cultura/museos/bases-y-condiciones-de-la-convocatoria-fuera-de-serie
+  - Plazo o ciclo: Solo vi la edición 2021: inscripción del 25 de agosto al 15 de septiembre de 2021, resultados el 27 de septiembre, actividad en noviembre de 2021. No vi ninguna edición 2025 o 2026 ni indicio de repetición anual.
+  - Aclaracion: La página oficial corresponde a la edición 2021 y no hay evidencia de que la convocatoria se haya repetido, por eso figura como cerrada.
+  - Aclaracion: No se menciona costo de inscripción y la entrada al público es gratuita.
+- **CABA: Mi Barrio, Mi Mural (convocatoria de murales para artistas emergentes)** (cerrada) https://buenosaires.gob.ar/noticias/nueva-convocatoria-mi-barrio-mi-mural
+  - Plazo o ciclo: Edición 2025: publicada el 31/03/2025, inscripción por TAD del 31/03 al 30/04/2025 (con prórroga). La página no enlaza ninguna edición 2026 y no hay indicio de repetición confirmado.
+  - Aclaracion: Exige residencia en la Ciudad de Buenos Aires, por lo que quienes viven en el Gran Buenos Aires no cumplen el requisito.
+  - Aclaracion: La información corresponde a la edición 2025; solo se revisó la propia página y no se buscó una edición 2026 en otras fuentes.
+- **Trenque Lauquen (PBA): Bienal y Encuentro Nacional de Arte Mural (3.ª Bienal / 10.º Encuentro, 2026)** (cerrada) https://www.trenquelauquen.gov.ar/wordpress/wp-content/uploads/Bases-y-Condiciones.-3ra-Bienal-y-10-E.N-de-A.M.-2026.pdf
+  - Plazo o ciclo: Edición 2026 terminada: inscripción hasta el 6/9/2026, selección comunicada hasta el 23/9, entrega de diseño final hasta el 25/10 y evento del 11 al 15/11/2026 (cierre el domingo 15/11). Se llama 3.ª Bienal y 10.º Encuentro, es periódico, pero las bases no fijan la fecha de la próxima edición. Vigilar las redes del Municipio.
+  - Aclaracion: La convocatoria está cerrada: el evento terminó el 15/11/2026.
+  - Aclaracion: Pide experiencia comprobable en murales (mínimo 5 obras individuales), por lo que no está orientada a quienes recién empiezan en muralismo.
+- **UNQ (Bernal): convocatorias de mural colectivo en cerámica del Programa de Cultura (ciclo 2026)** (cerrada) https://www.unq.edu.ar/cultura
+  - Plazo o ciclo: Cerrada. El PDF fijaba la inscripción del 2/2 al 2/3/2026; el sitio de la UNQ la extendió al 30/4/2026. Es un proyecto puntual por los 50 años del golpe de 1976, sin ciclo anual. No encontré ninguna 'Mural Colectivo 2026' en el PDF ni en la búsqueda del sitio.
+  - Aclaracion: La fecha de cierre del 24/3 que figuraba antes no coincide con lo observado: 2/3 en el PDF y 30/4 en la web.
+  - Aclaracion: No hay nada abierto al 23/11/2026.
+- **Cervantes Electroacustico - convocatoria internacional a compositores (2.a edicion)** (cerrada) https://www.teatrocervantes.gob.ar/noticias/convocatoria-cervantes-electroacustico-festival-internacional/
+  - Plazo o ciclo: Cerro el 20/4/2026 (la version en ingles dice 2025, error de tipeo). Festival 28 al 30/8/2026, lista de obras anunciada en junio 2026. No hay evidencia de que se repita cada ano.
+  - Aclaracion: Se postula por email con un enlace a una carpeta .zip.
+  - Aclaracion: Aceptar implica autorizar la ejecución de la obra en un concierto.
+- **Teatro Nacional Cervantes - Red Federal de Teatros (capacitaciones tecnicas y convocatorias a salas)** (cerrada) https://www.teatrocervantes.gob.ar/noticias/red-federal-de-teatros-la-escena-encendida-lenguaje-espacio-y-narrativa-de-la-luz/
+  - Plazo o ciclo: Inscripcion cerro el 22/10/2026 (clases jueves 5, 12, 19 y 26 de noviembre, 10 a 12 h). No vi evidencia de un ciclo fijo; la afirmacion de que abre varias veces por ano no se confirmo en las paginas que cargue.
+  - Aclaracion: Es una capacitación en iluminación escénica dirigida a equipos técnicos de las salas de la Red Federal, no a artistas individuales.
+  - Aclaracion: Solo sirve a quien trabaja en una sala de la Red.
+- **Santa Fe: concursos abiertos de cargos instrumentales en la Orquesta Sinfónica Provincial de Santa Fe (y de Rosario)** (cerrada) https://www.santafecultura.gob.ar/convocatoria/concurso-abierto-para-cargos-instrumentales-en-la-sinfonica-de-santa-fe/
+  - Plazo o ciclo: Inscripción 2026 del 26/3 al 10/4/2026 (cerrada). El listado de convocatorias lo describe como concursos periódicos, sin fecha del próximo. Los llamados de 2023 figuran como finalizados.
+  - Aclaracion: El llamado 2026 cubrió solista de clarinete, solista de fagot y tres suplentes (clarinete, fagot, flauta); está cerrado y ya se publicó la nómina de inscriptos.
+  - Aclaracion: Los concursos se abren cuando hay vacantes, sin indicio de una fecha fija de repetición.
+- **Santa Fe: Ley de Promoción Cultural (mecenazgo provincial, Ley 14.365)** (cerrada) https://www.santafecultura.gob.ar/convocatoria/ley-de-promocion-cultural/
+  - Plazo o ciclo: Presentación de proyectos (beneficiarios) del 15/8 al 15/9 (la página no dice el año; el listado y una fuente previa indican 2026), cerrada. Inscripción de aportantes desde el 15/8, sin fecha de cierre visible. Repetición anual: no confirmada.
+  - Aclaracion: La ventana está cerrada y no hay evidencia de que se repita todos los años.
+  - Aclaracion: Es financiamiento de proyectos, no un salario ni un subsidio directo.
+- **Neuquén: Plan de Fomento de la Industria Cinematográfica 2026 (incluye videoclips y videojuegos cortos)** (cerrada) sin datos (la fuente indica que las bases y el formulario están en ENCINE, Ente Cinematográfico del Neuquén; no vi la página oficial)
+  - Plazo o ciclo: Convocatoria 2026 abierta hasta el 5/10/2026 según Noticias Neuquén del 6/9/2026, por lo tanto cerrada al 2026-11-23. La ley prevé nuevas convocatorias si una categoría queda vacía. Hubo ediciones del plan en 2022 y 2026, sin ciclo anual confirmado.
+  - Aclaracion: Una nota del 2/9 decía que se abrirían las convocatorias y otra del 6/9 informó el cierre el 5/10.
+  - Aclaracion: La convocatoria ya cerró: sirve como referencia para ediciones futuras, pero no hay oportunidad abierta.
+- **Río Negro: Impulso Cultural RN y portal provincial de convocatorias** (cerrada) https://cultura.rionegro.gov.ar/programa/729/impulso-cultural-rn
+  - Plazo o ciclo: Inscripción cerrada el 30/9/2026; las actividades aprobadas pueden extenderse hasta el 30/11/2026. La página no dice si se repite.
+  - Aclaracion: Financia talleres y capacitaciones en el territorio provincial; no es un premio ni una beca para artistas individuales.
+  - Aclaracion: Se dirige a organizaciones, espacios y centros culturales comunitarios, colectivos y emprendedores culturales; el responsable debe ser mayor de 18 años.
+- **Fundação Bienal do Mercosul (Porto Alegre): vigilar convocatorias de artistas** (cerrada) https://www.bienalmercosul.art.br/
+  - Plazo o ciclo: Sin convocatoria abierta a artistas vista en 2026. La Fundación (gestión 2026-2028 con copresidencia) lista para 2026 la itinerancia de la 14.ª Bienal; no hay fecha de la 15.ª edición ni de una próxima convocatoria. Las convocatorias anteriores que encontré son de 2021 y 2022 (13.ª edición).
+  - Aclaracion: El sitio oficial no tiene convocatoria vigente para artistas.
+  - Aclaracion: El único llamado visto es 'Edital Ecoar' (formación y proyectos de economía creativa), limitado a adultos de siete estados de Brasil y de 2025.
+- **Secretaría de Cultura: concursos abiertos SINEP para direcciones de museos nacionales (Resolución 24/2026)** (cerrada) https://www.argentina.gob.ar/cultura/convocatorias
+  - Plazo o ciclo: Nota publicada el 2026-07-01. No se indica plazo de inscripción. En la portada de Cultura (2026-11-23) no figura ningún concurso de direcciones de museos entre las convocatorias abiertas.
+  - Aclaracion: Son cargos directivos de museo, no cargos para artistas.
+  - Aclaracion: No aparece plazo ni lugar de inscripción; se marca cerrado por el tiempo transcurrido y por no figurar entre las convocatorias vigentes.
+- **Ibermuseos: becas para el Curso de Capacitación (gestión de colecciones y museografía sostenible)** (cerrada) https://www.ibermuseos.org/
+  - Plazo o ciclo: Postulaciones del 13 de agosto al 4 de septiembre de 2026 (cerrada). Curso virtual del 27 al 30 de octubre de 2026 (ya realizado). No encontré evidencia de repetición anual; la portada de ibermuseos.org no menciona el curso.
+  - Aclaracion: Se otorga una sola beca por país miembro.
+  - Aclaracion: Está dirigido a profesionales de museos, no a artistas en general.
+- **Fundación El Libro: concurso de ilustración para crear los personajes de la Feria del Libro Infantil y Juvenil** (cerrada) https://www.el-libro.org.ar/wp-content/uploads/2025/05/concurso-personajes-feria-infantil.pdf
+  - Plazo o ciclo: Edición 2025 (33.ª Feria Infantil, julio 2025) cerró el martes 27 de mayo de 2025 a las 22 h; jurado entre el 28 y 30 de mayo de 2025. No vi convocatoria 2026 ni indicio de repetición.
+  - Aclaracion: El PDF oficial habla de la 33.ª feria y en un pasaje final de la 32.ª, una inconsistencia del propio documento.
+  - Aclaracion: No se pudo confirmar que la 34.ª feria (2026) tuviera un concurso similar ni que se repita en 2027.
+- **FNA: Concurso Nacional para Publicación de Literatura Infantil y Juvenil Ilustrada (solo editoriales)** (cerrada) https://www.argentina.gob.ar/noticias/concurso-nacional-para-publicacion-de-literatura-infantil-y-juvenil-ilustrada
+  - Plazo o ciclo: Única edición vista: cierre 27/9/2023. En los listados oficiales de concursos del FNA 2024, 2025 y 2026 no aparece una nueva edición; figura solo como convocatoria cerrada.
+  - Aclaracion: Solo pueden postular sellos editoriales radicados en Argentina; no es una convocatoria para ilustradores individuales.
+  - Aclaracion: La única edición registrada cerró el 27/9/2023 y no hay nueva edición en los listados del FNA 2024, 2025 y 2026.
+
