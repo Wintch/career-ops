@@ -1,0 +1,80 @@
+# Educacion y cuidado infantil
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **ANEP - Llamados (listado general de llamados del CODICEN y los Consejos)** (abierta o vigente, verificada 2 veces) https://www.anep.edu.uy/llamados
+  - Que es: Personas interesadas en trabajar en la educación pública: docentes y funcionarios no docentes. El listado visto incluyó llamados a Referentes Socioeducativos (perfil docente), Docentes Referentes y Intérprete de Lengua de Señas (programa DEJA), Coordinadores, Administrativos y Auxiliares Grado 1 en distintos departamentos. Cada llamado tiene su ficha.
+  - Requisitos: Varían por llamado y no figuran en el listado; consultar la ficha de cada uno. En los cargos auxiliares y administrativos suelen pedirse estudios básicos o medios, pero eso no se pudo verificar en esta página.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: el listado se actualiza continuamente (49 páginas; los más recientes llevan numeración web 997 a 1006); cada llamado tiene su propio plazo.
+  - Como postular: https://sis3.anep.edu.uy/LlamadosyConcursos/servlet/ingreso
+  - Lectura automatica posible: sin datos (listado HTML paginado, no se vio feed ni API)
+  - Aclaracion: El listado no muestra fechas de publicación ni de cierre; hay que abrir la ficha de cada llamado.
+  - Aclaracion: Incluye cargos no docentes (administrativos, auxiliares, técnicos, arquitecto residente) y docentes o socioeducativos (referentes, intérprete de lengua de señas, tutores, coordinadores).
+  - Aclaracion: El origen es mayoritariamente el Consejo Directivo Central, y también Educación Inicial y Primaria.
+  - Aclaracion: La inscripción se hace por el Sistema de Inscripción a Llamados y Concursos.
+- **ANEP - Sistema de Inscripción a Llamados y Concursos (CO.DI.CEN.)** (abierta o vigente, verificada 2 veces) https://sis3.anep.edu.uy/LlamadosyConcursos/servlet/ingreso
+  - Que es: Quienes se postulan a los llamados y concursos del CODICEN de ANEP (docentes referentes, coordinadores, administrativos y otros cargos publicados en la página de Llamados).
+  - Requisitos: No listados en la página de ingreso; dependen de cada llamado. Se necesita un usuario para ingresar.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Portal disponible todo el año; cada llamado tiene su propio plazo.
+  - Como postular: https://sis3.anep.edu.uy/LlamadosyConcursos/servlet/ingreso
+  - Lectura automatica posible: no
+  - Aclaracion: Ofrece las opciones 'Ingreso' y 'Consulta de Inscripción'.
+  - Aclaracion: Es el portal oficial de la Dirección Sectorial de Gestión Humana de ANEP (CO.DI.CEN.) y la vía de inscripción a los llamados publicados en anep.edu.uy/llamados.
+  - Aclaracion: La página de ingreso no explica los pasos ni los requisitos; esos datos están en cada llamado.
+- **UTU (Educación Técnico Profesional) - Aspiraciones Docentes / Registro de Aspirantes** (abierta o vigente, verificada 2 veces) https://rrhh.utu.edu.uy/aspiraciones/
+  - Que es: Aspirantes a dar clases en UTU cuyo perfil coincida con el de un llamado abierto. Hay llamados específicos para egresados de Formación Docente (se excluyen ISEF, Maestros y Adscriptos). Ejemplos vistos para el año lectivo 2027: Maldonado, área 9280 Iniciación Deportiva (20 al 27/11/2026); Canelones, varias áreas (19 al 25/11/2026 y otro llamado del 6 al 16/11/2026).
+  - Requisitos: Varían por área y se detallan en cada convocatoria (perfil y documentación). La página no los resume. Egresados de Formación Docente tienen un llamado propio ('Egresados').
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Convocatorias para el año lectivo 2027 con inscripción abierta al 23/11/2026, entre otras: Informática y Educación Terciaria (Paysandú, 23 al 29/11/2026), Iniciación Deportiva (Maldonado, 20 al 27/11; Durazno, 20 al 26/11), Seguridad y Operaciones Laboratorio (Flores, 20 al 27/11), Psicología y Recreación (San José, 20 al 26/11). Se completa un formulario en línea con documentación adjunta; el usuario se crea en usuario.utu.edu.uy.
+  - Como postular: https://usuario.utu.edu.uy
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Corrección de fechas: las inscripciones para Área 9280 Iniciación Deportiva son del 20 al 27/11/2026 en Maldonado, pero del 20 al 26/11/2026 en Durazno; Seguridad y Operaciones de Laboratorio (Flores) va del 20 al 27/11/2026.
+  - Aclaracion: La inscripción es en línea con un formulario adjunto a cada convocatoria; quien no tiene usuario lo crea en usuario.utu.edu.uy ('Ingreso Primera Vez').
+  - Aclaracion: Tras la inscripción, la Inspección evalúa y los listados se publican los viernes por la tarde; mesa de ayuda: 2412 8799 o incidentes@utu.edu.uy.
+  - Aclaracion: Aplica a docencia técnica y áreas de oficio; no es una vía para quien busca un primer empleo sin formación en el área.
+- **UTU - Horas vacantes (elección de horas docentes)** (sin verificar, verificada 1 vez) https://www.utu.edu.uy/funcionarios/horas-vacantes/
+  - Que es: Docentes ya inscriptos en listas o aspiraciones de UTU, que eligen horas de clase vacantes. Es una publicación de las horas disponibles, no una inscripción.
+  - Requisitos: sin datos (no se indican en la página; en general se trata de horas docentes, por lo que se presume formación docente o idoneidad en la materia, no verificado)
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página indica cobertura desde el 01/01/2025, con filtros por año (2026, 2025), mes y departamento; no se vieron fechas ni listados concretos.
+  - Como postular: https://www.utu.edu.uy/funcionarios/horas-vacantes/
+  - Lectura automatica posible: sin datos (el listado se carga dinámicamente, posiblemente desde un servicio propio)
+  - Aclaracion: El listado se carga dinámicamente y no mostró horas vacantes concretas ni fechas.
+  - Aclaracion: Es una publicación de las horas disponibles, no una inscripción, y no explica cómo se eligen; enlaza a 'Aspiraciones Docentes', 'Llamados: agenda para inscripción' y 'Convocatoria a elección designación de cargos'.
+  - Aclaracion: Es una fuente para personal docente y no resulta apta para un primer empleo sin formación docente.
+- **UTU - Convocatorias a elección y designación de cargos** (sin verificar, verificada 1 vez) https://www.utu.edu.uy/funcionarios/convocatorias/
+  - Que es: Docentes y aspirantes ordenados en lista que son convocados a elegir y ser designados en cargos.
+  - Requisitos: sin datos (cada convocatoria define sus bases; no se vieron)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página indica cobertura desde el 01/01/2025, con filtros por año (2026, 2025), mes y palabra clave; no se vieron convocatorias concretas.
+  - Como postular: https://www.utu.edu.uy/funcionarios/convocatorias/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El listado no cargó ('Cargando circulares...'), por lo que no se muestra ninguna convocatoria vigente.
+  - Aclaracion: La sección 'Concursos y llamados' (https://www.utu.edu.uy/concursos-y-llamados/) tampoco mostró contenido por la misma razón; el archivo digital cubre publicaciones anteriores.
+  - Aclaracion: Contacto publicado: Informes (+598) 2410 7971, utu@utu.edu.uy.
+- **UTU - Concursos y llamados / Agenda de inscripción a llamados** (sin verificar, verificada 1 vez) https://servicios.utu.edu.uy/agenda2/com.agenda2.agendacen
+  - Que es: Quienes quieran inscribirse a llamados de UTU (docentes y otros cargos). La agenda concentra los calendarios de inscripción.
+  - Requisitos: Cumplir lo que establezcan las bases de cada llamado (resolución que las aprueba); acudir dentro del plazo de inscripción. Requisitos específicos: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: La página dice que la agenda está habilitada durante todo el año para distintos llamados; cada llamado tiene su propio plazo de inscripción según sus bases. La captura leída mostraba fecha 17/06/2025, por lo que no se pudo confirmar su vigencia al 2026-11-23.
+  - Como postular: https://servicios.utu.edu.uy/agenda2/com.agenda2.agendacen
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una agenda de turnos del Programa de Gestión Humana de UTU para inscribirse presencialmente: se elige día y hora dentro del plazo del llamado y se aceptan las condiciones.
+  - Aclaracion: No se admiten inscripciones fuera de los plazos de las bases particulares de cada llamado.
+  - Aclaracion: La captura leída mostraba la fecha 17/06/2025 y ningún llamado concreto abierto, por lo que su vigencia actual es incierta.
+  - Aclaracion: Consultas: Atención al Público, tel. 2411 1766 o 2412 6977 (int. 100-105), rrhhatencionalpublico@gmail.com.
+- **ANEP - Funcionarios docentes (recursos, normativa y formularios para docentes)** (sin verificar, verificada 2 veces) https://www.anep.edu.uy/llamados
+  - Que es: Docentes de ANEP. Sección de consulta: autogestión, recibos de sueldo, certificaciones médicas, presentismo, acumulación de horas, tabla de remuneraciones, normativa y acuerdos salariales. Útil para entender cómo se paga y se acumulan horas, no para postularse.
+  - Requisitos: sin datos; definidos en las bases de cada llamado. Entre los llamados administrativos y de auxiliar hay cargos de ingreso que no parecen exigir formación docente, pero no se verificaron las bases.
+  - Pago o beneficio: sin datos (la página enlaza a «Tabla de remuneración» y «Acuerdos Salariales», no consultadas)
+  - Plazo o ciclo: Información permanente; no es un llamado. Los llamados abiertos de ANEP se publican en https://www.anep.edu.uy/llamados (21 llamados vistos en la primera página, sin fechas visibles).
+  - Como postular: https://sis3.anep.edu.uy/LlamadosyConcursos/servlet/ingreso
+  - Lectura automatica posible: no
+  - Aclaracion: Es una sección de consulta (formularios, normativa, acuerdos salariales, tabla de remuneración, acumulación de horas, autogestión de funcionarios); no describe inscripción ni tiene llamados.
+  - Aclaracion: La ruta de postulación real es la página de Llamados y el Sistema de Inscripción a Llamados y Concursos.
+  - Aclaracion: Entre los llamados listados en /llamados hay administrativos Grado 2 en Montevideo, administrativos en Lavalleja y Artigas, auxiliares Grado 1 en Durazno, técnico sanitario en Artigas, técnico en instalaciones eléctricas en Treinta y Tres, referentes socioeducativos, intérprete de Lengua de Señas y secretario administrativo en Río Negro, cada uno con sus propias bases.
+  - Aclaracion: No se vieron fechas de cierre.

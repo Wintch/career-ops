@@ -1,0 +1,75 @@
+# Industria, fabricas y mantenimiento
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **OSE - Oportunidades laborales (sorteos y concursos)** (abierta o vigente, verificada 2 veces) https://www.ose.com.uy/oportunidades-laborales
+  - Que es: Público general en los sorteos (por ejemplo peón zafral y transporte con chofer); concursos externos para otros cargos.
+  - Requisitos: No figuran en esta página; están en las bases de cada llamado. Hay cupos reservados en Peón Zafral (al menos 18 afrodescendientes y 3 personas trans). Datos de contacto de OSE: info@ose.com.uy y (+598) 1952.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: CE 0007/26 Peón Zafral: 225 puestos de peón a nivel nacional, del 02/12/2026 al 01/04/2027; inscripción web desde el 19/10/2026 (según las bases); estado Abierto, etapa Inicio; sorteos por localidad publicados (titulares y suplentes: población general, trans y afrodescendientes). Otros llamados abiertos en el listado: CE 0008/26 Operador/a, CE 0005/26 Oficial B, CE 0006/26 Odontólogo/a, UE 0001-26 Ayudante de Ingeniería I y un servicio de transporte con chofer.
+  - Como postular: https://www.ose.com.uy/oportunidades-laborales/concursos-externos
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: La fecha del sorteo de Peón Zafral difiere entre fuentes: un comunicado del 09/11/2026 lo fijaba para el 12/11/2026 y la tabla de concursos externos muestra el 18/11/2026; esa edición no admite nuevas postulaciones.
+  - Aclaracion: 'Transporte con chofer' es una contratación de servicio de transporte (convocatoria al sorteo del 17/11/2026, con pliego), no un empleo en relación de dependencia.
+  - Aclaracion: La página de portada solo muestra el menú; el detalle de los llamados está en 'Concursos externos' y en la noticia de resultados del sorteo.
+  - Aclaracion: Duplica en parte la fuente de concursos externos de OSE.
+- **Montes del Plata - Trabajá con nosotros (Novedades #ofertas)** (abierta o vigente, verificada 2 veces) https://www.montesdelplata.com.uy/espanol/novedades-7
+  - Que es: Postulantes a puestos de planta industrial, cosecha forestal y vivero en Colonia, Río Negro, Paysandú y zonas cercanas. Declara que recibe postulaciones de personas inscriptas en el Registro Nacional de Personas con Discapacidad (Ley 19.691) que cumplan los requisitos.
+  - Requisitos: Operadoras/es de cosecha forestal: ciclo básico de secundaria completo, residir en la localidad del puesto (Young o Paysandú), licencia de conducir (Young), libreta H en etapa avanzada de selección, turnos rotativos. Técnicos de planta e ingeniería: título o formación técnica afín, residir en la zona de Colonia o estar dispuesto a mudarse. Encargada/o de vivero: formación técnica y experiencia coordinando equipos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Cinco avisos sin año: Técnicos de Planta y Planificación Logística (Punta Pereira, Colonia) hasta el 25 de octubre; Operadoras/es de cosecha forestal en Young (Río Negro) y Paysandú hasta el 3 de marzo; Encargada/o de Vivero (Fray Bentos y/o Mercedes) hasta el viernes 5 de diciembre. La postulación es por formulario con CV (.doc, .docx o .pdf). Requisitos de cosecha: básico completo, residir en la localidad, Libreta H posterior a la selección.
+  - Como postular: https://www.montesdelplata.com.uy/espanol/novedades-7?postulacion=trabaja-con-nosotros#ofertas
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: El formulario general no está descrito como de postulación continua: cada aviso se postula eligiendo el llamado en un desplegable y tiene su propio vencimiento.
+  - Aclaracion: Los vencimientos se muestran sin año; el 'viernes 5 de diciembre' coincide con el calendario de 2025 (el 5/12/2026 es sábado), por lo que el aviso de Encargada/o de Vivero probablemente esté vencido.
+  - Aclaracion: Las tarjetas de los avisos no enlazan a postulaciones individuales, y el aviso de Young está dirigido a mujeres.
+  - Aclaracion: Conviene confirmar con la empresa los vencimientos antes de postularse.
+- **Minerva Foods Uruguay - portal de empleo (Gupy)** (abierta o vigente, verificada 2 veces) https://minervafoods-uruguay.gupy.io/
+  - Que es: Postulantes a puestos de la industria frigorífica en Uruguay. El portal ofrece además un banco de talentos para quien no encuentre una vacante adecuada.
+  - Requisitos: sin datos (sin avisos publicados; el banco de talentos no detalló requisitos en la lectura)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año mediante banco de talentos. El 2026-11-23 el portal mostraba '0 vagas encontradas' (sin vacantes publicadas).
+  - Como postular: https://minervafoods-uruguay.gupy.io/
+  - Lectura automatica posible: Gupy ofrece páginas de vacantes por empresa; no se verificó ninguna API.
+  - Aclaracion: El portal está en portugués (Gupy).
+  - Aclaracion: No se obtuvo una URL directa para el banco de talentos; se accede desde la propia página.
+  - Aclaracion: Al no haber avisos publicados, no se verificaron pago ni requisitos.
+- **Conaprole - Trabaja con nosotros** (sin verificar, verificada 1 vez) https://www.conaprole.uy/
+  - Que es: Personas interesadas en trabajar en la industria láctea (plantas, logística, administración). Los perfiles concretos no se pudieron verificar.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página respondió HTTP 403 a la lectura automatizada y no se pudo ver ningún aviso ni formulario.
+  - Como postular: https://arearrhh.conaprole.com.uy/postulaciones/wp000.aspx
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: No se pudo ver ningún aviso ni formulario, ni confirmar si la recepción de currículum es continua.
+  - Aclaracion: El enlace 'Trabaja con nosotros' es el oficial: el sitio conaprole.uy lo enlaza a esta dirección y el dominio conaprole.com.uy redirige allí.
+- **UPM - People & careers (búsqueda de empleos)** (sin verificar, verificada 1 vez) https://www.upm.com/careers/
+  - Que es: Candidatos a puestos de UPM en el mundo, con filtro por país; la página menciona Uruguay y programas para inicio de carrera.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.upm.com/careers/
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: No se vio ningún aviso concreto de Uruguay ni los detalles de los programas de inicio de carrera.
+  - Aclaracion: No se debe asumir la existencia de avisos hasta verlos publicados.
+- **INEFOP - Cursos, Yo Estudio y Trabajo y bolsa de trabajo** (sin verificar, verificada 1 vez) https://www.inefop.org.uy/
+  - Que es: Personas que buscan trabajo o formación. La portada indica cursos, el programa 'Yo Estudio y Trabajo' y una bolsa de trabajo; sin detalles de público destinatario.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.inefop.org.uy/
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: La portada carga su contenido por JavaScript y no permitió confirmar ningún curso, convocatoria, programa 'Yo Estudio y Trabajo' ni bolsa de trabajo.
+  - Aclaracion: Las subrutas probadas (/Cursos, /Bolsa-de-trabajo, /Inicio) devolvieron 'Documento no encontrado'.
+  - Aclaracion: Se recomienda verificar manualmente en el sitio oficial.
+- **Zonamerica - portal con sección de empleo** (sin verificar, verificada 1 vez) https://zonamerica.com/
+  - Que es: Personas interesadas en trabajar en empresas instaladas en la zona franca. Según la lectura el portal tiene un acceso a empleo, pero no se vieron empresas ni perfiles; el parque es sobre todo de servicios.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se pudo confirmar que exista una sección de empleo ni avisos; /trabaja-con-nosotros y /en/ devolvieron HTTP 404.
+  - Aclaracion: No corresponde listarlo como fuente de empleo hasta ubicar la página oficial de empleo.

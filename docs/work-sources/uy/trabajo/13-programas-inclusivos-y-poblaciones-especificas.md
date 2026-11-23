@@ -1,0 +1,125 @@
+# Programas inclusivos y poblaciones especificas
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **MIDES - DINALI: Dirección Nacional de Apoyo al Liberado (bolsa laboral y capacitación)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-desarrollo-social/politicas-y-gestion/amplia-equipo-trabajo-apoyo-dinali
+  - Que es: Personas adultas que egresan del sistema penitenciario. El pre-egreso se trabaja en unidades del INR con personas a seis meses de salir; luego se las recibe en DINALI (Montevideo) o en las Oficinas Territoriales del MIDES (interior).
+  - Requisitos: Adultos que egresan del sistema penitenciario. Los equipos técnicos contactan a las personas unos seis meses antes de la libertad; después de egresar, se puede concurrir a las oficinas de DINALI o a las Oficinas Territoriales del MIDES en el interior, donde se asigna un referente técnico. No se exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no informa; las pasantías y los empleos dependen de cada empresa)
+  - Plazo o ciclo: Abierto todo el año (derivación continua). Nota institucional del 19/05/2023; no se confirmó una actualización posterior.
+  - Como postular: Derivación por el sistema penitenciario o consulta en oficinas de DINALI u Oficinas Territoriales del MIDES; teléfono general 2400 0302
+  - Lectura automatica posible: ninguno
+  - Aclaracion: El ingreso a la bolsa laboral ocurre durante la etapa de Capacitación y Empleo, que incluye talleres de preparación laboral y pasantías.
+  - Aclaracion: La empresa decide la contratación a partir de los currículos que envía DINALI; puede encuadrarse en la Ley 19.973, con beneficios para el empleador.
+  - Aclaracion: La página no lista teléfono ni correo propios de DINALI, solo los generales del MIDES (18 de julio 1453, 2400 0302).
+- **MIDES - Programa Uruguay Clasifica (clasificadores de residuos sólidos urbanos)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-desarrollo-social/politicas-y-gestion/programa-uruguay-clasifica
+  - Que es: Personas clasificadoras de residuos y sus grupos organizados (Ley 19.829), en 16 departamentos.
+  - Requisitos: La página no especifica requisitos. Está dirigido a personas clasificadoras de residuos y a sus grupos organizados.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No paga salario. Ofrece capacitación y asistencia técnica a grupos de clasificadores, acompañamiento para inserción en prácticas educativo-laborales y trabajo formal, acceso a derechos y derivaciones a otros organismos.
+  - Plazo o ciclo: Abierto todo el año por contacto o derivación (no hay convocatoria con fechas).
+  - Como postular: mailto:clasifica@mides.gub.uy
+  - Lectura automatica posible: ninguno
+  - Aclaracion: La página no describe un procedimiento de inscripción ni requisitos formales; la vía de acceso es una consulta, no una postulación.
+  - Aclaracion: Contacto: clasifica@mides.gub.uy, tel. 2400 0302, 18 de Julio 1453, Montevideo.
+  - Aclaracion: El programa deriva a servicios del MIDES, el Ministerio de Ambiente, el MTSS e INEFOP.
+- **Registro laboral de personas con discapacidad (CNHD / MIDES)** (abierta o vigente, verificada 2 veces) https://apps2.mides.gub.uy/RPDWeb/html/home.xhtml
+  - Que es: Personas con discapacidad de 15 años o más que buscan empleo público (cupo de 4 %) o privado (Ley 19.691).
+  - Requisitos: Cédula de identidad; pasar la valoración de discapacidad. Otros documentos y requisitos de elegibilidad: sin datos (no figuran en la página). Según el MTSS: más de 15 años y un grado de discapacidad de al menos 33 %.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica (es un registro, no un empleo)
+  - Plazo o ciclo: La autopostulación figura disponible; la página no informa fechas, ventanas ni cierres. Solicita cédula y número de seguimiento para consultar el trámite.
+  - Como postular: https://apps2.mides.gub.uy/RPDWeb/html/home.xhtml
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un registro de personas con discapacidad, no una bolsa de empleo: la inscripción es el requisito para acceder a los cupos del 4 % en el Estado y en empresas privadas.
+  - Aclaracion: Tras la autopostulación, un equipo técnico contacta a la persona para la valoración de la discapacidad (virtual para quienes viven en el interior).
+  - Aclaracion: La página no declara expresamente que esté abierta en cualquier momento ni lista criterios de elegibilidad.
+- **Trabajadores extranjeros en Uruguay: contratación bajo dependencia (migrantes y solicitantes de refugio)** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/contratacion-trabajadores-extranjeros-bajo-regimen-dependencia-laboral
+  - Que es: Personas migrantes y solicitantes de refugio que quieren trabajar en relación de dependencia, y sus empleadores.
+  - Requisitos: Persona migrante, solicitante de residencia o de refugio. Sin cédula uruguaya, alcanza un certificado vigente (6 meses desde su emisión) de la Dirección Nacional de Migración o de la Secretaría Permanente de la Comisión de Refugiados. No existe 'permiso de trabajo': la residencia habilita a trabajar. No exige experiencia ni título.
+  - Pago o beneficio: No aplica: no es un empleo ni un programa; las personas extranjeras tienen los mismos derechos y obligaciones que las nacionales.
+  - Plazo o ciclo: Abierto todo el año (régimen permanente; sin convocatoria ni fechas)
+  - Como postular: https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/contratacion-trabajadores-extranjeros-bajo-regimen-dependencia-laboral
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una página informativa del MTSS fechada 20/12/2021, no una oferta de trabajo ni una fuente de vacantes.
+  - Aclaracion: Cada empleador registra a la persona en BPS y en BSE.
+  - Aclaracion: Consultas: formulario web del MTSS, 0800 7171 (MTSS) o 1997 (BPS); Juncal 1511, lunes a viernes de 9:00 a 16:00.
+- **Cooperativas Sociales (MIDES): trabajo asociativo para personas en vulnerabilidad** (abierta o vigente, verificada 2 veces) https://www.gub.uy/ministerio-desarrollo-social/politicas-y-gestion/es-funciona-cooperativa-social
+  - Que es: Personas en vulnerabilidad social, desocupadas o con trabajo irregular, o que sostienen un emprendimiento sin protección legal. Hasta 25 % de los socios pueden no estar en vulnerabilidad.
+  - Requisitos: Grupo de al menos 5 personas, en vulnerabilidad social, sin trabajo o con trabajo irregular, o con emprendimientos sin protección legal (hasta 25% de socios pueden ser de hogares no vulnerables). Proyecto viable y sostenible. Luego: declaración jurada de ingresos del hogar, curso básico de cooperativismo, inscripción en el Registro Nacional de Cooperativas Sociales (MIDES) y en el del MEC. No exige experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Las personas socias perciben el salario fijado por el Consejo de Salarios del sector. No hay subsidio directo; sí exoneración legal de tributos nacionales (incluidos aportes patronales y FONASA) y posibilidad de contratación directa con el Estado hasta el monto máximo de licitación abreviada (TOCAF).
+  - Plazo o ciclo: Abierto todo el año: no hay fechas de convocatoria; se inicia con un correo al programa. Página actualizada el 04/12/2025.
+  - Como postular: mailto:coopsociales@mides.gub.uy
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una vía para formar una cooperativa de trabajo, no una oferta de empleo individual.
+  - Aclaracion: Marco legal: Ley 18.407 y Decreto 183/018.
+  - Aclaracion: Se inicia por correo a coopsociales@mides.gub.uy; teléfono 2400 0302 int. 1763/64.
+- **MIDES - Accesos (programa socioeducativo laboral, Ley 19.996)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.gub.uy/ministerio-desarrollo-social/accesos
+  - Que es: Personas de 18 a 64 años en situación de vulnerabilidad socioeconómica que participan en programas del MIDES o consultaron por empleo en Oficinas Territoriales (integrantes de hogares beneficiarios de TUS o AFAM-PE). Alcance nacional, 3.000 personas por edición; cupos por ley: 8% afrodescendientes, 4% discapacidad, 2% trans. Foco en mujeres y jóvenes.
+  - Requisitos: Tener entre 18 y 64 años; situación de vulnerabilidad socioeconómica; ser derivado desde un programa del MIDES o una Oficina Territorial (hogares con TUS o AFAM-PE que hayan consultado por empleo en los últimos 12 meses). Cupos por ley: 8% afrodescendientes, 4% personas con discapacidad, 2% personas trans. No se exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Prestación equivalente a un Salario Mínimo Nacional durante la práctica de 7 meses.
+  - Plazo o ciclo: Sin convocatoria ni inscripción pública. Ingreso por derivación de dispositivos del MIDES u Oficinas Territoriales. La página no indica edición ni año.
+  - Como postular: https://www.gub.uy/ministerio-desarrollo-social/politicas-y-gestion/preguntas-frecuentes-sobre-accesos
+  - Lectura automatica posible: ninguno
+  - Aclaracion: La página no menciona una edición ni un año, por lo que no está confirmado que haya una edición 2026 en curso.
+  - Aclaracion: Incluye una práctica de 7 meses en una institución pública con capacitación certificada y atención de salud bucal y oftalmológica por ASSE.
+  - Aclaracion: La segunda fase es una bolsa de trabajo con vigencia de 12 meses, de la que las empresas madrinas pueden contratar.
+  - Aclaracion: Consultas: 2400 0302, 18 de julio 1453.
+- **ONSC - Cupo del 4% para personas con discapacidad en el ingreso al Estado (Ley 18.651, art. 49)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.gub.uy/oficina-nacional-servicio-civil/comunicacion/publicaciones/procedimiento-para-ingreso-personas-discapacidad-estado
+  - Que es: Personas con discapacidad que postulan a puestos del Estado: los organismos deben ocupar al menos 4% de los puestos a llenar con personas con discapacidad.
+  - Requisitos: Estar inscripto en el Registro de Personas con Discapacidad del MIDES (art. 486, Ley 19.924), con la inscripción hecha antes del cierre del llamado; cumplir el perfil de cada cargo. No se exige experiencia más allá de lo que pida cada llamado.
+  - Pago o beneficio: Según el cargo del llamado (escala salarial del Estado)
+  - Plazo o ciclo: Permanente: aplica a cada llamado público de organismos del Estado. La página es del 18/06/2020 y no tiene fechas de llamados.
+  - Como postular: Cada llamado público del Estado (portal Uruguay Concursa u organismo convocante); inscripción previa en el Registro de Personas con Discapacidad del MIDES
+  - Lectura automatica posible: ninguno
+  - Aclaracion: No es un llamado en sí: indica que cada llamado público debe reservar el cupo.
+  - Aclaracion: La página describe el procedimiento para el organismo que llama, con aprobación de las bases por la Subcomisión de Trabajo de la CNHD en 60 días, y quien se inscribe indica sus apoyos en un formulario.
+  - Aclaracion: La página no menciona certificado de discapacidad, solo la inscripción en el registro.
+  - Aclaracion: Contacto de la CNHD: cnhd.institucional@gmail.com, 2402 6403.
+- **Ley 19.691: cupo del 4 % en empresas privadas con 25 o más trabajadores permanentes** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/programas/promocion-del-trabajo-para-personas-discapacidad
+  - Que es: Personas con discapacidad que buscan empleo en el sector privado; también empleadores con 25 o más trabajadores permanentes.
+  - Requisitos: Inscripción en el Registro Nacional de Personas con Discapacidad; más de 15 años y grado de discapacidad de al menos 33 %, determinado por un equipo de valoración.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (el salario depende de cada empleo)
+  - Plazo o ciclo: Régimen permanente: cupo del 4 % vigente desde el 18/11/2021 (vigente para nuevas contrataciones desde el 18/11/2018). No es un llamado con fechas.
+  - Como postular: https://apps2.mides.gub.uy/RPDWeb/html/home.xhtml
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es un empleador ni una bolsa de trabajo: el camino para quien busca empleo es inscribirse en el Registro Nacional de Personas con Discapacidad (CNHD/MIDES).
+  - Aclaracion: El cupo obliga al empleador en los nuevos ingresos; la página no muestra fecha de última actualización.
+  - Aclaracion: Beneficio: hasta 3 meses al año de licencia extraordinaria sin goce de sueldo vinculada a la discapacidad.
+  - Aclaracion: Consultas: secretarialeyinclusionlaboral@mtss.gub.uy; tel. (+598) 1928 o 2915 2020; call center 08007171; Juncal 1511, Montevideo, lunes a viernes de 9:00 a 16:00.
+- **Cupo laboral para personas afrodescendientes en el Estado (Ley 19.122)** (sin verificar, verificada 1 vez) https://www.gub.uy/oficina-nacional-servicio-civil/afrodescendencia
+  - Que es: Personas afrodescendientes que se postulan a llamados públicos.
+  - Requisitos: Declaración jurada de pertenencia a la población afrodescendiente al postularse a un llamado público; cumplir los requisitos del llamado concreto. Otros criterios: sin datos.
+  - Pago o beneficio: sin datos (la del cargo concreto)
+  - Plazo o ciclo: Régimen legal permanente (Ley 19.122, art. 4, y Decreto 144/014); no se vio un llamado abierto ni fechas.
+  - Como postular: https://www.uruguayconcursa.gub.uy/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no detalla porcentaje, requisitos ni fechas; el 8 % figura en la página de Accesos (MIDES).
+  - Aclaracion: No se confirmó un canal de postulación continuo en Uruguay Concursa.
+  - Aclaracion: Contacto ONSC: Plaza Independencia 710, tel. 150, lunes a viernes de 9:00 a 17:00.
+- **Cupo laboral para personas trans en el Estado (Ley 19.684, Ley Integral para Personas Trans)** (sin verificar, verificada 1 vez) https://www.gub.uy/oficina-nacional-servicio-civil/genero-diversidad
+  - Que es: Personas trans que se postulan a cargos públicos.
+  - Requisitos: sin datos (no figuran en la página; ver ley, decreto y guía enlazados allí)
+  - Pago o beneficio: sin datos (la del cargo concreto)
+  - Plazo o ciclo: Régimen legal permanente (Ley 19.684 y Decreto 104/019); no se vio un llamado abierto ni fechas.
+  - Como postular: https://www.uruguayconcursa.gub.uy/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página solo enumera la ley, el decreto reglamentario y la guía; no explica requisitos, cómo postularse ni fechas.
+  - Aclaracion: El cupo del 2 % figura en la página de Accesos (MIDES).
+  - Aclaracion: No se confirmó un canal de postulación continuo en Uruguay Concursa.
+  - Aclaracion: Contacto ONSC: Plaza Independencia 710, tel. 150, lunes a viernes de 9:00 a 17:00.
+- **Programa Ruralidad (MIDES): integración laboral y productiva en localidades rurales** (sin verificar, verificada 1 vez) https://www.gub.uy/ministerio-desarrollo-social/politicas-y-gestion/programa-ruralidad
+  - Que es: Asalariados rurales y productores familiares de zonas rurales del interior, sobre todo en localidades de menos de 2.000 habitantes, con énfasis en mujeres y jóvenes.
+  - Requisitos: Personas de localidades del interior, mayormente de menos de 2.000 habitantes, en situación de vulnerabilidad: asalariados rurales y productores familiares, con énfasis en mujeres y jóvenes. No se listan otros requisitos formales.
+  - Pago o beneficio: sin datos (el programa brinda asistencia técnica y capacitación; no se indica pago ni subsidio)
+  - Plazo o ciclo: Sin convocatoria ni fechas. Programa vigente; página actualizada el 04/12/2025.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no describe un trámite de postulación y no se confirmó una vía de acceso abierta.
+  - Aclaracion: Líneas del programa: horticultura, ovinos, pesca artesanal y comercialización en circuitos cortos, ferias y compras públicas.
+  - Aclaracion: Contacto: equiporuralidad@mides.gub.uy; teléfono 2400 0302; 18 de Julio 1453, Montevideo.

@@ -1,0 +1,66 @@
+# Comercio y supermercados
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Supermercados Disco, Devoto y Geant (Grupo Disco Uruguay): formulario de empleo** (abierta o vigente, verificada 2 veces) https://institucional.disco.com.uy/shared//formempleo/form_empleo2018.php
+  - Que es: Cualquier persona que busque empleo en supermercados: reposición, cajas, carnicería, frutas y verduras, rotisería, panadería, fiambrería, seguridad y centros de distribución. El pie de página de Devoto y el de Geant llevan a este mismo formulario.
+  - Requisitos: No se exige experiencia: la página indica que se capacita ("no importa si tenés experiencia"). No se declara edad mínima ni nivel educativo. El formulario pide cédula de identidad uruguaya, fecha de nacimiento y domicilio; permite subir foto, CV (PDF/DOC/DOCX) y certificados de hasta tres cursos (no se aclara qué adjuntos son obligatorios). Incluye una sección de inclusión laboral (Ley 19.691, personas con discapacidad).
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: formulario de postulación general sin fecha de cierre ni vacantes puntuales publicadas.
+  - Como postular: https://institucional.disco.com.uy/shared//formempleo/form_empleo2018.php
+  - Lectura automatica posible: no
+  - Aclaracion: Devoto aparece solo como una de las sociedades del grupo que tratarán los datos, y Géant no se menciona en el formulario.
+  - Aclaracion: El nombre de archivo del formulario (form_empleo2018) es antiguo, pero el formulario está activo.
+  - Aclaracion: El formulario pide el departamento de domicilio e incluye la opción "Otro país".
+  - Aclaracion: No se aclara qué adjuntos son obligatorios.
+- **Ta-Ta (Grupo Vierci Uruguay): portal de empleo** (abierta o vigente, verificada 2 veces) https://grupovierci.uy/empleo/
+  - Que es: Personas que busquen trabajo en supermercados Ta-Ta (reposición, cajas, depósito y otras áreas de tienda). Es una de las mayores cadenas de supermercados del país.
+  - Requisitos: No se listan requisitos en la página. La postulación es por búsqueda de vacantes (palabra clave, ubicación, solo remoto) o por envío de CV.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Portal permanente y vía de postulación abierta: en la lectura no se vio ninguna vacante publicada, pero la página invita a dejar el currículum por formulario ("¡Dejanos tu currículum!").
+  - Como postular: https://grupovierci.uy/empleo/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es el portal de empleo de Grupo Vierci Uruguay (división Retail) y no es exclusivo de Ta-Ta; Ta-Ta aparece como una de las marcas del grupo.
+  - Aclaracion: No se vieron vacantes publicadas, por lo que conviene revisar la página para confirmar si hay búsquedas vigentes.
+  - Aclaracion: El currículum se deja mediante un formulario Typeform.
+- **Macromercado Mayorista: solicitud de empleo** (abierta o vigente, verificada 2 veces) https://www.macromercado.com.uy/solicitud-empleo/
+  - Que es: Personas interesadas en atención al público, auxiliar de servicio, línea de cajas y elaboración en un autoservicio mayorista.
+  - Requisitos: No se declara edad mínima, estudios ni experiencia. Campos obligatorios marcados con asterisco (datos personales, nacionalidad, estado civil). Adjuntos en JPG, PNG o PDF (recomendado hasta 5 MB): foto carné, carné de salud, cédula, comprobante de domicilio y CV opcional; la página no marca los adjuntos como obligatorios. Pide además datos familiares, de vivienda, disponibilidad horaria, disposición a turnos rotativos y a mudarse.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: formulario permanente de 8 pasos, sin fecha de cierre.
+  - Como postular: https://www.macromercado.com.uy/solicitud-empleo/
+  - Lectura automatica posible: no
+  - Aclaracion: Los adjuntos (foto carné, carné de salud, cédula, comprobante de domicilio) no están marcados como obligatorios en la página; el CV es opcional.
+  - Aclaracion: El progreso guardado en el navegador no conserva los archivos adjuntos, que deben volver a cargarse.
+  - Aclaracion: No se vieron vacantes específicas ni salario.
+- **El Clon: trabaja con nosotros** (abierta o vigente, verificada 2 veces) https://www.elclon.com.uy/trabaja-con-nosotros
+  - Que es: Personas que busquen empleo en autoservicios: cajas, reposición, depósito, vigilancia, administración y encargado.
+  - Requisitos: No se listan requisitos. El formulario pide nombre, apellido, correo, teléfono, fecha de nacimiento, área de trabajo y CV adjunto. Áreas del menú: Administración, Vigilancia, Cajas, Reposición, Encargado, Depósito y Otros. No se declara si se exige experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: formulario permanente ("Dejanos tu CV y formá parte de nuestro equipo"), sin fecha de cierre ni vacantes puntuales.
+  - Como postular: https://www.elclon.com.uy/trabaja-con-nosotros
+  - Lectura automatica posible: no
+  - Aclaracion: El menú de áreas indica en qué sectores suele haber puestos, pero no confirma que haya vacantes en este momento.
+  - Aclaracion: Los datos de contacto de la página (0800 9958 y ventas@elclon.com.uy) corresponden a atención al cliente y no a un canal de selección declarado.
+- **Farmashop: Súmate al equipo (Harvie)** (sin verificar, verificada 1 vez) https://heyharvie.com/jobs-organization/farmashop
+  - Que es: Personas que busquen trabajo en farmacias: atención al público y ventas en sucursal, además de otros perfiles que se publiquen.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos: la página de Harvie se cargó sin contenido legible (solo el título "Harvie"), por lo que no se pudieron ver vacantes ni fechas.
+  - Como postular: https://heyharvie.com/jobs-organization/farmashop
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El enlace es oficial: figura como "¡Súmate al equipo!" en el pie de página de tienda.farmashop.com.uy.
+  - Aclaracion: La página de Harvie se carga con JavaScript y no mostró contenido legible, por lo que no se pudieron ver vacantes ni fechas.
+  - Aclaracion: No se halló otra página de empleo de Farmashop.
+- **Tienda Inglesa: Trabaja con nosotros** (sin verificar, verificada 1 vez) https://www.tiendainglesa.com.uy/trabajaconnosotros
+  - Que es: Personas que busquen empleo en supermercados: cajas, reposición, atención al cliente, panadería y carnicería, entre otros.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos: la página respondió HTTP 403 a la lectura automática y no se pudo ver su contenido.
+  - Como postular: http://www.tiendainglesa.com.uy/com.imasdev.hanoi.trabajaconnosotros
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El contenido de la página no pudo comprobarse directamente porque respondió HTTP 403 a la lectura automática.
+  - Aclaracion: La ruta corta tiendainglesa.com.uy/trabajaconnosotros redirige a esta URL, lo que sugiere que es la página oficial de empleo.
+  - Aclaracion: Hay publicaciones de la empresa en LinkedIn e Indeed, pero son fuentes de terceros y no confirman el formulario.

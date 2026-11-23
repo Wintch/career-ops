@@ -1,0 +1,99 @@
+# Cerradas, no elegibles o inaccesibles
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+Se dejan listadas para no volver a investigarlas.
+
+- **Integra Empleo (plataforma pública de empleo del MTSS)** (no cargo) https://www.integraempleo.gub.uy/home
+  - Plazo o ciclo: Abierta de forma continua (plataforma permanente), según la descripción oficial del MTSS; no verificado en el sitio mismo.
+  - Aclaracion: El sitio integraempleo.gub.uy no cargó por un error de certificado (self signed certificate), posiblemente transitorio.
+  - Aclaracion: Su existencia consta en la página oficial del MTSS, que enlaza a esta URL; los requisitos de registro, costos y avisos vigentes no pudieron verse.
+- **Vía Trabajo (información, orientación, capacitación e intermediación laboral)** (no cargo) https://viatrabajo.mtss.gub.uy/viatrabajoweb/servlet/inicio
+  - Plazo o ciclo: Servicio permanente según el MTSS; no verificado en el sitio mismo.
+  - Aclaracion: El sitio viatrabajo.mtss.gub.uy no cargó por un error de certificado (self signed certificate).
+  - Aclaracion: Su existencia consta en la página oficial del MTSS en gub.uy, que enlaza a esta URL; no se pudieron ver requisitos, registro ni avisos vigentes.
+- **UdelaR - Concursos (portal de concursos de la Universidad de la República)** (no cargo) https://www.concursos.udelar.edu.uy/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El servidor respondió HTTP 403 a lecturas automatizadas y la variante sin www falla por certificado, por lo que su contenido no está verificado.
+  - Aclaracion: No se conoce ningún llamado abierto ni ciclo; se mantiene como referencia oficial probable de la Universidad de la República.
+- **CFE - Consejo de Formación en Educación (carreras de Magisterio, Profesorado y otras)** (no cargo) https://www.cfe.edu.uy/
+  - Plazo o ciclo: sin datos (ciclo anual no verificado)
+  - Aclaracion: El sitio presentó el error de certificado 'unable to verify the first certificate' tanto en www.cfe.edu.uy como en cfe.edu.uy.
+  - Aclaracion: No se vio ninguna fecha de inscripción 2026 ni 2027, y el ciclo anual no está confirmado.
+- **Intendencia de Canelones - Llamados laborales (operario/a, oficinista, guardavidas)** (no cargo) https://www.imcanelones.gub.uy/
+  - Plazo o ciclo: No verificado. Según la información previa, hay llamados varias veces al año y guardavidas es zafral anual (inscripción 21/09 al 05/10/2026, ya cerrada).
+  - Aclaracion: No se pudo confirmar ningún llamado abierto ni sus requisitos, y no hay evidencia de un llamado abierto al 23/11/2026.
+  - Aclaracion: El PDF de bases de abril 2026 (llamado 03/2026) probablemente está cerrado, por lo que no corresponde listarlo como llamado puntual.
+- **Alorica Uruguay (Aguada Park, Montevideo): avisos de call center en BuscoJobs y Computrabajo** (no cargo) https://alorica.pandape.computrabajo.com
+  - Plazo o ciclo: sin datos
+  - Aclaracion: No se confirmó la existencia de avisos vigentes ni su antigüedad.
+  - Aclaracion: Los datos de la empresa provienen de avisos publicados en bolsas de empleo, no de un sitio propio verificado.
+- **ANDE, Agencia Nacional de Desarrollo (Uruguay Emprendedor, IPE VIN, portal de postulación)** (no cargo) https://ande.org.uy
+  - Plazo o ciclo: sin datos. No verificado directamente.
+  - Aclaracion: Fuente no verificada directamente: los programas, requisitos y fechas vigentes no se confirmaron.
+  - Aclaracion: La existencia de ANDE y de su portal de postulación se corrobora solo de forma indirecta, por las páginas de ANII y de República Microfinanzas.
+- **Workana: plataforma freelance de Latinoamérica (no verificada directamente)** (no cargo) https://www.workana.com/es
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El sitio bloqueó la lectura automatizada, por lo que la información sobre la plataforma no está verificada directamente.
+  - Aclaracion: No se comprobaron el registro, las comisiones ni la disponibilidad para Uruguay.
+- **Convenio MIDES - IDPE: inclusión socioeducativa y laboral (cursos por derivación)** (no elegible) https://www.gub.uy/ministerio-desarrollo-social/node/14030
+  - Plazo o ciclo: sin datos. Convenio firmado el 30/05/2023 (expediente N.º 0751-2023); no se informan fechas de cursos, duración ni convocatorias, y no hay inscripción directa.
+  - Aclaracion: No se confirmó la vigencia actual del convenio.
+  - Aclaracion: El convenio es con Instituto de Desarrollo SAS (IDPE) y está vinculado al Plan Estratégico 2026-2030 de la División Socioeducativa.
+- **Uruguay Impulsa: trabajo y capacitación (programa de inserción laboral)** (cerrada) https://www.gub.uy/uruguay-impulsa-trabajo-y-capacitacion
+  - Plazo o ciclo: Cerrado. La segunda edición tuvo inscripción del 1 al 10 de junio de 2026 y sorteo el 22 de junio de 2026 (5.524 cupos en 268 localidades; 136.822 inscriptos, 121.798 habilitados). Trabajo y capacitación de julio a octubre de 2026. Primera edición en 2025. No se vio anuncio de una tercera edición; las ediciones se crean por ley (Ley 20.496 para la de 2026), por lo que no hay ciclo anual garantizado.
+  - Aclaracion: La página de INEFOP está desactualizada: menciona un sorteo del 22 de junio sin indicar el año.
+  - Aclaracion: La URL oficial correcta del programa es la de gub.uy, que enlaza la inscripción como "inscripciones cerradas".
+- **UTE - Concursos** (cerrada) https://ute.com.uy/institucional/ute/concursos
+  - Plazo o ciclo: No hay llamado vigente visible al 2026-11-23. El último que se encontró (llamado para 32 administrativos, grado 11) se publicó el 30/07/2026 y la inscripción cerró el 4/08/2026 a las 16:00. No hay evidencia de un ciclo fijo; UTE abre concursos de forma irregular.
+  - Aclaracion: La página oficial no muestra llamados; UTE abre concursos de forma irregular, por lo que conviene revisarla periódicamente.
+  - Aclaracion: La portada de UTE tiene una noticia del 20/11/2026, 'Mujeres Electricistas', sobre inclusión laboral de mujeres en situación de vulnerabilidad, sin confirmación de que sea una convocatoria.
+- **SNIC – Certificación de competencias en cuidados (ELEPEM)** (cerrada) https://www.gub.uy/sistema-cuidados/comunicacion/comunicados/llamado-para-certificacion-competencias-cuidados-para-centros-larga-0
+  - Plazo o ciclo: Llamado del 15/10/2026 al 15/11/2026, cerrado al 23/11/2026; la página lo presenta como un llamado nuevo de 2026 y no indica si se repite.
+  - Aclaracion: No es una vía individual: postula el establecimiento mediante formulario en línea (formularios.mides.gub.uy/229974).
+  - Aclaracion: El llamado alcanza hasta 200 personas en total y cada centro puede postular hasta cinco trabajadores.
+- **ANEP - Oportunidades (CODICEN, DRIC)** (cerrada) https://www.anep.edu.uy/codicen/dric/oportunidades
+  - Plazo o ciclo: Todos los plazos vistos ya vencieron al 2026-11-23 (el más tardío: 31/10/2026, Programa Kusanone de la Embajada de Japón). Sin ciclo anual verificado.
+  - Aclaracion: Es de la Dirección de Relaciones Internacionales y Cooperación y reúne becas, convocatorias a proyectos educativos y eventos internacionales (VIU, Experiencias Educativas Innovadoras, Reachingu, BAYLAT, COALAR, Kusanone, UNESCO Jóvenes por la Paz, Beca Colombia); no ofrece empleo ni formación abierta al público general.
+  - Aclaracion: La revisión abarcó solo la primera página de resultados (10 ítems).
+- **Intendencia de Maldonado - Llamados laborales** (cerrada) https://www.maldonado.gub.uy/Llamados_Laborales
+  - Plazo o ciclo: El único llamado listado ('IDM convoca a aspirantes para cubrir futuras necesidades en el Escalafón Administrativo') cerró el 21/11 de 2025, no de 2026: la noticia de modificación del plazo está fechada el 18/11/2025. No hay otro llamado abierto en la página al 23/11/2026 y no se vio evidencia de una repetición.
+  - Aclaracion: La página solo muestra un llamado de 2025, restringido a ex becarios y pasantes de la propia Intendencia, por lo que al 23/11/2026 no sirve como puerta de entrada general.
+  - Aclaracion: Ese llamado cerró en 2025.
+- **Intendencia de Montevideo - Aspirantes a permisarios de transporte en vehículos privados por plataformas (sorteo)** (cerrada) https://tramites.montevideo.gub.uy/print/pdf/node/48148
+  - Plazo o ciclo: Inscripciones cerradas por el momento (ficha modificada el 03/11/2026, descargada el 23/11/2026); sin fecha de próximo llamado
+  - Aclaracion: La ficha indica textualmente que 'las inscripciones están cerradas por el momento' y no informa fecha del próximo llamado ni ciclo anual.
+  - Aclaracion: Quien sea sorteado y notificado dispone de un máximo de 90 días corridos para cumplir todos los requisitos; si no lo hace, es eliminado de la lista.
+- **Correo Uruguayo - Portal de inscripciones a llamados (Administración Nacional de Correos)** (cerrada) https://inscripciones.correo.com.uy/web/
+  - Plazo o ciclo: Sin llamado habilitado al 2026-11-23; el único llamado listado tuvo inscripción del 01/12/2025 al 31/12/2025
+  - Aclaracion: Solo figura un llamado externo, Gerente de División Infraestructura Tecnológica, con el mensaje 'El llamado no está habilitado en este momento'.
+  - Aclaracion: Es un cargo gerencial, no de ingreso general.
+- **INR - Llamado 7165/2026: Operador Penitenciario Grado 1 (223 plazas, todo el país)** (cerrada) https://www.gub.uy/ministerio-interior/comunicacion/convocatorias/71652026-operador-penitenciario-grado-1
+  - Plazo o ciclo: Inscripción del 05/08/2026 al 26/08/2026; la página figura No Vigente. No se vio evidencia de un nuevo llamado ni de ciclo anual fijo.
+  - Aclaracion: Son 223 vacantes (o las que se generen) del Escalafón S Penitenciario, Operador Penitenciario I, Grado 1, para unidades de internación del país.
+  - Aclaracion: La recurrencia mencionada en la descripción original no pudo verificarse.
+- **Dirección Nacional de Bomberos - Llamado a Bomberos zafrales (150 cargos, temporada 2026-2027)** (cerrada) https://www.gub.uy/ministerio-interior/comunicacion/convocatorias/81202026-bombero-zafral-temporada-2026-2027-varias-localidades
+  - Plazo o ciclo: Inscripción del 25/09/2026 al 11/10/2026, ya cerrada; la página de bases figura No Vigente (con documentos hasta 19/10/2026). La recurrencia anual (ediciones previas) no se pudo verificar: la búsqueda quedó sin cupo y las páginas leídas solo muestran la edición 2026-2027. Por su naturaleza zafral (temporada diciembre-marzo) podría repetirse hacia setiembre, pero no está confirmado.
+  - Aclaracion: La noticia dice 'diciembre de 2026 hasta marzo de 2026', lo que parece un error por marzo de 2027.
+  - Aclaracion: Las pruebas físicas son excluyentes (1500 m, flexiones, plancha, barra, entre otras).
+- **Dirección General de Casinos (MEF) - Llamados Fiscal III (Casinos del Estado)** (cerrada) https://www.gub.uy/ministerio-economia-finanzas/comunicacion/convocatorias/llamado-concurso-publico-abierto-oposicion-meritos-hasta-treinta-tres-33
+  - Plazo o ciclo: Llamado Fiscal III (hasta 33 cargos): inscripción del 13/03/2026 al 30/03/2026, estado "No Vigente", con Acta N.° 8 - Fallo final publicada. El segundo llamado citado (concurso 7631/2026, 18/08 al 01/09/2026, 12 cargos) no se pudo verificar en esta página ni por búsqueda (se agotó el cupo de búsquedas). No hay llamado abierto verificado al 23/11/2026.
+  - Aclaracion: El llamado de Fiscal III de marzo está vencido y ya resuelto.
+  - Aclaracion: El segundo llamado citado (concurso 7631/2026) no pudo verificarse.
+- **Mujeres en el Sector Tecnologías de la Información (MTSS, CUTI, INEFOP)** (cerrada) https://www.gub.uy/ministerio-trabajo-seguridad-social/politicas-y-gestion/mujeres-sector-tecnologias-informacion
+  - Plazo o ciclo: Sin convocatoria visible; página fechada 15/08/2022 y único archivo adjunto de setiembre de 2022. Nada indica una nueva edición.
+  - Aclaracion: Se considera cerrado salvo que el MTSS informe una nueva edición.
+  - Aclaracion: Proyecto del MTSS con CUTI, gobiernos departamentales e INEFOP (cofinanciación UE-AUCI), con formación en el puesto con tutor de empresa.
+- **Ley de Promoción del Empleo N.º 19.973 (subsidios a empresas que contratan a ciertos grupos)** (cerrada) https://www.impo.com.uy/bases/leyes/20506-2026
+  - Plazo o ciclo: No vigente en su mayor parte: la Ley N.º 20.506 (26/06/2026), art. 34, derogó los artículos 1 a 28 y 36 a 50 de la Ley 19.973
+  - Aclaracion: La Ley 20.506 derogó casi todos los artículos de la Ley 19.973, por lo que esta ya no es la referencia vigente.
+  - Aclaracion: La nueva ley crea subsidios para empleadores privados que contraten a jóvenes de 15 a 29 años, madres jefas de hogar solas, mayores de 45, afrodescendientes, personas con discapacidad, personas trans y personas privadas de libertad o liberadas, de hasta 80% del salario mensual con tope de 3,7 BPC por contratación.
+- **Línea de créditos subsidiados para monotributistas sociales (MIDES, ANDE y República Microfinanzas)** (cerrada) https://www.gub.uy/ministerio-desarrollo-social/comunicacion/comunicados/mil-monotributistas-sociales-seran-beneficiados-subsidios-para-impulsar
+  - Plazo o ciclo: Edición 2025 cerrada: postulaciones del 20 de octubre al 3 de noviembre de 2025 (lanzamiento el 21 de octubre). No se anunció una nueva edición; repetición irregular.
+  - Aclaracion: Se prioriza a personas con historial en programas del MIDES y hay cupo de género para mujeres.
+  - Aclaracion: No se anunció una nueva edición y la repetición del llamado es irregular.
+- **Primera experiencia laboral en temporada turística (Inefop y MTSS)** (cerrada) https://www.gub.uy/ministerio-trabajo-seguridad-social/comunicacion/noticias/empleo-juvenil-en-temporada-turistica
+  - Plazo o ciclo: Nota del 11/01/2018 sobre la segunda edición (contrataciones del 1 de noviembre al 31 de marzo). No se vio ninguna edición posterior ni evidencia de que el programa siga vigente.
+  - Aclaracion: La página es una noticia de 2018 y no hay evidencia actual de una convocatoria; no conviene listarla como oportunidad vigente.
+  - Aclaracion: El trámite lo realiza la empresa mediante un formulario en viatrabajo.mtss.gub.uy; la persona joven no se postula por esta vía, y el subsidio del 25% del salario va a la empresa.
