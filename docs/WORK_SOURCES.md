@@ -14,6 +14,7 @@ This is a catalog of sources, not a promise that the scanner can read them. `doc
 | Brazil | Artists and musicians: federal, state and municipal grants and calls, public jobs and teaching, residencies, platforms (Portuguese) | [`work-sources/br/artes-musica.md`](work-sources/br/artes-musica.md) | [`work-sources/br/artes-musica.json`](work-sources/br/artes-musica.json) |
 | Chile | Work of any kind, by category (Spanish; SENCE, OMIL, Bolsa Nacional de Empleo, Empleos Publicos, ChileValora) | [`work-sources/cl/trabajo/`](work-sources/cl/trabajo/README.md) (one file per category) | [`work-sources/cl/trabajo.json`](work-sources/cl/trabajo.json) |
 | Mexico | Work of any kind, by category (Spanish; Servicio Nacional de Empleo, STPS programs, CONOCER, Jovenes Construyendo el Futuro, employer portals) | [`work-sources/mx/trabajo/`](work-sources/mx/trabajo/README.md) (one file per category) | [`work-sources/mx/trabajo.json`](work-sources/mx/trabajo.json) |
+| Venezuela | Work of any kind, by category (Spanish; INCES, CIEA, Gaceta Oficial calls, delivery and ride apps, remote platforms, routes for working abroad; many sites are down or blocked, so a third of the rows are unverified, and fraud warnings are kept in the notes) | [`work-sources/ve/trabajo/`](work-sources/ve/trabajo/README.md) (one file per category) | [`work-sources/ve/trabajo.json`](work-sources/ve/trabajo.json) |
 
 More categories and countries are added as separate files under `docs/work-sources/{country}/`. The Markdown is written in the language of the country; this index is in English.
 

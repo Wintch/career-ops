@@ -1,0 +1,65 @@
+# Industria, fabricas y mantenimiento
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **CIEA Aragua - Oportunidades de empleo (empresas industriales afiliadas)** (abierta o vigente, verificada 2 veces) https://ciea.org.ve/trabajos/empleos/
+  - Que es: Personas con formación técnica u operativa que buscan vacantes en plantas industriales del estado Aragua. Al consultarse (2026-11-23), la página mostraba cinco vacantes de una sola empresa, Mini Bruno Sucesores, C.A. (Turagua, Santa Cruz, Aragua): Supervisor de Producción, Operador de Calderas, Jefe de Seguridad y Salud en el Trabajo, Inspector de Seguridad y Salud Laboral y Mecánico de Planta Junior.
+  - Requisitos: Varía por cargo: desde bachiller industrial con mecánica hasta título universitario; algunos cargos exigen registro INPSASEL. No hay cargos sin requisito de formación en la lista vista.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Continuo; la lista decía 'actualizada al 5 de noviembre de 2026'; sin fecha de cierre
+  - Como postular: https://ciea.org.ve/trabajos/empleos/
+  - Lectura automatica posible: No. Página HTML sin API ni feed visible.
+  - Aclaracion: Las cinco vacantes son presenciales y de una sola empresa; se postula directamente por correo o WhatsApp de la empresa, con copia a empleo@ciea.org.ve, y no a través de la CIEA.
+  - Aclaracion: La oferta de la página es pequeña y cambia según lo que publiquen las empresas.
+  - Aclaracion: La página no trae advertencia contra fraudes ni pide pagos; se debe desconfiar de cualquier cobro por postularse y confirmar la oferta con la empresa antes de enviar documentos personales.
+- **CIEA Aragua - Banco de Recursos Humanos** (abierta o vigente, verificada 2 veces) https://ciea.org.ve/trabajos/banco-rrhh/
+  - Que es: Cualquier persona con una profesión u oficio que quiera quedar en una base de datos de perfiles que la cámara usa para cubrir vacantes en empresas industriales de Aragua, incluidos oficios de planta.
+  - Requisitos: CV en PDF (máx. 2 páginas), cédula, profesión u oficio, cargos de interés. No se menciona edad, título ni experiencia mínima.
+  - Pago o beneficio: sin datos (no ofrece pago; conecta con empleadores)
+  - Plazo o ciclo: abierto todo el año (sin fecha de cierre)
+  - Como postular: mailto:empleo@ciea.org.ve
+  - Lectura automatica posible: No.
+  - Aclaracion: Es una bolsa de perfiles: no garantiza entrevistas ni empleo.
+  - Aclaracion: No se indica restricción de residencia y el trámite se hace por correo.
+  - Aclaracion: No debe pagarse por figurar en el banco.
+- **Talent.com Venezuela - ofertas industriales (operario, mantenimiento, planta)** (abierta o vigente, verificada 2 veces) https://ve.talent.com/jobs?k=operario+de+produccion
+  - Que es: Quien busque vacantes de planta en empresas con operación en Venezuela. Al consultarse (2026-11-23) aparecían: Operador de Sala de Máquinas (C.A. Cervecería Regional, Cagua, Aragua), Operador Montacargas (Essity, San Cristóbal), Técnico Electromecánico (fritz, Barquisimeto), Operario de Línea (Alfonzo Rivas & Cía, Caracas), Operario de Alimentos Procesados Aprendiz (Gama Supermercados, Caracas), Pasante de Producción y Pasante de Seguridad Industrial (Mondelēz International, Valencia y Barquisimeto), Especialista de Instrumentación Industrial (Nestlé, Maracay), Especialista de Aseguramiento de la Calidad (Pharmetique Labs Venezuela, Guacara).
+  - Requisitos: Varía por oferta; algunas son de nivel aprendiz o pasantía (por ejemplo Gama Supermercados). Requisitos específicos: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Continuo, sin cierre propio; 16 ofertas vistas, actualizadas entre hace 5 días y más de 30 días.
+  - Como postular: https://ve.talent.com/jobs?k=operario+de+produccion
+  - Lectura automatica posible: No. HTML sin API pública visible.
+  - Aclaracion: Es un agregador, no un empleador: cada oferta redirige a la publicación original, y la vigencia debe verificarse en el sitio del empleador antes de postularse.
+  - Aclaracion: Los resultados mezclan cargos no operativos, duplicados, ofertas antiguas y ofertas de otros países (al menos una de México), por lo que no debe presentarse como una lista de ofertas industriales.
+  - Aclaracion: Las fechas relativas observadas van de 5 días a más de 30 días.
+  - Aclaracion: Se debe desconfiar de cualquier oferta que pida pagos o depósitos.
+- **Conindustria - Directorio de afiliados (cámaras regionales y sectoriales)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.conindustria.org/miembros-activos/
+  - Que es: Quien quiera ubicar cámaras industriales de su región o gremios sectoriales para preguntar por bolsas de empleo, censos industriales o empresas afiliadas.
+  - Requisitos: Ninguno: es un directorio de consulta. Cada empresa o cámara define sus propios requisitos.
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: Directorio permanente; no es una convocatoria. No se vio fecha de actualización.
+  - Como postular: https://www.conindustria.org/miembros-activos/
+  - Lectura automatica posible: No.
+  - Aclaracion: Es solo un directorio de consulta: no publica vacantes ni recibe hojas de vida.
+  - Aclaracion: Hay que contactar a cada cámara o a las empresas afiliadas por separado.
+- **Mini Bruno Sucesores, C.A. - sección de empleo** (sin verificar, verificada 1 vez) https://www.minibruno.com/es/
+  - Que es: Personas con perfil técnico o profesional para planta de procesamiento (producción, calderas, mecánica, seguridad industrial). La empresa declara estar "continuamente en busca de personal capacitado".
+  - Requisitos: No publicados. Solo se menciona «personal capacitado» sin detalles.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fecha visible. El sitio dice «continuamente en busca de personal capacitado», pero no publica vacantes, fechas ni requisitos.
+  - Como postular: https://www.minibruno.com/es/index.php?option=com_contact&view=contact&id=1&Itemid=78
+  - Lectura automatica posible: No.
+  - Aclaracion: La frase sobre búsqueda continua de personal es una declaración general, no un proceso de postulación verificable.
+  - Aclaracion: No se vio ningún formulario, correo ni vacante de empleo; la página de contacto solo muestra teléfonos de planta (+58-212-434-5074, +58-212-434-4946, +58-243-200-2300) y un formulario, sin contacto de recursos humanos.
+  - Aclaracion: El sitio es un Joomla antiguo con enlaces de spam en el pie de página, lo que invita a la cautela.
+  - Aclaracion: No deben pagarse cuotas ni adelantos para ser contratado.
+- **Fundación Empresas Polar - Capacitación y Emprendimiento** (sin verificar, verificada 1 vez) https://fundacionempresaspolar.org/comunitario/capacitacion
+  - Que es: Personas y organizaciones comunitarias interesadas en capacitación y emprendimiento. No es bolsa de empleo ni ofrece colocación.
+  - Requisitos: No publicados en la página. Hay talleres de oficios que no parecen exigir experiencia previa, pero no está confirmado.
+  - Pago o beneficio: No se indica costo ni pago
+  - Plazo o ciclo: sin datos. La página no publica fechas de inicio, inscripción ni convocatorias abiertas.
+  - Como postular: https://fundacionempresaspolar.org/contacto
+  - Lectura automatica posible: No.
+  - Aclaracion: No es una bolsa de empleo ni ofrece colocación: es una fuente de capacitación, no de empleo ni de subsidios.
+  - Aclaracion: La página no indica requisitos, costo, pasos de inscripción ni convocatorias vigentes; la sección Contacto (/contacto) sería el lugar para consultar.

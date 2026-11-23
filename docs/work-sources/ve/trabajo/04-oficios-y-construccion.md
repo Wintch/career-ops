@@ -1,0 +1,76 @@
+# Oficios y construccion
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **INCES - Instituto Nacional de Capacitación y Educación Socialista (portal oficial)** (abierta o vigente, verificada 2 veces) https://www.inces.gob.ve
+  - Que es: Cualquier persona interesada en formarse en oficios, incluidas quienes no tienen experiencia ni título. La oferta de construcción incluye albañil, ayudante de albañil, carpintero, instalador de revestimientos, montador de prefabricados y tabiquería ligera, instalador de materiales de impermeabilización y ayudante de artesano constructor de edificaciones de tierra. También figura fabricación de muebles. Electricidad, plomería y soldadura no aparecieron en la página principal.
+  - Requisitos: El portal no publica requisitos, edad ni documentos. No se indica experiencia previa (sin datos).
+  - Pago o beneficio: Formación; no se publica beca ni pago (sin datos).
+  - Plazo o ciclo: Abierto todo el año (inscripción permanente por perfil; sin fechas de cierre; noticias del portal fechadas 18-21 de noviembre de 2026).
+  - Como postular: https://hacer.inces.gob.ve
+  - Lectura automatica posible: Ninguno visto (sin API ni feed).
+  - Aclaracion: La página de inscripción hacer.inces.gob.ve solo mostró una animación de carga, por lo que sus requisitos no están confirmados.
+  - Aclaracion: La página no declara expresamente que la inscripción sea permanente, aunque no muestra fechas de cierre.
+  - Aclaracion: No se debe pagar a intermediarios por cupos.
+- **INCES - Campus virtual (formación online)** (abierta o vigente, verificada 2 veces) https://campus.inces.edu.ve/
+  - Que es: Personas con acceso a internet que prefieran formarse en línea; se desconocen los cursos concretos de oficios.
+  - Requisitos: Tener más de 14 años. No exige experiencia ni título. Se necesita dispositivo con internet y organizar el tiempo para cada curso. Cédula de identidad para recuperar acceso.
+  - Pago o beneficio: Cursos de competencias digitales gratuitos; costo de los demás: sin datos. No es un empleo ni paga salario; entrega certificado.
+  - Plazo o ciclo: abierto todo el año (inscripción en línea 24/7; los certificados se envían al terminar el trimestre en curso)
+  - Como postular: https://campus.inces.edu.ve/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El dominio es campus.inces.edu.ve, distinto del inces.gob.ve del resto del instituto.
+  - Aclaracion: El costo de los cursos distintos a los de competencias digitales no se indica.
+  - Aclaracion: Para obtener certificado hay que cumplir los objetivos del programa, con nota mínima aprobatoria de 14 puntos.
+  - Aclaracion: No se debe pagar a terceros por cupos ni certificados; la inscripción se hace solo en el dominio oficial.
+- **INCES - Catálogo de oferta formativa** (sin verificar, verificada 2 veces) https://www.inces.gob.ve
+  - Que es: Personas que quieran ver qué áreas de formación existen antes de inscribirse. Se vieron 12 áreas, cada una con un PDF enlazado: Construcción, Automotriz, Agroalimentario, Banca y Finanzas, Industrial, Economía Comunal, Social y Socialista, Hidrocarburos, Industrias Básicas, Estratégicas y Socialistas, Farmacia, Telecomunicaciones e Informática, Turismo y Emprendimiento.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Catálogo de consulta; sin fechas ni vía de inscripción en la propia página.
+  - Como postular: https://hacer.inces.gob.ve
+  - Lectura automatica posible: PDF por área, enlazados desde la página; no se descargaron.
+  - Aclaracion: El pie de página indica copyright 2018, por lo que no se confirma que esté actualizado a 2026.
+  - Aclaracion: El encabezado «Perfiles Productivos» no tenía entradas, y la página no muestra cómo inscribirse, requisitos ni fechas.
+  - Aclaracion: La inscripción real se hace por el portal principal (hacer.inces.gob.ve).
+- **INCES - Mapa de sedes (Centros de Formación Socialista, CFS)** (sin verificar, verificada 1 vez) https://inces.gob.ve/mapa/
+  - Que es: Personas que quieran inscribirse o consultar presencialmente en la sede más cercana de su estado.
+  - Requisitos: sin datos (no se vieron requisitos en la página)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año (localizador de sedes; sin fechas)
+  - Como postular: https://inces.gob.ve/mapa/
+  - Lectura automatica posible: Ninguno visto.
+  - Aclaracion: Sirve como localizador de sedes, no como convocatoria; el texto no incluye direcciones, pasos de inscripción, fechas ni requisitos.
+  - Aclaracion: La formación del INCES es gratuita y no debe pagarse por cupos ni inscripciones.
+- **INCES - Portal de inscripción 'Hacer' (formación presencial)** (sin verificar, verificada 1 vez) https://hacer.inces.gob.ve/formaciones
+  - Que es: Cualquier persona que busque formación presencial en oficios. Según la portada de INCES, permite filtrar por programa (PNA, PFTP, PFF, PBP), estado y modalidad.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://hacer.inces.gob.ve/formaciones
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página solo mostró la palabra «Hacer» con una animación de carga, sin cursos, fechas ni requisitos.
+  - Aclaracion: No se confirmó qué ofrece ni si hay inscripción abierta; debe considerarse no verificada.
+  - Aclaracion: Para confirmar, se puede recurrir al mapa de sedes del INCES o a sus oficinas.
+- **INCES - Programa Nacional de Aprendizaje (PNA)** (sin verificar, verificada 1 vez) https://pna.inces.gob.ve/#/
+  - Que es: Probablemente jóvenes y personas que se inician en un oficio (aprendizaje con práctica en empresas); sin verificar.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página es un panel de administración («PnaAdmin») para usuarios con cuenta, no una convocatoria pública.
+  - Aclaracion: No describe el programa, los requisitos, la forma de postularse ni las fechas.
+  - Aclaracion: No debe presentarse como vía de inscripción abierta.
+- **INCES - Noticia: programa de formación para trabajadores de la construcción (Plan Nacional de Construcción)** (sin verificar, verificada 1 vez) https://inces.gob.ve/noticias/presidenta-e-anuncia-programa-de-formación-para-trabajadores-de-la-construcción/
+  - Que es: Trabajadores de la construcción, según el título de la noticia enlazada en la portada de INCES.
+  - Requisitos: Personas con formación o conocimiento previo en el oficio, o que quieran aprender un oficio. No se exige experiencia ni título según la nota. Posible acceso mediante Sistema Patria o postulación comunal (requisitos de cuenta Patria: sin datos).
+  - Pago o beneficio: sin datos (formación; no se indicó pago ni beca)
+  - Plazo o ciclo: Inscripción anunciada desde el 24 de agosto de 2026; sin fecha de cierre; vigencia actual no confirmada
+  - Como postular: https://inces.gob.ve/mapa/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un anuncio, no una convocatoria permanente; la nota no da fecha de cierre ni confirma que la inscripción siga abierta en noviembre, por lo que debe confirmarse con el INCES.
+  - Aclaracion: El programa arranca en la Gran Caracas y está vinculado al plan de reconstrucción Venezuela Renace.
+  - Aclaracion: Según la nota, se puede inscribir por el Sistema Patria, por postulación de la comuna o consejo comunal, o en las oficinas del INCES en todo el país.
+  - Aclaracion: La inscripción debe hacerse solo por Patria u oficinas del INCES, sin pagos a intermediarios.

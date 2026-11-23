@@ -1,0 +1,57 @@
+# Servicio domestico, limpieza, seguridad y edificios
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **IVSS - Empleadores y sistema TIUNA (inscripción de patronos y trabajadores)** (abierta o vigente, verificada 2 veces) https://www.ivss.gov.ve/empleador/quien-es
+  - Que es: Cualquier empleador, incluidas empresas de limpieza, vigilancia y administración de edificios, y quien contrate personal; sirve a la persona trabajadora para saber si su empleador debe inscribirla.
+  - Requisitos: No se listan documentos en la página. Solo indica acudir a la oficina administrativa del IVSS de la jurisdicción. Hay que informar cambios de actividad, representantes legales, dirección y cantidad de empleados.
+  - Pago o beneficio: No aplica (trámite de inscripción, no empleo).
+  - Plazo o ciclo: Trámite permanente; plazo de tres días hábiles desde el inicio de la actividad; sin fechas de convocatoria.
+  - Como postular: https://www.ivss.gov.ve/empleador/quien-es
+  - Lectura automatica posible: No se vio API ni RSS; solo páginas HTML.
+  - Aclaracion: La página no menciona el sistema TIUNA ni un proceso en línea; la única vía indicada es presencial, en la oficina del IVSS de la jurisdicción.
+  - Aclaracion: Es un trámite del empleador, no una oferta de empleo.
+  - Aclaracion: Ningún trámite oficial de seguridad social debería exigir pagos a intermediarios; ante un cobro dudoso conviene confirmar en la oficina del IVSS.
+- **IVSS - Ciudadanos: trámites del asegurado (continuación facultativa, pérdida de empleo, reposos)** (abierta o vigente, verificada 2 veces) https://www.ivss.gov.ve/ciudadano/tramites
+  - Que es: Trabajadores dependientes o independientes (incluido quien trabaja en limpieza, vigilancia o casas de familia) que quieren conocer o mantener su cobertura del Seguro Social.
+  - Requisitos: Pérdida involuntaria del empleo (página https://www.ivss.gov.ve/ciudadano/perdida-empleo): estar inscrito en el Régimen Prestacional de Empleo, tener al menos 52 cotizaciones en los 24 meses previos al despido y haber perdido el empleo por una causa legal. Documentos: cédula vigente, constancia de egreso, carta de despido (original y copia, con membrete, firmada y sellada), liquidación de prestaciones sociales (original y copia) y constancia de registro del Centro de Encuentro para la Educación y Trabajo con sello húmedo. Reposos: Certificado de Incapacidad (forma 14-73) y Comprobante de Consignación de Datos (forma 14-52) emitido por la empresa. Continuación facultativa: la página remite a https://www.ivss.gov.ve/ciudadano/continuidad-facultativa para los requisitos (esa página no se abrió).
+  - Pago o beneficio: Prestación dineraria temporal por pérdida involuntaria del empleo (monto no indicado en la página). Los reposos pagan indemnización diaria (monto: desconocido).
+  - Plazo o ciclo: Abierto todo el año. La solicitud de la prestación por pérdida involuntaria del empleo debe hacerse dentro de los 60 días continuos siguientes al fin de la relación laboral.
+  - Como postular: https://www.ivss.gov.ve/ciudadano/tramites
+  - Lectura automatica posible: No se vio.
+  - Aclaracion: La prestación por pérdida de empleo se solicita en cualquiera de los 48 Departamentos de Atención al Trabajador Cesante, ubicados en las oficinas administrativas del IVSS.
+  - Aclaracion: Los reposos se tramitan en el centro asistencial más cercano (Oficina de Prestaciones).
+  - Aclaracion: Las páginas de detalle parecen antiguas, por lo que conviene confirmar los requisitos y plazos en la oficina.
+  - Aclaracion: Los trámites oficiales no deberían requerir pagos a gestores externos.
+- **MPPRIJP - Empresas de seguridad privada y DIGESERVISP (regulador de la vigilancia privada)** (sin verificar, verificada 1 vez) https://www.mpprijp.gob.ve/servicios/empresas
+  - Que es: Quien quiera trabajar como vigilante o supervisor puede verificar que la empresa contratante esté autorizada; también orienta a empresas de vigilancia sobre su registro.
+  - Requisitos: Desconocido. La página no describe requisitos para trabajar en vigilancia privada ni para registrar empresas.
+  - Pago o beneficio: No aplica.
+  - Plazo o ciclo: Desconocido. No hay convocatoria ni ciclo de empleo en la página.
+  - Como postular: El menú del sitio enlaza los portales Digeservisp Web (http://190.202.15.211/digeservisp/public) y Digeservisp Gestión (http://190.202.15.211/digeservisp_gestion/public); la cuenta oficial en Instagram es https://www.instagram.com/digeservisp/?hl=es (perfil visible, con la historia destacada "REGISTRO MERCANT", contenido no leído).
+  - Lectura automatica posible: No se vio.
+  - Aclaracion: La sección de empresas de seguridad privada indica que actualmente no existe registro de empresas.
+  - Aclaracion: DIGESERVISP aparece solo como ente adscrito, con enlace a Instagram; los enlaces Digeservisp Web y Digeservisp Gestión apuntan a direcciones IP, no a un dominio oficial reconocible.
+  - Aclaracion: No contiene ofertas de empleo ni información de contratación, por lo que no debe presentarse como fuente de vacantes.
+  - Aclaracion: Conviene tratar con cautela cualquier enlace por dirección IP al ingresar datos personales.
+- **Corposervica - Corporación de Servicios de Vigilancia y Seguridad (MPPRIJP)** (sin verificar, verificada 1 vez) https://www.instagram.com/corposervicaoficial/?hl=es
+  - Que es: Personas interesadas en vigilancia de edificios, eventos y servicios de protección para clientes; empleador de seguridad física del sector público.
+  - Requisitos: Desconocido.
+  - Pago o beneficio: Desconocido.
+  - Plazo o ciclo: Desconocido. No se vio ninguna convocatoria de empleo.
+  - Como postular: https://www.instagram.com/corposervicaoficial/?hl=es
+  - Lectura automatica posible: No se vio.
+  - Aclaracion: Es un perfil de Instagram y no un sitio institucional; no se encontró una página web oficial.
+  - Aclaracion: No hay vacantes ni información de contratación; la única vía de contacto aparente es WhatsApp o mensaje directo, sin confirmación oficial de que se recluta por ahí.
+  - Aclaracion: Conviene desconfiar de quien pida dinero por un puesto.
+- **Asamblea Nacional - leyes vigentes (para ubicar la LOTTT y normas laborales)** (sin verificar, verificada 1 vez) https://www.asambleanacional.gob.ve/leyes/vigentes
+  - Que es: Quien quiera consultar la norma que regula el trabajo, incluido el trabajo en el hogar y en edificios.
+  - Requisitos: Ninguno. Es una consulta pública de leyes.
+  - Pago o beneficio: No aplica.
+  - Plazo o ciclo: Permanente (consulta de leyes). Sin convocatoria.
+  - Como postular: Consulta en línea: el listado tiene 49 páginas y filtros por materia "Laboral"; el buscador permite localizar la Ley Orgánica del Trabajo, los Trabajadores y las Trabajadoras (LOTTT).
+  - Lectura automatica posible: Páginas HTML paginadas (?page=N); sin API vista.
+  - Aclaracion: Solo se vio la primera de 49 páginas del listado (diez leyes con fechas de Gaceta entre julio de 2022 y febrero de 2023), y la LOTTT no aparece en ella.
+  - Aclaracion: Para ubicarla habría que usar el buscador de la página o recorrer las páginas siguientes.
+  - Aclaracion: No es una fuente de empleo.

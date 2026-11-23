@@ -1,0 +1,73 @@
+# Educacion y cuidado infantil
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **UCAB - Oportunidades de empleo (Talento UCAB)** (abierta o vigente, verificada 2 veces) https://talento.ucab.edu.ve/conectar/oportunidades-de-empleo/
+  - Que es: Personas que buscan empleo administrativo, técnico y de apoyo en una universidad privada (Caracas y Guayana). En la consulta del 2026-11-23 no se vio ninguna vacante docente, solo cargos administrativos y de apoyo.
+  - Requisitos: Varía por cargo: bachiller (seguridad, operador TI temporal, sin experiencia en este último) hasta licenciatura con 2 a 6 años de experiencia. Se postula con el formulario al final de la página, adjuntando el CV en PDF.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (página vista el 2026-11-23 con 12 vacantes, sin fecha de publicación ni de cierre).
+  - Como postular: https://talento.ucab.edu.ve/conectar/oportunidades-de-empleo/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Al momento de la consulta no había ninguna vacante docente, solo cargos administrativos y de apoyo.
+  - Aclaracion: El cargo de Oficial de Seguridad pide 2 años de experiencia en Caracas y 1 año en Guayana.
+  - Aclaracion: Conviene desconfiar de cualquier cobro por postularse y confirmar el cargo en el sitio oficial de la UCAB antes de enviar datos personales.
+- **UNIMET - Capital Humano (captación de personal)** (abierta o vigente, verificada 2 veces) https://www.unimet.edu.ve/capital-humano/quiero-trabajar-en-la-unimet/
+  - Que es: Personas interesadas en trabajar como docentes o personal administrativo en una universidad privada de Caracas.
+  - Requisitos: No publicados. Se pide CV y el registro en el formulario correspondiente (docente o administrativo).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (vía de postulación permanente por formulario y correo; no se vio lista de vacantes ni fechas de cierre).
+  - Como postular: https://www.unimet.edu.ve/capital-humano/quiero-trabajar-en-la-unimet/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una postulación espontánea: no se publican vacantes concretas, requisitos ni salarios.
+  - Aclaracion: Docentes: formulario de Google y CV a busquedasdocentes@unimet.edu.ve; administrativos: formulario de Google y CV a captacion_administrativos@unimet.edu.ve.
+- **Universidad Monteávila - Bolsa de trabajo** (abierta o vigente, verificada 2 veces) https://www.uma.edu.ve/bolsa-de-trabajo/
+  - Que es: Personas que buscan empleo administrativo y de apoyo estudiantil en una universidad privada de Caracas.
+  - Requisitos: No indicados en la página principal; revisar el 'Ver más' de cada cargo.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (el 2026-11-23 mostraba 2 vacantes sin fecha de publicación ni de cierre).
+  - Como postular: https://www.uma.edu.ve/bolsa-de-trabajo/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Ninguna de las dos vacantes publicadas es docente.
+  - Aclaracion: Los requisitos están en el enlace «Ver más» de cada oferta.
+  - Aclaracion: El formulario «Forma parte de la UMA», para procesos futuros, puede no ser visible para todos.
+- **USB - Quiero trabajar en la USB (Gestión del Capital Humano)** (sin verificar, verificada 1 vez) https://www.dgch.usb.ve/inicio/quiero-trabajar-en-la-usb
+  - Que es: Personas que buscan ingreso como personal administrativo u obrero en una universidad pública, y personal académico por la vía del concurso de credenciales.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.dgch.usb.ve/inicio/quiero-trabajar-en-la-usb
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es solo un punto de entrada con enlaces a las secciones Académico, Administrativo y Obrero; no muestra cargos concretos, fechas ni requisitos.
+  - Aclaracion: No se confirmó ningún concurso abierto. Contacto: dir-gch@usb.ve.
+- **URBE - Capital Humano (docentes y administrativos)** (sin verificar, verificada 1 vez) https://capitalhumano.urbe.edu/
+  - Que es: Personas interesadas en cargos docentes o administrativos en una universidad privada (Maracaibo).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página solo muestra el título «Capital Humano», sin vacantes, formulario, menú ni contacto; posiblemente su contenido se genera con scripts.
+  - Aclaracion: No se puede afirmar que haya vacantes ni cómo postularse.
+- **UPEL - Comunicados oficiales y Talento Humano** (sin verificar, verificada 1 vez) https://upel.edu.ve/
+  - Que es: Futuros docentes y docentes de educación formados o vinculados a la principal universidad pública de formación docente del país. Es el lugar probable para avisos de concursos y de ingreso, pero no se confirmó.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los comunicados vistos (15/01/2024, 23/01/2024, 26/04/2024 y 22/01/2026) no tienen contenido visible y ninguno parece tratar de contratación de personal.
+  - Aclaracion: Para ingreso de personal, conviene preguntar directamente a la Dirección General de Talento Humano.
+  - Aclaracion: No hay oferta confirmada.
+- **Fe y Alegría - red de escuelas y formación para el trabajo** (sin verificar, verificada 1 vez) https://www.feyalegria.org/contacto/
+  - Que es: Movimiento educativo de escuelas populares presente en varios países, incluida Venezuela, que emplea docentes y personal de apoyo. El sitio internacional no publica vacantes.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El sitio internacional no tiene sección de empleo, vacantes ni contenido específico de Venezuela; el único enlace venezolano visto es de donaciones.
+  - Aclaracion: La página de «Formación para el trabajo» no dice si opera en Venezuela ni da requisitos, fechas o forma de inscripción.
+  - Aclaracion: No se confirmó ninguna vía de empleo ni de formación en Venezuela.

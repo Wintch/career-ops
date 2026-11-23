@@ -1,0 +1,130 @@
+# Trabajo en el exterior
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Migración Colombia: Permiso por Protección Temporal (PPT)** (abierta o vigente, verificada 2 veces) https://www.migracioncolombia.gov.co/tramites-y-servicios/tramites-de-regularizacion/ppt
+  - Que es: Ciudadanos venezolanos que cumplan las condiciones del Estatuto Temporal de Protección para Migrantes Venezolanos (ETPV). Es un documento de identificación y regularización migratoria, no una oferta de empleo.
+  - Requisitos: Ser ciudadano venezolano que cumpla las condiciones del ETPV; formulario FUT; documento venezolano según el caso (cédula, pasaporte, permiso especial de permanencia o acta de nacimiento), en original en la cita; biometría. Dar autorización para trabajar no se detalló en la página vista.
+  - Pago o beneficio: No aplica. Expedición inicial sin costo según la página. Reexpedición: unos $19.000 COP (el resumen) o $20.000 COP ('Tarifa 2026' en la sección de duplicado); la página es inconsistente.
+  - Plazo o ciclo: Sin fecha límite; preregistro RUMV habilitado solo para menores escolarizados o en programas del ICBF; decisión en hasta 90 días calendario.
+  - Como postular: En línea o de forma presencial en Migración Colombia, mediante el FUT y el documento de identidad. Si la entidad pide documentos adicionales, hay 30 días para responder.
+  - Lectura automatica posible: Ninguno detectado (HTML).
+  - Aclaracion: La preinscripción en el RUMV está habilitada actualmente solo para niños y adolescentes vinculados a un colegio formal o a programas del ICBF; no se vio una vía abierta para adultos sin preinscripción previa.
+  - Aclaracion: La página no indica que el trámite sea permanente.
+  - Aclaracion: El trámite inicial es gratuito y no requiere intermediarios, por lo que cualquier cobro por el trámite inicial o por conseguir cita debe tomarse como señal de fraude.
+  - Aclaracion: La reexpedición o duplicado se paga por Efecty o con recibo de código de barras, y conviene confirmar el valor antes de pagar porque la página muestra dos tarifas.
+- **Migración Colombia: trámites de regularización para población venezolana** (abierta o vigente, verificada 2 veces) https://www.migracioncolombia.gov.co/tramites-y-servicios/tramites-de-regularizacion
+  - Que es: Venezolanos en Colombia que buscan regularizar su situación (PPT, PEP TUTOR, ETPV, RUMV).
+  - Requisitos: No se listan en esta página; ver la página de cada trámite.
+  - Pago o beneficio: No aplica (trámites migratorios).
+  - Plazo o ciclo: Permanente como página de índice; sin plazos ni estado vigente en esta página (cada trámite tiene su propia página).
+  - Como postular: Desde la página, entrar a la ficha del trámite correspondiente. Canales de denuncia por corrupción listados por la entidad: línea anticorrupción +57 300 913 39 91 y correo soytransparente@migracioncolombia.gov.co.
+  - Lectura automatica posible: Ninguno detectado.
+  - Aclaracion: Es una página de índice sin requisitos, plazos ni estado vigente; las condiciones cambian por resolución, por lo que debe verificarse la página específica de cada trámite.
+- **SERMIG Chile: Residencia Temporal** (abierta o vigente, verificada 2 veces) https://serviciomigraciones.cl/residencia-temporal/
+  - Que es: Extranjeros en 15 subcategorías, entre ellas actividades remuneradas, trabajadores de temporada, reunificación familiar, razones humanitarias, estudiantes e inversionistas. No es específico para venezolanos.
+  - Requisitos: Pasaporte vigente (al menos un año de vigencia si se solicita desde el exterior) o documento de identidad válido si se solicita en Chile; certificado de antecedentes penales o judiciales del país de origen o de los últimos cinco años (solo adultos, con no más de 60 días de antigüedad); foto reciente; documentos específicos por subcategoría; traducción oficial si no están en español o inglés; apostilla o legalización de documentos emitidos en el exterior; archivos en PDF.
+  - Pago o beneficio: No aplica. La página no indica aranceles; remite a 'Aranceles migratorios'. Pago vía Tesorería General de la República.
+  - Plazo o ciclo: Abierto todo el año (trámite permanente). Prórroga: solicitarla entre 90 y 10 días antes del vencimiento del permiso. Página actualizada el 16 de diciembre de 2025.
+  - Como postular: Mediante cuenta en el Portal de Trámites de SERMIG, desde Chile o desde el exterior.
+  - Lectura automatica posible: Ninguno detectado.
+  - Aclaracion: El certificado de residencia en trámite habilita a realizar actividades remuneradas mientras se resuelve la solicitud.
+  - Aclaracion: Si se solicita desde el exterior, hay 90 días desde la descarga del Estampado Electrónico para ingresar a Chile.
+- **SERMIG Chile: paso a paso de la habilitación laboral** (abierta o vigente, verificada 2 veces) https://serviciomigraciones.cl/conoce-el-paso-a-paso-del-tramite-de-habilitacion-laboral/
+  - Que es: Extranjeros que ya tienen un permiso de residencia o autorización vigente y necesitan acreditar ante un empleador que pueden trabajar.
+  - Requisitos: Cuenta personal en el Portal de Trámites con correo y contraseña; tener permiso de residencia vigente o autorización de trabajo; aceptar las condiciones. No se listan otros requisitos formales.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica. El trámite es gratuito, según la página.
+  - Plazo o ciclo: Abierto todo el año; anuncio publicado el 18 de agosto de 2026. Sin fecha límite ni vigencia del certificado indicadas.
+  - Como postular: Portal de Trámites Digitales, opción 'Consulta de Habilitación Laboral'; el sistema emite un comprobante con código QR al correo registrado. La página indica que se hace exclusivamente en esa plataforma.
+  - Lectura automatica posible: Ninguno detectado.
+  - Aclaracion: El trámite es exclusivamente en línea y emite un certificado con código QR para presentar a un empleador.
+  - Aclaracion: No sirve para quien aún no tiene ninguna situación migratoria regular en Chile.
+  - Aclaracion: Al ser gratuito, cualquier cobro por este trámite debe tomarse como señal de alerta.
+- **SERMIG Chile: portada y trámites** (abierta o vigente, verificada 2 veces) https://www.serviciomigraciones.cl/
+  - Que es: Cualquier extranjero que gestione permanencia transitoria, residencia temporal o definitiva, o nacionalidad en Chile.
+  - Requisitos: Varían según el trámite; ver la página de cada uno.
+  - Pago o beneficio: No aplica.
+  - Plazo o ciclo: Abierto todo el año. Reserva de hora presencial gratuita en todas las regiones (una hora a la vez).
+  - Como postular: Portal de Trámites de SERMIG; ayuda en ayuda.serviciomigraciones.cl (según la página).
+  - Lectura automatica posible: Ninguno detectado.
+  - Aclaracion: La portada avisa que se deben actualizar los datos de contacto en trámites pendientes.
+  - Aclaracion: Las noticias del 19 y 20 de noviembre de 2026 informan expulsiones y fiscalizaciones laborales a trabajadores extranjeros, por lo que conviene trabajar solo con situación migratoria regular y contrato.
+- **Gobierno de Brasil: Migraciones (DEMIG, autorización de residencia e imigração laboral)** (abierta o vigente, verificada 2 veces) https://www.gov.br/mj/pt-br/assuntos/seus-direitos/migracoes/autorizacao-de-residencia
+  - Que es: Extranjeros que gestionan residencia o trabajo en Brasil. La página no menciona a los venezolanos.
+  - Requisitos: Pasaporte o documento oficial vigente, foto 3x4 (fondo blanco), acta de nacimiento o matrimonio si el documento no muestra filiación, certificados de antecedentes penales de los últimos cinco años, declaración jurada de no tener antecedentes penales en el exterior; formulario de la Policía Federal; cita en la PF (sincreWeb) o presentación presencial. Categorías de trabajo, estudio e inversión se tramitan por MigranteWeb 2.0.
+  - Pago o beneficio: No es empleo. Tasas: R$ 168,13 por el trámite de autorización de residencia y R$ 204,77 por la emisión de la CRNM (la página indica que se pueden exonerar con declaración de bajos ingresos).
+  - Plazo o ciclo: Trámite permanente. Página actualizada el 23-07-2026; plazo estimado de 130 a 180 días corridos; sin fecha de cierre.
+  - Como postular: https://www.gov.br/mj/pt-br/assuntos/seus-direitos/migracoes/autorizacao-de-residencia
+  - Lectura automatica posible: Portal de legislación: portaldeimigracao.mj.gov.br (enlazado, no visitado).
+  - Aclaracion: Existe una vía de residencia temporal para nacionales de Venezuela, Guyana y Surinam que no corran riesgo para su vida o integridad si regresan, solicitable en cualquier puesto de la Policía Federal.
+  - Aclaracion: Algunas hipótesis, como la oferta de trabajo, se tramitan ante el ministerio por MigranteWeb 2.0, por lo que la vía depende del caso.
+  - Aclaracion: El tiempo estimado de trámite es de 130 a 180 días.
+  - Aclaracion: Se recomienda pagar únicamente mediante la boleta GRU oficial y no a intermediarios o gestores.
+- **R4V: Plataforma de Coordinación para Refugiados y Migrantes de Venezuela** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.r4v.info/es/
+  - Que es: Venezolanos refugiados y migrantes en 17 países de América Latina y el Caribe, y quienes busquen servicios en ellos.
+  - Requisitos: Ninguno para consultar la información. La asistencia de cada organización socia tiene sus propios criterios, que no se detallan en la página.
+  - Pago o beneficio: No aplica (no ofrece empleo ni pagos directos).
+  - Plazo o ciclo: Permanente; plan de respuesta anual (RMRP 2026 publicado el 2 de diciembre de 2025; actualizaciones de población y de tendencias de movimiento publicadas durante 2026, la más reciente vista: 2 de noviembre de 2026).
+  - Como postular: https://www.r4v.info/es/
+  - Lectura automatica posible: Ninguno detectado.
+  - Aclaracion: Es una plataforma de coordinación e información, no una bolsa de empleo; no ofrece ofertas laborales ni vía de postulación.
+  - Aclaracion: No se debe pagar nunca por una oferta, un trámite ni un cupo, y conviene verificar siempre en los canales oficiales de cada institución.
+- **R4V: sector de Integración socioeconómica** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.r4v.info/es/integracion
+  - Que es: Organizaciones y personas interesadas en empleo, emprendimiento, formación y reconocimiento de títulos para venezolanos en la región.
+  - Requisitos: No se indican requisitos de elegibilidad; la página señala que el estatus regular y la documentación son las principales barreras para acceder a trabajo formal.
+  - Pago o beneficio: No aplica.
+  - Plazo o ciclo: Permanente; plan de respuesta 2026. Documento destacado: Estrategia Regional de Integración Socioeconómica, fechada el 5 de mayo de 2026.
+  - Como postular: sin datos
+  - Lectura automatica posible: Documentos descargables en la plataforma.
+  - Aclaracion: Es un documento de referencia, no un canal de contratación; no contiene vías de postulación ni listados de empleo, solo contactos de coordinación (OIT y OIM).
+- **R4V: Trata y tráfico de personas (subsector regional)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.r4v.info/es/trataytraficodepersonas
+  - Que es: Personas venezolanas en tránsito o en destino que necesiten información sobre prevención de trata y tráfico.
+  - Requisitos: Ninguno para consultar los documentos.
+  - Pago o beneficio: No aplica.
+  - Plazo o ciclo: Permanente; documento reciente confirmado: Análisis Regional de Protección en América Latina y el Caribe, publicado el 14 de octubre de 2026.
+  - Como postular: sin datos
+  - Lectura automatica posible: Ninguno.
+  - Aclaracion: No ofrece empleo; es un subsector de coordinación (OIM, ONU Mujeres) dentro del sector de Protección.
+  - Aclaracion: Conviene desconfiar de ofertas que pidan pagos anticipados, retengan documentos o prometan traslado al exterior sin contrato verificable.
+  - Aclaracion: Se observó una inconsistencia en los enlaces de correo de dos contactos de ONU Mujeres, que deben verificarse antes de usarlos.
+- **R4V: permisos de residencia y estancia regular concedidos** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.r4v.info/es/permisos-residencia
+  - Que es: Quien quiera ver el panorama regional de regularización de venezolanos.
+  - Requisitos: No aplica.
+  - Pago o beneficio: No aplica.
+  - Plazo o ciclo: Cifra actualizada al 15 de mayo de 2026 (la página principal muestra una actualización con fecha 15 de febrero de 2026 para este indicador, por lo que la fecha exacta no es consistente).
+  - Como postular: sin datos
+  - Lectura automatica posible: Datos en la misma plataforma.
+  - Aclaracion: Es una página de estadísticas y dato de contexto, no una fuente para buscar empleo ni postular.
+  - Aclaracion: La cifra puede incluir permisos ya vencidos y personas con más de un permiso, y excluye permisos de turista y solicitudes de asilo.
+- **R4V Brasil y Operação Acolhida (interiorización)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.r4v.info/es/brazil
+  - Que es: Venezolanos que ingresan a Brasil por Roraima y desean regularizarse o ser reubicados voluntariamente (interiorización) en otras ciudades.
+  - Requisitos: No se detallan en la página. Para la interiorización, no se pudo confirmar requisitos desde esta fuente.
+  - Pago o beneficio: No aplica.
+  - Plazo o ciclo: Respuesta permanente. Cifras fechadas el 22 de julio de 2026 en la página: 661.566 con permiso de residencia, 151.817 refugiados reconocidos, 36.743 solicitudes de asilo, 792.147 total.
+  - Como postular: sin datos
+  - Lectura automatica posible: Panel interactivo de interiorización (no verificado).
+  - Aclaracion: No ofrece una vía concreta de postulación a empleo ni a interiorización; para eso hay que acudir a las organizaciones socias o a los canales del gobierno federal brasileño.
+  - Aclaracion: Operação Acolhida aparece solo como enlace al gobierno brasileño, sin detalle.
+  - Aclaracion: Las cifras enlazan a un PDF de febrero de 2026, por lo que los datos de fondo podrían ser anteriores a la fecha mostrada, y las categorías se superponen y no suman el total.
+- **VenInformado InfoPa'lante (Perú)** (sin verificar, verificada 1 vez) https://www.veninformado.pe/
+  - Que es: Venezolanos y otros migrantes en Perú que buscan información sobre calidades migratorias, PTP/CPP, empleo dependiente y emprendimiento.
+  - Requisitos: Ninguno indicado.
+  - Pago o beneficio: Gratuito (información y asesoría); no ofrece empleo.
+  - Plazo o ciclo: Activa desde 2018 (renombrada InfoPa'lante en 2023, integrada a la plataforma SignPost del IRC); la página muestra una imagen titulada 'en pausa' con archivo fechado el 13 de diciembre de 2024. La entrada de blog más reciente vista es de enero de 2023 y el mapa de servicios es de marzo de 2024.
+  - Como postular: sin datos
+  - Lectura automatica posible: Ninguno.
+  - Aclaracion: Se confirma que el sitio existe, pero no que el servicio esté activo al 23/11/2026: la página muestra una imagen 'en pausa' y los contenidos más recientes son de 2023-2024.
+  - Aclaracion: No es una bolsa de empleo y no se recomienda presentarlo como canal activo sin verificación.
+  - Aclaracion: El sitio enlaza una nota de alerta sobre fraudes a migrantes en Perú.
+- **INM México: Instituto Nacional de Migración** (sin verificar, verificada 1 vez) https://www.gob.mx/inm
+  - Que es: Extranjeros que tramiten residencia o permiso de trabajo en México.
+  - Requisitos: No confirmados desde esta fuente.
+  - Pago o beneficio: No aplica.
+  - Plazo o ciclo: Permanente (institución oficial), pero no se pudo confirmar ningún trámite concreto ni vigente para personas venezolanas.
+  - Como postular: https://www.gob.mx/tramites
+  - Lectura automatica posible: Ninguno.
+  - Aclaracion: La página solo describe la institución; no contiene requisitos, costos, permisos de trabajo ni advertencias de fraude, y no se confirma ningún trámite para personas venezolanas.
+  - Aclaracion: Los trámites deben buscarse en el portal de trámites de gob.mx o llamando a la línea 079.
+  - Aclaracion: Los trámites migratorios oficiales se hacen solo en gob.mx/inm y en oficinas del INM; se debe desconfiar de gestores que cobren por citas o prometan residencia.

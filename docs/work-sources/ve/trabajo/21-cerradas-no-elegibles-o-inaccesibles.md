@@ -1,0 +1,103 @@
+# Cerradas, no elegibles o inaccesibles
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+Se dejan listadas para no volver a investigarlas.
+
+- **Computrabajo Venezuela: ofertas de repartidor** (no cargo) https://ve.computrabajo.com/
+  - Plazo o ciclo: sin datos (no se pudo ver ningún aviso)
+  - Aclaracion: No se vio ningún aviso, empleador, fecha ni requisito, por lo que el ciclo declarado no está confirmado.
+  - Aclaracion: Es un portal general de avisos y cada empleador debe verificarse.
+- **Empresas Polar - Trabaja con nosotros** (no cargo) https://empresaspolar.com/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El sitio oficial respondió HTTP 403, por lo que no se confirma que exista un portal de empleo ni su dirección.
+  - Aclaracion: No deben pagarse cuotas ni adelantos por ofertas atribuidas a la empresa; se deben usar únicamente canales oficiales.
+- **SENIAT - RIF (registro tributario del empleador o trabajador independiente)** (no cargo) https://seniatenlinea.seniat.gob.ve/
+  - Plazo o ciclo: Desconocido. Se declara permanente, pero no se pudo comprobar.
+  - Aclaracion: El portal respondió HTTP 403 Forbidden, por lo que no se vio contenido sobre el RIF; es posible que bloquee clientes automatizados y funcione en un navegador normal.
+  - Aclaracion: El RIF es un trámite tributario gratuito en principio.
+- **Indeed Venezuela (búsquedas de vigilante, limpieza, conserje)** (no cargo) https://ve.indeed.com/
+  - Plazo o ciclo: Desconocido. No se vio ningún aviso.
+  - Aclaracion: La página respondió HTTP 403 Forbidden, por lo que no se vio ningún aviso.
+  - Aclaracion: Indeed es un agregador de avisos de otras fuentes y no un empleador; cada aviso debe confirmarse en la página del empleador.
+- **Ministerio del Trabajo (MPPST) - inspectorías y derechos laborales** (no cargo) https://www.mpppst.gob.ve/
+  - Plazo o ciclo: Desconocido. Se declara permanente, pero no se pudo comprobar.
+  - Aclaracion: El sitio devolvió HTTP 403 Forbidden, por lo que no se vio contenido sobre inspectorías del trabajo ni derechos laborales; conviene verificarlo en un navegador.
+  - Aclaracion: Para derechos laborales y denuncias, la vía institucional son las inspectorías del trabajo, aunque no se pudo confirmar en el sitio.
+- **Upwork - mercado de trabajo freelance** (no cargo) https://support.upwork.com/hc/en-us/articles/211062538-Service-fees
+  - Plazo o ciclo: sin datos
+  - Aclaracion: No se confirman tarifas, requisitos, disponibilidad para Venezuela ni procedimiento de registro; conviene revisar las condiciones vigentes y los países admitidos en el centro de ayuda oficial.
+  - Aclaracion: Advertencia general: desconfiar de quien pida pagar por «activar» una cuenta, compre o alquile perfiles verificados, o proponga pagos fuera de la plataforma.
+- **Fiverr - mercado de servicios (vendedor)** (no cargo) https://www.fiverr.com/pages/terms-of-service
+  - Plazo o ciclo: sin datos
+  - Aclaracion: No se confirman comisión, requisitos de vendedor, países admitidos ni métodos de retiro para Venezuela.
+  - Aclaracion: Advertencia general: desconfiar de ofertas que pidan dinero por «subir de nivel», comprar reseñas o cuentas, o que lleven la comunicación y el pago fuera de la plataforma.
+- **Bancaribe: Portal de Empleos «A Bordo»** (no cargo) https://abordo.bancaribe.com.ve/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El sitio presenta el error de certificado «unable to verify the first certificate» y no se confirma que sea el portal de empleo de Bancaribe.
+  - Aclaracion: No se confirman ciclo ni vacantes.
+- **Bancamiga: Únete a nuestro equipo** (no cargo) https://www.bancamiga.com/?p=7986
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El servidor responde HTTP 403 Forbidden a clientes automáticos, tanto en esta URL como en la página principal de bancamiga.com.
+  - Aclaracion: No se confirma que haya vacantes ni cómo se postula.
+- **Consorven - nota de La Patilla sobre barreras de acceso al empleo para personas con discapacidad (2024)** (no cargo) https://lapatilla.com/2024/10/23/consorven-las-personas-con-discapacidad-en-venezuela-encuentran-barreras-en-el-acceso-al-empleo/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: La página devolvió HTTP 403 en dos intentos, por lo que no se pudo confirmar su contenido ni la existencia de un programa de Consorven.
+  - Aclaracion: Es una nota de prensa de octubre de 2024, no una vía de postulación ni una fuente oficial.
+- **Ley para las Personas con Discapacidad (2006) - texto en la ONU (DESA)** (no cargo) https://social.desa.un.org/sites/default/files/migrated/15/2019/11/Venezuela_Law-for-Persons-with-Disabilities.pdf
+  - Plazo o ciclo: sin datos (se afirma ley permanente; no verificado)
+  - Aclaracion: El PDF devolvió HTTP 403 en dos intentos, así que su contenido, fecha y número de Gaceta no se confirmaron.
+  - Aclaracion: Es un texto legal, no una vía de empleo.
+- **Mercado Libre Venezuela: vender en línea** (no cargo) https://www.mercadolibre.com.ve/vender
+  - Plazo o ciclo: sin datos
+  - Aclaracion: La disponibilidad del servicio de venta en Venezuela, así como las comisiones y los requisitos, no está confirmada.
+  - Aclaracion: Se aconseja no pagar adelantos ni «membresías» a terceros que prometan activar cuentas de vendedor.
+- **Workana (plataforma freelance en español)** (no cargo) https://www.workana.com/es
+  - Plazo o ciclo: sin datos
+  - Aclaracion: La disponibilidad para residentes en Venezuela, el registro, las comisiones y los retiros no están verificados.
+  - Aclaracion: En plataformas freelance conviene desconfiar de clientes que piden pagar por adelantado para «desbloquear» proyectos o que sacan la comunicación fuera de la plataforma.
+- **Upwork (plataforma freelance global)** (no cargo) https://www.upwork.com/
+  - Plazo o ciclo: No verificado. Se declara abierto de forma permanente, pero no se pudo confirmar.
+  - Aclaracion: La disponibilidad para residentes en Venezuela, los requisitos y las comisiones no están confirmados.
+  - Aclaracion: Se debe tratar con cautela cualquier oferta que pida pagar por acceder a un trabajo o por «activar» una cuenta, pues una plataforma legítima no exige pagos adelantados.
+- **Fiverr (venta de servicios freelance)** (no cargo) https://www.fiverr.com/
+  - Plazo o ciclo: No verificado. Se declara abierto de forma permanente, pero no se pudo confirmar.
+  - Aclaracion: La disponibilidad para residentes en Venezuela, los requisitos y las comisiones no están confirmados.
+  - Aclaracion: Se debe desconfiar de quien pida pagos o comisiones fuera de la plataforma.
+- **ReliefWeb - Empleos (filtro Venezuela)** (no cargo) https://reliefweb.int/jobs
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El ciclo y los avisos no se pudieron confirmar, por lo que es una fuente no verificada.
+  - Aclaracion: Las organizaciones serias no piden pagos para contratar.
+- **Fedecámaras - Afiliación de cámaras y asociaciones regionales o sectoriales** (no elegible) https://fedecamaras.org.ve/afiliacion/
+  - Plazo o ciclo: No aplica: sin fechas; trámite permanente para organizaciones.
+  - Aclaracion: Es un trámite para cámaras y asociaciones regionales o sectoriales (personas jurídicas), no para personas que buscan empleo ni para emprendedores individuales.
+  - Aclaracion: Requiere planilla de afiliación o actualización de datos, carta firmada por el presidente de la entidad y los documentos del PDF de requisitos 2025, entregados en las oficinas o por correo.
+- **Teleperformance (TP) - Empleo y buscador de vacantes** (no elegible) https://www.tp.com/en-us/careers/job-opportunities/
+  - Plazo o ciclo: sin datos; el buscador es continuo, pero sin opción para Venezuela
+  - Aclaracion: Venezuela no figura en el filtro de países y la página no la menciona, por lo que no hay una ruta de postulación confirmada para residentes en Venezuela; no se descarta que existan vacantes remotas, pero no se vieron.
+  - Aclaracion: Según la empresa, los reclutadores solo contactan desde correos @Teleperformance.com, no usan Telegram y nunca piden pagar equipos ni el empleo.
+- **MPPS: Convocatoria RAPCCE 2026, residencias asistenciales y cursos de ampliación en hospitales públicos** (cerrada) https://mpps.gob.ve/registros-aspirantes-postgrados-residencias/
+  - Plazo o ciclo: Convocatoria publicada el 15 de septiembre de 2026; la recepción de documentos fue del 21 de septiembre al 2 de octubre de 2026 y ya cerró. Sigue el cronograma hasta el inicio de actividades el 15 de diciembre de 2026. Repetición anual no confirmada: el documento habla de «el año 2026» y no dice que sea anual.
+  - Aclaracion: La postulación se inicia en la Coordinación de Investigación y Educación del hospital donde se ofrece la especialidad.
+  - Aclaracion: La página enlaza una dirección de información con IP interna (asic.mpps.gob.ve/192.168.2.35/postgrado) que no debe usarse.
+- **USB - Contratación de personal académico y Concurso de Credenciales (Vicerrectorado Académico)** (cerrada) https://www.vracad.usb.ve/contratación-de-personal-académico/concurso-de-credenciales_1
+  - Plazo o ciclo: Último concurso: del 1 al 16 de octubre de 2026, marcado como CERRADA. No se vio evidencia de una fecha de repetición; la periodicidad trimestral indicada en la descripción previa no se pudo confirmar.
+  - Aclaracion: Los cargos y requisitos por departamento están en archivos PDF por división.
+  - Aclaracion: Se postula mediante un formulario de Google por división; los preseleccionados son contactados por correo, presentan documentos originales y decide el Consejo Directivo.
+- **Bloomberg Línea (2021) - Yummy Rides y el ridesharing en Venezuela** (cerrada) https://apps.apple.com/app/id1577004455
+  - Plazo o ciclo: Nota del 1 de octubre de 2021 (la URL dice 2021/10/02); no refleja el estado actual.
+  - Aclaracion: Es un artículo histórico, no una convocatoria, y sus cifras corresponden a 2021.
+  - Aclaracion: Según el artículo, Yummy Rides lanzó el 22 de julio de 2021 en Caracas y luego en Valencia, unas 40.000 personas se postularon, más de 8.000 conductores pasaron un filtro de seguridad y la tarifa mínima era de 2,50 USD.
+- **DPL News (2023) - apps de movilidad como alternativa segura en Venezuela** (cerrada) https://apps.apple.com/app/id1577004455
+  - Plazo o ciclo: Nota del 21 de noviembre de 2023; no refleja necesariamente la situación actual.
+  - Aclaracion: Es contexto histórico de 2023, no una vía de postulación.
+  - Aclaracion: Según el artículo, Yummy verifica la identidad de los pasajeros y monitorea los viajes en tiempo real.
+- **MINTUR: Premio Nacional de Turismo 2026 (V edición)** (cerrada) https://premionacional.mintur.gob.ve/
+  - Plazo o ciclo: V edición: postulaciones del 26 de octubre al 6 de noviembre de 2026 (cerradas); anuncio de ganadores el 25 de noviembre de 2026. Ciclo anual según el número de edición.
+  - Aclaracion: Es un reconocimiento a prestadores de servicios turísticos y emprendedores, no un empleo ni una beca.
+  - Aclaracion: El plazo de postulación de esta edición ya terminó y la fecha de la próxima edición no está confirmada.
+- **Fedecámaras - Aprendiendo a Emprender en Crecimiento (pequeños empresarios)** (cerrada) https://fedecamaras.org.ve/programas-y-convenios/aprendiendo-a-emprender-en-crecimiento/
+  - Plazo o ciclo: Cerrado: las únicas fechas vistas son de 2017 (Caracas 7-8 de marzo, Maracaibo 14-15 de marzo), con postulaciones cerradas; sin indicio de repetición
+  - Aclaracion: La página solo documenta ediciones de 2017; no hay convocatoria vigente ni proceso de postulación.
+  - Aclaracion: El contacto general es fedecamaras.org.ve/contactos/.
