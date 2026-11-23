@@ -1,0 +1,1396 @@
+# Fontes de trabalho e financiamento para artistas e músicos no Brasil
+
+Verificado em 2026-11-23. Cada fonte foi conferida na sua página oficial; as abertas e boa parte das recorrentes foram conferidas uma segunda vez, por leitor independente. Os prazos mudam: antes de usar uma linha, abra o link e confirme a data.
+
+## Como ler este documento
+
+- **Aberta ou vigente**: foi vista uma chamada com data, ou um procedimento que pode ser iniciado a qualquer momento.
+- **Se repete**: hoje não há chamada aberta, mas há evidência de um ciclo anual; convém olhar no mês indicado.
+- **Não verificada**: a página não carregou ou não confirmou o que foi declarado. Não é uma recomendação.
+- **Verificada 2 vezes**: duas leituras independentes da página oficial; se diferiram, usou-se a mais recente e anotou-se a correção.
+- Os requisitos são transcritos como cada fonte os publica. Nenhuma linha supõe diploma, portfólio nem trajetória de quem consulta.
+
+## Resumo
+
+- Fontes: 150. Com segunda verificação: 75.
+- Aberta ou vigente: 46.
+- Se repete (hoje sem chamada aberta): 34.
+- Não verificada: 32.
+- Não carregou: 6.
+- Não elegível: 1.
+- Encerrada: 31.
+
+## Bolsas, subsídios e empréstimos do Estado
+
+- **XVIII Seleção Funarte Marc Ferrez de Fotografia 2026** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/funarte/pt-br/editais/2026/xviii-selecao-funarte-marc-ferrez-de-fotografia
+  - O que é: Fotógrafas/os e coletivos que proponham projetos de exposição (criação livre; fotojornalismo/documental) ou de reflexão crítica (livro impresso), como pessoa física maior de 18 anos, pessoa jurídica de fins culturais, EI ou MEI.
+  - Requisitos: Pessoa física com 18 anos ou mais, ou pessoa jurídica de direito privado cultural, EI ou MEI. O CNAE e a experiência do proponente devem estar ligados à cultura e às artes. Enviar o formulário do Anexo I e os documentos do item 11.5 do regulamento. A página não pede título nem portfólio específico.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Total R$ 900.000. Três módulos de R$ 60.000 brutos cada: livre criação fotográfica, fotojornalismo/documentário (ambos com exposição presencial de ao menos 15 fotos por 30 dias) e reflexão crítica (livro impresso). Número de premiados não informado na página.
+  - Prazo ou ciclo: Inscrições de 03/11/2026 a 18/12/2026, até 18h (Brasília). Gratuitas. 18ª edição (a 17ª foi em 2024), portanto recorrente, com ciclo de cerca de 2 anos.
+  - Como se candidatar: https://prosas.com.br/editais/19358-xviii-sele-o-funarte-marc-ferrez-de-fotografia
+  - Leitura automática possível: Página HTML do gov.br e PDF do regulamento; inscrição em formulário na Prosas. Sem API vista.
+  - Esclarecimento: Só vale para fotografia (artes visuais), não para pintura nem música.
+  - Esclarecimento: Há reserva de cotas: no mínimo 20% para pessoas negras, 10% para indígenas e 10% para pessoas com deficiência.
+  - Esclarecimento: Garante ao menos R$ 60 mil para cada uma das 5 regiões do Brasil.
+  - Esclarecimento: A página não menciona exigência de residência ou nacionalidade, e o regulamento completo pode trazer outras regras.
+- **IV Bolsa Funarte de Estímulo à Conservação Fotográfica Solange Zúñiga** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/funarte/pt-br/editais/2026/programa-funarte-memoria-das-artes/iv-bolsa-funarte-de-estimulo-a-conservacao-fotografica-solange-zuniga
+  - O que é: Profissionais, pesquisadoras/es e instituições que atuem com conservação e preservação de fotografia (tema de acervo, não de criação).
+  - Requisitos: Pessoa física maior de 18 anos, ou pessoa jurídica cultural, EI ou MEI, com CNAE e experiência ligados à cultura e às artes. Formulário do Anexo I e documentos do item 11.5 do regulamento. A página não menciona título nem portfólio; o regulamento pode trazer mais exigências.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Total R$ 564.000. Quatro módulos de R$ 47.000 brutos cada.
+  - Prazo ou ciclo: Inscrições de 03/11/2026 a 18/12/2026, até 18h (Brasília). Gratuitas. 4ª edição, portanto recorrente, sem periodicidade informada.
+  - Como se candidatar: https://prosas.com.br/editais/19363
+  - Leitura automática possível: Página HTML do gov.br e PDF do regulamento; formulário na Prosas.
+  - Esclarecimento: Trata de conservação e preservação de acervos fotográficos, não de criação artística; só interessa a quem trabalha com acervo, restauro ou memória fotográfica.
+  - Esclarecimento: Há reserva de 20% para pessoas negras, 10% para indígenas e 10% para pessoas com deficiência, e R$ 47 mil garantidos por região.
+  - Esclarecimento: A página não menciona residência ou nacionalidade.
+- **ProAC ICMS (SP) - incentivo fiscal estadual, fluxo contínuo** (aberta ou vigente, verificada 2 vezes) https://www.cultura.sp.gov.br/sec_cultura/Fomento/ProAC_ICMS
+  - O que é: Pessoas físicas, MEI, cooperativas e pessoas jurídicas (com ou sem fins lucrativos) com projetos culturais em artes visuais, música e outras linguagens. O proponente busca patrocínio de empresas paulistas que abatem o valor do ICMS.
+  - Requisitos: Pessoa física: residir no estado de SP há pelo menos 2 anos, com atuação cultural comprovada nesse período. Pessoa jurídica: sede em SP há 2 anos e atuação cultural no mesmo tempo. Excluídos: órgãos públicos, a empresa patrocinadora e seus sócios e parentes, e servidores da Secretaria.
+  - Residentes no Brasil podem se candidatar: não
+  - Pagamento ou benefício: Não é dinheiro direto. Projeto aprovado capta patrocínio de empresas paulistas que abatem o ICMS (100% como crédito). Tetos: R$ 100 mil para pessoa física, R$ 250 mil para MEI e cooperados, R$ 1 milhão para pessoa jurídica (limites maiores para alguns tipos de projeto). Os recursos são liberados quando o projeto capta ao menos 35% do valor aprovado.
+  - Prazo ou ciclo: Fluxo contínuo, o ano todo. Primeiro parecer da comissão (CAP) em 45 a 60 dias. A captação de patrocínio vai até o fim do exercício fiscal seguinte à aprovação. Respostas a pendências em até 60 dias da publicação no Diário Oficial; recurso em 15 dias.
+  - Como se candidatar: https://fomentocultsp.sp.gov.br (Sistema de Fomento)
+  - Leitura automática possível: Nenhuma API vista. Sistema web: https://fomentocultsp.sp.gov.br
+  - Esclarecimento: Só residentes no estado de São Paulo com 2 anos de histórico (ou pessoas jurídicas com sede em SP há 2 anos) podem se inscrever; quem reside fora de SP não pode.
+  - Esclarecimento: Quem propõe precisa conseguir o patrocinador por conta própria, e a aprovação não garante o dinheiro.
+  - Esclarecimento: Cobre música, teatro, dança, cinema, literatura, museus e restauro.
+  - Esclarecimento: Inscrição no Sistema de Fomento, após cadastro do proponente.
+- **Lei de Incentivo à Cultura do Rio de Janeiro (LIC-RJ)** (aberta ou vigente, verificada 2 vezes) https://cultura.rj.gov.br/lei-de-incentivo-a-cultura/
+  - O que é: Pessoas físicas, MEI e pessoas jurídicas do Estado do Rio de Janeiro com projetos culturais (exposições, shows, gravações, oficinas e outros). Empresas contribuintes de ICMS no RJ patrocinam e recebem o valor de volta em crédito.
+  - Requisitos: Proponentes do estado do Rio de Janeiro: pessoa física, pessoa jurídica ou MEI (MEI tratado como PF). PF/MEI até 3 projetos por período, PJ até 5. Servidores estaduais ativos não podem participar. Obrigatórios: planilha orçamentária, cronograma, plano de distribuição e plano de divulgação. Vedado projeto já realizado, estreado ou em andamento, e projeto fragmentado.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Não é prêmio direto: o projeto aprovado capta patrocínio de empresas contribuintes de ICMS do RJ, que recuperam 100% do valor (projeto mais 1/5 para o Fundo Estadual de Cultura). Limites por projeto: MEI até R$ 200.000; projetos de R$ 1,5 milhão ou mais têm requisitos extras.
+  - Prazo ou ciclo: Inscrição de proponentes de 1º de março a 30 de novembro (ano não escrito na página; rodapé 2026 e padrão anual sugerem 2026). Restam 7 dias a partir de 23/11/2026. Ciclo se repete anualmente.
+  - Como se candidatar: http://cultura.rj.gov.br/desenvolve-cultura/
+  - Leitura automática possível: Nenhuma API vista. Sistema web Desenvolve Cultura.
+  - Esclarecimento: Só podem se inscrever proponentes do estado do Rio de Janeiro.
+  - Esclarecimento: Quem tiver o projeto aprovado ainda precisa conseguir patrocinador.
+  - Esclarecimento: O prazo final de 30/11 e o ano da janela não estão explicitamente confirmados na página.
+  - Esclarecimento: A URL /desenvolve-cultura/inscricao/ redireciona (301) para /desenvolve-cultura/; suporte: suportedesenvolvecultura@cultura.rj.gov.br.
+- **Fazcultura (Bahia) - incentivo fiscal ao patrocínio cultural** (aberta ou vigente, verificada 2 vezes) https://www.ba.gov.br/cultura/39/fazcultura
+  - O que é: Programa estadual de incentivo ao patrocínio cultural: empresas patrocinam projetos aprovados e abatem do ICMS. Instituído pela Lei Estadual nº 7.015/1996 e regulamentado pelo Decreto nº 12.901/2011.
+  - Requisitos: Proposta cultural aprovada pelo Estado e pelo menos uma empresa contribuinte de ICMS disposta a patrocinar. Cadastro do proponente e da proposta no sistema. Critérios detalhados e residência não vistos.
+  - Pagamento ou benefício: Não há pagamento direto; o valor vem do patrocínio de empresas com abatimento de ICMS. Valores desconhecidos.
+  - Prazo ou ciclo: Fluxo aberto, sem janela fixa. Propostas são enviadas online pelo sistema Clique Fomento, e a Comgér (Comissão Gerenciadora) se reúne conforme calendário publicado (vistos 2023 a 2026, nenhum para 2027).
+  - Como se candidatar: http://siic.cultura.ba.gov.br/
+  - Leitura automática possível: Nenhuma API vista.
+  - Esclarecimento: É um mecanismo de incentivo fiscal, não pagamento direto do Estado: o proponente cadastra a proposta cultural, que o Estado precisa aprovar, e depois busca uma empresa contribuinte de ICMS que a patrocine.
+  - Esclarecimento: Marcado como aberto por ser um caminho de inscrição contínuo, mas a página não cita datas nem teto.
+  - Esclarecimento: A página não menciona exigência de residência na Bahia.
+- **Descentra 2026 (Belo Horizonte) - Lei Municipal de Incentivo à Cultura, modelo Fundo Municipal** (aberta ou vigente, verificada 2 vezes) https://prefeitura.pbh.gov.br/cultura/descentra-2026
+  - O que é: Pessoas físicas maiores de 18 anos com trajetória cultural, moradoras de Belo Horizonte, nas áreas de Artes Visuais e Design, Audiovisual, Circo, Dança, Literatura, Música, Patrimônio, Teatro e Multissetorial. Foco em territórios periféricos e com menos acesso a editais.
+  - Requisitos: Pessoa física maior de 18 anos, atuante na cultura e domiciliada em Belo Horizonte; mini-currículo e dossiê comprovando atuação. Pessoa jurídica (inclusive MEI) não pode se inscrever. Setores: Artes Visuais e Design, Audiovisual, Circo, Dança, Literatura e Leitura, Música, Patrimônio, Teatro e Multisetorial. Nota mínima de 70 pontos; mais pontos para projetos de regiões menos atendidas.
+  - Residentes no Brasil podem se candidatar: não
+  - Pagamento ou benefício: Orçamento total R$ 2.000.000,00; máximo R$ 40.000,00 por projeto; 1 projeto por proponente.
+  - Prazo ou ciclo: Inscrições de 19/11/2026 a 18/01/2027, até as 17h (página oficial confirma). Recorrência anual: não informada na página.
+  - Como se candidatar: https://mapaculturalbh.pbh.gov.br/oportunidade/1361/
+  - Leitura automática possível: Não há API vista; inscrição via Mapa Cultural BH (plataforma web).
+  - Esclarecimento: Exige domicílio em Belo Horizonte (MG); quem vive fora de BH ou fora do Brasil não pode se inscrever.
+  - Esclarecimento: A inscrição é feita pela plataforma Mapa Cultural BH.
+  - Esclarecimento: Edital, guia rápido, manual de inscrição e anexos I a VIII estão na página oficial.
+- **Lei Estadual de Incentivo à Cultura de Minas Gerais (LEIC)** (aberta ou vigente, verificada 2 vezes) https://www.secult.mg.gov.br/documentos/lei-estadual-de-incentivo-a-cultura-leic
+  - O que é: Proponentes culturais de Minas Gerais que captam patrocínio de empresas com abatimento de ICMS.
+  - Requisitos: Cadastro na plataforma; formulários de planilha de equipe, currículos de equipe e empreendedor, declaração para grupos e coletivos. Demais critérios nas Resoluções 38/2024 e 03/2026.
+  - Pagamento ou benefício: Sem valor fixo: depende da captação junto a empresas incentivadoras via dedução de ICMS.
+  - Prazo ou ciclo: Fluxo contínuo: a página diz que a submissão de projetos é feita de forma contínua pela plataforma; sem prazo fixo.
+  - Como se candidatar: Plataforma Digital Fomento e Incentivo à Cultura (cadastro e envio de projeto; guia de cadastro na página)
+  - Leitura automática possível: Não há API vista.
+  - Esclarecimento: A página não detalha critérios de elegibilidade.
+  - Esclarecimento: Contato do Fomento Cultural: (31) 3915-2720.
+- **PNAB Goiás 2026 (Secult-GO) - Manutenção de Grupos, Música, Artes Visuais, Ocupa Goiás e outros** (aberta ou vigente, verificada 2 vezes) https://goias.gov.br/cultura/pnab/edital-2026-pnab/
+  - O que é: Agentes culturais de Goiás. 21 editais listados em 2026, incluindo Manutenção Continuada de Grupos/Cias de Arte e de Espaços, Formação Cultural, Teatro, Dança, Circo, Literatura, Música, Artesanato, Artes Visuais, Audiovisual, Cultura Goiás pelo Mundo Afora, Ocupa Goiás (Virada Cultural, Brasilidades e Futuros 2027, MITsp 2027) e Natal do Bem 2026.
+  - Requisitos: Anexos de cada edital: formulário e plano de trabalho (Anexo II), critérios de seleção (III), declaração de representação de grupo sem CNPJ (VII), autodeclarações étnico-racial e PCD (VIII, IX), declaração de propriedade intelectual (X), comissão de heteroidentificação (XI). Residência em Goiás provável, a conferir.
+  - Pagamento ou benefício: sem dados (valores não constam na página)
+  - Prazo ou ciclo: Página lista 21 editais PNAB 2026. Pelo que li, só o Edital 20/2026 (Ocupa Goiás - Brasilidades & Futuros 2027) e o 21/2026 (Ocupa Goiás - MITsp 2027) aparecem com inscrições abertas, sem data de encerramento visível (cronograma no Anexo V de cada edital, ref. DOE 03/11/2026). Os demais estão em habilitação para pagamento, avaliação de mérito ou encerrados.
+  - Como se candidatar: https://pnab.cultura.go.gov.br (a página liga também sistemabaru.cultura.go.gov.br; qual recebe a inscrição não foi confirmado)
+  - Leitura automática possível: Não há API vista.
+  - Esclarecimento: Há discrepância entre fontes: uma descrição indicava resultados preliminares do Ocupa Goiás 2027 em 20/11, mas a página mostra os editais 20 e 21 com inscrições abertas; convém confirmar a data de encerramento no Anexo V.
+  - Esclarecimento: As datas de inscrição dos editais 20 e 21 não aparecem no texto da página; estão nos PDFs e no cronograma (Anexo V), com suplemento do DOE de 03/11/2026.
+- **Ibermúsicas 2026 - Apoio à circulação de profissionais da música (Funarte)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/funarte/pt-br/fomento/chamadas-2026/programa-ibermusicas-convocatorias-2026/apoio-a-circulacao-de-profissionais-da-musica
+  - O que é: Músicos, grupos, compositores, luthiers, oficineiros, técnicos, produtores e pesquisadores do setor musical, nacionais ou residentes certificados de países ibero-americanos (inclui Brasil e Argentina, México, Chile, Colômbia e Uruguai).
+  - Requisitos: Profissionais da música (músicos, grupos, compositores, luthiers, oficineiros, técnicos, produtores, pesquisadores etc.) com nacionalidade brasileira ou residência certificada no Brasil. Todos os gêneros. Cadastro gratuito no Catálogo Ibermúsicas. Cartas-convite formais de instituições anfitriãs no exterior; atividade em país diferente do de origem ou residência. Grupos: 70% de integrantes residentes no país que se inscreve, 20% de outras nacionalidades ibero-americanas e 10% de outras nacionalidades.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Até US$ 10.000 por projeto (até € 10.000 para projetos de Espanha ou Portugal). O apoio pode ser parcial. Cobre deslocamentos entre países e, em turnês, entre cidades do destino.
+  - Prazo ou ciclo: Edição 2026 encerrou em 01/10/2026; resultado em 27/11/2026 no site do Ibermúsicas. Ibermúsicas anunciou em 02/10/2026 que 'cerraram las convocatorias Ibermúsicas 2026'. Chamadas 'Ibermúsicas 2026' e tutorial de 2020 indicam programa com edições anuais, mas não vi data da próxima edição. Próxima abertura: desconhecida.
+  - Como se candidatar: https://www.gov.br/funarte/pt-br/fomento/chamadas-2026/programa-ibermusicas-convocatorias-2026/apoio-a-circulacao-de-profissionais-da-musica
+  - Leitura automática possível: none (páginas HTML do gov.br; regulamento em PDF)
+  - Esclarecimento: Residentes ou nacionais do Brasil e de outros 14 países ibero-americanos podem participar, desde que registrados no Catálogo Ibermúsicas e com convite formal de instituição no exterior.
+  - Esclarecimento: A página da Funarte, atualizada em 10/11/2026, ainda traz 'inscrições abertas até 1º de outubro de 2026', mas o prazo já passou.
+  - Esclarecimento: Inscrição pela plataforma do Ibermúsicas; dúvidas: ibermusicas.brasil@funarte.gov.br.
+  - Esclarecimento: Hoje está fechado: acompanhar ibermusicas.org e a página da Funarte para a edição 2027.
+- **Fomento à Cultura da Periferia (Prefeitura de São Paulo)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://prefeitura.sp.gov.br/web/cultura/w/editais/27841
+  - O que é: Coletivos artísticos e culturais que atuam em territórios de alta vulnerabilidade social, sobretudo nas periferias da capital paulista. Aceita gestão de espaços autônomos, pesquisa, criação e circulação, formação e arranjos produtivos locais.
+  - Requisitos: Coletivos artísticos e culturais (não pessoa física avulsa) atuantes há 3 anos ou mais em distritos ou bolsões de alta vulnerabilidade social, especialmente periferias da cidade de São Paulo. Território conferido no GeoSampa (camada Fomento à Cultura da Periferia). Demais regras no edital em PDF.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: R$ 14 milhões no total, parcela única, cerca de 30 projetos; cada proposta entre R$ 158.350,37 e R$ 475.051,11, com planos de até 24 meses.
+  - Prazo ou ciclo: Anual. 11ª edição com inscrições até 06/09/2026 (já encerrada; a página traz edital datado de 18/08/2026). Edições anteriores em 2025 (10ª) e 2024 (9ª). A 12ª não é mencionada na página; data esperada e desconhecida (provavelmente 2027).
+  - Como se candidatar: https://prefeitura.sp.gov.br/documents/d/cultura/arquip-_-dosp-163157842-edital-periferia-11-edicao-2026-pdf
+  - Leitura automática possível: Nenhuma API vista.
+  - Esclarecimento: Edição encerrada e não aberta em 23/11/2026; o ciclo anual está confirmado pelo histórico.
+  - Esclarecimento: A plataforma de inscrição não é nomeada na página; é preciso ver o edital em PDF.
+- **Edital de Apoio à Música (Prefeitura de São Paulo)** (se repete (hoje sem chamada aberta), verificada 1 vez) https://prefeitura.sp.gov.br/web/cultura/w/noticias/35389
+  - O que é: Pessoas jurídicas sediadas na cidade de São Paulo que produzam música: criação e gravação, festivais, música instrumental e cultura popular brasileira.
+  - Requisitos: Pessoas jurídicas sediadas na cidade de São Paulo (edição 2025). Um músico sem CNPJ não pode se inscrever diretamente; precisa de PJ (por exemplo MEI, a confirmar no edital).
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Edição 2025 (9ª): R$ 3,7 milhões para até 25 projetos. Módulo I (criar/gravar ao menos 6 obras): até 10 projetos de R$ 120 mil. Módulo II (festivais): até 5 de R$ 260 mil. Módulo III (música instrumental e/ou cultura popular brasileira): até 10 de R$ 120 mil. Valores de 2026 não vistos.
+  - Prazo ou ciclo: Anual. A 9ª edição teve inscrições de 21/10 a 21/11/2025. A 10ª edição (Edital 19/2026) tem inscrições abertas a partir de 25/05/2026 (data final não vista, quase certamente já encerrada). A correção importa: existe edição de 2026, ao contrário do que se supunha. Próxima (11ª) deve vir em 2027, mês desconhecido.
+  - Como se candidatar: https://smceditais.prefeitura.sp.gov.br
+  - Leitura automática possível: Nenhuma API vista.
+  - Esclarecimento: A página oficial descreve o ciclo de 2025; a edição de 2026 (Edital 19/2026) aparece em uma lista de 12 editais, com início das inscrições em 25/05/2026.
+  - Esclarecimento: Músico sem CNPJ não pode se inscrever diretamente; não está confirmado se o MEI conta como pessoa jurídica.
+  - Esclarecimento: Programa restrito à cidade de São Paulo.
+- **Editais da Secretaria de Cultura do RJ (Movimenta Hip Hop, Mobilidades, Na Batida do RJ, PNAB)** (se repete (hoje sem chamada aberta), verificada 1 vez) https://cultura.rj.gov.br/editais-3/
+  - O que é: Artistas, produtores e grupos culturais fluminenses. Em 2026 a página lista Na Batida do RJ (Valorização do Movimento Funk e Movimenta Hip Hop), Mobilidades 2026, Fluxos Fluminenses, Mestras e Mestres da Cultura Popular, Folia RJ 2027, entre outros.
+  - Requisitos: Varia. Em geral residência no estado do RJ; Funk exige PJ ou MEI e propostas presenciais; Mobilidades Módulo II é para artistas individuais do estado do RJ, Módulo I para profissionais ou produtoras do setor cultural. Ver cada edital.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Varia. Funk 2026: R$ 1,9 milhão (21 videoclipes de R$ 25 mil e 14 festivais de R$ 100 mil). Mobilidades 2026: Módulo I R$ 6,6 milhões (12 parcelas de R$ 550 mil), Módulo II R$ 2,16 milhões (12 parcelas de R$ 180 mil, artistas individuais), Módulo III R$ 800 mil para uma PJ ou MEI.
+  - Prazo ou ciclo: Fluxo contínuo de editais do Fundo Estadual de Cultura e da PNAB (Ciclo 2). Vistos em 2026: Valorização do Movimento Funk (inscrições de 21/10, prorrogadas até 13/11/2026 18h, encerrada), Movimenta Hip Hop, Mobilidades 2026 (Módulos I e II encerraram em 31/10/2026 às 18h; Módulo III em 27/02/2026), Fluxos Fluminenses 2026, Mestras e Mestres da Cultura Popular, Pontos e Pontões, Folia RJ 2027 e outros. Nenhum edital de música ou artes visuais confirmado como aberto em 23/11/2026; a página não traz datas nem status.
+  - Como se candidatar: https://desenvolvecultura.rj.gov.br
+  - Leitura automática possível: Nenhuma API vista.
+  - Esclarecimento: Página-índice com títulos e links, sem datas nem status.
+  - Esclarecimento: Nenhum edital de música ou artes visuais foi confirmado como aberto em 23/11/2026.
+  - Esclarecimento: O único edital de artes visuais listado é o Olhares das Artes RJ (2023, encerrado).
+  - Esclarecimento: Restrito ao estado do Rio de Janeiro.
+- **Pró-Cultura RS (LIC-RS, FAC-RS, PNAB) - Secretaria da Cultura do Rio Grande do Sul** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.procultura.rs.gov.br/index.php?menu=facinf
+  - O que é: Produtores e artistas gaúchos. Sistema unificado para a Lei de Incentivo à Cultura (LIC), o Fundo de Apoio à Cultura (FAC), a PNAB e outros editais. Em 2026 há, entre outros, FAC RS Mobilidade (06/2026), Artista na Escola III (18/2026) e Artista na Escola em Tempo Integral (24/2026), LIC Produção e Fruição Cultural (19/2026, 40 projetos) e LIC Eventos Culturais.
+  - Requisitos: Não informado nas páginas lidas. Cadastro de proponente no sistema (CEPC ou e-mail); regras de elegibilidade nos PDFs de cada edital.
+  - Pagamento ou benefício: Varia por edital. FAC Arena Cênicas: R$ 100 mil por projeto (6 projetos). Audiovisual: R$ 19,6 milhões no total. LIC: meta de R$ 70 milhões em 2026.
+  - Prazo ou ciclo: Abertos em 23/11/2026 (na página FAC): Edital SEDAC 45/2026 FAC Arena Cênicas, até 12/11/2026 (já vencido em 23/11/2026, por isso não conta como aberto); Edital SEDAC 44/2026 e 43/2026 Arranjos Regionais, longa-metragem (audiovisual), até 14/01/2027. Ciclo anual: FAC Mobilidade, FAC Carnaval e editais LIC (Produção e Fruição, Patrimônio, Eventos 1º e 2º semestre) saem todo ano. LIC Eventos 1º sem. 2027 (edital 27/2026) teve inscrições de 03/08 a 30/09/2026. LIC Produção e Fruição (19/2026): 01/06 a 31/07/2026. Os editais LIC de 2027 ainda não têm inscrições abertas na página.
+  - Como se candidatar: https://www.procultura.rs.gov.br/login.php
+  - Leitura automática possível: Nenhuma API vista. PDFs por edital em procultura.rs.gov.br/upload.
+  - Esclarecimento: A regra de residência ou domicílio no RS não consta nas páginas e deve estar nos PDFs dos editais; é provável que exija vínculo com o RS, mas isso não foi confirmado.
+  - Esclarecimento: O FAC é fomento direto; o LIC é incentivo fiscal.
+  - Esclarecimento: O edital FAC Arena Cênicas é destinado a grupos do RS de artes cênicas (circo, dança e teatro).
+  - Esclarecimento: A lista de editais mistura artes cênicas e audiovisual; editais de música e de artes visuais ainda não saíram.
+- **Ibermúsicas — Programa Ibero-americano de Fomento à Música (chamadas anuais)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.ibermusicas.org/index.php/convocatorias-pt/
+  - O que é: Músicos, grupos, compositores, produtores, pesquisadores (pessoas físicas com nacionalidade ou residência certificada em país-membro) e organizações do setor musical (festivais, casas, selos, escolas, universidades). O Brasil é país-membro.
+  - Requisitos: Circulação: músicos, grupos, compositores, luthiers, produtores, pesquisadores e outros profissionais da música, de nacionalidade ou residência certificada em país participante; cadastro gratuito no Catálogo Ibermúsicas; convites formais de instituições anfitriãs em outro país. Ler o regulamento completo.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Circulação: até US$ 10.000 (financiamento parcial possível; cobre deslocamentos). Outras linhas: sem dados.
+  - Prazo ou ciclo: Chamadas 2026 já encerradas: a página da Funarte sobre o apoio à circulação de profissionais da música informa inscrições até 1/10/2026 e anúncio dos selecionados em 27/11/2026. As chamadas 2027 (para projetos em 2028) serão publicadas em meados de 2027, conforme o site do programa.
+  - Como se candidatar: https://www.gov.br/funarte/pt-br/editais/2026/programa-ibermusicas-convocatorias-2026
+  - Leitura automática possível: nenhuma vista (site HTML; página de chamadas sem feed/API visto)
+  - Esclarecimento: A página principal do Ibermúsicas não mostra datas nem valores; esses detalhes constam na página da Funarte.
+  - Esclarecimento: Além da circulação, a Funarte lista em 2026 outras linhas, como programação musical, residências, especialização, projetos virtuais, repertório ibero-americano, convocatórias especiais e prêmios, cujos valores não foram informados.
+  - Esclarecimento: O endereço /convocatorias-activas/ retorna 404; a versão em português está em https://www.ibermusicas.org/index.php/convocatorias-pt/.
+- **Fulbright Brasil — Mestrado em roteiro de cinema (MFA) nos EUA** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://fulbright.org.br/bolsas-para-brasileiros/mestrado-em-roteiro-de-cinema-nos-eua-master-of-fine-arts-mfa/
+  - O que é: Brasileiros interessados em cursar um MFA em roteiro de cinema nos EUA (categoria 'Estudantes' na listagem). Fulbright é programa do governo dos EUA operado no Brasil pela Comissão Fulbright.
+  - Requisitos: Cidadania brasileira sem cidadania americana; graduação de pelo menos 4 anos; experiência comprovada em roteiros para cinema e/ou audiovisual; inglês comprovado por teste feito após 01/06/2024 (TOEFL iBT 102+ ou IELTS 7.0+); sem mestrado ou título superior em qualquer área; residir no Brasil na inscrição e durante a seleção. Dúvidas: cinema@fulbright.org.br.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Bolsa mensal (varia por cidade, tabela do Departamento de Estado dos EUA), mensalidades e taxas até US$ 60.000 por ano, auxílio instalação de US$ 1.000, passagem aérea de ida e volta, seguro-saúde. Parceria com a CAPES.
+  - Prazo ou ciclo: Próxima chamada prevista para abril de 2027 (inscrições ainda não abertas em 23/11/2026). A última chamada vista na página encerrou em 30/04/2025. Dia exato de abertura e prazo: desconhecido.
+  - Como se candidatar: https://fulbright.org.br/bolsas-para-brasileiros/mestrado-em-roteiro-de-cinema-nos-eua-master-of-fine-arts-mfa/
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Os dados da página são da chamada anterior e o manual aparece como antigo, então os requisitos da próxima chamada podem mudar.
+  - Esclarecimento: A página oferece formulário para receber aviso por e-mail na abertura das inscrições.
+- **LICC - Lei de Incentivo à Cultura Capixaba (Secult-ES)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://secult.es.gov.br/cap-2026
+  - O que é: Proponentes de projetos culturais do Espírito Santo que captam patrocínio de empresas via incentivo fiscal estadual.
+  - Requisitos: Só pessoas jurídicas de direito privado, com ou sem fins lucrativos, com finalidade cultural no estatuto, cadastradas como agente cultural no Mapa Cultural ES e com sede comprovada no Espírito Santo há pelo menos 2 anos. Pessoa física não pode propor. Documentos: CNPJ, estatuto, comprovante de sede, certidão negativa estadual, planilha de custos, currículos da equipe, plano de distribuição; mínimo de 5 contrapartidas. Até 3 projetos por agente por ano; enviar com pelo menos 120 dias de antecedência da execução. Excluídas emissoras de rádio e TV, jornais comerciais e entidades do Sistema S.
+  - Residentes no Brasil podem se candidatar: não
+  - Pagamento ou benefício: Não é pagamento direto: é incentivo fiscal (ICMS) para captação de patrocínio. Teto autorizado de R$ 25 milhões de captação em 2026; eventos de primeira edição até R$ 300 mil; reservas de 30% para projetos de calendário, 10% para fora da Região Metropolitana e 10% para programas contínuos. Aprovados têm 1 ano para captar (prorrogável por mais 1) e podem executar com 35% captado.
+  - Prazo ou ciclo: Janela anual de projetos de 02/02 a 30/06 (IN Secult nº 1/2026, art. 19, e notícia oficial do governo do ES: 2026 abriu em 02/02 e fechou em 30/06; em 2025 também terminou em 30/06). Janela de 2026 já encerrada; próxima esperada a partir de fevereiro de 2027, sujeita a mudança pela Secult. A CAP se reuniu em 2026 de janeiro a 19/11.
+  - Como se candidatar: https://mapa.cultura.es.gov.br/
+  - Leitura automática possível: Não há API vista.
+  - Esclarecimento: A página citada é apenas a lista de documentos da CAP; as regras vêm da Instrução Normativa nº 1/2026 e de notícia oficial do governo do ES.
+  - Esclarecimento: A inscrição é exclusivamente online, pelo Mapa Cultural.
+  - Esclarecimento: Pessoa física só participa por meio de uma entidade capixaba.
+  - Esclarecimento: Contato: licc@secult.es.gov.br, (27) 3636-7073.
+- **Fundo Estadual de Cultura de Minas Gerais (FEC) - editais 2026 da Secult-MG** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.secult.mg.gov.br/editais/fundo-estadual-de-cultura-fec/editais-fec
+  - O que é: Artistas, grupos e entidades culturais de Minas Gerais. Os 16 editais de 2026 incluem Afromineiridades, Rainha Conga, Minas Literária, Saberes Gerais (bolsa e mestres de ofício das artes), Coreto, Restaura Minas, Minas em Cena, Circula Minas, Passarela Liberdade, Minas Play, Manutenção OSC, Mostras e Festivais, Minas Plurais e Carnaval 2027.
+  - Requisitos: Varia por edital: currículo do proponente, autodeclarações para ações afirmativas, termo de compromisso; Edital 05 aceita coletivos sem CNPJ; Edital 12 é para OSCs; Edital 03 exige cadastro na Plataforma Minas Criativa. Requisitos completos nos PDFs de cada edital.
+  - Pagamento ou benefício: sem dados (valores não constam na página)
+  - Prazo ou ciclo: Ciclo 2026 encerrado: 16 editais, prazo prorrogado até 27/07/2026 (Minas em Cena sem data na prorrogação), todos com resultado final. Nenhum edital 2027 anunciado na página (só 'Carnaval 2027' no título do 16/2026). Recorrência anual provável, não confirmada.
+  - Como se candidatar: Plataforma Digital Fomento e Incentivo à Cultura / Plataforma Minas Criativa (link por edital)
+  - Leitura automática possível: Não há API vista; PDFs e páginas HTML.
+  - Esclarecimento: Nada estava aberto em 23/11/2026; convém acompanhar a página para o ciclo 2027.
+  - Esclarecimento: Os valores constam apenas nos PDFs de cada edital.
+  - Esclarecimento: Editais estaduais em geral exigem vínculo com Minas Gerais, a conferir em cada edital; a elegibilidade de quem vive fora do Brasil não está confirmada.
+- **PNAB Minas Gerais (Secult-MG) - Bolsas Culturais, Premiação de Trajetórias e Execução Cultural** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.secult.mg.gov.br/editais/editais-pnab/editais-pnab
+  - O que é: Agentes culturais de Minas Gerais. Editais PNAB 2026: 01 Bolsas culturais (promoção, pesquisa, difusão, circulação, residência e intercâmbio), 02 Premiação de Trajetórias, 03 e 05 Pontos e Pontões de Cultura, 04 Execução Cultural.
+  - Requisitos: Varia por edital; anexos incluem plano de trabalho, critérios de seleção, autodeclarações (étnico-racial, PCD, LGBTQIAPN+, residência), carta de representação de grupo/coletivo. Requisitos detalhados nos PDFs.
+  - Pagamento ou benefício: sem dados (valores não constam na página)
+  - Prazo ou ciclo: 2026: editais 01 a 05/2026 (bolsas, trajetórias, Pontos de Cultura, execução cultural, prêmios) já com resultado final (07/06 a 17/09/2026; suplentes até 20/08). Em 2024 houve 13 editais, em 2025 só um (bolsas Teia, 15/11/2025). Nenhum edital novo anunciado; próxima abertura: sem dados.
+  - Como se candidatar: https://descentra.mg.gov.br/acessar
+  - Leitura automática possível: Não há API vista; plataforma Descentra.
+  - Esclarecimento: As inscrições são feitas exclusivamente na Plataforma Descentra (descentra.mg.gov.br).
+  - Esclarecimento: O ritmo e o tamanho dos ciclos variam (13 editais em 2024, 1 em 2025, 5 em 2026), então não há data previsível.
+  - Esclarecimento: Os valores não constam na página; nada estava aberto em 23/11/2026.
+- **Funcultura Pernambuco 2026 (Fundarpe/Secult-PE) - Geral, Música, Audiovisual, Patrimônio e Microprojeto** (se repete (hoje sem chamada aberta), verificada 1 vez) sem dados (www.secult.pe.gov.br/funcultura não respondeu; a página original é a reportagem)
+  - O que é: Artistas e produtores culturais de Pernambuco. Cinco editais em 2026: Funcultura Geral, Música, Audiovisual, Patrimônio Cultural e Microprojeto Cultural (vale conferir a linha Geral para artes visuais).
+  - Requisitos: Não listados na reportagem; estão em cada edital. Em geral exigem vínculo com Pernambuco, a conferir no edital.
+  - Pagamento ou benefício: Total aprox. R$ 36,65 mi em 2026 (por edital: ver notas); valor por projeto sem dados.
+  - Prazo ou ciclo: Anual. Editais 2026 lançados em 07/01/2026: Audiovisual 06/02 a 06/03; Música 01 a 30/04; Geral e Patrimônio 14/04 a 13/05; Microprojeto 22/04 a 21/05. Todos encerrados. Ciclo 2027 não mencionado; pelo padrão, novo ciclo no início do ano.
+  - Como se candidatar: Mapa Cultural de Pernambuco
+  - Leitura automática possível: Não há API vista.
+  - Esclarecimento: Confirmado apenas em reportagem da Folha de Pernambuco (fonte jornalística, não oficial); o site oficial da Secult-PE não pôde ser acessado.
+  - Esclarecimento: Valores por edital: Audiovisual R$ 11,31 mi, Música R$ 5,07 mi, Geral R$ 15,99 mi, Patrimônio R$ 3,5 mi e Microprojeto R$ 780 mil (soma de cerca de R$ 36,65 mi, enquanto a manchete diz R$ 39 mi).
+  - Esclarecimento: A inscrição é pela plataforma Mapa Cultural de Pernambuco.
+  - Esclarecimento: O ciclo 2027 e os itens Edital Caju 2027 e Arranjos Regionais do Audiovisual não foram confirmados.
+- **Secult-PA (Pará) - página de editais (Beco do Artista, Ponto do Autor, Credenciamento de Artistas e Fazedores de Cultura)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.secult.pa.gov.br/editais
+  - O que é: Artistas e fazedores de cultura do Pará. Itens vistos: Extrato Edital 009 Beco do Artista (chamamento), Chamamento Público nº 008 Ponto do Autor, Edital de Credenciamento nº 10/2025 para Artistas, Fazedores e Fazedoras de Cultura, e o Chamamento de OS para Teatros e Museus (2026).
+  - Requisitos: Beco do Artista: quadrinistas, ilustradores e artistas visuais residentes no Pará, com atuação cultural comprovada de no mínimo 2 anos; inscrição só pelo Mapa Cultural do Pará. Ponto do Autor: escritores paraenses ou radicados no Pará há mais de 2 anos, com livros publicados de 2024 em diante. Músicos: não há edital de música nesta listagem.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Beco do Artista: participação gratuita no espaço da feira para 18 artistas (valor de cachê ou ajuda de custo: desconhecido). Ponto do Autor: credenciamento gratuito para lançar livros no espaço da feira. Inscrição gratuita nos dois.
+  - Prazo ou ciclo: Nenhuma inscrição aberta em 23/11/2026. Beco do Artista (Chamamento nº 009/2026) e Ponto do Autor (nº 008/2026) tiveram inscrições de 29/05 a 29/06/2026 para a 29ª Feira Pan-Amazônica do Livro (29/08 a 06/09/2026). A listagem traz edições de 2025 dos mesmos editais (Beco do Artista 12/2025, Credenciamento 10/2025), o que indica ciclo anual, em geral ligado à feira (abertura por volta de maio/junho, não confirmado). Próxima data: desconhecida.
+  - Como se candidatar: https://mapacultural.pa.gov.br/oportunidade/2340
+  - Leitura automática possível: Listagem HTML paginada; os anexos são PDFs.
+  - Esclarecimento: Elegível apenas para quem reside (ou, no caso do Ponto do Autor, é radicado) no estado do Pará; não vale para o Brasil todo.
+  - Esclarecimento: A página /editais não mostra datas nem situação; as datas vêm dos PDFs de extrato, com o texto completo no Mapa Cultural do Pará.
+  - Esclarecimento: Ponto do Autor é para escritores, não para artistas visuais ou músicos.
+  - Esclarecimento: A página não mostra nenhum edital PNAB.
+- **Secult-AM (Amazonas) - editais da Cultura (PNAB, Lei Paulo Gustavo, Carnaval)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://cultura.am.gov.br/
+  - O que é: Agentes culturais do Amazonas. Itens vistos: Edital 01/2026 Carnaval Acesso, Edital 02/2026 Carnaval Especial, Lei Paulo Gustavo, PNAB Amazonas 2024 e 2025, Arranjos Regionais e Credenciamento de Avaliadores.
+  - Requisitos: sem dados (cada edital tem regulamento próprio; não lidos). Linhas cobertas pelos editais PNAB: Fomento Cultural Multilinguagens, Circulação Cultural, Território Criativo, Pontos e Pontões de Cultura, Prêmio Cultura Viva.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Sem datas de inscrição visíveis na página; prazo de recursos de três editais da PNAB até 24/11/2026.
+  - Como se candidatar: https://pnab.cultura.am.gov.br/
+  - Leitura automática possível: Não há API vista.
+  - Esclarecimento: A página inicial não traz datas, valores nem situação dos editais.
+  - Esclarecimento: Há prazo de recursos até 24/11/2026 para três editais da PNAB, sem identificar quais; a ausência de inscrições abertas não foi comprovada diretamente.
+  - Esclarecimento: As regras de residência (provavelmente Amazonas) não estão confirmadas.
+  - Esclarecimento: O portal pnab.cultura.am.gov.br publica novos editais por ciclo.
+- **Spcine – Editais (audiovisual, SP): chamadas sem foco em música** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://spcine.com.br/editais-spcine
+  - O que é: Empresas e profissionais do audiovisual paulistano. Compositores e produtores de trilha podem entrar como parte da equipe de projetos, não como proponentes diretos.
+  - Requisitos: Empresas com sede legal no município de São Paulo há pelo menos 2 anos e experiência comprovada no setor (games ou audiovisual). Algumas chamadas reservam parte das vagas a grupos de ação afirmativa. Não é para pessoa física.
+  - Pagamento ou benefício: Games 01/2026: R$ 2.000.000 no total, R$ 400.000 por projeto (5 projetos). Incubadora de Games 02/2026: R$ 1.000.000. Outros editais de 2025: R$ 400.000 por núcleo criativo e R$ 3,5 milhões em complementação de longas.
+  - Prazo ou ciclo: Nenhuma chamada com inscrição aberta em 23/11/2026. Em 2026: games 01/2026 (28/07 a 13/08) e 02/2026 (28/07 a 11/08), ambas já em fase de contratação, e Quirino Lab (até 05/08). Em 2025 houve chamadas de 20/10 a 15/12 (núcleos criativos e longas-metragens). Edital anual, mas sem data fixa.
+  - Como se candidatar: https://spcineeditais.com.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página foi atualizada em 12/11/2026 e confirma que nenhuma chamada está aberta em 23/11/2026.
+  - Esclarecimento: A Spcine é a empresa municipal de São Paulo e os editais são voltados a empresas audiovisuais ou de games, não a músicos individuais.
+  - Esclarecimento: Itens de PNAB não aparecem na lista e a URL /pnab retorna 404, então não há confirmação de chamadas PNAB.
+  - Esclarecimento: Contato: duvidas.editais@spcine.com.br; para músicos, serve apenas como referência de editais de trilha ou audiovisual via produtoras.
+- **Mobilidade Cultural, 2ª edição (Paraná) - Chamamento Público 002/2026** (não verificada, verificada 1 vez) https://www.cultura.pr.gov.br/Pagina/Mobilidade-Cultural-2a-edicao
+  - O que é: Agentes culturais paranaenses (artistas e produtores) que precisem de bolsa para viajar, participar de eventos ou fazer formação com finalidade cultural.
+  - Requisitos: Cultural agent do Paraná; critérios técnicos e de mérito no edital e Anexo I; documentos de mérito (Anexo III) e de habilitação (Anexo IV); declaração para grupos ou coletivos (Anexo VII); autodeclarações para pessoas negras, indígenas e PCD (Anexo VIII.1 a VIII.3); políticas afirmativas (Anexo IX).
+  - Pagamento ou benefício: Bolsa cultural; valor desconhecido (Anexo II traz vagas por região e faixa orçamentária).
+  - Prazo ou ciclo: Rodadas trimestrais em 2026 (resultados de três trimestres e um aviso de quarto trimestre na lista). Janela de inscrição e data da próxima rodada: desconhecidas. Não há confirmação de que haverá 3ª edição.
+  - Como se candidatar: Pelas instruções do edital e anexos da página da Secretaria da Cultura do Paraná.
+  - Leitura automática possível: Nenhuma API vista. Anexos em PDF.
+  - Esclarecimento: A página é apenas um hub de resultados e documentos, sem datas de inscrição, valores nem canal de envio.
+  - Esclarecimento: O termo 'paranaenses' sugere vínculo com o Paraná, mas a regra de residência não foi vista e consta no edital.
+- **Secult-ES - Edital Circulação e Intercâmbio 2026 (Funcultura, edital nº 01/2026)** (não verificada, verificada 1 vez) https://secult.es.gov.br/editais-2026
+  - O que é: Artistas, técnicos, pesquisadores, curadores e agentes culturais do Espírito Santo, de qualquer linguagem (inclui músicos e artistas visuais), para custear passagens e diárias de circulação, formação e intercâmbio.
+  - Requisitos: sem dados. O regulamento está em PDF (Edital Diagramado) e no botão 'Baixar regulamento' do Mapa Cultural ES; o PDF que baixei veio ilegível/divergente e não pude ler as regras. Residência no Espírito Santo provavelmente exigida, mas não confirmada.
+  - Residentes no Brasil podem se candidatar: não
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Ciclo mensal em 2026: a página lista listas de habilitação, atas e resultados de março a outubro (último item em 17/11/2026). Não consegui ver a janela de inscrição nem se ainda está aberto; o título no Mapa Cultural diz 'Viagens a partir de dezembro'. Recorrência anual não verificada por mim.
+  - Como se candidatar: https://mapa.cultura.es.gov.br/oportunidade/2656/
+  - Leitura automática possível: Não há API vista; PDF do edital e plataforma Mapa Cultural ES.
+  - Esclarecimento: A página não mostra se o edital está aberto ou fechado; provavelmente está encerrado para este ciclo.
+  - Esclarecimento: A inscrição é feita pelo Mapa Cultural ES, oportunidade 2656.
+  - Esclarecimento: O edital foi publicado em 11/03/2026.
+  - Esclarecimento: Convém conferir o regulamento antes de descartar.
+- **Programa Goyazes (Goiás) - incentivo fiscal via ICMS, Secult-GO** (não verificada, verificada 1 vez) https://goias.gov.br/cultura/programa-goyazes/
+  - O que é: Artistas, produtores culturais e instituições culturais de Goiás; projetos aprovados captam recursos de empresas pagadoras de ICMS.
+  - Requisitos: Conforme regulamento do programa (seção Legislação); beneficiários descritos: artistas e criadores, produtores culturais e instituições culturais. Detalhes não verificados.
+  - Pagamento ou benefício: Sem valor fixo: depende da captação junto a empresas incentivadoras via ICMS.
+  - Prazo ou ciclo: Página cita 'Inscrições 2026' e 'Inscrições Excepcionais 2026' sem datas. Consulta pública de 28/08 a 16/09/2026 (encerrada, 31 contribuições) sobre reformulação do modelo. Ciclo 2027: sem dados.
+  - Como se candidatar: https://editaiscultura.sistemas.go.gov.br
+  - Leitura automática possível: Não há API vista.
+  - Esclarecimento: A inscrição é feita pelo sistema editaiscultura.sistemas.go.gov.br; as 'Inscrições Excepcionais' são pelo mapagoiano.cultura.go.gov.br.
+  - Esclarecimento: Janela aberta e datas não confirmadas; a reformulação em estudo pode mudar o modelo.
+  - Esclarecimento: Proponentes com prestação de contas pendente devem regularizar até 27/11/2026.
+- **Ancine – FSA: Chamadas Públicas do Fundo Setorial do Audiovisual** (não verificada, verificada 1 vez) https://www.gov.br/ancine/pt-br/fsa/chamadas-publicas
+  - O que é: Produtoras audiovisuais independentes brasileiras. Compositores e profissionais de trilha entram via equipe de obras financiadas, não como proponentes.
+  - Requisitos: Produtoras brasileiras independentes (pessoa jurídica) com projetos de longa-metragem, TV ou VOD, e conforme cada edital. Não é para pessoa física nem músico solo.
+  - Pagamento ou benefício: Valores de edições passadas: R$ 90 milhões (cinema, desempenho comercial 2024), R$ 160 milhões (TV-VOD 2024), R$ 120 milhões (coprodução internacional 2023). Valores de 2026 desconhecidos.
+  - Prazo ou ciclo: Não vi nenhuma chamada aberta em 2026. A página das chamadas só trouxe o texto de apresentação, sem lista. Notícias oficiais mostram ciclos anteriores: jan/2024 (prazos 16/02 e 12/04/2024) e nov-dez/2024 (cinema até 28/02/2025; TV-VOD até 15/04/2025). Datas de 2025 e 2026 não foram vistas.
+  - Como se candidatar: https://www.gov.br/ancine/pt-br/fsa/chamadas-publicas
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página oficial não lista chamadas, e o padrão de editais periódicos visto nas notícias de 2024 não prova repetição em 2026.
+  - Esclarecimento: O FSA financia produção audiovisual de produtoras independentes; a música entra apenas indiretamente, via trilha de projetos.
+  - Esclarecimento: Prazos e regras devem ser conferidos no site do BRDE (brde.com.br/fsa), agente financeiro do fundo.
+  - Esclarecimento: A URL /chamadas-publicas-abertas retorna erro 404.
+
+## Programas e registros do Estado
+
+- **Funarte: chamadas públicas abertas (índice oficial)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/funarte/pt-br/editais/editais-abertos
+  - O que é: Artistas, coletivos e organizações culturais de todas as linguagens (artes visuais, música, teatro, dança, circo, fotografia).
+  - Requisitos: Varia conforme a chamada. Em geral pessoa física maior de 18 anos ou pessoa jurídica cultural; cada regulamento define o resto.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Varia conforme a chamada.
+  - Prazo ou ciclo: Página sem data. Em 23/11/2026 listava 4 chamadas abertas, sem datas de inscrição. A Funarte publica chamadas ao longo do ano.
+  - Como se candidatar: https://www.gov.br/funarte/pt-br/editais/editais-abertos
+  - Leitura automática possível: Página HTML estática; sem feed RSS ou API vistos.
+  - Esclarecimento: É uma página de acompanhamento, não uma chamada única; listava 4 chamadas: Programa Funarte Aberta, IV Bolsa Solange Zúñiga, XVIII Seleção Marc Ferrez e Mostra dos Estudantes da 16ª Quadrienal de Praga (PQ 2027).
+  - Esclarecimento: Prazos e regras do Programa Funarte Aberta e da Quadrienal de Praga não foram verificados.
+  - Esclarecimento: Os links da lista usam caminhos /fomento/chamadas-abertas/, diferentes dos /editais/2026/ do menu; vale conferir qual está atualizado.
+- **Lei Rouanet (PRONAC) e sistema Salic** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/cultura/pt-br/assuntos/lei-rouanet
+  - O que é: Qualquer artista ou produtor com atuação cultural: pessoa física, ou pessoa jurídica com ou sem fins lucrativos, que queira captar recursos para um projeto cultural (por exemplo exposição, show, formação).
+  - Requisitos: Não confirmado na página. Projeto apresentado via Salic por proponente cadastrado (pessoa física ou jurídica, conforme o manual do proponente). Ler a IN 29/2026 e o Manual do Proponente.
+  - Pagamento ou benefício: Não é pagamento direto. Autoriza a captação de patrocínio/doações com incentivo fiscal; valores variam por projeto.
+  - Prazo ou ciclo: Mecanismo permanente. A página tem banners 'Apresente seu projeto - ferramenta Salic' e 'Quem pode participar'. Notícia de 13/11/2026: sugestões da sociedade civil à Instrução Normativa pelo Brasil Participativo até 30/11/2026 (confirmado). O 'fluxo contínuo' não aparece na página; a página inicial só linka para as instruções de inscrição.
+  - Como se candidatar: https://www.gov.br/cultura/pt-br/assuntos/lei-rouanet
+  - Leitura automática possível: Páginas HTML; Salic é um sistema web com login, sem API pública vista.
+  - Esclarecimento: Não é pagamento direto: é incentivo fiscal por captação, em que o proponente submete o projeto e capta o recurso com patrocinadores.
+  - Esclarecimento: Regras de elegibilidade e o 'fluxo contínuo' não estão confirmados na página; os links de detalhe consultados deram 404.
+  - Esclarecimento: O sistema vigente é o Salic, sob a IN MinC nº 29/2026.
+- **MinC: Edital Biblioteca Comunitária é Cultura Viva (certificação Ponto de Cultura)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/cultura/pt-br/assuntos/editais/inscricoes-abertas/edital-biblioteca-comunitaria-e-cultura-viva1/edital-biblioteca-comunitaria-e-cultura-viva
+  - O que é: Bibliotecas comunitárias geridas pela sociedade civil (associações, ONGs, coletivos), com ou sem CNPJ. Artistas só participam por meio de coletivo ou biblioteca.
+  - Requisitos: Biblioteca comunitária mantida pela sociedade civil (associação, ONG, grupo de bairro ou coletivo cultural), com ou sem CNPJ. Mínimo de 2 anos de atividades de leitura, sem impedimento legal para parcerias ou recebimento de recursos públicos. Documento que comprove funcionamento há pelo menos 2 anos e comprovação das atividades de leitura nos últimos 2 anos (fotos, imprensa, relatórios, listas de presença). Não é um edital para artista individual: é para bibliotecas comunitárias e coletivos.
+  - Pagamento ou benefício: Sem dinheiro direto: concede certificação (Biblioteca Comunitária do SNBP e Ponto de Cultura). Grupos certificados podem ganhar pontos extras em seleções públicas futuras de fomento, acervo e materiais do governo.
+  - Prazo ou ciclo: Fluxo contínuo: 'inscrições permanentes (fluxo contínuo) e gratuitas', sem data de encerramento. Publicado em 07/08/2026, atualizado em 28/08/2026.
+  - Como se candidatar: https://www.gov.br/cultura/pt-br/assuntos/editais/inscricoes-abertas/edital-biblioteca-comunitaria-e-cultura-viva1/edital-biblioteca-comunitaria-e-cultura-viva
+  - Leitura automática possível: Página HTML; formulário online.
+  - Esclarecimento: Não é edital para artista individual: é para bibliotecas comunitárias e coletivos; a relevância para artistas é indireta.
+  - Esclarecimento: Inscrição on-line pelo cadastro do SNBP, com login gov.br: 'Solicitar Cadastramento', marcar 'Ponto de Cultura' e anexar documentos.
+  - Esclarecimento: A página não mostra a URL direta do cadastro, mas linka o edital em PDF e o Guia do cadastro.
+  - Esclarecimento: Contato: bibliotecaculturaviva@cultura.gov.br, (61) 2024-2649.
+- **Programa Funarte Aberta 2026 - ocupação dos espaços culturais da Funarte** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/funarte/pt-br/editais/2026/programa-funarte-aberta/programa-funarte-aberta-2026-2013-ocupacao-dos-espacos-culturais-da-funarte-centro-de-teatro
+  - O que é: Artistas e produtores que querem ocupar espaços da Funarte: Centro de Teatro, Centro Técnico de Artes, Complexo Funarte Minas Gerais, Complexo Funarte São Paulo e Livraria Mário de Andrade.
+  - Requisitos: Pessoas físicas maiores de 18 anos, pessoas jurídicas, MEIs e empresários individuais com atuação no campo artístico-cultural. Não confirmei os critérios de seleção nem exigências de portfólio. Ler o edital de cada espaço.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Inscrição gratuita. Segundo a Funarte, é ocupação gratuita dos espaços, ou seja, cessão de pauta e não pagamento ao artista. Cachê não confirmado.
+  - Prazo ou ciclo: Chamada do Centro de Teatro aberta em fluxo contínuo, lançada em 30/03/2026, até 17h59 (Brasília) de 30/04/2027 ou até esgotar a pauta. Há 5 chamadas por espaço em 2026 (Centro de Teatro, Centro Técnico de Artes, Complexo Funarte MG, Complexo Funarte SP, Livraria Mário de Andrade); os prazos das outras 4 não foram conferidos. A chamada do Teatro Cacilda Becker sai no 2º semestre de 2026. Edições anuais: 2023, 2025 e 2026.
+  - Como se candidatar: https://www.gov.br/pt-br/servicos/ocupar-um-dos-equipamentos-culturais-da-funarte
+  - Leitura automática possível: none
+  - Esclarecimento: É cessão gratuita de pauta nos espaços da Funarte, não pagamento ao artista; cachê não confirmado.
+  - Esclarecimento: Os espaços ficam no RJ, SP e MG, então o proponente precisa levar o projeto até lá.
+  - Esclarecimento: Os critérios de seleção e as exigências de portfólio não foram confirmados; é preciso ler o edital de cada espaço.
+  - Esclarecimento: Inscrição pela plataforma Prosas, com o Anexo I e os documentos do item 8.5 do edital; contato do Centro de Teatro: funarteaberta.teatro@funarte.gov.br.
+- **Iphan: Banco de Projetos (Adote um Projeto) e Chamamento Público nº 02/2026** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/iphan/pt-br/assuntos/banco-de-projetos-do-iphan
+  - O que é: Pessoas físicas, MEI, empresários individuais, organizações da sociedade civil e empresas que queiram executar projetos de restauro e preservação de bens do patrimônio, listados pelo Iphan.
+  - Requisitos: Pessoa física, microempreendedor/empresário individual, organização da sociedade civil ou empresa. Comprovar experiência em captação para projetos culturais (portfólio ou prestações de contas) e, em restauro, experiência na área. Preencher o formulário de interesse, apresentar os documentos do chamamento e assinar Termo de Cooperação Cultural (Lei nº 14.903/2024).
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Nenhum pagamento nem subvenção do Iphan; o interessado capta os recursos.
+  - Prazo ou ciclo: Fluxo contínuo: a página diz que não há prazo para manifestar interesse e que o chamamento vale por 1 ano, prorrogável. A página não informa a data de publicação; o número '02/2026' aparece só no nome do arquivo PDF.
+  - Como se candidatar: https://www.gov.br/iphan/pt-br/assuntos/banco-de-projetos-do-iphan
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não é um edital de apoio a artistas: é um programa para adotar projetos de patrimônio cultural (restauro, patrimônio imaterial, arqueologia, educação patrimonial).
+  - Esclarecimento: Quem adota perde o direito ao projeto se não captar em 2 anos.
+  - Esclarecimento: Pessoas físicas podem participar, mas precisam comprovar experiência em captação, o que o torna pouco prático para artista individual e de baixa relevância para renda direta.
+- **Poiesis: Fábricas de Cultura (SP), vagas e Banco de Talentos** (aberta ou vigente, verificada 2 vezes) https://site.poiesis.org.br/trabalhe-conosco/
+  - O que é: A Poiesis gere 8 das 16 Fábricas de Cultura (equipamentos culturais do Governo de SP em bairros periféricos, com oficinas de música, artes visuais e outras linguagens). Contrata equipe e educadores por processo seletivo.
+  - Requisitos: Varia por vaga (ensino médio a superior). Banco de Talentos sem requisito específico exibido. Aprendiz: 18 a 22 anos.
+  - Pagamento ou benefício: Varia por vaga: de R$ 7,37/hora (aprendiz) a R$ 2.936,66 (analista). Banco de Talentos: sem remuneração definida.
+  - Prazo ou ciclo: Banco de Talentos aberto de 23/02/2026 a 23/02/2036 (caminho de candidatura contínuo). Nenhuma vaga artística aberta em 23/11/2026; vagas específicas listadas fecham entre 27/11 e 08/12/2026.
+  - Como se candidatar: https://site.poiesis.org.br/trabalhe-conosco/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: As vagas abertas em 23/11/2026 são todas não artísticas: Oficial de Manutenção Predial (Fábrica de Cultura Diadema, até 08/12/2026, R$ 2.655,32), Jovem Aprendiz administrativo, Analista Administrativo Jr, Auxiliar de Compras e Assistente de Produção do Núcleo de Ação Educativa nos Museus-Casa (R$ 2.261,24, exige noções básicas de som e luz).
+  - Esclarecimento: A candidatura é feita pelo link da 99jobs de cada vaga; se nada servir, há cadastro no Banco de Talentos (processo 479769, todos os níveis).
+  - Esclarecimento: A Poiesis só contrata aprendizes e estagiários maiores de 18 anos.
+  - Esclarecimento: Dúvidas: rh@poiesis.org.br.
+- **Política Nacional Aldir Blanc (PNAB) e editais do MinC** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc
+  - O que é: Artistas e fazedores de cultura de todas as linguagens. Os editais da PNAB em geral são lançados por estados e municípios com repasse federal; a página federal só organiza a política.
+  - Requisitos: Definidos por cada edital local; em geral cadastro de agente cultural e comprovação de atuação cultural. Não confirmado na página federal.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Varia por ente e edital. Exemplos vistos em notícias: SP capital R$ 34,5 milhões em 5 editais, Goiás R$ 39,3 milhões em 20 editais, Minas R$ 100,7 milhões com 2.996 oportunidades.
+  - Prazo ou ciclo: Política permanente (Lei nº 14.399/2022), repasses da União a estados, DF e municípios, em ciclos. Página publicada em 23/10/2026 e atualizada em 11/11/2026 (confirmado), mas sem descrição nem editais listados. Em 2026 houve editais locais, por exemplo SP capital (27/04 a 29/05), Porto Alegre (Ciclo 2 até 25/05), Goiás (março), Minas (2º ciclo, R$ 100,7 milhões), Pernambuco (julho) e Jundiaí (agosto). Não encontrei edital estadual ou municipal aberto em novembro de 2026. A lista federal 'inscrições abertas' mostra só 'Biblioteca Comunitária é Cultura Viva', sem prazo visível.
+  - Como se candidatar: https://www.gov.br/cultura/pt-br/assuntos/editais/inscricoes-abertas
+  - Leitura automática possível: Páginas HTML do gov.br; editais locais costumam estar em Mapas Culturais, cuja API não foi verificada.
+  - Esclarecimento: O MinC não paga o artista diretamente: os editais são abertos por estados, municípios e DF, com prazos e requisitos próprios.
+  - Esclarecimento: A página federal traz só menus (Adesão, Planejamento, Execução, Prestação de contas, Suporte); os dados de editais locais vêm de imprensa e prefeituras.
+  - Esclarecimento: Quem quiser se candidatar deve procurar o edital na secretaria de cultura do seu estado ou município, ou na plataforma local, e verificar o prazo.
+  - Esclarecimento: O edital federal Biblioteca Comunitária é Cultura Viva é voltado a bibliotecas, não a artistas.
+- **Política Nacional Aldir Blanc (PNAB) - MinC** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/cultura/pt-br/assuntos/politica-nacional-aldir-blanc/sobre-a-politica
+  - O que é: Artistas, grupos e agentes culturais, via editais lançados por estados, municípios e DF com recursos federais da PNAB. A União repassa; quem seleciona é cada ente.
+  - Requisitos: Agentes culturais, pessoas físicas ou jurídicas, selecionados pelos editais do ente local. Os requisitos (cadastro cultural, residência no estado ou município, trajetória) variam por edital e não estão nesta página.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: A página não traz valores. Lei nº 14.399/2022: repasses da União a estados, DF e municípios, que financiam editais de fomento, festas populares, compra de bens culturais e manutenção de espaços culturais. O valor depende de cada edital local.
+  - Prazo ou ciclo: Fluxo contínuo, com editais locais em datas diferentes. O prazo de 30/12/2026 para aferição dos recursos não apareceu na página (só vi Comunicados nº 5, 7 e 8/2026 sem data no texto), então não está confirmado.
+  - Como se candidatar: Não há inscrição federal direta: os editais são publicados por cada estado, pelo DF e pelos municípios. Lista federal de editais: https://www.gov.br/cultura/pt-br/assuntos/editais
+  - Leitura automática possível: none
+  - Esclarecimento: É um programa guarda-chuva, não uma chamada única; não há inscrição federal direta.
+  - Esclarecimento: Para se candidatar é preciso achar o edital do estado ou município de residência.
+  - Esclarecimento: A URL indicada é só a porta de entrada, sem descrição; a explicação está em 'Sobre a política' (publicada em 23/10/2026, atualizada em 11/11/2026).
+  - Esclarecimento: O prazo de 30/12/2026 para aferição dos recursos não aparece na página, e o termo 'fluxo contínuo' também não.
+- **Funarte – chamadas públicas e processos seletivos** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/funarte/pt-br
+  - O que é: Artistas e produtores culturais. A Funarte é o órgão federal de fomento às artes. O site também traz editais de movimentação de força de trabalho (cargos internos, só para servidores).
+  - Requisitos: Variam por edital (não vistos nesta página). Funarte Aberta: ocupação de espaços culturais da Funarte por propostas artísticas.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: sem dados (varia por edital)
+  - Prazo ou ciclo: Home lista chamadas abertas. Seleção Funarte Marc Ferrez de Fotografia e Bolsa Funarte de Conservação Fotográfica Solange Zúñiga: inscrições até 18 de dezembro (a home não informa o ano, provavelmente 2026). Programa Funarte Aberta 2026 (ocupação de espaços culturais): sem prazo visto na página. Ibercena 2026-2027 e Ibermúsicas 2026 aparecem como em andamento. Ciclo anual de editais.
+  - Como se candidatar: https://www.gov.br/funarte/pt-br/editais-1/2026/programa-funarte-aberta
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O ano do prazo de 18 de dezembro não aparece na home (provavelmente 2026), e nenhuma outra chamada tem prazo visível ali.
+  - Esclarecimento: Também aparecem a Mostra dos Estudantes da Quadrienal de Praga 2027, Laç(z)os Artísticos CPLP, Cultura Viva (Rede de Pontões) e o Prêmio Ibero-Americano de Dança; prazos e valores devem ser conferidos em cada edital.
+- **SP Escola de Teatro: cursos de extensão gratuitos (inscrições abertas)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.spescoladeteatro.org.br/cursos-de-extensao/inscricoes-abertas/
+  - O que é: Comunidade em geral: cursos livres e gratuitos de extensão cultural em artes do palco, produção cultural e audiovisual.
+  - Requisitos: sem dados (idade, escolaridade e documentos não aparecem na página geral; cada curso deve ter regra própria)
+  - Pagamento ou benefício: Gratuito (a escola não paga nada ao aluno).
+  - Prazo ou ciclo: Recorrente: a página diz que são oferecidos em média 30 cursos por ano, todos com 64 horas. A lista de turmas abertas em 23/11/2026 não apareceu no conteúdo lido (pode carregar dinamicamente); datas atuais: desconhecidas.
+  - Como se candidatar: https://www.spescoladeteatro.org.br/cursos-de-extensao/inscricoes-abertas/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Alguns cursos acontecem em outras cidades do estado de São Paulo, em parceria com espaços culturais.
+  - Esclarecimento: É formação em teatro, não uma vaga de trabalho nem uma bolsa.
+  - Esclarecimento: Informações: info@spescoladeteatro.org.br, (11) 3121-3200 (Campus Brás), (11) 3775-8600 (Campus Roosevelt) e boletim semanal.
+- **NEOJIBA (Bahia): vagas para os núcleos e Trabalhe Conosco** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://neojiba.org/contato/vagas-para-os-nucleos
+  - O que é: Programa de orquestras e coros sociais do Governo da Bahia. A página de núcleos traz vagas de participação em grupos (Banda Sinfônica, Orquestra de Cordas, Coro Infantil e formações do Núcleo Central 2027) e um programa de capacitação técnica (ARTS). A página Trabalhe Conosco lista cargos de equipe.
+  - Requisitos: Banda Sinfônica 12 a 21 anos; Orquestra de Cordas 10 a 19 anos; Coro Infantil 8 a 13 anos; vídeo ou audição com repertório indicado; leitura do regulamento. Residência em Salvador/região metropolitana dá audição presencial, de outros lugares envia vídeo.
+  - Pagamento ou benefício: Vagas de estudante: sem bolsa auxílio. Estágios: valor não exibido (sem dados).
+  - Prazo ou ciclo: Chamadas para 2027 listadas como 'Abertos' (publicações de 30/10/2026 e 20/10/2026); prazo de inscrição não visto.
+  - Como se candidatar: https://neojiba.org/midia/noticia/9468/vagas-nucleo-central-banda-sinfonica-orquestra-de-cordas-e-coro-infantil-2027/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: As vagas de 2027 são para estudantes, não para músicos profissionais: formação gratuita com empréstimo de instrumento e sem bolsa auxílio (auxílio transporte a critério da direção).
+  - Esclarecimento: O prazo de inscrição não aparece na listagem, que mostra apenas datas de publicação, e o encerramento em 16/11/2026 não pôde ser confirmado.
+  - Esclarecimento: A página Trabalhe Conosco (https://neojiba.org/contato/trabalhe-conosco) tem 3 estágios administrativos abertos, com requisitos apenas em cada 'Leia Mais'.
+  - Esclarecimento: Contatos: secpedagogico@neojiba.org para dúvidas pedagógicas e contato@neojiba.org para assuntos gerais.
+- **Iberescena — Fundo de Ajuda às Artes Cênicas Ibero-americanas (não verificado)** (não verificada, verificada 1 vez) https://iberescena.org/
+  - O que é: sem dados. Programa intergovernamental ibero-americano de artes cênicas (teatro, dança, circo etc.), não de artes visuais nem música em sentido estrito; possível interesse para músicos de cena e artistas de espetáculo.
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados
+  - Como se candidatar: Abrir o site oficial no navegador e procurar a seção de convocatórias; a verificação automática falhou por conteúdo renderizado no cliente.
+  - Leitura automática possível: sem dados (site SPA; possível API interna não inspecionada)
+  - Esclarecimento: Não verificado: o site é uma aplicação JavaScript sem texto legível, e não foi possível ver chamadas, prazos nem países membros.
+  - Esclarecimento: Não foi confirmado se o Brasil participa atualmente do programa.
+  - Esclarecimento: Convém verificar manualmente no navegador e não tratar como oportunidade aberta até confirmar.
+- **FNDE: editais do PNLD e PNLD Literário (ilustração via editoras)** (não verificada, verificada 1 vez) https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/programas-do-livro/consultas-editais
+  - O que é: Editoras que inscrevem obras didáticas e literárias no PNLD; ilustradores participam como autores ou ilustradores contratados pelas editoras, não se inscrevem sozinhos.
+  - Requisitos: Não visto. Inscrição é de editoras/titulares de direitos, não de artistas individuais (inferência do modelo do programa, não confirmada na página).
+  - Pagamento ou benefício: sem dados (varia por contrato com a editora).
+  - Prazo ou ciclo: sem dados
+  - Como se candidatar: Indireto: oferecer portfólio a editoras que atuam no PNLD. A lista de editais está na página citada.
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página existe (modificada em 20/02/2026), mas só menus foram capturados: nenhum edital, data ou status foi visto.
+  - Esclarecimento: Os dados do ciclo PNLD Educação Infantil 2026-2029 (Portaria 586) não puderam ser confirmados.
+  - Esclarecimento: O PNLD é compra de livros de editoras; ilustradores só entram como contratados pelas editoras, sem inscrição direta de artistas.
+- **Iphan: Editais e Seleções, PNAB-Patrimônio e Novo PAC (restauro e salvaguarda)** (não verificada, verificada 1 vez) https://www.gov.br/iphan/pt-br/acesso-a-informacao/editais-e-selecoes
+  - O que é: Órgãos públicos, universidades, organizações da sociedade civil e entidades privadas ligadas à cultura; municípios que usam a PNAB para editais de patrimônio e artesanato.
+  - Requisitos: Não visto.
+  - Pagamento ou benefício: PNPI 2023: R$ 7,5 milhões no total (encerrado). Novo PAC: R$ 771,8 milhões em obras e projetos (contratação por licitação, não edital para pessoas). Valores atuais: sem dados.
+  - Prazo ou ciclo: sem dados
+  - Como se candidatar: Consultar a página de Editais e Seleções, a de Novo PAC Seleções e as licitações do Iphan no PNCP: https://pncp.gov.br/app/editais?q=IPHAN&pagina=1&orgaos=23298&status=todos
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página é oficial, mas as abas Abertos e Encerrados ficaram em carregamento, então nenhum edital aberto foi visto.
+  - Esclarecimento: Apareceram apenas os títulos 'Edital do PNPI 2023', 'Novo PAC - Seleções' e um link para a PNAB; 'PNAB-Patrimônio' não aparece como edital.
+  - Esclarecimento: Valores e prazos atuais não foram confirmados.
+- **EBC – Rádio MEC e Rádio Nacional (canais de contato)** (não verificada, verificada 1 vez) https://radiomec.ebc.com.br/
+  - O que é: Artistas e produtores que queiram propor material às rádios públicas federais.
+  - Requisitos: Nenhum requisito publicado. Não há processo de envio de música descrito no site.
+  - Pagamento ou benefício: Não há pagamento ou bolsa. Possível exposição em rádio pública, sem garantia.
+  - Prazo ou ciclo: Sem chamada vista; contato permanente.
+  - Como se candidatar: https://www.ebc.com.br/fale-conosco
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O site da Rádio MEC não tem formulário de envio de música nem chamada aberta; a votação do Prêmio Rádio MEC é feita pelos ouvintes e não é inscrição de artistas.
+  - Esclarecimento: A página de contatos da EBC (https://www.ebc.com.br/fale-conosco) lista radiomec@ebc.com.br e WhatsApp (21) 99710-0537 para a Rádio MEC, e radionacional@ebc.com.br e WhatsApp (61) 99989-1201 para a Rádio Nacional FM.
+  - Esclarecimento: Não há confirmação de que esses canais recebam material de artistas; o contato seria apenas um pedido de informação.
+- **Santa Marcelina Cultura: processos seletivos do Projeto Guri (educador musical)** (não verificada, verificada 1 vez) https://www.santamarcelinacultura.org.br/trabalhe-conosco/
+  - O que é: Músicos e professores de instrumento que queiram dar aulas coletivas para crianças e adolescentes nos polos do Projeto Guri (programa do Governo de SP, gerido pela organização social Santa Marcelina Cultura). Contratação CLT, por hora-aula, com processos abertos por cidade ao longo do ano.
+  - Requisitos: sem dados (não exibidos na página; constam em cada edital regional)
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Nenhuma vaga aberta listada na página em 23/11/2026; ciclo regional contínuo não confirmado nesta verificação.
+  - Como se candidatar: https://www.santamarcelinacultura.org.br/trabalhe-conosco/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página oficial não lista nenhum processo seletivo aberto, nem de educador musical, e a subpágina de RH também não lista vagas.
+  - Esclarecimento: Datas, valores e periodicidade não foram confirmados.
+  - Esclarecimento: Contato: Serviço de Atendimento ao Usuário, (11) 3367-9040, sau@santamarcelinacultura.org.br.
+  - Esclarecimento: Atendimento presencial em Largo General Osório, 147, Luz, São Paulo/SP, de segunda a sexta, das 9h às 12h e das 13h às 17h.
+
+## Prêmios e salões oficiais
+
+- **Secretaria Municipal de Cultura de São Paulo - página de editais (VAI, Fomento ao Teatro, Dança, Circo, PROMAC e outros)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://prefeitura.sp.gov.br/web/cultura/editais/
+  - O que é: Artistas, grupos e coletivos da cidade de São Paulo. A página reúne editais de apoio à música, ao reggae, ao samba, ao forró, ao circo, à dança, ao teatro, à capoeira, ao VAI (Valorização de Iniciativas Culturais), Pontos de Cultura, credenciamento de oficineiros e o PROMAC 2026.
+  - Requisitos: Varia por edital. Em geral exige atuação na cidade de São Paulo; alguns são para pessoa jurídica, outros para pessoa física ou coletivo. Ler o regulamento de cada um.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Varia por edital; valores não vistos nesta página (ver cada edital).
+  - Prazo ou ciclo: Página lista 12 editais abertos sem datas individuais. Datas visíveis: Radiodifusão Comunitária (9ª) de 04/03 a 07/04 (ano não informado); Ocupação do Centro Cultural Tendal da Lapa até 13/03; Fomento de Apoio a Bibliotecas Comunitárias com envio até 28/08 (ano não informado). Inscrições pelo sistema Porta de Entrada em alguns casos.
+  - Como se candidatar: https://smceditais.prefeitura.sp.gov.br
+  - Leitura automática possível: Nenhuma API vista.
+  - Esclarecimento: Página-índice oficial, útil para acompanhar lançamentos; nenhum edital foi confirmado como aberto em 23/11/2026.
+  - Esclarecimento: O prazo de 17 a 24 de novembro (Pontos e Pontões) não tem ano visível, e a listagem tem três páginas, então pode haver editais além dos citados.
+  - Esclarecimento: A página mistura itens antigos (Jornada do Patrimônio 2025, Credenciamento do Mês do Hip-Hop até 17/02).
+  - Esclarecimento: Programas municipais, restritos à cidade de São Paulo.
+- **MAR - Museu de Arte de Rua (Prefeitura de São Paulo)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://capital.sp.gov.br/web/cultura/w/noticias/34988
+  - O que é: Artistas urbanos (muralistas, grafiteiros e afins) que proponham obras em espaços públicos da cidade, em duas categorias: solo e em altura.
+  - Requisitos: Não informado na página para 2026 (artistas de arte urbana/grafite e muralismo; regras no edital publicado no Diário Oficial). Contato: smcmar@prefeitura.sp.gov.br ou WhatsApp 11 98397-6262.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Em 2025, R$ 3,5 milhões divididos nas categorias solo e em altura. Valores de 2026 não vistos na página.
+  - Prazo ou ciclo: Edital 28/2026/SMC/CPROG (Fomento às Artes Urbanas): a fase de inscrição de 2026 já passou; a página só mostra a etapa de resultados (recursos 23/10, classificação provisória 05/11, resultado complementar 09/11, respostas a recursos 17/11, sem ano na página). Edição de 2025 teve inscrições de 06/03 a 28/04, prorrogadas até 05/05. Edições regulares (programa desde 2017); próxima provável no início de 2027, é suposição.
+  - Como se candidatar: https://prefeitura.sp.gov.br/web/cultura/w/noticias/34988
+  - Leitura automática possível: Nenhuma API vista.
+  - Esclarecimento: Requisitos de residência e de personalidade jurídica não foram confirmados.
+  - Esclarecimento: As datas da etapa de resultados (recursos 23/10, classificação provisória 05/11, resultado complementar 09/11, respostas a recursos 17/11) aparecem sem ano na página.
+  - Esclarecimento: A próxima edição no início de 2027 é apenas suposição.
+  - Esclarecimento: O endereço capital.sp.gov.br redireciona para prefeitura.sp.gov.br/web/cultura/w/noticias/34988.
+- **Prêmio BTG Pactual da Música Brasileira** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.premiodamusica.com.br/participacao
+  - O que é: Principal premiação da música brasileira; a 33ª edição ocorreu em 10/nov/2026 (relato de Billboard, CNN Brasil e outros nos resultados de busca).
+  - Requisitos: Produtos musicais e audiovisuais lançados entre 01/01 e 31/12/2026. A inscrição é por formulário (Google Forms, linkado na página). O regulamento completo está em PDF na página e não foi lido, então quem pode inscrever e o que enviar são sem dados. A home fala em 31 premiados em categorias de erudito a popular, de regional a urbano, e em cerca de 10 mil artistas inscritos de 18 estados na edição de 2023.
+  - Pagamento ou benefício: sem dados (valores de prêmio não aparecem na página)
+  - Prazo ou ciclo: Prêmio anual. A página 'Como participar' diz que as inscrições para a próxima edição estão abertas, sem datas. A regra pede obras lançadas entre 01/01/2026 e 31/12/2026. O prazo exato é sem dados.
+  - Como se candidatar: https://www.premiodamusica.com.br/participacao
+  - Leitura automática possível: Nenhuma.
+  - Esclarecimento: A página tem rótulos desatualizados ('PMB 2023', rodapé 2022), então a edição em curso é incerta.
+  - Esclarecimento: O regulamento em PDF não foi lido; quem pode se inscrever, o que enviar e o requisito de nacionalidade ou residência não foram confirmados.
+  - Esclarecimento: Convém ler o regulamento antes de contar com o prêmio.
+- **Salão Paranaense de Arte Contemporânea (68º) e Profice - Secretaria da Cultura do Paraná** (não verificada, verificada 1 vez) https://www.cultura.pr.gov.br/Pagina/Chamamento-68deg-Salao-Paranaense-de-Arte-Contemporanea-Ndeg-0172026
+  - O que é: O Chamamento Público 017/2026 é para uma empresa produtora que realize o 68º Salão. Depois, a produtora fará uma chamada nacional de obras, o que interessa a artistas visuais. Também há o Profice (incentivo fiscal estadual, 5ª edição) em dança, música, artes visuais, teatro, audiovisual e outras áreas.
+  - Requisitos: Para a empresa: Anexos III, IV e VI do edital. Para artistas: ainda não publicado.
+  - Pagamento ou benefício: R$ 661,1 mil de orçamento para a contratação da empresa; prêmios ou pagamentos a artistas: desconhecido.
+  - Prazo ou ciclo: O Chamamento Público 017/2026 (aviso no Diário Oficial de 09/11/2026, listado em Editais Abertos) seleciona uma EMPRESA para produzir e executar o 68º Salão; não é uma chamada para artistas. Abertura da exposição prevista para o 1º semestre de 2027. Prazo de inscrição desse chamamento não visto. A chamada nacional de obras para artistas deve ser feita depois pela empresa contratada, em data desconhecida.
+  - Como se candidatar: Acompanhar a página da Secretaria da Cultura do Paraná (https://www.cultura.pr.gov.br) pela chamada de obras. Profice: https://www.cultura.pr.gov.br/PROFICE.
+  - Leitura automática possível: Nenhuma API vista.
+  - Esclarecimento: O Chamamento Público 017/2026 é a contratação de uma empresa produtora (orçamento de R$ 661,1 mil do Tesouro estadual), não uma inscrição de artistas.
+  - Esclarecimento: A chamada de obras para artistas ainda não existe; as regras e a residência não estão confirmadas, embora o Salão seja nacional, o que indica abertura a artistas de fora do Paraná.
+  - Esclarecimento: Os três editais Profice (Povos e Comunidades Tradicionais, Multiáreas e Circulação, todos de repasse direto) aparecem em Editais Fechados apenas pela posição no menu, sem confirmação nas páginas individuais.
+- **SP-Arte (feira e prêmios associados)** (não verificada, verificada 1 vez) https://www.sp-arte.com
+  - O que é: Feira de arte de São Paulo. O site cita o Prêmio Claraboia de Arte Contemporânea (primeira edição), o Prêmio MECA SP-Arte e o Programa de Residência Artística Sertão Negro.
+  - Requisitos: sem dados. Feiras de arte em geral recebem galerias, e não artistas individuais, mas isso não foi confirmado na página.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados. A home mostra SP-Arte Rotas 2026 e cita o Prêmio MECA SP-Arte e o Prêmio Claraboia de Arte Contemporânea (primeira edição). Não vi datas, prazos nem chamadas abertas.
+  - Como se candidatar: https://www.sp-arte.com
+  - Leitura automática possível: Nenhuma.
+  - Esclarecimento: Não foi confirmada nenhuma chamada, valor, prazo ou regra de elegibilidade para o Prêmio MECA SP-Arte nem para o Prêmio Claraboia.
+  - Esclarecimento: Feiras de arte em geral recebem galerias, e não artistas individuais, mas isso não foi confirmado.
+  - Esclarecimento: Antes de listar como oportunidade, é preciso abrir as páginas específicas desses prêmios.
+- **Festival de Música Rádio Nacional (EBC)** (não verificada, verificada 1 vez) https://festivalradionacional.ebc.com.br/
+  - O que é: sem dados
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados
+  - Como se candidatar: Verificar o site do festival e a Rádio Nacional (https://radionacional.ebc.com.br/) para saber se há inscrição aberta.
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página inicial exibe apenas o título 'Votação Popular | Festival de Música Rádio Nacional', sem edição, ano, inscrições, prêmios nem regulamento.
+  - Esclarecimento: Os caminhos /inscricoes e /votacao-popular retornam erro 404.
+  - Esclarecimento: Não é possível confirmar chamada aberta nem ciclo anual; convém conferir no site da EBC ou nas redes oficiais.
+
+## Emprego público e docência
+
+- **Escola de Música da UFRJ - Concurso Jovens Instrumentistas 2027 e processos seletivos** (aberta ou vigente, verificada 2 vezes) https://musica.ufrj.br/2026/11/05/concurso-jovens-instrumentistas-abre-inscricoes-para-solistas-das-orquestras-da-ufrj-em-2027/
+  - O que é: Estudantes de bacharelado em instrumentos da Escola de Música da UFRJ (universidade federal, Rio de Janeiro).
+  - Requisitos: Restrito a alunos regularmente matriculados no Bacharelado em Instrumentos da EM/UFRJ no instrumento principal. Canto, composição, regência, licenciatura e pós-graduação ficam de fora. Exige autorização assinada do professor, obra para solista e orquestra e acompanhador próprio. Não há limite de idade ou nacionalidade no edital. Máximo de 2 aparições como solista.
+  - Residentes no Brasil podem se candidatar: não
+  - Pagamento ou benefício: Sem cachê nem prêmio em dinheiro. A recompensa é um solo com orquestra em 2027: 4 vagas com a Orquestra Sinfônica e 2 com a Orquestra de Sopros da UFRJ.
+  - Prazo ou ciclo: Inscrições até 04/12/2026; audição em 11/12/2026, 9h30, Salão Leopoldo Miguez. Não verifiquei se o concurso se repete todo ano. Os outros ciclos citados (Teste de Habilidade Específica 2027, matrícula de Educação Musical em fev/2027) não foram conferidos nesta consulta.
+  - Como se candidatar: https://docs.google.com/forms/d/e/1FAIpQLSdfvXIJJHaZ0bxgxTs-cdJ9kIKiUVv_DyeiEdADZigrt77b_A/viewform
+  - Leitura automática possível: RSS: sem dados (site WordPress, não testado)
+  - Esclarecimento: Não é emprego nem chamada pública geral: só serve a quem já estuda no Bacharelado em Instrumentos da UFRJ; para o público em geral, a elegibilidade é não.
+  - Esclarecimento: Exige autorização assinada do professor, obra para solista e orquestra e acompanhador próprio.
+  - Esclarecimento: A página não informa periodicidade, apenas fala em 'mais uma edição'.
+  - Esclarecimento: Os outros ciclos citados (Teste de Habilidade Específica 2027, matrícula de Educação Musical em fev/2027) não foram conferidos.
+- **Theatro Municipal de São Paulo – Trabalhe Conosco (bailarino, músicos, equipe técnica)** (aberta ou vigente, verificada 2 vezes) https://theatromunicipal.org.br/trabalhe-conosco/
+  - O que é: Bailarinos, músicos e profissionais técnicos e administrativos. Vagas do Balé da Cidade, do Coro Lírico, da Orquestra e da equipe do teatro.
+  - Requisitos: Varia por vaga (não listado na página). Para o bailarino, conferir o edital PDF; para as demais, a página de cada vaga no Solides ou na Sustenidos.
+  - Pagamento ou benefício: sem dados (varia por vaga; não informado na listagem)
+  - Prazo ou ciclo: Fluxo contínuo. Em 23/11/2026 abertas: Bailarino(a) até 02/12/2026 (edital PDF); Músico Violista II, Violinista I e II até 09/12/2026 (os mesmos da audição de violino e viola, cuja inscrição já fechou em 10/11, conforme a página da audição); administrativas (captação, tesouraria, controladoria, manutenção predial, design, controladoria) até 30/11/2026. Muitas outras já vencidas.
+  - Como se candidatar: https://theatromunicipal.org.br/trabalhe-conosco/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A data de 09/12 da listagem para músicos diverge do encerramento de 10/11 da página da audição; as vagas de músicos devem ser tratadas como já fechadas.
+  - Esclarecimento: A página lista vagas do Baccarelli (via portal Solides ou edital) e da Sustenidos (sustenidos.org.br/oportunidades-rh).
+  - Esclarecimento: O Banco de Talentos da Sustenidos aparece com prazo de 31/05/2026, já vencido; não está confirmado se continua recebendo currículos.
+  - Esclarecimento: Requisitos e salário constam só em cada vaga ou edital.
+- **Conservatório de Tatuí – Trabalhe Conosco, processos em andamento** (aberta ou vigente, verificada 2 vezes) https://www.conservatoriodetatui.org.br/em-andamento-professora-de-artes-cenicas/
+  - O que é: Professores de música e artes cênicas e equipe do Conservatório de Tatuí (SP), um dos maiores conservatórios públicos do país, gerido por organização social.
+  - Requisitos: Ensino superior completo em Artes Cênicas, Artes Visuais, Arquitetura ou áreas afins. Experiência artística e docente em Visualidades da Cena – Cenografia. Interesse e pesquisa em história da encenação teatral é diferencial. Presencial em Tatuí/SP, ao menos dois dias por semana, em geral à noite.
+  - Pagamento ou benefício: R$ 64,60 por hora-aula completa, CLT, 8h15 semanais. Benefícios: vale-transporte, plano de saúde e odontológico, Wellhub, Cartão de Todos, seguro de vida, parceria com o SESC, auxílio-creche, entre outros.
+  - Prazo ou ciclo: Envio de currículos de 11/11/2026 a 02/12/2026 (Professor(a) de Artes Cênicas – Cenografia).
+  - Como se candidatar: https://www.sustenidos.org.br/oportunidades-rh/vaga/190
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A vaga é da Sustenidos, organização que gere o Conservatório; a inscrição é feita criando conta e cadastrando o currículo no portal.
+  - Esclarecimento: Dúvidas: rh@conservatoriodetatui.org.br.
+  - Esclarecimento: Não está confirmado se há restrição de nacionalidade ou de morar em Tatuí.
+  - Esclarecimento: Os prazos de outras vagas de professor aparecem na mesma página quando abertas.
+- **Fundação Clóvis Salgado (Minas Gerais) – editais de professores de arte e corpos artísticos** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://fcs.mg.gov.br/editais/
+  - O que é: Professores de arte temporários para as Escolas de Dança e Música do CEFART, e artistas e grupos que atendem aos chamamentos públicos de programação do Palácio das Artes.
+  - Requisitos: Varia por edital. Não confirmei os requisitos dos editais de professores de arte nem dos corpos artísticos. Os editais FEC aceitam pessoa física, MEI ou pessoa jurídica (ver cada edital).
+  - Pagamento ou benefício: sem dados (não visto nas páginas lidas)
+  - Prazo ou ciclo: Sem chamada de professor ou corpo artístico aberta em 23/11/2026. Ciclo irregular, mas repetido: Edital 15/2024 e 16/2024 (professores de arte, prorrogação em dez/2025), Chamamentos 01 a 03/2025 e Chamamento Público 01/2026 (abr/2026, resultado em jun/2026). Os editais FEC 08, 09, 10 e 13 (Minas em Cena, Circula Minas, Passarela Liberdade, Mostras e Festivais) saem todo ano, com publicação por volta de agosto e resultado final entre set e dez.
+  - Como se candidatar: https://fcs.mg.gov.br/editais/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O 6º Prêmio Décio Noviello de Artes Visuais e Fotografia aparece na página como aberto, mas o edital 07/2026 mostra inscrições de 03/08/2026 a 11/10/2026, ou seja, já encerradas.
+  - Esclarecimento: Esse prêmio é gratuito, aceita brasileiros e estrangeiros residentes no Brasil, tem exposições de dez/2026 a mar/2027 e é anual desde 2020, com próxima edição esperada por volta de agosto de 2027.
+  - Esclarecimento: A página tem muitos PDFs e não traz datas de inscrição, então a ausência de chamada aberta foi inferida pelas situações exibidas e algum item pode ter ficado de fora.
+  - Esclarecimento: O Edital 16/2024 (professores de arte) tem prorrogação publicada, sem prazo claro.
+- **UFMG – PRORH, concursos de Magistério Federal e professor substituto** (não verificada, verificada 1 vez) https://aplicativos.ufmg.br/gprocss/#/
+  - O que é: Candidatos a professor federal (adjunto, assistente, auxiliar, substituto, visitante, EBTT) na UFMG. Escolas de Música e de Belas Artes publicam editais por área.
+  - Requisitos: sem dados. A página trata de reserva de vagas para candidatos negros, indígenas, quilombolas e pessoas com deficiência, e não de requisitos de uma vaga de arte.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Sem concurso de arte ou música visto em 23/11/2026. A página só traz as condições gerais (Edital 167/2026 de 03/02/2026, 278/2026, 1903/2026, e os de 2025) e diz que não lista editais de professor substituto ou visitante. Concursos federais saem conforme abrem vagas, sem calendário fixo.
+  - Como se candidatar: https://aplicativos.ufmg.br/gprocss/#/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página só traz regras gerais (reserva de vagas) e nada específico de arte; não lista editais de professor substituto ou visitante.
+  - Esclarecimento: Onde procurar: o site de professor substituto (gprocss), https://www2.ufmg.br/concursos, o Diário Oficial da União e o site da Escola de Música ou da Escola de Belas Artes; os endereços alternativos vêm da própria página da UFMG.
+  - Esclarecimento: Dúvidas: admissaodocente@drh.ufmg.br.
+- **UNIRIO – admissão de docentes (Centro de Letras e Artes)** (não verificada, verificada 1 vez) https://www.unirio.br/progepe/concursosdocentes
+  - O que é: Candidatos a docente da UNIRIO, que mantém cursos de música, artes cênicas e outras no Centro de Letras e Artes.
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Não confirmei nenhum concurso aberto. A página original é uma notícia de 12/06/2019 e está desatualizada. A página nova (progepe/concursosdocentes, modificada em 03/07/2025) só lista quatro categorias: Magistério Superior Efetivo, Professor Substituto, Professor Visitante e Concurso UNIRIO, sem editais, datas ou status.
+  - Como se candidatar: https://www.unirio.br/progepe/concursosdocentes
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O endereço original é uma notícia de 2019, desatualizada; progepe/concursosdocentes deve ser usado como página oficial.
+  - Esclarecimento: Não está confirmado se há vaga no Centro de Letras e Artes, pois a página só lista categorias, sem editais.
+  - Esclarecimento: Concursos de universidade federal saem conforme abrem vagas, sem calendário fixo.
+- **Santa Marcelina Cultura – Trabalhe Conosco e editais** (não verificada, verificada 1 vez) https://santamarcelina.org/processo-seletivo
+  - O que é: Organização social que opera escolas e programas de música em São Paulo (a página não cita EMESP Tom Jobim nem Projeto Guri). Vagas para educadores, músicos e equipe.
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Sem vaga de música ou arte vista em 23/11/2026. A página 'Trabalhe Conosco' foi atualizada em 21/10/2026, mas aponta para o portal de vagas (santamarcelinasaude.pandape.infojobs.com.br) e para santamarcelina.org/editais/. Os editais listados lá (nº 244 a 316/2026, de set a nov/2026) são todos da Santa Marcelina Saúde (enfermagem, laboratório, administração), não da Cultura.
+  - Como se candidatar: https://santamarcelina.org/processo-seletivo
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O site santamarcelina.org mistura as áreas de Saúde e de Cultura; o fluxo de contratação visto é da Saúde, então serve pouco como fonte de vagas de música.
+  - Esclarecimento: Para oportunidades de música, procurar no site da Santa Marcelina Cultura (escola de música); esse endereço não foi verificado.
+  - Esclarecimento: Telefone da instituição: 11 2070-6000.
+
+## Residências
+
+- **Res Artis (open calls de residências)** (aberta ou vigente, verificada 2 vezes) https://resartis.org/open-calls/
+  - O que é: Rede mundial de residências artísticas. A listagem filtra por país e inclui residências online (filtro 'Global').
+  - Requisitos: Definidos em cada chamada: candidatura individual na página da residência (portfólio, projeto, taxas). A elegibilidade por nacionalidade não aparece na listagem e varia por residência.
+  - Pagamento ou benefício: sem dados. A listagem mostra só título, país e prazo, sem taxas nem bolsas. Cada residência define as suas condições.
+  - Prazo ou ciclo: Fluxo contínuo. Em 23/11/2026 vi no Brasil: Ilhabela (24/11 para fev/mar 2027, jun/jul 2027 e Writing Sessions '27; 30/11 e 08/12 para outras residências multidisciplinares e Writing Sessions), Amazônia/Amazon (30/11 e 08/12), Mata Atlântica (31/12, aberta de forma contínua) e HABEAS DATA (31/12). Música no Canadá: Chamber Music 2027 e Choral Art Festival 2027 (13/01/2027). A lista foi lida só em parte, e o resto do catálogo pode ter mais.
+  - Como se candidatar: https://resartis.org/open-calls/
+  - Leitura automática possível: Nenhuma vista.
+  - Esclarecimento: É um diretório: a elegibilidade por nacionalidade não aparece na listagem e varia por residência.
+  - Esclarecimento: A lista foi lida só em parte, e só os prazos do Brasil e do Canadá foram conferidos.
+  - Esclarecimento: É preciso abrir cada chamada para ver taxas e regras antes de se candidatar.
+- **Residência Artística FAAP (São Paulo)** (aberta ou vigente, verificada 2 vezes) https://www.faap.br/residencia-artistica/
+  - O que é: Artistas visuais que vivem no exterior ou fora do Estado de São Paulo (inclui brasileiros de outros estados).
+  - Requisitos: Artista maior de 18 anos residente no exterior ou fora do Estado de São Paulo. Ficha de inscrição, currículo e portfólio, foto 3x4, 2 cartas de recomendação assinadas por profissionais da área, projeto (resumo, objetivo, descrição, necessidades, cronograma), aceite de participação nos Seminários de Investigações Contemporâneas e open studios, regulamento assinado, taxa de inscrição de R$ 200 e seguro saúde.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Sem bolsa. Hospedagem e ateliê gratuitos, mas o artista paga R$ 200 de inscrição, R$ 350 de taxa administrativa, R$ 1.000 de depósito reembolsável, viagem, alimentação e materiais.
+  - Prazo ou ciclo: Inscrições abertas e prorrogadas, sem novo prazo visível na página.
+  - Como se candidatar: https://utilities.faap.br/Register/Selection?idConcurso=2401 ; regulamento: https://www.faap.br/wp-content/uploads/2026/06/REGULAMENTO-GERAL-DA-RESIDENCIA-ARTISTICA-FAAP-–-SAO-PAULO-2027-2.pdf
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Quem reside no estado de São Paulo não se enquadra no requisito de residência.
+  - Esclarecimento: O prédio não tem acessibilidade para cadeira de rodas, e são permitidas no máximo duas pessoas por ateliê, sem crianças nem animais.
+  - Esclarecimento: A seleção é feita por curador, e o aceite de participação nos Seminários de Investigações Contemporâneas e open studios faz parte da inscrição.
+  - Esclarecimento: A página não confirma duas entradas por ano nem inscrição em fevereiro, dizendo apenas que recebe artistas por semestre.
+- **Instituto Sacatar – Residências artísticas em Itaparica (BA)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://sacatar.org/residencias/
+  - O que é: Artistas de todas as disciplinas (artes visuais, música, escrita, etc.) de qualquer país; já recebeu residentes de mais de 75 países. Grupos de 6 a 8 artistas, com pelo menos 4 disciplinas.
+  - Requisitos: A página não lista requisitos de portfólio ou título. Sem limite de idade. Exigência de certificado de vacinação contra covid mencionada na página. Quem trabalhou para a Fundação/Instituto Sacatar deve esperar um ano. Detalhes completos no edital de cada chamada.
+  - Pagamento ou benefício: Sem bolsa em dinheiro. Cobre hospedagem, três refeições, ateliê individual, lavanderia e traslados do aeroporto. Não cobre passagem aérea nem materiais.
+  - Prazo ou ciclo: A Chamada Aberta 2027 está encerrada (candidatos avisados por e-mail até 23/10/2026). A página informa que a próxima chamada aberta será em julho de 2027. Chamadas parceiras menores durante o ano, via newsletter.
+  - Como se candidatar: Inscrição fechada. Para a chamada de julho de 2027, assinar a newsletter pelo formulário em https://sacatar.org/residencias/ ; contato info@sacatar.org
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A residência cobre quarto privativo com banheiro, três refeições diárias (não aos sábados à noite, domingos e feriados), ateliê individual, lavanderia semanal, apoio logístico e traslados do aeroporto de Salvador, mas não passagens, bolsa em dinheiro nem materiais.
+  - Esclarecimento: A página não informa nacionalidade ou residência exigidas na chamada principal, e chamadas parceiras podem restringir por nacionalidade ou disciplina.
+  - Esclarecimento: O programa recebeu cerca de 600 candidaturas de mais de 80 países.
+  - Esclarecimento: Contato: info@sacatar.org; exigência de certificado de vacinação contra covid mencionada na página.
+- **Pivô Pesquisa (São Paulo) – programa de residências artísticas do Pivô** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://pivo.org.br/programas/pivo-pesquisa/
+  - O que é: Artistas, curadores, pesquisadores, educadores, críticos, escritores, gestores, editores e outros profissionais das artes. A chamada é internacional.
+  - Requisitos: Aberto a artistas, curadores, pesquisadores, educadores, críticos, escritores, gestores, editores e outros profissionais ligados às artes. Requisitos formais não listados na página; consultar o edital de cada chamada.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Gratuito, com auxílio à pesquisa (valor não informado na página). Inclui tutoria, aulas, debates, oficinas, reuniões mensais e apoio curatorial.
+  - Prazo ou ciclo: A página diz que a chamada aberta é lançada todo ano, em caráter internacional. Residências em dois ciclos semestrais, de 3 ou 5 meses cada. Datas da chamada atual: não aparecem na página.
+  - Como se candidatar: Sem link de inscrição na página. Acompanhar https://pivo.org.br/agenda/ e https://pivo.org.br/newsletter/ ; contato pesquisa@pivo.org.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página descreve a chamada como anual e internacional, o que indica que residentes no Brasil podem se candidatar.
+  - Esclarecimento: A página não traz datas, requisitos, edital nem link de inscrição, e a chamada de 2027 não foi confirmada.
+  - Esclarecimento: As chamadas costumam ser anunciadas na agenda e na newsletter do Pivô e no Instagram @pivoartepesquisa.
+  - Esclarecimento: Contato: pesquisa@pivo.org.br.
+- **TransArtists (DutchCulture)** (não verificada, verificada 1 vez) https://www.transartists.org/en/residencies
+  - O que é: Base de dados de residências e chamadas mantida pela DutchCulture.
+  - Requisitos: Desconhecido; depende de cada residência (muitas pedem portfólio e proposta).
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Banco de dados com mais de 1.700 residências e seção de chamadas abertas e prazos; a página de chamadas lida mostrava só um item (Creative Europe MEDIA, prazo 02/02/2027), que é um edital de fomento e não uma residência.
+  - Como se candidatar: https://www.transartists.org/en/residencies
+  - Leitura automática possível: Nenhuma vista.
+  - Esclarecimento: A página de chamadas lida mostrava apenas um edital de fomento (Creative Europe MEDIA), não uma residência.
+  - Esclarecimento: A página /en/open-calls retornou 403 e não foi lida.
+  - Esclarecimento: Não foi confirmado se há residências no Brasil nem se o uso é gratuito; as residências podem ser buscadas em /en/residencies.
+- **Videobrasil – Programa de residências e prêmios (Sul Global)** (não verificada, verificada 1 vez) https://site.videobrasil.org.br/residencias
+  - O que é: Artistas do Sul Global (a rede inclui parcerias em cinco continentes). Residências ligadas aos prêmios do Festival, de Videobrasil em Contexto e da Temporada de Dança.
+  - Requisitos: Não informados nas páginas lidas. A chamada de cada prêmio traz os requisitos.
+  - Pagamento ou benefício: Bolsas e comissionamentos, e residências em instituições parceiras para os premiados (valores não informados).
+  - Prazo ou ciclo: Nenhuma chamada aberta vista em 2026-11-23. As páginas não trazem prazos nem ciclo anual. Os prêmios e residências estão ligados às edições do Festival, a Videobrasil em Contexto e à Temporada de Dança.
+  - Como se candidatar: Sem chamada aberta. Acompanhar https://site.videobrasil.org.br/news ; contato residencias@videobrasil.org.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página oficial não traz chamada, prazo, elegibilidade nem link de inscrição.
+  - Esclarecimento: O Festival concede aos vencedores residências em instituições parceiras no exterior, com prêmio dado desde 1990, e Videobrasil em Contexto lista edições passadas (2012, 2016, 2018) por convocatória pública, sem recorrência atual.
+  - Esclarecimento: Instituições interessadas em entrar na rede de residências podem escrever para residencias@videobrasil.org.br ou ligar para +55 11 3645-0516.
+  - Esclarecimento: Há uma vaga Pivô-Videobrasil (Práticas da Imagem em Movimento) na chamada Pivô Boulevard 2027, já encerrada.
+- **Ateliê Fidalga – Residência Paulo Reis (São Paulo)** (não verificada, verificada 1 vez) https://www.ateliefidalga.com.br/categorias/residencia-paulo-reis
+  - O que é: Artistas em intercâmbio; residência sem fins lucrativos em homenagem ao curador Paulo Reis, em parceria com Aomori Contemporary Art Centre, Appleton e DIDAC (e o Programa PONTE).
+  - Requisitos: sem dados (nenhum requisito publicado; contato direto com o ateliê)
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Desconhecido. Nenhum edital, prazo ou ciclo anual visto no site.
+  - Como se candidatar: https://www.ateliefidalga.com.br/contato
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página só cita residências passadas (nov/2023, com apoio do PICE da Acción Cultural Española, e fev/2014) e não mostra edital, datas, prazos, bolsa, hospedagem, requisitos nem elegibilidade.
+  - Esclarecimento: Não é possível confirmar chamada aberta nem ciclo; nada indica que tenha sido encerrada, mas também não há prova de que esteja aberta.
+  - Esclarecimento: Há também Intercâmbio e Programa PONTE (artista convidado a dialogar com a obra de um artista residente), sem chamada visível.
+  - Esclarecimento: Contato: ateliefidalga@gmail.com ou +55 (11) 3813-4249.
+
+## Chamadas abertas
+
+- **Conservatório de Tatuí – Bolsa Performance para grupos artísticos musicais 2027** (aberta ou vigente, verificada 2 vezes) https://www.conservatoriodetatui.org.br/inscricoes-abertas-1o-processo-seletivo-de-bolsa-performance-grupos-artisticos-musicais-temporada-2027/
+  - O que é: Músicos instrumentistas e cantores para os grupos artísticos musicais do Conservatório (temporada 2027).
+  - Requisitos: Não conseguiu confirmar: o edital em PDF não pôde ser lido e a página não diz quem pode se inscrever. A página diz que há grupos que exigem vídeo (item 6 do edital: gravação horizontal, breve apresentação, peça indicada, YouTube não listado). Repertório e playbacks ficam em um link SharePoint na página.
+  - Pagamento ou benefício: sem dados (valor da bolsa não aparece na página). Os bolsistas se apresentam em vários locais, trabalham com artistas e professores convidados e participam da competição interna 'Destaques do Ano'.
+  - Prazo ou ciclo: Inscrições até 30/11/2026 (a data no topo da página está errada, '10/011/2026'; o texto diz 'até o dia 30 de novembro'). Chamado '1º processo seletivo' da temporada 2027, o que sugere ciclo anual com mais de uma etapa. Datas de audição: sem dados.
+  - Como se candidatar: https://www.conservatoriodetatui.org.br/inscricoes-abertas-1o-processo-seletivo-de-bolsa-performance-grupos-artisticos-musicais-temporada-2027/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Inscrição gratuita por formulário online; o e-mail de confirmação pode cair no spam.
+  - Esclarecimento: Requisitos (idade, matrícula, instrumento, residência) e valor da bolsa devem ser conferidos no edital em PDF.
+  - Esclarecimento: Dúvidas: bolsista@conservatoriodetatui.org.br; avisos no Espaço Estudantil do site.
+- **ArtConnect (oportunidades para artistas)** (aberta ou vigente, verificada 2 vezes) https://www.artconnect.com/opportunities
+  - O que é: Agregador com 347 oportunidades abertas: chamadas, residências, bolsas, prêmios, vagas e cursos; filtros por tipo, taxa, prêmio e prazo.
+  - Requisitos: Varia por chamada: algumas abertas a qualquer país, outras restritas por região ou residência. Conferir título, portfólio, idade e residência na página de cada chamada. Conta na plataforma: não confirmada na página lida.
+  - Pagamento ou benefício: Varia por chamada (residências, bolsas, prêmios); muitas sem taxa, algumas com taxa de inscrição não informada. Valores não vistos na listagem.
+  - Prazo ou ciclo: Atualização contínua: a página listava 347 oportunidades ordenadas pelo prazo mais próximo (visto em 2026-11-23). Cada chamada tem seu próprio prazo.
+  - Como se candidatar: https://www.artconnect.com/opportunities
+  - Leitura automática possível: Nenhuma vista.
+  - Esclarecimento: A elegibilidade depende de cada chamada, não da plataforma; é preciso abrir cada uma.
+  - Esclarecimento: As chamadas voltadas ao Brasil encontradas na busca eram antigas (residência com prazo em 28/10/2024, já encerrada).
+  - Esclarecimento: Algumas chamadas cobram taxa de inscrição, com valor não exibido na listagem.
+  - Esclarecimento: Planos pagos para recursos extras foram vistos apenas em resultado de busca.
+- **ArtRabbit (artist opportunities)** (aberta ou vigente, verificada 2 vezes) https://www.artrabbit.com/artist-opportunities
+  - O que é: Plataforma britânica com 72 chamadas abertas: concursos, prêmios, residências, comissões, exposições e bolsas.
+  - Requisitos: Varia por chamada: exemplos incluem 'artistas profissionais com histórico de exposições' (Pollock-Krasner), 'artistas visuais 18+' (BBA), 'artistas de qualquer nacionalidade' (Talents Contemporains). Conferir residência e portfólio em cada chamada.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Varia: de prêmios de 2.500 dólares a até 50.000 dólares (Pollock-Krasner) e 15.000 euros por vencedor (Talents Contemporains); algumas chamadas têm taxa de 15 a 39 dólares ou euros.
+  - Prazo ou ciclo: Atualização contínua: 72 oportunidades listadas, com prazos entre 22/11/2026 e 31/12/2026 (visto em 2026-11-23). Parte da lista não foi lida (página truncada).
+  - Como se candidatar: https://www.artrabbit.com/artist-opportunities
+  - Leitura automática possível: Nenhuma vista.
+  - Esclarecimento: Exemplos abertos a artistas de qualquer país: Pollock-Krasner exige histórico de exposições e exclui estudantes; BBA Artist Prize cobra taxa de 39 euros.
+  - Esclarecimento: Algumas chamadas são restritas por região (Ásia, Reino Unido, EUA); a elegibilidade vale por chamada.
+  - Esclarecimento: O prazo do Talents Contemporains Water Competition vence em 23/11/2026 ou já venceu.
+  - Esclarecimento: Nenhuma chamada sediada no Brasil foi vista na parte lida da lista.
+- **Ibermúsicas (editais para o setor musical ibero-americano)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.ibermusicas.org
+  - O que é: Programa ibero-americano de fomento à música com editais anuais para o setor musical; também há o 12º Prêmio Ibermúsicas Brasil 2026 (PDF no site, ilegível para mim).
+  - Requisitos: sem dados. A home não traz regras, valores nem a lista de países elegíveis. O Brasil é membro do programa, mas isso não foi visto na página.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Convocatórias anuais. Em 02/10/2026 o site publicou 'cerraron las convocatorias Ibermúsicas 2026'. O próximo ciclo é sem dados, e as páginas de 'convocatorias activas' e 'convocatorias anteriores' não foram lidas.
+  - Como se candidatar: https://www.ibermusicas.org
+  - Leitura automática possível: Nenhuma.
+  - Esclarecimento: Nada aberto em 23/11/2026; as convocatórias anuais de 2026 foram encerradas.
+  - Esclarecimento: As URLs /convocatorias e /convocatorias-activas retornam 404, então é preciso entrar pelos links da home.
+  - Esclarecimento: A home não traz regras, valores nem lista de países elegíveis, e o Brasil como membro não foi visto na página.
+  - Esclarecimento: Boa fonte para acompanhar o ciclo de 2027.
+- **Ibram (museus federais): chamamentos públicos** (não verificada, verificada 1 vez) https://www.gov.br/museus/pt-br/acesso-a-informacao/participacao-social/editais-de-chamamento-publico
+  - O que é: sem dados: o Instituto Brasileiro de Museus tem chamamentos de trabalho e de outras iniciativas; nenhum para artistas foi visto.
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Desconhecido. A página só tem duas seções, 'Chamadas Públicas - Trabalhe conosco' e 'Chamadas Públicas - outras iniciativas'. A segunda lista arquivos por ano: 2024, 2022, 2021, 2018, 2017, 2016, 2013, sem ciclo anual.
+  - Como se candidatar: Abrir os subitens e a página de cada museu federal (por exemplo MNBA) e conferir se há chamada de exposição ou residência.
+  - Leitura automática possível: Páginas HTML do gov.br; sem feed visto.
+  - Esclarecimento: Nenhuma chamada individual foi encontrada na página: sem data, status nem objeto.
+  - Esclarecimento: Os arquivos por ano (2024 e anteriores) sugerem chamadas esporádicas, não um ciclo anual.
+  - Esclarecimento: As subpáginas anuais consultadas devolveram 404, então não está confirmado se há chamada aberta ou se alguma serve a artistas ou músicos.
+  - Esclarecimento: Convém conferir a página manualmente de tempos em tempos.
+- **e-flux Announcements (open calls e educação)** (não verificada, verificada 1 vez) https://www.e-flux.com/announcements/
+  - O que é: Seção de anúncios do e-flux: exposições, chamadas abertas, programas institucionais e vagas acadêmicas.
+  - Requisitos: Desconhecido; depende de cada anúncio.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Feed de anúncios com datas de meados de novembro de 2026; sem prazos de chamadas na página de listagem.
+  - Como se candidatar: https://www.e-flux.com/announcements/
+  - Leitura automática possível: Nenhuma vista.
+  - Esclarecimento: A listagem mostra só títulos e instituições, sem prazo, elegibilidade ou taxa; cada anúncio tem página própria.
+  - Esclarecimento: Não foi possível confirmar nenhuma chamada aberta nem o acesso de residentes no Brasil.
+  - Esclarecimento: O formulário da página refere-se a convites para eventos semanais, não a chamadas; usar como fonte de descoberta.
+- **CaFE (Call for Entry, Creative West)** (não verificada, verificada 1 vez) https://www.callforentry.org
+  - O que é: Plataforma de inscrição em chamadas, feiras e exposições, operada pela Creative West (antiga WESTAF), usada sobretudo por organizações dos EUA.
+  - Requisitos: Cadastro de artista (Artist Login) e, em cada chamada, imagens do portfólio; regras de elegibilidade por chamada, não vistas.
+  - Pagamento ou benefício: Varia por chamada; o artista paga US$ 2,49 por inscrição mais 3,25% de processamento em cartão ou PayPal.
+  - Prazo ou ciclo: Contínuo: plataforma com calendário e 'Find Calls'; nenhuma chamada específica vista na página inicial.
+  - Como se candidatar: https://www.callforentry.org
+  - Leitura automática possível: Nenhuma vista.
+  - Esclarecimento: A maioria das chamadas é de organizações dos EUA, e o acesso de artistas residentes no Brasil não foi confirmado.
+  - Esclarecimento: Cada chamada define sua própria elegibilidade, e nenhuma chamada individual foi vista.
+- **Festival Concreto (arte urbana e muralismo)** (não verificada, verificada 1 vez) https://www.festivalconcreto.com.br/
+  - O que é: Artistas visuais, muralistas e artistas urbanos que participam do festival; forma de convite ou seleção não confirmada.
+  - Requisitos: Não visto.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados
+  - Como se candidatar: Página de contato: https://www.festivalconcreto.com.br/contato/; Instagram: https://www.instagram.com/festivalconcreto/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O site mostra apenas navegação e patrocinadores; a última edição listada é a 10ª, de 2024.
+  - Esclarecimento: Nenhuma chamada, inscrição, cachê ou data foi vista, e não há evidência de edição 2025/2026.
+  - Esclarecimento: Contato indicado no site: festivalconcreto.com.br/contato/.
+- **Porão do Rock – Seletivas Nacionais (bandas autorais de rock, pop e rap)** (não verificada, verificada 1 vez) https://poraodorock.com.br/seletivas/
+  - O que é: Bandas e artistas solo de música autoral (rock, pop, rap e subgêneros) das cidades das seletivas; o vencedor de cada cidade toca no festival em Brasília.
+  - Requisitos: Não visto (consta no regulamento, que não foi carregado).
+  - Pagamento ou benefício: Inscrição gratuita. Bandas selecionadas de fora do DF: passagem aérea para até 6 pessoas, hospedagem, diária de R$ 100 por pessoa, traslados e ajuda de custo de R$ 2.000 (contra nota fiscal). Bandas do DF: só os R$ 2.000.
+  - Prazo ou ciclo: Edição 2026: inscrições de 09/03 a 05/04 (ano não declarado na página, presumivelmente 2026). Edição 2027: nada visto. Ciclo anual presumido, mas só uma edição foi vista.
+  - Como se candidatar: Formulário em poraodorock.com.br/seletivas durante a janela anual de inscrições; dúvidas: seletivas@poraodorock.com.br.
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página /seletivas/ se descreve como 'Seletivas NACIONAIS', com botão 'Ler o Regulamento'.
+  - Esclarecimento: O ano da edição com inscrições de 09/03 a 05/04 não é declarado na página (presumivelmente 2026).
+  - Esclarecimento: A seletiva de 2026 já encerrou, sem comprovação de repetição.
+  - Esclarecimento: A realização do festival em 22-23/mai/2026 não foi confirmada.
+- **Rec-Beat – festival e produtora (Recife): sem chamada aberta vista** (não verificada, verificada 1 vez) https://recbeat.com/
+  - O que é: Artistas interessados no festival Rec-Beat ou no casting da produtora (Recife).
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Nenhuma chamada vista. O festival acontece no Carnaval do Recife, e o site cita os 30 anos e um vídeo de 2025.
+  - Como se candidatar: Contato direto: contato@recbeat.com ou +55 81 98557-3188 (mostrados na página de casting https://recbeat.com/casting/).
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O site descreve o Rec-Beat como festival do Carnaval do Recife e produtora; a página 'Casting' lista apenas um artista (Getúlio Abelha), sem processo de inscrição, datas ou requisitos.
+  - Esclarecimento: Não há formulário de inscrição nem edital de seleção visíveis, e não foi confirmada chamada em outro lugar.
+  - Esclarecimento: Só é possível perguntar por e-mail se aceitam propostas: contato@recbeat.com, +55 (81) 98557-3188.
+
+## Bolsas, prêmios e fundações privadas
+
+- **Spotify for Artists – Pitch de lançamentos para editores de playlists** (aberta ou vigente, verificada 2 vezes) https://support.spotify.com/artists/article/pitching-music-to-playlist-editors
+  - O que é: Qualquer artista ou equipe com acesso ao Spotify for Artists que tenha uma faixa inédita agendada via distribuidora.
+  - Requisitos: Ter a música distribuída por um distribuidor ou gravadora, com lançamento futuro. Ter acesso à conta do artista no Spotify for Artists (para vídeos, acesso de Administrador ou Editor). Ser artista principal da faixa.
+  - Pagamento ou benefício: Sem pagamento e sem custo. É um canal de visibilidade (curadoria de playlists).
+  - Prazo ou ciclo: Permanente. Enviar o pitch pelo menos 7 dias antes do lançamento, por faixa.
+  - Como se candidatar: https://artists.spotify.com/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Só é possível enviar uma música por vez, e coletâneas e faixas em que a pessoa é artista convidada não são elegíveis.
+  - Esclarecimento: O pitch não garante inclusão em playlist e não pode mais ser enviado depois do lançamento.
+  - Esclarecimento: O pitch de vídeos está sendo liberado aos poucos.
+  - Esclarecimento: A página não informa restrição por país, mas também não menciona expressamente o Brasil.
+- **Prince Claus Fund — SEED Award (artistas emergentes)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://princeclausfund.nl/awards-and-programmes/seed-award
+  - O que é: Artistas, autores e praticantes culturais em início de carreira (1 a 5 anos de trajetória profissional) que vivem e trabalham em país elegível da África, Ásia, América Latina, Caribe ou Europa Oriental. Fundação holandesa financiada em parte por recursos públicos; incluída aqui como organismo público/quase público.
+  - Requisitos: De 1 a 5 anos de prática profissional; trabalho que trate de questões sociais ou políticas do contexto local; pouco ou nenhum reconhecimento institucional; ser do país, morar e trabalhar em país elegível (África, Ásia, América Latina, Caribe, Europa Oriental). Formulário, pitch de até 3 min em vídeo ou áudio, carta de referência assinada (até 1 página), materiais de apoio opcionais. Prática de pesquisa acadêmica ou do campo do desenvolvimento não é apoiada. Inscrição pela plataforma Prince Claus Awards Platform.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: € 5.000 de uso livre
+  - Prazo ou ciclo: Edição 2026 fechou em 08/01/2026 (17h, horário de Amsterdã), com decisões previstas até meados de julho de 2026. A edição 2025 teve prazo em 21/01/2025 (visto em resultados de busca). Próxima edição: não confirmada na página; esperada em torno de janeiro.
+  - Como se candidatar: https://princeclausfund.nl/awards-and-programmes/seed-award
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: O Brasil consta na lista oficial de países elegíveis do Prince Claus Fund.
+  - Esclarecimento: Quem já recebeu o prêmio não pode se inscrever de novo; quem não foi selecionado pode.
+  - Esclarecimento: Não há chamada aberta em 23/11/2026.
+- **Prêmio PIPA (Instituto PIPA)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.premiopipa.com
+  - O que é: Artistas visuais brasileiros indicados por um Comitê de Indicação; prêmio anual do Instituto PIPA (17ª edição em 2026).
+  - Requisitos: Não há inscrição aberta: o artista é indicado por um membro do Comitê de Indicação (20 a 40 profissionais, até 5 indicações cada) e o Conselho escolhe 4 finalistas. Participação gratuita; qualquer meio ou formato; finalistas doam obra(s) ao MAM-Rio. Membros do comitê e do júri não participam; ganhadores anteriores do júri não concorrem de novo. Regras de nacionalidade/residência: desconhecido (não vistas).
+  - Pagamento ou benefício: Pelo regulamento de 2011 (desatualizado, usar só como referência): finalistas R$ 10.000 brutos; Voto Popular R$ 20.000; PIPA (júri) R$ 100.000, em parte para residência internacional; PIPA Online só paga com pelo menos 100 votos. Valores atuais: desconhecido.
+  - Prazo ou ciclo: Anual. Edição 2026 em andamento até o fim da exposição (visita até 21-22/11/2026, programação de encerramento vista na página). Edição 2027: sem datas publicadas em 23/11/2026; o site tem links para 'Regulamento 2026' e 'Cronograma 2026' cujo conteúdo não foi lido.
+  - Como se candidatar: Não dá para se inscrever. Para chegar lá é preciso ser conhecido e acompanhado por quem integra o Comitê de Indicação (curadores, críticos, galeristas). Acompanhar o lançamento do regulamento no site (costuma ser em fevereiro) e o boletim do prêmio.
+  - Leitura automática possível: Nenhuma API ou feed visto; páginas HTML estáticas de regulamento e cronograma.
+  - Esclarecimento: Prêmio por indicação: não é possível se candidatar sozinho, e serve como referência de visibilidade, não como edital de inscrição.
+  - Esclarecimento: Os valores citados vêm do regulamento de 2011, desatualizado; os valores atuais são desconhecidos.
+  - Esclarecimento: A Residência Artística The PIPA Foundation at Gasworks (Londres, 2027) teve inscrições encerradas em 03/11/2026, sem ciclo futuro confirmado.
+  - Esclarecimento: Regras de nacionalidade e residência não foram vistas.
+- **Prêmio Jabuti: categoria Ilustração (Câmara Brasileira do Livro)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.premiojabuti.com.br/jabuti/eixos-categorias/
+  - O que é: Obras com ilustração publicadas no Brasil, inscritas por editoras, autores independentes ou ilustradores; a categoria Ilustração está no Eixo Produção Editorial, ao lado de Capa e Projeto Gráfico.
+  - Requisitos: Obra em 1ª edição, publicada entre 01/01 e 31/12/2025 (regra da edição 2026; a de 2027 deve mudar o ano), cuja inscrição é feita exclusivamente na plataforma premiojabuti.com.br, com pagamento de taxa. Ilustração: imagens que apresentam uma narrativa, sozinhas ou junto com texto.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Prêmio de R$ 5 mil e estatueta por categoria (fonte: imprensa, não vista na página oficial). O Livro do Ano ganha uma viagem a uma feira internacional (Londres, Bolonha, Frankfurt ou Guadalajara). Taxa de inscrição paga pelo participante em 2026: de R$ 311,00 a R$ 492,00 por obra individual, conforme perfil e período; coletâneas de R$ 479,00 a R$ 589,00.
+  - Prazo ou ciclo: Anual. Em 2026 (68ª edição) a inscrição com desconto foi de 31/03 (12h) a 29/04 (18h) e a regular foi até 19/05/2026 às 18h (página 'Valor' do site oficial). A 67ª edição (2025) foi até 15/05, segundo a imprensa. Edição 2026 encerrada; o ciclo seguinte provavelmente abre por volta de março de 2027, mas isso é inferência e o regulamento de 2027 não foi visto.
+  - Como se candidatar: https://www.premiojabuti.com.br/jabuti/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É um prêmio de livros, não um programa de trabalho: quem inscreve é o autor, ilustrador ou editora, e o livro já deve estar publicado.
+  - Esclarecimento: O valor do prêmio (R$ 5 mil e estatueta) vem de matéria de imprensa, não da página oficial.
+  - Esclarecimento: Na edição 2026 a categoria Ilustração está no eixo Produção Editorial, que não concorre a Livro do Ano.
+  - Esclarecimento: Segundo a imprensa, o regulamento de 2026 não aceita obras com uso de IA em tarefas autorais; não está confirmado se exige editora, e a tabela de valores tem faixa para autor independente.
+- **Prince Claus Fund — FELLOWS Award (artistas de meio de carreira)** (não verificada, verificada 1 vez) https://princeclausfund.nl/awards-and-programmes/fellows-award
+  - O que é: Artistas individuais de meio de carreira (cerca de 8 a 15 anos de trajetória) com prática socialmente engajada, que vêm de, vivem e trabalham em país elegível.
+  - Requisitos: Artistas de meio de carreira (cerca de 8 a 15 anos de carreira, com flexibilidade conforme a trajetória); apenas indivíduos (sem grupos, duplas, coletivos ou organizações); ser do país, morar e trabalhar em país elegível; formulário, CV e pitch (vídeo ou áudio) em inglês; portfólio em qualquer idioma. Pesquisa acadêmica e prática do campo do desenvolvimento não são apoiadas.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: € 10.000
+  - Prazo ou ciclo: sem dados (a página não traz prazo nem edição atual; não vi a afirmação de que se pode reaplicar no ano seguinte)
+  - Como se candidatar: https://princeclausfund.nl/awards-and-programmes/fellows-award
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: O Brasil consta na lista geral de países elegíveis do Prince Claus Fund; a página do prêmio apenas remete a essa lista.
+  - Esclarecimento: A página não mostra chamada aberta nem datas, então é preciso conferir na plataforma se há chamada em andamento.
+  - Esclarecimento: A carta de referência é citada apenas no FAQ, que menciona o Seed Award; convém confirmar na plataforma se vale para este prêmio.
+- **Rumos Itaú Cultural** (não verificada, verificada 1 vez) https://rumositaucultural.org.br
+  - O que é: Programa do Itaú Cultural criado em 1997 para apoiar artistas, pesquisadores e produtores; edições históricas por ciclos (2015-2016, 2017-2018, 2019-2020, 2023-2024).
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Sem chamada aberta vista. A página do Itaú Cultural lista as edições 2015-2016, 2017-2018, 2019-2020 e 2023-2024 (ciclos aproximadamente bienais, com intervalo de 2021-2022). Nenhuma edição 2025-2026 ou 2027 vista.
+  - Como se candidatar: Consultar rumositaucultural.org.br (que respondeu 403 ao meu acesso, então não foi verificado) ou escrever para atendimento@itaucultural.org.br / (11) 2168-1777, contatos listados no site.
+  - Leitura automática possível: Nenhuma vista.
+  - Esclarecimento: O site próprio do programa, rumositaucultural.org.br, retornou HTTP 403, então não foi possível verificar se há chamada atual.
+  - Esclarecimento: Não tratar como aberto; reverificar em navegador.
+
+## Plataformas e mercados
+
+- **Catarse (financiamento coletivo)** (aberta ou vigente, verificada 1 vez) https://www.catarse.com.br/
+  - O que é: Qualquer pessoa ou coletivo que queira financiar um projeto criativo com apoio do público; a página lista as categorias Artes, Música, Literatura, Jogos, Quadrinhos, Audiovisual, Teatro e Dança, Design e Tecnologia, entre outras.
+  - Requisitos: Conta no Catarse e verificação de dados para publicar e receber os valores (detalhe de documentos não visto). Artigo 'Quem pode arrecadar dinheiro pelo Catarse?' no centro de ajuda define a elegibilidade.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Sem verba fixa: o criador recebe o que os apoiadores contribuírem. Taxa da plataforma: sem dados (há a página 'Nossa Taxa' no site, não aberta).
+  - Prazo ou ciclo: Aberto o ano todo: qualquer pessoa elegível pode criar uma campanha a qualquer momento, depois de entrar com uma conta (visto em 2026-11-23). Não há prazo de inscrição.
+  - Como se candidatar: https://www.catarse.com.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não é um edital: não há verba garantida, e o criador depende dos apoiadores.
+  - Esclarecimento: A taxa da plataforma, o modelo de meta (tudo ou nada ou flexível) e os documentos exigidos não foram confirmados.
+  - Esclarecimento: A elegibilidade é definida no artigo 'Quem pode arrecadar dinheiro pelo Catarse?' do centro de ajuda.
+  - Esclarecimento: O endereço antigo suporte.catarse.me redireciona para ajuda.catarse.com.br.
+- **Patreon (assinaturas de apoiadores para criadores)** (aberta ou vigente, verificada 2 vezes) https://www.patreon.com/pricing
+  - O que é: Criadores de qualquer área, incluindo artistas visuais e músicos, que queiram receber apoio recorrente de seguidores.
+  - Requisitos: Criar uma página de criador (músicos, artistas visuais, podcasters, desenvolvedores de jogos etc. citados). Regras de elegibilidade por país não constam na página de preços.
+  - Pagamento ou benefício: Taxa de 10% sobre a renda do criador; processamento de pagamento, conversão de moeda, taxas de saque e impostos cobrados à parte. Gratuito para começar. A página cita 16+ moedas para saques e pagamentos.
+  - Prazo ou ciclo: Aberto o ano todo; criação de página gratuita.
+  - Como se candidatar: https://www.patreon.com/pricing
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não foi confirmado se o Brasil está na lista de países com saque: a página de países suportados retornou 403.
+  - Esclarecimento: Convém verificar na Central de Ajuda do Patreon antes de contar com a plataforma.
+- **AudioJungle (Envato) - venda de música e áudio** (aberta ou vigente, verificada 2 vezes) https://audiojungle.net/
+  - O que é: Qualquer pessoa que produza música ou efeitos sonoros e queira vender licenças em um mercado aberto.
+  - Requisitos: Envios passam por revisão de qualidade. Requisitos de portfólio ou de identidade não vistos.
+  - Pagamento ou benefício: Desconhecido: a comissão não foi vista. O autor define ou recebe pelo preço do item (de US$ 3 a US$ 63 na vitrine).
+  - Prazo ou ciclo: Fluxo contínuo: botão 'Start Selling' leva a author.envato.com. Cada envio novo passa por revisão manual.
+  - Como se candidatar: https://author.envato.com/
+  - Leitura automática possível: none
+  - Esclarecimento: Comissão, exclusividade, regras fiscais e eventual restrição de país não foram confirmadas.
+  - Esclarecimento: Não se deve presumir que residentes no Brasil possam se cadastrar como autores.
+  - Esclarecimento: Os preços dos itens na vitrine vão de US$ 3 a US$ 63.
+- **SoundBetter - músicos de estúdio, cantores e produtores sob demanda** (aberta ou vigente, verificada 2 vezes) https://www.soundbetter.com/
+  - O que é: Músicos de estúdio, cantores, compositores, produtores e engenheiros de mixagem e masterização que vendem serviço remoto.
+  - Requisitos: Dirigido a profissionais (engenheiro, produtor, músico de sessão). Nenhum outro critério listado; não vi exigência de título.
+  - Pagamento ou benefício: Desconhecido: comissão e valores não vistos. Cada trabalho define o orçamento (não exibido).
+  - Prazo ou ciclo: Fluxo contínuo. A página /jobs mostra 15 trabalhos recentes (por exemplo, produção e mixagem de músicas, guitarrista, vocalista country, backing track), sem data nem orçamento visíveis.
+  - Como se candidatar: https://www.soundbetter.com/users/sign_up/provider
+  - Leitura automática possível: none
+  - Esclarecimento: A página não informa comissão, forma de pagamento nem país.
+  - Esclarecimento: Há duas contas, cliente e 'provider'; a criação de listagem de provider é gratuita.
+  - Esclarecimento: Não foi confirmado se é preciso ter conta para responder aos trabalhos.
+  - Esclarecimento: A maioria dos pedidos está em inglês.
+- **Sympla - criar evento e vender ingressos** (aberta ou vigente, verificada 2 vezes) https://produtores.sympla.com.br/
+  - O que é: Produtores, artistas e casas de show que vendem ingressos para shows, presenciais ou online. É canal de venda, não oferece contratação.
+  - Requisitos: Não listados na página. Documento do organizador (CPF ou CNPJ) e dados bancários são prováveis, mas não confirmados.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Não paga nada: o artista recebe a bilheteria menos 10% de taxa de serviço e 2% a 2,5% de processamento, no 3º dia útil depois do evento.
+  - Prazo ou ciclo: Fluxo contínuo: 'Crie seu evento em 23/11/2026'. Sem prazo.
+  - Como se candidatar: https://produtores.sympla.com.br/
+  - Leitura automática possível: none
+  - Esclarecimento: Criar o evento é grátis; as taxas incidem apenas sobre ingressos vendidos e são descontadas do repasse.
+  - Esclarecimento: O repasse ocorre no 3º dia útil após o evento, até as 18h.
+  - Esclarecimento: Não foi confirmado se a plataforma pede CPF ou CNPJ e conta bancária.
+  - Esclarecimento: Os percentuais das taxas podem mudar.
+- **99Freelas (projetos freelancer brasileiros)** (aberta ou vigente, verificada 2 vezes) https://www.99freelas.com.br/projects?categoria=design-e-criativos
+  - O que é: Freelancers no Brasil; a categoria 'Design & Criação' cobre trabalho visual e há 'Fotografia & AudioVisual'. Não existe categoria específica de música.
+  - Requisitos: Há links de Login e Cadastre-se. Não ficou claro na página se é preciso cadastro para ver ou enviar propostas. Cada projeto tem seus próprios requisitos.
+  - Pagamento ou benefício: sem dados. O valor depende do projeto, e a página não mostrou as taxas cobradas de freelancers.
+  - Prazo ou ciclo: Fluxo contínuo. Em 23/11/2026 a página exibia '1088 projetos foram encontrados' (todas as categorias), com 10 projetos listados por página.
+  - Como se candidatar: https://www.99freelas.com.br/projects?categoria=design-e-criativos
+  - Leitura automática possível: Nenhum feed RSS ou JSON visto na página.
+  - Esclarecimento: O total de projetos exibido refere-se a todas as categorias; o parâmetro de categoria não filtra a página.
+  - Esclarecimento: Nenhum projeto de exemplo era de música e não existe categoria específica de música.
+  - Esclarecimento: Taxas e regras de pagamento para freelancers não foram informadas.
+- **Freelancer.com (projetos de música e áudio)** (aberta ou vigente, verificada 2 vezes) https://www.freelancer.com/jobs/music/
+  - O que é: Músicos, produtores, engenheiros de áudio e locutores de qualquer país, incluindo o Brasil.
+  - Requisitos: Cadastro e envio de propostas (lances) por projeto. Os requisitos de cada projeto variam. Não vi as taxas da plataforma nesta consulta.
+  - Pagamento ou benefício: Lance médio por projeto, em dólares, visto na página: Love Again Remix Production US$102; Saxophonist for Malad Party US$16; Complete Hindi Song Production US$227; Rock Track Mixing and Mastering US$147; Choreography for Music Video US$823; Project 540: Live Singing Project US$473. Os valores são médias de lances, não orçamentos fixos.
+  - Prazo ou ciclo: Fluxo contínuo. A página carregou em 2026-11-23 com o título 'Music Jobs for November 2026' e 50 projetos abertos, com contagens regressivas de horas a 42 dias.
+  - Como se candidatar: https://www.freelancer.com/jobs/music/
+  - Leitura automática possível: RSS indicado no rodapé: https://www.freelancer.com/rss.xml (conteúdo do feed não verificado).
+  - Esclarecimento: Nem todos os 50 projetos são de música (por exemplo, 'Romantic Gala Coordinator' e 'WoW Character Leveling' só têm a etiqueta de música).
+  - Esclarecimento: Alguns projetos são para eventos presenciais fora do Brasil, como 'Saxophonist for Malad Party'.
+  - Esclarecimento: Uma das listagens aparece como 'Ended', então nem todas estão realmente abertas.
+  - Esclarecimento: Nenhuma restrição por país foi vista, mas os termos do site não foram verificados.
+
+## Música: licenciamento, sessões e circuitos
+
+- **ABRAMUS - Filiação (música)** (aberta ou vigente, verificada 2 vezes) https://www.abramus.org.br/musica/associe-se/
+  - O que é: Autores, intérpretes, músicos, editores e produtores fonográficos que querem receber direitos autorais e conexos de execução pública (via ECAD), streaming e audiovisual.
+  - Requisitos: Para autor, intérprete, músico, editor ou produtor fonográfico. Análise conforme os requisitos do Estatuto da ABRAMUS (https://www.abramus.org.br/estatuto-abramus/). Documentos não listados na página. O pré-cadastro NÃO configura filiação imediata.
+  - Pagamento ou benefício: Não é emprego nem bolsa: arrecadação e distribuição de direitos autorais/conexos. Taxa de filiação não informada na página.
+  - Prazo ou ciclo: Fluxo contínuo; pré-cadastro online com resposta em até 10 dias úteis (conforme a página).
+  - Como se candidatar: https://www.abramus.org.br/musica/associe-se/
+  - Leitura automática possível: none
+  - Esclarecimento: A residência exigida não é declarada na página; consultar o Estatuto da ABRAMUS.
+  - Esclarecimento: Dúvidas podem ser encaminhadas às unidades listadas em https://www.abramus.org.br/unidadespg/.
+- **ASSIM - Associação de Intérpretes e Músicos** (aberta ou vigente, verificada 2 vezes) https://www.assim.org.br/
+  - O que é: Intérpretes e músicos (gestão coletiva de direitos conexos), pessoa física ou jurídica.
+  - Requisitos: Documento de identidade com foto e comprovante de endereço; ler as Normas de Filiação antes (PDF: https://www.assim.org.br/_files/ugd/c5ec8a_b15203bc37874105a8279942e93f935a.pdf). Há fluxos para pessoa física e pessoa jurídica (PJ: https://app.clicksign.com/fluxia/b93afebd-eaba-432c-8d29-8b73f95b411e).
+  - Pagamento ou benefício: Gestão coletiva de direitos de intérpretes e músicos; valores e taxas não informados na página.
+  - Prazo ou ciclo: Fluxo contínuo; filiação 100% digital.
+  - Como se candidatar: https://app.clicksign.com/fluxia/71e7dd4c-f87a-4395-8b1e-d48c09e55c1f
+  - Leitura automática possível: none
+  - Esclarecimento: Critérios detalhados e taxas constam nas Normas de Filiação, que não são detalhadas na página.
+  - Esclarecimento: A página não declara exigência de residência.
+  - Esclarecimento: A página lista suporte por WhatsApp.
+- **Tratore - distribuição digital independente** (aberta ou vigente, verificada 2 vezes) https://www.tratore.com.br/
+  - O que é: Artistas e selos independentes que querem distribuir música em lojas e streaming.
+  - Requisitos: Cadastro como artista/banda, produtor/empresário, gravadora, estúdio ou outro; informar nome, e-mail, cidade/estado ou 'Fora do Brasil', celular, estágio do lançamento e gênero principal.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Preço e divisão de receita não informados nas páginas vistas.
+  - Prazo ou ciclo: Fluxo contínuo; cadastro aberto.
+  - Como se candidatar: https://www.tratore.com.br/novo-perfil.php
+  - Leitura automática possível: none
+  - Esclarecimento: O formulário aceita 'Fora do Brasil', o que indica que residentes de outros países podem se cadastrar.
+  - Esclarecimento: Taxas e condições para quem mora fora do Brasil não foram confirmadas.
+- **ONErpm (distribuição, publishing e marketing)** (aberta ou vigente, verificada 2 vezes) https://onerpm.com/pt/
+  - O que é: Artistas e criadores independentes de qualquer país. Empresa com forte presença no Brasil, com site em português.
+  - Requisitos: Não informado na página. Nenhum requisito de título, trajetória ou portfólio visto. Confirmar no cadastro.
+  - Pagamento ou benefício: Não informado na página (divisão de receitas é citada, sem percentuais). Desconhecido.
+  - Prazo ou ciclo: Fluxo contínuo: cadastro aberto pelo painel (botões 'Junte-se a Nós' / 'Inscreva-se'). Sem prazo.
+  - Como se candidatar: https://onerpm.com/pt/
+  - Leitura automática possível: none
+  - Esclarecimento: A elegibilidade de residentes no Brasil não foi confirmada por texto explícito, embora a operação brasileira a torne muito provável.
+  - Esclarecimento: Taxas, percentuais de comissão e restrição de país não são informados.
+  - Esclarecimento: Não há processo de seleção descrito.
+- **TuneCore - distribuição e publishing** (aberta ou vigente, verificada 2 vezes) https://www.tunecore.com/pricing
+  - O que é: Artistas independentes de qualquer lugar. Distribui para mais de 150 lojas e inclui YouTube Content ID e divisão de receita entre colaboradores.
+  - Requisitos: Nenhum requisito de título ou portfólio visto. Elegibilidade por país não declarada na página; confirmar no cadastro.
+  - Pagamento ou benefício: Custo para o artista, em dólar: a partir de US$ 22,99 por ano (CORE). Divisão de receitas com colaboradores disponível. Não vi a comissão sobre royalties.
+  - Prazo ou ciclo: Fluxo contínuo: compra de plano ou lançamento a qualquer momento. Preços vistos em 2026-11-23, sujeitos a mudança.
+  - Como se candidatar: https://www.tunecore.com/pricing
+  - Leitura automática possível: none
+  - Esclarecimento: Os preços são da versão internacional, em dólar; uma versão em reais não foi confirmada.
+  - Esclarecimento: Outros planos anuais: PRO US$ 43,99 e PRO+ US$ 84,99; também Single US$ 24,99 por lançamento e Álbum US$ 44,99 (depois US$ 56,49 por ano).
+  - Esclarecimento: A página não menciona o Brasil nem restrições de país, apenas restrições por lançamento.
+  - Esclarecimento: O serviço de Music Publishing é citado sem preço.
+- **Osesp – Audições (Fundação Osesp)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.osesp.art.br/osesp/pt/audicoes
+  - O que é: Músicos instrumentistas e cantores do Coro da Osesp (Sala São Paulo), contratados por audição.
+  - Requisitos: Músico profissional para o posto anunciado (categorias I, III e IV nos resultados); inscrição dentro do prazo do edital e preparo do repertório e dos excertos. Detalhes no edital de cada processo.
+  - Pagamento ou benefício: sem dados (não informado na listagem; consta em cada edital)
+  - Prazo ou ciclo: Em 23/11/2026 a seção 'Audições em andamento' está vazia. Páginas com filtro 2024, 2025 e 2026 e resultados de vários processos (violino, flauta, trompa, tímpano, soprano, tenor, regente residente) mostram ciclo recorrente ao longo do ano, com prazos determinados por edital.
+  - Como se candidatar: https://www.osesp.art.br/osesp/pt/audicoes
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Cada processo tem página própria com edital público; os cadernos de excertos só saem após a inscrição.
+  - Esclarecimento: Contato da Fundação Osesp: +55 11 3367-9500, de segunda a sexta, das 9h às 18h.
+  - Esclarecimento: Nenhuma data de próxima audição foi vista, e os requisitos de nacionalidade ou residência não constam.
+- **SBACEM - Associe-se e Informe seu show** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.sbacem.org.br/associe-se.html
+  - O que é: Autores, compositores, intérpretes, músicos, editores e produtores fonográficos. A SBACEM se apresenta como uma das sete associações que administram o ECAD.
+  - Requisitos: Duas propostas: Execução pública (autores, compositores, intérpretes, músicos, editores, produtores fonográficos) e Reprodução e distribuição digital (autores/compositores inéditos, editores, produtores). Documentos: RG ou CNH (frente e verso) e selfie com documento (execução pública); foto 3x4, documento, CPF e comprovante de residência (reprodução digital). Empresas: contrato social e CNPJ. Menores: responsável legal; herdeiros: prova de herança; transferência de outra entidade: carta de desligamento.
+  - Pagamento ou benefício: Direitos autorais/conexos distribuídos mensalmente conforme rubrica; show e internet show distribuídos todo mês. Taxa de filiação não informada; há desconto de Clube de Benefícios nos créditos de reprodução digital (valor não informado).
+  - Prazo ou ciclo: Formulário online com protocolo e análise pela Diretoria, sem prazo informado; a página indica ser versão de testes.
+  - Como se candidatar: https://www.sbacem.org.br/associe-se.html
+  - Leitura automática possível: none
+  - Esclarecimento: A página do formulário se declara versão de testes ('nada foi enviado'), de modo que o envio pode não chegar à SBACEM.
+  - Esclarecimento: A exigência de CPF e comprovante de residência indica cadastro voltado a quem possui documentação brasileira.
+  - Esclarecimento: O link 'Informe seu show' fica na área de associados, sem detalhes públicos.
+- **Sesc - Sonora Brasil (circulação musical nacional)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.sesc.com.br/sonora-brasil/
+  - O que é: Grupos e artistas de música brasileira em circulação por unidades do Sesc.
+  - Requisitos: Sem requisitos publicados, pois a seleção é por curadoria do Sesc e não por edital aberto (nada visto sobre título, trajetória, portfólio, idade ou residência).
+  - Pagamento ou benefício: Não informado nas páginas vistas. Cada artista ou grupo faz cerca de 30 a 40 apresentações ao longo do ano, segundo a Folha de Pernambuco.
+  - Prazo ou ciclo: 28ª edição 2026 em circulação por 42 cidades, sem data final visível na página; nenhuma chamada pública vista.
+  - Como se candidatar: sem dados
+  - Leitura automática possível: none
+  - Esclarecimento: A URL é o arquivo de notícias do projeto, não uma página de inscrição.
+  - Esclarecimento: Os grupos são escalados por curadoria do Sesc e nenhuma fonte descreve edital ou inscrição aberta, portanto não é uma via de candidatura.
+  - Esclarecimento: Chamadas regionais separadas de outros Sesc (Sescanção em Sergipe, Sesc Musicar no Maranhão, corais no Tocantins) existem, mas não foram verificadas.
+  - Esclarecimento: A data final da circulação não foi confirmada.
+
+## Bolsas de trabalho
+
+- **99Freelas (freelancers no Brasil)** (aberta ou vigente, verificada 2 vezes) https://www.99freelas.com.br/
+  - O que é: Freelancers brasileiros que prestam serviços a empresas; a página cita mais de 4 milhões de freelancers cadastrados e 146.938 projetos concluídos. Design aparece na subcategoria de logotipos; categoria específica de ilustração não foi vista.
+  - Requisitos: Cadastro gratuito como freelancer (botão 'Cadastre-se'); perfil com portfólio e histórico. A página não declara restrição de residência, mas é voltada ao Brasil (português).
+  - Pagamento ou benefício: Pagamento pelo cliente via plataforma, liberado ao concluir o projeto. Comissão para o freelancer não informada na página (não vista).
+  - Prazo ou ciclo: Aberto o ano todo; cadastro de freelancer em /register/freelancer, projetos novos continuamente.
+  - Como se candidatar: https://www.99freelas.com.br/register/freelancer
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página de cadastro retornou HTTP 403, então os passos do cadastro e as taxas não foram confirmados.
+  - Esclarecimento: Ilustração e música não aparecem na página inicial; é preciso conferir em 'Ver todas categorias'.
+- **Remote OK (API JSON pública)** (aberta ou vigente, verificada 2 vezes) https://remoteok.com/api
+  - O que é: Qualquer pessoa que busque vagas remotas internacionais; predominam tecnologia e produto, com algumas vagas de design e criação.
+  - Requisitos: Depende de cada vaga; verificar o campo 'location' (Worldwide, ou região que inclua o Brasil/LATAM). Mais voltado a tecnologia, produto e design digital do que a pintura ou música.
+  - Pagamento ou benefício: Varia por vaga; não consolidado no feed.
+  - Prazo ou ciclo: Fluxo contínuo. O feed carregou em 23/11/2026 com 100 vagas; a mais recente é de 22/11/2026.
+  - Como se candidatar: https://remoteok.com/
+  - Scanner: a plataforma já é suportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Esclarecimento: Só as vagas 'Worldwide' (cerca de 13% da amostra de 100; 66 são 'US Only') são abertas a quem mora no Brasil, e o feed não tem filtro de país.
+  - Esclarecimento: A presença de arte e música na amostra é mínima, com algumas vagas de design de produto.
+  - Esclarecimento: Termos da API: citar o Remote OK como fonte e linkar de volta, sem usar a logo.
+  - Esclarecimento: O campo 'tags' serve para filtrar design, música e arte.
+- **We Work Remotely (feed RSS da categoria Design)** (aberta ou vigente, verificada 2 vezes) https://weworkremotely.com/categories/remote-design-jobs
+  - O que é: Designers e profissionais criativos que buscam vagas remotas internacionais.
+  - Requisitos: Depende de cada vaga; conferir o <region> ('Anywhere in the World' inclui o Brasil). Perfil de design de produto/UX em sua maioria, com portfólio digital.
+  - Pagamento ou benefício: Varia por vaga; não consolidado no feed.
+  - Prazo ou ciclo: Fluxo contínuo. O feed carregou em 23/11/2026 com 34 itens; o mais recente é de 23/11/2026 06:01 UTC; ttl 60 min.
+  - Como se candidatar: https://weworkremotely.com/categories/remote-design-jobs
+  - Scanner: a plataforma já é suportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Esclarecimento: Na amostra de 34 itens, 19 são 'Anywhere in the World' (cerca de 56%), abertas a qualquer país, incluindo o Brasil.
+  - Esclarecimento: O conteúdo é de design digital; não há vagas de pintor ou músico, e o feed da categoria não cobre música.
+  - Esclarecimento: É necessário verificar o campo <region> de cada vaga antes de se candidatar.
+- **Working Nomads (API JSON exposed_jobs e categoria Design)** (aberta ou vigente, verificada 2 vezes) https://www.workingnomads.com/api/exposed_jobs/
+  - O que é: Quem busca vagas 100% remotas. A categoria Design fica em /remote-design-jobs e há filtro por região, inclusive América Latina.
+  - Requisitos: Depende de cada vaga; o campo 'location' é texto livre e exige leitura caso a caso (fuso horário europeu é comum).
+  - Pagamento ou benefício: Varia por vaga; não consolidado no feed.
+  - Prazo ou ciclo: Fluxo contínuo. O feed carregou em 23/11/2026 com 35 vagas; a mais recente é de 19/11/2026.
+  - Como se candidatar: https://www.workingnomads.com/jobs
+  - Leitura automática possível: JSON: https://www.workingnomads.com/api/exposed_jobs/ (a página de lista de vagas não mostrou feed RSS).
+  - Esclarecimento: Na amostra de 35 vagas, 23 são de Development e só 1 é de Design, então o conteúdo é muito fraco para artistas e músicos.
+  - Esclarecimento: Cerca de 8 de 35 vagas abrem explicitamente ao Brasil ('Global' ou 'LATAM'); as demais exigem fuso europeu ou outras regiões.
+  - Esclarecimento: A URL de categoria /jobs?category=design respondeu com redirecionamento 301 e a página da categoria Design não foi verificada.
+- **Vagas.com.br (busca por música)** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-musica
+  - O que é: Candidatos no Brasil que buscam emprego formal (CLT, PJ, temporário), incluindo vagas de educação musical e atividades com música.
+  - Requisitos: Cadastro no site para se candidatar (não confirmado na página). Cada vaga tem seus próprios requisitos. Não confirmei os requisitos de cada uma.
+  - Pagamento ou benefício: sem dados. Contratação vista: 6 CLT, 2 temporárias, 1 pessoa jurídica.
+  - Prazo ou ciclo: Fluxo contínuo. A página carregou em 2026-11-23 com 9 vagas para 'música', com datas de novembro de 2026 (por exemplo 10/11/2026).
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-musica
+  - Leitura automática possível: Nenhum feed RSS ou JSON visto na página; sem acesso por API conhecido.
+  - Esclarecimento: Poucas vagas são realmente de música; a maioria é administrativa, jurídica ou de promoção, e a música aparece apenas como requisito ou benefício.
+  - Esclarecimento: Localidades: São Paulo (5), Rio de Janeiro (2), Itapevi (1) e Belo Horizonte (1); a maioria é presencial e 2 aceitam parte em home office.
+  - Esclarecimento: As vagas são em cidades brasileiras e em geral CLT, o que supõe poder trabalhar no Brasil.
+  - Esclarecimento: Algumas descrições parecem copiadas e inconsistentes, e a maioria das datas aparece em formato relativo.
+- **Portal Gupy (vagas de empresas que usam o Gupy)** (aberta ou vigente, verificada 2 vezes) https://portal.gupy.io/
+  - O que é: Candidatos no Brasil que buscam vagas em empresas que recrutam pelo Gupy; cobre todas as áreas, incluindo design e comunicação.
+  - Requisitos: Cada vaga define seus requisitos. A página inicial não informa se é gratuito para candidatos nem exige cadastro explícito. Em geral a candidatura é feita com um perfil no portal (não confirmado nesta consulta).
+  - Pagamento ou benefício: sem dados. Depende de cada vaga.
+  - Prazo ou ciclo: Fluxo contínuo. A página carregou em 2026-11-23, com busca de vagas e o link 'Explorar todas as vagas', que abre as vagas ordenadas por data de publicação.
+  - Como se candidatar: https://portal.gupy.io/
+  - Scanner: a plataforma já é suportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Esclarecimento: É um portal geral; não foram vistas vagas artísticas ou musicais, sendo preciso buscar por termos como músico, ilustrador ou designer.
+  - Esclarecimento: Preço ou taxas para candidatos não são informados, e a exigência de cadastro não foi confirmada.
+- **Indeed Brasil (empregos de músico)** (aberta ou vigente, verificada 1 vez) https://br.indeed.com/
+  - O que é: Candidatos no Brasil; agregador de vagas de todas as áreas.
+  - Requisitos: Variam por vaga: instrumento específico, disponibilidade de turnos, graduação ou experiência para docência e musicoterapia. A candidatura exige conta no Indeed.
+  - Residentes no Brasil podem se candidatar: sim
+  - Pagamento ou benefício: Varia por vaga; um anúncio mostrou faixa 'R$ 17 – R$ 8.455 por mês' (faixa ampla, não confiável como referência); a maioria não informa salário.
+  - Prazo ou ciclo: Fluxo contínuo: busca com cerca de 16 vagas na primeira página (5 páginas de resultados) em 2026-11-23; cada vaga tem seu próprio prazo.
+  - Como se candidatar: https://br.indeed.com/empregos?q=m%C3%BAsico
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Por ser agregador, convém confirmar a vaga no site do empregador antes de se candidatar.
+  - Esclarecimento: A mistura é de ensino, atuação e áreas afins, com poucas vagas de músico de palco; cerca de 2 dos 16 resultados não eram de música.
+  - Esclarecimento: A faixa salarial 'R$ 17 – R$ 8.455 por mês' é ampla demais para servir de referência.
+- **Fundação Bienal de São Paulo (Bienal e Trabalhe conosco)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://bienal.org.br/trabalhe-conosco/
+  - O que é: Fundação que organiza a Bienal de São Paulo; a 37ª Bienal tem programa público a partir de dezembro. Vagas de trabalho na produção, arquivo, educação e relações institucionais, não de artista.
+  - Requisitos: Definidos em cada vaga, na página bienal.org.br/vaga/. Os cargos vistos são administrativos, de produção e de arquivo, não vagas para artistas.
+  - Pagamento ou benefício: sem dados (cada vaga detalha o seu)
+  - Prazo ou ciclo: Fluxo contínuo de processos seletivos. Em 23/11/2026 nenhum processo estava aberto. Sete encerrados em 2026, o mais recente publicado em 13/11/2026 (Jovens aprendizes) e outros em 06/11, 03/08, 29/07, 26/06, 27/05 e 13/05.
+  - Como se candidatar: https://bienal.org.br/trabalhe-conosco/
+  - Leitura automática possível: Nenhuma.
+  - Esclarecimento: As vagas são administrativas, de produção, educação e arquivo, não para artistas; não é fonte de prêmio ou bolsa.
+  - Esclarecimento: A lista mostra só as datas de publicação, não os prazos de candidatura; a inscrição é feita em cada vaga publicada.
+  - Esclarecimento: Contato indicado: telefone +55 11 5576.7600 e página bienal.org.br/contato/.
+- **Sesc Rio – Trabalhe conosco (vagas.com.br/sesc-rio)** (não verificada, verificada 1 vez) https://site.vagas.com.br/sesc-rio
+  - O que é: Candidatos a vagas do Sesc no Rio de Janeiro, incluindo educadores e técnicos culturais, quando abertas.
+  - Requisitos: sem dados (depende de cada vaga)
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados (contínuo, em tese; nenhuma vaga ou data vista)
+  - Como se candidatar: https://site.vagas.com.br/sesc-rio
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A URL original e sescrio.org.br/trabalhe-conosco/ redirecionam para site.vagas.com.br/sesc-rio, o que indica ser o canal oficial de vagas do Sesc Rio.
+  - Esclarecimento: O conteúdo da página vem vazio, provavelmente por ser renderizado por JavaScript, então vagas, cargos e datas não puderam ser vistos.
+  - Esclarecimento: Não está confirmado se há vagas para artistas ou músicos.
+- **Remotive (API JSON pública, categoria design)** (não verificada, verificada 1 vez) https://remotive.com/api/remote-jobs
+  - O que é: Profissionais de design e outras áreas que buscam trabalho remoto.
+  - Requisitos: Depende de cada vaga; conferir 'candidate_required_location' (Worldwide ou LATAM incluem o Brasil).
+  - Pagamento ou benefício: Varia por vaga; não consolidado no feed.
+  - Prazo ou ciclo: Fluxo contínuo, com 24 h de atraso. Na consulta de 23/11/2026, a vaga mais recente da categoria era de 19/11/2026.
+  - Como se candidatar: https://remotive.com/
+  - Scanner: a plataforma já é suportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Esclarecimento: A consulta com category=design devolveu 16 vagas, nenhuma de design; a categoria parece não filtrar como esperado, então não está confirmada como fonte de design.
+  - Esclarecimento: Na amostra, 'Worldwide' aparece em 7 de 16 vagas e 'USA' ou 'USA, Canada' em 5; várias aceitam o Brasil.
+  - Esclarecimento: Termos: não republicar em terceiros nem em agregadores, citar o Remotive como fonte e linkar de volta; limite sugerido de cerca de 4 consultas por dia.
+  - Esclarecimento: É útil como fonte de trabalho remoto geral, não de arte ou música.
+- **InfoJobs Brasil (vagas de músico)** (não verificada, verificada 1 vez) https://www.infojobs.com.br/
+  - O que é: Candidatos no Brasil que buscam emprego formal.
+  - Requisitos: sem dados (cada vaga define os seus; geralmente exige cadastro de currículo no site)
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Fluxo contínuo (não confirmado nesta verificação).
+  - Como se candidatar: https://www.infojobs.com.br/vagas-de-emprego-musico.aspx
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não foi possível ver vagas nem confirmar que a URL ainda existe; a informação precisa de conferência manual.
+- **LinkedIn Vagas (Brasil)** (não verificada, verificada 1 vez) https://www.linkedin.com/jobs/
+  - O que é: Candidatos no Brasil e no exterior; vagas de todas as áreas, inclusive design e criação.
+  - Requisitos: sem dados (cada vaga define os seus; candidatura normalmente exige conta no LinkedIn)
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Fluxo contínuo (não confirmado nesta verificação).
+  - Como se candidatar: https://www.linkedin.com/jobs/search/?keywords=m%C3%BAsico&location=Brasil
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Nenhuma vaga foi vista nem confirmada; a informação precisa de conferência manual com conta própria.
+
+## Outros
+
+- **YouTube Music – Canal Oficial de Artista (Official Artist Channel)** (aberta ou vigente, verificada 2 vezes) https://support.google.com/youtube/answer/7336634
+  - O que é: Artistas e bandas com canal próprio de música no YouTube.
+  - Requisitos: Um único canal do YouTube dedicado à música do artista ou da banda. Pelo menos um lançamento musical oficial no YouTube entregue por distribuidora ou gravadora. Cumprir as políticas do YouTube. Além disso, uma destas condições: trabalhar com um Partner Manager do YouTube, estar no Programa de Parcerias do YouTube, estar numa rede de gravadora com Partner Manager, ou ter a música distribuída por parceiro do Diretório de Serviços para Parceiros de Música. Recomenda-se ao menos um vídeo público no canal.
+  - Pagamento ou benefício: Sem pagamento. É um recurso de presença e análise de dados.
+  - Prazo ou ciclo: Permanente. O pedido não é feito direto pelo artista: passa por gravadora, distribuidora ou parceiro de serviços musicais.
+  - Como se candidatar: https://support.google.com/youtube/answer/7336634
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página não restringe por país, mas não confirma explicitamente a disponibilidade no Brasil.
+  - Esclarecimento: Não há edital nem prazo, e o recurso não envolve pagamento.
+- **Apple Music for Artists – acesso e página de artista** (aberta ou vigente, verificada 1 vez) https://artists.apple.com/
+  - O que é: Artistas com música já distribuída na Apple Music.
+  - Requisitos: A música precisa estar no ar no Apple Music há pelo menos 5 dias úteis. Só artista ou empresário (manager) pode reivindicar. É preciso ser artista principal no álbum usado. Há verificação de identidade ou de vínculo com o artista. Artista convidado não pode reivindicar.
+  - Pagamento ou benefício: Gratuito. Sem pagamento ao artista; é uma ferramenta de gestão de perfil e estatísticas.
+  - Prazo ou ciclo: Permanente. O pedido expira em 30 dias se ninguém com permissão de administrador o aprovar.
+  - Como se candidatar: https://artists.apple.com/support/42-claim-your-account
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Os requisitos vêm de um resumo do artigo de suporte oficial sobre como reivindicar a página (artists.apple.com/support/42-claim-your-account), e não da página inicial do programa.
+  - Esclarecimento: Restrição por país não confirmada.
+  - Esclarecimento: Não há edital nem pagamento.
+- **ABMI – Associação Brasileira da Música Independente (licenciamento, formação e rede)** (aberta ou vigente, verificada 2 vezes) https://abmi.com.br/
+  - O que é: Selos independentes, gravadoras e pessoas jurídicas do setor musical no Brasil.
+  - Requisitos: Foco em selos, gravadoras e pessoas jurídicas da música independente. Critérios exatos e se artistas individuais podem entrar: desconhecido.
+  - Pagamento ou benefício: Não é prêmio nem bolsa. Taxa de associação: desconhecida.
+  - Prazo ou ciclo: Permanente: o botão 'Associe-se' leva ao formulário de cadastro, sem prazo.
+  - Como se candidatar: https://abmi.com.br/formulario-de-cadastro/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A associação existe desde 2002 e representa produtores e selos independentes, com benefícios como rede WIN, Merlin (direitos digitais), licenciamento e sync audiovisual (parceria com SICAV) e relatórios de execução em rádio (Crowley).
+  - Esclarecimento: Taxa e critérios de associação não aparecem na página, que descreve a ABMI como entidade sem fins lucrativos voltada a pessoas jurídicas, não a artistas individuais.
+  - Esclarecimento: Não há chamada com prazo; o botão 'Associe-se' leva ao formulário de cadastro.
+  - Esclarecimento: Contato: abmi@abmi.com.br.
+- **BM&A – Brasil Música & Artes (exportação da música brasileira, showcases internacionais)** (aberta ou vigente, verificada 2 vezes) https://bma.org.br/
+  - O que é: Profissionais, artistas, produtores, empresas e instituições que querem atuar no mercado internacional de música.
+  - Requisitos: A página não lista critérios nem documentos de adesão: desconhecido. Há política de compra, cancelamento e reembolso.
+  - Pagamento ou benefício: Não paga o artista: custo de associação de R$ 1.500,00 por ano. Showcases e delegações: valores e apoios desconhecidos.
+  - Prazo ou ciclo: Adesão anual com anuidade de R$ 1.500,00; sem prazo nem janela de abertura informados na página.
+  - Como se candidatar: https://bma.org.br/pricing-plans/anuidade
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É uma associação sem fins lucrativos voltada à exportação da música brasileira, com showcases e delegações em eventos internacionais, rodadas de negócios, formação, mentorias e projetos Funarte.
+  - Esclarecimento: Não há chamada específica de showcase com prazo, e a página não informa se a adesão está aberta em 23/11/2026 nem quem pode se associar (artistas ou empresas).
+  - Esclarecimento: Valores e apoios de showcases e delegações não são informados.
+  - Esclarecimento: Contato: atendimento@bma.org.br, +55 (11) 5192-1942.
+- **Bloco Escola do MAM Rio – cursos de formação, residências e seleções (gratuitos)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://mam.rio/bloco-escola/
+  - O que é: Jovens e novos profissionais de artes visuais, escrita, curadoria, design, arquitetura, produção de exposições, educação e cinema; professores de escolas do Rio de Janeiro; estudantes e profissionais nas residências (Estudos Curatoriais, Incluir para pessoas com deficiência e novo programa para artistas-educadores, em 2026).
+  - Requisitos: Cursos de formação: mais de 18 anos, presencial, vagas limitadas, seleção por formulário do Google. Escritas e dança pedem interesse em ler, escrever ou investigar movimento; arte impressa é voltada a artistas, designers e pesquisadores. Não exige portfólio nem titulação na página. Residências: mais de 18 anos, morar na cidade do Rio ou no interior do estado do RJ; Estudos Curatoriais pede carta de intenção, currículo resumido, foto e biografia; Arte e Educação é para educadores com prática artística, cerca de 20h por semana. Cursos para professores e a residência Incluir têm públicos específicos.
+  - Pagamento ou benefício: Cursos gratuitos, com certificado para quem frequentar 75% das aulas. Residências remuneradas com bolsa de R$ 2.000 por mês, R$ 8.000 em 4 meses (Estudos Curatoriais e Arte e Educação, 4 vagas cada).
+  - Prazo ou ciclo: Sem inscrições com datas visíveis na página em 23/11/2026; ciclo semestral, programação em páginas vinculadas.
+  - Como se candidatar: https://mam.rio/bloco-escola/cursos-tecnicos/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A seleção dos cursos de formação considera perfil profissional e educacional, identidade de gênero, identificação étnico-racial e condição socioeconômica.
+  - Esclarecimento: As datas de inscrição citadas (6 a 17/04 e set–nov) não puderam ser confirmadas, pois a página não lista datas nem os cursos específicos de 2026.
+  - Esclarecimento: A elegibilidade para quem mora fora do Brasil não foi verificada.
+  - Esclarecimento: Contato: (21) 3883-5600, https://mam.rio/fale-conosco/.
+- **Deezer for Creators** (não verificada, verificada 1 vez) https://creators.deezer.com/
+  - O que é: Artistas que querem gerenciar o perfil no Deezer e conhecer o público.
+  - Requisitos: Não confirmado em fonte oficial. Segundo guias de terceiros: lançamento já publicado no Deezer por meio de distribuidor digital, e informações como nome artístico, e-mail da conta, UPCs e distribuidora.
+  - Pagamento ou benefício: Sem pagamento visto. Ferramenta de perfil e estatísticas.
+  - Prazo ou ciclo: Permanente (sem prazo).
+  - Como se candidatar: https://creators.deezer.com/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página oficial não informa quem pode se cadastrar, o custo nem a disponibilidade no Brasil.
+  - Esclarecimento: Os requisitos citados vêm de guias de terceiros (CD Baby, DistroKid, iMusician) e não foram confirmados em página oficial da Deezer, portanto não são verificáveis.
+  - Esclarecimento: Segundo esses guias, há contas de Artista, Manager, Label e Provider, e a análise pode levar semanas.
+- **Sesc Pernambuco: Processo Seletivo Externo por prazo indeterminado (PSE_IN 2026)** (não verificada, verificada 1 vez) https://www.sescpe.org.br/sobre-o-sesc/processo-seletivo
+  - O que é: Unidade estadual do Sistema S fora de SP e RJ. A página lista 10 processos externos abertos por prazo indeterminado em 2026 (PSE_IN nº 01 a 10/2026); o site também aponta para portais de carreiras (sescpe.jobs.recrut.ai e reachr.com.br/sesc-pe).
+  - Requisitos: sem dados (nas chamadas individuais)
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Página mostra o PSE_IN 2026 'Em andamento' (10 chamadas, PSE_IN nº 01 a 10/2026), sem datas de inscrição.
+  - Como se candidatar: https://www.sescpe.org.br/sobre-o-sesc/processo-seletivo
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página não lista cargos, requisitos nem datas; os detalhes estão em pastas do Google Drive de cada chamada e no site de recrutamento externo (botão 'Ver vagas disponíveis', com cadastro).
+  - Esclarecimento: Nenhuma vaga artística ou musical aparece (a palavra 'Música' consta apenas no menu de programação cultural), e não é possível confirmar se há vaga para artista ou músico.
+  - Esclarecimento: O processo é regido pela Resolução Sesc 1590/2024.
+
+## Encerradas, não elegíveis ou inacessíveis
+
+Ficam listadas para que ninguém as pesquise de novo.
+
+- **Sesc São Paulo - Oportunidades de Trabalho** (não carregou) https://www.sescsp.org.br/oportunidades-de-trabalho/
+  - Prazo ou ciclo: sem dados
+  - Esclarecimento: O conteúdo da página não foi confirmado: não se sabe quais vagas traz nem se há vagas artísticas ou chamadas de credenciamento.
+  - Esclarecimento: O ciclo de fluxo contínuo não foi verificado.
+- **Workana (projetos freelancer em português)** (não carregou) https://www.workana.com/pt/jobs
+  - Prazo ou ciclo: sem dados
+  - Esclarecimento: O conteúdo da página não foi confirmado: não há dados sobre projetos abertos, valores ou regras.
+- **Catho (vagas de músico)** (não carregou) https://www.catho.com.br/vagas/musico/
+  - Prazo ou ciclo: sem dados
+  - Esclarecimento: O conteúdo da página não foi confirmado: não há dados sobre vagas de músico abertas nem sobre valores.
+- **Emprega Brasil / SINE (portal oficial de vagas do governo federal)** (não carregou) https://www.gov.br/trabalho-e-emprego/
+  - Prazo ou ciclo: Fluxo contínuo (não confirmado nesta verificação).
+  - Esclarecimento: O portal não carregou e URLs alternativas em gov.br retornaram 404, então o endereço atual e o fluxo de cadastro não foram confirmados.
+  - Esclarecimento: O endereço e o fluxo precisam ser conferidos em gov.br/trabalho-e-emprego ou em uma agência do SINE.
+- **Coquetel Molotov – Incubadora Musical de Pernambuco (4ª edição, artistas do interior)** (não carregou) https://coquetelmolotov.com.br/novo/incubadora-musical-de-pernambuco-abre-inscricoes-para-nova-edicao-voltada-a-artistas-do-interior-do-estado/
+  - Prazo ou ciclo: sem dados
+  - Esclarecimento: As datas alegadas (inscrições de 1 a 14/set/2026 e imersão de 14 a 17/out/2026 em Caruaru-PE) não foram confirmadas.
+  - Esclarecimento: A página e a home do site apresentaram erro (timeout e HTTP 500).
+- **Polícia Militar de SP: página de concursos (soldado músico, banda de música)** (não carregou) https://www.concursos.policiamilitar.sp.gov.br/
+  - Prazo ou ciclo: sem dados
+  - Esclarecimento: A página de concursos apresenta erro de certificado ('unable to verify the first certificate') e não carrega.
+  - Esclarecimento: O site oficial www.policiamilitar.sp.gov.br confirma que o link 'Concursos' aponta para esta mesma URL, mas não traz nada sobre soldado músico ou banda de música.
+- **Programa Ciclo de Saberes com Mestras e Mestres das Culturas Tradicionais e Populares e das Artes (MinC/MEC)** (não elegível) https://www.gov.br/cultura/pt-br/assuntos/editais/inscricoes-em-andamento/programa-ciclo-de-saberes-com-mestras-e-mestres-das-culturas-tradicionais-e-populares-e-das-artes
+  - Prazo ou ciclo: Edital MinC/MEC nº 13, de 16/10/2026. Inscrições de 19/10 a 08/11/2026 (encerradas) pelo Mapa da Cultura (oportunidade 12667). Resultado final da habilitação em 18/11/2026; as demais etapas têm prazos relativos no Anexo I.
+  - Esclarecimento: Só podem se inscrever Instituições Federais de Ensino Superior (IFES), uma proposta por IFES; artistas e mestres participam como parceiros selecionados pela IFES, não como proponentes.
+  - Esclarecimento: É preciso parceria com secretarias de educação ou escolas públicas de educação básica.
+- **Prêmio Funarte Mestras e Mestres das Artes (2ª edição, 2025)** (encerrada) https://www.gov.br/funarte/pt-br/fomento/chamadas-2025/premio-funarte-mestras-e-mestres-das-artes-2025
+  - Prazo ou ciclo: Inscrições de 29/08/2025 a 29/09/2025 (encerradas). Resultado final em 13/02/2026 (Portaria Funarte nº 771/2026). A página não menciona nova edição em 2026 e a lista de chamadas de 2026 não inclui o prêmio. 2ª edição, repetição possível, mas sem data.
+  - Esclarecimento: A candidatura é feita por indicação de terceiros; a pessoa homenageada não pode se inscrever sozinha.
+  - Esclarecimento: Cobre artes visuais, circo, dança, música e teatro; houve 50 premiados, com orçamento inicial de R$ 3 milhões suplementado em R$ 2 milhões (total R$ 5 milhões).
+- **Programa Rouanet nas Favelas 2 (MinC)** (encerrada) https://www.gov.br/cultura/pt-br/assuntos/editais/inscricoes-em-andamento/programa-rouanet-nas-favelas-2
+  - Prazo ou ciclo: Inscrições de 15/08/2026 a 13/10/2026 às 23h59 (encerradas). Resultado provisório até 27/11/2026, recursos até 07/12/2026, resultado final até 30/12/2026. Cadastro na plataforma Vale de 04/01/2027 a 15/01/2027. Execução entre 05/2027 e 12/2028. É a edição 2 do programa; próxima edição sem data.
+  - Esclarecimento: Só aceita pessoa jurídica sediada na mesma localidade do projeto, em favelas e comunidades urbanas do Censo IBGE 2022; não serve para artista individual sem CNPJ.
+  - Esclarecimento: A página continua em 'inscrições em andamento' (atualizada em 19/11/2026), mas as inscrições já fecharam; resta apenas acompanhar o resultado.
+- **Programa Rouanet no Interior 2026 (MinC)** (encerrada) https://www.gov.br/cultura/pt-br/assuntos/editais/inscricoes-em-andamento/edital-programa-rouanet-no-interior
+  - Prazo ou ciclo: Inscrições de 26/02/2026 a 30/04/2026 (encerradas). Resultado provisório até 20/07/2026, resultado final até 15/09/2026, execução a partir de 2027. A página mostra listas de selecionados já publicadas. Não vi indício de nova edição, nem data.
+  - Esclarecimento: Só aceita pessoa jurídica com sede nos municípios listados, em BA, PE, SP, RN e DF (Ceilândia, Planaltina e Brazlândia); não serve para artista individual sem CNPJ.
+  - Esclarecimento: Patrocínio da Neoenergia, com exclusão de parentes de colaboradores do grupo, pessoas politicamente expostas, servidores públicos e eleitos.
+- **Programa Rouanet Centro-Oeste (Edital 03/2026)** (encerrada) https://www.gov.br/cultura/pt-br/assuntos/editais/inscricoes-em-andamento/programa-rouanet-centro-oeste
+  - Prazo ou ciclo: Chamamento MinC nº 3 (15/06/2026). Inscrições encerradas: a página só lista edital, manual, listas de propostas habilitadas e inabilitadas (07/10), resultado provisório (27/10), resultado provisório corrigido (06/11) e resultado provisório de proponentes de primeira vez (16/11). A página não confirma a prorrogação de recursos até 23/11 nem a data de 30/12. Uma matéria da Brasil 61 cita resultado em dezembro de 2026. Não há sinal de nova chamada.
+  - Esclarecimento: Inscrições encerradas; o programa está em fase de resultados.
+  - Esclarecimento: O edital em PDF não pôde ser lido, então requisitos, valor por projeto e residência exata não estão confirmados.
+- **MICSUL 2026 (Mercado das Indústrias Culturais do Sul), seleção MinC** (encerrada) https://www.gov.br/cultura/pt-br/assuntos/editais/inscricoes-em-andamento/edital-de-selecao-micsul-2026
+  - Prazo ou ciclo: Inscrições de 29/07 (8h) a 12/08/2026 (18h), encerradas. O evento foi de 19 a 22/11/2026 em Assunção, Paraguai (5ª edição). Não há data da próxima chamada.
+  - Esclarecimento: Podem participar brasileiros ou estrangeiros residentes no Brasil, maiores de 18 anos; só pessoas físicas se inscrevem, e empresas podem ser representadas por uma pessoa.
+  - Esclarecimento: São 65 vagas, como compradores ou vendedores, em nove segmentos (arte indígena, artes cênicas, artes visuais e design, artesanato, audiovisual, moda, editorial, jogos eletrônicos e música).
+- **II Edital Escolas Livres de Formação em Arte e Cultura (certificação MinC)** (encerrada) https://www.gov.br/cultura/pt-br/assuntos/editais/inscricoes-em-andamento/ii-edital-escolas-livres-de-formacao-em-arte-e-cultura
+  - Prazo ou ciclo: Inscrições de 04/05/2026 a 08/06/2026 (texto) ou 05/07/2026 (calendário, provavelmente a data prorrogada; há aviso de prorrogação). Habilitação preliminar em 27/07/2026; resultado final até 06/11/2026. Encerrado. É o 2º edital, mas não vi sinal de um 3º.
+  - Esclarecimento: Só organizações da sociedade civil sem fins lucrativos com CNPJ se inscrevem, uma por CNPJ; artistas individuais não podem.
+  - Esclarecimento: É uma certificação voluntária, sem repasse de recursos do MinC: dá Certificado de Adesão ao Programa Nacional Escolas Livres (IN MinC nº 24/2025), registro no Cadastro Nacional e ingresso na Rede Nacional.
+- **Prêmio Brasil - Ibermúsicas 2026 (Funarte)** (encerrada) https://www.gov.br/funarte/pt-br/fomento/chamadas-2026/programa-ibermusicas-convocatorias-2026/premio-brasil-ibermusicas
+  - Prazo ou ciclo: Inscrições até 01/10/2026 (encerradas); resultado em 27/11/2026. A página aparece atualizada em 10/11/2026, depois do prazo, mas continua indicando 01/10/2026. Repetição: desconhecida.
+  - Esclarecimento: Chamada encerrada, e nada na página indica nova edição.
+  - Esclarecimento: A página não lista critérios de elegibilidade; o regulamento em PDF não foi lido, e é nele que se deve verificar quem pode se inscrever.
+- **Prêmio Ibermúsicas à criação de canções para as infâncias 2026** (encerrada) https://www.gov.br/funarte/pt-br/fomento/chamadas-2026/programa-ibermusicas-convocatorias-2026/premio-ibermusicas-a-criacao-de-cancoes-para-as-infancias
+  - Prazo ou ciclo: Inscrições até 01/10/2026 (encerradas); resultado em 27/11/2026. Página publicada em 15/06/2026 e atualizada em 10/11/2026. Repetição: desconhecida.
+  - Esclarecimento: Chamada encerrada.
+  - Esclarecimento: A página não detalha elegibilidade e remete ao regulamento em PDF, que não foi lido.
+- **Prêmio Ibermúsicas de composição de obra para Orquestra Sinfônica 2026** (encerrada) https://www.gov.br/funarte/pt-br/fomento/chamadas-2026/programa-ibermusicas-convocatorias-2026/premio-ibermusicas-de-composicao-de-obra-para-orquestra-sinfonica
+  - Prazo ou ciclo: Inscrições até 01/10/2026 (encerradas); resultado em 27/11/2026. Repetição: desconhecida.
+  - Esclarecimento: Chamada encerrada.
+  - Esclarecimento: A página não informa se residentes no Brasil podem se inscrever e remete ao regulamento em PDF, que não foi lido.
+- **Ibermúsicas 2026 - Apoio à programação musical** (encerrada) https://www.gov.br/funarte/pt-br/fomento/chamadas-2026/programa-ibermusicas-convocatorias-2026/apoio-a-programacao-musical
+  - Prazo ou ciclo: Edição 2026 encerrou em 01/10/2026; seleção divulgada em 27/11/2026 no site do Ibermúsicas. Repetição anual não confirmada (só vi a edição 2026).
+  - Esclarecimento: O candidato é o programador, não o artista individual; músicos participam como convidados e precisam estar no Catálogo Ibermúsicas (gratuito) para ser convidados por programadores de outros países.
+  - Esclarecimento: Chamada encerrada, portanto não é oportunidade aberta em 23/11/2026.
+- **Fomento CultSP / ProAC Editais / PNAB-SP (editais diretos do Estado de SP)** (encerrada) https://www.cultura.sp.gov.br/sec_cultura/Fomento/Programa_ProAC_(Editais)
+  - Prazo ou ciclo: Em 2026 os editais 01 a 09 estão encerrados. O 10/2026 (longa-metragem e coprodução internacional) teve inscrições de 15/09 a 03/11/2026, também encerrado. Não vi nenhum edital aberto de artes visuais ou música. O lançamento de novas linhas com repasses da PNAB ciclo 3 e os editais Cultura Viva 36 a 39/2025 não foram confirmados nesta consulta.
+  - Esclarecimento: Em 23/11/2026 não havia chamada aberta para artistas visuais ou músicos entre as vistas; vale monitorar a página, que costuma publicar novos editais ao longo do ano.
+  - Esclarecimento: Os editais 01 a 09 cobrem cinema, games, moda, eventos e municípios com até 50 mil habitantes.
+- **Carnaval do Pelô 2027 (Secult-BA, financiado pela PNAB)** (encerrada) https://www.ba.gov.br/cultura/edital-carnaval-do-pelo-2027
+  - Prazo ou ciclo: Inscrições de 16/09/2026 a 13/10/2026 (encerradas). Resultado final até 24/11/2026; habilitação 25/11 a 04/12/2026 (só selecionados); execução 05 a 09/02/2027. A página não diz que o edital é anual; nomes de arquivo (CP26, Carnaval do Pelô 27) sugerem série, mas é inferência.
+  - Esclarecimento: Requisitos e residência não constam na página, apenas no PDF do edital.
+  - Esclarecimento: A página não traz link de inscrição, só os PDFs do edital e um formulário de recursos.
+- **Amô pelo Pelô - Edital 024/2026 da Funceb (ocupação artística dos Largos do Pelourinho)** (encerrada) https://www.ba.gov.br/fundacaocultural/edital-0242026-selecao-de-projetos-culturais-para-ocupacao-artistica-dos-largos-pelourinho
+  - Prazo ou ciclo: Publicado em 15/07/2026, atualizado em 20/11/2026. A página mostra resultados de mérito, de habilitação e uma chamada de suplentes, então as inscrições já acabaram. Data de inscrição e repetição anual não vistas.
+  - Esclarecimento: A página lista um formulário de inscrição da Microsoft, mas não mostra prazo, e o processo está em fase de suplentes.
+  - Esclarecimento: Os valores constam no Anexo I do edital.
+- **Orquestra Sinfônica Brasileira (OSB) – audições para músicos** (encerrada) https://www.osb.com.br/
+  - Prazo ou ciclo: Chamada vista: inscrições de 17/11 a 17/12/2025, encerrada; a página já mostra resultados 2026. A home da OSB tem seção 'Audições' (https://www.osb.com.br/), mas só lista esta chamada e a do OSB Jovem 2026. Não vi nova chamada aberta em 23/11/2026.
+  - Esclarecimento: A chamada anterior ofereceu 4 vagas de 1 posto cada (violino 2 chefe de naipe, clarinete 2/requinta e clarone, oboé 1 solista, percussão), com inscrição gratuita por formulário online.
+  - Esclarecimento: Datas das audições, requisitos e salário constam apenas no edital.
+- **OSB Jovem – bolsas para jovens instrumentistas** (encerrada) https://www.osb.com.br/osb-jovem-abre-edital-para-audicoes-em-2026/
+  - Prazo ou ciclo: Edital 2026 encerrado: inscrições de 15/09 a 02/11/2025, audições presenciais no Rio de Janeiro de 18 a 20/12/2025, resultado em 22/12/2025, atividades a partir de fev/2026. Próxima edição não confirmada; o ciclo anterior sugere setembro-novembro, mas é inferência.
+  - Esclarecimento: A página ainda aparece na home como 'em andamento', mas as datas já passaram.
+  - Esclarecimento: Programa de formação com 51 bolsas (cordas, madeiras, metais e percussão/tímpanos) e participação nos ensaios e concertos da temporada.
+- **Orquestra Sinfônica Municipal de São Paulo – audição de violino e viola (Instituto Baccarelli)** (encerrada) https://theatromunicipal.org.br/trabalhe-conosco/
+  - Prazo ou ciclo: Inscrições encerraram em 10/11/2026 às 23:59; pré-seleção divulgada em 16/11/2026; audições presenciais em 8/12 (violinos) e 9/12/2026 (violas). Janela de inscrição fechada. Nova chamada por instrumento deve surgir ao longo do ano, sem data confirmada.
+  - Esclarecimento: Foram 5 vagas (violino Solista A e B, viola Solista B), com contrato CLT inicial de 1 ano.
+  - Esclarecimento: Inscrição gratuita por formulário online, com links separados para violino e viola.
+- **Theatro Municipal do Rio de Janeiro – processo seletivo simplificado (temporários)** (encerrada) https://theatromunicipal.rj.gov.br/
+  - Prazo ou ciclo: A página é da edição de 2022 (inscrições abertas em 10/06/2022, resultados e entrevistas em meados de 2022). A home do teatro só lista essa página como edital de contratação temporária e nenhum processo ou audição de 2026 em andamento. Não vi nova edição.
+  - Esclarecimento: A página é da edição de 2022 e serve apenas como modelo: cerca de uma dúzia de cargos temporários (músicos de coro e instrumentais, bailarinos, médico, auxiliares de produção e administração, cargos técnicos e jurídicos).
+  - Esclarecimento: Contato citado na página: processoseletivo2022@theatromunicipal.rj.gov.br.
+- **UNESCO — Fundo Internacional para a Diversidade Cultural (IFCD)** (encerrada) https://www.unesco.org/creativity/en/ifcd/apply
+  - Prazo ou ciclo: A página diz que a chamada 2026 está encerrada (datas exatas não aparecem; a alegação de 23/03 a 06/05/2026 não foi vista na página). Próxima chamada: sem dados; a página não informa.
+  - Esclarecimento: O programa é voltado a instituições; artistas individuais não aparecem como elegíveis.
+  - Esclarecimento: A lista de países elegíveis não foi acessada, então a elegibilidade do Brasil não foi confirmada.
+- **Itaú Cultural Ocupação** (encerrada) https://ocupacao.icnetworks.org/ocupacao/
+  - Prazo ou ciclo: Não há ciclo de inscrição. Projeto curatorial de exposições sucessivas desde 2009; em 23/11/2026 constam Hector Babenco (16/11/2026 a 14/02/2027, São Paulo) e Anísio Teixeira (02/09 a 15/11/2026).
+  - Esclarecimento: A seleção é curadoria da própria instituição, não edital, e não há caminho de candidatura.
+  - Esclarecimento: Útil apenas como referência de programação, não como fonte de trabalho ou renda.
+- **Instituto Moreira Salles (IMS) e Revista ZUM** (encerrada) https://ims.com.br/
+  - Prazo ou ciclo: Sem chamada aberta. A página /convocatoria/ trata da Convocatória de Fotolivros ZUM/IMS 2021 (exposição de 23/11/2021 a 27/02/2022), já encerrada e sem indicação de repetição. A página inicial do IMS não lista chamadas. O Programa Convida (ims.com.br/convida/) é apenas arquivo de um projeto de 2020 (abril a outubro, 171 artistas e coletivos).
+  - Esclarecimento: Nenhuma chamada aberta nem recorrente foi confirmada.
+  - Esclarecimento: O site revistazum.com.br, indicado para chamadas futuras, não foi lido.
+- **Te Vejo no Palco (gravação gratuita de shows)** (encerrada) https://www.premiodamusica.com.br/te-vejo-no-palco
+  - Prazo ou ciclo: Edição 2026 encerrada, e a página oficial diz 'INSCRIÇÕES ENCERRADAS - EDIÇÃO 2026'. Os selecionados foram anunciados em 27/05. A página da Billboard citada é de 06/05/2025 e fala do prazo de 09/05 da edição 2025, não de 2026. Recorrência: a 2025 e a 2026 existiram, mas não vi anúncio da edição 2027.
+  - Esclarecimento: A URL originalmente indicada era uma matéria de 2025; a página oficial é a que consta no campo officialUrl.
+  - Esclarecimento: Os requisitos de elegibilidade não estão na página e provavelmente constam em premiodamusica.com.br/participacao.
+- **Epidemic Sound - candidatura de artistas** (encerrada) https://www.epidemicsound.com/for-artists/
+  - Prazo ou ciclo: Fechado em 23/11/2026. A página diz: 'Epidemic Sound isn't accepting new artist applications right now. Check back soon for updates.' Sem data de reabertura.
+  - Esclarecimento: O bônus anual 'Soundtrack Bonus' de US$ 4,2 milhões é um valor declarado pela empresa, não verificado.
+  - Esclarecimento: Os acordos são não exclusivos e a página menciona elenco global, sem restrição de país.
+- **Edital Multilinguagens 2026 e Lei Municipal de Incentivo à Cultura (Belo Horizonte)** (encerrada) https://prefeitura.pbh.gov.br/cultura/edital-multilinguagens-2026
+  - Prazo ou ciclo: Inscrições de 17/07 a 17/08/2026, até as 17h (encerrado; a página lista 966 projetos inscritos). Próxima edição: não informada.
+  - Esclarecimento: Ciclo de 2026 encerrado; a repetição anual não aparece na página, e o edital serve apenas como pista de que a LMIC lança editais todos os anos.
+  - Esclarecimento: Convém acompanhar a página da Secretaria de Cultura de BH para o próximo edital.
+- **PNAB Belo Horizonte - Edital BH Fomento a Projetos Anuais e Ações Continuadas (Chamamento nº 04/2026)** (encerrada) https://prefeitura.pbh.gov.br/cultura/edital-bh-fomento-projetos-anuais-e-acoes-continuadas
+  - Prazo ou ciclo: Inscrições de 01/08 a 31/08/2026, até as 17h (encerrado). Página atualizada em 17/11/2026: fase de resultados e documentação. Chamado chamado de Ciclo 2 da PNAB; novo ciclo não confirmado.
+  - Esclarecimento: A inscrição foi feita apenas pelo Mapa Cultural BH.
+  - Esclarecimento: A página fala em Ciclo 2, o que sugere ciclos futuros, mas não informa data.
+- **Prêmio Hip-Hop BH (Fundação Municipal de Cultura de Belo Horizonte)** (encerrada) https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura/premio-hip-hop
+  - Prazo ou ciclo: Resultado provisório da seleção publicado; página atualizada em 24/10/2026. Datas de inscrição não constam na página (estão no edital no Diário Oficial do Município). Recorrência: não informada.
+  - Esclarecimento: O ciclo de 2026 já está na fase de resultados.
+  - Esclarecimento: Não há indício de repetição na página.
+- **SP Escola de Teatro: Curso Superior, linha Cenografia e Figurino (processo seletivo 1º semestre 2027)** (encerrada) https://www.spescoladeteatro.org.br/editais/
+  - Prazo ou ciclo: Fechado. Na página de editais (spescoladeteatro.org.br/editais/): Edital de Lançamento em 18/09/2026 (o período 18/09 a 13/10 vem do dado inicial, não foi visto); homologação das inscrições em 23/10/2026; entrevistas e redação (Primeiro Momento) em 23/10/2026; Segundo Momento convocado em 13/11/2026 (Editais 07 a 14/2026, um por linha, incluindo Cenografia e Figurino). Nada indica a data do próximo processo, embora o nome 'processo seletivo 1º semestre de 2027' sugira seleções por semestre.
+  - Esclarecimento: O curso tem 4 módulos, um por semestre (cerca de 2 anos), com 240 horas de atividades complementares.
+  - Esclarecimento: Há taxa de inscrição, com pedidos de isenção ou redução de 50%; mensalidade ou gratuidade do curso não confirmada.
+- **Spcine: editais PNAB 2026 (audiovisual, incluindo animação)** (encerrada) https://spcine.com.br/politica-nacional-aldir-blanc/
+  - Prazo ou ciclo: Editais 05 (até 21/09/2026), 06 (prorrogado até 30/09/2026) e 07 podcast (até 16/11/2026) encerrados. O 04/2026 (curtas, R$ 1,8 mi) teve o formulário cancelado e substituído, sem novo prazo na página. Edital 02/2026 traz datas contraditórias na página.
+  - Esclarecimento: Valores: edital 05 = R$ 1,9 mi (19 projetos de R$ 100 mil); 06 = 5 projetos de R$ 100 mil; 07 = 10 projetos de R$ 40.366,08.
+  - Esclarecimento: O único possível item futuro é o 04/2026, ainda sem data; convém acompanhar a página.
+- **Coquetel Molotov – Projeto Mapeando Pernambuco (capacitação e disco colaborativo)** (encerrada) https://coquetelmolotov.com.br/novo/projeto-mapeando-pernambuco-selecionara-artistas/
+  - Prazo ou ciclo: Inscrições até 30/05/2026 (encerradas); oficinas em Triunfo (11-13/jun), Recife (19-21/jun) e Caruaru (2-4/jul) de 2026. É a 2ª edição (Vol. II); a página não informa se haverá nova edição.
+  - Esclarecimento: Projeto da Coquetel Molotov financiado pelo Funcultura, conduzido pelo músico e produtor Benke Ferraz.
+  - Esclarecimento: As oficinas cobrem composição, arranjo, gravação, mixagem e masterização, e resultam em um disco colaborativo de 10 faixas inéditas.
+- **Marinha do Brasil: Curso de Formação de Sargentos Músicos do Corpo de Fuzileiros Navais (CFSM-FN)** (encerrada) https://www.marinha.mil.br/cgcfn
+  - Prazo ou ciclo: Edição 2026 encerrada (inscrições até 23h59 de 06/02/2026, ingresso previsto para 2027). Periodicidade de novas edições: desconhecida.
+  - Esclarecimento: Os dados vêm de uma reportagem de portal de notícias, pois a página oficial (marinha.mil.br/cgcfn) retornou HTTP 403 e não pôde ser conferida.
+  - Esclarecimento: São 40 vagas (sopro, percussão, teclado), com taxa de R$ 95 e isenção para CadÚnico e doadores de medula.
+- **Pivô Boulevard (Salvador) – Chamada Aberta para Residências Artísticas 2027** (encerrada) https://pivo.org.br/noticias/pivo-boulevard-lanca-chamada-aberta-para-residencias-artisticas-em-2027/
+  - Prazo ou ciclo: Inscrições prorrogadas até 20/10/2026 às 23h59 (Brasília); o corpo do texto ainda cita 15/10. Resultado em 08/12/2026. Residências em abr, jun, jul, set e out de 2027. Recorrência anual não confirmada.
+  - Esclarecimento: A chamada está encerrada, com resultado previsto para 08/12/2026, e a recorrência anual não foi confirmada.
+  - Esclarecimento: São 7 vagas em 3 modalidades: Pivô Imersão (4 vagas em Salvador, 1 mês, jun e set/2027), Pivô Conexão (2 vagas, intercâmbio Salvador e São Luís, em parceria com o Chão SLZ) e Pivô-Videobrasil Práticas da Imagem em Movimento (1 vaga, 4/10 a 4/11/2027).
+- **Prêmio FOCO (ArtRio) – residências para artistas visuais emergentes** (encerrada) https://www.artrio.com/foco/
+  - Prazo ou ciclo: Edição 2026 encerrada: a página de inscrição (artrio.com/premio-foco-inscricao) mostra 'Inscrições encerradas'. Residências de nov/2026 a ago/2027. Prêmio existe desde 2013, com edições anuais. ArtRio 2027 marcada para 8 a 12 de setembro de 2027.
+  - Esclarecimento: A edição 2026 está encerrada e a próxima não foi anunciada, embora o prêmio exista desde 2013.
+  - Esclarecimento: Selecionam-se 3 artistas por Comitê Curatorial, com residências em instituições parceiras: Terra Una (Liberdade, MG), Residência Sacatar (Itaparica, BA) e Residência MECA (Niterói, RJ).
+
