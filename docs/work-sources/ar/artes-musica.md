@@ -1437,7 +1437,7 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Pago o beneficio: Varía por oferta; no vi sueldos en las 2 ofertas de arte.
   - Plazo o ciclo: Feed activo al 23/11/2026: 100 ofertas, con fecha de 2026-11-20 en las más recientes; se actualiza a diario.
   - Como postular: https://remoteok.com/
-  - Lectura automatica posible: sin datos
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
   - Aclaracion: El feed es general, no solo de arte de juegos.
   - Aclaracion: Al 23/11/2026 solo hay 2 ofertas de arte o diseño ('Art Director' en Abnormal y 'Product Designer' en Tebra), ambas limitadas a EE.UU.
   - Aclaracion: La elegibilidad cambia por oferta, por lo que hay que leer la ubicación de cada una.
@@ -1471,7 +1471,7 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Pago o beneficio: Varía por oferta. No se vieron montos en el listado.
   - Plazo o ciclo: Abierto: contador de 32 ofertas, la más reciente de hace unas 12 horas. Actualización continua.
   - Como postular: https://weworkremotely.com/categories/remote-design-jobs (cada oferta tiene su propio enlace para postular)
-  - Lectura automatica posible: RSS: https://weworkremotely.com/categories/remote-design-jobs.rss (confirmado, con campos region, skills y expires_at). Índice de feeds: https://weworkremotely.com/remote-job-rss-feed
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
   - Aclaracion: La mayoría de las ofertas dicen 'Anywhere in the World', pero otras son solo de EE. UU., Europa, Asia, África o Canadá, y esas excluyen a quienes viven en Argentina.
   - Aclaracion: Hay que filtrar por el campo de región en cada oferta.
   - Aclaracion: Los puestos son de diseño digital (UX, producto, marca, 3D, gráfico), no de arte plástico ni música.
@@ -1482,7 +1482,7 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Pago o beneficio: Varía por oferta. No se vieron montos en el listado.
   - Plazo o ciclo: Abierto: 3.073 ofertas de diseño remotas en el listado y 439 agregadas en la semana del 23/11/2026. Actualización continua.
   - Como postular: https://remotive.com/remote-jobs/design (botón 'View Job' en cada oferta)
-  - Lectura automatica posible: JSON: https://remotive.com/api/remote-jobs?category=design (confirmado); RSS existe según el pie de la página (URL exacta no vista).
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
   - Aclaracion: Cada oferta indica su ubicación; el filtro 'Available from my location(s)' muestra solo las abiertas al país del usuario o a todo el mundo.
   - Aclaracion: Algunas ofertas muestran '[Company Name]' en lugar del empleador, por lo que conviene desconfiar.
   - Aclaracion: Según la página, sin sesión paga solo se ve una fracción de las ofertas (no verificado).
@@ -1494,7 +1494,7 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Pago o beneficio: sin datos (varía por oferta; no se vieron montos)
   - Plazo o ciclo: Feed activo con publicaciones diarias (última vista 2026-11-19); sin fecha de cierre
   - Como postular: https://remotive.com/remote-jobs/design
-  - Lectura automatica posible: sin datos
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
   - Aclaracion: El filtro category=design devolvió el feed completo y no hay ofertas de arte, ilustración o diseño; son de programación, soporte, ventas y redacción.
   - Aclaracion: Los términos de Remotive piden atribución y enlace, retrasan las ofertas 24 h, limitan a unas 4 consultas por día y prohíben reenviar las ofertas a terceros.
 - **Work With Indies - audio para videojuegos** (se repite (hoy sin llamado abierto), verificada 2 veces) https://workwithindies.com/

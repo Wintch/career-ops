@@ -1,4 +1,4 @@
-# Fuentes de trabajo en Argentina: oficios, comercio, logistica, servicios y mas
+# Fuentes de trabajo en Argentina: oficios, servicios, programas y empleo publico
 
 Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las abiertas y buena parte de las recurrentes se revisaron una segunda vez por separado. Los plazos cambian: antes de usar una fila, abrir el enlace y confirmar la fecha.
 
@@ -12,12 +12,13 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
 
 ## Resumen
 
-- Fuentes: 172. Con segunda verificacion: 112.
-- Abierta o vigente: 90.
-- Se repite (hoy sin llamado abierto): 25.
-- Sin verificar: 46.
-- No cargo: 5.
-- Cerrada: 6.
+- Fuentes: 267. Con segunda verificacion: 177.
+- Abierta o vigente: 143.
+- Se repite (hoy sin llamado abierto): 36.
+- Sin verificar: 73.
+- No cargo: 6.
+- No elegible: 2.
+- Cerrada: 7.
 
 ## Comercio y supermercados
 
@@ -1308,20 +1309,103 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Aclaracion: Los datos pueden estar desactualizados: AFIP fue reemplazada por ARCA y el marco legal cambió.
   - Aclaracion: Si se conserva en un catálogo, corresponde presentarla solo como contexto histórico.
 
-## Fuentes transversales y de otros rubros
+## Primer empleo, juventud y capacitacion
 
-- **Servicio Penitenciario Federal - Escuela de Suboficiales 'Cnel. Rómulo Páez' (preinscripción permanente)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/servicio/ingresar-la-escuela-de-suboficiales
-  - Que es: Personas que quieren ser suboficiales del SPF: Cuerpo General (seguridad penitenciaria), Profesional (apoyo técnico y maestranza: mecánicos, carpinteros, gasistas), Auxiliar (oficinistas e intendencia: choferes, músicos). La página dice que la preinscripción está abierta de forma permanente.
-  - Requisitos: Argentino/a nativo/a o por opción (no naturalizado/a), mayor de 21 años. Más de 3 años de residencia en la provincia donde se postula. Sin causas ni antecedentes penales o policiales, sin cesantía en la administración pública ni baja por indisciplina. Cuerpo General: 21 a 32 años, estatura mínima 1,60 m varones y 1,55 m mujeres; la página no pide título de nivel secundario explícitamente para este escalafón pero sí lista el secundario legalizado entre los documentos. Profesional Apoyo Técnico: 21 a 35 años, título terciario o universitario habilitante. Profesional Maestranza: 21 a 35 años, secundario, título o idoneidad en el oficio. Auxiliar Oficinista: 21 a 32 años, secundario y ofimática. Auxiliar Intendencia: 21 a 32 años; choferes con licencia profesional. Documentos: DNI, título secundario legalizado, certificado de antecedentes penales. No exige experiencia salvo los escalafones de oficio.
+- **Provincia de Buenos Aires - IPFL, Centros de Formación Laboral (cursos de oficios gratuitos)** (abierta o vigente, verificada 2 veces) http://www.trabajo.gba.gov.ar/ipfl/
+  - Que es: Cualquier persona interesada en aprender un oficio; la red tiene 223 Centros de Formación Laboral junto a sindicatos, municipios, cámaras y organizaciones.
+  - Requisitos: sin datos (la página no publica edad ni documentación; se ven en el detalle de cada curso). Los cursos son gratuitos y no se vio un requisito de experiencia.
   - Sin experiencia previa: si
-  - Pago o beneficio: Sueldo: sin datos (la página no informa montos)
-  - Plazo o ciclo: Abierto todo el año: la página dice que el sistema de preinscripción está disponible de forma permanente. No hay fechas de cursada ni de cierre (la sección de vigencia está vacía). Campaña 2026 mencionada.
-  - Como postular: https://incorporaciones.spf.gob.ar
-  - Lectura automatica posible: No se vio API ni feed.
-  - Aclaracion: La preinscripción exige documentación en PDF; si hay preselección, el aviso llega por correo.
-  - Aclaracion: La evaluación psicotécnica, los exámenes médicos y la entrega del legajo son presenciales.
-  - Aclaracion: Los gastos de las etapas están a cargo del postulante.
-  - Aclaracion: El Cuerpo General cursa en internado de lunes a viernes, de 3 a 6 meses.
+  - Pago o beneficio: Cursos y trayectos gratuitos con reconocimiento oficial; sin ayuda económica informada.
+  - Plazo o ciclo: Oferta continua. El buscador de cursos mostraba cursos con fecha 23/11/2026; cada curso trae su propio calendario y su preinscripción.
+  - Como postular: http://cursosipfl.trabajo.gba.gob.ar/
+  - Lectura automatica posible: none (buscador de cursos dentro del sitio)
+  - Aclaracion: Es solo para la Provincia de Buenos Aires.
+  - Aclaracion: Los requisitos de edad y documentación se consultan en cada curso o en la página de contacto.
+  - Aclaracion: La portada no muestra fechas de cursos; el buscador oficial está en cursosipfl.trabajo.gba.gob.ar y la preinscripción figura en el detalle de cada curso.
+- **Provincia de Buenos Aires - Servicio Bonaerense de Empleo (SBE)** (abierta o vigente, verificada 2 veces) https://www.trabajo.gba.gov.ar/sbe/
+  - Que es: Trabajadores, empleadores y emprendedores de la Provincia de Buenos Aires; red de intermediación laboral con acceso a formación para el trabajo.
+  - Requisitos: No se informan requisitos de edad, documentos ni residencia en la portada. Para ingresar se usa el CUIL. El instructivo para trabajadores (PDF) debería detallarlos, pero no se abrió. No se vio ningún requisito de experiencia ni de título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos. Es un servicio de intermediación laboral gratuito; el sueldo depende de cada aviso.
+  - Plazo o ciclo: Sin fechas ni plazos en la página; acceso por login de trabajador/a en trabajo.gba.gov.ar/Delegaciones/RegistroEmpleo.
+  - Como postular: https://www.trabajo.gba.gov.ar/Delegaciones/RegistroEmpleo/Account/Login
+  - Lectura automatica posible: none
+  - Aclaracion: La portada no informa requisitos, fechas ni elegibilidad; esos datos podrían estar en el instructivo en PDF, que no pudo consultarse.
+  - Aclaracion: Que el registro sea permanente o esté abierto todo el año es una inferencia, no un dato publicado.
+  - Aclaracion: El ingreso de trabajadores es con CUIL y contraseña, con enlace para registrarse.
+  - Aclaracion: Contacto: 0800-666-2187 y asesoramientoempleo@trabajo.gba.gob.ar.
+- **Becas Progresar (Obligatorio, Superior y Formación Profesional)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/educacion/progresar
+  - Que es: Jóvenes que terminan el secundario o la primaria (16 a 24), cursan estudios superiores (ingresantes 17 a 24, avanzados hasta 30, sin límite en Enfermería) o hacen un curso de formación profesional (18 a 24, hasta 35 si no tienen trabajo formal registrado).
+  - Requisitos: Ciudadano argentino nativo o por opción, o extranjero con 2 años de residencia legal, y tener DNI. Edad de 18 a 24 años, con tope de 35 para quienes no tienen trabajo formal registrado. Los ingresos propios y del grupo familiar no pueden superar 3 veces el Salario Mínimo, Vital y Móvil (no cuentan las pensiones no contributivas por discapacidad). Para Formación Profesional hay que cursar una formación o trayecto validado por el INET y considerado estratégico por el CoNETyP. Requisitos de Obligatorio y Superior: no verificados.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Monto de la beca: sin datos. Ninguna de las páginas consultadas lo informa; la portada remite a la página de cronograma de pagos y monto (https://www.argentina.gob.ar/educacion/progresar/cronograma), que no se abrió.
+  - Plazo o ciclo: Convocatoria anual. La portada muestra Formación Profesional abierta hasta el 27 de noviembre, Obligatorio cerrada el 4 de septiembre y Superior cerrada el 11 de septiembre. La página no indica el año; el nombre del sitio de inscripción (becasprogresar26) sugiere 2026.
+  - Como postular: https://becasprogresar26.educacion.gob.ar
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: El sitio de inscripción solo mostró una pantalla de inicio de sesión, sin fechas.
+  - Aclaracion: No se pudo confirmar el año de la convocatoria ni el monto de la beca.
+  - Aclaracion: Las líneas Obligatorio y Superior están cerradas; no está confirmado que se repitan el año próximo.
+- **Guía Preparate para tu presentación (primer CV y entrevista)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/preparate
+  - Que es: Personas que buscan trabajo, incluidas las que no tienen experiencia.
+  - Requisitos: Ninguno. Sirve para quien no tiene experiencia: explica cómo definir el perfil laboral, qué secciones lleva un CV (formatos cronológico y funcional) y errores comunes, estrategia de búsqueda, tipos de entrevista y qué llevar, y derechos laborales (recibo de sueldo, vacaciones, aguinaldo, ART, asignaciones familiares).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito. Es una guía de orientación, no un empleo ni una beca.
+  - Plazo o ciclo: Contenido permanente, de lectura libre. La página no tiene fecha de publicación ni de actualización.
+  - Como postular: https://www.argentina.gob.ar/trabajo/preparate
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La guía remite a Portal Empleo para generar un CV automáticamente.
+  - Aclaracion: Algunos modelos de CV enlazados parecen datar de 2020, por lo que conviene verificar enlaces y datos de contacto antes de usarlos.
+- **Techint - Programa de Jóvenes Profesionales** (abierta o vigente, verificada 2 veces) https://www.techint.com/es/carreras/jovenes-talentos
+  - Que es: Estudiantes universitarios, según la página de carreras. La página informa que más de 3.500 personas participaron desde 1983.
+  - Requisitos: Dirigido a graduados universitarios. La página no lista otros requisitos; cada búsqueda detalla los suyos. No apto para quien no tiene título universitario.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto con búsquedas activas. En la bolsa de graduados se vieron 5 búsquedas en Argentina publicadas entre el 26/10/2026 y el 12/11/2026. Sin fecha de cierre ni ciclo anual visibles.
+  - Como postular: https://careers.techint.com/go/Graduados-Universitarios/3010100/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página corresponde a Techint Ingeniería y Construcción (graduados) y habla de estudiantes, aunque los requisitos apuntan a graduados universitarios.
+  - Aclaracion: Se postula cargando el CV en el portal de empleo del grupo.
+  - Aclaracion: Búsquedas vistas: Control Sr. Analyst (Holding, Buenos Aires), Engineering Analyst y Maintenance Analyst (Tenaris, Campana) y Buyer (Exiros, Campana).
+- **Techint Ingeniería y Construcción - Supervisores y técnicos** (abierta o vigente, verificada 2 veces) https://www.techint.com/es/carreras/supervisores-y-tecnicos
+  - Que es: Personas con experiencia en soldadura, electricidad, mecánica, operación de equipos, instrumentación, montaje o construcción.
+  - Requisitos: Se pide experiencia en soldadura, electricidad, mecánica, operación de equipos, instrumentación, montaje o construcción. No se informan otros requisitos. No es una opción para quien no tiene experiencia en esos oficios.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fecha de cierre ni indicación de apertura permanente. Se pide experiencia en soldadura, electricidad, mecánica, operación de equipos, instrumentación, montaje o construcción. El proceso es gratuito y la empresa declara que nunca solicita dinero ni claves.
+  - Como postular: https://wa.me/5491171136985
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Se postula registrando el perfil por el asistente virtual de WhatsApp; el equipo contacta cuando el perfil coincide con una búsqueda activa.
+  - Aclaracion: No figura fecha de cierre visible ni lista de países.
+- **Promoción del Empleo en Formación (EPT y PIL, Provincia de Buenos Aires)** (sin verificar, verificada 1 vez) https://www.trabajo.gba.gov.ar/ipfl/content/promoci%C3%B3n-del-empleo-en-formaci%C3%B3n
+  - Que es: Egresados de cursos de formación profesional y técnica de la Provincia que van a una práctica en empresa (Entrenamiento para el Trabajo) o son contratados con incentivo (Inserción Laboral).
+  - Requisitos: Dirigido a egresados de la formación profesional y técnica de la provincia de Buenos Aires. Edad y demás requisitos: no figuran en la página; podrían estar en los PDF de preguntas frecuentes de EPT y PIL que enlaza. El EPT permite hacer entrenamiento en empresas; el PIL permite ser contratado por empresas que reciben incentivos.
+  - Pago o beneficio: La página provincial no informa montos. Los valores de los programas nacionales (https://www.argentina.gob.ar/trabajo/fomentarempleo/montos-de-las-prestaciones-del-programa-fomentar-empleo), que no tienen fecha de vigencia, indican hasta $190.000 de ayuda económica para participantes del EPT y aportes mensuales por contratación para el PIL. Pueden estar desactualizados.
+  - Plazo o ciclo: sin datos. La página no dice si hay convocatoria abierta ni informa fechas.
+  - Como postular: https://www.trabajo.gba.gov.ar/ipfl/content/promoci%C3%B3n-del-empleo-en-formaci%C3%B3n
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: El trámite lo inician las empresas y los CFL con asesoramiento de las Oficinas de Empleo municipales y las Agencias Territoriales; la página no describe un procedimiento de postulación individual.
+  - Aclaracion: Contacto: formacionparaeltrabajo@trabajo.gba.gov.ar y (0221) 427-5469, internos 113 o 116.
+- **INET - Formación Profesional: catálogo de instituciones y certificaciones** (sin verificar, verificada 1 vez) https://www.inet.edu.ar/index.php/niveles-educativos/formacion-profesional/
+  - Que es: Quien busque una formación profesional reconocida. El INET coordina la política nacional de educación técnico profesional con las provincias y la Ciudad de Buenos Aires.
+  - Requisitos: La página no indica requisitos de edad ni de estudios. Aclara que la formación profesional admite trayectos de ingreso distintos de los de la educación formal.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Permanente (página institucional, sin fechas ni convocatorias)
+  - Como postular: sin datos
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página solo describe qué es la formación profesional: no lista instituciones, no enlaza el registro de instituciones ni el catálogo de títulos y certificaciones, y no permite inscribirse.
+  - Aclaracion: Sirve como referencia conceptual, no como lugar donde postularse.
+- **FAECYS - Capacitación y terminalidad secundaria (empleados de comercio)** (sin verificar, verificada 1 vez) https://www.faecys.org.ar
+  - Que es: Trabajadores del comercio y sus familias. Hay convenios de terminalidad secundaria y de capacitación con gobiernos provinciales.
+  - Requisitos: No se pudo verificar. La página no aclara si los programas se limitan a empleados de comercio o afiliados, ni informa costo, edad o documentación.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se vieron fechas ni convocatorias)
+  - Como postular: sin datos
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Los convenios de terminalidad secundaria y de capacitación mencionados no describen quién puede acceder ni cómo inscribirse.
+  - Aclaracion: No hay evidencia de oferta abierta para personas ajenas al gremio.
+  - Aclaracion: Contacto: (011) 4345-8145/50.
+
+## Empleo publico y concursos
+
 - **Ejército Argentino - Incorporación de soldados voluntarios** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/defensa/ejercito/incorporacion-de-soldados
   - Que es: Jóvenes que quieren ser soldados voluntarios; es el ingreso con menor exigencia de estudios. Antes de los 24 años se puede seguir como suboficial (Escuela 'Sargento Cabral') u oficial (Colegio Militar de la Nación).
   - Requisitos: Ciudadano/a argentino/a. 18 a 24 años al momento del curso de admisión. Primario completo. Sin antecedentes penales. No requiere secundario ni experiencia.
@@ -1344,17 +1428,6 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Aclaracion: La Escuela de Suboficiales de Ezeiza figura con cierre el 27/11/2025, fecha vencida o posible error de tipeo; no debe presentarse como abierta sin confirmar.
   - Aclaracion: Soldado voluntario: compromiso de 2 años, renovable una vez hasta los 28 años; la inscripción es personal y gratuita, sin gestores.
   - Aclaracion: Una nota de prensa habla de 18 a 28 años, pero la fuente oficial dice 18 a 24.
-- **Escuela de Suboficiales de la Fuerza Aérea (Córdoba) - Ingreso e inscripción online** (abierta o vigente, verificada 2 veces) https://esfacba.com/ingreso/
-  - Que es: Postulantes a suboficial de la Fuerza Aérea para la incorporación 2027. Se puede rendir cursando el último año del secundario.
-  - Requisitos: Argentino nativo o por opción; soltero/a; hasta 24 años al 1 de marzo del año de ingreso; secundario completo (los alumnos de último año pueden rendir el examen con constancia de alumno regular y deben adeudar como máximo 2 materias, a aprobar antes del 30 de abril; título antes del 31 de julio); DNI vigente; sin baja por mala conducta o falta de aptitud militar en fuerzas armadas ni condena penal; aptitud psicofísica; calendario de vacunación completo (incluye hepatitis A y B y tétanos); consentimiento de los padres si es menor de 18 (Anexo 3). No se exige experiencia previa. Se rinden exámenes de selección.
-  - Sin experiencia previa: si
-  - Pago o beneficio: sin datos (la página no menciona beca ni sueldo)
-  - Plazo o ciclo: Inscripción abierta del 26 de mayo al 27 de noviembre (sección 'Incorporación 2027'; el año de la línea de fechas no figura, pero el examen intelectual para quienes terminan el secundario se da el 14 y 15 de diciembre de 2026). Examen intelectual en diciembre (a confirmar); selección en enero y febrero de 2027 (a confirmar). Cierra en 4 días respecto del 23/11/2026; ciclo anual.
-  - Como postular: https://esfacba.com/inscripcion-online/
-  - Lectura automatica posible: No se vio API ni feed.
-  - Aclaracion: Las fechas del examen intelectual y de la selección figuran como a confirmar, y el año de la línea de fechas no consta en la página.
-  - Aclaracion: El estado de la inscripción se consulta en https://consulta.esfacba.com/.
-  - Aclaracion: Las mujeres embarazadas o en lactancia pueden inscribirse, pero solo rinden el examen intelectual.
 - **Concursar - Portal de concursos del empleo público nacional (inscripción)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/jefatura/gestion-y-empleo-publico/concursar
   - Que es: Cualquier persona que cumpla los requisitos excluyentes de cada puesto, en las convocatorias de 'Selección Abierta' para organismos de la Administración Pública Nacional. Las de 'Selección General' e 'Interna' son para quienes ya trabajan en el Estado.
   - Requisitos: La página no lista requisitos generales; cada convocatoria define los suyos. Para postularse hay que autenticarse en el portal, completar 'Mi CV' y aplicar a cada llamado (guías en la propia página). Hay llamados de Selección Abierta (para cualquier persona que cumpla los requisitos del cargo) y otros solo internos.
@@ -1364,6 +1437,27 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Lectura automatica posible: No se vio API ni feed; las convocatorias se publican en PDF.
   - Aclaracion: Para postularse hay que autenticarse en Concursar 2.0, completar 'Mi CV' y aplicar a cada llamado.
   - Aclaracion: Cada llamado debe consultarse en su propio detalle; las convocatorias de Ciencia y Técnica de la Cartelera tienen PDF de fecha dudosa (el del INA lleva '05-04-2022' en el nombre) y no deben darse por vigentes.
+- **Banco Nación - Ingresá tu currículum (Trabajá con nosotros)** (abierta o vigente, verificada 2 veces) https://www.bna.com.ar/Institucional/IngresaTuCurriculum
+  - Que es: Personas que buscan ingresar al banco público más grande del país (atención al cliente, tareas administrativas y comerciales). El perfil que se pide es de ingreso, aunque se valora experiencia en atención al cliente.
+  - Requisitos: Nacionalidad argentina (nativa o por opción); secundario completo; se prefiere estudiantes o graduados de carreras terciarias o universitarias afines a la banca; se valoran idiomas, cursos de finanzas y experiencia comprobable en tareas administrativas, comerciales o de atención al cliente (valorada, no obligatoria).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fechas de apertura ni cierre; carga de CV continua sin plazo indicado y sin vacantes listadas.
+  - Como postular: https://www.bna.com.ar/Institucional/IngresaTuCurriculum (enlace 'Cargá tu CV acá'). Consultas: Centro de Atención al Cliente 0810-666-4444
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La página oficial no confirma que la carga de CV esté abierta todo el año ni fija fechas.
+  - Aclaracion: Las búsquedas activas se remiten al perfil de LinkedIn del banco y la página no lista vacantes.
+  - Aclaracion: Quienes sean extranjeros sin nacionalidad argentina o no tengan secundario completo no cumplen los requisitos.
+- **Servicio Penitenciario Federal: carreras e ingreso** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/spf/RRHH
+  - Que es: Personas que buscan carrera penitenciaria como oficial, suboficial o profesional. Suboficiales sin experiencia previa.
+  - Requisitos: Suboficiales: argentino/a nativo/a o por opción (no naturalizado/a); mínimo 21 años; máximo 32 (Cuerpo General, Auxiliar Oficinista y Auxiliar Intendencia) o 35 (Profesional); secundario legalizado (Oficinista, preferentemente con orientación administrativa o contable y ofimática; Apoyo Técnico, título de pregrado; Maestranza, secundario o idoneidad en el oficio; Intendencia, sin nivel educativo especificado y licencia profesional para choferes); Cuerpo General: altura mínima 160 cm varones y 155 cm mujeres. Curso de entre 3 y 6 meses en Ezeiza. Oficiales: argentino/a nativo/a o por opción, 17 a 27 años al 1 de marzo del año de ingreso, secundario legalizado (escalafón Administrativo requiere nivel medio con orientación contable); curso de 3 años; adaptación de un mes. No exige experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no se informa remuneración). Se mencionan 30 días de licencia anual, carrera de 25 años de servicio activo y bonificación académica para profesionales. Cualquier gasto de las etapas corre por cuenta del postulante.
+  - Plazo o ciclo: Escuela de Suboficiales: preinscripción permanente ('estará disponible -de forma permanente-'), sin convocatoria por ciclo. Escuela de Oficiales: no se vio ventana de inscripción; la página muestra 'Campaña Reclutamiento 2026' con la sección de vigencia vacía, por lo que la afirmación de 'una convocatoria por año' no se pudo confirmar.
+  - Como postular: https://incorporaciones.spf.gob.ar/
+  - Lectura automatica posible: No; HTML.
+  - Aclaracion: La URL es una portada que solo enlaza a los trámites; los requisitos salen de las páginas de servicio de cada escuela.
+  - Aclaracion: El trámite es personal, sin gestores.
+  - Aclaracion: Los profesionales con título tienen otra vía de ingreso: https://www.argentina.gob.ar/servicio/ingreso-para-profesionales.
 - **Gendarmería Nacional - Requisitos de ingreso de postulantes, cadetes y aspirantes a gendarmes** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/gendarmeria/requisitos-de-ingreso-de-postulantes-cadetes-y-aspirantes-gendarmes
   - Que es: Personas de 17 a 25 años que quieran ser Cadetes (oficiales) o Aspirantes a Gendarmes (curso básico de un año en los Institutos de Formación). Preinscripción 100% web, sin ir a una unidad al comienzo.
   - Requisitos: Argentino/a nativo/a o por opción (si nació en el exterior, hijo/a de padre o madre argentino/a). 17 a 25 años al 31/12 del año de la postulación. Estatura mínima 1,50 m. DNI vigente. Secundario completo (legalizado) o constancia de último año sin materias pendientes, con el título en trámite antes de la tercera etapa. Sin antecedentes penales (RNR) ni policiales provinciales, sin deuda en el registro de infractores al voto, sin baja disciplinaria de otra fuerza. Menores van con ambos padres o tutores. No pide experiencia previa.
@@ -1385,6 +1479,645 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Lectura automatica posible: No se vio API ni feed.
   - Aclaracion: El portal Inscripciones 2.0 es la vía oficial: se reúnen los documentos y se suben por el formulario online.
   - Aclaracion: La página no menciona 2026 ni fechas de inscripción; conviene verificar en el portal si todavía se puede cargar la documentación.
+- **Armada Argentina - Portal de Incorporación (Marinero voluntario, Escuela de Suboficiales, Escuela Naval, Liceos)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://incorporacion.armada.mil.ar/
+  - Que es: Portal con todas las vías: Servicio Militar Voluntario (Marineros, ingreso anual, ambos sexos), Escuela de Suboficiales (Aspirante Naval), Escuela Naval Militar (Cadete), CUINA y CUIM para quienes tienen título o conocimientos previos, Marina Mercante y Liceos Navales.
+  - Requisitos: Marinero voluntario: argentino/a nativo/a o por opción, 18 a 24 años, séptimo grado completo, soltero/a, aprobar examen psicofísico y curso de admisión. No pide experiencia ni título secundario. Requisitos de las demás escuelas: sin datos (no se vieron sus páginas).
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Marinero voluntario: la página dice que se incorpora anualmente; no muestra fecha ni cierre (sin datos). Las demás escuelas tampoco publican fechas en la página principal.
+  - Como postular: https://sinu.incorporacion.armada.mil.ar
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: La inscripción se hace online en sinu.incorporacion.armada.mil.ar (botón Inscribite) o en persona en las Delegaciones de Incorporación Naval.
+  - Aclaracion: Tras el curso de admisión, el Marinero se incorpora como Marinero Segundo por 2 años, renovable anualmente como Marinero Primero hasta los 28 años.
+  - Aclaracion: Los requisitos y fechas de las demás escuelas no se publican en la página principal.
+- **Ejército Argentino: carreras de oficial y suboficial (Colegio Militar y Escuela de Suboficiales)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/ejercito/incorporacion
+  - Que es: Jóvenes que buscan carrera como oficial (Colegio Militar de la Nación, 4 años, con título universitario) o suboficial (Escuela de Suboficiales Sargento Cabral, 2 años).
+  - Requisitos: El Colegio Militar dura 4 años y egresa como subteniente con título universitario. La Escuela de Suboficiales dura 2 años y egresa como cabo. Edad, estudios y demás requisitos no figuran en estas páginas; están en la Guía de ingreso y preguntas frecuentes del sitio de cada escuela. La inscripción es personal mediante declaración jurada.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos. La página de ingreso no informa remuneración. La Escuela de Suboficiales cobra gastos administrativos de inscripción, con montos 'en revisión'.
+  - Plazo o ciclo: Ciclo anual. El sitio de la Escuela de Suboficiales (esesc.ejercito.mil.ar) muestra 'INSCRIPCIÓN AÑO LECTIVO 2027 FINALIZADA'; no se vio fecha del ciclo siguiente. El sitio del Colegio Militar no pudo cargarse (error de certificado), por lo que su estado no se verificó.
+  - Como postular: https://esesc.ejercito.mil.ar/
+  - Lectura automatica posible: No; HTML.
+  - Aclaracion: Consultas de la Escuela de Suboficiales: esesc@ejercito.mil.ar, 11 6123-4798.
+- **Policía de la Ciudad de Buenos Aires: cadetes** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.policiadelaciudad.gob.ar/?q=sumate
+  - Que es: Personas que quieren ser cadetes de la Policía de la Ciudad; no se pide experiencia. Hay vías separadas para Agentes de Prevención y Bomberos.
+  - Requisitos: Edad de 18 a 30 años al ingresar; secundario completo (se admite título en trámite o constancia de último año); residencia a menos de 80 km de la Ciudad de Buenos Aires; ciudadanía argentina (nativa o por opción); aptitud psicofísica y conducta pública adecuada; estatura mínima y máxima según sexo (hombres 1,65 a 1,95 m; mujeres 1,55 a 1,85 m) y rangos de IMC. No se requiere experiencia previa. Documentación: DNI original y título o constancia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: La página no menciona sueldo ni beca (fuentes de búsqueda indican que los cadetes reciben una beca durante la formación; monto: sin datos).
+  - Plazo o ciclo: Sin fechas publicadas en la página. Hay cohortes anuales de cadetes en el Instituto Superior de Seguridad Pública (en 2026 se informó el inicio de clases de más de 2.000 cadetes de policía y bomberos). Consultar fechas de inscripción por teléfono 4323 8900.
+  - Como postular: https://www.policiadelaciudad.gob.ar/?q=sumate (enlace 'Formulario de incorporación de aspirante cadetes')
+  - Lectura automatica posible: No; HTML.
+  - Aclaracion: El formulario en línea es una declaración jurada.
+  - Aclaracion: No se vio una convocatoria con fecha de apertura o cierre; la apertura efectiva debe confirmarse con Incorporaciones o el ISSP.
+  - Aclaracion: No apareció una convocatoria 2026 abierta para cadetes de policía.
+- **Policía Federal Argentina - Ingreso como Cadete o Agente (preinscripción online)** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/seguridad/incorporacion-fuerzas-federales/policia-federal-argentina
+  - Que es: Personas argentinas nativas que quieren ser Cadetes (carrera de oficial) o Agentes (suboficiales) de la PFA. Aceptan postulantes de todo el país, aunque las primeras evaluaciones son unos 3 días hábiles en CABA.
+  - Requisitos: Argentino/a nativo/a. Cadete: 17 a 25 años al 31/12 del año en curso, secundario completo o cursando el último año sin materias previas adeudadas. Agente: 19 a 35 años, secundario completo y aprobado. Soltero/a y sin hijos. Estatura: varones 1,65 a 1,95 m, mujeres 1,60 a 1,85 m. Menores de 18 necesitan autorización de ambos padres o tutores. Aceptar estudios médicos y toxicológicos. No requiere experiencia previa ni residencia en un lugar determinado.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Beca mensual durante la formación más obra social (monto: sin datos)
+  - Plazo o ciclo: Sin fechas publicadas en la página oficial. No se vio una convocatoria con fecha ni un cierre; la edad se mide al 31 de diciembre del año en curso, lo que sugiere ciclo anual.
+  - Como postular: https://sistemaspfa.gov.ar/portal_ingresos/
+  - Lectura automatica posible: No se vio API ni feed; solo formulario web.
+  - Aclaracion: La página no informa si hay una convocatoria abierta; la inscripción comienza online en el Sistema de Preinscripción y un correo de confirmación explica cómo pedir turnos.
+  - Aclaracion: Los exámenes y la entrega de documentos son presenciales en CABA (División Incorporaciones); quienes viven fuera del AMBA deben prever unos 3 días hábiles en la ciudad.
+  - Aclaracion: Los estudios médicos corren por cuenta del postulante.
+- **Cartelera Pública Central de Ofertas de Empleo Público (SINEP y otros escalafones)** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/desregulacion/transformacion/cartelera-publica-central-de-ofertas-de-empleo-publico
+  - Que es: Cartelera oficial con las vacantes a concurso del convenio colectivo de la Administración Pública Nacional, ordenadas por escalafón: SINEP (Selección General, Abierta e Interna), Otros Escalafones y Ciencia y Técnica.
+  - Requisitos: Selección Abierta: abierta a cualquier postulante, sea o no empleado público, que cumpla los requisitos obligatorios del cargo. Selección General: para personal con estabilidad o contratado bajo SINEP. Convocatoria Interna: solo personal del organismo. Requisitos de cada cargo: sin datos (están en cada convocatoria; los PDF vistos no se pudieron leer).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Continuo según vacantes; la página en sí no lista convocatorias abiertas ni cierres (sin datos). La subpágina de convocatorias SINEP muestra 4 llamados 'Convocatoria Abierta' de Ciencia y Técnica (INA 26, IGN 39, SMN 73, SEGEMAR 105 = 243 cargos), sin fechas de cierre; el PDF del INA lleva '05-04-2022' en el nombre, lo que sugiere que son llamados viejos.
+  - Como postular: https://concursar.miportal.gob.ar/
+  - Lectura automatica posible: No se vio API ni feed; los llamados están en PDF.
+  - Aclaracion: No se confirmó que los 243 cargos de Ciencia y Técnica sigan vigentes: no hay fecha de cierre y el PDF del INA lleva '05-04-2022' en el nombre.
+  - Aclaracion: Esos cuatro llamados no deben considerarse abiertos sin revisar el PDF de cada uno.
+  - Aclaracion: La postulación se hace por el portal Concursar.
+
+## Programas inclusivos y poblaciones especificas
+
+- **Programa Promover la Igualdad de Oportunidades de Empleo (personas con discapacidad)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/discapacidad/promover
+  - Que es: Personas con discapacidad, desocupadas y que buscan empleo o desarrollar un emprendimiento.
+  - Requisitos: Personas mayores de 18 años con discapacidad, desocupadas y residentes en Argentina. Documentación: DNI, constancia de CUIL y Certificado Único de Discapacidad vigente. No se exige experiencia laboral.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Ayuda económica pagada por la Secretaría de Trabajo, Empleo y Seguridad Social (monto no indicado en la página). La participación puede durar hasta 24 meses desde la firma del convenio de adhesión.
+  - Plazo o ciclo: Vía de adhesión permanente (sin cierre indicado). La página no da cupos ni fechas y no confirma el estado actual del programa; conviene verificar en la oficina de empleo.
+  - Como postular: Oficina de Empleo o Agencia Territorial más cercana (mapa: https://www.argentina.gob.ar/trabajo/mapa-oficinas/); consultas: 0800-222-2220, consultas@trabajo.gob.ar
+  - Lectura automatica posible: ninguna; páginas HTML y guía en PDF
+  - Aclaracion: Es un servicio gratuito que incluye talleres de búsqueda de empleo, orientación, cursos de formación, entrenamiento en el trabajo, inclusión laboral y asistencia para emprendimientos.
+- **Intermediación Laboral para Personas con Discapacidad** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/discapacidad/intermediacion-laboral-para-personas-con-discapacidad
+  - Que es: Personas con discapacidad que buscan empleo.
+  - Requisitos: La página no lista requisitos. El servicio incluye una entrevista personalizada para definir el perfil laboral y los apoyos o ajustes razonables necesarios.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sin costo; no es un pago sino un servicio de orientación e intermediación.
+  - Plazo o ciclo: Servicio permanente, sin fechas. La página no indica vigencia ni cierre; los canales de contacto figuran activos.
+  - Como postular: Agencia Territorial (https://www.argentina.gob.ar/trabajo/agencias-territoriales) u Oficina de Empleo (https://www.argentina.gob.ar/trabajo/mapa-oficinas/); 0800-222-2220; consultas@trabajo.gob.ar; portalempleo@trabajo.gob.ar
+  - Lectura automatica posible: ninguna
+  - Aclaracion: No describe un trámite formal de postulación: se accede por visita, teléfono o correo.
+- **Pueblos indígenas: adaptación de Fomentar Empleo y Empleo Independiente** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/pueblosindigenas
+  - Que es: Personas y comunidades de pueblos indígenas.
+  - Requisitos: Pertenecer a un pueblo indígena; registrarse en Portal Empleo (Fomentar Empleo) o acudir a la Agencia Territorial u Oficina de Empleo más cercana (Empleo Independiente). No se requiere experiencia según la página, pero tampoco se detallan otros requisitos (edad, documentos, residencia: sin datos).
+  - Pago o beneficio: Fomentar Empleo: ayuda económica mensual según el programa (monto: sin datos). Empleo Independiente: asistencia técnica y económica (monto: sin datos).
+  - Plazo o ciclo: Sin fechas publicadas; vías de acceso permanentes (inscripción en Portal Empleo para Fomentar Empleo; consulta presencial para Empleo Independiente).
+  - Como postular: https://www.argentina.gob.ar/trabajo/oficinas-de-empleo
+  - Lectura automatica posible: ninguna
+  - Aclaracion: Quien cobre POTENCIAR, ACOMPAÑAR o PROGRESAR puede cursar Fomentar Empleo, pero recibe una sola ayuda económica estatal (no se suman).
+  - Aclaracion: La página no indica si hay cupos abiertos ni menciona discontinuación.
+  - Aclaracion: El sitio portalempleo.gob.ar redirige a formando.capitalhumano.gob.ar, que falló la verificación de certificado al 23/11/2026; conviene confirmar el canal vigente por el 0800-222-2220.
+- **Migraciones: residencias (transitoria, temporaria y permanente)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/migraciones/residencias
+  - Que es: Personas extranjeras que quieren radicarse en Argentina.
+  - Requisitos: Dependen de la subcategoría (actividad, nacionalidad, vínculo familiar o con el país). Detalle en las páginas de cada categoría. No se exige experiencia laboral en sí misma.
+  - Pago o beneficio: No aplica. Tasas migratorias: no figuran en esta página (sin datos).
+  - Plazo o ciclo: Trámite permanente, sin convocatoria; la residencia transitoria dura hasta 1 año, la temporaria hasta 3 años y la permanente no vence.
+  - Como postular: https://www.argentina.gob.ar/migraciones/residencias
+  - Lectura automatica posible: ninguna
+  - Aclaracion: No es una oferta de empleo: es información sobre residencias para extranjeros que buscan trabajar en regla.
+  - Aclaracion: La página no trata costos, autorización para trabajar ni el trámite en línea; esos datos están en las páginas de cada categoría.
+  - Aclaracion: La residencia transitoria no permite obtener DNI; la temporaria permite DNI temporario y la permanente, DNI permanente.
+  - Aclaracion: Una solicitud dentro del país se llama radicación; desde el exterior, permiso de ingreso o acto consular.
+- **Residencia temporaria por nacionalidad (criterio Mercosur y países asociados)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-por-nacionalidad-mercosur
+  - Que es: Personas nacidas en Uruguay, Brasil, Paraguay, Bolivia, Chile, Perú, Ecuador, Colombia, Venezuela, Guyana o Surinam, o naturalizadas hace al menos cinco años en algunos de esos países.
+  - Requisitos: Nacionalidad de Uruguay, Brasil, Paraguay, Bolivia, Chile, Perú, Ecuador, Colombia, Venezuela, Guyana o Surinam (o nacionalizados hace al menos 5 años en algunos de esos países, por ejemplo Brasil, Paraguay, Uruguay, Bolivia, Chile, Colombia, Ecuador o Perú). Pasaporte vigente o documento válido del Acuerdo Mercosur; certificado de antecedentes penales argentino (desde 16 años, se verifica por RADEX) y de países de residencia mayor a un año en los últimos tres años; constancia de domicilio y de ingreso regular. Menores de 18: partida de nacimiento legalizada y autorización de un progenitor. Documentos extranjeros apostillados o legalizados y con traducción pública si no están en español. No se pide experiencia.
+  - Pago o beneficio: No aplica. Tasas: se abonan por la plataforma, montos no indicados en la página (sin datos).
+  - Plazo o ciclo: Trámite permanente, sin cierre; la residencia otorgada dura hasta 2 años y es prorrogable.
+  - Como postular: https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-por-nacionalidad-mercosur
+  - Lectura automatica posible: RADEX (trámite en línea)
+  - Aclaracion: El trámite se hace en línea por la plataforma RADEX y, si se acepta, termina con un turno presencial; hay que estar dentro de Argentina y no se admiten gestores.
+  - Aclaracion: Quienes están fuera de Argentina no pueden iniciar este trámite.
+  - Aclaracion: Con turno prioritario pago, el certificado de antecedentes penales argentino se obtiene fuera de RADEX.
+  - Aclaracion: La página no dice que la residencia incluya autorización para trabajar ni lista los montos de las tasas; no es una oferta de empleo.
+- **Cupo laboral del 4% para personas con discapacidad en el sector público (Ley 25.689, que modifica el art. 8 de la Ley 22.431)** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/normativa/nacional/81041/texto
+  - Que es: Personas con discapacidad que postulan a puestos en el Estado nacional (tres poderes, organismos descentralizados o autárquicos, entes públicos no estatales, empresas del Estado) y en empresas privadas concesionarias de servicios públicos.
+  - Requisitos: No se detallan en la norma condiciones para postulantes más allá de priorizar a postulantes con discapacidad que reúnan condiciones de idoneidad para el cargo.
+  - Pago o beneficio: No corresponde (es una obligación legal, no un programa de pago).
+  - Plazo o ciclo: Norma permanente (sancionada el 28-11-2002, publicada el 03-01-2003). No es una convocatoria y no tiene fechas propias.
+  - Como postular: No hay vía de postulación en la norma; las vacantes se publican en cada convocatoria del organismo.
+  - Lectura automatica posible: ninguna
+  - Aclaracion: Es una referencia legal, no una fuente donde postularse.
+  - Aclaracion: Las provincias y la Ciudad de Buenos Aires están invitadas a adherir; la obligación alcanza al Estado nacional y a concesionarias de servicios públicos.
+  - Aclaracion: El artículo 8 bis establece priorizar compras a empresas que emplean personas con discapacidad.
+- **Red de Oficinas de Empleo (mapa) y Agencias Territoriales** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/trabajo/oficinas-de-empleo
+  - Que es: Cualquier persona que busque empleo o formación; es la puerta presencial para Promover, Empleo Independiente, Fomentar y otros programas.
+  - Requisitos: No detallados en las páginas vistas; el servicio está pensado para quienes buscan empleo, trabajadores, empleadores y emprendedores. No se indica requisito de experiencia, edad ni residencia (sin datos).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito (servicio público). Sin monto asociado.
+  - Plazo o ciclo: Servicio permanente (no hay convocatoria); no se pudo confirmar el mapa.
+  - Como postular: https://www.argentina.gob.ar/trabajo/agencias-territoriales
+  - Lectura automatica posible: ninguna
+  - Aclaracion: La URL carga, pero no muestra mapa ni listado de oficinas, servicios, requisitos ni contactos.
+  - Aclaracion: El enlace al mapa de oficinas figura roto, por lo que no se pudo ver ninguna dirección.
+  - Aclaracion: Las oficinas son unidades de gestión municipal coordinadas por la Secretaría de Trabajo; el teléfono nacional visto en otras páginas oficiales es 0800-222-2220.
+- **ENCOPE: unidades productivas en cárceles federales** (sin verificar, verificada 1 vez) https://www.encope.gob.ar/inicio
+  - Que es: Personas privadas de la libertad en unidades del Servicio Penitenciario Federal.
+  - Requisitos: No indicados. Trabajan personas privadas de libertad en unidades federales; no hay proceso de postulación público visible.
+  - Pago o beneficio: sin datos (el trabajo penitenciario no figura con montos en la página).
+  - Plazo o ciclo: Permanente; no hay convocatoria ni vía de postulación visible.
+  - Como postular: https://www.encope.gob.ar/inicio
+  - Lectura automatica posible: ninguna
+  - Aclaracion: La página no explica quién puede participar ni cómo postularse, y no menciona empleo para personas liberadas.
+  - Aclaracion: No sirve como fuente de empleo para público general; sí sirve para comprar productos o contactar al ente.
+
+## Servicios publicos de empleo y bolsas generales
+
+- **Bolsa de empleo y lista de consultoras de la Secretaría de Trabajo (dónde enviar el CV)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/bolsadeempleo
+  - Que es: Cualquier persona que quiera enviar su CV. Incluye una bolsa de trabajo para personas con discapacidad.
+  - Requisitos: Para la lista de consultoras no se informan requisitos (no se pide experiencia ni título). Para la bolsa de empleo de personas con discapacidad: concurrir en persona a la Unidad para Personas con Discapacidad y Grupos Vulnerables (Av. Leandro N. Alem 638, PB, lunes a jueves de 11 a 16) con fotocopia de DNI y certificado de discapacidad.
+  - Pago o beneficio: Sin costo informado; es una página de orientación, no un empleador.
+  - Plazo o ciclo: Abierto todo el año (página permanente, sin fecha de cierre ni fecha de actualización visible).
+  - Como postular: https://www.argentina.gob.ar/trabajo/bolsadeempleo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página lista unas 50 consultoras y portales donde enviar el CV; aclara que el Estado los ofrece como referencia y no los recomienda ni prioriza.
+  - Aclaracion: Contacto para personas con discapacidad: (011) 4310-5656, 4310-5920, 4310-5922 y discapacidad@trabajo.gob.ar.
+- **Computrabajo Argentina** (abierta o vigente, verificada 2 veces) https://ar.computrabajo.com/
+  - Que es: Postulantes de cualquier nivel. Es una de las bolsas generales nombradas en la lista oficial de la Secretaría de Trabajo.
+  - Requisitos: Sin requisitos generales: la búsqueda es libre y cada aviso fija los suyos (experiencia, estudios). Para postularse se necesita crear cuenta y cargar el CV.
+  - Pago o beneficio: Sin costo informado para quien busca empleo; la portada ofrece publicar avisos gratis a empresas. El sueldo depende de cada oferta.
+  - Plazo o ciclo: Abierto todo el año. La portada del 2026-11-23 informa más de 14.880 ofertas.
+  - Como postular: https://ar.computrabajo.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un portal con avisos propios, no solo un agregador.
+  - Aclaracion: Hay avisos para puestos sin experiencia, pero eso depende de cada aviso.
+- **Jooble Argentina** (abierta o vigente, verificada 2 veces) https://ar.jooble.org/
+  - Que es: Cualquier persona. Tiene búsquedas rápidas por ciudad y por categorías como sin experiencia, medio tiempo, seguridad y limpieza.
+  - Requisitos: La búsqueda es libre. Favoritos, alertas y creación de CV requieren cuenta. Cada aviso fija sus requisitos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No se informan costos para quien busca empleo; el sueldo depende de cada oferta.
+  - Plazo o ciclo: Abierto todo el año. La portada del 2026-11-23 informa 30.500 ofertas de 480 sitios (el titular dice más de 31.000).
+  - Como postular: https://ar.jooble.org/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un agregador: reúne avisos de otros sitios, por lo que la postulación suele terminar en la página de origen.
+  - Aclaracion: Conviene como complemento de los portales con avisos propios.
+- **Becas Progresar, línea Formación Profesional** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/progresar
+  - Que es: Jóvenes que quieren completar estudios obligatorios o superiores, o hacer cursos de formación profesional, con ayuda económica.
+  - Requisitos: Nacionalidad argentina (nativa o por opción) o extranjeros con 2 años de residencia legal, con DNI. Edad de 18 a 24 años, ampliada hasta 35 para quienes no tienen trabajo formal registrado. Ingresos propios y del grupo familiar no mayores a 3 SMVM. Cursar una formación profesional validada por el INET y considerada estratégica por el CoNETyP. No se pide experiencia laboral.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Beca mensual; la página de cronograma muestra $35.000 por mes en un cronograma de febrero, sin año ni desglose por línea. Verificar el monto vigente.
+  - Plazo o ciclo: Inscripción de Formación Profesional disponible hasta el 27 de noviembre (la página no indica el año; el portal de inscripción se llama becasprogresar26, lo que sugiere 2026). Obligatorio cerró el 4 de septiembre y Superior el 11 de septiembre. Ciclo anual.
+  - Como postular: https://becasprogresar26.educacion.gob.ar
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal de inscripción cargó solo una pantalla de autenticación, por lo que no se pudo ver el formulario.
+  - Aclaracion: Es una beca de estudio, no un empleo.
+- **Bumeran Argentina** (sin verificar, verificada 1 vez) https://www.bumeran.com.ar/
+  - Que es: Postulantes de cualquier nivel, con más peso de empleos administrativos, comerciales y profesionales. Figura en la lista oficial de la Secretaría de Trabajo.
+  - Requisitos: sin datos (no se pudo leer la página; cada aviso fija sus requisitos).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Se presume abierto todo el año, pero no se pudo confirmar en la página.
+  - Como postular: https://www.bumeran.com.ar/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La portada respondió con una verificación anti-bots (HTTP 403) y no se pudo leer su contenido.
+  - Aclaracion: La cantidad de ofertas y las condiciones de registro no están verificadas.
+- **ZonaJobs Argentina** (sin verificar, verificada 1 vez) https://www.zonajobs.com.ar/
+  - Que es: Postulantes de cualquier nivel. Figura en la lista oficial de la Secretaría de Trabajo.
+  - Requisitos: sin datos (no se pudo leer la página; cada aviso fija sus requisitos).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Se presume abierto todo el año, pero no se pudo confirmar en la página.
+  - Como postular: https://www.zonajobs.com.ar/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La portada respondió con una verificación anti-bots (HTTP 403) y con contenido vacío en la herramienta de lectura.
+  - Aclaracion: La cantidad de ofertas y las condiciones de registro no están verificadas.
+
+## Trabajo por cuenta propia y microemprendimientos
+
+- **Monotributo Social (inscripción, requisitos y beneficios)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/monotributo-social
+  - Que es: Trabajadores independientes en situación de vulnerabilidad, emprendedores de la economía social, titulares de programas sociales y pequeños productores. Es la vía principal para pasar de la actividad informal a una actividad registrada (puede emitir facturas).
+  - Requisitos: 18 años o más. Argentino nativo, naturalizado o por opción, o extranjero con residencia permanente o temporaria. Situación de vulnerabilidad social. Desarrollar o querer iniciar un emprendimiento. Una sola actividad económica independiente incluida en el nomenclador de ARCA. Ingresos solo de esa actividad, con excepciones como programas sociales, AUH, pensiones no contributivas, jubilaciones o trabajo en relación de dependencia por debajo del haber previsional mínimo. Hasta 2 inmuebles y hasta 3 bienes muebles registrables. No se pide experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es un empleo. La inscripción es gratuita; se paga solo el 50% del aporte a la obra social, y el Ministerio subsidia el otro 50%. Cubre aporte jubilatorio y obra social del titular y su familia, con exención de impuestos y componente previsional. Límite anual de facturación ligado a la categoría A del Monotributo.
+  - Plazo o ciclo: Abierto todo el año; la página no informa fechas ni plazos. Los metadatos mencionan un reempadronamiento sin detalle.
+  - Como postular: https://www.argentina.gob.ar/monotributo-social
+  - Lectura automatica posible: none (páginas HTML)
+  - Aclaracion: No pueden inscribirse profesionales universitarios que facturen honorarios por asesoramiento técnico, científico o pericial, empleadores, ni quienes tributen Bienes Personales o Ganancias.
+  - Aclaracion: La inscripción es en línea, por el servicio '¿Cómo adherirme al Monotributo Social?'.
+  - Aclaracion: El beneficio incluye exención de IVA y Ganancias, cobertura de salud y previsional para el titular y su familia, posibilidad de facturar y acceso al Portal Empleo.
+  - Aclaracion: Conviene confirmar el reempadronamiento en las preguntas frecuentes del sitio.
+- **INAES - Cómo constituir una cooperativa de trabajo** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/inaes/constitucion-de-cooperativas
+  - Que es: Grupos de personas que quieren formar una cooperativa de trabajo para generar su propio empleo registrado.
+  - Requisitos: Un grupo de personas que formen la cooperativa. Cada asociado tiene un CUIT. Capital inicial por asociado, con el salario mínimo como referencia histórica. Objeto social elegido de la lista del INAES. Auditoría externa de un contador público según la Ley 20.337. No se pide experiencia previa.
+  - Pago o beneficio: No es un empleo ni una ayuda. El trámite no tiene aranceles; los asociados cobran lo que genere la cooperativa.
+  - Plazo o ciclo: Trámite abierto todo el año, sin fechas de cierre.
+  - Como postular: https://www.argentina.gob.ar/inaes/constitucion-de-cooperativas
+  - Lectura automatica posible: none
+  - Aclaracion: La página no confirma de forma explícita que el trámite esté abierto todo el año.
+  - Aclaracion: Se inicia por Trámites a Distancia (TAD) o en mesa de entradas, y el trámite ya no tiene aranceles.
+  - Aclaracion: Los aportes de capital, la auditoría externa y la contabilidad son costos aparte.
+  - Aclaracion: La página no indica un mínimo de asociados.
+- **Monotributo (régimen simplificado, ARCA)** (abierta o vigente, verificada 2 veces) https://www.arca.gob.ar/monotributo/
+  - Que es: Pequeños contribuyentes que venden productos o prestan servicios por cuenta propia y quieren formalizarse.
+  - Requisitos: CUIT, clave fiscal y domicilio fiscal electrónico; alta de la actividad en ARCA. La categoría depende de ingresos brutos, superficie afectada, energía eléctrica consumida y alquileres devengados. No exige experiencia, título ni capital mínimo según lo visto; los límites por categoría están en la escala. No se vio un requisito de edad en la página.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No paga: es una obligación tributaria. Cuota mensual desde $49.527,18 (categoría A) hasta $1.614.446,04 (categoría K, servicios), con vigencia desde el 1/08/2026.
+  - Plazo o ciclo: Abierto todo el año. Pago mensual con vencimiento el día 20 (la página muestra NOV 20). Valores de la escala vigentes desde el 1/08/2026; la fecha de la próxima actualización no figura (sin datos).
+  - Como postular: https://www.arca.gob.ar/monotributo/
+  - Lectura automatica posible: ninguno visto (tabla HTML)
+  - Aclaracion: No es un empleo ni un pago: es una obligación tributaria mensual.
+  - Aclaracion: Los valores de la escala rigen desde el 1/08/2026 y la fecha de la próxima actualización no figura.
+  - Aclaracion: La página no aclara si los topes de ingresos de cada categoría son anuales.
+- **INAES: Programa de Asistencia Financiera (préstamos y subsidios)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/asistencia-financiera
+  - Que es: Cooperativas y mutuales ya constituidas (y, según la página de fomento, asociaciones civiles y entes locales) con proyectos productivos, de servicios, salud o fortalecimiento institucional.
+  - Requisitos: Ser cooperativa o mutual. Nota de solicitud firmada por presidente, secretario y órgano fiscalizador; proyecto según la guía de la Res. 1665/06; acta de consejo aprobando el pedido; garantías personales de los directivos; presupuestos oficiales; último balance aprobado; formulario de cuenta bancaria; presentaciones anuales al día. Para préstamos se agrega una garantía (de otra cooperativa o mutual con al menos un año, bancaria, prenda o hipoteca, o de sociedad de garantía recíproca o fondo provincial).
+  - Sin experiencia previa: no
+  - Pago o beneficio: Préstamo al 6% anual efectivo con bonificación del 50% por pago en término, o subsidio. Montos: sin datos.
+  - Plazo o ciclo: Ventanilla abierta, sin fecha de cierre ni convocatoria visible. La página no tiene fecha de actualización (sin datos).
+  - Como postular: https://www.argentina.gob.ar/asistencia-financiera
+  - Lectura automatica posible: ninguno visto
+  - Aclaracion: Solo pueden solicitarlo cooperativas y mutuales ya constituidas, no personas individuales.
+  - Aclaracion: El préstamo ofrece hasta 1 año de gracia y hasta 60 cuotas mensuales, en pesos.
+  - Aclaracion: Se presenta por Mesa de Entrada (Av. Belgrano 172, CABA); la página aclara que no hacen falta gestores.
+  - Aclaracion: Por la referencia a normas de 2015 y 2006, conviene confirmar las condiciones vigentes con el INAES.
+- **Banco de la Nación Argentina: créditos para microempresas y NacionEmprende** (abierta o vigente, verificada 2 veces) https://www.bna.com.ar/Empresas/Novedades/Microempresa
+  - Que es: Microemprendedores y microempresas.
+  - Requisitos: No figuran en la página (sin datos). Como todo crédito bancario, requiere evaluación y calificación del banco.
+  - Pago o beneficio: Crédito (se devuelve con interés). Montos y tasas: sin datos.
+  - Plazo o ciclo: Líneas permanentes, sin fecha de cierre. Montos, tasas y plazos: sin datos (no figuran en esta página).
+  - Como postular: https://www.bna.com.ar/NacionEmprende/Identificacion
+  - Lectura automatica posible: ninguno visto
+  - Aclaracion: Son cuatro líneas (microempresas, comercios, créditos online con aval de Garantizar Digital y con garantía digital de BIND) y las condiciones vigentes de cada una no están confirmadas.
+  - Aclaracion: Es crédito bancario sujeto a calificación crediticia, no un subsidio.
+  - Aclaracion: El contacto se solicita en https://www.bna.com.ar/NacionEmprende/Identificacion, en sucursales o al Centro de Atención al Cliente 0810-666-4444.
+- **Banco de la Nación Argentina: créditos para pymes y comercios (BNA+ Empresas, Comercios BNA+)** (abierta o vigente, verificada 2 veces) https://www.bna.com.ar/Empresas/Pymes/Creditos
+  - Que es: Micro, pequeñas y medianas empresas de todos los sectores (no es una línea para personas sin actividad registrada).
+  - Requisitos: Ser pyme con calificación crediticia en la mayoría de las líneas; Pellegrini Mi Banco exige además ser cliente BNA+ Empresas y Mi Banco; Comercios BNA+ exige estar registrado como comercio en el sistema de tarjetas. La calificación se pide en línea. No es una opción para quien no tiene actividad ni empresa constituida.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Crédito (se devuelve con interés). Hasta $100.000.000 (BNA+ Empresas online), hasta $300.000.000 (Pellegrini Mi Banco), hasta $40.000.000 (Comercios BNA+). Tasas: sin datos.
+  - Plazo o ciclo: Líneas permanentes, sin fecha de inicio o cierre en la página. El banco advierte que las condiciones pueden modificarse unilateralmente.
+  - Como postular: https://digital.bna.com.ar
+  - Lectura automatica posible: ninguno visto
+  - Aclaracion: Es crédito bancario, no un subsidio, y no es una línea para personas sin actividad registrada ni empresa constituida.
+  - Aclaracion: La página no publica tasas numéricas.
+  - Aclaracion: El banco advierte que las condiciones pueden modificarse unilateralmente.
+  - Aclaracion: Para la bonificación de Comercios BNA+ se requiere cuenta Comercios BNA+, Nación Pyme, Nación Campo o Nación Empresa y adhesión a +Pagos Nación.
+- **CFI (Consejo Federal de Inversiones): líneas de financiamiento** (abierta o vigente, verificada 2 veces) https://www.cfi.org.ar/creditos
+  - Que es: Proyectos productivos e inversiones en las provincias; MiPyMEs (explícitamente las lideradas por mujeres en una línea). Si acepta personas físicas o emprendedores individuales: sin datos.
+  - Requisitos: No detallados en la página (sin datos). Orientado a pymes y proyectos productivos; la UEP de cada provincia informa las condiciones.
+  - Pago o beneficio: Crédito. Montos y tasas: sin datos.
+  - Plazo o ciclo: Líneas permanentes con trámite por la Unidad de Enlace Provincial (UEP) de cada provincia. No se vio fecha de cierre. Única convocatoria con nombre en la página: becas Fulbright-CFI de maestría en EE. UU. 2027-2028, sin fecha de cierre visible, ajena al financiamiento.
+  - Como postular: https://www.cfi.org.ar/creditos
+  - Lectura automatica posible: ninguno visto
+  - Aclaracion: Está orientado a proyectos productivos y pymes, no a personas que buscan su primer empleo.
+  - Aclaracion: Se solicita ante la Unidad de Enlace Provincial (UEP) de cada provincia o mediante el formulario en línea.
+  - Aclaracion: La página no informa montos, tasas ni requisitos detallados, ni aclara si acepta personas físicas.
+- **Tienda Nube (tienda online para emprendedores)** (abierta o vigente, verificada 2 veces) https://www.tiendanube.com/ar
+  - Que es: Emprendedores y pequeños comercios que quieran vender por internet, redes sociales, WhatsApp o punto de venta propio.
+  - Requisitos: La página no indica requisitos para abrir una tienda. No se vio mención de experiencia, título ni edad.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No paga: cuesta. Plan Inicial gratis; planes pagos desde $27.999 por mes (precios del 2026-11-23).
+  - Plazo o ciclo: Abierto todo el año (plataforma permanente; no hay convocatoria ni fecha límite)
+  - Como postular: https://www.tiendanube.com/ar (botón «Creá su tienda gratis»)
+  - Lectura automatica posible: ninguno visto
+  - Aclaracion: Es una plataforma de comercio electrónico para armar una tienda propia, no una oferta de empleo.
+  - Aclaracion: Planes al 2026-11-23: Inicial gratis, Esencial $27.999/mes, Impulso $79.999/mes y Escala $244.999/mes; los precios pueden cambiar.
+  - Aclaracion: Pagando por año figura un 25% de descuento, y los planes Esencial, Impulso y Escala tienen 7 días de prueba gratis.
+- **INAES - Oferta de cursos y formaciones gratuitas para cooperativas y mutuales** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/oferta-de-cursos-y-formaciones
+  - Que es: Integrantes de cooperativas y mutuales o personas interesadas en el asociativismo y la economía social.
+  - Requisitos: Solo completar el formulario de inscripción. Gratuito, sin otro requisito. No se pide experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Cursos gratuitos, sin ayuda económica. Entregan certificado de participación (los asincrónicos, con carga horaria).
+  - Plazo o ciclo: Agenda octubre-diciembre 2026: última sesión sincrónica el lunes 30/11 a las 13 h; último cierre de campus el lunes 7/12 (el año no figura escrito en la página).
+  - Como postular: https://forms.gle/5RfaP7UsFyguNcR87
+  - Lectura automatica posible: none
+  - Aclaracion: La agenda cubre de octubre a diciembre de 2026 y es trimestral, no mensual; el año no figura escrito en la página.
+  - Aclaracion: Los formatos son presencial en el auditorio del INAES (Av. Belgrano 172, CABA), virtual en vivo por Google Meet y autogestionado en el campus del INAES.
+  - Aclaracion: La inscripción se hace con un único formulario de Google.
+- **Emprendimientos en actividad (formalización de trabajadores por cuenta propia)** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/capital-humano/trabajo/emprendimientos-en-actividad
+  - Que es: Trabajadores que realizan una actividad económica por cuenta propia y no están formalizados.
+  - Requisitos: Trabajar por cuenta propia sin estar formalizado. Los demás requisitos (edad, documentación, residencia, experiencia) no figuran en la página (sin datos).
+  - Pago o beneficio: Subsidio para formalizar trabajadores; monto: sin datos.
+  - Plazo o ciclo: sin datos. La página no muestra fecha de publicación, convocatoria ni cierre. No se pudo confirmar que el programa siga vigente.
+  - Como postular: sin datos
+  - Lectura automatica posible: ninguno visto
+  - Aclaracion: No se pudo confirmar que el programa siga vigente.
+  - Aclaracion: La página no indica requisitos, montos, lugar de inscripción ni fechas.
+  - Aclaracion: Incluye asistencia técnica, asistencia económica (subsidio que aumenta a medida que se formalizan más trabajadores) y apoyo a la comercialización.
+  - Aclaracion: Conviene consultar directamente al Ministerio de Capital Humano antes de contar con el programa.
+
+## Atencion al cliente, administracion y call centers
+
+- **Atento Argentina - Trabajá con nosotros** (abierta o vigente, verificada 2 veces) https://atento.com/es/trabaja-con-nosotros-argentina/
+  - Que es: Personas que buscan trabajo en un centro de contacto. Puestos de la página: asesores de ventas (con comisión por venta), de atención al cliente, de soporte técnico y bilingües inglés/portugués.
+  - Requisitos: No figuran en la página; no se indica experiencia, edad ni estudios.
+  - Pago o beneficio: Comisiones por venta en el puesto de Asesor de Ventas; el resto, sin datos
+  - Plazo o ciclo: Abierto: cuatro puestos publicados sin fecha de cierre (no se vio fecha de publicación en la página)
+  - Como postular: https://atento.com/es/trabaja-con-nosotros-argentina/ (botón 'Unite' de cada puesto, que lleva a un Microsoft Forms)
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: La fecha de publicación de los cuatro puestos no figura en la página.
+  - Aclaracion: Todos los puestos se postulan con el mismo formulario.
+  - Aclaracion: Los requisitos deben confirmarse en el formulario.
+- **Konecta - Join us (selector de país con Argentina)** (abierta o vigente, verificada 2 veces) https://konecta.com/es/unete-a-nosotros
+  - Que es: Personas interesadas en trabajar en Konecta (atención al cliente y BPO); la página ofrece un selector de país que incluye Argentina.
+  - Requisitos: No figuran en la página oficial. En un aviso de bolsa de empleo visto en la búsqueda, para ventas telefónicas en Córdoba, se pedía residir en Córdoba capital y alrededores y se ofrecía primera oportunidad laboral a personas de 18 a 24 años (sin verificar). Otros avisos solicitaban presencialidad en CABA.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (contratación continua; avisos vistos en bolsas de empleo, sin fecha de cierre)
+  - Como postular: https://konecta.com/es/unete-a-nosotros (elegir Argentina en el selector de país)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial no lista vacantes ni describe el proceso de postulación; solo tiene un selector de país con Argentina y contenido institucional.
+  - Aclaracion: La apertura continua se apoya en avisos de bolsas de empleo externas (Computrabajo e Indeed) cuya vigencia no se confirmó.
+  - Aclaracion: Algunos avisos exigen residir en la zona del puesto (Córdoba capital y alrededores) o presencialidad en CABA.
+- **Banco Macro - Sumate a Macro (portal de postulaciones)** (abierta o vigente, verificada 2 veces) https://www.macro.com.ar/conocenos/uniteamacro
+  - Que es: Personas que buscan trabajo en un banco de alcance nacional, en sucursales y áreas de administración; los puestos concretos se ven en el portal de postulaciones.
+  - Requisitos: La página solo pide registrarse y tener un CV actualizado. Los requisitos de estudios y experiencia figuran en cada aviso del portal (no vistos).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (registro de perfil permanente; búsquedas vigentes cambian)
+  - Como postular: https://career8.successfactors.com/career?company=bancomacro&site=VjItekU2b1RxaW9LendsLzhXY0dPZ1cxUT09
+  - Lectura automatica posible: sin datos (portal SuccessFactors)
+  - Aclaracion: La página no lista búsquedas vigentes ni programas de jóvenes talentos; las búsquedas se ven solo dentro del portal de postulaciones.
+  - Aclaracion: Los pasos son crear perfil, completar datos y experiencia, y postularse a las búsquedas con CV actualizado.
+- **Teleperformance (TP) Argentina - Carreras** (sin verificar, verificada 1 vez) https://www.tp.com/es-ar/ubicaciones/argentina/carreras/
+  - Que es: Personas que buscan trabajo en un centro de contacto (atención al cliente y servicios de interacción). TP informa más de 6000 colaboradores en el país, con operaciones en Buenos Aires, Tucumán y Chaco, y una opción de trabajo desde casa.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (la página tiene buscador con filtros pero no mostró ningún aviso)
+  - Como postular: https://www.tp.com/es-ar/ubicaciones/argentina/carreras/ (usar los filtros de país y ubicación); listado global en https://www.tp.com/careers/job-opportunities/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: No se vio ningún aviso, requisito ni fecha, por lo que no se confirma contratación continua.
+  - Aclaracion: El portal enlaza a /careers/work-from-home-opportunity/ y /careers/choose-tp/.
+  - Aclaracion: Queda como ruta de referencia para atención al cliente, sin vacantes confirmadas.
+- **Concentrix - Búsqueda de empleos (filtro Argentina)** (sin verificar, verificada 1 vez) https://jobs.concentrix.com/
+  - Que es: Personas que buscan puestos de atención al cliente, soporte y back office en Concentrix; Argentina figura como país en el filtro de ubicación.
+  - Requisitos: No visibles en el portal; dependen de cada aviso. Los avisos de terceros de tecnología pedían 3 a 5 años de experiencia, pero no son los de nivel inicial.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Portal permanente; avisos cambian (listado sin cargar en la captura)
+  - Como postular: https://jobs.concentrix.com/ (menú «Search & Apply», filtro Location = Argentina)
+  - Lectura automatica posible: sin datos (portal dinámico)
+  - Aclaracion: El listado de vacantes se carga dinámicamente y no se confirman avisos de atención al cliente en Argentina.
+  - Aclaracion: Se vieron avisos de Concentrix para Argentina en sitios de terceros, sobre todo de tecnología en remoto, sin contrastar con el portal oficial.
+  - Aclaracion: Los avisos de tecnología de terceros pedían 3 a 5 años de experiencia y no son de nivel inicial.
+- **TTEC - Comunidad de talentos y búsqueda de empleos** (sin verificar, verificada 1 vez) https://www.ttecjobs.com/es
+  - Que es: Personas interesadas en atención al cliente a distancia en TTEC; es un sitio orientado a Estados Unidos y no mostró Argentina entre sus ubicaciones.
+  - Requisitos: No figuran en la página; dependen de cada aviso. No se pudo confirmar si se pide experiencia.
+  - Pago o beneficio: sin datos (un dato de tercero sin verificar menciona 13 a 16 USD por hora en un puesto remoto para Estados Unidos)
+  - Plazo o ciclo: Portal y comunidad de talentos permanentes; no se confirmó ningún aviso abierto en Argentina
+  - Como postular: https://www.ttecjobs.com/es (buscar por ciudad de Argentina o unirse a la comunidad de talentos)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El sitio está orientado a Estados Unidos, no tiene filtro de país y no menciona Argentina.
+  - Aclaracion: No se confirmó ningún aviso abierto en Argentina.
+  - Aclaracion: Un dato de terceros sin verificar indica 43 empleos de TTEC en Argentina listados en Glassdoor, por ejemplo atención al cliente remota para Estados Unidos.
+  - Aclaracion: La página enlaza un aviso contra estafas laborales.
+
+## Trabajo remoto no tecnico
+
+- **TP (Teleperformance) Argentina: oportunidades de trabajo desde casa** (abierta o vigente, verificada 2 veces) https://www.tp.com/careers
+  - Que es: Personas que buscan empleo en relación de dependencia como agentes de atención al cliente (contact center). La página lista a Argentina entre los países con puestos de trabajo desde casa. TP declara más de 6.000 empleados en Argentina (Buenos Aires, Tucumán y Chaco).
+  - Requisitos: La página general no lista requisitos. En el aviso de intérprete inglés/ruso visto en una búsqueda: nivel B2 o superior en ambos idiomas, secundario completo, conexión hogareña de más de 10 MB (no se acepta wifi móvil), cámara y auriceulares propios. Otros avisos de atención al cliente: sin datos.
+  - Pago o beneficio: sin datos (la página no informa sueldo; el aviso de intérprete detalla beneficios pero no monto en lo visto)
+  - Plazo o ciclo: Sin fechas ni avisos visibles en la página; el buscador de vacantes no mostró resultados en la captura.
+  - Como postular: https://www.tp.com/en-us/careers/apply-now/?Id=11820
+  - Lectura automatica posible: No visto (los listados cargan dinámicamente; no se identificó API pública)
+  - Aclaracion: La página no muestra avisos ni declara contratación continua: la disponibilidad depende de los avisos vigentes.
+  - Aclaracion: TP declara presencia en Argentina desde 1994, con más de 6.000 empleados en seis campus (Buenos Aires, Tucumán y Chaco).
+  - Aclaracion: Un aviso de intérprete inglés/ruso, 100 % home office, figuraba en Argentina pero su vigencia no se confirmó.
+  - Aclaracion: Los reclutadores contactan solo desde direcciones @Teleperformance.com y nunca piden pagos ni cheques.
+- **Mindrift (ex Toloka): evaluación y etiquetado de datos de IA** (abierta o vigente, verificada 2 veces) https://mindrift.ai/legal/eligibility-and-geographic-restrictions
+  - Que es: Cualquier persona que pueda evaluar respuestas de IA, clasificar o etiquetar contenido, juzgar relevancia de resultados o verificar información. Sin necesidad de conocimientos técnicos de IA.
+  - Requisitos: Mayor de 18 años (o más si la ley local lo exige); verificación de identidad y residencia; no se necesita experiencia para las tareas básicas de evaluación; los proyectos especializados exigen conocimientos y pasar tareas de calificación; sumarse es gratis. Algunas tareas pueden hacerse desde el celular.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Variable por proyecto; cada tarea muestra una recompensa fija antes de empezar; se paga solo por tareas completadas y aceptadas; los proyectos especializados pagan más. Cobro por Payoneer o Tipalti (PayPal).
+  - Plazo o ciclo: Postulación abierta mediante el botón 'Apply now' (sin cierre ni cupos indicados); pagos los días 5 y 20 de cada mes según el blog oficial.
+  - Como postular: https://mindrift.ai/welcome?utm_source=migration&utm_medium=redirect
+  - Lectura automatica posible: No visto
+  - Aclaracion: Quienes ya tenían cuenta de Toloka no deben reinscribirse.
+  - Aclaracion: Argentina no figura entre las jurisdicciones restringidas ni no soportadas, pero la página no confirma expresamente la elegibilidad y rigen requisitos por proyecto.
+  - Aclaracion: Está prohibido usar VPN para ocultar la ubicación.
+  - Aclaracion: No se confirma que haya cupos abiertos y el acceso a tareas no está garantizado: cambia con el tiempo.
+- **OneForma: proyectos de datos para IA, idiomas y transcripción** (abierta o vigente, verificada 2 veces) https://www.oneforma.com/
+  - Que es: Personas con idiomas, conocimientos de un área o simple disponibilidad, para proyectos de recolección, anotación y evaluación de datos. Algunos proyectos se limitan a ciertos países o idiomas nativos.
+  - Requisitos: No figuran requisitos formales ni se exige experiencia previa en IA; hay que declarar conocimientos, habilidades e idiomas; algunos proyectos piden idiomas o ubicaciones específicas.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Se ve la tarifa antes de aceptar cada proyecto; ejemplos publicados de USD 10 y USD 50 por hora, aunque muchos proyectos no muestran monto; sin comisión de pago ni mínimo según el sitio (cobro, por ejemplo, vía Payoneer).
+  - Plazo o ciclo: Registro de perfil abierto sin fecha de cierre; pagos en ciclo quincenal sin fechas publicadas.
+  - Como postular: https://my.oneforma.com
+  - Lectura automatica posible: No visto
+  - Aclaracion: La página no menciona Argentina ni América Latina, solo 'más de 100 países' sin lista, por lo que la elegibilidad de residentes en Argentina no está confirmada.
+  - Aclaracion: Algunos proyectos están limitados por idioma o país.
+  - Aclaracion: La asignación de proyectos depende de la coincidencia con el perfil (promedio de coincidencia en 24 horas, según la página).
+  - Aclaracion: El registro se hace en my.oneforma.com, lleva unos 5 minutos y no pide CV.
+- **Appen Experts (ex Appen Crowd / Crowdgen): evaluación y anotación de datos** (abierta o vigente, verificada 2 veces) https://appenexperts.com/
+  - Que es: Colaboradores con conocimiento de un área (contabilidad, salud, derecho, lingüística, etc.) para evaluar, anotar, generar y refinar datos de entrenamiento de IA. Según el sitio, la mayoría de los proyectos piden experiencia en un área más que habilidades técnicas.
+  - Requisitos: Experiencia o conocimiento de dominio profesional; sin título ni horas mínimas especificados en la página; verificación del perfil y prueba de calificación según el proyecto.
+  - Pago o beneficio: Tarifas por especialidad con topes ('hasta'): lingüistas hasta USD 95/h; ingenieros de software hasta USD 150/h; contadores hasta USD 160/h; juristas hasta USD 400/h; médicos hasta USD 450/h. Pago en moneda local por transferencia bancaria, PayPal, Payoneer, Airtm u otros. Nunca se cobra por unirse.
+  - Plazo o ciclo: Abierto, por proyecto (la página invita a crear cuenta; no indica fecha de cierre)
+  - Como postular: https://appenexperts.com/
+  - Lectura automatica posible: No visto
+  - Aclaracion: La página no informa países habilitados ni menciona Argentina, y la tarifa depende de la ubicación y las habilidades.
+  - Aclaracion: La revisión del perfil es exigente y la mayoría de los proyectos tiene un paso de calificación.
+  - Aclaracion: Está orientada a perfiles con conocimiento profesional, por lo que no es la mejor opción para un primer empleo sin experiencia.
+- **Cambly: tutoría de conversación en inglés** (abierta o vigente, verificada 2 veces) https://www.cambly.com/english/tutors
+  - Que es: Personas que quieran conversar en inglés con estudiantes por videollamada, en horarios propios.
+  - Requisitos: No se exige título terciario, certificado docente ni experiencia previa; la página no detalla el nivel de inglés ni el equipo necesario.
+  - Sin experiencia previa: si
+  - Pago o beneficio: USD 0,17 por minuto (USD 10,20 por hora); Cambly Kids USD 0,20 por minuto (USD 12 por hora); pago semanal por depósito directo; sin mínimo de horas.
+  - Plazo o ciclo: Abierto, con ingreso de nuevos tutores limitado temporalmente (sin lista de espera ni cierre total declarado)
+  - Como postular: https://www.cambly.com/english/tutors
+  - Lectura automatica posible: No visto
+  - Aclaracion: El ingreso de nuevos tutores está limitado temporalmente para proteger los horarios de los actuales, y el procesamiento puede demorar más.
+  - Aclaracion: La página no lista restricciones por país ni menciona Argentina; se aconseja consultar el centro de ayuda (cambly.com/en/support) o iniciar el registro.
+- **Rev: transcripción, subtitulado y traducción de subtítulos freelance** (abierta o vigente, verificada 2 veces) https://www.rev.com/freelancers
+  - Que es: Personas con muy buen inglés y escritura precisa para transcribir audio, subtitular video o traducir subtítulos (17 idiomas listados) como freelance.
+  - Requisitos: Computadora, internet confiable y buen nivel de inglés (gramática y tipeo rápido y preciso para transcripción); traducción exige bilingüismo fluido; transcripción legal pide familiaridad con terminología legal de EE. UU. No exige título ni experiencia previa para los roles generales según lo visto.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Por minuto de audio o video: transcripción USD 0,40-1,10; subtitulado USD 0,54-1,10; traducción de subtítulos USD 1,70-4,00 o más según idioma; transcripción legal USD 0,55-2,00 o más. Pago semanal por PayPal.
+  - Plazo o ciclo: Abierto con lista de espera: la página dice 'actualmente hay lista de espera por alto volumen de solicitudes; aún se puede postular'
+  - Como postular: https://www.rev.com/freelancers
+  - Lectura automatica posible: No visto
+  - Aclaracion: Las solicitudes se procesan por orden de llegada y se avisa por correo; postular más de una vez no acelera la respuesta.
+  - Aclaracion: Hay prueba de aptitud (inglés y gramática, y traducción si corresponde) y una muestra breve.
+  - Aclaracion: La página no menciona restricciones por país ni Argentina.
+- **Freelancer.com: proyectos por oferta (traducción, carga de datos, redes, asistencia)** (abierta o vigente, verificada 2 veces) https://www.freelancer.com/jobs/
+  - Que es: Freelancers que ofertan por proyectos publicados por clientes de todo el mundo: redacción, traducción, copia de texto, carga de datos, marketing en redes, generación de contactos, entre otros.
+  - Requisitos: Registro gratuito en la plataforma. Cada proyecto fija lo suyo (muestras de trabajo, certificaciones o ubicación). No hay requisito general de título ni de experiencia, pero la competencia favorece a quien tiene reseñas y portfolio.
+  - Pago o beneficio: Variable según proyecto: desde unos 3 USD/hora y 7 USD por tarea hasta más de 1.000 USD de oferta promedio
+  - Plazo o ciclo: Cada proyecto mostraba '6 días restantes'; el registro es gratuito y sin fecha de cierre.
+  - Como postular: https://www.freelancer.com/signup
+  - Lectura automatica posible: No visto
+  - Aclaracion: Es trabajo freelance por oferta, con competencia (de 0 a 161 ofertas por proyecto), no empleo en relación de dependencia.
+  - Aclaracion: En el listado había proyectos de carga de datos, redes sociales y asistencia administrativa, pero ninguno de traducción.
+  - Aclaracion: Las comisiones no figuran en la página (hay una sección 'Fees and Charges' en el pie).
+  - Aclaracion: No se vio restricción por país.
+- **We Work Remotely: soporte al cliente remoto** (abierta o vigente, verificada 2 veces) https://weworkremotely.com/categories/remote-customer-support-jobs
+  - Que es: Personas con buen nivel de inglés que busquen puestos remotos de atención y soporte al cliente en empresas del exterior.
+  - Requisitos: Cada aviso define lo suyo. Suelen pedir inglés y, según el puesto, experiencia previa en atención al cliente; este requisito no se verificó en cada aviso. No es una vía típica de primer empleo.
+  - Pago o beneficio: Varía por aviso; no se vio un monto general (un aviso promocionado indicaba 20 USD/hora o más)
+  - Plazo o ciclo: Avisos nuevos a diario; 99 avisos en la categoría al momento de la consulta, último publicado hace 14 minutos.
+  - Como postular: https://weworkremotely.com/categories/remote-customer-support-jobs
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: Muchos avisos figuran como 'Anywhere in the World', pero varios se restringen a una región o país (EE. UU., Norteamérica, Canadá, Reino Unido, Europa/EMEA, Asia, Colombia), por lo que no todos admiten residentes en Argentina.
+  - Aclaracion: Hay que leer la restricción de cada aviso antes de postularse; cada uno trae su propia vía de postulación en la página de detalle.
+  - Aclaracion: Las cifras de avisos y la hora del último aviso cambian a lo largo del día.
+- **Remote OK: soporte al cliente remoto (filtro por región Latinoamérica)** (abierta o vigente, verificada 2 veces) https://remoteok.com/remote-customer-support-jobs
+  - Que es: Personas que busquen puestos remotos de soporte al cliente en empresas del exterior, con filtros por región (Worldwide, Latin America, etc.) y por país.
+  - Requisitos: Cada aviso define lo suyo; no se pudo leer ninguno. Para ver lo abierto a Argentina conviene filtrar por Latinoamérica o Worldwide.
+  - Pago o beneficio: Varía por aviso; hay filtro de salario y orden por 'Highest paid'. Montos: sin datos
+  - Plazo o ciclo: Abierto, sin fecha de cierre; la categoría de soporte al cliente muestra 1.139 resultados y la opción de ordenar por 'Latest jobs'.
+  - Como postular: https://remoteok.com/remote-customer-support-jobs
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: La cantidad de resultados varía entre cargas (1.139 y 1.161).
+  - Aclaracion: Los avisos se cargan dinámicamente, por lo que no se pudieron comprobar ejemplos ni montos.
+  - Aclaracion: Existen filtros por región (Worldwide, Norteamérica, Latinoamérica, Europa, África, Medio Oriente, Asia, Oceanía), por país y por salario mínimo, y cada aviso tiene un botón 'Apply for this job'.
+  - Aclaracion: El listado no muestra fechas ni horas, por lo que las publicaciones nuevas diarias no pudieron verificarse.
+- **Concentrix: búsqueda de empleos (Atención al Cliente, Argentina)** (sin verificar, verificada 1 vez) https://jobs.concentrix.com/
+  - Que es: Personas que buscan puestos de atención al cliente y soporte en contact center, con filtro por ubicación Argentina y por idioma.
+  - Requisitos: sin datos (no figuran en la página principal; dependen de cada aviso)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año según avisos vigentes (no confirmado)
+  - Como postular: https://jobs.concentrix.com/job-search/
+  - Lectura automatica posible: No visto
+  - Aclaracion: Los avisos se cargan dinámicamente y no se vio ninguno de Argentina, por lo que no se confirma que haya vacantes abiertas al 23/11/2026.
+  - Aclaracion: El buscador permite filtrar por ubicación, idioma, ciudad y categoría, y Argentina figura entre las opciones.
+  - Aclaracion: La página incluye una alerta contra fraudes de reclutamiento.
+- **Clickworker: microtareas (datos, categorización, transcripción)** (sin verificar, verificada 1 vez) https://www.clickworker.com/clickworker/
+  - Que es: Personas que quieran hacer microtareas desde el celular o la computadora, con ingresos variables y sin horarios.
+  - Requisitos: La página no indica edad, país ni documentos. No se exige experiencia ni título en la descripción visible. Conviene revisar los términos al registrarse.
+  - Pago o beneficio: Pago por tarea. Cobro semanal tras la aprobación del cliente, vía PayPal o Payoneer (también SEPA/ACH). Montos por tarea: sin datos
+  - Plazo o ciclo: Registro abierto todo el año (formulario y app); disponibilidad de tareas variable
+  - Como postular: https://www.clickworker.com/clickworker/
+  - Lectura automatica posible: No visto
+  - Aclaracion: La página no menciona Argentina ni requisitos por país, por lo que no se confirma que Argentina esté entre los países habilitados.
+  - Aclaracion: No se confirma que haya tareas disponibles de inmediato.
+  - Aclaracion: No es un empleo regular: se cobra por tarea.
+  - Aclaracion: Hay aplicación para iOS y Android y el sitio está disponible en español.
+- **Prolific: estudios de investigación pagos (no es empleo regular)** (sin verificar, verificada 1 vez) https://www.prolific.com/participants
+  - Que es: Personas que quieran participar en estudios y encuestas académicas pagas; es un ingreso ocasional, no un trabajo estable.
+  - Requisitos: Verificación de identidad. Edad y países elegibles: sin datos (consultar https://participant-help.prolific.com/en). No requiere experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Dinero real (no puntos). Retiro mínimo de 6 USD/GBP; tras los primeros cuatro retiros, pago instantáneo por PayPal. Tarifas por estudio: sin datos
+  - Plazo o ciclo: Lista de espera abierta; las invitaciones llegan cuando hay estudios, sin plazo informado
+  - Como postular: https://app.prolific.com/register/participant/waitlist/?campaign_code=CAWAX0JE
+  - Lectura automatica posible: No visto
+  - Aclaracion: No se confirma si Argentina está entre los países admitidos ni cuál es la edad mínima.
+  - Aclaracion: Es un ingreso ocasional por estudios de investigación, no un empleo.
+  - Aclaracion: El proceso es anotarse en la lista de espera (unos 3 minutos), aceptar la invitación, verificar la identidad y hacer una tarea de práctica.
+
+## Trabajo en el exterior
+
+- **J-1 Au Pair (Departamento de Estado de EE. UU.)** (abierta o vigente, verificada 2 veces) https://j1visa.state.gov/programs/au-pair
+  - Que es: Jóvenes de 18 a 26 años que quieren vivir con una familia en EE. UU. y cuidar niños.
+  - Requisitos: Entre 18 y 26 años; secundaria completa o equivalente; inglés hablado fluido; examen físico satisfactorio, entrevista personal en inglés y verificación de antecedentes. Al menos 32 horas de capacitación en cuidado infantil antes de la colocación, y 200 horas documentadas de experiencia con bebés para familias con niños menores de 2 años. No se exige título universitario. La página no menciona requisito de conducir.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Alojamiento y comida, más una remuneración semanal por cuidado de niños que fija un mínimo según la opción del programa (la página no da montos), y hasta USD 500 para estudios. Las participantes EduCare reciben el 75 % de la tarifa semanal.
+  - Plazo o ciclo: Abierto todo el año a través de patrocinadores autorizados; colocación inicial de 12 meses con una familia, con prórroga posible de 6, 9 o 12 meses.
+  - Como postular: https://j1visa.state.gov/participants/how-to-apply/sponsor-search/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No hay postulación directa al Departamento de Estado: se elige un patrocinador desde el buscador oficial.
+  - Aclaracion: La página no indica qué países son elegibles; conviene confirmar con el patrocinador si se acepta a residentes de Argentina.
+  - Aclaracion: Se recomienda desconfiar de agencias que cobren por una colocación sin ser patrocinadoras listadas.
+- **J-1 Intern (Departamento de Estado de EE. UU.)** (abierta o vigente, verificada 2 veces) https://j1visa.state.gov/programs/intern-program
+  - Que es: Estudiantes de nivel post-secundario fuera de EE. UU. o egresados de hasta 12 meses antes del inicio de la pasantía.
+  - Requisitos: Ser extranjero y estar cursando estudios en una institución posterior a la secundaria fuera de EE. UU., o haberse graduado de ella no más de 12 meses antes del inicio del programa. El anfitrión debe firmar el plan de prácticas DS-7002. No se admiten puestos de trabajo no calificado u ocasional, cuidado de niños o ancianos, atención de pacientes, ni puestos con más de 20 % de tareas administrativas. No sirve para quien no estudia ni se graduó recientemente.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no menciona remuneración)
+  - Plazo o ciclo: Abierto, según el patrocinador. La página no indica duración ni fechas de convocatoria.
+  - Como postular: https://j1visa.state.gov/participants/how-to-apply/sponsor-search/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La postulación se hace a través de un patrocinador listado en el buscador oficial, no en el sitio del Departamento de Estado.
+- **EURES: portal europeo de empleo** (abierta o vigente, verificada 2 veces) https://eures.europa.eu/index_en
+  - Que es: Personas que buscan empleo en alguno de los 31 países de la red EURES, y empleadores europeos.
+  - Requisitos: La página no aclara si residentes de fuera de la UE (como Argentina) pueden registrarse o postularse, ni menciona a nacionales de terceros países. Cada oferta fija sus propias condiciones. Trabajar en Europa exige además tener derecho a residir y trabajar en el país del empleo (ciudadanía de la UE o un permiso).
+  - Pago o beneficio: Varía según la oferta; no se vio un monto general.
+  - Plazo o ciclo: Abierto todo el año: la página muestra ofertas publicadas en los últimos 7 días y búsqueda por país.
+  - Como postular: https://eures.europa.eu/index_en
+  - Lectura automatica posible: El portal tiene una sección de búsqueda de vacantes en https://europa.eu/eures/portal/jv-se/home?lang=en; no se verificó si ofrece API.
+  - Aclaracion: Portal gestionado por la Autoridad Laboral Europea; sirve como referencia de ofertas en Europa y no sustituye el trámite de visa o permiso.
+  - Aclaracion: No se confirmó el alcance del portal para residentes en Argentina.
+  - Aclaracion: Se vieron la sección de búsqueda de empleo y la de información para vivir y trabajar en Europa.
+- **Consulado General de Italia en Buenos Aires: ciudadanía por descendencia (iure sanguinis)** (abierta o vigente, verificada 2 veces) https://consbuenosaires.esteri.it/es/servizi-per-il-cittadino/cittadinanza/
+  - Que es: Descendientes de italianos que quieren que se les reconozca la ciudadanía italiana, que habilita a vivir y trabajar en Italia y en la UE.
+  - Requisitos: Según la reforma (art. 3-bis), quien nació en el extranjero y tiene otra ciudadanía se considera que nunca adquirió la italiana, salvo excepciones: ciudadanía ya reconocida por solicitud o juicio oportuno antes del corte; un ascendiente de primer o segundo grado con ciudadanía exclusivamente italiana; o un padre que residió al menos 2 años continuos en Italia tras adquirir la ciudadanía y antes del nacimiento del hijo. Documentación: actas de nacimiento con traducción oficial al italiano de todos los descendientes en línea recta, y certificado histórico de residencia para probar los 2 años. La solicitud con turno por Prenot@mi solo conserva las reglas anteriores si el turno fue comunicado por correo antes del corte.
+  - Pago o beneficio: No es un empleo. Los aranceles se pagan solo por transferencia bancaria en pesos argentinos, al tipo de cambio de la fecha del turno (montos no vistos).
+  - Plazo o ciclo: Vía abierta pero restringida: rige el Decreto-Ley 36 del 28/03/2025, convertido por la Ley 74 del 23/05/2025 (vigente desde el 24/05/2025). Quedó fijado un corte al 27/03/2025 a las 23:59 (hora de Roma) para las solicitudes bajo las reglas anteriores.
+  - Como postular: https://consbuenosaires.esteri.it/es/servizi-per-il-cittadino/cittadinanza/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Sirve a quienes puedan acreditar descendencia italiana, que da acceso al trabajo en toda la UE.
+  - Aclaracion: Para la mayoría de los descendientes lejanos la vía quedó cerrada tras marzo de 2025.
+  - Aclaracion: La página recomienda leer el texto consolidado de la ley, y conviene verificar la situación personal en la página oficial antes de gastar en documentos.
+- **Embajada de Alemania en Buenos Aires: visas y entrada** (abierta o vigente, verificada 2 veces) https://buenos-aires.diplo.de/ar-de/service/05-visaeinreise
+  - Que es: Argentinos que quieren viajar o residir en Alemania; la página trata las visas nacionales y Schengen.
+  - Requisitos: Los ciudadanos argentinos necesitan visa nacional, tramitada antes de entrar, para estancias de más de 90 días. Para estancias de hasta 90 días por período de 180 sin actividad remunerada se usa visa Schengen. La página no lista checklist de documentos ni menciona visas de trabajo, de trabajador calificado ni Working Holiday; incluye un Visa Navigator para saber qué visa corresponde.
+  - Pago o beneficio: No es un empleo. En la página no se vieron aranceles; una fuente no oficial menciona EUR 75 para la visa de Working Holiday, dato sin confirmar en la página de la embajada.
+  - Plazo o ciclo: Abierto todo el año, solo con turno previo reservado en línea (no se dan turnos por teléfono ni por correo).
+  - Como postular: https://buenos-aires.diplo.de/ar-de/service/termin-1801004
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La existencia de un programa de Working Holiday entre Alemania y Argentina (edad 18 a 30 años, una sola vez, hasta 12 meses) surge de resultados de búsqueda de sitios oficiales del Auswärtiges Amt y de otras embajadas alemanas, no de esta página; los requisitos vigentes deben confirmarse con la embajada.
+  - Aclaracion: Una fuente no oficial indica pocos turnos semanales, que se agotan rápido.
+- **Línea 145 y Comité Ejecutivo para la Lucha contra la Trata (Argentina)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trata
+  - Que es: Cualquier persona en Argentina que reciba una oferta de trabajo en el exterior dudosa o sospeche explotación.
+  - Requisitos: Ninguno. Se puede llamar desde cualquier lugar del país, incluso ante una situación dudosa. No es una fuente de empleo sino un recurso de protección y denuncia ante ofertas de trabajo o viajes sospechosos (trata y explotación).
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica: servicio gratuito.
+  - Plazo o ciclo: Abierto todo el año: la Línea 145 funciona las 24 horas, es gratuita y anónima.
+  - Como postular: https://www.argentina.gob.ar/trata
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Contactos que figuran en la página: teléfono 145, WhatsApp +11 6546-0580, teléfono de oficina 011-5278-9800 y correo comitecontralatrata@minseg.gob.ar.
+  - Aclaracion: Según la página, la línea está a cargo del Ministerio de Justicia y el Comité coordina la política pública de prevención, persecución y asistencia a víctimas.
+  - Aclaracion: Resulta útil como advertencia previa a postular a ofertas en el exterior.
+- **J-1 Summer Work Travel (Departamento de Estado de EE. UU.)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://j1visa.state.gov/programs/summer-work-travel
+  - Que es: Estudiantes universitarios o terciarios de instituciones acreditadas fuera de EE. UU. que quieren trabajar en empleos estacionales o temporarios durante las vacaciones.
+  - Requisitos: Estudiante universitario o terciario de tiempo completo, matriculado en una institución acreditada fuera de EE. UU., con al menos un semestre completo aprobado. Se exige inglés suficiente. La página no indica edad mínima. Duración máxima: 4 meses, y el participante debe volver antes del inicio de sus clases. Quien no es de un país del Programa de Exención de Visa debe tener empleo pre-acordado por el patrocinador. No es una vía para quien no estudia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: El pago debe ser al menos el mayor entre el salario mínimo estatal y el federal de EE. UU., con horas extra según la ley estatal. La página no menciona aranceles del programa.
+  - Plazo o ciclo: Anual, por temporada. La página enlaza tablas de fechas por país de la temporada 2024 (únicas vistas); las fechas actuales dependen de cada patrocinador. No se vio una convocatoria con fecha límite.
+  - Como postular: https://j1visa.state.gov/participants/how-to-apply/sponsor-search/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se postula directamente al Departamento de Estado: se elige un patrocinador autorizado desde el buscador oficial (Find a Program Sponsor).
+  - Aclaracion: La página no menciona a Argentina ni lista países elegibles, por lo que la elegibilidad concreta y las fechas de la temporada vigente deben confirmarse con el patrocinador.
+  - Aclaracion: La página parece desactualizada (referencias a 2021 y 2024).
+  - Aclaracion: Para denunciar abusos se informa la línea 1-866-283-9090.
+- **El Cronista: Working Holiday, uno por uno, los países que reciben argentinos** (sin verificar, verificada 1 vez) https://www.cancilleria.gob.ar/es/servicios/programas-de-vacaciones-y-trabajo/argentinos
+  - Que es: Argentinos de 18 a 35 años según el artículo, con límite de 30 en algunos países.
+  - Requisitos: Según el artículo: 18 a 35 años en general (Noruega hasta 30); el resto lo fija cada convenio. Sin dato de experiencia ni de título, que según el país pueden exigirse.
+  - Pago o beneficio: No aplica: es una visa que permite trabajar de forma temporal; el sueldo depende del empleo que se consiga en destino (sin datos)
+  - Plazo o ciclo: Artículo del 7 de agosto de 2025; no informa fechas de apertura. Cada país tiene fechas propias y los cupos cambian cada año
+  - Como postular: Embajada o consulado del país de destino
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Se trata de un medio periodístico y no de una fuente oficial; sirve solo como orientación y conviene verificar los datos en la embajada de cada país.
+  - Aclaracion: El artículo lista 17 países con convenio, mientras que la Cancillería lista 19 (suma Armenia y Eslovenia).
+  - Aclaracion: Indica cupos limitados en Noruega (unos 300), Austria, Irlanda, Países Bajos y España, y Alemania sin tope.
+  - Aclaracion: No detalla requisitos ni fechas y remite a las embajadas.
+- **OIT: Contratación equitativa (Fair Recruitment)** (sin verificar, verificada 1 vez) https://www.ilo.org/topics-and-sectors/fair-recruitment
+  - Que es: Trabajadores que migran por empleo y quieren evitar agencias de contratación abusivas.
+  - Requisitos: No hay requisitos de postulación: no es un programa de empleo. Los materiales están dirigidos a profesionales del reclutamiento, empleadores y organismos públicos, no a quienes buscan trabajo.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no ofrece empleo ni pago)
+  - Plazo o ciclo: No aplica. Es un portal temático informativo sin convocatoria ni ciclo de postulación. Se vio contenido actualizado en noviembre de 2026.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un portal informativo oficial de la OIT sobre contratación equitativa de personas trabajadoras migrantes e internas, no una fuente donde postularse a un empleo.
+  - Aclaracion: No se vieron bolsa de empleo, formulario de postulación, línea de ayuda ni herramienta de reclamo para trabajadores, ni mención de Argentina o América Latina.
+  - Aclaracion: Sirve solo como referencia sobre derechos y prácticas de reclutamiento, por ejemplo que no se cobren comisiones a quien busca trabajo.
+
+## Fuentes transversales y de otros rubros
+
+- **Servicio Penitenciario Federal - Escuela de Suboficiales 'Cnel. Rómulo Páez' (preinscripción permanente)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/servicio/ingresar-la-escuela-de-suboficiales
+  - Que es: Personas que quieren ser suboficiales del SPF: Cuerpo General (seguridad penitenciaria), Profesional (apoyo técnico y maestranza: mecánicos, carpinteros, gasistas), Auxiliar (oficinistas e intendencia: choferes, músicos). La página dice que la preinscripción está abierta de forma permanente.
+  - Requisitos: Argentino/a nativo/a o por opción (no naturalizado/a), mayor de 21 años. Más de 3 años de residencia en la provincia donde se postula. Sin causas ni antecedentes penales o policiales, sin cesantía en la administración pública ni baja por indisciplina. Cuerpo General: 21 a 32 años, estatura mínima 1,60 m varones y 1,55 m mujeres; la página no pide título de nivel secundario explícitamente para este escalafón pero sí lista el secundario legalizado entre los documentos. Profesional Apoyo Técnico: 21 a 35 años, título terciario o universitario habilitante. Profesional Maestranza: 21 a 35 años, secundario, título o idoneidad en el oficio. Auxiliar Oficinista: 21 a 32 años, secundario y ofimática. Auxiliar Intendencia: 21 a 32 años; choferes con licencia profesional. Documentos: DNI, título secundario legalizado, certificado de antecedentes penales. No exige experiencia salvo los escalafones de oficio.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sueldo: sin datos (la página no informa montos)
+  - Plazo o ciclo: Abierto todo el año: la página dice que el sistema de preinscripción está disponible de forma permanente. No hay fechas de cursada ni de cierre (la sección de vigencia está vacía). Campaña 2026 mencionada.
+  - Como postular: https://incorporaciones.spf.gob.ar
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: La preinscripción exige documentación en PDF; si hay preselección, el aviso llega por correo.
+  - Aclaracion: La evaluación psicotécnica, los exámenes médicos y la entrega del legajo son presenciales.
+  - Aclaracion: Los gastos de las etapas están a cargo del postulante.
+  - Aclaracion: El Cuerpo General cursa en internado de lunes a viernes, de 3 a 6 meses.
+- **Escuela de Suboficiales de la Fuerza Aérea (Córdoba) - Ingreso e inscripción online** (abierta o vigente, verificada 2 veces) https://esfacba.com/ingreso/
+  - Que es: Postulantes a suboficial de la Fuerza Aérea para la incorporación 2027. Se puede rendir cursando el último año del secundario.
+  - Requisitos: Argentino nativo o por opción; soltero/a; hasta 24 años al 1 de marzo del año de ingreso; secundario completo (los alumnos de último año pueden rendir el examen con constancia de alumno regular y deben adeudar como máximo 2 materias, a aprobar antes del 30 de abril; título antes del 31 de julio); DNI vigente; sin baja por mala conducta o falta de aptitud militar en fuerzas armadas ni condena penal; aptitud psicofísica; calendario de vacunación completo (incluye hepatitis A y B y tétanos); consentimiento de los padres si es menor de 18 (Anexo 3). No se exige experiencia previa. Se rinden exámenes de selección.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no menciona beca ni sueldo)
+  - Plazo o ciclo: Inscripción abierta del 26 de mayo al 27 de noviembre (sección 'Incorporación 2027'; el año de la línea de fechas no figura, pero el examen intelectual para quienes terminan el secundario se da el 14 y 15 de diciembre de 2026). Examen intelectual en diciembre (a confirmar); selección en enero y febrero de 2027 (a confirmar). Cierra en 4 días respecto del 23/11/2026; ciclo anual.
+  - Como postular: https://esfacba.com/inscripcion-online/
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: Las fechas del examen intelectual y de la selección figuran como a confirmar, y el año de la línea de fechas no consta en la página.
+  - Aclaracion: El estado de la inscripción se consulta en https://consulta.esfacba.com/.
+  - Aclaracion: Las mujeres embarazadas o en lactancia pueden inscribirse, pero solo rinden el examen intelectual.
+- **Policía del Chubut: inscripción a la Tecnicatura Superior en Seguridad Pública (Oficial) y Auxiliar** (abierta o vigente, verificada 2 veces) https://policia.chubut.gov.ar/inscripciones
+  - Que es: Aspirantes a Oficial de Policía (Técnico Superior en Seguridad Pública, 2 años, presencial) y a Auxiliar en Seguridad Pública; también personal policial egresado de la Escuela de Personal Subalterno.
+  - Requisitos: Argentino/a (nativo, naturalizado o por opción); 18 a 26 años (cumplir 18 antes del 30 de junio y no superar los 26 a esa fecha); secundario completo (se admiten hasta 2 materias pendientes); altura entre 1,60 m y 1,90 m; sin tatuajes visibles con uniforme; soltero/a, preferentemente sin hijos. No requiere experiencia laboral previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no indica beca ni sueldo)
+  - Plazo o ciclo: Inscripciones abiertas hasta el 4 de diciembre de 2026 (fecha de apertura no indicada). Ciclo anual (la edad se computa al 30 de junio).
+  - Como postular: https://policia.chubut.gov.ar/inscripciones
+  - Lectura automatica posible: no
+  - Aclaracion: La opción Auxiliar en Seguridad Pública aparece listada, pero la página no da detalles.
+  - Aclaracion: La documentación se entrega en el Instituto Superior de Formación Policial N° 811 (Pedro Martínez 257, Rawson), de lunes a viernes de 8 a 13 h; contacto 280-4482551 e isfp811central@gmail.com.
+  - Aclaracion: Las etapas son control de documentación, examen físico, psicológico, médico y académico, y evaluación final, con cupo limitado y orden de mérito.
+  - Aclaracion: Se piden antecedentes penales nacional (en línea) y provincial (presencial, con menos de 6 meses), CUIL, partida de nacimiento, DNI y título certificados, certificado de domicilio y fotos.
 - **Policía de Seguridad Aeroportuaria (PSA) - Ingreso e incorporación** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/seguridad/incorporacion-fuerzas-federales/policia-de-seguridad-aeroportuaria
   - Que es: Postulantes al Curso de Oficiales de la PSA (formación de nueve meses). No se exige experiencia previa en el ámbito aeroportuario.
   - Requisitos: Los requisitos completos no figuran en la página. Sí consta: título secundario o certificado analítico legalizado por el Ministerio de Educación (no se acepta título en trámite), sin antecedentes penales, sin baja disciplinaria de fuerza policial, de seguridad o armada, y sin cursar otra carrera universitaria durante la formación. Edad y estatura: sin datos. No requiere experiencia.
@@ -1397,17 +2130,6 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Aclaracion: Según una nota de prensa, la inscripción se hace en postulantes.psa.gob.ar; ese dato no pudo confirmarse en la página oficial.
   - Aclaracion: No se acepta CV por mail ni en persona; el ingreso depende del orden de mérito y las vacantes.
   - Aclaracion: El Decreto 456/2025 reorganizó el personal en categoría única de oficiales, lo que puede haber cambiado el esquema; conviene confirmarlo.
-- **Armada Argentina - Portal de Incorporación (Marinero voluntario, Escuela de Suboficiales, Escuela Naval, Liceos)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://incorporacion.armada.mil.ar/
-  - Que es: Portal con todas las vías: Servicio Militar Voluntario (Marineros, ingreso anual, ambos sexos), Escuela de Suboficiales (Aspirante Naval), Escuela Naval Militar (Cadete), CUINA y CUIM para quienes tienen título o conocimientos previos, Marina Mercante y Liceos Navales.
-  - Requisitos: Marinero voluntario: argentino/a nativo/a o por opción, 18 a 24 años, séptimo grado completo, soltero/a, aprobar examen psicofísico y curso de admisión. No pide experiencia ni título secundario. Requisitos de las demás escuelas: sin datos (no se vieron sus páginas).
-  - Sin experiencia previa: si
-  - Pago o beneficio: sin datos
-  - Plazo o ciclo: Marinero voluntario: la página dice que se incorpora anualmente; no muestra fecha ni cierre (sin datos). Las demás escuelas tampoco publican fechas en la página principal.
-  - Como postular: https://sinu.incorporacion.armada.mil.ar
-  - Lectura automatica posible: No se vio API ni feed.
-  - Aclaracion: La inscripción se hace online en sinu.incorporacion.armada.mil.ar (botón Inscribite) o en persona en las Delegaciones de Incorporación Naval.
-  - Aclaracion: Tras el curso de admisión, el Marinero se incorpora como Marinero Segundo por 2 años, renovable anualmente como Marinero Primero hasta los 28 años.
-  - Aclaracion: Los requisitos y fechas de las demás escuelas no se publican en la página principal.
 - **Policía de Santa Fe - Escuela de Policía del ISeP (Instituto de Seguridad Pública) e ingresos policiales** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.isepsantafe.edu.ar/
   - Que es: Personas que quieren ingresar a la Policía de Santa Fe: la Escuela de Policía (sedes Rosario y Recreo) es la única vía de ingreso al escalafón general de seguridad. Tras un año se obtiene el título de Agente de calle y tras dos años el de Auxiliar en Seguridad.
   - Requisitos: Convocatoria 2027-2028 (300 vacantes): argentino; 18 a 30 años a la fecha de inicio del curso preparatorio (febrero de 2027); secundario completo o constancia de finalización; aptitud psicofísica (exámenes médicos y psicológicos); sin condena penal ni proceso penal pendiente; no ser empleado ni haber sido exonerado de la administración pública nacional, provincial o municipal; presentar la documentación en plazo. No se exige experiencia.
@@ -1418,17 +2140,40 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Aclaracion: La página indicada es descriptiva y no trae requisitos ni fechas; los datos concretos salen de la convocatoria publicada por el Gobierno de Santa Fe.
   - Aclaracion: La beca incluye pase de transporte educativo gratuito, cobertura de salud IAPOS y comidas; el haber estimado suma tarjeta alimentaria de $211.307, uniforme y arma de servicio.
   - Aclaracion: La convocatoria de Técnico Superior en Seguridad Pública y Ciudadana 2027-2028 (personal policial) tuvo inscripción del 22 de junio al 15 de agosto y también está cerrada.
-- **Policía Federal Argentina - Ingreso como Cadete o Agente (preinscripción online)** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/seguridad/incorporacion-fuerzas-federales/policia-federal-argentina
-  - Que es: Personas argentinas nativas que quieren ser Cadetes (carrera de oficial) o Agentes (suboficiales) de la PFA. Aceptan postulantes de todo el país, aunque las primeras evaluaciones son unos 3 días hábiles en CABA.
-  - Requisitos: Argentino/a nativo/a. Cadete: 17 a 25 años al 31/12 del año en curso, secundario completo o cursando el último año sin materias previas adeudadas. Agente: 19 a 35 años, secundario completo y aprobado. Soltero/a y sin hijos. Estatura: varones 1,65 a 1,95 m, mujeres 1,60 a 1,85 m. Menores de 18 necesitan autorización de ambos padres o tutores. Aceptar estudios médicos y toxicológicos. No requiere experiencia previa ni residencia en un lugar determinado.
+- **Policía del Neuquén: inscripciones (Oficiales, Agentes de Seguridad, Penitenciarios, profesionales y cámaras)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.policiadelneuquen.gob.ar/index.php/2942-2/
+  - Que es: Aspirantes a Oficial (cursado en Neuquén Capital), a Agente de Seguridad (Plaza Huincul), a Agente Penitenciario (Neuquén Capital), y profesionales o personal para el Sistema de Cámaras.
+  - Requisitos: Argentino/a nativo/a o por opción. Cadetes (Oficiales): 17 a 25 años y secundario completo sin materias pendientes. Agentes de Seguridad: 18 a 28 años. Penitenciarios: 18 a 30 años. Profesionales: título universitario habilitante. No requiere experiencia previa para cadetes y agentes.
   - Sin experiencia previa: si
-  - Pago o beneficio: Beca mensual durante la formación más obra social (monto: sin datos)
-  - Plazo o ciclo: Sin fechas publicadas en la página oficial. No se vio una convocatoria con fecha ni un cierre; la edad se mide al 31 de diciembre del año en curso, lo que sugiere ciclo anual.
-  - Como postular: https://sistemaspfa.gov.ar/portal_ingresos/
-  - Lectura automatica posible: No se vio API ni feed; solo formulario web.
-  - Aclaracion: La página no informa si hay una convocatoria abierta; la inscripción comienza online en el Sistema de Preinscripción y un correo de confirmación explica cómo pedir turnos.
-  - Aclaracion: Los exámenes y la entrega de documentos son presenciales en CABA (División Incorporaciones); quienes viven fuera del AMBA deben prever unos 3 días hábiles en la ciudad.
-  - Aclaracion: Los estudios médicos corren por cuenta del postulante.
+  - Pago o beneficio: sin datos (la página no indica sueldo; una fuente menciona un sistema de becas de estudio de la Jefatura)
+  - Plazo o ciclo: Sin fechas en la página oficial. Un comunicado del Ministerio de Seguridad de Neuquén (1/7/2025) afirma que la convocatoria 'permanece abierta durante todo el año'; no se encontró confirmación equivalente fechada en 2026, salvo el Decreto 518/2026 de becas para 490 aspirantes citado en una búsqueda (no abierto ni leído).
+  - Como postular: https://au.polneuquen.gob.ar
+  - Lectura automatica posible: no
+  - Aclaracion: Se recomienda confirmar la vigencia de la convocatoria por teléfono.
+  - Aclaracion: La inscripción se hace por Acceso Único (https://au.polneuquen.gob.ar), llamando a la División Reclutamiento (299 4423102 / 299 4571992) o en las Direcciones de Seguridad regionales.
+  - Aclaracion: La formación de cadetes es presencial en internado, de 2 años, en Neuquén Capital; la de Agentes de Seguridad (Plaza Huincul) y Penitenciarios (Neuquén Capital) es en internado de 1 año; profesionales y personal de cámaras presentan CV.
+  - Aclaracion: Se pide título secundario certificado por el Consejo Provincial de Educación, antecedentes penales provincial y nacional, CUIL y certificados de deudores alimentarios y de violencia familiar y de género.
+- **Policía de Córdoba: ingreso de oficiales y suboficiales** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.policiacordoba.gov.ar/ingreso/index.html
+  - Que es: Aspirantes a la Escuela de Oficiales 'Ltdor. Gral. Don José de San Martín' y a la escuela de suboficiales de la Policía de Córdoba.
+  - Requisitos: Oficiales: argentino nativo o por opción, 18 a 25 años al 30/06/2027, secundario completo, sin antecedentes penales ni contravencionales, informe socioambiental favorable, estatura sin calzado (hombres 1,65 a 1,95 m; mujeres 1,56 a 1,80 m) y relación talla-peso normal, formulario como declaración jurada. Suboficiales: mismos requisitos básicos, 19 a 30 años al momento de la incorporación. No exige experiencia previa.
+  - Pago o beneficio: sin datos (la página no informa sueldo).
+  - Plazo o ciclo: Convocatoria anual con inscripciones cerradas al 2026-11-23. Oficiales (ciclo lectivo 2027): examen online el 14 y 15/10/2026; sin fecha de reapertura. Suboficiales: la página interna indica inscripción del 05/05/2026 al 31/05/2026 y examen el 8, 9 y 10/06/2026, pero la portada muestra 'Inscripciones cerradas' y el texto es contradictorio.
+  - Como postular: https://www.policiacordoba.gov.ar/ingreso/index.html
+  - Lectura automatica posible: no
+  - Aclaracion: El ciclo en curso está cerrado; vale como oportunidad anual, a revisar en el primer semestre.
+  - Aclaracion: Las páginas internas tienen inconsistencias de estado y horario: el cierre del examen del 14/10 figura como 19:59 en un apartado y 19:10 en otro.
+  - Aclaracion: Los datos de suboficiales no pudieron contrastarse y las fechas deben confirmarse con el Departamento Ingresos Policiales.
+  - Aclaracion: Contacto: Guardia Nacional 350, B° Las Palmas, Córdoba; 351-4337991 y 351-2031788 (también WhatsApp); departamentoingresos@policiacordoba.gov.ar.
+- **Río Negro: Convocatorias RN (cargos de la Administración Pública provincial)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://convocatoriarn.rionegro.gov.ar/
+  - Que es: Personas interesadas en cubrir vacantes de la Administración Pública de la provincia de Río Negro.
+  - Requisitos: Registro único con correo confirmado; luego carga de datos personales e historial laboral y postulación a cada convocatoria. Los requisitos de cada cargo figuran en cada convocatoria; no se leyeron.
+  - Pago o beneficio: sin datos (depende de cada convocatoria).
+  - Plazo o ciclo: Portal permanente donde se publican las vacantes de la administración pública rionegrina; no se vieron convocatorias abiertas concretas con fecha al 2026-11-23. Hay una sección 'Finalizadas' con numerosas convocatorias de organismos y localidades (Viedma, Bariloche, Roca, Choele Choel), lo que indica publicación frecuente.
+  - Como postular: https://convocatoriarn.rionegro.gov.ar/
+  - Lectura automatica posible: no
+  - Aclaracion: No se pudo confirmar que haya convocatorias abiertas al 23/11/2026, ya que el listado podría cargarse de forma dinámica.
+  - Aclaracion: El registro se hace una sola vez y exige confirmar el correo antes de ingresar y postular.
+  - Aclaracion: Las consultas se canalizan por convocatoriasfp@funcionpublica.rionegro.gov.ar.
+  - Aclaracion: El listado de convocatorias cerradas está en https://convocatoriarn.rionegro.gov.ar/finalizada.
 - **Policía de la Ciudad de Buenos Aires - Sumate (Cadetes, Bomberos, Agentes de Prevención)** (sin verificar, verificada 1 vez) https://policiadelaciudad.gob.ar/sumate
   - Que es: Personas que quieren ser cadetes de la Policía de la Ciudad (formación de dos años, Técnico Superior en Seguridad Pública, como becarios), bomberos o agentes de prevención. No hace falta vivir en CABA, aunque la normativa pide residir dentro de 80 km de la Ciudad.
   - Requisitos: Cadetes (art. 128 Ley 5688/16): 18 a 30 años al ingreso; secundario completo (DNI y título, constancia de título en trámite o constancia de último año); residir a menos de 80 km de la Ciudad de Buenos Aires; argentino nativo o por opción; talla 1,65 a 1,95 m varones y 1,55 a 1,85 m mujeres, IMC 19 a 30 (varones) y 18 a 29 (mujeres); aptitud psicofísica; conducta pública adecuada, sin condenas inhabilitantes ni exoneraciones de la función pública o policial. No se exige experiencia. Requisitos de Bomberos y Agentes de Prevención: no vistos.
@@ -1440,28 +2185,6 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Aclaracion: La página enlaza tres vías (Cadetes, Bomberos, Agentes de Prevención), pero solo Cadetes mostró detalle.
   - Aclaracion: El formulario de Cadetes remite a sai.insusep.edu.ar, que mostró solo un login o registro genérico, sin convocatoria ni fechas, por lo que no se pudo confirmar que la inscripción esté abierta.
   - Aclaracion: Se indica consultar insusep.edu.ar.
-- **Cartelera Pública Central de Ofertas de Empleo Público (SINEP y otros escalafones)** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/desregulacion/transformacion/cartelera-publica-central-de-ofertas-de-empleo-publico
-  - Que es: Cartelera oficial con las vacantes a concurso del convenio colectivo de la Administración Pública Nacional, ordenadas por escalafón: SINEP (Selección General, Abierta e Interna), Otros Escalafones y Ciencia y Técnica.
-  - Requisitos: Selección Abierta: abierta a cualquier postulante, sea o no empleado público, que cumpla los requisitos obligatorios del cargo. Selección General: para personal con estabilidad o contratado bajo SINEP. Convocatoria Interna: solo personal del organismo. Requisitos de cada cargo: sin datos (están en cada convocatoria; los PDF vistos no se pudieron leer).
-  - Pago o beneficio: sin datos
-  - Plazo o ciclo: Continuo según vacantes; la página en sí no lista convocatorias abiertas ni cierres (sin datos). La subpágina de convocatorias SINEP muestra 4 llamados 'Convocatoria Abierta' de Ciencia y Técnica (INA 26, IGN 39, SMN 73, SEGEMAR 105 = 243 cargos), sin fechas de cierre; el PDF del INA lleva '05-04-2022' en el nombre, lo que sugiere que son llamados viejos.
-  - Como postular: https://concursar.miportal.gob.ar/
-  - Lectura automatica posible: No se vio API ni feed; los llamados están en PDF.
-  - Aclaracion: No se confirmó que los 243 cargos de Ciencia y Técnica sigan vigentes: no hay fecha de cierre y el PDF del INA lleva '05-04-2022' en el nombre.
-  - Aclaracion: Esos cuatro llamados no deben considerarse abiertos sin revisar el PDF de cada uno.
-  - Aclaracion: La postulación se hace por el portal Concursar.
-- **Provincia de Buenos Aires - Servicio Bonaerense de Empleo (SBE)** (abierta o vigente, verificada 2 veces) https://www.trabajo.gba.gov.ar/sbe/
-  - Que es: Trabajadores, empleadores y emprendedores de la Provincia de Buenos Aires; red de intermediación laboral con acceso a formación para el trabajo.
-  - Requisitos: No se informan requisitos de edad, documentos ni residencia en la portada. Para ingresar se usa el CUIL. El instructivo para trabajadores (PDF) debería detallarlos, pero no se abrió. No se vio ningún requisito de experiencia ni de título.
-  - Sin experiencia previa: si
-  - Pago o beneficio: sin datos. Es un servicio de intermediación laboral gratuito; el sueldo depende de cada aviso.
-  - Plazo o ciclo: Sin fechas ni plazos en la página; acceso por login de trabajador/a en trabajo.gba.gov.ar/Delegaciones/RegistroEmpleo.
-  - Como postular: https://www.trabajo.gba.gov.ar/Delegaciones/RegistroEmpleo/Account/Login
-  - Lectura automatica posible: none
-  - Aclaracion: La portada no informa requisitos, fechas ni elegibilidad; esos datos podrían estar en el instructivo en PDF, que no pudo consultarse.
-  - Aclaracion: Que el registro sea permanente o esté abierto todo el año es una inferencia, no un dato publicado.
-  - Aclaracion: El ingreso de trabajadores es con CUIL y contraseña, con enlace para registrarse.
-  - Aclaracion: Contacto: 0800-666-2187 y asesoramientoempleo@trabajo.gba.gob.ar.
 - **Provincia de Buenos Aires - Registro de trabajadoras y trabajadores de cuidados** (abierta o vigente, verificada 2 veces) https://www.trabajo.gba.gov.ar/registro-de-trabajadores-de-cuidados
   - Que es: Personas que realizan asistencia y cuidado sociocomunitario (personas con discapacidad, niñez, personas mayores, personas con enfermedades) y quieren figurar en un registro oficial.
   - Requisitos: 18 años o más, residir en la Provincia de Buenos Aires y haber completado una formación oficial de al menos 200 horas reloj. Hay que subir el título o certificado de una institución oficial y un documento de identidad, y aceptar los términos y condiciones (PDF enlazado). No se pide experiencia previa, pero sí la capacitación de 200 horas.
@@ -1496,6 +2219,63 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Aclaracion: Hay que iniciar sesión para ver el detalle y los datos de contacto de cada aviso.
   - Aclaracion: La fecha de la ronda de empleo de Esperanza del 27/10/2026 no pudo confirmarse.
   - Aclaracion: Contacto: mejortrabajo@santafe.gob.ar o WhatsApp 342-5330074.
+- **Río Negro: Servicio de Empleo Rionegrino (SER)** (abierta o vigente, verificada 2 veces) https://trabajo.rionegro.gov.ar/presentacion-de-curriculum-vitae-para-el-ser
+  - Que es: Personas sin trabajo, con trabajos temporarios o que buscan el primer empleo en Río Negro; también empleadores que quieren contratar mano de obra local.
+  - Requisitos: Formulario en carácter de declaración jurada. Obligatorios: nombre, DNI, localidad y provincia de residencia, edad, fecha de nacimiento, correo, teléfono, nivel educativo, perfil laboral, ocupación actual, tareas y referencias laborales. Adjuntar DNI (frente y dorso) y CV en un único PDF. Opcionales: certificados de cursos, licencia de conducir, libreta LINTI e IERIC. La página no fija requisitos de elegibilidad ni exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (es un servicio de intermediación; el sueldo depende de cada oferta).
+  - Plazo o ciclo: Abierto todo el año: formulario de carga de CV para búsquedas actuales y futuras, sin fechas límite.
+  - Como postular: https://trabajo.rionegro.gov.ar/presentacion-de-curriculum-vitae-para-el-ser
+  - Lectura automatica posible: no
+  - Aclaracion: No se verificó si se exige residir en la provincia, aunque el formulario pide localidad y provincia de residencia.
+  - Aclaracion: La página no fija plazo de vigencia del CV cargado.
+  - Aclaracion: Contacto: Rivadavia 55, Viedma; (02920) 42 4167 / 42 7859 / 42 0943.
+- **Casas particulares (Ley 26.844): portal oficial para trabajadoras y empleadores** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/casasparticulares
+  - Que es: Personas que trabajan o quieren trabajar en casas particulares (limpieza, cocina, cuidado de personas, caseros) y hogares que las contratan.
+  - Requisitos: No se exige experiencia ni título. Prohibido el trabajo de menores de 16 años. Entre 16 y 17 años solo con retiro, con autorización de los padres, jornada máxima de 6 horas, certificado médico de aptitud y constancia de escolaridad obligatoria. El empleador necesita clave fiscal nivel 2 para operar el sistema.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Ver la escala salarial vigente en la ficha correspondiente.
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: https://casasparticulares.afip.gob.ar
+  - Lectura automatica posible: no
+  - Aclaracion: Es un portal informativo y de registro, no una bolsa de empleo: no publica ofertas.
+  - Aclaracion: Está prohibido el trabajo de menores de 16 años; entre 16 y 17 solo con retiro, autorización de los padres, jornada máxima de 6 horas, certificado médico de aptitud y constancia de escolaridad obligatoria.
+  - Aclaracion: El empleador necesita clave fiscal nivel 2; el registro y los pagos se hacen en la plataforma de ARCA (casasparticulares.afip.gob.ar).
+- **Casas particulares: modalidades, categorías de tareas (incluye cuidado de personas) y condiciones** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/casasparticulares/empleador/modalidades
+  - Que es: Quienes buscan trabajo de limpieza, cocina, cuidado de niños, adultos mayores o personas con discapacidad, y de casero, en hogares.
+  - Requisitos: No se exige experiencia ni título. Para cuidado de personas se describe cuidado no terapéutico; no se informa título obligatorio. Menores de 16: prohibido. De 16 a 17 años: solo con retiro y con las condiciones del portal principal.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Ver la escala salarial vigente (ficha anterior).
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: sin datos
+  - Lectura automatica posible: no
+  - Aclaracion: Es una página informativa sobre condiciones del régimen, no una bolsa de empleo.
+  - Aclaracion: Para cuidado de personas se describe cuidado no terapéutico y no se informa título obligatorio.
+  - Aclaracion: Entre 16 y 17 años solo se admite la modalidad con retiro y bajo las condiciones del portal principal.
+  - Aclaracion: En la modalidad con retiro la trabajadora vive en el lugar de trabajo, con un mínimo de 12 horas entre jornadas.
+- **Municipalidad de Pinamar: Oficina de Empleo (ofertas de temporada y todo el año)** (abierta o vigente, verificada 2 veces) https://pinamar.gob.ar/empleo/
+  - Que es: Cualquier persona que busque trabajo en el sector privado de Pinamar, Carilló, Valeria del Mar y La Herradura, con ofertas de temporada (gastronomía, balnearios, repositores) y de todo el año.
+  - Requisitos: Varía por oferta. Ejemplos vistos: REF 903 (atención al cliente y caja, Cariló) de 18 a 25 años, experiencia valorada pero no exigida; REF 901 (recepción en balnearios) con secundario completo, Excel y correo; REF 897 (cocina y salón, Valeria del Mar) con experiencia en cocina; varias piden experiencia comprobable. Algunas avisos limitan por sexo o edad según el empleador.
+  - Pago o beneficio: sin datos (la página no publica sueldos; se consulta el contrato antes de aceptar)
+  - Plazo o ciclo: Ofertas publicadas del 16 al 20 de noviembre de 2026 (REF 897 y 901 a 909 en la primera página); sin cierre general. Postulación continua por WhatsApp o en persona.
+  - Como postular: https://pinamar.gob.ar/empleo/
+  - Lectura automatica posible: no
+  - Aclaracion: La Oficina de Empleo solo intermedia con empleadores privados y no participa de la decisión de contratación ni audita a las empresas.
+  - Aclaracion: Algunos avisos limitan por sexo o edad según el empleador, y varios piden experiencia comprobable.
+  - Aclaracion: La página no indica fecha de última actualización, solo la de publicación de cada oferta; hay más ofertas en la paginación (/empleo/page/2/).
+  - Aclaracion: Para postular: WhatsApp 2254 590404 con el número de REF y el CV, o en persona en Av. Bunge 2100, de lunes a viernes de 7:30 a 13:30.
+- **Casas particulares: escala salarial vigente, aguinaldo, antigüedad y aportes** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/trabajo/casasparticulares/trabajador/sueldo
+  - Que es: Trabajadoras y empleadores que necesitan saber cuánto corresponde pagar y qué aportes se hacen.
+  - Requisitos: No se exige experiencia ni título para tareas generales. La escala aplica según categoría y modalidad.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Escala CABA desde septiembre 2026, 48 h semanales, por mes con retiro / sin retiro. Supervisora: $579.493,14 / $640.641,55. Tareas específicas: $541.402,49 / $597.854,36. Caseros: $529.261,78 / $529.261,78. Cuidado de personas: $529.261,78 / $584.936,09. Tareas generales: $480.247,85 / $529.261,78. Por hora, con retiro / sin retiro: supervisora $4.645,33 / $5.049,58; tareas específicas $4.422,54 / $4.809,80; caseros $4.185,94 / $4.185,94; cuidado de personas $4.185,94 / $4.641,90; tareas generales $3.914,64 / $4.185,94.
+  - Plazo o ciclo: La escala se actualiza por resolución periódica. La página muestra la escala vigente desde septiembre de 2026 (Resolución 6/2026) para CABA, jornada de 48 horas. No se vio una escala posterior a la fecha de verificación (2026-11-23).
+  - Como postular: sin datos
+  - Lectura automatica posible: no
+  - Aclaracion: Los montos corresponden a la escala para CABA vigente desde septiembre de 2026 (Resolución 6/2026), para una jornada de 48 horas; no se vio una escala posterior al 2026-11-23.
+  - Aclaracion: Fuera de CABA conviene consultar a la autoridad laboral provincial.
+  - Aclaracion: Con menos de 24 horas semanales se paga el valor hora por horas trabajadas; de 24 a menos de 48 horas, un monto mensual proporcional.
+  - Aclaracion: Es una página informativa sobre pagos y aportes, no una oferta de empleo.
 - **Programa Trabajo Autogestionado (cooperativas y empresas recuperadas)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/trabajo/autogestionado
   - Que es: Unidades productivas autogestionadas por sus trabajadores (cooperativas de trabajo, empresas recuperadas o creadas por los propios trabajadores) que quieren mantener o crear empleo.
   - Requisitos: Se presenta en una Agencia Territorial: constancia de inscripción legal de la entidad, estatuto o contrato constitutivo, acta de designación de la actual comisión directiva o del representante legal, documentación que acredite el uso legal del lugar de producción y de las máquinas, y constancia de CUIT de la unidad. Hay que preparar una propuesta de apoyo dentro de una de las líneas del programa.
@@ -1507,17 +2287,6 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Aclaracion: La presentación es en persona en una Agencia Territorial, con una propuesta en un formulario descargable en .docx.
   - Aclaracion: La página no informa los montos exactos de la ayuda ni si el programa está recibiendo solicitudes actualmente.
   - Aclaracion: Contacto: 0800-222-2220 y consultas@trabajo.gob.ar.
-- **Provincia de Buenos Aires - IPFL, Centros de Formación Laboral (cursos de oficios gratuitos)** (abierta o vigente, verificada 2 veces) http://www.trabajo.gba.gov.ar/ipfl/
-  - Que es: Cualquier persona interesada en aprender un oficio; la red tiene 223 Centros de Formación Laboral junto a sindicatos, municipios, cámaras y organizaciones.
-  - Requisitos: sin datos (la página no publica edad ni documentación; se ven en el detalle de cada curso). Los cursos son gratuitos y no se vio un requisito de experiencia.
-  - Sin experiencia previa: si
-  - Pago o beneficio: Cursos y trayectos gratuitos con reconocimiento oficial; sin ayuda económica informada.
-  - Plazo o ciclo: Oferta continua. El buscador de cursos mostraba cursos con fecha 23/11/2026; cada curso trae su propio calendario y su preinscripción.
-  - Como postular: http://cursosipfl.trabajo.gba.gob.ar/
-  - Lectura automatica posible: none (buscador de cursos dentro del sitio)
-  - Aclaracion: Es solo para la Provincia de Buenos Aires.
-  - Aclaracion: Los requisitos de edad y documentación se consultan en cada curso o en la página de contacto.
-  - Aclaracion: La portada no muestra fechas de cursos; el buscador oficial está en cursosipfl.trabajo.gba.gob.ar y la preinscripción figura en el detalle de cada curso.
 - **Santa Fe - Impulsa (capacitaciones en oficios ligadas a la demanda productiva)** (abierta o vigente, verificada 2 veces) https://www.santafe.gob.ar/ms/impulsa/oferta-formativa-completa/
   - Que es: Personas que buscan capacitarse en oficios y competencias según la demanda local para mejorar su empleabilidad.
   - Requisitos: Soldadura: ser mayor de 18 años. No se informan otros requisitos, documentos ni costo. No se pide experiencia previa en lo que se vio.
@@ -1529,17 +2298,181 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Aclaracion: Es una capacitación y no un empleo.
   - Aclaracion: Soldadura es presencial, con clases teóricas los martes de 16:00 a 19:00 y prácticas los sábados de 09:00 a 12:00.
   - Aclaracion: La inscripción es con un formulario de Google; la página sugiere consultar a la Municipalidad de San Lorenzo por el cierre.
-- **INAES - Oferta de cursos y formaciones gratuitas para cooperativas y mutuales** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.argentina.gob.ar/oferta-de-cursos-y-formaciones
-  - Que es: Integrantes de cooperativas y mutuales o personas interesadas en el asociativismo y la economía social.
-  - Requisitos: Solo completar el formulario de inscripción. Gratuito, sin otro requisito. No se pide experiencia ni título.
+- **Córdoba: Programa Empleo +26** (abierta o vigente, verificada 2 veces) https://desarrolloyempleo.cba.gov.ar/programa-empleo-26/
+  - Que es: Personas mayores de 26 años residentes en Córdoba, desempleadas o sin empleo registrado. Prioridad para mayores de 45 años y para quienes viven en los 12 departamentos del Plan de Igualdad Territorial (noroeste y sur-sur).
+  - Requisitos: Tener más de 26 años, residir en la provincia de Córdoba y estar desempleado/a o sin empleo registrado; con CiDi. No exige experiencia previa. Prioridad para mayores de 45 años y para residentes de los 12 departamentos del Plan de Igualdad Territorial (noroeste y sur-sur).
   - Sin experiencia previa: si
-  - Pago o beneficio: Cursos gratuitos, sin ayuda económica. Entregan certificado de participación (los asincrónicos, con carga horaria).
-  - Plazo o ciclo: Agenda octubre-diciembre 2026: última sesión sincrónica el lunes 30/11 a las 13 h; último cierre de campus el lunes 7/12 (el año no figura escrito en la página).
-  - Como postular: https://forms.gle/5RfaP7UsFyguNcR87
-  - Lectura automatica posible: none
-  - Aclaracion: La agenda cubre de octubre a diciembre de 2026 y es trimestral, no mensual; el año no figura escrito en la página.
-  - Aclaracion: Los formatos son presencial en el auditorio del INAES (Av. Belgrano 172, CABA), virtual en vivo por Google Meet y autogestionado en el campus del INAES.
-  - Aclaracion: La inscripción se hace con un único formulario de Google.
+  - Pago o beneficio: Práctica laboral: asignación estímulo equivalente a 1 salario mínimo, vital y móvil por 20 h semanales durante 6 meses (más acceso al Boleto Obrero Social). Relación de dependencia: sueldo según el convenio del rubro, pagado por la empresa.
+  - Plazo o ciclo: Inscripciones abiertas al 2026-11-23, sin fecha de cierre; la modalidad de relación de dependencia 'continúa abierta hasta agotar cupo' y la de práctica laboral se sortea si se supera el cupo.
+  - Como postular: https://formularioinscripcion.cba.gov.ar/
+  - Lectura automatica posible: no
+  - Aclaracion: En la modalidad de relación de dependencia la postulación la hace el empleador en programasempleo.cba.gov.ar; en la práctica laboral se postula la persona en formularioinscripcion.cba.gov.ar, buscando el logo +26.
+  - Aclaracion: Cada modalidad tiene un cupo de 5.000; se reserva 5% para personas con CUD y trasplantadas y 5% para personas en situación de vulnerabilidad.
+  - Aclaracion: Es compatible con Progresar, AUH, Monotributo Social y pensiones no contributivas.
+  - Aclaracion: Contacto: WhatsApp 351 552-1832 y teléfono 0351 4322900.
+- **Río Negro: Empleo Joven Rionegrino** (abierta o vigente, verificada 2 veces) https://trabajo.rionegro.gov.ar/inscripcion-para-empleo-joven
+  - Que es: Jóvenes de 18 a 23 años que buscan su primer empleo formal u otra oportunidad laboral en Río Negro.
+  - Requisitos: Tener entre 18 y 23 años, residir efectivamente en Río Negro y estar desempleado/a, buscar el primer empleo formal o haber egresado de cursos de capacitación certificados o reconocidos en la provincia. No exige experiencia previa; admite quienes buscan el primer empleo.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (la página no indica monto ni duración)
+  - Plazo o ciclo: Formulario de inscripción activo, sin fecha de cierre indicada; la página no declara explícitamente que haya una convocatoria abierta, por lo que se recomienda confirmar con el Ministerio de Trabajo.
+  - Como postular: https://trabajo.rionegro.gov.ar/inscripcion-para-empleo-joven
+  - Lectura automatica posible: no
+  - Aclaracion: La página no declara explícitamente que haya una convocatoria abierta, por lo que se recomienda confirmar con el Ministerio de Trabajo.
+  - Aclaracion: El formulario pide DNI, localidad, nivel educativo, perfil laboral y referencias; se adjuntan en PDF DNI frente y dorso y CV, y son opcionales cursos, licencia de conducir, LINTI e IERIC.
+  - Aclaracion: Contacto: Rivadavia 55, Viedma; tel. (02920) 42 4167 / 42 7859 / 42 0943; hay canal de WhatsApp.
+- **Misiones: Programa Empleo Joven (Ley IX N° 14)** (abierta o vigente, verificada 2 veces) https://trabajo.misiones.gob.ar/registroprograma/
+  - Que es: Jóvenes misioneros de 16 a 30 años desempleados y sin experiencia laboral relevante; también empleadores públicos y privados, empresas inclusivas y jóvenes aspirantes con discapacidad (formularios separados).
+  - Requisitos: Jóvenes misioneros de entre 16 y 30 años según una nota de prensa de abril de 2025 (no confirmado en la normativa final); la página oficial no detalla requisitos. No se indica experiencia previa como requisito; está pensado para el primer empleo formal.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no se encontraron montos ni estipendio)
+  - Plazo o ciclo: Registro provincial en línea sin fecha de cierre; formularios activos al 2026-11-23. No hay un cierre declarado, pero tampoco una leyenda explícita de 'abierto'.
+  - Como postular: https://trabajo.misiones.gob.ar/registroprograma/
+  - Lectura automatica posible: no
+  - Aclaracion: La página es solo un índice de formularios (jóvenes, jóvenes con discapacidad, empleadores, empresas inclusivas y planilla de vacantes) y no indica requisitos, edad ni estado de apertura.
+  - Aclaracion: El rango de 16 a 30 años proviene de una nota de prensa de abril de 2025 y no está confirmado en la normativa final.
+  - Aclaracion: Los beneficios descritos son formación profesional, prácticas laborales y capacitación continua para pasar al empleo formal.
+  - Aclaracion: Contacto: 0376-4447637, ministerio@trabajo.misiones.gob.ar, Santa Fe 343, Posadas.
+- **Santa Fe: Impulsa (formación laboral certificada por oficios y sectores)** (abierta o vigente, verificada 2 veces) https://www.santafe.gob.ar/ms/impulsa/
+  - Que es: Santafesinos que quieran aprender un oficio o capacitarse en sectores como agro, metalurgia, turismo, comercio y servicios, construcción, textil, madera, tecnología, comunicación y administración. Hay una sección para empresas e instituciones con ofertas de prácticas y vacantes.
+  - Requisitos: No detallados en la página de listado. Teoría de 16:00 a 19:00, de lunes a sábado (práctica cortada en la página). No se vio exigencia de experiencia previa. Confirmar requisitos en la ficha del curso o en el centro.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No se informa costo ni beca en la página leída; 'sin datos'.
+  - Plazo o ciclo: Oferta rotativa de cursos. Confirmado al 2026-11-23: Capacitación laboral en soldadura (San Lorenzo, presencial, 90 hs, 01/12/2026 al 16/03/2027) con 'Inscripciones abiertas'. Diseño digital e IA (Roldán) y Reparación de pequeños electrodomésticos (Sunchales) figuran como finalizadas.
+  - Como postular: https://www.santafe.gob.ar/ms/impulsa/oferta-formativa/capacitacion-laboral-en-soldadura-4/
+  - Lectura automatica posible: no
+  - Aclaracion: De los cursos listados al 23/11/2026, solo el de soldadura en San Lorenzo tenía inscripciones abiertas; los de Roldán y Sunchales figuran como finalizados.
+  - Aclaracion: No se informan requisitos ni costo en la página de listado; deben confirmarse en la ficha del curso o en el centro.
+  - Aclaracion: Los cursos cambian según la localidad y el momento.
+  - Aclaracion: Para San Lorenzo, el listado remite al Centro de Capacitación Laboral Nº 41 (Av. San Martín 864, tel. 03476-423358).
+- **Agencia de Habilidades para el Futuro (Ciudad de Buenos Aires)** (abierta o vigente, verificada 2 veces) https://buenosaires.gob.ar/educacion/agencia-de-habilidades-para-el-futuro
+  - Que es: Jóvenes y adultos. Reúne más de 670 propuestas: cursos, formación profesional, terciarios, inglés gratuito, microcredenciales y becas. Con buscador de ofertas.
+  - Requisitos: Varía por programa. Talento Tech: adolescentes y adultos, para iniciarse o perfeccionarse. SecundarT: mayores de 25 años y con empleo. Educación Profesional Secundaria: 15 a 18 años. Licenciate BA: tecnicatura terminada en institución estatal de la Ciudad. Ciudad Bilingüe: inscripción online asincrónica. La residencia no figura en lo leído.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuitos según la página: Talento Tech, Ciudad Bilingüe (inglés) y Formación Técnica Superior. Costo de los demás: sin datos. Hay becas para formación docente y técnico-profesional, sin montos ni plazos visibles.
+  - Plazo o ciclo: Portal permanente con más de 670 cursos y formaciones; la página no da ventanas de inscripción ni fechas. Cada programa tiene su propio calendario en el portal de inscripción.
+  - Como postular: https://formacionesagencia.bue.edu.ar
+  - Lectura automatica posible: No se vio API ni feed. El buscador es una aplicación web.
+  - Aclaracion: La página no da ventanas de inscripción ni fechas; cada programa tiene su propio calendario en el portal de inscripción.
+  - Aclaracion: Los requisitos varían por programa y la residencia no figura entre ellos.
+  - Aclaracion: Solo se indica gratuidad para Talento Tech, Ciudad Bilingüe y Formación Técnica Superior; el costo de los demás programas es desconocido.
+  - Aclaracion: Las becas no muestran montos ni plazos visibles.
+- **CABA - Formación Profesional (Centros de Formación Profesional, cursos, trayectos y capacitaciones laborales)** (abierta o vigente, verificada 2 veces) https://buenosaires.gob.ar/educacion/agencia-de-habilidades-para-el-futuro/formacion-profesional
+  - Que es: Personas que quieran aprender un oficio o una capacitación laboral en un Centro de Formación Profesional de la Ciudad.
+  - Requisitos: La página no indica límite de edad; los requisitos de ingreso varían por propuesta y figuran en un documento aparte (https://drive.google.com/file/d/1lrlejnSzPozbhWVxH6Waut3OHx3UDSxE/view). Documentación: comprobante de preinscripción, foto de frente y dorso del DNI (o pasaporte o residencia precaria) y título del máximo nivel educativo alcanzado. No se indica que se exija experiencia previa.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito, con validez nacional. No paga ni otorga beca según la página.
+  - Plazo o ciclo: Dos ventanas de preinscripción para el ciclo 2027: del 1 al 18 de diciembre de 2026 y del 1 al 28 de febrero de 2027. Entrega presencial de documentación: del 1 al 14 de diciembre de 2026 y del 15 al 26 de febrero de 2027. A la fecha (23/11/2026) la primera ventana todavía no abrió (abre el 1 de diciembre). La página habla de 'primer cuatrimestre 2027', no 'semestre'.
+  - Como postular: https://guarani-autogestionagencia.bue.edu.ar/
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: Al 23/11/2026 la primera ventana de preinscripción todavía no abrió (abre el 1 de diciembre).
+  - Aclaracion: Los requisitos de ingreso varían por propuesta y figuran en un documento aparte (https://drive.google.com/file/d/1lrlejnSzPozbhWVxH6Waut3OHx3UDSxE/view).
+  - Aclaracion: Tras la preinscripción hay que entregar la documentación en el CFP elegido y esperar el contacto del centro sobre la vacante.
+  - Aclaracion: Es una oferta de la Ciudad de Buenos Aires.
+- **CABA - Secundaria con Oficios (CENS con especialidad laboral)** (abierta o vigente, verificada 2 veces) https://buenosaires.gob.ar/educacion/secundaria-con-oficios
+  - Que es: Mayores de 18 años que no terminaron la educación obligatoria y quieren completar la secundaria con un oficio: Gastronomía, Electromecánica, Sistemas y Software, Construcción (gasista o sanitarios, con convenio con UOCRA).
+  - Requisitos: Ser mayor de 18 años y no haber terminado la secundaria obligatoria; primaria completa y/o secundaria incompleta. La página no lista documentación. No se exige experiencia laboral.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No se indica costo ni beca. Egreso con título de Bachiller y dos certificados de Formación Profesional.
+  - Plazo o ciclo: Abierto todo el año ('Las inscripciones están abiertas durante todo el año'). La inscripción es presencial en el CENS elegido.
+  - Como postular: https://buenosaires.gob.ar/educacion/secundaria-con-oficios
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: La inscripción es presencial en el CENS elegido.
+  - Aclaracion: La página no lista documentación a presentar.
+  - Aclaracion: Los turnos (mañana, tarde o noche) dependen de la sede.
+  - Aclaracion: Consultas: ventanilla.unica@bue.edu.ar.
+- **Registrar personal de casas particulares en ARCA: pasos y datos requeridos** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/servicio/registrar-al-personal-de-casas-particulares
+  - Que es: Hogares empleadores que quieren pasar a formal a una empleada o empleado de casas particulares; sirve a la trabajadora para saber qué debe recibir (constancia de alta, ART, obra social).
+  - Requisitos: Empleador con clave fiscal nivel 2 (https://www.argentina.gob.ar/obtener-la-clave-fiscal) y CUIL de la trabajadora. Se registra a toda trabajadora, sin importar horas semanales ni tipo de contrato.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Sin costo (trámite gratuito).
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: https://auth.afip.gob.ar/contribuyente_/login.xhtml?action=SYSTEM&system=regdomestico
+  - Lectura automatica posible: no
+  - Aclaracion: No es una vía de postulación a un empleo: el trámite lo hace el empleador, no la trabajadora.
+  - Aclaracion: Requiere clave fiscal nivel 2 del empleador y el CUIL de la trabajadora.
+  - Aclaracion: El alta puede anularse hasta las 23:59 del mismo día.
+  - Aclaracion: Incluye el pago de la primera cuota de ART y la entrega a la trabajadora de una copia firmada de la constancia de alta.
+- **Córdoba: CBA me capacita (cursos gratuitos con certificación oficial)** (se repite (hoy sin llamado abierto), verificada 1 vez) https://desarrolloyempleo.cba.gov.ar/cbamecapacita/
+  - Que es: Mayores de 16 años con domicilio en Córdoba que buscan formación sociolaboral para insertarse en el trabajo. Hay cursos presenciales (en CEDER y CIFIL) y virtuales.
+  - Requisitos: Tener domicilio en la provincia de Córdoba, ser mayor de 16 años y contar con CiDi (nivel 1 en la página general; nivel 2 para cursos virtuales) y un dispositivo con internet para los virtuales. No se pide experiencia ni título previo.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito (no paga ni cobra: es capacitación con certificado oficial).
+  - Plazo o ciclo: Oferta anual (portada: 'CBA ME CAPACITA - 2026, cursos virtuales, inscripciones abiertas'). En la página de cursos virtuales, las ventanas de inscripción dicen '02/09 al 30/10' (y 03/09 y 04/09 al 30/10) con cierre de cursada el 30/11/2026, por lo que esa ventana ya habría terminado al 2026-11-23, aunque la portada aún dice 'abiertas'. Conviene confirmar en Campus Córdoba si queda cupo; se espera nueva edición en 2027.
+  - Como postular: https://desarrolloyempleo.cba.gov.ar/cursos-virtuales
+  - Lectura automatica posible: no
+  - Aclaracion: Las certificaciones son conjuntas del Ministerio de Educación y la Universidad Nacional de Córdoba.
+  - Aclaracion: La inscripción a los cursos virtuales es 100% en línea vía CiDi y Campus Córdoba, con cupo limitado.
+  - Aclaracion: Consultas: cbamecapacitacursos@gmail.com.
+- **Córdoba Crea Futuro: becas gratuitas en habilidades digitales y tecnológicas** (se repite (hoy sin llamado abierto), verificada 2 veces) https://cordobacreafuturo.com.ar/
+  - Que es: Personas de 16 años o más residentes en Córdoba. Áreas: Inteligencia Artificial, Negocios digitales y comercio electrónico, Ciberseguridad, Diseño y Marketing digital, Codificación e integración de herramientas tecnológicas, Soporte y atención a cliente.
+  - Requisitos: Tener 16 años o más, residir en la provincia de Córdoba y contar con CIDI nivel 1. Secundario completo preferible pero no obligatorio. No exige experiencia previa según lo leído. Cupos limitados.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Capacitación gratuita; no se menciona estipendio en dinero. Cada certificado incluye dos 'Cursos Sello' gratuitos (Introducción al Marketing Digital e IA en Acción).
+  - Plazo o ciclo: Postulaciones y comienzo de clases figuran como '¡Próximamente!' al 2026-11-23, sin fecha; el programa tiene etapas sucesivas, pero no se vio fecha de la próxima apertura.
+  - Como postular: https://cordobacreafuturo.com.ar/
+  - Lectura automatica posible: no
+  - Aclaracion: Iniciativa del Gobierno de Córdoba con UPC, Aleph y Banco de Córdoba, con modalidad online, mayormente asincrónica.
+  - Aclaracion: Para postular se ingresa a CIDI, se busca el formulario 'Córdoba Crea Futuro' y se elige 'Postulación'; la confirmación llega por correo.
+  - Aclaracion: Se clasifica como recurrente por las etapas sucesivas, no por un ciclo anual confirmado.
+- **CABA - Educación Profesional Secundaria (EPS, 15 a 18 años)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://buenosaires.gob.ar/educacion/agencia-de-habilidades-para-el-futuro/educacion-profesional-secundaria-eps
+  - Que es: Jóvenes de 15 a 18 años que repitieron, estuvieron un año o más fuera de la escuela o no iniciaron la secundaria, para completarla con formación profesional.
+  - Requisitos: Tener entre 15 y 18 años; jóvenes que repitieron un año, estuvieron fuera de la escuela uno o más años o aún no empezaron la secundaria. Documentación: DNI con fotocopia, partida de nacimiento y certificado de primaria legalizado o analítico de secundaria. No se exige experiencia laboral.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No se indica costo ni beca.
+  - Plazo o ciclo: Inicio anual en marzo en la mayoría de las sedes (CFP 1, 4, 6, 7 y 10); CFP 34 y 38 inician en agosto. La página no da fechas de inscripción ni enlace de inscripción en línea. El dato de CFP 28 (abril de 2025) está desactualizado y debe confirmarse con la escuela.
+  - Como postular: mailto:coordinacion.eps@bue.edu.ar
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: La página no da fechas de inscripción ni enlace de inscripción en línea; se contacta a la coordinación (coordinacion.eps@bue.edu.ar) o directamente a la sede.
+  - Aclaracion: El inicio de marzo corresponde a la mayoría de las sedes; CFP 34 y 38 inician en agosto.
+  - Aclaracion: El dato de CFP 28 (abril de 2025) está desactualizado y debe confirmarse con la escuela.
+- **CABA - Talento Tech (cursos gratuitos de programación y tecnología)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://buenosaires.gob.ar/talentotech
+  - Que es: Dos vías: Talento Tech Teens (estudiantes de 4.º y 5.º de escuelas medias, o 5.º y 6.º de técnicas) y Talento Tech Adultos. Áreas: programación, inteligencia artificial, ciberseguridad, análisis de datos, diseño.
+  - Requisitos: Talento Tech Teens: estudiantes de los últimos años de escuelas medias de la Ciudad (4.º y 5.º año; 5.º y 6.º en técnicas). Talento Tech Adultos: mayores de 18 con título secundario, conocimientos previos de programación e inglés y aprobar una prueba de acreditación; 100 % virtual. No es una opción para quien parte de cero en programación (en la línea de adultos). Para cursos de verano, un aviso menciona residencia en CABA y/o AMBA.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Gratuito y virtual. No se indica beca ni pago.
+  - Plazo o ciclo: Ediciones periódicas a lo largo del año. En el sitio oficial de la Ciudad hay avisos de 2026 con inscripción hasta el 16 de marzo (clases desde el 23 de marzo) y otra ventana de fin de junio a agosto (según una nota de prensa, inscripción del 29 de junio al 7 de agosto, clases desde el 10 de agosto; el año de esa nota no quedó del todo claro). No se encontró una edición 2027 anunciada. La página principal no muestra fechas ni URL de los botones 'Inscribite'.
+  - Como postular: https://buenosaires.gob.ar/talentotech
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: No se encontró una edición 2027 anunciada ni ninguna convocatoria abierta al 23/11/2026; las fechas de 2026 provienen de avisos y notas oficiales, no de la página principal.
+  - Aclaracion: La vía de adultos exige conocimientos previos de programación e inglés y aprobar una prueba de acreditación, por lo que no es una opción para quienes parten de cero.
+  - Aclaracion: Un aviso de cursos de verano menciona residencia en CABA y/o AMBA.
+  - Aclaracion: El plazo de 48 horas para confirmar una vacante proviene de una fuente secundaria no verificada en la página oficial.
+- **Córdoba: Programa Primer Paso (PPP)** (sin verificar, verificada 2 veces) https://desarrolloyempleo.cba.gov.ar/ppp/
+  - Que es: Jóvenes de 16 a 25 años, desempleados, sin experiencia laboral relevante, residentes en la provincia de Córdoba. Tienen prioridad quienes viven en los 12 departamentos del Plan de Igualdad Territorial (PIT) y en departamentos del noroeste y sur-sur.
+  - Requisitos: No requiere experiencia laboral relevante: está dirigido justamente a quienes buscan su primer empleo. Tener entre 16 y 25 años, estar desempleado/a, residir en la provincia de Córdoba y contar con CiDi (Ciudadano Digital). Prioridad para residentes de los 12 departamentos del PIT y del noroeste y sur-sur.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Práctica laboral: asignación estímulo equivalente a 1 salario mínimo, vital y móvil por 20 h semanales durante 6 meses. Relación de dependencia: sueldo según convenio colectivo del rubro, pagado por la empresa.
+  - Plazo o ciclo: Edición 2026 lanzada el 10/09/2026; la página oficial no indica si la inscripción sigue abierta ni fecha de cierre. Relación de dependencia: 'el ingreso es directo hasta agotar cupo'. Práctica laboral: 'si se supera el cupo se realizará un sorteo por Lotería de Córdoba'.
+  - Como postular: https://formularioinscripcion.cba.gov.ar/fup/ciudadano
+  - Lectura automatica posible: no
+  - Aclaracion: La página oficial no declara inscripciones abiertas ni fecha de cierre; que la inscripción siga abierta solo surge de notas de prensa.
+  - Aclaracion: Cupos reservados: 25% para departamentos del Plan de Igualdad Territorial, 5% para personas con CUD y trasplantadas y 5% para personas en situación de vulnerabilidad.
+  - Aclaracion: Incluye dos capacitaciones y acceso al Boleto Obrero Social, y es compatible con Progresar y AUH.
+  - Aclaracion: Contacto: WhatsApp 351 552-1832 y teléfono 0351 4322900 (internos 2002, 2012, 2015 y 2039).
+- **CABA - SecundarT (terminar la secundaria con formación para el trabajo)** (sin verificar, verificada 2 veces) https://buenosaires.gob.ar/educacion/agencia-de-habilidades-para-el-futuro/termina-su-secundario-secundart
+  - Que es: Personas mayores de 25 años que ya trabajan en un sector productivo de la Ciudad y quieren obtener el título de bachiller. Termina con 'Bachiller con formación sectorial para el trabajo' e incluye un trayecto de formación profesional en informática para administración y gestión.
+  - Requisitos: Tener más de 25 años; primaria completa; estar empleado formalmente en un sector productivo de la Ciudad de Buenos Aires con al menos 1 año de antigüedad en ese sector; contar con PC o notebook con internet. No sirve para quien no tiene empleo formal en CABA.
+  - Sin experiencia previa: no
+  - Pago o beneficio: No se menciona costo ni beca.
+  - Plazo o ciclo: No se vio fecha de apertura ni de cierre de preinscripción vigente al 2026-11-23. El botón 'Preinscripción' remite a formacionesagencia.bue.edu.ar/secundarte/, que mostró un error al consultarlo.
+  - Como postular: https://formacionesagencia.bue.edu.ar/secundarte/
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: Exige empleo formal en un sector productivo de la Ciudad de Buenos Aires, por lo que no sirve para quienes no tienen empleo formal en CABA.
+  - Aclaracion: No se vio fecha de apertura ni de cierre de preinscripción vigente al 2026-11-23, y el portal de preinscripción devolvió un error.
+  - Aclaracion: Una nota de 2025 indica que la inscripción se mantiene activa todo el año, pero no se halló esa leyenda en la página.
+  - Aclaracion: Consultas: secundar.t@bue.edu.ar.
+- **Trabajo agrario: Ley 26.727, contratos temporarios, libreta del trabajador y registro (RENATRE/RENATEA)** (sin verificar, verificada 1 vez) https://www.argentina.gob.ar/normativa/nacional/norma-192152
+  - Que es: Personas que trabajan o quieren trabajar en cosechas y tareas rurales temporarias (vendimia, cítricos, arándanos, yerba mate, etc.) y sus empleadores.
+  - Requisitos: No aplica: es una norma, no una oferta. Establece contratos temporarios y de trabajador permanente discontinuo (arts. 17 y 18) y la libreta del trabajador rural obligatoria. Según búsqueda complementaria, el empleador debe registrar al trabajador en el RENATRE dentro de los 5 días de iniciada la relación laboral, y quien no tenga libreta (primer empleo o extravío) la gestiona en el organismo.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: No es una convocatoria. Marco legal permanente; la contratación es estacional según cultivo y provincia.
+  - Como postular: sin datos
+  - Lectura automatica posible: no
+  - Aclaracion: Es una norma, no una oferta ni un lugar donde postularse; no se confirmó un canal de empleo.
+  - Aclaracion: La URL muestra el texto original de 2011, sin estado de vigencia; hay un enlace a texto actualizado que conviene usar.
+  - Aclaracion: El nombre RENATEA quedó desactualizado: el organismo vigente es el RENATRE, cuyo sitio (renatre.org.ar) no se pudo abrir por un error de certificado.
 - **Emova (operador del subte de Buenos Aires) - Trabajá con nosotros** (abierta o vigente, verificada 2 veces) https://emova.com.ar/index.php/trabaja-con-nosotros/
   - Que es: Postulantes a cualquier área de la empresa; la página no distingue puestos de operación. El perfil que describe es genérico (compromiso, proactividad, trabajo en equipo).
   - Requisitos: La página no indica requisitos formales (ni edad, ni estudios ni experiencia). Solo describe el perfil buscado: compromiso con los valores de la empresa, proactividad, trabajo en equipo, motivación por crecer y disposición a ayudar a otros. Experiencia y estudios: sin datos.
@@ -1620,26 +2553,37 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Lectura automatica posible: sin datos
   - Aclaracion: Al 23/11/2026 el portal mostraba 3 avisos, todos presenciales y de jornada completa.
   - Aclaracion: El aviso de Repositor Paladar figura como nivel Junior; que no se exija experiencia previa debe confirmarse en el propio aviso.
-- **Banco Nación - Ingresá tu currículum (Trabajá con nosotros)** (abierta o vigente, verificada 2 veces) https://www.bna.com.ar/Institucional/IngresaTuCurriculum
-  - Que es: Personas que buscan ingresar al banco público más grande del país (atención al cliente, tareas administrativas y comerciales). El perfil que se pide es de ingreso, aunque se valora experiencia en atención al cliente.
-  - Requisitos: Nacionalidad argentina (nativa o por opción); secundario completo; se prefiere estudiantes o graduados de carreras terciarias o universitarias afines a la banca; se valoran idiomas, cursos de finanzas y experiencia comprobable en tareas administrativas, comerciales o de atención al cliente (valorada, no obligatoria).
+- **Mercado Libre - Portal de carreras (Oportunidades profesionales)** (abierta o vigente, verificada 2 veces) https://mercadolibre.eightfold.ai/careers
+  - Que es: Personas que buscan empleo en Mercado Libre y Mercado Envíos. El portal tiene filtros por nivel (Intern, Entry, Mid/Senior), modalidad (presencial, híbrido, remoto) y ubicación. Una nota de prensa de febrero de 2025 (iProfesional) informó una búsqueda sin experiencia de Representante de Envíos en el centro de distribución de La Matanza, aviso de esa fecha y no verificado como vigente.
+  - Requisitos: Sin requisitos generales publicados; cada aviso define su perfil. El filtro de seniority incluye niveles Intern y Entry, por lo que existen búsquedas sin experiencia, pero no se vio un aviso concreto. Para postularse: registrarse o ingresar con Google o correo, CV opcional (.doc, .docx o .pdf), campo de LinkedIn y verificación reCAPTCHA. No se permite más de una postulación activa al mismo aviso.
+  - Sin experiencia previa: si
   - Pago o beneficio: sin datos
-  - Plazo o ciclo: Sin fechas de apertura ni cierre; carga de CV continua sin plazo indicado y sin vacantes listadas.
-  - Como postular: https://www.bna.com.ar/Institucional/IngresaTuCurriculum (enlace 'Cargá tu CV acá'). Consultas: Centro de Atención al Cliente 0810-666-4444
-  - Lectura automatica posible: none seen
-  - Aclaracion: La página oficial no confirma que la carga de CV esté abierta todo el año ni fija fechas.
-  - Aclaracion: Las búsquedas activas se remiten al perfil de LinkedIn del banco y la página no lista vacantes.
-  - Aclaracion: Quienes sean extranjeros sin nacionalidad argentina o no tengan secundario completo no cumplen los requisitos.
-- **Atento Argentina - Trabajá con nosotros** (abierta o vigente, verificada 2 veces) https://atento.com/es/trabaja-con-nosotros-argentina/
-  - Que es: Personas que buscan trabajo en un centro de contacto. Puestos de la página: asesores de ventas (con comisión por venta), de atención al cliente, de soporte técnico y bilingües inglés/portugués.
-  - Requisitos: No figuran en la página; no se indica experiencia, edad ni estudios.
-  - Pago o beneficio: Comisiones por venta en el puesto de Asesor de Ventas; el resto, sin datos
-  - Plazo o ciclo: Abierto: cuatro puestos publicados sin fecha de cierre (no se vio fecha de publicación en la página)
-  - Como postular: https://atento.com/es/trabaja-con-nosotros-argentina/ (botón 'Unite' de cada puesto, que lleva a un Microsoft Forms)
-  - Lectura automatica posible: none seen
-  - Aclaracion: La fecha de publicación de los cuatro puestos no figura en la página.
-  - Aclaracion: Todos los puestos se postulan con el mismo formulario.
-  - Aclaracion: Los requisitos deben confirmarse en el formulario.
+  - Plazo o ciclo: Abierto todo el año (postulación continua según búsquedas vigentes; también hay red de talentos)
+  - Como postular: https://mercadolibre.eightfold.ai/careers
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: La página carga los avisos dinámicamente: no se vieron avisos ni cantidad, ni se confirmaron avisos para Argentina o pasantías puntuales.
+  - Aclaracion: El listado vigente debe consultarse en la propia página.
+  - Aclaracion: Hay un enlace para unirse a la red de talentos.
+- **Cencosud Argentina - Portal de empleos (Jumbo, Disco, Vea, Easy)** (abierta o vigente, verificada 1 vez) http://empleos.cencosud.com/index_lang_Es.html
+  - Que es: Personas que buscan trabajo en las cadenas del grupo en Argentina: supermercados (Jumbo, Vea, Disco), mejoramiento del hogar (Easy, Blaisten) y centros comerciales.
+  - Requisitos: Sin requisitos generales: cada aviso tiene su perfil. Etapas de selección publicadas: revisión del CV, llamado telefónico, entrevistas (técnica, psicológica y por competencias, y una final), decisión de comité, oferta y cierre a todos los candidatos. Notas periodísticas indican que también se puede dejar el CV sin aplicar a un aviso concreto.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (portal de postulación continua; sin fechas de convocatoria)
+  - Como postular: https://cencosud.csod.com/ux/ats/careersite/16/home?c=cencosud
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal enlaza a sitios por país en csod.com (Argentina, Brasil, Chile, Colombia y Perú), a un sitio de Brasil en Gupy y a un portal separado de pasantías.
+  - Aclaracion: No se pudo identificar con certeza cuál identificador de csod corresponde a Argentina.
+  - Aclaracion: No se vio una lista de avisos.
+- **Brink's - Portal de carreras (transporte de caudales y seguridad; filtro por país)** (abierta o vigente, verificada 2 veces) https://brinks-careers.com/es/
+  - Que es: Personas interesadas en operaciones de caudales (por ejemplo guarda armado, chofer, mensajero) y servicios de seguridad (vigilador, despachador). Argentina figura en el filtro de países; el enlace a este portal sale del sitio ar.brinks.com ('Trabaja en Brink's').
+  - Requisitos: Según la página oficial 'Cómo contratamos': muchos puestos no requieren experiencia previa en seguridad, logística o gestión de efectivo; se busca confiabilidad, integridad, atención al cliente, conciencia de seguridad y ganas de aprender. Algunos puestos exigen licencia de seguridad, certificaciones o experiencia, según el aviso. Puede pedirse verificación de antecedentes. Para Argentina se debe crear un perfil de candidato y completar la postulación en línea (el asistente Bria solo rige en otros países).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (avisos vigentes sin fecha de cierre; 442 avisos globales al consultar)
+  - Como postular: https://brinks-careers.com/jobs/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La lista general mostró 7 avisos en Argentina: Técnico de Seguridad Electrónica (Córdoba), Ejecutivo/a de Cuentas y Analista de Precios (CABA), Key Account Manager (CABA), ARG-70110 Vigilador General (Mar del Plata), y Analistas de Seguridad Técnica (Caleta Olivia y Río Gallegos); había más resultados sin cargar.
+  - Aclaracion: El filtro por país del enlace no se aplicó, por lo que la lista de Argentina debe filtrarse en la propia página.
+  - Aclaracion: No se vio aviso de conductor de caudales en Argentina.
 - **Tecpetrol - Carreras (operarios y técnicos, jóvenes profesionales, prácticas)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.tecpetrol.com/es/carreras
   - Que es: Operarios y técnicos con secundario y/o formación técnica; estudiantes avanzados y recién graduados para prácticas y el programa Jóvenes Profesionales.
   - Requisitos: Operarios y técnicos: secundario y/o técnico, sin experiencia exigida en la página. Prácticas de verano: más del 70% de la carrera, 20 o 40 hs semanales, disponibilidad para viajar a otras sedes. Prácticas ordinarias: más del 50% de la carrera. Jóvenes Profesionales: carrera por terminar (2 finales o tesis) o recién recibido, menos de 2 años de experiencia, disponibilidad para rotar, inglés. Profesionales: título universitario y más de 3 años de experiencia. Selección: CV, tests online, evaluación grupal, test de inglés, entrevistas, psicotécnico y examen médico (operarios y profesionales: CV, entrevistas, psicotécnico y médico).
@@ -1672,25 +2616,35 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Aclaracion: Los avisos no se cargaron, por lo que no se pudo confirmar ninguna vacante en Argentina ni el filtro por país.
   - Aclaracion: No puede afirmarse que haya avisos argentinos al 23/11/2026.
   - Aclaracion: La página de carreras incluye un aviso contra fraudes de reclutamiento.
-- **Teleperformance (TP) Argentina - Carreras** (sin verificar, verificada 1 vez) https://www.tp.com/es-ar/ubicaciones/argentina/carreras/
-  - Que es: Personas que buscan trabajo en un centro de contacto (atención al cliente y servicios de interacción). TP informa más de 6000 colaboradores en el país, con operaciones en Buenos Aires, Tucumán y Chaco, y una opción de trabajo desde casa.
-  - Requisitos: sin datos
-  - Pago o beneficio: sin datos
-  - Plazo o ciclo: sin datos (la página tiene buscador con filtros pero no mostró ningún aviso)
-  - Como postular: https://www.tp.com/es-ar/ubicaciones/argentina/carreras/ (usar los filtros de país y ubicación); listado global en https://www.tp.com/careers/job-opportunities/
-  - Lectura automatica posible: none seen
-  - Aclaracion: No se vio ningún aviso, requisito ni fecha, por lo que no se confirma contratación continua.
-  - Aclaracion: El portal enlaza a /careers/work-from-home-opportunity/ y /careers/choose-tp/.
-  - Aclaracion: Queda como ruta de referencia para atención al cliente, sin vacantes confirmadas.
 - **Concentrix - Portal de empleos (filtro Argentina)** (sin verificar, verificada 1 vez) https://jobs.concentrix.com/es/job-search/
   - Que es: Personas que buscan trabajo en un centro de contacto o de servicios al cliente. Argentina figura como país en el filtro de ubicación.
   - Requisitos: sin datos
   - Pago o beneficio: sin datos
   - Plazo o ciclo: sin datos
   - Como postular: https://jobs.concentrix.com/es/job-search/ (filtrar por país Argentina)
-  - Lectura automatica posible: none seen
+  - Lectura automatica posible: ninguna vista
   - Aclaracion: El listado no cargó ni con filtro de país (0 empleos disponibles, contenido renderizado con JavaScript), por lo que no se puede afirmar que haya avisos abiertos en Argentina.
   - Aclaracion: Queda como ruta posible, sin vacantes confirmadas.
+- **Cencosud Argentina - Pasantías** (sin verificar, verificada 1 vez) https://cencosud.csod.com/ux/ats/careersite/16/home?c=cencosud
+  - Que es: Estudiantes y personas en inicio de carrera interesadas en pasantías en las empresas del grupo en Argentina.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://cencosud.csod.com/ux/ats/careersite/16/home?c=cencosud
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: La página es una aplicación que carga su contenido dinámicamente y no mostró ningún aviso ni texto.
+  - Aclaracion: No se pudo confirmar que este sitio sea el de pasantías ni el de Argentina.
+  - Aclaracion: No se halló una convocatoria de pasantías 2026; solo apareció una nota de 2022.
+- **Rappi - Empleos corporativos (Workday)** (sin verificar, verificada 1 vez) https://rappi.wd12.myworkdayjobs.com/es/Rappi_jobs
+  - Que es: Personas que buscan empleo en relación de dependencia en las oficinas y operaciones de Rappi (no el reparto independiente). El enlace figura como 'Trabaja con nosotros' en el sitio de Rappi Argentina.
+  - Requisitos: sin datos; cada aviso define su perfil. Los avisos vistos son de operaciones (Picker, Store Lead, Brigadista) y una pasantía (Intern) en Bogotá.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (tablero activo con 47 avisos al 2026-11-23, ninguno visto en Argentina)
+  - Como postular: https://rappi.wd12.myworkdayjobs.com/es/Rappi_jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los avisos leídos eran de Perú (Lima, Arequipa), Brasil (São Paulo) y Colombia (Bogotá); una búsqueda de 'Argentina' dio 0 resultados.
+  - Aclaracion: Un aviso no tenía ubicación legible y no se inspeccionó.
+  - Aclaracion: Al 23/11/2026 no sirve como ruta para Argentina, aunque no se descarta que publique allí más adelante.
 - **SOMU - La Escuela (cursos marítimos y de pesca, STCW)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://somu.org.ar/la-escuela/
   - Que es: Trabajadores marítimos y de pesca; personas que quieren formarse para embarcarse.
   - Requisitos: No figuran en la página (ni edad, ni documentos, ni experiencia). Consultar a la escuela.
@@ -1701,39 +2655,70 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Aclaracion: Se trata de formación y no de un empleo.
   - Aclaracion: La información visible del segundo trimestre de 2026 ya está vencida; la vigencia de cada curso debe confirmarse con la escuela.
   - Aclaracion: Hay avisos de cambio de fechas sin detalle.
+- **Potrero Digital - Formación digital gratuita (Fundación Compromiso)** (sin verificar, verificada 2 veces) https://www.potrerodigital.org
+  - Que es: Personas con barreras socioeconómicas que buscan trabajo o ingresos con habilidades digitales. Cursos 100% virtuales: marketing digital, programación web, soluciones en la nube, comercio electrónico, soporte informático, competencias digitales y emprendimiento.
+  - Requisitos: Tener 16 años o más antes del inicio (sin máximo). Saber usar computadora e internet (por ejemplo, manejar archivos en Drive). Contar con computadora con internet. Querer generar ingresos con las habilidades. No tener recursos para otras opciones de formación. Sin requisito formal de estudios. Dedicación de 9 a 12 horas semanales, por la tarde y la noche. No exige experiencia laboral.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito para el alumno; las becas se otorgan después del proceso de admisión. No hay pago al estudiante.
+  - Plazo o ciclo: La portada no informa fechas, cupos ni si las inscripciones están abiertas o cerradas; solo ofrece el formulario de postulación.
+  - Como postular: https://www.potrerodigital.org
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: La portada no informa fechas, cupos ni si las inscripciones están abiertas; se clasificó como abierta por ser de inscripción continua, sin una ventana con fecha a la vista.
+  - Aclaracion: Las becas se otorgan después del proceso de admisión, que incluye formulario, ejercicios de habilidades y entrevista personal si se preselecciona.
+  - Aclaracion: Se pide no tener recursos para otras opciones de formación, además de computadora con internet.
+  - Aclaracion: Los datos de cuatrimestre, zona y cupos no se confirman en la portada.
+- **Fundación Cimientos - Futuros Egresados (acompañamiento y beca para terminar la secundaria)** (sin verificar, verificada 1 vez) https://www.cimientos.org/futuros-egresados/
+  - Que es: Jóvenes de 12 a 18 años en situación de vulnerabilidad social que quieren terminar la secundaria. Reciben beca económica mensual y tutoría personalizada con foco en habilidades socioemocionales.
+  - Requisitos: Jóvenes de 12 a 18 años en situación de vulnerabilidad social. No se listan otros requisitos. No es una oferta de empleo: apoya terminar la secundaria.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Beca económica mensual y tutoría personalizada (monto: sin datos).
+  - Plazo o ciclo: sin datos. La página no describe proceso de postulación, fechas ni plazos.
+  - Como postular: https://www.cimientos.org/futuros-egresados/
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: No es una oferta de empleo: apoya terminar la secundaria.
+  - Aclaracion: No se encontró forma de postularse directamente; la única vía visible es escribir a info@cimientos.org.
+  - Aclaracion: La sección 'Quiero Sumarme' está dirigida a padrinos, donantes y empresas, no a postulantes.
+  - Aclaracion: Es probable que el acceso sea a través de escuelas asociadas, aunque no está confirmado.
+- **Fundación Cimientos - Red de Egresados (empleo formal y formación)** (sin verificar, verificada 1 vez) https://www.cimientos.org/red-de-egresados/
+  - Que es: Jóvenes que participaron en programas de Cimientos, en su mayoría egresados de la secundaria con apoyo de la fundación. La red articula con empresas, instituciones de educación superior, organizaciones sociales y el Estado para ofrecer capacitación y oportunidades laborales.
+  - Requisitos: Dirigida a jóvenes que participaron en programas de Cimientos, en su mayoría egresados de la secundaria con apoyo de la fundación. La página no lista requisitos formales. No es de acceso abierto al público general.
+  - Pago o beneficio: sin datos. Es una red de articulación con empresas, instituciones de educación superior y organizaciones; no se indica sueldo ni beca.
+  - Plazo o ciclo: sin datos. No hay fechas ni proceso de inscripción en la página.
+  - Como postular: https://egresados.cimientos.org
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: No es de acceso abierto al público general: está dirigida a jóvenes que participaron en programas de Cimientos.
+  - Aclaracion: No se pudo confirmar ninguna oferta laboral concreta ni la forma de unirse.
+  - Aclaracion: Contacto: info@cimientos.org.
+- **ATE - Escuela de Formación Sindical Libertario Ferrari (campus virtual)** (sin verificar, verificada 1 vez) https://campus.escuelasindicalate.org/
+  - Que es: Campus con 18 cursos y un sistema de preinscripción; orientado a formación sindical y de trabajadores del Estado. No se vieron nombres de cursos.
+  - Requisitos: sin datos. La portada no menciona afiliación ni otros requisitos.
+  - Pago o beneficio: sin datos. No se informa costo.
+  - Plazo o ciclo: sin datos. No se vieron fechas; el campus figura activo con 18 cursos.
+  - Como postular: https://campus.escuelasindicalate.org/
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: Es formación sindical, no una oferta de empleo.
+  - Aclaracion: Los alumnos nuevos son derivados a un registro externo (registro.escuelasindicalate.org) que presenta un error de certificado SSL y no se pudo cargar.
+  - Aclaracion: La portada no detalla cuáles son los 18 cursos.
+  - Aclaracion: Contacto: Secretaría de Formación de ATE, tel. +54 11 4122 5700 int. 261, escuelasindicalate@gmail.com.
+- **Potrero Empleos - Bolsa de empleo para perfiles digitales** (sin verificar, verificada 1 vez) https://empleos.potrerodigital.org/
+  - Que es: Egresados de Potrero Digital y empresas que buscan perfiles IT y digitales; incluye acompañamiento en las primeras experiencias laborales, simulacros de entrevista y mentorías de empresas. También hay una feria virtual Talento IT.
+  - Requisitos: No consta. El sitio declara que busca impulsar el ingreso laboral de los egresados de Potrero Digital, por lo que podría estar orientada a egresados; no se pudo confirmar si admite a otras personas. La ruta /postulate devolvió 404.
+  - Pago o beneficio: sin datos.
+  - Plazo o ciclo: Se vio la portada, pero no cómo registrarse ni avisos publicados. Se carga como continuo, sin confirmar. La feria virtual (https://www.potrerodigital.org/talentoit) no se verificó; fechas sin datos.
+  - Como postular: https://empleos.potrerodigital.org/
+  - Lectura automatica posible: No se vio API ni feed.
+  - Aclaracion: Parece orientada a egresados de Potrero Digital; no se pudo confirmar si admite a otras personas.
+  - Aclaracion: La feria virtual Talento IT no fue verificada y no tiene fechas.
 - **Vía Cargo - Sumate a la red (agencias)** (abierta o vigente, verificada 2 veces) https://viacargo.com.ar/sumate-a-la-red/
   - Que es: Personas o comercios que quieren abrir una agencia de encomiendas de la red. No es un empleo en relación de dependencia: es una vía de emprendimiento para sumarse como punto de la red (la empresa dice tener más de 500 puntos de venta).
   - Requisitos: No hay requisitos formales publicados. Apunta a pymes, comercios, distribuidores y vendedores de e-commerce con entrega a domicilio. Hay que tener un negocio o local. Se pide nombre completo, ciudad, email y mensaje en el formulario, y hay un contacto por WhatsApp.
   - Pago o beneficio: sin datos. Es un modelo de agencia, no un sueldo.
   - Plazo o ciclo: Abierto todo el año; la página no informa fecha de cierre.
   - Como postular: https://viacargo.com.ar/sumate-a-la-red/
-  - Lectura automatica posible: none seen
+  - Lectura automatica posible: ninguna vista
   - Aclaracion: No es un empleo en relación de dependencia sino un modelo de agencia propia.
   - Aclaracion: No se informan condiciones comerciales ni inversión.
   - Aclaracion: La página advierte sobre estafas y pide usar solo los canales oficiales.
-- **Monotributo Social (inscripción, requisitos y beneficios)** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/monotributo-social
-  - Que es: Trabajadores independientes en situación de vulnerabilidad, emprendedores de la economía social, titulares de programas sociales y pequeños productores. Es la vía principal para pasar de la actividad informal a una actividad registrada (puede emitir facturas).
-  - Requisitos: 18 años o más. Argentino nativo, naturalizado o por opción, o extranjero con residencia permanente o temporaria. Situación de vulnerabilidad social. Desarrollar o querer iniciar un emprendimiento. Una sola actividad económica independiente incluida en el nomenclador de ARCA. Ingresos solo de esa actividad, con excepciones como programas sociales, AUH, pensiones no contributivas, jubilaciones o trabajo en relación de dependencia por debajo del haber previsional mínimo. Hasta 2 inmuebles y hasta 3 bienes muebles registrables. No se pide experiencia.
-  - Sin experiencia previa: si
-  - Pago o beneficio: No es un empleo. La inscripción es gratuita; se paga solo el 50% del aporte a la obra social, y el Ministerio subsidia el otro 50%. Cubre aporte jubilatorio y obra social del titular y su familia, con exención de impuestos y componente previsional. Límite anual de facturación ligado a la categoría A del Monotributo.
-  - Plazo o ciclo: Abierto todo el año; la página no informa fechas ni plazos. Los metadatos mencionan un reempadronamiento sin detalle.
-  - Como postular: https://www.argentina.gob.ar/monotributo-social
-  - Lectura automatica posible: none (páginas HTML)
-  - Aclaracion: No pueden inscribirse profesionales universitarios que facturen honorarios por asesoramiento técnico, científico o pericial, empleadores, ni quienes tributen Bienes Personales o Ganancias.
-  - Aclaracion: La inscripción es en línea, por el servicio '¿Cómo adherirme al Monotributo Social?'.
-  - Aclaracion: El beneficio incluye exención de IVA y Ganancias, cobertura de salud y previsional para el titular y su familia, posibilidad de facturar y acceso al Portal Empleo.
-  - Aclaracion: Conviene confirmar el reempadronamiento en las preguntas frecuentes del sitio.
-- **INAES - Cómo constituir una cooperativa de trabajo** (abierta o vigente, verificada 2 veces) https://www.argentina.gob.ar/inaes/constitucion-de-cooperativas
-  - Que es: Grupos de personas que quieren formar una cooperativa de trabajo para generar su propio empleo registrado.
-  - Requisitos: Un grupo de personas que formen la cooperativa. Cada asociado tiene un CUIT. Capital inicial por asociado, con el salario mínimo como referencia histórica. Objeto social elegido de la lista del INAES. Auditoría externa de un contador público según la Ley 20.337. No se pide experiencia previa.
-  - Pago o beneficio: No es un empleo ni una ayuda. El trámite no tiene aranceles; los asociados cobran lo que genere la cooperativa.
-  - Plazo o ciclo: Trámite abierto todo el año, sin fechas de cierre.
-  - Como postular: https://www.argentina.gob.ar/inaes/constitucion-de-cooperativas
-  - Lectura automatica posible: none
-  - Aclaracion: La página no confirma de forma explícita que el trámite esté abierto todo el año.
-  - Aclaracion: Se inicia por Trámites a Distancia (TAD) o en mesa de entradas, y el trámite ya no tiene aranceles.
-  - Aclaracion: Los aportes de capital, la auditoría externa y la contabilidad son costos aparte.
-  - Aclaracion: La página no indica un mínimo de asociados.
 - **Provincia de Buenos Aires - Programa ALAS (autoempleo y economía popular)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.trabajo.gba.gov.ar/programas-provinciales/alas
   - Que es: Cuentapropistas, emprendedores individuales y asociaciones familiares de la economía social y popular que quieren formalizar su actividad.
   - Requisitos: Trabajadores autónomos y pequeños emprendedores familiares o de economía social con ingresos anuales de 2024 de hasta $14.245.230 y bienes de uso de hasta $23.757.050. Alta: copia de DNI (frente y dorso), constancia de opción de AFIP, comprobante de pago de AFIP, comprobante de domicilio si difiere del DNI y constancia de inscripción en ARBA si ya la tiene. Renovación: constancia de opción de AFIP y constancia de ARBA. No exige experiencia ni título.
@@ -1768,6 +2753,17 @@ Verificado el 2026-11-23. Cada fuente se reviso contra su pagina oficial; las ab
   - Aclaracion: La página no aclara si las fechas de los avisos son de publicación o de cierre, y los totales que muestra no cuadran del todo.
   - Aclaracion: El proceso de postulación no se describe: hay que abrir cada aviso.
   - Aclaracion: El contacto general (info@caem.com.ar y WhatsApp +54 911 3113-1957) no se indica como canal de postulaciones.
+- **INYM: corresponsabilidad gremial y registros de la cosecha de yerba mate** (sin verificar, verificada 1 vez) https://inym.org.ar/corresponsabilidad-gremial.html
+  - Que es: Trabajadores de la cosecha de yerba mate (tareferos) y productores de Misiones y Corrientes.
+  - Requisitos: sin datos. La página no explica registros ni requisitos para trabajadores o contratistas.
+  - Pago o beneficio: No es un salario. Tarifas de corresponsabilidad gremial por kg desde 1/6/2026: hoja verde sustitutiva $44,09; equivalente hoja verde de yerba canchada $121,30; secado de canchada $8,55; canchada sustitutiva total $129,86 (valores en pesos tal como figuran en la página).
+  - Plazo o ciclo: No hay convocatoria ni plazos de inscripción en la página. Valores de tarifa vigentes desde el 1 de junio de 2026; la cosecha de yerba mate es anual (Misiones y Corrientes).
+  - Como postular: sin datos
+  - Lectura automatica posible: no
+  - Aclaracion: No es una bolsa de empleo ni un lugar donde postularse a la cosecha.
+  - Aclaracion: Las tarifas indicadas son de corresponsabilidad gremial, no un salario, y rigen desde el 1/6/2026.
+  - Aclaracion: La página no explica registros ni requisitos para trabajadores o contratistas.
+  - Aclaracion: Consultas: INYM, Rivadavia 1515, Posadas, lunes a viernes de 7 a 12 (horario temporal).
 
 ## Cerradas, no elegibles o inaccesibles
 
@@ -1793,6 +2789,18 @@ Se dejan listadas para no volver a investigarlas.
   - Plazo o ciclo: sin datos
   - Aclaracion: El portal no cargó, y tampoco empleos.telecom.com.ar, el dominio que mencionan las notas de prensa.
   - Aclaracion: La información encontrada en la web corresponde a notas de 2022 a 2023 y a un aviso de Bumeran para técnicos instaladores en La Plata, que no pudo leerse.
+- **Cursos de formación profesional gratuitos (Buscador de Cursos de Portal Empleo)** (no cargo) https://formando.capitalhumano.gob.ar/
+  - Plazo o ciclo: No verificable: la página devolvió HTTP 500 en dos intentos.
+  - Aclaracion: La URL falló dos veces con error 500 del servidor.
+  - Aclaracion: No se pudo confirmar el buscador, la oferta de cursos ni su gratuidad.
+- **Cancillería Argentina: Programas de Vacaciones y Trabajo (listado de convenios, 19 países)** (no elegible) https://www.cancilleria.gob.ar/es/servicios/programas-de-vacaciones-y-trabajo/argentinos
+  - Plazo o ciclo: Anual por convenio, sin fechas de apertura publicadas en la página. Listado de 19 convenios 'hasta enero de 2026'
+  - Aclaracion: La URL de origen corresponde a la sección para extranjeros: describe la visa que Argentina otorga a ciudadanos de otros países, y no sirve para quienes residen en Argentina y buscan trabajar afuera.
+  - Aclaracion: La página para argentinos solo indica consultar a la embajada del país de destino.
+- **International Experience Canada (Canadá): Argentina no figura** (no elegible) https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec.html
+  - Plazo o ciclo: Anual. La página dice que los grupos de postulantes de la temporada 2026 están cerrados y que se reabrirán para 2027, sin fecha informada.
+  - Aclaracion: Según la página, quienes tienen solo pasaporte argentino quedan excluidos de este programa.
+  - Aclaracion: Quienes tengan otra ciudadanía (por ejemplo una europea) deberían revisar la elegibilidad según esa nacionalidad.
 - **Escuela de Oficio para personal de estaciones de servicio (CESGAR + Universidad Nacional de Rosario)** (cerrada) https://cecha.org.ar/site/index.php/2025/09/05/se-oficializo-el-convenio-para-profesionalizar-a-futuros-empleados-de-estaciones-de-servicio/
   - Plazo o ciclo: Sin edición 2026 vista. La nota del 05/09/2025 anunciaba una segunda edición para noviembre de 2025; no hay confirmación de que se repita
   - Aclaracion: Es un curso de 18 horas en tres semanas (lunes y miércoles, presencial en aulas de la UNR) con certificación de la UNR.
@@ -1817,4 +2825,8 @@ Se dejan listadas para no volver a investigarlas.
   - Plazo o ciclo: Sin vacantes abiertas al 2026-11-23. No se vio ciclo anual.
   - Aclaracion: Al 23/11/2026 el portal mostraba 'No hay vacantes abiertas en este momento', por lo que no hay dónde postularse.
   - Aclaracion: No hay evidencia de un ciclo fijo de búsquedas.
+- **Cancillería Argentina: boletín 'Programa de Vacaciones y Trabajo' (2018)** (cerrada) https://www.cancilleria.gob.ar/es/servicios/programas-de-vacaciones-y-trabajo/argentinos
+  - Plazo o ciclo: No aplica: boletín de octubre de 2018, desactualizado
+  - Aclaracion: Es un boletín de octubre de 2018, desactualizado: menciona 11 convenios, mientras el listado oficial al 23/11/2026 muestra 19.
+  - Aclaracion: Los requisitos que menciona (solvencia económica, reservas de hotel para los primeros días, certificado de antecedentes penales) están dirigidos a solicitantes extranjeros que contactan una representación argentina en su país.
 

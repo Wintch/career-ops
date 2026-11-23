@@ -25,7 +25,8 @@
     "Los requisitos completos figuran en el sitio del Palais de Glace.",
     "La prórroga del plazo de inscripción al 28/06 no está confirmada.",
     "Las consultas se atienden por WhatsApp al +54 9 11 3910-1010, escribiendo 'Palais de Glace'."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -51,7 +52,8 @@
     "Está orientado a obras con nuevas tecnologías y no a pintura tradicional.",
     "En música solo califica una obra sonora electrónica o generativa.",
     "La muestra de las obras seleccionadas será en Palacio Libertad, con fecha por confirmar."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -76,7 +78,8 @@
     "El requisito de título en artes visuales o afín puede cubrirse con formación equivalente idónea, que debe evaluar quien postula.",
     "La página oficial no indica que el premio sea bienal, por lo que ese dato no está verificado.",
     "Es el premio de pintura mejor dotado entre los relevados."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -101,7 +104,8 @@
     "Resulta útil solo para quien consigue una invitación a una feria o festival.",
     "No se confirma que los llamados se repitan en 2027.",
     "El listado oficial de becas (https://www.argentina.gob.ar/cultura/fna/becas) muestra Creación y Formación solo hasta 2024, por lo que no todo el programa de becas del FNA es anual."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -126,7 +130,8 @@
     "La postulación se hace en 'Inscripciones' de la plataforma app.fnartes.gob.ar, donde también está el simulador de préstamos.",
     "El ajuste UVA sigue la inflación, por lo que el costo real depende de ella.",
     "Exige ingresos y garante, lo que puede ser una barrera."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -150,7 +155,8 @@
    "caveats": [
     "La postulación se hace en 'Inscripciones' de app.fnartes.gob.ar.",
     "El listado de préstamos (https://www.argentina.gob.ar/cultura/fna/prestamos) muestra otros dos abiertos: Industrias Culturales 2026 y Salas Teatrales FNA/INT 2026."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -175,7 +181,8 @@
     "Los 10 llamados de la primera página del listado figuran como 'convocatoria cerrada'.",
     "El listado tiene una segunda página que no pudo leerse, por lo que puede estar incompleto.",
     "Creación y Formación tuvieron edición anual entre 2021 y 2024 y no se vio repetición posterior, por lo que la periodicidad actual es desconocida."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -200,7 +207,8 @@
     "Está dirigido a curadores, no a pintores ni a músicos.",
     "Un pintor podría participar solo como artista cuyas obras incluye un curador.",
     "Ya hay ganadores publicados y no hay evidencia de que se repita."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -225,7 +233,8 @@
     "La página oficial es argentina.gob.ar/cultura/convocatorias/16549; recursosculturales.com es un sitio de terceros que solo repite la información.",
     "Las bases completas están en un PDF enlazado desde la página.",
     "La repetición en 2027 no está confirmada; en ese caso la apertura caería hacia diciembre, según una inferencia no verificada."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -249,7 +258,8 @@
    "caveats": [
     "Está dirigido a entidades sin fines de lucro, no a artistas individuales; una persona solo podría acceder si integra una entidad o la crea.",
     "Los requisitos específicos de cada llamado figuran en sus páginas individuales."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -275,7 +285,8 @@
     "Lo cargado en el registro se toma como declaración jurada.",
     "Varias convocatorias exigen estar inscripto, entre ellas Festivales Argentinos, Cultura y Raíces Afro y Gestionar Futuro.",
     "El sitio devuelve HTTP 403 a consultas automáticas, por lo que su estado actual en 2026 no está confirmado y conviene abrirlo desde un navegador."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -301,7 +312,8 @@
     "Las líneas INT 2026 podrían servir a músicos o artistas escénicos, pero la página no especifica quién puede postular en producción de obra; hay que revisar las bases de cada llamado.",
     "Una convocatoria de composición musical joven estuvo abierta hasta el 19/7/2026 y ya venció.",
     "No hay evidencia de un Salón Nacional en este listado."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -326,7 +338,8 @@
     "Está dirigido a organizaciones comunitarias, no a artistas individuales.",
     "No hay llamado visible ni ciclo anual comprobado.",
     "Los requisitos exactos de 2023 no fueron verificados en detalle."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -351,7 +364,8 @@
     "La página no dice expresamente que el registro esté abierto todo el año, pero describe un trámite en línea sin plazo.",
     "El enlace exacto de inscripción no figura en esa página; el panel de músicos aparece en la página de la convocatoria 2026.",
     "Contacto: registros@inamu.musica.ar."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -377,7 +391,8 @@
     "Las ediciones previas (2022, 2023 y 2025) no fueron reverificadas.",
     "Quien resulte beneficiario en 2026 queda excluido de 2027 por la regla de no repetir.",
     "Consultas: convocatorias@inamu.musica.ar, (011) 2150-3865; se recomienda leer las bases completas antes de postular."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -402,7 +417,8 @@
     "No se confirma que se repita en 2027.",
     "La afirmación de llamados semestrales no figura en la página.",
     "Consultas: convocatorias@inamu.musica.ar."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -428,7 +444,8 @@
     "Las fechas exactas del 15/06 al 1/10/2026 no pudieron verificarse.",
     "No se confirmó que Argentina figure en la lista de países miembros, aunque la página argentina indica que la Secretaría y el INAMU promueven la participación de artistas, gestores y productores argentinos.",
     "Los resultados 2026 están en la sección Seleccionados 2026 del sitio."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -454,7 +471,8 @@
     "La página de becas mostraba solo la primera de dos páginas, por lo que el listado puede estar incompleto.",
     "La página no muestra un calendario anual; cada llamado se publica por separado.",
     "Contacto: fnartes@fnartes.gob.ar, (011) 3986-7500."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -479,7 +497,8 @@
     "La ventana de inscripción oficial es del 5/03 al 4/08/2026; el dato 19/05 al 1/07 de una fuente secundaria no coincide con la ficha oficial.",
     "La ficha no dice expresamente que sea anual, solo 'segundo año consecutivo'.",
     "La ficha no describe el proceso de inscripción y remite a la nota de prensa."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -505,7 +524,8 @@
     "Los concursos de 2023 mencionados en otra fuente no aparecen en esa página y no fueron confirmados.",
     "Al 23/11/2026 el listado general de convocatorias de Cultura no mostraba ningún llamado de elencos estables.",
     "Para enterarse de llamados futuros, ver el correo concursos.onma@gmail.com y el listado de convocatorias de argentina.gob.ar/cultura."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -530,7 +550,8 @@
     "El nombre oficial en la ficha es 'Orquesta Sinfónica Juvenil Nacional Libertador San Martín' (SJNLSM).",
     "La ficha corresponde a la temporada 2025, no a 2026.",
     "El ciclo anual, con inscripción de fines de enero a febrero, se infiere de fichas de años distintos y la falta de un llamado 2026 visible resta certeza."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -555,7 +576,8 @@
     "El llamado visible es de noviembre de 2025, no de 2026.",
     "Según una búsqueda web fue la tercera convocatoria (el programa nació en 2021) y el jurado se formalizó en enero de 2026, lo que sugiere un ritmo irregular y no una repetición anual comprobada.",
     "Solo sirve a integrantes de orquestas infantiles o juveniles públicas."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -581,7 +603,8 @@
     "La página no menciona el costo, por lo que conviene confirmarlo con el INAMU.",
     "La página no indica si el servicio es permanente para registrados; solo describe la convocatoria puntual.",
     "Contacto: info@inamu.musica.ar; las nuevas convocatorias se ven en la sección de eventos del panel de músicos."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -606,7 +629,8 @@
     "Es un beneficio, no una fuente de ingresos.",
     "Los descuentos dependen de convenios con comercios (por ejemplo Casa Núñez, Sambys y Cafim) y la ficha no indica fecha de vigencia.",
     "El enlace de la oferta lleva 'cafim2024', lo que sugiere una campaña de 2024; conviene confirmar con el INAMU que el descuento siga vigente."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -631,7 +655,8 @@
     "Es un beneficio, no un llamado a proyectos, y solo sirve a músicos.",
     "Empresas adheridas: Flecha Bus, Rápido Tata San José, Nueva Chevallier, General Urquiza, Sierras de Córdoba, Empresa Argentina, Micromar, San Juan Mar del Plata y Autotransporte San Juan.",
     "La página trae dos teléfonos distintos (011-4018-0060 y 0810-222-5202) y no tiene fecha de actualización."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -657,7 +682,8 @@
     "Al 23/11/2026 no hay ningún llamado abierto en la lista.",
     "Los llamados de 2026 se publican en la página de Presidencia (argentina.gob.ar/cultura/convocatorias).",
     "La inscripción en el Registro del INAMU se exige antes de que abra el llamado."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "no",
@@ -681,7 +707,8 @@
    "caveats": [
     "Está cerrada y va dirigida a organizaciones con personería jurídica, no a artistas individuales.",
     "No sirve a una persona sola salvo que integre una orquesta que postule."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -707,7 +734,8 @@
     "Hay además concursos públicos y abiertos de la Orquesta Estable (viola de fila y corno parte real) con inscripción hasta el 23/11/2026, y concursos de Coro Estable y Escenotécnica publicados en octubre, con fechas de cierre sin relevar.",
     "La audición abierta de diciembre no sirve a quienes no toquen violín.",
     "La URL sin 'es' (teatrocolon.org.ar/audiciones-concursos/) es la más completa."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -733,7 +761,8 @@
     "No se confirmó cómo se verifica el domicilio.",
     "La URL redirige a una copia histórica (gcaba_historico/como-participo-3) que sigue diciendo 'Convocatoria abierta' aunque las fechas ya pasaron.",
     "La página no menciona una próxima convocatoria ni permite verificar que sea anual."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -759,7 +788,8 @@
     "La URL redirige a una página histórica (buenosaires.gob.ar/gcaba_historico/como-participo-2) que sigue diciendo 'Convocatoria abierta' aunque las fechas de 2026 ya pasaron.",
     "La página no dice que haya dos llamados por año; solo menciona un primer llamado del año para Clubes de Música.",
     "El Registro está abierto todo el año y conviene inscribirse antes del próximo llamado; no aparece una convocatoria 2027."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -784,7 +814,8 @@
     "La URL original redirige a la ruta gcaba_historico.",
     "Al 23/11/2026 está cerrada y hay que vigilar la apertura de 2027.",
     "El domicilio o la ejecución en CABA es condición: no basta con vivir en el Gran Buenos Aires."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -809,7 +840,8 @@
     "La página de convocatorias no muestra fechas ni estado; las bases solo indican que el período de inscripción es el fijado en el acto administrativo y que puede prorrogarse.",
     "El estado y las fechas deben consultarse en buenosaires.gob.ar/estudiourbano o en estudiourbano@buenosaires.gob.ar.",
     "La ciudadanía no es requisito, solo residir en el país."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -835,7 +867,8 @@
     "El año de cierre de la 70ª edición se infiere de la fecha de publicación del anuncio (10 de septiembre de 2026).",
     "Una 71ª edición se esperaría hacia septiembre-octubre de 2027, dato inferido y no publicado.",
     "La página principal de inscripción del museo no se cargó directamente; la ruta del reglamento salió de resultados de búsqueda."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -860,7 +893,8 @@
     "La información proviene solo de una página de terceros (hipermedula.org); no se encontró ninguna página oficial de Lanús ni de la Nación que la confirme.",
     "La fuente la llama 'Salón Nacional' pero corresponde a Lanús.",
     "Conviene confirmar con la Municipalidad de Lanús o por el mail de contacto antes de contar con ella; muy probablemente ya está cerrada."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -885,7 +919,8 @@
     "El tema de la edición fue Identidad y Cultura en el territorio.",
     "Solo sirve a residentes u oriundos de La Matanza.",
     "No hay evidencia de ciclo anual, aunque ya van 5 ediciones."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -911,7 +946,8 @@
     "La URL pedida corresponde a un aviso viejo de junio de 2026; la fuente correcta es la página del trámite.",
     "No se vieron fechas de audición y no hay certeza de inscripción abierta; conviene revisar la página y escribir al mail.",
     "La inscripción 'abierta hasta el 30 de octubre' no indica el año y no se confirmó periodicidad anual."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -937,7 +973,8 @@
     "El Registro de Artesanos/as figura en la página 2 del listado (?page=1), no en la primera.",
     "El Registro está dirigido a artesanos (orfebrería, cerámica, telar, cuero, bordado, etc.) y colectivos; no menciona pintores, músicos ni artistas visuales.",
     "Hay capacitaciones gratuitas virtuales, sin estado ni fechas claras."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -963,7 +1000,8 @@
     "Se presenta con seudónimo, por mail a concursosmusicapba@gmail.com.",
     "Está dirigida solo a compositores, no a intérpretes ni a artistas visuales.",
     "Conviene vigilar el listado del Instituto Cultural para la 5ª edición."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -989,7 +1027,8 @@
     "No se pudo confirmar una convocatoria abierta ni fechas para 2026.",
     "De Molina Campos solo se confirmó que es de artes visuales y que comparte jurado con Arte Joven; sus condiciones no se verificaron.",
     "Conviene revisar el sitio del Museo Pettoruti o su cuenta oficial para ver si abren una edición nueva."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1015,7 +1054,8 @@
     "Se aplica por el Registro Único de Espacios Culturales (/registro-de-espacios) y los formularios de Circuitos Culturales y Culturas Colectivas.",
     "Hay una ventanilla de asesoramiento en culturaencercania@gmail.com y un contacto en culturaenterritorio@ic.gba.gob.ar.",
     "Sirve a artistas solo si tienen o integran un espacio cultural."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1040,7 +1080,8 @@
     "La página es un archivo histórico (gcaba_historico) y trata solo la edición 2023.",
     "La 'Bienal de Arte Joven' 2026 que aparece en las búsquedas es la de la UNL (Santa Fe), distinta de esta.",
     "No se confirma que se repita."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -1066,7 +1107,8 @@
     "La inscripción es por Google Form en la página de cada concurso.",
     "Nacionalidad, residencia y sueldo figuran en los PDF (Resolución de llamado y Anexo I Reglamento), no en las páginas.",
     "Los concursos cerrados e internos son solo para personal de planta."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1092,7 +1134,8 @@
     "La plataforma de inscripción no quedó confirmada; hay que ver los enlaces dentro de cada llamado.",
     "Consultas: concursosdocentes@una.edu.ar.",
     "Que los llamados se repitan por departamento durante el año es una inferencia, no figura en la página."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1117,7 +1160,8 @@
     "La sección del Falla figura como 'CONVOCATORIAS 2025', por lo que no se confirma que haya llamados vigentes.",
     "La URL de EMAD lista seis llamados con enlace a emad-caba.infd.edu.ar, sin fechas límite relevadas.",
     "Orientada más a teatro y dramaturgia que a artes plásticas o música."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1142,7 +1186,8 @@
     "La postulación es por correo a mesadeentradasCSMMF@buenosaires.gob.ar con el instructivo vigente, visto en los dos llamados de regencia; para los demás la página no indica el canal.",
     "Hay varios llamados al año, por lo que conviene revisar la página seguido.",
     "El llamado de marzo 2026 no pudo confirmarse en el texto de la página."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1167,7 +1212,8 @@
     "No se vio un llamado abierto ni evidencia de un ciclo anual con fechas.",
     "El listado general de CABA lo incluye como institución con convocatoria activa, por lo que podría haber una publicada en cmbsas-caba.infd.edu.ar, sin verificar.",
     "Contacto: secretaria_piazzolla@buenosaires.gob.ar."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1192,7 +1238,8 @@
     "Exige título docente o habilitante para el área: no alcanza con trayectoria artística.",
     "Consultas: cadentuescuela@bue.edu.ar o 147.",
     "Oficina: Carlos H. Perrete 750, lunes a viernes de 9 a 16 h."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1218,7 +1265,8 @@
     "El texto de la comunicación no se encontró en abc.gob.ar, donde figuran 'Listado oficial' (servado.abc.gob.ar/lof) y 'Secretarías de Asuntos Docentes' (abc.gob.ar/sad).",
     "Mesa de ayuda: infoayuda@abc.gob.ar, 0800-222-6588 (según un documento municipal).",
     "Apto para quienes tengan título docente o artístico habilitante; los requisitos exactos para el área artística no se confirmaron."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1244,7 +1292,8 @@
     "La página /cultura/convocatorias mostró solo 4 convocatorias de la primera de 26 páginas, ninguna de cuerpos estables.",
     "Sirve solo a quienes toquen instrumentos de esos cuerpos (por ejemplo viola, flauta, trompeta, trombón, arpa, corno, oboe, timbal, violonchelo, clarinete, fagot) o canten en coro.",
     "Conviene mirar el sitio del Teatro Argentino y del Instituto en enero."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -1269,7 +1318,8 @@
     "Lo que publica la página es para quienes asisten a los talleres, no una vía de postulación para dar talleres; no se encontró cómo se contratan talleristas.",
     "Contacto que figura en la página: vecinosgops@buenosaires.gob.ar.",
     "Es un programa de la Ciudad de Buenos Aires, no del Gran Buenos Aires."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1294,7 +1344,8 @@
     "La convocatoria ya cerró y, al 23/11/2026, la página oficial no muestra concursos docentes abiertos.",
     "Sirve solo como señal de que la UNQ abre concursos de arte de vez en cuando, por lo que conviene seguir la página de concursos.",
     "Los dos cargos de arte exigen título universitario."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1319,7 +1370,8 @@
     "La ventana de 2027 es una inferencia del patrón anual y no está publicada.",
     "La página de residencia no nombra el año de la edición.",
     "La oficina de Sudamérica aceptaría contacto directo (southamerica@prohelvetia.org), dato que no figura en la página de residencia y debe confirmarse."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1344,7 +1396,8 @@
     "Artes visuales no admite postulación: el jurado nomina directamente.",
     "El programa sirve para músicos o compositores con obra consolidada.",
     "Contacto: residency.berlin@daad.de."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1370,7 +1423,8 @@
     "El francés es requisito de postulación y de entrevista, por lo que puede ser una barrera para quienes no lo hablan.",
     "La postulación se hace por el portal candidatures-afm.casadevelazquez.org, según la ficha oficial detallada.",
     "El listado no menciona requisito de nacionalidad; los criterios completos están en otra página."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1396,7 +1450,8 @@
     "La línea de circulación no acepta proyectos en el país de residencia.",
     "El registro en el Catálogo de Ibermúsicas es gratuito.",
     "En 2026 hubo otras líneas: programación, residencias para artistas e investigadores, especialización y perfeccionamiento, proyectos virtuales y repertorio."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1422,7 +1477,8 @@
     "La línea de programación es para estructuras de programación, no para artistas solos.",
     "Es para artes escénicas (teatro, danza, circo), no para pintura.",
     "La fecha de apertura difiere entre fuentes (22 o 26 de mayo); se usa el 26."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1448,7 +1504,8 @@
     "Los ejemplos de agosto 2026 ya están cerrados.",
     "Mondriaan Fund aparecía como abierta, pero es para artistas que trabajan en los Países Bajos.",
     "La periodicidad mensual no pudo confirmarse; la última nota de oportunidades es del 02/11/2026."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1473,7 +1530,8 @@
     "Argentina figura entre los países elegibles, siempre que la persona viva y trabaje en Argentina al postular.",
     "Contacto para consultar por la próxima edición: e.vanschie@princeclausfund.nl.",
     "El programa Moving Narratives no pudo verificarse."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1497,7 +1555,8 @@
    "caveats": [
     "Plataforma Cardinal 2026 fue de artes escénicas y eligió 3 proyectos.",
     "El CCEBA publica varias convocatorias por año, todas las vistas ya cerradas; conviene revisar cceba.aecid.es con regularidad."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -1523,7 +1582,8 @@
     "La página no menciona países ni a Argentina.",
     "Exige haber residido de forma permanente fuera de Francia al menos 5 años.",
     "Las llegadas en 2027 son el 9 de abril, el 9 de julio y el 8 de octubre, y el 7 de enero de 2028."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -1548,7 +1608,8 @@
     "Prisme, Villa Arson y Elles & Cité tienen elegibilidad restringida (escena francesa, egresados DNSEP de Villa Arson 2024-2026 y fotógrafas francesas con 10 o más años, respectivamente), por lo que no están abiertas a artistas de otros países.",
     "La única convocatoria abierta a extranjeros es 2—12 (la portada dice 'Foreign and French artists can submit their applications'), pero sus requisitos y su monto no están verificados.",
     "Las postulaciones vistas son en francés."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1574,7 +1635,8 @@
     "No hay restricción de nacionalidad ni de edad.",
     "Excluye estudiantes de grado y profesores titulares.",
     "Se postula en dos etapas online; en ámbitos con exceso de solicitudes hay preselección aleatoria ante notario."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1599,7 +1661,8 @@
     "Aceptan artistas, organizaciones, colectivos y profesionales culturales.",
     "Los festivales y bienales de artes visuales, arquitectura, diseño, moda y artesanía deben postular a través de la organización, no como individuos.",
     "No hay repetición confirmada de la convocatoria; conviene suscribirse al boletín de artes del British Council."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -1625,7 +1688,8 @@
     "Se postula en los Goethe-Institut locales del exterior, sin formulario central.",
     "No se confirmó si Argentina es país elegible, ni el requisito de alemán ni los montos; para confirmar, escribir al Goethe-Institut Buenos Aires.",
     "Es un programa del ámbito teatral, no de pintura ni de música."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -1651,7 +1715,8 @@
     "El cierre del 6 de mayo se confirmó en la nota de IFACCA y en resultados de búsqueda, no en la página de UNESCO.",
     "No se pudo comprobar si Argentina figura entre los países elegibles.",
     "Contacto: convention2005.ifcd@unesco.org."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1677,7 +1742,8 @@
     "No se vieron tarifas; muchas residencias de este tipo cobran cuota, pero no está confirmado.",
     "La lista no se leyó completa, por lo que el total de convocatorias no está verificado.",
     "Conviene abrir cada ficha y comprobar las condiciones antes de postular."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1703,7 +1769,8 @@
     "La postulación puede hacerse en persona (Casa del Bicentenario, Roca 644) o por mail.",
     "Quienes viven en otras ciudades compiten por solo el 10% de los cupos y deben viajar a El Bolsón.",
     "Es solo para músicos y artistas escénicos, con pago por actuación."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1728,7 +1795,8 @@
     "Es un agregador: cada convocatoria debe confirmarse en el sitio del organizador.",
     "No se abrieron los sitios de origen de R.A.R.O. ni de FotoCreativaBA.",
     "Ibermúsicas figura solo como titular, sin fecha verificable; Iberescena y Fundación Williams Becas de Creación figuran sin fecha."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1754,7 +1822,8 @@
     "Reciben artistas de todo el mundo; solo piden contactarlos antes a quienes sean ciudadanos o residentes de un país sancionado por EE.UU.",
     "Según una fuente secundaria, no se otorgan a artistas de video.",
     "La URL original (pkf.org/our-grants/) dio 404; la vigente es pkf.org/apply."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1779,7 +1848,8 @@
     "Las bases oficiales no pudieron leerse; los datos provienen de fuentes secundarias.",
     "La edición 2026 está cerrada, pero la convocatoria es recurrente.",
     "Contacto: info@fundacionamaamoedo.org."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1803,7 +1873,8 @@
    "caveats": [
     "Los datos provienen del agregador Recursos Culturales; no se verificaron en el sitio de Fundación OSDE.",
     "La fecha de la próxima edición es inferida del patrón y no está confirmada."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -1829,7 +1900,8 @@
     "Por ser una fundación de Buenos Aires, es probable que sea para artistas del país, pero no está verificado.",
     "Los montos provienen de una búsqueda y no figuraban en la página del premio.",
     "El carácter anual se infiere de que es la edición 29; la próxima fecha no está confirmada."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1854,7 +1926,8 @@
     "La página oficial cargó sin contenido; los datos provienen de La Gaceta (junio 2025) y de un aviso de la Universidad de Palermo (octubre 2026).",
     "Se postula en equipo de artista y curador.",
     "Un posible ciclo mayo-julio 2027 no está anunciado."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1879,7 +1952,8 @@
     "La URL oficial https://www.arteba.org/premio-pinamar-2254 dio 404; la información proviene de recursosculturales.com.",
     "El ciclo anual se infiere del número de edición y no está anunciado.",
     "Contacto: premiopinamar@arteba.org."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1904,7 +1978,8 @@
     "El sitio raíz no respondió por límite de pedidos; la 8ª edición se leyó vía recursosculturales.com.",
     "La convocatoria 2027 todavía no está anunciada.",
     "Consultas: inscripciones@premioazcuy.com."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1929,7 +2004,8 @@
     "La fecha de cierre de la fuente original se corrige: según la página oficial cerró el 16/01/2026.",
     "Es una primera edición sin repetición confirmada.",
     "Si una segunda edición repitiera el calendario, la inscripción abriría hacia octubre."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1953,7 +2029,8 @@
    "caveats": [
     "No se pudo confirmar que exista una edición vigente del premio.",
     "La URL enlazada es una nota de 2018 y no sirve como fuente actual; conviene reemplazarla por premioitau.org o la página de Fundación Itaú Argentina."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -1979,7 +2056,8 @@
     "No se pudo confirmar si hubo edición 2025.",
     "La página no dice que la convocatoria sea anual; la recurrencia se deduce de las bases 2024 y de la edición 2026.",
     "Conviene consultar fundacionwilliams.org.ar desde marzo-abril de 2027."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -2005,7 +2083,8 @@
     "El país de la tienda lo define el país de la cuenta bancaria y no se puede cambiar después, salvo en la Eurozona.",
     "No se pudieron leer el detalle de comisiones ni las políticas sobre arte propio frente a reventa.",
     "El enlace de postulación es la página general de Etsy para vender."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2031,7 +2110,8 @@
     "Una alternativa es usar ArtStation como portfolio y abrir una tienda en Gumroad.",
     "No se vio una lista de países habilitados para vender, por lo que la elegibilidad desde Argentina queda sin datos.",
     "El enlace dado devolvió HTTP 403; la información sobre la mudanza a Gumroad surge del centro de ayuda oficial de ArtStation."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2056,7 +2136,8 @@
     "No se vio ninguna lista de países ni mención de Argentina, por lo que la elegibilidad desde Argentina no está confirmada.",
     "Los datos de comisión y pago provienen de fragmentos de páginas regionales y conviene revisarlos en la página oficial.",
     "Las versiones regionales para Chile, Brasil y Uruguay sugieren que se acepta artistas de la región."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -2080,7 +2161,8 @@
    "caveats": [
     "Workana es una plataforma latinoamericana con sede en Argentina, pero la elegibilidad no figura escrita en las páginas consultadas.",
     "Las tarifas exactas conviene confirmarlas en el sitio oficial."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2104,7 +2186,8 @@
    "caveats": [
     "No se encontró una fuente que confirme de forma explícita la elegibilidad desde Argentina.",
     "Upwork opera en más de 180 países y tiene una página de contratación para Argentina (upwork.com/hire/ar/), lo que sugiere que hay freelancers argentinos."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2129,7 +2212,8 @@
     "El artículo de retiros no lista países y indica que cada método puede tener restricciones por ubicación, por lo que la elegibilidad desde Argentina queda sin datos.",
     "Las tarifas de retiro surgen de la página oficial de ayuda de Fiverr.",
     "El enlace de postulación es la página general de venta."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2155,7 +2239,8 @@
     "La moneda de cobro se elige al inicio y no se puede cambiar.",
     "Ninguna fuente indica si Argentina está habilitada ni si se puede cobrar en pesos.",
     "PayPal Argentina exige que la cuenta bancaria de retiro sea en pesos."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2181,7 +2266,8 @@
     "Blogs no oficiales indican que en 2025 redujo su base de artistas y quitó la ropa del catálogo.",
     "Conviene tratarla como probablemente cerrada hasta que se anuncie una reapertura.",
     "La URL dada y la variante hallada en la búsqueda devuelven 404."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2206,7 +2292,8 @@
     "Según fragmentos de búsqueda, los creadores fuera de EE.UU. cobran por PayPal o por transferencia bancaria vía Payoneer, con una comisión fija por pago en dólares.",
     "Ninguna fuente consultada nombra a Argentina como habilitada o excluida.",
     "La disponibilidad de la transferencia depende de la moneda elegida y del país del banco, por lo que conviene ver las opciones de cobro dentro de la cuenta."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2231,7 +2318,8 @@
     "Según fragmentos de búsqueda, VGen admite cobros a 149 países vía PayPal, VGen Payments (Stripe) o ambos, según el país del banco.",
     "La inclusión de Argentina no está confirmada en la página oficial.",
     "El mercado está orientado a ilustración de personajes y estilos anime/VTuber."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2257,7 +2345,8 @@
     "La comisión por venta no está confirmada; las cifras de 15% y 25% que aparecen para reventa se contradicen.",
     "La página no lista países elegibles ni excluidos.",
     "La selección es curatorial: se pide obra acorde a la línea de la galería y precios acordes al valor de mercado del artista."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2283,7 +2372,8 @@
     "Al 23/11/2026 solo hay 2 ofertas de arte o diseño ('Art Director' en Abnormal y 'Product Designer' en Tebra), ambas limitadas a EE.UU.",
     "La elegibilidad cambia por oferta, por lo que hay que leer la ubicación de cada una.",
     "Los términos de la API exigen enlazar a Remote OK con enlace seguido (follow) y citarlo como fuente si se reutilizan sus datos."
-   ]
+   ],
+   "scanner_supported": true
   },
   {
    "elig": "yes",
@@ -2307,7 +2397,8 @@
    "caveats": [
     "El filtro category=design devolvió el feed completo y no hay ofertas de arte, ilustración o diseño; son de programación, soporte, ventas y redacción.",
     "Los términos de Remotive piden atribución y enlace, retrasan las ofertas 24 h, limitan a unas 4 consultas por día y prohíben reenviar las ofertas a terceros."
-   ]
+   ],
+   "scanner_supported": true
   },
   {
    "elig": "yes",
@@ -2333,7 +2424,8 @@
     "El sitio advierte que alguien suplanta su identidad y que solo escribe desde @workwithindies.com.",
     "Hay newsletter semanal y Discord con revisión de portfolio; si es gratis, sin datos.",
     "No se ven fechas de publicación de las ofertas."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -2359,7 +2451,8 @@
     "Subsidios 2026: regional hasta 258 de ARS 700.000, nacional hasta 60 de ARS 1.400.000 y coral hasta 20 de ARS 1.000.000.",
     "Se otorga un subsidio por persona y solo a quien no recibió ayuda del INAMU en 2025 o 2026.",
     "Contacto: convocatorias@inamu.musica.ar, (011) 2150-3865."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -2385,7 +2478,8 @@
     "El código de distribución se pide por la web de AMA o en la capacitación disponible en el panel del INAMU, en Eventos > Próximos Eventos.",
     "No se vio ninguna novedad desde el 2026-05-27, por lo que el ciclo anual no está probado.",
     "Contacto: consultas@ama.musica.ar."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -2410,7 +2504,8 @@
     "Es una vía de difusión, no de ingresos directos.",
     "La página oficial indica más de 25.000 canciones publicadas.",
     "Contacto: bancodemusica@inamu.musica.ar."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2435,7 +2530,8 @@
     "La nota de 2023 indicaba que no se recibía material de la provincia de Buenos Aires ni de CABA, solo de NOA, NEA, Nuevo Cuyo, Centro y Patagonia; quienes viven en esas jurisdicciones quedaban fuera, y no se sabe si eso cambió.",
     "La URL dada es una nota periodística, no una fuente oficial, y no sirve como página de postulación.",
     "No se cuenta como oportunidad abierta; conviene consultar a convocatorias@inamu.musica.ar o ver el Panel del INAMU."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2461,7 +2557,8 @@
     "Se postula online por TAD con cuenta miBA; el Reglamento 2026 está en static.buenosaires.gob.ar (PDF 'Reglamento BAMúsica 2026').",
     "La URL del catálogo redirige a una página histórica desactualizada que sigue diciendo 'Convocatoria abierta' con las fechas de 2026, que ya pasaron.",
     "No aparece una convocatoria 2027 ni un segundo llamado en 2026."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -2486,7 +2583,8 @@
     "Desde el 1 de octubre el único sistema válido para registrar obras es la plataforma online app-registro-obras.sadaic.org.ar; la primera obra se registra por la opción 'Otros'.",
     "Sede: Lavalle 1547, CABA, tel. 54-11-4379-8600, lunes a viernes de 10 a 15 h.",
     "No se pudieron confirmar el costo ni los pasos completos de la membresía; conviene consultar a SADAIC."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -2512,7 +2610,8 @@
     "Otro artículo de ayuda indica que Bandcamp migra a un sistema de pagos con Stripe y que Argentina figura entre los países con cuentas de pago Stripe.",
     "Según la documentación, Argentina tiene restricciones de conversión de moneda en PayPal.",
     "La URL de registro (bandcamp.com/signup) es la ruta habitual y no fue verificada."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2537,7 +2636,8 @@
     "La página no menciona restricciones por país, pero tampoco confirma que Argentina esté incluida.",
     "La página no dice explícitamente si el envío está abierto actualmente.",
     "Solo contactan si la música encaja con sus necesidades actuales."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2562,7 +2662,8 @@
     "La página no lista países elegibles.",
     "El envío se hace por el formulario premiumbeat.com/new-artist, que figura como enlace en el artículo oficial.",
     "Implica exclusividad y venta total de los derechos del track."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2587,7 +2688,8 @@
     "Los datos provienen de resultados de búsqueda y no se confirmaron en la página oficial de Pond5.",
     "Las tasas de regalías cambiaron en enero de 2025 y rige el Contributor Agreement vigente desde 2025-01-15 (pond5.com/legal/contributor).",
     "Conviene verificar las condiciones en la página oficial antes de postular."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2613,7 +2715,8 @@
     "Las materias nombradas son idiomas, materias escolares y universitarias, hobbies y arte; música, guitarra y piano no aparecen nombrados.",
     "Comisión: 100% en las clases de prueba con alumnos nuevos; luego desde 33%, bajando hasta 18% según las horas dictadas.",
     "El cobro se hace por PayPal, Payoneer, Skrill o Transferwise."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -2638,7 +2741,8 @@
     "No se pudo ver ninguna página oficial; los datos provienen de avisos de terceros que citan el marketing de Superprof y son autodeclarados.",
     "Según esos avisos, publicar el anuncio es gratis, la comisión al profesor es 0% y el profesor fija su precio y disponibilidad.",
     "No se confirmó en la fuente oficial que se pueda postular desde Argentina, aunque el dominio .com.ar y los avisos locales lo hacen plausible."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2664,7 +2768,8 @@
     "Muchas ofertas dicen 'Anywhere' o 'Remote', pero otras exigen zona horaria o ciudad, o se limitan a EE.UU., UE/Reino Unido u Ontario; la elegibilidad desde Argentina depende de cada aviso.",
     "La postulación se hace desde 'Learn More' en cada oferta; la página no la explica.",
     "El sitio advierte que fue suplantado y que solo envía correos desde @workwithindies.com."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -2690,7 +2795,8 @@
     "La convocatoria de Museos Nacionales de la Secretaría de Cultura es la más cercana al rubro artístico, pero no se describen los puestos concretos.",
     "No es de apertura continua: es un portal de convocatorias individuales, cada una con su plazo, y la inscripción es por concursar.miportal.gob.ar.",
     "Es empleo público formal, no un programa para artistas."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -2715,7 +2821,8 @@
     "La página no muestra ofertas específicas, forma de postulación ni fecha de última actualización.",
     "Los tipos de llamado son Selección General (personal con estabilidad o contratado bajo SINEP), Selección Abierta (cualquier persona que cumpla los requisitos, sea o no empleado público) e Interna (personal del organismo).",
     "Complementa a Concursar y no es un programa cultural."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -2741,7 +2848,8 @@
     "Lo vigente se consulta en el listado oficial https://www.argentina.gob.ar/cultura/convocatorias.",
     "Para artistas individuales solo corresponde INT 2026 líneas de desarrollo; no hay llamado específico para pintores ni músicos y los de INCAA son para productoras de cine.",
     "El reglamento del INT con los requisitos está en inteatro.ar/convocatorias/; la línea de producción de obra y las fechas de cierre por línea no se pudieron confirmar."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -2767,7 +2875,8 @@
     "Para llamados nuevos hay que mirar la sección de convocatorias de Cultura; un ejemplo de 2026 es https://www.argentina.gob.ar/cultura/convocatorias/17016 (audición de corno, cerrada).",
     "La audición de 2026 fue el viernes 15/05/2026 a las 10:00 en el Segundo Subsuelo del Palacio Libertad (Buenos Aires).",
     "Contacto: concursos.onma@gmail.com."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -2792,7 +2901,8 @@
     "La URL pertenece a una sección de archivo histórico (gcaba_historico), por lo que su vigencia es dudosa: no hay fechas y el contenido puede estar desactualizado.",
     "Son llamados de horas cátedra interinas y suplentes para docentes.",
     "Hay que abrir cada enlace para ver el detalle y las fechas; el de la Escuela Metropolitana de Arte Dramático enlaza a la página general."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -2818,7 +2928,8 @@
     "Sirve como bolsa general y para el Programa Volver al Trabajo (capacitación, prácticas laborales, apoyo a emprendimientos).",
     "La página es informativa y no declara explícitamente que sea continuo, aunque no muestra fechas de cierre ni avisos de baja.",
     "Contacto: teléfono 0800-222-2220, consultas@trabajo.gob.ar."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2843,7 +2954,8 @@
     "La mayoría de las ofertas son de empresas de España (Madrid, Barcelona, Valencia), muchas son prácticas o becas y a veces están en catalán.",
     "Solo 5 de unas 30 ofertas figuran como 'En remoto' y la página no dice si aceptan postulantes de Latinoamérica.",
     "No es una fuente para pintores ni músicos."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -2868,7 +2980,8 @@
     "La mayoría de las ofertas dicen 'Anywhere in the World', pero otras son solo de EE. UU., Europa, Asia, África o Canadá, y esas excluyen a quienes viven en Argentina.",
     "Hay que filtrar por el campo de región en cada oferta.",
     "Los puestos son de diseño digital (UX, producto, marca, 3D, gráfico), no de arte plástico ni música."
-   ]
+   ],
+   "scanner_supported": true
   },
   {
    "elig": "yes",
@@ -2894,7 +3007,8 @@
     "Algunas ofertas muestran '[Company Name]' en lugar del empleador, por lo que conviene desconfiar.",
     "Según la página, sin sesión paga solo se ve una fracción de las ofertas (no verificado).",
     "Son puestos de diseño digital, no de arte plástico ni música."
-   ]
+   ],
+   "scanner_supported": true
   },
   {
    "elig": "sin datos",
@@ -2919,7 +3033,8 @@
     "La página no muestra ofertas individuales ni fechas de publicación, por lo que no se pudo confirmar que haya ofertas abiertas.",
     "Las categorías más cercanas son diseño gráfico y diseño de juegos; el contenido es de diseño digital (UI/UX, producto, gráfico), no arte plástico ni música.",
     "Cada oferta puede tener restricciones de país propias."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2945,7 +3060,8 @@
     "El listado muestra el promedio de las ofertas ('average bid') y no el presupuesto del cliente.",
     "La página no declara restricciones de país a nivel sitio ni menciona Argentina, pero algunos proyectos exigen residencia (Project 540 solo EE.UU. excepto Illinois; otros piden voces nativas de UK o México).",
     "Las tarifas de comisión no están verificadas."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -2970,7 +3086,8 @@
     "Los datos provienen de fuentes de terceros y no del sitio oficial; conviene confirmarlos en help.workana.com.",
     "Según esas fuentes, crear el perfil y enviar propuestas es gratis y el cliente paga además un cargo de 4,5% (mínimo US$2).",
     "Es una plataforma con sede en Buenos Aires orientada a freelancers de América Latina; que haya proyectos de arte, ilustración o música no está verificado."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -2996,7 +3113,8 @@
     "El centro de ayuda de Behance documenta cómo postularse y cómo publicar ofertas (activas 30 días).",
     "Un usuario Pro reportó en la comunidad de Adobe (julio 2026) que no le aparecen ofertas freelance; es un reporte de usuario, no un cambio oficial.",
     "La elegibilidad desde Argentina y el volumen real de ofertas no están verificados; el contenido típico es diseño, ilustración y creativo digital, no música."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3020,7 +3138,8 @@
    "caveats": [
     "La página de callforcurators.com corresponde solo a la convocatoria 2025, ya cerrada, y no permite confirmar un ciclo anual vigente.",
     "El próximo llamado habría que buscarlo en la página oficial del Centro Cultural Recoleta hacia septiembre de 2027 o antes."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3045,7 +3164,8 @@
     "Es un salón de selección por imágenes, solo para arte textil (trama y urdimbre).",
     "Las categorías y los montos de los premios figuran en las bases: https://buenosaires.gob.ar/gcaba_historico/abre-la-convocatoria-del-xxii-salon-de-arte-textil-2026.",
     "Sirve solo para quienes trabajan con textil."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -3070,7 +3190,8 @@
     "Exige residencia acreditable en Vicente López (Gran Buenos Aires); quienes viven en otros partidos o en la Ciudad de Buenos Aires no cumplen el requisito.",
     "Se eligen hasta 10 proyectos y hasta 3 suplentes.",
     "Cubre música, artes visuales, audiovisual y multimedia, artes escénicas y letras."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3095,7 +3216,8 @@
     "La fuente es un artículo de prensa (Perfil), no una página oficial; no se encontró el sitio ni el formulario de convocatoria.",
     "No hay datos de costos ni de forma de inscripción, por lo que hay que localizar los canales oficiales de la feria.",
     "Las cinco ediciones realizadas apoyan un ciclo anual, aunque no se pudo confirmar."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -3120,7 +3242,8 @@
     "La convocatoria es para galerías expositoras, no para artistas individuales; un artista sin galería probablemente no pueda postular directamente.",
     "convocatoria.arteba.org redirige a un login, por lo que los requisitos y plazos no son visibles.",
     "No se encontró información sobre la sección Barrio Joven."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -3145,7 +3268,8 @@
     "Es una feria de galerías y proyectos, no una convocatoria a artistas individuales.",
     "No se indica si se exige residencia o nacionalidad; los detalles están en las bases.",
     "Contacto: contacto@feriachaco.cl (el pie de página muestra comunicaciones@feriachaco.cl)."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -3170,7 +3294,8 @@
     "La página de agenda tiene categorías Artes Visuales, Música, Teatro e Institucional, pero no muestra ningún llamado, fecha, requisito ni forma de postularse.",
     "No se confirmó que existan convocatorias para artistas externos ni un ciclo anual.",
     "Dirección: Av. Corrientes 2038, CABA; sirve solo como lugar donde consultar o escribir."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3195,7 +3320,8 @@
     "La página oficial corresponde a la edición 2021 y no hay evidencia de que la convocatoria se haya repetido, por eso figura como cerrada.",
     "No se menciona costo de inscripción y la entrada al público es gratuita.",
     "Quienes resulten seleccionados deben contratar un seguro de accidentes personales."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3221,7 +3347,8 @@
     "Hay dos categorías: permisionarios estables (todos los domingos) e invitados (fechas especiales).",
     "Enviar el formulario no garantiza un puesto, que depende del cupo.",
     "El ciclo anual se infiere del vencimiento anual del permiso, no de un calendario de convocatorias publicado."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -3245,7 +3372,8 @@
    "caveats": [
     "La URL del catálogo corresponde a un directorio no oficial que describe el centro pero no lista ninguna convocatoria.",
     "No se encontró la página oficial del centro, por lo que no hay datos de llamados y no debe usarse como fuente de postulación."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3271,7 +3399,8 @@
     "Según el Manual de Convivencia, solo los artistas inscriptos pueden pedir propinas y deben llevar copia de la constancia.",
     "El trámite se inicia con 'Iniciar trámite' en el Sistema de Trámites Digitales; el resultado llega por mail y, si se aprueba, se recibe una constancia virtual.",
     "La página no excluye a extranjeros ni a quienes no residen en la Ciudad de Buenos Aires, pero tampoco lo aclara; el permiso para actuar en un lugar concreto lo otorgan las Comunas, dato no verificado en la página oficial."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3297,7 +3426,8 @@
     "El PDF es oficial (Anexo II, informe del 6 de agosto de 2021) y establece, entre otras reglas, actuaciones de alrededor de 1 hora, límite de 75 dBA, caballete para artistas plásticos (hasta 5 más en grupos, en plazas y no en veredas) y sombrero o caja de propinas a unos 1,5 m.",
     "El texto se extrajo de un PDF mal convertido y puede contener errores.",
     "La Disp. 74/2025 aparece mencionada en la fuente original, pero su contenido no está confirmado."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -3323,7 +3453,8 @@
     "Quienes viven fuera de la Ciudad de Buenos Aires, por ejemplo en el Gran Buenos Aires, no cumplen el requisito de domicilio sin fijar domicilio en la Ciudad.",
     "Si no se obtiene el permiso dentro del año de validez, la inscripción vence y hay que reinscribirse; los puestos dependen de las vacantes, por orden de inscripción.",
     "Contacto: 5030-9300 int. 3271, mesadgpf@buenosaires.gob.ar."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -3348,7 +3479,8 @@
     "Se exige domicilio en la Ciudad de Buenos Aires, por lo que quienes viven en el Gran Buenos Aires no cumplen el requisito sin cambiar su domicilio.",
     "Es un permiso para manualistas, no específico de pintores ni músicos.",
     "Contacto: 5030-9300 int. 3271, mesadgpf@buenosaires.gob.ar; para ayuda con notificaciones, 147."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -3373,7 +3505,8 @@
     "La página lista 'cuadros y colecciones artísticas', pero el mercado es de antigüedades y usados, por lo que no se sabe si aceptan obra propia de un pintor y habría que consultarlo.",
     "Requiere estar inscripto como contribuyente (monotributo).",
     "La exigencia de domicilio en la Ciudad de Buenos Aires es una barrera para quienes viven en el Gran Buenos Aires."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "no",
@@ -3398,7 +3531,8 @@
     "Exige residencia en la Ciudad de Buenos Aires, por lo que quienes viven en el Gran Buenos Aires no cumplen el requisito.",
     "La información corresponde a la edición 2025; solo se revisó la propia página y no se buscó una edición 2026 en otras fuentes.",
     "Bases y condiciones 2025: https://static.buenosaires.gob.ar/sites/default/files/2025-03/Bases%20y%20condiciones%20-%20Mi%20Barrio%2C%20Mi%20Mural.pdf"
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3424,7 +3558,8 @@
     "Pide experiencia comprobable en murales (mínimo 5 obras individuales), por lo que no está orientada a quienes recién empiezan en muralismo.",
     "Las bases son un PDF oficial con fecha de creación 20/07/2026.",
     "No se verificó si ya existe un anuncio de próxima edición."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -3450,7 +3585,8 @@
     "Es una ley de habilitación de locales, no una convocatoria ni un programa de empleo o subsidio; sirve solo para quien quiera abrir o regularizar un espacio propio de música o arte.",
     "La norma está vigente (Ley 6063, modificada por Ley 6146 en los arts. 37 y 44) y cita las resoluciones 3631-MCGC-19, 227-AGC-19 y 7124-MCGC-25.",
     "No se confirmó en una página de gobierno el trámite de alta ni los plazos."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -3476,7 +3612,8 @@
     "La convocatoria ya cerró; conviene vigilar la página de convocatorias desde agosto 2027.",
     "La URL original del catálogo es una nota de prensa con fecha de cierre desactualizada; corresponde usar la página oficial.",
     "Contacto: infovecinos@vicentelopez.gov.ar o 147. No se vieron las bases del Salón ni de ExpoArt."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3502,7 +3639,8 @@
     "La página solo exhibe la convocatoria 2024 y no hay evidencia de una edición 2026; se recomienda consultar a artesanias@culturaberazategui.gov.ar o al (011) 4356-9200 int. 2111.",
     "La página del salón devolvió 404 al cargarla como URL propia, pero está enlazada desde la portada de cultura.",
     "La misma portada enlaza otros certámenes (Bienal Nacional de Arte Cerámico, Salón Nacional Vidrio en el Arte, Salón Final de Finales, Concursos) que no se revisaron."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3527,7 +3665,8 @@
     "Es formación en oficios, no una convocatoria laboral ni de pago.",
     "No se confirmó que siga vigente en 2026 y la página oficial del MAB probada devolvió 404.",
     "No se vio un proceso publicado para postularse a vender como artesano."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3552,7 +3691,8 @@
     "La fecha de cierre del 24/3 que figuraba antes no coincide con lo observado: 2/3 en el PDF y 30/4 en la web.",
     "No hay nada abierto al 23/11/2026.",
     "Sirve solo para ceramistas y sin remuneración."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3578,7 +3718,8 @@
     "Las convocatorias a músicos aparecen de a ratos y suelen ser por obra o proyecto, por lo que conviene revisar la página con frecuencia.",
     "El enlace 'Nuestro Teatro' pasa por un proxy de terceros (proxysite.com) y no se recomienda usarlo.",
     "Contacto: +54 11 4816-4224 o formulario en /contacto/."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3604,7 +3745,8 @@
     "Con cierre el 30/11/2026, solo sirve si ya existe un grupo y un proyecto; para el próximo ciclo conviene hacer el registro antes.",
     "La portada muestra '30 de Noviembre' sin año en seis convocatorias abiertas, pero no dice textualmente que sea el cierre.",
     "El reglamento PDF enlazado no cargaba."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -3630,7 +3772,8 @@
     "La página no menciona música, banda sonora ni dirección de arte.",
     "Fechas de cierre, montos y requisitos figuran en la ficha de cada concurso (Anexo I); no se pudieron ver las bases individuales.",
     "Figura como no verificable porque el estado 'Abierto' está verificado, pero no las fechas ni la elegibilidad."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3656,7 +3799,8 @@
     "La página no menciona explícitamente a compositores, músicos ni directores de arte, por lo que no se puede confirmar que deban o puedan inscribirse.",
     "No detalla procedimiento, documentación ni costo; remite a INCAA en Línea y al contacto del sitio.",
     "La página no declara de forma explícita que sea permanente ni muestra períodos o fechas de cierre."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -3682,7 +3826,8 @@
     "Los integrantes se eligen por sorteo, aprobado por el Consejo Asesor o la presidencia del INCAA.",
     "Se inscribe por INCAA en Línea, ícono 'presentaciones', opción 'Postulantes para comités'. Consultas: enlinea@incaa.gob.ar y subgerenciadepromocion@incaa.gob.ar.",
     "La página no menciona nacionalidad ni residencia."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3708,7 +3853,8 @@
     "Dice garantizar escalas salariales, pero no publica las tarifas mínimas ni los términos de contratos en esta página.",
     "La cuota de inscripción y la mensual no indican moneda; se entiende que son pesos argentinos, sin confirmar.",
     "La presentación es presencial en Av. Belgrano 3655, CABA, de lunes a viernes de 10 a 16 h, o por mail; el teléfono de la página (011 4957 3522) difiere del del pie (011 4857 3522), por lo que conviene confirmarlo antes de llamar."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3734,7 +3880,8 @@
     "La solicitud se exhibe 10 días en la sede, los socios pueden objetar (10 días para responder) y la Junta acepta o rechaza; tras un rechazo hay que esperar un año.",
     "Categorías: Honorario, Activo (8 o más obras estrenadas en Argentina), Administrado A (3 a 8), Administrado B (3 o menos) y Representados (no socios).",
     "La página no fija condiciones de nacionalidad ni residencia (solo pide declararlas); las cuotas las fija la Junta cada año y no figuran."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -3760,7 +3907,8 @@
     "Ni la portada ni las subpáginas revisadas muestran requisitos de ingreso, cuotas, nacionalidad o residencia, bolsa de trabajo ni convocatorias.",
     "Para saber cómo asociarse hay que usar https://aadarte.com.ar/contacto/.",
     "Las URLs correctas son https://aadarte.com.ar/nosotros/guia/ y https://aadarte.com.ar/nosotros/consejo-de-admision/."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3786,7 +3934,8 @@
     "La página oficial indica al 23/11/2026 que la inscripción al ciclo 2027-2029 está abierta y el formulario disponible, pero no muestra fecha de cierre, fechas de examen ni requisitos.",
     "No se pudo confirmar el cierre del 20/10/2026 ni el examen del 15/12/2026; la página podría estar desactualizada, por lo que se recomienda escribir al Complejo antes de contar con la vacante.",
     "Está dirigida a la comunidad artística de la Ciudad y la Provincia de Buenos Aires (el Gran Buenos Aires califica) y al personal del Complejo."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3812,7 +3961,8 @@
     "El ciclo no es anual: según la página de Formación ingresan unos 20 alumnos cada tres años, con dos períodos de inscripción dentro de la misma convocatoria.",
     "Quienes viven en otras provincias o en el exterior pueden completar el formulario online.",
     "No se pudo confirmar que el curso enseñe pintura ni construcción de títeres."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3838,7 +3988,8 @@
     "Aceptar implica autorizar la ejecución de la obra en un concierto.",
     "La página oficial de convocatorias del Cervantes figura sin convocatorias y desactualizada, por lo que no sirve para vigilar nuevas ediciones.",
     "Se la llama 2.ª edición, pero no está confirmado que se repita."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -3864,7 +4015,8 @@
     "Solo sirve a quien trabaja en una sala de la Red.",
     "La inscripción se hacía por Google Form.",
     "La página oficial de convocatorias del Cervantes figura vacía y desactualizada."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3890,7 +4042,8 @@
     "Es un programa que paga el artista, no una beca, y la postulación no tiene costo.",
     "Incluye alojamiento y taller, herramientas y materiales básicos, biblioteca, servicios, wifi, ropa blanca semanal, traslado al aeropuerto de Esquel y una salida grupal por semana.",
     "La residencia puede dar cartas de invitación para solicitar subsidios aparte."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3916,7 +4069,8 @@
     "Otra fuente indica un costo de USD 2.980 por 3 semanas, por lo que el monto debe confirmarse.",
     "El formulario se pide por email a info@casanailha.org; la capacidad es de 10 artistas.",
     "El pago es en dos cuotas (50% a los 10 días de la aceptación y el saldo 60 días antes), con cuotas negociables, y pueden darse cartas de apoyo para solicitar fondos."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3941,7 +4095,8 @@
     "La página parece desactualizada: su sección se titula 'Convocatorias abiertas – 2025' y no muestra llamados de 2026.",
     "Conviene confirmar por mail (administracionospr@santafe.gov.ar) o por teléfono ((0341) 4357653).",
     "Solo sirve para músicos de orquesta (instrumentos sinfónicos), con presentación presencial en Rosario."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -3965,7 +4120,8 @@
    "caveats": [
     "El llamado 2026 cubrió solista de clarinete, solista de fagot y tres suplentes (clarinete, fagot, flauta); está cerrado y ya se publicó la nómina de inscriptos.",
     "Los concursos se abren cuando hay vacantes, sin indicio de una fecha fija de repetición."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -3990,7 +4146,8 @@
     "La ventana está cerrada y no hay evidencia de que se repita todos los años.",
     "Es financiamiento de proyectos, no un salario ni un subsidio directo.",
     "Quien no tenga residencia o vínculo con Santa Fe debe confirmar las bases antes de postularse."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -4015,7 +4172,8 @@
     "La URL es una nota de prensa de 2022, no la página oficial.",
     "No se pudo confirmar que el fondo siga activo ni que haya llamado en 2026.",
     "Antes de considerarlo una oportunidad, hay que consultar el sitio oficial de Cultura de Mendoza."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -4040,7 +4198,8 @@
     "Una nota del 2/9 decía que se abrirían las convocatorias y otra del 6/9 informó el cierre el 5/10.",
     "La convocatoria ya cerró: sirve como referencia para ediciones futuras, pero no hay oportunidad abierta.",
     "Las bases hay que consultarlas en ENCINE."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "no",
@@ -4064,7 +4223,8 @@
    "caveats": [
     "Quienes viven fuera de la provincia de Santa Fe, por ejemplo en el Gran Buenos Aires, no cumplen el requisito de residencia (no es de nacionalidad).",
     "La edición 2026 no pudo verificarse."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -4090,7 +4250,8 @@
     "Un resultado de búsqueda sobre la edición 62 indicaba que se dirige a artistas nacidos en Entre Ríos o con al menos 3 años de residencia en la provincia, dato que no figura en la página oficial de 2026.",
     "Quienes viven fuera de Entre Ríos probablemente no califiquen, salvo que cumplan ese criterio.",
     "Las consultas se hacen solo a salonartesvisualeser@gmail.com; un enlace de formulario (Dibujo) tiene un error de tipeo en la página."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -4116,7 +4277,8 @@
     "La entrega de obras es presencial en Trelew, lo que dificulta participar desde otras provincias.",
     "Las categorías de artes visuales tienen temas fijos (por ejemplo Dibujo 'Bardas al sur', Arte Textil 'Las manos de mi Madre').",
     "Las fuentes difieren en los días exactos: según Diario Jornada el festival fue del 19 al 25/10/2026."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -4141,7 +4303,8 @@
     "Financia talleres y capacitaciones en el territorio provincial; no es un premio ni una beca para artistas individuales.",
     "Se dirige a organizaciones, espacios y centros culturales comunitarios, colectivos y emprendedores culturales; el responsable debe ser mayor de 18 años.",
     "El enlace al 'portal de convocatorias' (convocatoriarn.rionegro.gov.ar) es un portal de vacantes de la administración pública de Río Negro, sin convocatorias para artistas."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "no",
@@ -4167,7 +4330,8 @@
     "Las fuentes son notas periodísticas de El Sol, no la página oficial de la Subsecretaría de Cultura de Mendoza.",
     "No se vio la nacionalidad como requisito.",
     "El sistema de inscripción citado en 2026 era SIGA."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -4193,7 +4357,8 @@
     "El único llamado visto es 'Edital Ecoar' (formación y proyectos de economía creativa), limitado a adultos de siete estados de Brasil y de 2025.",
     "Las convocatorias pasadas fueron en portugués y no se pudo confirmar la elegibilidad de residentes en Argentina.",
     "Corresponde tratarla como fuente para vigilar, no como oportunidad."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -4219,7 +4384,8 @@
     "Una beca, si se concede, cubre solo el arancel, no transporte, materiales, alojamiento ni comida.",
     "La información proviene de una página de Recursos Culturales, no del sitio propio de R.A.R.O. (esraro.com), que no fue verificado.",
     "Contacto: info@esraro.com."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -4244,7 +4410,8 @@
     "Es un organismo institucional que describe asesoramiento técnico a museos e institutos.",
     "No ofrece vía de postulación ni datos de contacto.",
     "No es una oportunidad postulable para artistas individuales."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -4269,7 +4436,8 @@
     "Son cargos directivos de museo, no cargos para artistas.",
     "No aparece plazo ni lugar de inscripción; se marca cerrado por el tiempo transcurrido y por no figurar entre las convocatorias vigentes.",
     "Los tres llamados abiertos en la portada (bibliotecas populares, préstamos UVA a salas teatrales hasta el 9/12, ópera prima hasta el 23/11) no son para artistas individuales."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -4295,7 +4463,8 @@
     "Dura 4 años (licenciatura, 3.056 h) con título intermedio de Técnico/a a los 3 años (2.432 h).",
     "La preinscripción se hace por el sistema Guaraní y no se pudieron confirmar las fechas.",
     "Hay una vía para quienes terminaron el secundario en el exterior."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "sin datos",
@@ -4320,7 +4489,8 @@
     "El PDF y la página de la escuela devolvieron HTTP 402, por lo que no se pudo leer su contenido.",
     "El ciclo bianual, las fechas y los requisitos no se pudieron confirmar.",
     "El archivo disponible es la FAQ 2025 y puede estar desactualizado; conviene consultar directamente el sitio de la UNSAM."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -4346,7 +4516,8 @@
     "Está dirigido a profesionales de museos, no a artistas en general.",
     "El curso es virtual, de 24 horas en 4 módulos, en español y portugués, con la ENCRyM (México) y Uruguay.",
     "Contacto: convocatorias@ibermuseos.org."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -4372,7 +4543,8 @@
     "La página no fija nacionalidad ni residencia.",
     "Es una muestra para ilustradores, no para pintores o músicos en general.",
     "También pueden participar escuelas de arte con proyectos de sus estudiantes."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -4398,7 +4570,8 @@
     "El reglamento no restringe nacionalidad ni residencia.",
     "Para este ciclo la vía ya cerró; el siguiente ciclo sería la edición 2028.",
     "El texto de la muestra mezcla '61st Edition' con '64th', por lo que puede tener partes desactualizadas."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -4424,7 +4597,8 @@
     "Es una beca de estudio, no un pago en dinero, y el máster es presencial en Italia.",
     "El reglamento no excluye nacionalidades.",
     "Para este ciclo la inscripción ya cerró."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -4450,7 +4624,8 @@
     "No se pudo confirmar que la 34.ª feria (2026) tuviera un concurso similar ni que se repita en 2027.",
     "Conviene mirar el sitio de la Fundación a partir de abril-mayo.",
     "El formulario de 2025 (forms.gle/bPaj1TRKTVCo6zt47) ya no sirve."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -4476,7 +4651,8 @@
     "Está dirigida a quienes proponen actividades gratuitas para espacios con programación específica; no es una oferta de trabajo ni un premio para artistas.",
     "No hay remuneración indicada y las bases de cada espacio no pudieron consultarse.",
     "La repetición anual de la Feria es habitual, pero no está confirmada en una fuente."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -4502,7 +4678,8 @@
     "El formulario de fanzines corresponde a la edición 2026 y probablemente ya no esté vigente.",
     "El sitio no declara condiciones de elegibilidad para residentes, aunque el evento se realiza en Argentina.",
     "Conviene seguir las redes de la convención desde marzo-abril de 2027 para conocer la próxima convocatoria."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -4527,7 +4704,8 @@
     "La fuente oficial es la página de la Facultad de Diseño y Comunicación de la Universidad de Palermo; la URL de terceros que circula refleja la edición 2025, ya cerrada.",
     "La convocatoria 2026 figura como abierta pero con fecha límite a definir, algo dudoso a fines de noviembre; se recomienda confirmar por correo a premio.ilustracion@gmail.com.",
     "Se ceden derechos de exhibición y difusión a la Facultad."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "no",
@@ -4553,7 +4731,8 @@
     "La única edición registrada cerró el 27/9/2023 y no hay nueva edición en los listados del FNA 2024, 2025 y 2026.",
     "Una nota periodística que anunciaba una edición en agosto de 2026 es en realidad de septiembre de 2023.",
     "El Programa Federal de Apoyo a Editoriales Independientes 2026 estuvo abierto hasta el 19/11/2026 y ya venció."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "yes",
@@ -4579,7 +4758,8 @@
     "El formulario enlazado es el de la edición 2025 y casi seguro ya no sirve; hay que esperar la convocatoria 2027.",
     "No se pudo confirmar la edición 2026 porque el sitio de la Fundación no estuvo accesible.",
     "Contacto: premiospregonero@el-libro.org.ar, (011) 4370-0600."
-   ]
+   ],
+   "scanner_supported": false
   },
   {
    "elig": "no",
@@ -4605,7 +4785,8 @@
     "La página de postulación conserva texto de 2024 (cierre 2 de octubre de 2024) y está desactualizada.",
     "Las fuentes sobre la fecha de cierre de la ronda 2027 no coinciden; la página oficial solo indica 'antes del 1 de octubre de 2026'.",
     "No hay fechas publicadas para la próxima ronda."
-   ]
+   ],
+   "scanner_supported": false
   }
  ]
 }

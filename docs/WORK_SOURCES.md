@@ -9,7 +9,7 @@ This is a catalog of sources, not a promise that the scanner can read them. `doc
 | Country | Topic | Markdown | Structured rows |
 |---------|-------|----------|-----------------|
 | Argentina | Artists and musicians: grants, prizes, calls, public jobs and teaching, residencies, platforms | [`work-sources/ar/artes-musica.md`](work-sources/ar/artes-musica.md) | [`work-sources/ar/artes-musica.json`](work-sources/ar/artes-musica.json) |
-| Argentina | Trades and services: retail, fuel stations, logistics, construction trades, industry, hospitality, care, education, domestic and security work, rural and seasonal work, gig platforms, plus cross-cutting sources (armed and security forces, oil, gas and mining, entry-level services, provincial and municipal programs) | [`work-sources/ar/oficios-y-servicios.md`](work-sources/ar/oficios-y-servicios.md) | [`work-sources/ar/oficios-y-servicios.json`](work-sources/ar/oficios-y-servicios.json) |
+| Argentina | Work of any kind, by category: retail, fuel stations, logistics, construction trades, industry, hospitality, care, education, domestic and security work, rural and seasonal work, gig platforms, first job and training, public-sector calls (including armed and security forces), inclusive programs, public employment services, self-employment, call centers, non-technical remote work, work abroad | [`work-sources/ar/trabajo.md`](work-sources/ar/trabajo.md) | [`work-sources/ar/trabajo.json`](work-sources/ar/trabajo.json) |
 
 More categories and countries are added as separate files under `docs/work-sources/{country}/`. The Markdown is written in the language of the country; this index is in English.
 
