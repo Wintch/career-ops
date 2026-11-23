@@ -1,0 +1,103 @@
+# Atendimento ao cliente, administração e call centers
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Atento Brasil - vagas na Gupy (atendimento e operações)** (aberta ou vigente, verificada 2 vezes) https://atento.gupy.io/
+  - O que é: Candidatos a vagas de atendimento, operações e administrativas. O portal informa que todas as vagas são abertas a PcD e há bancos de talentos para 50+ e pessoas trans.
+  - Requisitos: Não listados na página inicial; variam por vaga. Vagas de operador/consultor de atendimento costumam ser porta de entrada, mas a exigência de experiência deve ser lida em cada anúncio.
+  - Pagamento ou benefício: sem dados (não exibido na listagem).
+  - Prazo ou ciclo: Contínuo: 141 vagas listadas sem filtros na data da leitura (2026-11-23); sem prazo.
+  - Como se candidatar: https://atento.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: As vagas vistas são em Teresina (PI), São Paulo, São José dos Campos (SP) e remoto, em atendimento, SAC, vendas e análise.
+  - Esclarecimento: Todas as vagas são abertas a pessoas com deficiência e beneficiários reabilitados da Previdência; há bancos de talentos para Pessoas 50+ e Pessoas Trans.
+  - Esclarecimento: A página avisa que nunca se cobra pagamento em processo seletivo.
+  - Esclarecimento: Parte das vagas é de nível analista ou sênior, nem todas são de entrada.
+- **Teleperformance (TP) - vagas no Vagas.com.br** (aberta ou vigente, verificada 1 vez) https://site.vagas.com.br/teleperformance
+  - O que é: Candidatos a agente de atendimento (SAC, suporte técnico, store support), inclusive uma vaga voltada a jovens de 17 anos.
+  - Requisitos: Idade, escolaridade e experiência não aparecem na listagem; constam apenas na descrição de cada vaga. Uma das vagas é voltada a jovens de 17 anos (CLT). Aceita candidatos de qualquer cidade do Brasil, segundo a página.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: R$ 1.000,00 a R$ 2.000,00 por mês (faixa exibida nas vagas vistas); benefícios citados: CLT desde o primeiro dia de treinamento, assistência médica, vale-transporte, plano odontológico, vale-refeição e/ou alimentação.
+  - Prazo ou ciclo: Aberto de forma contínua; cada vaga tem prazo próprio (vistas: 17 a 18 dias restantes, sem data absoluta na página).
+  - Como se candidatar: https://site.vagas.com.br/teleperformance
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O endereço informado redireciona para site.vagas.com.br/teleperformance.
+  - Esclarecimento: A página diz haver 9 vagas abertas, mas lista apenas 3, todas em São Paulo/SP.
+  - Esclarecimento: A candidatura é feita pelo link 'Ver descrição da vaga' de cada anúncio, e os requisitos exatos constam em cada vaga.
+- **Vivo - vagas de atendimento (Gupy)** (aberta ou vigente, verificada 2 vezes) https://atendimentovivo.gupy.io/
+  - O que é: Candidatos a atendente de suporte técnico e relacionamento B2B; há vagas e banco de talentos para pessoas com deficiência e banco de diversidade.
+  - Requisitos: Requisitos não aparecem na listagem; constam em cada vaga. Não há exigência visível de experiência na página. Há vaga exclusiva para pessoas com deficiência (PcD).
+  - Pagamento ou benefício: sem dados (não exibido na listagem).
+  - Prazo ou ciclo: Aberto de forma contínua; 6 vagas vistas em 2026-11-23 (inclui bancos de talentos).
+  - Como se candidatar: https://atendimentovivo.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página diz que a única forma de participar dos processos da Vivo é pelas páginas da Vivo na Gupy e que não há cobrança de taxa.
+  - Esclarecimento: Parte das vagas vistas é presencial, em São Paulo/SP e Curitiba/PR.
+- **Vivo - vagas em lojas e carreiras gerais (Gupy)** (aberta ou vigente, verificada 2 vezes) https://lojasvivo.gupy.io/
+  - O que é: Candidatos a vagas em lojas (consultor de negócios, analista de lojas, suporte comercial); a rede tem mais de mil lojas em todos os estados, segundo a página. O portal geral da Vivo (https://vivo.gupy.io/) reúne 70 vagas corporativas, entre elas analista de serviço ao cliente exclusiva para PcD.
+  - Requisitos: Requisitos não aparecem na listagem; constam em cada vaga. A maioria é efetivo (CLT).
+  - Pagamento ou benefício: sem dados (não exibido na listagem).
+  - Prazo ou ciclo: Aberto de forma contínua; 155 vagas vistas em 2026-11-23 (16 páginas de 10).
+  - Como se candidatar: https://lojasvivo.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É uma página de lojas, não de carreiras gerais da Vivo.
+  - Esclarecimento: A candidatura é feita somente pelas páginas da Vivo na Gupy, sem cobrança de taxa.
+- **Algar - banco de talentos e vagas abertas** (aberta ou vigente, verificada 2 vezes) https://algar.gupy.io/
+  - O que é: Candidatos a vagas de atendimento, administrativo, vendas e operações de telecom, em Uberlândia/MG e outras cidades.
+  - Requisitos: Não informados na página; constam em cada vaga. Há uma vaga de Assistente Administrativo reservada a PCD. As vagas vistas são, em geral, de nível analista/consultor, com poucas de entrada.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto de forma contínua (banco de talentos); 13 vagas vistas na Gupy da Algar em 2026-11-23.
+  - Como se candidatar: https://algar.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página loja.algar.com.br/carreiras apenas direciona: o banco de talentos leva a https://algar.gupy.io/ e as 'vagas abertas' a um portal Sinergy RH.
+  - Esclarecimento: A página da Algar na Gupy é o link principal mais direto.
+- **Stefanini Brasil - vagas na Gupy** (aberta ou vigente, verificada 2 vezes) https://stefanini.gupy.io/
+  - O que é: Candidatos a vagas de TI, suporte, atendimento financeiro, administrativo e jurídico; maioria de vagas de nível técnico e pleno, com alguns cargos júnior.
+  - Requisitos: Requisitos não aparecem na listagem; constam em cada vaga. As vagas vistas são todas efetivo (CLT) e de perfil técnico ou de nível analista/pleno/sênior (administrador de redes, advogado, agile coach, analista BI, analista cloud); não é rota típica para primeiro emprego sem experiência.
+  - Pagamento ou benefício: sem dados (não exibido na listagem).
+  - Prazo ou ciclo: Aberto de forma contínua; 193 vagas vistas em 2026-11-23 (cerca de 20 páginas de 10).
+  - Como se candidatar: https://stefanini.gupy.io/
+  - Leitura automática possível: sem dados
+- **Vagas.com.br - vagas de atendimento sem experiência** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-atendente-sem-experiencia
+  - O que é: Qualquer pessoa em busca de vagas de atendente, operador de call center e primeiro emprego; empresas de contact center publicam ali, como a Teleperformance.
+  - Requisitos: O mais comum é ensino médio completo, comunicação e organização. Sem experiência exigida em parte das vagas (ex.: DPSP, Trasmontano Saúde). Outras exigem experiência. Ler cada anúncio.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (varia por anúncio)
+  - Prazo ou ciclo: Aberto todo o ano. A página listava 201 vagas, com anúncios datados de 30/9/2026 a 13/11/2026. Cada anúncio tem sua própria data.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-atendente-sem-experiencia (cadastro de currículo e candidatura em cada vaga)
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Nem toda vaga é realmente sem experiência: algumas pedem experiência ou são de nível pleno ou superior.
+  - Esclarecimento: Parte dos anúncios é de empresas confidenciais e de consultorias de recrutamento.
+  - Esclarecimento: Saber se a vaga ainda está aberta depende de abrir cada anúncio.
+- **Teleperformance Brasil - Portal 'Vem Ser TP' (vagas de atendimento)** (não verificada, verificada 1 vez) https://portaldevagas.teleperformance.com.br/
+  - O que é: Candidatos a vagas de atendimento e back office, com listagem por perfil: Iniciante, Estudante, Experiente e PcD.
+  - Requisitos: Requisitos de experiência, escolaridade e idade não aparecem na página. Há perfil 'Iniciante', o que sugere vagas sem experiência, mas isso não foi confirmado por vaga. Cadastro por e-mail, SMS, LinkedIn ou Apple; testes com 70% para aprovação; ter documentos digitalizados à mão.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Portal permanente (aparenta contínuo); sem prazos vistos.
+  - Como se candidatar: https://portaldevagas.teleperformance.com.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Só uma vaga em destaque aparece (Agente de Atendimento - Backoffice produtos bancários, presencial, São Paulo); as demais só aparecem após login, então o volume de vagas abertas não foi confirmado.
+  - Esclarecimento: O perfil 'Iniciante' sugere vagas sem experiência, mas isso não foi confirmado por vaga.
+  - Esclarecimento: A titularidade oficial da Teleperformance não foi confirmada por outro canal além do domínio e da marca.
+- **Concentrix Brasil - portal de carreiras** (não verificada, verificada 1 vez) https://jobs.concentrix.com/brazil/pt-br/
+  - O que é: Candidatos a vagas de atendimento ao cliente e suporte, além de outras áreas (vendas, finanças, TI, RH, treinamento e qualidade), com filtro por país e categoria.
+  - Requisitos: sem dados (nenhuma vaga ou requisito visível na captura).
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Não confirmado: a listagem carrega por JavaScript e não apareceu ('Loading jobs...').
+  - Como se candidatar: https://jobs.concentrix.com/brazil/pt-br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A listagem de vagas carrega por JavaScript e nenhuma vaga aberta pôde ser vista.
+  - Esclarecimento: A candidatura espontânea ou comunidade de talentos não foi confirmada.
+  - Esclarecimento: A página traz aviso de fraude no recrutamento.
+- **AeC (contact center) - vagas** (não verificada, verificada 1 vez) sem dados
+  - O que é: Candidatos a atendente e agente de contact center em várias cidades; a empresa se apresenta com mais de 50 mil colaboradores em 11 cidades.
+  - Requisitos: Segundo notícias antigas (não verificadas na fonte oficial): maior de 18 anos e ensino médio completo; algumas vagas não exigem experiência.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Não confirmado: a página retornou HTTP 403 e a busca não achou página oficial de carreiras da AeC; as notícias de mutirões encontradas são antigas (a mais recente, abril de 2024).
+  - Como se candidatar: https://www.infojobs.com.br/aec-centro-de-contatos/vagas
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O site oficial de carreiras da AeC não foi confirmado; a página do InfoJobs é um agregador, não a rota oficial.
+  - Esclarecimento: Os requisitos citados vêm de notícias antigas (a mais recente, de abril de 2024) e não foram verificados na fonte oficial.
+  - Esclarecimento: A contratação contínua em volume não foi confirmada.

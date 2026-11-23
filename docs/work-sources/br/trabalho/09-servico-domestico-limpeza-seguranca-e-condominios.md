@@ -1,0 +1,127 @@
+# Serviço doméstico, limpeza, segurança e condomínios
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **eSocial Doméstico – área do empregador doméstico (cadastro do empregador e do trabalhador)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/esocial/pt-br/empregador-domestico
+  - O que é: Empregadores domésticos (famílias) que contratam trabalhadores domésticos mais de 2 dias por semana, e trabalhadores que querem ter o vínculo formalizado (empregada doméstica, cuidador, motorista particular, caseiro etc.).
+  - Requisitos: Não listados na página; ver Manual do Empregador Doméstico e FAQ. Sem exigência de experiência para consultar.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Não se aplica (orientação sobre formalização; sem salário nem bolsa).
+  - Prazo ou ciclo: Permanente, sem prazo de abertura. A data de vencimento do DAE (dia 7) não foi confirmada na página lida.
+  - Como se candidatar: https://www.gov.br/esocial/pt-br/empregador-domestico
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Página de orientação e suporte, não lista de vagas nem canal de candidatura.
+  - Esclarecimento: O passo a passo do cadastro e os requisitos estão nos materiais ligados (Como acessar o eSocial e Manual do Empregador Doméstico), não na própria página.
+  - Esclarecimento: Telefone de suporte: 0800 730 0888.
+- **Direitos do trabalhador doméstico (eSocial)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/esocial/pt-br/empregador-domestico/orientacoes/direitos-do-trabalhador-domestico
+  - O que é: Trabalhadores domésticos formais e seus empregadores; útil para quem vai começar a trabalhar na área e quer saber o que deve constar do contrato.
+  - Requisitos: Não se aplica (página informativa para trabalhadores e empregadores domésticos).
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Piso: salário mínimo nacional (ou piso estadual maior), conforme a página.
+  - Prazo ou ciclo: Informação permanente (sem prazo).
+  - Como se candidatar: Consulta informativa. Para formalizar o vínculo, o empregador faz o registro no eSocial Doméstico (ver fonte anterior).
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Página informativa, não oferta vagas.
+  - Esclarecimento: Consta como atualizada em 17/01/2022 (publicada em 31/03/2017); os valores e regras devem ser conferidos na legislação vigente.
+- **FENATRAD – Federação Nacional das Trabalhadoras Domésticas (sindicatos, orientação sobre direitos e curso Trabalho Doméstico Cidadão)** (aberta ou vigente, verificada 2 vezes) https://fenatrad.org.br/
+  - O que é: Trabalhadoras e trabalhadores domésticos, inclusive quem quer entrar na área e precisa de orientação sobre direitos e sindicato local.
+  - Requisitos: Voltado a trabalhadoras domésticas. A página do TDC (https://fenatrad.org.br/trabalho-domestico-cidadao/) não informa etapas de inscrição, elegibilidade nem requisitos. Não há exigência de experiência, diploma ou idade informada, porque o site não trata disso.
+  - Pagamento ou benefício: Não se aplica (entidade sindical; não é empregadora). Nenhum valor visto.
+  - Prazo ou ciclo: Aberto (orientação sobre direitos e lista de sindicatos filiados, sem prazo). O Trabalho Doméstico Cidadão (TDC) não tem calendário público: só foram vistas notícias de módulos realizados em 2025 e março de 2026, sem inscrição aberta.
+  - Como se candidatar: https://fenatrad.org.br/sindicatos-filiados/
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Não é fonte de vagas: serve para sindicato, orientação sobre direitos e formação.
+  - Esclarecimento: O curso Trabalho Doméstico Cidadão (TDC) não tem calendário público nem etapas de inscrição divulgadas; só há notícias de módulos realizados em 2025 e março de 2026.
+  - Esclarecimento: A página de sindicatos filiados não traz lista completa.
+  - Esclarecimento: A única seleção vista foi para oficial administrativa e de finanças de um projeto da própria entidade, sem relação com rota geral de emprego.
+- **Polícia Federal – Segurança Privada: profissionais (vigilante, carteira, consulta de credenciados)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/pf/pt-br/assuntos/seguranca-privada/profissionais-seguranca-privada
+  - O que é: Quem quer trabalhar como vigilante e quem quer conferir se um vigilante ou instrutor é credenciado; também contratantes que querem verificar a autenticidade de uma carteira.
+  - Requisitos: A própria página não descreve requisitos. Pela Lei nº 14.967/2024 (Estatuto da Segurança Privada), art. 28, segundo resultado de busca secundário que não foi conferido no texto da lei: nacionalidade brasileira, idade mínima de 21 anos, ensino fundamental completo, exames de saúde e ausência de antecedentes impeditivos, além do curso de formação de vigilante (200 h, segundo um guia de cursos não oficial) em escola credenciada pela PF. Nenhuma experiência prévia exigida segundo essas fontes. Conferir o texto da lei e a PF antes de decidir.
+  - Pagamento ou benefício: Não se aplica. A página não informa taxas; a PF não paga nem concede nada aqui.
+  - Prazo ou ciclo: Aberto, permanente (serviço contínuo, sem prazo).
+  - Como se candidatar: https://www.gov.br/pf/pt-br/assuntos/seguranca-privada/profissionais-seguranca-privada/carteiras-identificacao
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Portal de serviços, não de vagas; a própria página não descreve requisitos.
+  - Esclarecimento: É útil para conferir se uma escola ou instrutor é credenciado antes de pagar o curso.
+- **Polícia Federal – Escolas de formação de vigilantes (manuais, cartilhas, certificado de formação)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/pf/pt-br/assuntos/seguranca-privada/escolas-formacao
+  - O que é: Candidatos a vigilante que precisam do curso de formação; escolas e instrutores credenciados.
+  - Requisitos: Matéria jornalística de 17/06/2026 (Campo Grande News, não oficial) informa que a Portaria nº 22 passou a exigir ensino fundamental completo (9º ano) para a formação, em vigor desde 03/08/2026, no lugar do equivalente ao 5º ano. A página oficial não traz esse requisito. Idade mínima de 21 anos e demais condições vêm do Estatuto da Segurança Privada (fonte secundária, não conferida). Sem exigência de experiência prévia.
+  - Pagamento ou benefício: Não se aplica (a PF credencia escolas; o curso é cobrado pelas escolas privadas, valor sem dados).
+  - Prazo ou ciclo: Aberto, permanente. Correção do alegado: a norma vigente dos planos de curso é a Portaria nº 22-CGCSP/DPA/PF, de 15/06/2026 (publicada na página em 22/07/2026), e os cadernos didáticos foram publicados em 27/07/2026. A Portaria nº 26 (7/7/2026) e o 'Manual do Vigilante' de 22/7/2026 NÃO constam na página nem na lista de portarias; o documento mais próximo é o 'Caderno Didático – Formação e Atualização do Vigilante'.
+  - Como se candidatar: https://www.gov.br/pf/pt-br/assuntos/seguranca-privada/escolas-formacao/portarias-cursos
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Não é fonte de vagas; serve para encontrar escola credenciada e entender a formação exigida.
+  - Esclarecimento: A exigência de ensino fundamental completo (Portaria nº 22, em vigor desde 03/08/2026) vem de matéria jornalística não oficial e não consta na página oficial; a idade mínima de 21 anos vem de fonte secundária.
+  - Esclarecimento: O curso é cobrado pelas escolas privadas, e o valor não é informado.
+- **Prosegur Brasil – portal de carreiras (vigilância, logística de valores, serviços auxiliares, jovem aprendiz)** (aberta ou vigente, verificada 2 vezes) https://prosegur.referrals.selectminds.com/br
+  - O que é: Candidatos a vigilante, transporte de valores, serviços auxiliares, escritório, atendimento, TI e programa de jovens talentos, aprendizes e estagiários.
+  - Requisitos: Nenhum requisito listado na página inicial; variam por vaga. Categorias vistas: logística e gestão de numerário; vigilância e serviços auxiliares; escritório e serviços centrais; comercial, atendimento e SAC; TI e cibersegurança; sistemas de segurança eletrônica e proteção contra incêndio; transporte de valores; e 'Jovens talentos, aprendizes e estagiários'. Para vigilante, aplicam-se as exigências legais (carteira nacional de vigilante); para aprendiz, as regras gerais do programa (elegibilidade não informada na página).
+  - Pagamento ou benefício: sem dados (nenhum salário visto; a convenção coletiva do sindicato local define o piso de vigilante).
+  - Prazo ou ciclo: Aberto, com vagas rotativas; o portal permite buscar por tipo e local e enviar currículo pelo perfil mesmo sem vaga aderente. Nenhuma data ou contagem de vagas vista na página.
+  - Como se candidatar: https://prosegur.referrals.selectminds.com/br
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: O portal não listou vagas nem contagem, então a existência de vagas abertas não está confirmada.
+  - Esclarecimento: Não há página dedicada de jovem aprendiz; a categoria mais próxima é "Jovens talentos, aprendizes e estagiários".
+  - Esclarecimento: Empregador de grande volume no setor de segurança privada e transporte de valores.
+- **Fenavist – federação das empresas de segurança privada e transporte de valores (sindicatos e convenções coletivas)** (aberta ou vigente, verificada 2 vezes) https://fenavist.org.br/home-2/
+  - O que é: Quem quer localizar os sindicatos e associações do setor de segurança privada e consultar convenções coletivas; é entidade patronal, voltada às empresas.
+  - Requisitos: Nenhum: é um site de consulta. Não oferece vagas nem exige idade, documentos ou experiência.
+  - Pagamento ou benefício: Não se aplica. Há página de piso salarial (https://fenavist.org.br/piso-salarial/), cujo conteúdo não foi lido.
+  - Prazo ou ciclo: Aberto, permanente (consulta a sindicatos e convenções; sem vagas, sem inscrição). Site atualizado: notícia de 17/11/2026.
+  - Como se candidatar: https://fenavist.org.br/sindicatos/
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Federação patronal (empresas), não sindicato de trabalhadores; não lista vagas e não é rota de candidatura.
+  - Esclarecimento: A página de piso salarial existe, mas seu conteúdo não está resumido aqui.
+  - Esclarecimento: Os treinamentos do INASEP não têm calendário detalhado.
+- **Parafuzo – cadastro de profissionais de limpeza (diaristas)** (aberta ou vigente, verificada 2 vezes) https://www.parafuzo.com/trabalhe/
+  - O que é: Profissionais de limpeza (limpeza padrão, pesada, passar roupa, pré-mudança, pós-obra, limpeza comercial e montagem de móveis) que atendem clientes por plataforma.
+  - Requisitos: É preciso preencher o questionário e enviar fotos da documentação (quais documentos: sem dados). Idade e exigência de experiência não são informadas (a pergunta 'Preciso de experiência para trabalhar?' aparece sem resposta). Cadastro sujeito a aprovação.
+  - Pagamento ou benefício: sem dados (a página afirma que trabalhar 15 dias pelo Parafuzo pode render mais que um salário mínimo, sem detalhar; perguntas sobre ganhos e taxas aparecem sem resposta). Benefícios citados na tabela comparativa: vale-transporte e refeição e seguro de acidentes.
+  - Prazo ou ciclo: Aberto; cadastro por formulário, sem prazo. A equipe analisa os dados e contata por e-mail, telefone ou WhatsApp; depois da aprovação, baixa-se o aplicativo Parafuzo Profissionais.
+  - Como se candidatar: https://cadastro.parafuzo.com/
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Plataforma de serviços com vínculo de prestação autônoma; as condições devem ser lidas nos termos de uso.
+  - Esclarecimento: Algumas cidades atendidas aparecem sem link de contratação.
+  - Esclarecimento: A página não responde sobre experiência exigida, ganhos e taxas.
+- **Vagas.com – vagas de auxiliar de limpeza (empresas, hospitais, condomínios, aeroportos)** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-auxiliar-de-limpeza
+  - O que é: Candidatos a auxiliar de limpeza, servente, higienizador e serviços gerais, em empregos CLT de empresas, hospitais, universidades, shoppings e aviação.
+  - Requisitos: Maioria de cargos auxiliares/operacionais (294 de 355). Escolaridade mais comum: ensino médio; uma vaga pede ensino fundamental completo. Algumas pedem experiência (por exemplo, mínimo de 1 ano em limpeza, em uma vaga de São Paulo); outras não especificam. Algumas são exclusivas para pessoa com deficiência (PCD). Cadastro gratuito e login necessários para candidatar-se.
+  - Pagamento ou benefício: Mediana salarial divulgada pela página para o cargo no Brasil: R$ 1.130,00. Benefícios comuns: plano de saúde (248 vagas) e vale-transporte (234 vagas).
+  - Prazo ou ciclo: Aberto, renovado continuamente. A consulta de 2026-11-23 mostrou 355 vagas de auxiliar de limpeza no Brasil, com datas de publicação de 24/08/2026 a 14/11/2026; cerca de 40 aparecem por página e há 'mostrar mais vagas'. A data de encerramento de cada vaga não é exibida, então algumas podem já estar preenchidas.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-auxiliar-de-limpeza
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: A data de encerramento de cada vaga não é exibida, então algumas podem já estar preenchidas.
+  - Esclarecimento: Várias vagas são confidenciais quanto ao empregador.
+  - Esclarecimento: Cadastro gratuito e login são necessários para candidatar-se.
+- **Vagas.com – vagas de vigilante e controlador de acesso** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-vigilante
+  - O que é: Vigilantes e controladores de acesso já formados, para empresas e instituições.
+  - Requisitos: Ensino médio completo na maioria das vagas; curso de formação de vigilante (exigido ou preferido em várias); reciclagem atualizada, CNH B e extensão de escolta armada em vagas específicas; disponibilidade de escala (ex.: 12x36). Controlador de acesso e algumas vagas de segurança pedem informática básica. A experiência varia por vaga.
+  - Pagamento ou benefício: Mediana nacional de R$ 1.584,00 segundo a própria página; cada vaga define o seu valor. Benefícios citados: vale-refeição, vale-transporte, plano de saúde e odontológico, seguro de vida.
+  - Prazo ou ciclo: Aberto todo o ano; lista renovada continuamente. Em 2026-11-23 a página mostrava 8 vagas, publicadas entre 27/10/2026 e 11/11/2026.
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-vigilante
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Não há confirmação de que cada vaga individual continue aberta.
+  - Esclarecimento: A candidatura pelo site exige cadastro gratuito e login.
+  - Esclarecimento: O número de vagas é pequeno e concentrado em poucos estados (MT, RJ, MG e SP).
+- **Vagas.com – vagas de porteiro** (aberta ou vigente, verificada 2 vezes) https://www.vagas.com.br/vagas-de-porteiro
+  - O que é: Candidatos a porteiro (portaria, escala 12x36) em empresas e condomínios, geralmente via agências de RH.
+  - Requisitos: Adecco: ensino médio completo, experiência na função, residir na localidade, escala 12x36 das 07h às 19h. Instituto Evoé: ensino fundamental completo e experiência como porteiro. AeC: requisitos não informados. Nem todas as vagas exigem experiência prévia comprovada na listagem lida; conferir cada anúncio.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto todo o ano; poucas vagas em 2026-11-23 (4 vagas, publicadas entre 05/10/2026 e 26/10/2026 e uma com "Há 4 dias").
+  - Como se candidatar: https://www.vagas.com.br/vagas-de-porteiro
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Não há confirmação de que cada vaga continue aberta; a candidatura é feita na página de cada vaga, com cadastro gratuito.
+  - Esclarecimento: As vagas da Adecco aceitam apenas candidatos da cidade da vaga; a da AeC aceita Belo Horizonte e região.
+  - Esclarecimento: Poucas vagas ativas, em Porto Velho/RO, Marituba/PA, Rio de Janeiro/RJ e Belo Horizonte/MG.
+- **Triider – cadastro de profissional (limpeza, manutenção e reformas)** (não verificada, verificada 1 vez) https://www.triider.com.br/seja-um-profissional/
+  - O que é: Profissionais autônomos de manutenção e reforma; a plataforma também tem categoria de serviços de limpeza para clientes.
+  - Requisitos: Cadastro inicial com dados pessoais ou da empresa; para serviços pós-pagos, envio de documentos e informações para verificação de segurança. A página convida profissionais autônomos e empresas de construção e reforma; não lista limpeza como categoria de cadastro, embora o site ofereça serviço de limpeza (inclusive de ar-condicionado). Experiência exigida: sem dados.
+  - Pagamento ou benefício: sem dados (cobra 'uma pequena taxa apenas pelos serviços que executar' nos serviços pós-pagos; valor ou percentual não informado).
+  - Prazo ou ciclo: Aberto (botão 'Quero me cadastrar' e aplicativo Triider para Profissionais), sem prazo. A operação atual não foi confirmada: a página mostra copyright 2026, mas a avaliação de cliente mais recente exibida é de novembro de 2021.
+  - Como se candidatar: https://www.triider.com.br/seja-um-profissional/
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: A página foca em manutenção, construção e reforma e não lista limpeza como categoria de cadastro, embora o site ofereça serviço de limpeza.
+  - Esclarecimento: A operação atual não está confirmada: a página mostra copyright 2026, mas a avaliação de cliente mais recente é de novembro de 2021.
+  - Esclarecimento: A taxa cobrada nos serviços pós-pagos não tem valor ou percentual informado.

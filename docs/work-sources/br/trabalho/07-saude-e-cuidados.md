@@ -1,0 +1,120 @@
+# Saúde e cuidados
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **GHC (Grupo Hospitalar Conceição) - Concursos Públicos em andamento** (aberta ou vigente, verificada 2 vezes) https://www.ghc.com.br/portalrh/institucional.asp?idRegistro=97&idRegistroSM=83&idRegistroML=90&idSBM=1
+  - O que é: Candidatos a empregos públicos no GHC (Porto Alegre/RS e Hospital Geral de Bonsucesso/RJ nos concursos listados), com formação de nível médio, técnico ou superior conforme o cargo.
+  - Requisitos: Variam por cargo (constam no edital na FUNDATEC); a página não informa; há PDF de salário básico por categoria sem valores no texto lido
+  - Pagamento ou benefício: sem dados (PDF 'Salário básico por categoria profissional' na página, valores não lidos)
+  - Prazo ou ciclo: Edital 03/2026: inscrições de 05/11/2026 a 04/12/2026 (aberto em 23/11/2026)
+  - Como se candidatar: https://www.fundatec.org.br
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: O Edital 03/2026 forma cadastro de reserva em diversos cargos, para atuação em Porto Alegre, com inscrições e informações no site da FUNDATEC.
+  - Esclarecimento: O Edital 02/2025 (Hospital Geral de Bonsucesso) aparece com comunicados e convocações; os demais editais listados têm listas de aprovados na FUNDATEC ou constam como encerrados.
+  - Esclarecimento: Cargos específicos e requisitos constam apenas no edital.
+- **Rede D'Or São Luiz - Trabalhe Conosco (portal de vagas)** (aberta ou vigente, verificada 2 vezes) https://rededor.gupy.io/
+  - O que é: Candidatos a vagas em hospitais e unidades da rede, em várias áreas. O portal registrou 2.137 vagas em 214 páginas na consulta; as primeiras páginas mostraram vagas de apoio hospitalar (ex.: ajudante de cozinha em hospitais da BA, MG e SP), tipo 'Efetivo' ou 'Banco de talentos'. Funções de enfermagem não apareceram nas páginas vistas, mas o portal tem filtros por área, estado e cidade.
+  - Requisitos: Varia por vaga (não exibido na listagem); cadastro na plataforma Gupy
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto o ano todo (portal contínuo com banco de talentos)
+  - Como se candidatar: https://rededor.gupy.io/
+  - Leitura automática possível: Plataforma Gupy (HTML paginado); API pública: sem dados
+  - Esclarecimento: O aviso do portal informa que a empresa não cobra valor em nenhuma etapa e que o processo pode usar IA e automação com supervisão humana.
+  - Esclarecimento: Há páginas separadas para IDOR, Oncologia D'Or, Jovem Aprendiz, Tecnologia e Estágio e Trainee.
+  - Esclarecimento: Funções de enfermagem não apareceram nas páginas vistas, e a exigência de experiência depende de cada vaga.
+- **Hapvida NotreDame Intermédica - Trabalhe Conosco (portal de vagas)** (aberta ou vigente, verificada 2 vezes) https://hapvidandi.gupy.io/
+  - O que é: Candidatos a vagas em hospitais, clínicas e unidades de urgência e diagnóstico da rede, e também em áreas administrativas. O portal registrou 932 vagas em 94 páginas; as primeiras mostraram funções administrativas, jurídicas e de credenciamento, em SP, CE, GO e RS, 'Efetivo' ou temporário. Funções assistenciais não apareceram nas páginas vistas, mas há filtros por área e estado. A página institucional cita um programa interno de desenvolvimento para profissionais de enfermagem.
+  - Requisitos: Varia por vaga (não exibido na listagem); cadastro na plataforma Gupy
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto o ano todo (portal permanente com banco de talentos)
+  - Como se candidatar: https://hapvidandi.gupy.io/
+  - Leitura automática possível: Plataforma Gupy (HTML paginado); API pública: sem dados
+  - Esclarecimento: Os passos de candidatura estão na página de cada vaga; há também o botão "Participar do banco de talentos".
+  - Esclarecimento: Funções assistenciais não apareceram nas páginas vistas, mas o portal tem filtros por área e estado.
+  - Esclarecimento: O total de 932 vagas foi observado sem filtros e pode variar.
+- **Hospital Sírio-Libanês - Trabalhe Conosco (portal de vagas)** (aberta ou vigente, verificada 2 vezes) https://hospitalsiriolibanes.org.br/trabalhe-conosco
+  - O que é: Candidatos a vagas no hospital e na Faculdade Sírio-Libanês; a página também oferece banco de talentos, com contato apenas quando surge vaga compatível.
+  - Requisitos: sem dados (varia por vaga); exige formulário de conflito de interesses via ÚNICO
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto o ano todo via banco de talentos; vagas em portal próprio (quantidade de vagas abertas não verificada)
+  - Como se candidatar: https://vagas.hsl.org.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O contato do banco de talentos só ocorre quando surgirem oportunidades compatíveis com a área.
+  - Esclarecimento: Para avançar em uma candidatura é preciso criar conta, completar o perfil e preencher o formulário de conflito de interesses enviado por e-mail e SMS pela plataforma ÚNICO.
+  - Esclarecimento: A listagem de vagas do portal vagas.hsl.org.br não pôde ser lida, então o número de vagas abertas não foi confirmado.
+  - Esclarecimento: A página não menciona estágio nem Jovem Aprendiz.
+- **Unimed do Brasil - Trabalhe Conosco (banco de talentos)** (aberta ou vigente, verificada 2 vezes) https://www.unimed.coop.br/site/unimed-mais-proxima
+  - O que é: Candidatos que queiram entrar no banco de talentos do site nacional. A página 'Unimed mais próxima' ajuda a localizar a cooperativa local. Não foi confirmado se cada cooperativa contrata separadamente ou onde publica as suas vagas.
+  - Requisitos: Nenhum requisito listado no banco de talentos. A página não informa idade, escolaridade ou experiência. Vagas específicas dependem de cada cooperativa Unimed local.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto todo o ano (banco de talentos na Gupy, sem prazo informado).
+  - Como se candidatar: https://unimed-brasil.gupy.io/jobs/4250664?jobBoardSource=gupy_public_page
+  - Leitura automática possível: Plataforma Gupy; API pública: sem dados
+  - Esclarecimento: O link "Trabalhe Conosco - Acesse nosso Banco de Talentos" leva a um cadastro genérico na Gupy; a confederação representa as cooperativas.
+  - Esclarecimento: Para vagas concretas, a própria página orienta procurar a Unimed local pela página "Unimed mais próxima".
+  - Esclarecimento: Não foi confirmado se cada cooperativa contrata separadamente nem onde publica suas vagas.
+- **Mais Médicos - chamamentos públicos (médicos)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/saude/pt-br/composicao/sgtes/mais-medicos/chamamentos-publicos/ultimos-chamamentos
+  - O que é: Somente médicos. Prioridade para médicos com diploma brasileiro ou revalidado e CRM; depois médicos brasileiros formados no exterior e médicos estrangeiros habilitados no país de formação. Incluída por ser uma porta oficial de provimento de médicos no SUS, não para os demais perfis.
+  - Requisitos: Médicos formados em instituições brasileiras ou estrangeiras (PMMB, edital nº 24/2026, prestação de 4 anos) e médicos já especialistas (PMM-E, edital nº 28/2026). Exige diploma de Medicina; demais critérios estão nos editais (sem dados).
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados (a bolsa não consta nas páginas lidas; está no edital)
+  - Prazo ou ciclo: Em 23/11/2026 a listagem rotulava como 'Aberto' o chamamento nº 3/2026 (PMMB) e o nº 6/2026 (PMM-E, publicado em 22/06/2026); os demais constavam como 'Encerrado'. Nenhum prazo de inscrição exibido; a listagem traz 'Atualizado em 09/06/2025'.
+  - Como se candidatar: https://pgpp.agenciasus.org.br/login
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: A inscrição do PMMB é feita pelo portal pgpp.agenciasus.org.br e a do PMM-E pelo login UNA-SUS (acesso.unasus.gov.br, sistema app.edital.unasus.gov.br); convém confirmar no edital se ainda há etapa de inscrição aberta.
+  - Esclarecimento: A data de publicação do chamamento nº 3/2026 não ficou comprovada com segurança, pois leituras da página divergiram entre 01/04/2026 e 27/04/2026.
+  - Esclarecimento: O ciclo "45º" consta no chamamento nº 2/2026 (publicado em 24/02/2026), e não no nº 3/2026.
+  - Esclarecimento: A página não informa prazos de inscrição nem requisitos; é preciso abrir o edital de cada chamamento.
+- **Ebserh (HU Brasil) - Concursos Públicos e Seleções dos hospitais universitários federais** (não verificada, verificada 1 vez) https://www.gov.br/hubrasil/pt-br/acesso-a-informacao/agentes-publicos/concursos-e-selecoes/concursos/2026/editais
+  - O que é: Candidatos a empregos públicos (CLT) em hospitais universitários federais: área assistencial (enfermagem, técnicos, médicos, outras profissões da saúde) e administrativa. A página de 2026 lista o Edital nº 1 (2 jan 2026), o Edital nº 2 - Ebserh/Nacional - Área Médica e o Edital nº 3 (22 jun 2026) de homologação.
+  - Requisitos: sem dados (constam nos editais)
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Ciclo irregular; abertura de inscrições em 2026 não confirmada
+  - Como se candidatar: sem dados (conferir no edital em PDF; inscrições costumam ser feitas no site da banca organizadora)
+  - Leitura automática possível: nenhuma vista (páginas HTML gov.br com anexos em PDF)
+  - Esclarecimento: A página oficial está atual (atualizada em 23/06/2026) e tem seções Editais, Comunicados, Resultados e Convocações.
+  - Esclarecimento: O texto da página não informa se há inscrições abertas, datas, cargos, requisitos ou remuneração; esses dados estão nos PDFs dos editais.
+  - Esclarecimento: Seleções (PSS) por hospital não foram verificadas, e não há prova de chamada aberta no momento.
+- **Cofen - Conselhos Regionais de Enfermagem (COREN): registro profissional** (não verificada, verificada 1 vez) https://www.cofen.gov.br/contato/conselhos-regionais/
+  - O que é: Auxiliares e técnicos de enfermagem e enfermeiros que precisam do registro profissional para atuar. A inscrição é feita no COREN do estado onde a pessoa vai trabalhar. A página lista cada COREN com endereço e site (ex.: COREN-SP https://portal.coren-sp.gov.br/, COREN-RS https://www.portalcoren-rs.gov.br/, COREN-SC https://www.corensc.gov.br/, COREN-SE https://coren-se.gov.br/, COREN-TO https://www.corentocantins.org.br/).
+  - Requisitos: A página não informa requisitos de registro. Apenas lista os 27 conselhos regionais (um por estado e o DF), com endereço, CEP e link do site de cada um.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Contínuo (referência, sem ciclo).
+  - Como se candidatar: Escolher o COREN do estado na página e seguir o procedimento de inscrição indicado por ele.
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: A página não é fonte de vagas nem de inscrição; serve para localizar o COREN do estado, onde se faz o registro profissional de enfermagem.
+  - Esclarecimento: As regras de inscrição devem ser consultadas no site de cada COREN.
+- **Mais Saúde com Agente - formação técnica para agentes comunitários de saúde e de combate às endemias** (não verificada, verificada 1 vez) https://www.gov.br/saude/pt-br/composicao/sgtes/mais-saude-com-agente
+  - O que é: Agentes Comunitários de Saúde (ACS) e Agentes de Combate às Endemias (ACE) já vinculados ao SUS, que buscam formação técnica em saúde. A primeira turma teve meta de 200 mil agentes (1.275 h, semipresencial, mínimo de 10 meses). A página não trata de contratação nem de curso de técnico em enfermagem.
+  - Requisitos: Destinado somente a agentes comunitários de saúde (ACS) e agentes de combate às endemias (ACE) em exercício. Não é aberto ao público em geral nem a quem busca o primeiro emprego. Demais critérios e documentos: sem dados.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: Curso gratuito, a distância (UFRGS), com atividades práticas no local de trabalho. Sem salário.
+  - Prazo ou ciclo: Nenhuma inscrição aberta foi vista em 23/11/2026. Turmas por edital (1ª e 2ª turmas já realizadas; 2ª turma concluída em 2025). Próxima turma: sem dados.
+  - Como se candidatar: https://maissaudecomagente.ufrgs.br/
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: A página não é fonte de vagas de emprego e não trata de contratação nem de curso de técnico em enfermagem.
+  - Esclarecimento: O curso se destina somente a ACS e ACE em exercício; não se aplica a quem não exerce essas funções.
+  - Esclarecimento: O site da UFRGS não mostra inscrição de nova turma.
+- **Residência em Área Profissional da Saúde (multiprofissional e uniprofissional) - Ministério da Saúde** (não verificada, verificada 1 vez) https://www.gov.br/saude/pt-br/composicao/sgtes/residencias-em-saude/residencia-em-area-profissional-da-saude
+  - O que é: Graduados em Biomedicina, Ciências Biológicas, Educação Física, Enfermagem, Farmácia, Fisioterapia, Fonoaudiologia, Medicina Veterinária, Nutrição, Odontologia, Psicologia, Serviço Social, Terapia Ocupacional, Saúde Coletiva e Física Médica. É uma especialização em serviço com 60 horas semanais, mínimo de 2 anos e dedicação exclusiva.
+  - Requisitos: Graduação em uma das áreas: Biomedicina, Ciências Biológicas, Educação Física, Enfermagem, Farmácia, Fisioterapia, Fonoaudiologia, Medicina Veterinária, Nutrição, Odontologia, Psicologia, Serviço Social, Terapia Ocupacional, Saúde Coletiva e Física Médica. Exige diploma de nível superior, portanto não serve a quem não tem graduação.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: Bolsa: não informada na página (sem dados). Regime de dedicação exclusiva, 60 horas semanais, mínimo de 2 anos.
+  - Prazo ou ciclo: Não confirmado. A página cita o Chamamento nº 06/2026, mas não traz datas; nada sobre o exame ENARE foi visto na página oficial (o site do ENARE 2026 não foi reaberto nesta verificação).
+  - Como se candidatar: Inscrever-se no processo seletivo do programa desejado (ou no ENARE, quando o programa participa), conforme edital da instituição. O Ministério indica o e-mail residencias@saude.gov.br para contato.
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: Trata-se de programa oficial de pós-graduação lato sensu em serviço, mas o ciclo anual e o processo de inscrição não puderam ser comprovados; a página cita o Chamamento nº 06/2026 sem datas.
+  - Esclarecimento: A URL do chamamento 06/2026 retornou 404.
+  - Esclarecimento: Contato oficial: residencias@saude.gov.br.
+  - Esclarecimento: Convém verificar cada processo seletivo no site da instituição ofertante.
+- **Cuidadores.com.br - diretório de cuidadores, enfermeiros e técnicos de enfermagem** (não verificada, verificada 1 vez) https://www.cuidadores.com.br/
+  - O que é: Pessoas que atuam como cuidadores, enfermeiros ou técnicos de enfermagem e famílias que procuram esses profissionais. A busca permite escolher entre as três categorias. A página não informa se há intermediação com famílias ou agências, nem as condições de cobrança.
+  - Requisitos: O formulário pede localização e formação (opções: Cuidador, Enfermeiro, Técnico de Enfermagem). Nenhum requisito de experiência, certificado ou documento foi visto na página.
+  - Pagamento ou benefício: sem dados (a página de preços não foi lida; não se sabe se há custo para o profissional nem quanto o profissional recebe)
+  - Prazo ou ciclo: Cadastro aberto continuamente (formulário de cadastro disponível), sem prazo.
+  - Como se candidatar: https://www.cuidadores.com.br/cadastrar
+  - Leitura automática possível: nenhuma vista
+  - Esclarecimento: O site, sediado em Brasília (DF), é um diretório privado, não oficial.
+  - Esclarecimento: Não foi possível confirmar como funciona o cadastro de profissionais, o custo ou se é de fato um canal de contratação.
+  - Esclarecimento: Contato informado no site: contato@cuidadores.com.br.

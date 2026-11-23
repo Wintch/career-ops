@@ -1,0 +1,821 @@
+# Fontes transversais e de outros setores
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **CETESB - concurso público 2026 (FCC), cargos de ensino médio e técnico** (aberta ou vigente, verificada 2 vezes) https://www.concursosfcc.com.br/concursos/cetes126/index.html
+  - O que é: Candidatos a Técnico Administrativo (ensino médio) e Técnico Ambiental em Eletrônica, Mecânica, Química, Análises Clínicas e Meio Ambiente (curso técnico).
+  - Requisitos: Nível médio: Técnico Administrativo (sem exigência de experiência vista na página) e Técnico Ambiental (curso técnico em Eletrônica, Mecânica, Química, Análises Clínicas ou Meio Ambiente). Nível superior: formação específica por cargo. Idade e documentos: consultar o edital (não constam na página).
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Nível médio: R$ 5.614,38. Nível superior: R$ 8.971,98 (mais R$ 3.051,54 de piso por formação em alguns cargos). Taxa de inscrição: R$ 60,00 (médio) e R$ 90,00 (superior).
+  - Prazo ou ciclo: Inscrições de 12/11/2026 (10h) a 14/12/2026 (23h59), horário de Brasília. Isenção de taxa de 12/11 (10h) a 14/11/2026 (já encerrada). Pagamento até 15/12/2026. Editais nº 01/2026 (nível superior) e nº 02/2026 (nível médio e técnico), publicados no Diário Oficial em 10/11/2026. Data da prova: não consta na página. Recorrência: não confirmada.
+  - Como se candidatar: https://www.concursosfcc.com.br/concursos/cetes126/index.html
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página cobre os dois editais (nível superior e nível médio/técnico), não só os de nível médio.
+  - Esclarecimento: O número de vagas não é informado na página.
+  - Esclarecimento: A inscrição é feita somente pela internet, com pagamento por boleto.
+- **Plano Geral de Convocação (PGC) do Serviço Militar Inicial - Ministério da Defesa** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/defesa/pt-br/assuntos/servico-militar/plano-geral-de-convocacao-1
+  - O que é: Jovens que se alistam e podem ser incorporados à Marinha, ao Exército ou à Aeronáutica no serviço militar inicial (obrigatório masculino, SMIO, e voluntário feminino, SMIF).
+  - Requisitos: Homens: alistamento obrigatório no ano em que completam 18 anos. Mulheres: voluntário, no ano em que completam 18 anos. Login gov.br. Outras condições (município com organização militar, etc.) constam nos planos e não foram lidas.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (a página não informa).
+  - Prazo ou ciclo: Anual. O plano é elaborado todo ano pelo Estado-Maior Conjunto das Forças Armadas e regula o recrutamento da classe a incorporar no ano seguinte. A página lista PGC 2026 (SMIO e SMIF, com retificação), PGC 2025, 2024 e 2023. O plano de 2027 não aparece na página lida. O alistamento on-line de 2027 abre em 01/01/2027, com prazo até 30/06/2027.
+  - Como se candidatar: https://alistamento.eb.mil.br/
+  - Leitura automática possível: Portarias em PDF (por exemplo, Portaria GM MD nº 5.484/2024, PGC/SMIO 2026); sem API.
+  - Esclarecimento: Trata-se de serviço militar inicial (obrigatório para homens), não de vaga de emprego comum.
+  - Esclarecimento: A página traz apenas os documentos dos planos; requisitos e datas estão nos PDFs e no site de alistamento.
+  - Esclarecimento: O alistamento é feito pelo site do Exército com login gov.br.
+  - Esclarecimento: O conteúdo detalhado do PGC 2027 não foi confirmado.
+- **Alistamento Militar Feminino (voluntário) - Ministério da Defesa** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/defesa/pt-br/assuntos/servico-militar/alistamento-militar-feminino
+  - O que é: Mulheres que completam 18 anos no ano do alistamento, residentes em município com organização militar participante, interessadas em prestar serviço militar inicial.
+  - Requisitos: Mulheres que completam 18 anos no ano do alistamento, residentes em município com Organização Militar incluída no Plano Geral de Convocação (SMIF). Inscrição on-line com login gov.br, ou na Junta de Serviço Militar. Sem exigência de experiência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (a página não informa).
+  - Prazo ou ciclo: Serviço permanente. Envio da solicitação em média 60 dias úteis, acompanhamento até 60 dias úteis, estimativa geral de 31 a 60 dias corridos. Sem ciclo de inscrição.
+  - Como se candidatar: https://alistamento.eb.mil.br/
+  - Leitura automática possível: PDF do PGC SMIF 2026 no site do ministério; sem API.
+  - Esclarecimento: A página do gov.br ainda descreve o ciclo de 2025 e está desatualizada para 2027; a data de 2027 vem do site alistamento.eb.mil.br.
+  - Esclarecimento: A página informa 1.500 vagas iniciais e serviço de 12 meses, prorrogável por períodos de um ano até o máximo de 8 anos; após a incorporação, o serviço passa a ser obrigatório.
+  - Esclarecimento: É serviço militar, não emprego comum, e a remuneração não é informada.
+- **HU-Brasil (Ebserh) - concursos, processos seletivos e estágios dos hospitais universitários** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.gov.br/hubrasil/pt-br/acesso-a-informacao/agentes-publicos/concursos-e-selecoes
+  - O que é: Candidatos a vagas em hospitais universitários federais, por concurso, Processo Seletivo Simplificado (PSS) ou Processo Seletivo Emergencial (PSE).
+  - Requisitos: Variam por edital (cargos de nível médio, técnico e superior); consultar o edital. Não constam na página.
+  - Pagamento ou benefício: Varia por cargo e edital; não consta na página.
+  - Prazo ou ciclo: Contínuo, sem chamada aberta confirmada em 23/11/2026. A página de Concursos tem arquivo por ano (2026, 2024, 2023, 2022, 2019, 2018, 2016, 2015, 2014, 2013, 2012), o que indica ciclos frequentes. Seção de Seleções com Processo Seletivo Simplificado (PSS), Processo Seletivo Emergencial (PSE) e Chamamento Público; há também Programa de Estágio Não Obrigatório. Não foi visto prazo de inscrição aberto em nenhuma delas.
+  - Como se candidatar: https://www.gov.br/hubrasil/pt-br/acesso-a-informacao/agentes-publicos/concursos-e-selecoes/concursos
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O endereço originalmente informado levava ao menu do portal; a seção atual está em gov.br/hubrasil, pois a rede hospitalar passou a se chamar HU-Brasil.
+  - Esclarecimento: A existência de edital aberto em 23/11/2026 não foi confirmada; a lista de 2026 deve ser verificada diretamente no site.
+- **Vagas do Dia - SineBahia (SETRE, Bahia)** (aberta ou vigente, verificada 2 vezes) http://www.ba.gov.br/trabalho/280/vagas-do-dia-sinebahia
+  - O que é: Trabalhadores que buscam vaga na Bahia; há vagas afirmativas exclusivas para pessoas com deficiência (PCD) e algumas reservadas a mulheres.
+  - Requisitos: Escolaridade de 'não exige' até superior completo, conforme a vaga. Experiência geralmente de 3 a 6 meses, muitas vezes registrada na CTPS; várias vagas aceitam quem tem pouca experiência. CNH em funções de motorista e vendedor externo. Algumas vagas exclusivas para PCD.
+  - Pagamento ou benefício: Varia por vaga: de R$ 1.660 a R$ 3.500 nos exemplos vistos; muitas vagas 'a combinar'.
+  - Prazo ou ciclo: Recorrente: página atualizada em 19/11/2026 com vagas para 23/11/2026; lista renovada com frequência.
+  - Como se candidatar: http://www.ba.gov.br/trabalho/280/vagas-do-dia-sinebahia
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página não descreve o procedimento de candidatura; indica atendimento presencial no SineBahia (Av. Luís Viana Filho, 2ª Avenida, Plataforma III, nº 200, CAB, Salvador, 8h30 às 12h e 13h30 às 18h) e contato em /trabalho/fale-conosco.
+  - Esclarecimento: A data de publicação da página (22/02/2024) difere da data das vagas, então convém confirmar a validade de cada vaga.
+  - Esclarecimento: A lista da página refere-se apenas a vagas para Salvador na data indicada.
+  - Esclarecimento: Há vagas exclusivas para PCD e algumas reservadas a mulheres.
+- **SineBahia - serviços, cadastro, qualificação e Contrate.Ba (SETRE)** (aberta ou vigente, verificada 2 vezes) https://www.ba.gov.br/trabalho/sinebahia
+  - O que é: Desempregados e trabalhadores autônomos da Bahia; serviços específicos para mulheres e PCD.
+  - Requisitos: A página não lista documentos nem critérios de elegibilidade; não consta exigência de experiência. O cadastro presencial é feito numa unidade; há serviços online por páginas vinculadas (cadastro de trabalhador IMO, serviço 1370; busca de vagas, serviço 942).
+  - Pagamento ou benefício: Gratuito (serviço público); não paga remuneração.
+  - Prazo ou ciclo: Aberto todo o ano (atendimento contínuo nas unidades SineBahia; horário informado: 8h30-12h e 13h30-18h na sede).
+  - Como se candidatar: https://www.ba.gov.br/trabalho/sinebahia
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O cadastro é feito presencialmente em uma unidade do SineBahia; os serviços online ficam em páginas vinculadas (cadastro de trabalhador IMO, serviço 1370; busca de vagas, serviço 942).
+  - Esclarecimento: A unidade TRT de Camaçari consta como temporariamente fechada.
+  - Esclarecimento: A lista de unidades é um PDF de 2023 e pode estar desatualizada.
+  - Esclarecimento: O horário informado é o da sede da SETRE; os horários das demais unidades não constam na página.
+- **Agência do Trabalhador do Paraná - vagas, Sine Fácil e agendamento (SETR-PR)** (aberta ou vigente, verificada 2 vezes) https://www.trabalho.pr.gov.br/servicos/Trabalho/Vagas/Procurar-vagas-de-emprego-na-Agencia-do-Trabalhador-xv3Kb5N1
+  - O que é: Trabalhadores com mais de 16 anos que buscam vaga ou orientação/reorientação profissional no Paraná. Serviço gratuito.
+  - Requisitos: Trabalhadores com mais de 16 anos. Presencial: CTPS, RG e CPF. Manter o cadastro atualizado no aplicativo ou na Agência. Não exige experiência.
+  - Pagamento ou benefício: Gratuito (serviço público); não paga remuneração.
+  - Prazo ou ciclo: Aberto todo o ano (agendamento online imediato; atendimento presencial contínuo).
+  - Como se candidatar: https://www.trabalho.pr.gov.br/agendamento
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Há três vias: agendamento online com visita à Agência, aplicativo Sine Fácil (com emissão de carta de encaminhamento) ou atendimento presencial.
+  - Esclarecimento: O uso do Sine Fácil depende de um código obtido pelo chat do trabalhador em sac.trabalho.pr.gov.br.
+  - Esclarecimento: Os links de agendamento levam a agendamento.pr.gov.br, formulário externo.
+  - Esclarecimento: A página não informa a quantidade de vagas, e o encaminhamento a entrevista depende das vagas oferecidas.
+- **Sine-IDT Ceará - portal de vagas (IDT) e atendimento nas unidades** (aberta ou vigente, verificada 2 vezes) https://vagas.idt.org.br
+  - O que é: Trabalhadores que buscam vaga no Ceará; vagas regulares, inclusivas (ampla concorrência, acessíveis a PCD) e exclusivas para PCD.
+  - Requisitos: A página não especifica requisitos de cadastro. Os requisitos variam por vaga (a busca tem filtro de experiência, o que indica vagas com e sem exigência). Não confirmado que haja vagas sem experiência no momento da verificação.
+  - Pagamento ou benefício: Gratuito (serviço público); a remuneração depende de cada vaga.
+  - Prazo ou ciclo: Aberto todo o ano; lista atualizada duas vezes ao dia (11h30 e 16h30), conforme a página. Na captura, os contadores de vagas apareciam como 0 com a página ainda carregando, então não foi possível ver vagas concretas.
+  - Como se candidatar: https://vagas.idt.org.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Os contadores de vagas apareciam como 0 com a página ainda carregando, então não foi possível ver vagas concretas nem confirmar vagas sem exigência de experiência.
+  - Esclarecimento: Para se candidatar, é preciso ligar para a unidade indicada na vaga ou enviar currículo ao e-mail da unidade, com o nome da vaga no assunto.
+  - Esclarecimento: O portal recomenda agendar a visita em idt.org.br (idt.org.br/saa4); nas unidades Vapt Vupt o agendamento é separado, por meuvaptvupt.com.br; sem agendamento, o atendimento depende de haver vaga na agenda.
+  - Esclarecimento: Central de atendimento: (85) 3222.0340.
+- **FGTAS - Agências FGTAS/Sine (Rio Grande do Sul)** (aberta ou vigente, verificada 2 vezes) https://www.fgtas.rs.gov.br/agencias-fgtas-sine
+  - O que é: Trabalhadores do Rio Grande do Sul que buscam vagas, seguro-desemprego ou CTPS; empregadores que cadastram vagas.
+  - Requisitos: Comparecer à agência com documento de identificação que mostre CPF e foto. Não exige experiência para o cadastro; os requisitos variam por vaga.
+  - Pagamento ou benefício: Gratuito (serviço público); a remuneração depende de cada vaga.
+  - Prazo ou ciclo: Serviço permanente, sem prazo. Manchete de 19/11/2026 informa 6.392 vagas; o número é de uma data específica e pode mudar.
+  - Como se candidatar: https://www.fgtas.rs.gov.br/agencias-fgtas-sine
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O número de 6.392 vagas vem de uma manchete de 19/11/2026 e pode mudar.
+  - Esclarecimento: A lista individual de agências, endereços e telefones não aparece na página (consultar 'Mais Links Úteis' ou Fale Conosco).
+  - Esclarecimento: O atendimento é presencial na agência mais próxima ou online, pelo Portal Emprega Brasil ou pela Carteira de Trabalho Digital.
+  - Esclarecimento: Sede: Av. Borges de Medeiros, 521, Porto Alegre, 8h30-12h e 13h30-17h; e-mail fgtas@fgtas.rs.gov.br.
+- **IDT / Sine-CE - Instituto de Desenvolvimento do Trabalho (Ceará)** (aberta ou vigente, verificada 2 vezes) https://www.idt.org.br
+  - O que é: Trabalhadores, empresas e profissionais autônomos do Ceará; o portal tem acesso a vagas, intermediação, Seguro-Desemprego, Carteira de Trabalho e qualificação.
+  - Requisitos: Não detalhados na página inicial. Não há exigência de experiência ou escolaridade para usar o atendimento; cada vaga define os seus requisitos (filtros por escolaridade, experiência e PCD).
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Serviço gratuito; os salários variam conforme a vaga
+  - Prazo ou ciclo: Atendimento contínuo, sem prazo; "Vagas em destaque" vazio e última notícia de vagas datada de 20/05/2026.
+  - Como se candidatar: https://www.idt.org.br/saa4
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A seção "Vagas em destaque" estava vazia e a última notícia de vagas é de 20/05/2026.
+  - Esclarecimento: A página inicial não descreve requisitos nem passo a passo de cadastro, nem informa horário de funcionamento.
+  - Esclarecimento: Há agendamento de atendimento (idt.org.br/saa4) e WhatsApp (85) 2180-6210; não há indicação de que o agendamento seja recomendado ou obrigatório.
+  - Esclarecimento: Consulta de vagas em vagas.idt.org.br; o alcance é o estado do Ceará, com unidades em Fortaleza e no interior.
+- **Sine Manaus - intermediação de mão de obra e mutirões de vagas (Semtepi, Prefeitura de Manaus)** (aberta ou vigente, verificada 2 vezes) https://www.manaus.am.gov.br/semtepi/sine-manaus/
+  - O que é: Pessoas que buscam emprego em Manaus, inclusive no Polo Industrial. Os exemplos de vagas incluem Auxiliar de Produção (Ensino Fundamental completo, sem experiência exigida) e Auxiliar de Serviços Gerais.
+  - Requisitos: Cadastro presencial em um dos postos. Documentos exigidos não listados na página (a prática usual é levar documento pessoal e currículo; confirmar no posto). Sem exigência de experiência declarada.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Serviço gratuito; salários variam conforme a vaga (não vistos)
+  - Prazo ou ciclo: Atendimento de segunda a sexta, das 8h às 14h (confirmado); ofertas de vagas periódicas. A página inicial da Semtepi traz a manchete 'Sine Manaus oferta 961 vagas de emprego nesta segunda-feira, 23/11' (a manchete não informa o ano; 23/11/2026 é segunda-feira)
+  - Como se candidatar: https://www.manaus.am.gov.br/semtepi/sine-manaus/
+  - Leitura automática possível: no
+  - Esclarecimento: O número de 961 vagas aparece só na manchete da página inicial da Semtepi, sem a matéria completa e sem indicar o ano.
+  - Esclarecimento: Os documentos exigidos para o cadastro não são listados na página; convém confirmar no posto.
+  - Esclarecimento: Os postos ficam na Av. Constantino Nery, 1.272 (São Geraldo) e no Shopping Phelippe Daou, Av. Camapuã, 2.939 (Cidade de Deus).
+  - Esclarecimento: Os salários variam conforme a vaga e não constam na página.
+- **Senac MG - Programa Senac de Gratuidade (cursos gratuitos, Consulta de Vagas)** (aberta ou vigente, verificada 2 vezes) https://www.mg.senac.br/psg
+  - O que é: Pessoas com renda familiar per capita de até 2 salários mínimos, em cursos gratuitos das unidades do Senac em Minas Gerais.
+  - Requisitos: Renda familiar mensal per capita de até 2 salários mínimos. Documentos: documento de identidade, CPF, comprovante de residência e comprovante de escolaridade, além dos requisitos de cada curso. Sem limite geral de idade; a faixa de 14 a 24 anos vale só para Jovem Aprendiz (sem limite para pessoas com deficiência). Matrícula confirmada após validação dos documentos; documento falso cancela a matrícula.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Gratuito (curso sem custo para o aluno).
+  - Prazo ou ciclo: Aberto todo o ano: cada unidade define datas, cursos e turnos; matrícula por ordem de chegada até esgotar as vagas. Sem prazo único.
+  - Como se candidatar: https://www.mg.senac.br/cursos
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página /cursos ('Consulta de Vagas') não exibiu a lista de cursos ao ser carregada, então as vagas atuais não foram vistas.
+  - Esclarecimento: A matrícula é por ordem de inscrição, até o limite das vagas, e só é confirmada após validação dos documentos, com notificação por e-mail; documento falso cancela a matrícula.
+  - Esclarecimento: A Aprendizagem Profissional Comercial não admite matrícula direta: a empresa contratante matricula o aprendiz.
+- **Qualifica Paraná 2026 - cursos presenciais gratuitos com subsídio (SETR-PR / SENAI-PR)** (aberta ou vigente, verificada 2 vezes) https://www.trabalho.pr.gov.br/Pagina/Qualifica-Parana-2023
+  - O que é: Moradores do Paraná com mais de 16 anos (18 para Instalação Elétrica e Soldagem), com ensino fundamental completo (autodeclarado) no mínimo.
+  - Requisitos: Mínimo de 16 anos (18 anos para eletricista e soldagem); autodeclarar ensino fundamental concluído; residir no Paraná. Não exige experiência. Inscrição por formulário online do SENAI-PR, ligado a partir da página da SETR.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Curso gratuito, com auxílio de R$ 42,00 por dia de aula (transporte e alimentação), até R$ 1.008,00 no total.
+  - Prazo ou ciclo: Edição 2026 em andamento (cronograma no PDF 'cursos_previstos_qualifica_parana_2026'); a página não informa prazos de inscrição nem datas de início. Programa com edições anuais anteriores (links para 2023 e 2024 na própria página), mas a repetição em 2027 não foi confirmada.
+  - Como se candidatar: https://www.trabalho.pr.gov.br/Pagina/Qualifica-Parana-2023
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A URL contém '2023', mas o conteúdo é a edição 2026; alguns links da página apontam para 2023 e 2024, então convém confirmar datas e locais com a SETR ou o SENAI-PR.
+  - Esclarecimento: Os cursos têm 96 horas (8 h de preparação para o mercado de trabalho) e ocorrem em unidades móveis do SENAI-PR.
+  - Esclarecimento: Entre os cursos estão soldagem, panificação e confeitaria, manutenção elétrica industrial, costura industrial, mecânica automotiva, refrigeração e climatização, informática, usinagem CNC e automação industrial.
+  - Esclarecimento: A inscrição é feita por formulário online do SENAI-PR, ligado a partir da página da SETR.
+- **Escola do Trabalhador 4.0 e Mais Qualificação (Paraná)** (aberta ou vigente, verificada 2 vezes) https://www.trabalho.pr.gov.br/Pagina/Escola-do-Trabalhador-40
+  - O que é: Pessoas com 14 anos ou mais (Escola do Trabalhador 4.0). No Mais Qualificação a página não informa o público.
+  - Requisitos: Escola do Trabalhador 4.0: idade mínima de 14 anos; não exige experiência nem diploma. Mais Qualificação: requisitos não informados.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Cursos gratuitos; sem remuneração.
+  - Prazo ou ciclo: Escola do Trabalhador 4.0: formulário de cadastro disponível, sem prazo informado (aparentemente aberto). Mais Qualificação: sem data; a página parece de cerca de 2023 e a situação em 2026 não foi confirmada.
+  - Como se candidatar: https://cadastro.escoladotrabalhador40.com.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A parte Mais Qualificação não deve ser tratada como aberta sem conferência: a página parece de cerca de 2023 e não informa datas, requisitos nem fases posteriores.
+  - Esclarecimento: O Mais Qualificação é um convênio SEIC, FIEP, SESI e SENAC, com 6.500 vagas na primeira fase e cursos EAD gratuitos.
+  - Esclarecimento: A Escola do Trabalhador 4.0 é uma plataforma online gratuita do Programa Manuel Querino (criado pelo Decreto 3.222, de 21/08/2023), em parceria SETR-PR, MTE e Microsoft, com cerca de 134 cursos e acesso gratuito ao Microsoft Office Online durante os cursos.
+- **Cartão Futuro (Paraná) - subvenção para contratação de jovem aprendiz** (aberta ou vigente, verificada 2 vezes) https://www.trabalho.pr.gov.br/Pagina/Cartao-Futuro
+  - O que é: Jovens aprendizes de 14 a 24 anos com renda familiar de até três salários mínimos, estudando ou com ensino médio concluído; pessoas com deficiência de qualquer idade. A subvenção é paga a empresas e entidades que contratam o aprendiz.
+  - Requisitos: Aprendiz: 14 a 24 anos (sem limite de idade para pessoa com deficiência), renda familiar total de até 3 salários mínimos, cursando ou com ensino médio concluído. Empregador: contratar o aprendiz até 60 dias antes de aderir, seguir a CLT e manter regularidade fiscal, FGTS, CADIN e GMS. Não exige experiência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Subvenção ao empregador de R$ 300 por mês por até dois anos por aprendiz (R$ 450 para aprendizes com deficiência, egressos do sistema prisional, em medida socioeducativa e outros casos protegidos); o salário do aprendiz é pago pela empresa.
+  - Prazo ou ciclo: Programa permanente (Lei estadual 20.084/2019, alterada em 2022); a página não informa prazos de adesão nem períodos de inscrição.
+  - Como se candidatar: https://cartaofuturo.pr.gov.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O programa é dirigido ao empregador, que se cadastra no portal cartaofuturo.pr.gov.br em uma de quatro modalidades: Padrão, Entidades Qualificadas, Repasse e Pública.
+  - Esclarecimento: O jovem não se candidata sozinho: precisa ser contratado como aprendiz e comprovar vulnerabilidade (declaração da assistência social ou resumo do CadÚnico).
+  - Esclarecimento: Contato: cartaofuturo@trabalho.pr.gov.br ou WhatsApp (41) 9 8736-8020, das 8h30 às 17h30.
+  - Esclarecimento: A página é voltada a empregadores e entidades, não a quem procura emprego.
+- **Polícia Federal - Segurança Privada: formação de vigilante (documentos de matrícula e portarias de curso)** (aberta ou vigente, verificada 2 vezes) https://www.gov.br/pt-br/servicos/registrar-certificado-de-formacao-de-vigilante
+  - O que é: Quem quer trabalhar como vigilante: o curso de formação, em escola autorizada pela PF, habilita ao trabalho de segurança privada em todo o território nacional.
+  - Requisitos: Documentos entregues à escola na matrícula: RG e CPF; certificado de reservista (homens); título de eleitor; certificado psicotécnico; atestado de aptidão física e mental; certidões de antecedentes criminais (federal, estadual, militar e eleitoral); comprovante de 5ª série do ensino fundamental; comprovante de residência e telefone atualizado. Idade mínima de 21 anos: informada só em reportagem, não confirmada em página oficial. Experiência prévia: não exigida (é curso de formação).
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Sem remuneração (é um curso, não uma vaga). Taxa de R$ 13,47 por aluno, paga pela escola e cobrada só no curso de formação. Valor da mensalidade da escola: sem dados.
+  - Prazo ou ciclo: Serviço contínuo, sem ciclo nem prazo de inscrição. A matrícula é feita nas escolas autorizadas. Certificado válido por 2 anos.
+  - Como se candidatar: sem dados
+  - Leitura automática possível: portarias e cadernos didáticos em PDF
+  - Esclarecimento: A página oficial é um serviço voltado às escolas de formação (que registram turmas no sistema GESP); a pessoa interessada não se candidata ali, e sim procura uma escola de formação de vigilantes autorizada pela PF e entrega os documentos a ela.
+  - Esclarecimento: A lista de escolas autorizadas não foi aberta, por isso não há link de inscrição confirmado.
+  - Esclarecimento: A idade mínima de 21 anos aparece só em reportagem, e a página não esclarece se estrangeiros podem se matricular.
+  - Esclarecimento: Contato da PF: (61) 2024-8172, dicof.cgcsp.dpa@pf.gov.br.
+- **Programa Senac de Gratuidade (PSG) - diretrizes nacionais** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://psg.se.senac.br/diretrizes
+  - O que é: Pessoas de baixa renda matriculadas ou egressas da educação básica e trabalhadores de baixa renda, empregados ou desempregados, para cursos gratuitos de formação inicial e continuada e técnicos de nível médio.
+  - Requisitos: Pessoas de baixa renda (renda familiar mensal per capita de até 2 salários-mínimos, por autodeclaração) que estejam matriculadas ou tenham concluído a educação básica, ou trabalhadores empregados ou desempregados. Priorizados quem é aluno e trabalhador ao mesmo tempo e usuários de programas de proteção a pessoas ameaçadas. Cada curso pode exigir idade e escolaridade mínimas.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Cursos gratuitos (sem mensalidade). Não há bolsa nem salário.
+  - Prazo ou ciclo: Sem prazo nem calendário nacional. O documento é de setembro de 2021 (versão 10). A oferta de cada ano segue o Plano de Aplicação Anual de cada regional.
+  - Como se candidatar: https://psg.se.senac.br/diretrizes
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O documento é de setembro de 2021 (versão 10), não do ciclo de 2026.
+  - Esclarecimento: Não há calendário nacional único: divulgação, inscrição e matrícula são definidas por cada regional, conforme o Plano de Aplicação Anual.
+  - Esclarecimento: O processo de inscrição do PSG não se aplica à Aprendizagem Profissional, que segue legislação própria.
+  - Esclarecimento: Datas e vagas atuais precisam ser consultadas no site do Senac de cada estado.
+- **IDT Ceará - Profissional Autônomo (app Tem Trabalho) e Projeto Incluir +** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://idt.org.br/autonomo/saiba-como-se-inscrever
+  - O que é: Autônomos que querem se cadastrar para receber oportunidades (app Tem Trabalho); Incluir + é voltado a trabalhadores em geral (prestadores de serviço, empregados e empreendedores) em municípios cearenses.
+  - Requisitos: Autônomo: requisitos e documentos não vistos. Incluir +: sem critérios formais na página ('trabalhadores em geral'); não exige experiência de forma explícita.
+  - Pagamento ou benefício: Autônomo: o trabalhador cobra pelos serviços prestados; valor não informado. Incluir +: curso gratuito; auxílio não informado.
+  - Prazo ou ciclo: Autônomo (app Tem Trabalho): aberto, sem prazo. Incluir +: as inscrições das turmas de 2026 (início de 20/07 a 16/11/2026, algumas até 18/12/2026) estão ENCERRADAS na página oficial; uma nova edição não foi confirmada.
+  - Como se candidatar: https://idt.org.br/autonomo/saiba-como-se-inscrever
+  - Leitura automática possível: sem dados
+  - Esclarecimento: As inscrições do Incluir + para as turmas de 2026 estão encerradas; o programa não deve ser apresentado como aberto, e uma nova edição não foi confirmada.
+  - Esclarecimento: O cadastro de autônomos é feito pelo app Tem Trabalho (Android e iOS), por WhatsApp (85) 98766.1853 ou por telefone (85) 2180.6211.
+  - Esclarecimento: A URL indicada trata apenas do autônomo; o Incluir + tem página própria (https://idt.org.br/educacao-profissional/incluir-mais-formacao-profissional-e-inclusao-socioprodutiva) e inscrição em https://idt.org.br/qualificacao/incluir-mais.
+  - Esclarecimento: O Incluir + oferece cursos de 100 horas em 14 municípios cearenses, entre eles Fortaleza, Iguatu, Juazeiro do Norte e Horizonte.
+- **Etec (Centro Paula Souza) - Vestibulinho para cursos técnicos gratuitos, SP** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://www.cps.sp.gov.br/etec/vestibulinho/
+  - O que é: Candidatos ao Ensino Médio, ao Médio integrado ao técnico, aos cursos técnicos e às especializações técnicas das Etecs.
+  - Requisitos: Cursos técnicos: estar cursando ou ter concluído ao menos o 2º ano do Ensino Médio. Ensino Médio e Médio integrado: certificado de conclusão do Ensino Fundamental (ou declaração/Encceja) até a matrícula. Enfermagem, Serviços de Restaurante e Bar e Viticultura e Enologia: ter 18 anos até 31/01/2027. Especializações técnicas exigem Ensino Médio concluído mais curso técnico na área. Documentos: CPF e senha de segurança no cadastro, ficha eletrônica e questionário socioeconômico. Não exige experiência profissional.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Gratuito (ensino público). Taxa de inscrição no vestibulinho: valor desconhecido.
+  - Prazo ou ciclo: Anual, com processo para o 1º semestre. Ciclo 1º semestre de 2027: inscrições de 02/09 a 10/11/2026 (já encerradas); prova em 06/12/2026 (locais divulgados em 02/12); gabarito em 09/12; resultado e 1ª chamada de matrícula em 11/01/2027. Janela do próximo processo: não informada na página (provavelmente 2027).
+  - Como se candidatar: https://vestibulinho.etec.sp.gov.br/
+  - Leitura automática possível: no
+  - Esclarecimento: O ciclo vigente já não aceita inscrições; a janela do próximo processo não é informada.
+  - Esclarecimento: Há taxa de participação no vestibulinho, com valor não informado na página.
+  - Esclarecimento: As datas foram lidas apenas na página do CPS.
+  - Esclarecimento: Não foi confirmado se há 2º semestre em 2026 nem a data do próximo edital.
+- **SMDET São Paulo - Qualificação Profissional (AvançaTech, Bolsa Trabalho, Operação Trabalho)** (não verificada, verificada 1 vez) https://prefeitura.sp.gov.br/web/desenvolvimento/w/cursos/17580
+  - O que é: Moradores da cidade de São Paulo; Bolsa Trabalho: jovens de 14 a 29 anos; Operação Trabalho (POT) e Mães Guardiãs: pessoas desempregadas em vulnerabilidade (Mães Guardiãs: mulheres mães de alunos da Rede Municipal).
+  - Requisitos: AvançaTech: mínimo de 16 anos e Ensino Fundamental II completo. Mães Guardiãs: mulheres desempregadas em situação de vulnerabilidade, especialmente mães de alunos da rede municipal. Demais programas: requisitos não informados. Nenhuma experiência prévia mencionada como exigência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Desconhecido (valores das bolsas não informados; AvançaTech é gratuito, com certificado)
+  - Prazo ou ciclo: Programas listados como em andamento em 2026, sem datas de inscrição nem prazos na página (carimbo de data da página: 19/06/2026). Recorrência anual não confirmada.
+  - Como se candidatar: https://cate.prefeitura.sp.gov.br/avancatech/cursos/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Sem prazo ou ciclo verificável, a página não permite classificar os programas como abertos nem recorrentes.
+  - Esclarecimento: Valores de bolsa, documentos exigidos e datas de inscrição não constam na página.
+  - Esclarecimento: O AvançaTech é um curso online de 60 horas, com aprovação ou prova de proficiência com 75% de aproveitamento antes da etapa presencial, e dá certificado.
+  - Esclarecimento: Contato da DQP: (11) 3224-6044; SMDET na Rua Líbero Badaró, 425, 8º e 12º andares, Centro; telefone 156.
+- **Semtepi Manaus - Qualificação Profissional e Central do Empreendedor** (não verificada, verificada 1 vez) https://www.manaus.am.gov.br/semtepi/qualificacao-profissional/
+  - O que é: Moradores de Manaus interessados em cursos e oficinas de qualificação e empreendedorismo.
+  - Requisitos: Não informados na página
+  - Pagamento ou benefício: Não informado (custo não aparece na página)
+  - Prazo ou ciclo: Sem turma aberta vista. As três ações listadas têm datas de março/abril sem ano (Marketing Empresarial e Empreendedorismo, 24 a 28/03; Elaboração de projetos na prática 2.0, 27/03; Academia de Emprego, 7 e 8/04) e já passaram
+  - Como se candidatar: Abrir a página, escolher a turma e preencher o formulário online de inscrição; encontros na Central do Empreendedor (Shopping Phelippe Daou) ou no Casarão da Inovação Cassina.
+  - Leitura automática possível: no
+  - Esclarecimento: As ações listadas têm datas sem ano e já passaram, ou estão sem link ("em breve"); não há turma aberta visível.
+  - Esclarecimento: A inscrição é por formulários do Google.
+  - Esclarecimento: Locais: Central do Empreendedor (Shopping Phelippe Daou, Av. Camapuã) e Casarão da Inovação Cassina (Rua Bernardo Ramos, Centro).
+  - Esclarecimento: Não há evidência de ciclo anual; novas turmas devem ser conferidas na página.
+- **Escolas de Aprendizes-Marinheiros (EAM) - Marinha do Brasil** (não verificada, verificada 1 vez) https://www.marinha.mil.br/eames/concurso/escolas-de-aprendizes-marinheiros
+  - O que é: Candidatos à formação de marinheiros do Corpo de Praças da Armada, em regime de internato, nas escolas de Fortaleza (CE), Olinda (PE), Vitória (ES) e Florianópolis (SC).
+  - Requisitos: sem dados (não vistos em fonte oficial; conferir no edital do concurso).
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Provável ciclo anual, mas não confirmado em página oficial. Pelo que apareceu em buscas (notícias, não fonte oficial), o concurso de 2026 teve inscrições de 27/01 a 02/03/2026 (prorrogadas), prova em 26/04/2026 e taxa de R$ 53,00; está encerrado. Próximo edital: sem dados.
+  - Como se candidatar: https://www.ingressonamarinha.mar.mil.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página do gov.br apenas descreve as escolas (curso de 46 semanas em regime de internato) e não traz admissão, idade, remuneração nem datas.
+  - Esclarecimento: Os dados de 2026 (754 vagas masculinas e 96 femininas, nas áreas Apoio, Eletroeletrônica e Mecânica) vêm só de notícias e devem ser conferidos no edital oficial.
+  - Esclarecimento: É formação militar, não emprego comum.
+- **Escola de Especialistas de Aeronáutica (EEAR) - formação de sargentos da FAB** (não verificada, verificada 1 vez) https://www2.fab.mil.br/eear/
+  - O que é: Instituição que forma e pós-forma sargentos especialistas da FAB, em Guaratinguetá (SP); é a rota de carreira de graduados para quem não tem curso superior.
+  - Requisitos: sem dados (não vistos em fonte oficial; conferir no edital).
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Provável ciclo duas vezes por ano (CFS 1 e CFS 2), segundo notícias, sem confirmação oficial. Segundo essas fontes, CFS 1/2027 teve inscrições em fevereiro/março de 2026 (175 vagas) e CFS 2/2027 de 11/06 a 02/07/2026 (235 vagas, taxa de R$ 100,00, prova em 22/11/2026). Nenhum edital aberto foi visto em 23/11/2026; próximo edital: sem dados.
+  - Como se candidatar: https://ingresso.eear.fab.mil.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página do gov.br apenas conta a história da escola e descreve os cursos de formação e aperfeiçoamento de sargentos; não informa concurso, requisitos, remuneração nem datas.
+  - Esclarecimento: Os dados de edital vêm apenas de sites de notícias, com divergência de datas entre eles.
+  - Esclarecimento: É formação de sargentos da FAB, carreira militar, não emprego comum.
+- **Instituições de ensino militar (Marinha, Exército e FAB) - Ministério da Defesa** (não verificada, verificada 1 vez) https://www.gov.br/defesa/pt-br/assuntos/ensino-e-pesquisa/copy_of_instituicoes-de-ensino-militar
+  - O que é: Qualquer pessoa que queira localizar as escolas de formação de cada força (Marinha, Exército, Aeronáutica) e chegar ao site do concurso de admissão de cada uma.
+  - Requisitos: sem dados (variam por instituição e edital).
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados (a página é um índice sem datas nem editais)
+  - Como se candidatar: sem dados
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página funciona como índice das instituições de ensino vinculadas à Marinha, ao Exército e à FAB e não traz prazos, editais nem requisitos.
+  - Esclarecimento: Informa apenas que o ingresso é por concurso público nacional, com provas de conhecimentos, testes físicos e exames médicos, e que a formação inclui graduação de oficiais de carreira, ensino técnico-profissional de sargentos e pós-graduação.
+  - Esclarecimento: Serve como ponto de partida, não como fonte de chamada aberta.
+- **Raia Drogasil (RD Saúde) - Trabalhe conosco (farmácias, centros de distribuição, atendimento e corporativo)** (aberta ou vigente, verificada 2 vezes) https://rdsaude.com.br/trabalhe-conosco/
+  - O que é: Qualquer pessoa interessada em vagas nas farmácias Raia e Drogasil, nos centros de distribuição, na central de atendimento ou na área corporativa.
+  - Requisitos: A página não informa idade, escolaridade nem experiência; os requisitos constam em cada vaga individual.
+  - Pagamento ou benefício: sem dados (a página não informa salário)
+  - Prazo ou ciclo: Aberto o ano todo (portal contínuo, sem prazo)
+  - Como se candidatar: https://rdsaude-farmacia.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página direciona para portais Gupy por área, entre eles rdsaude-farmacia.gupy.io e rdsaude-cd.gupy.io, e oferece um assistente de vagas por WhatsApp (https://wa.me/+5511972099086).
+  - Esclarecimento: Não menciona Jovem Aprendiz nem programa específico para PCD, embora vagas reservadas a PCD apareçam na Gupy.
+  - Esclarecimento: Universidade RD Saúde, Crescer e Trilhar são programas para colaboradores atuais, não de contratação.
+- **Raia Drogasil - vagas das farmácias na Gupy** (aberta ou vigente, verificada 2 vezes) https://rdsaude.com.br/trabalhe-conosco/
+  - O que é: Candidatos a vagas operacionais nas farmácias Raia e Drogasil em vários estados.
+  - Requisitos: A listagem não mostra requisitos; constam em cada vaga. Não foi visto exigência de experiência nem idade na listagem.
+  - Pagamento ou benefício: sem dados (benefícios listados: PPR, assistência médica e odontológica, seguro de vida, vale-transporte e vale-refeição, benefício farmácia, subsídio de academia, telemedicina, licença parental estendida)
+  - Prazo ou ciclo: Aberto o ano todo (listagem contínua); 1.888 vagas em 189 páginas na leitura de 2026-11-23
+  - Como se candidatar: https://rdsaude-farmacia.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O endereço Gupy específico é https://rdsaude-farmacia.gupy.io/.
+  - Esclarecimento: Várias vagas são reservadas a pessoas com deficiência.
+  - Esclarecimento: Não foi confirmado, vaga a vaga, se cada uma continua aberta.
+- **Raia Drogasil - vagas de centros de distribuição na Gupy** (aberta ou vigente, verificada 2 vezes) https://rdsaude.com.br/trabalhe-conosco/
+  - O que é: Candidatos a vagas operacionais de logística em centros de distribuição.
+  - Requisitos: A listagem não mostra requisitos; constam em cada vaga individual.
+  - Pagamento ou benefício: sem dados (benefícios listados: PPR, assistência médica e odontológica, refeitório no local, seguro de vida, vale-transporte, benefício farmácia, Gympass, cesta de Natal, licença parental estendida)
+  - Prazo ou ciclo: Aberto o ano todo (listagem contínua); 133 vagas em cerca de 14 páginas na leitura de 2026-11-23
+  - Como se candidatar: https://rdsaude-cd.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O endereço Gupy específico é https://rdsaude-cd.gupy.io/.
+  - Esclarecimento: A primeira página mostrava apenas vagas efetivas de Ajudante de Motorista, em várias cidades.
+  - Esclarecimento: Não foi confirmado, vaga a vaga, se cada uma continua aberta.
+- **Outback Steakhouse Brasil - Trabalhe Outback (vagas na Pandapé e programa Jovem Aprendiz)** (aberta ou vigente, verificada 2 vezes) https://www.outback.com.br/trabalhe-outback
+  - O que é: Candidatos a vagas de cozinha, salão e escritório; programa Jovem Aprendiz para quem está começando.
+  - Requisitos: Jovem Aprendiz: entre 18 e 24 anos. Demais vagas: requisitos constam em cada vaga na Pandapé; a página não exige experiência de forma geral e diz acolher candidatos de primeiro emprego.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto o ano todo (candidatura contínua pela Pandapé)
+  - Como se candidatar: https://outback.pandape.infojobs.com.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Todos os botões de candidatura levam ao portal https://outback.pandape.infojobs.com.br/, inclusive o do Jovem Aprendiz.
+  - Esclarecimento: A URL listada no catálogo (outback.com.br/trabalhe-outback) é a página institucional.
+  - Esclarecimento: O portal acolhe todos os perfis, inclusive pessoas com deficiência e quem busca o primeiro emprego, e aceita currículo mesmo sem vaga correspondente.
+- **Outback Steakhouse - portal de vagas na Pandapé (Infojobs)** (aberta ou vigente, verificada 2 vezes) https://www.outback.com.br/trabalhe-outback
+  - O que é: Candidatos a vagas presenciais em restaurantes Outback em 52 cidades.
+  - Requisitos: A listagem não mostra requisitos de experiência ou escolaridade; diz acolher todos os perfis, incluindo PCD e primeiro emprego.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (a listagem não mostra salário)
+  - Prazo ou ciclo: Aberto o ano todo; vagas em destaque datadas de 20/11/2026
+  - Como se candidatar: https://outback.pandape.infojobs.com.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A URL listada no catálogo (outback.com.br/trabalhe-outback) é a página institucional; o portal de vagas é https://outback.pandape.infojobs.com.br/.
+  - Esclarecimento: As vagas em destaque eram Auxiliar de Cozinha Linha Fria e Auxiliar de Limpeza Salão (Outback Alphaville, Barueri-SP) e Auxiliar de Cozinha Apoio (Outback Anália Franco, São Paulo-SP), todas CLT, presenciais e em escala 5x2.
+  - Esclarecimento: O total de vagas não é exibido; o portal aceita currículo sem vaga correspondente.
+- **Cacau Show - Carreiras (lojas, fábricas, logística, parques e hotéis)** (aberta ou vigente, verificada 2 vezes) https://carreiras.cacaushow.com.br/
+  - O que é: Candidatos a vagas em mais de 450 lojas próprias, fábricas, logística, parques e hotéis.
+  - Requisitos: A página não lista requisitos; diz buscar 'atitude, paixão e vontade de evoluir'. Requisitos constam em cada vaga na Gupy.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto o ano todo; '31 vagas abertas' na leitura de 2026-11-23
+  - Como se candidatar: https://cacaushow.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página direciona para o portal Gupy https://cacaushow.gupy.io/ e para um quadro específico de Natal.
+  - Esclarecimento: A página cita lojas, fábricas, centros logísticos, hotéis, parques, fazenda e escritórios, sem dizer quais contratam.
+  - Esclarecimento: A maioria das vagas é efetiva e de nível mais técnico ou de liderança; as de operação de loja aparecem via banco de talentos.
+- **Pague Menos e Extrafarma - Trabalhe conosco (vagas na Gupy)** (aberta ou vigente, verificada 2 vezes) https://paguemenosextrafarma.gupy.io/
+  - O que é: Candidatos a vagas em farmácias (principalmente Norte e Nordeste e outros estados), banco de talentos e estágio.
+  - Requisitos: Não informados na página inicial; constam em cada vaga. Nada indica exigência de experiência nas vagas de entrada, mas isso não foi confirmado vaga a vaga.
+  - Pagamento ou benefício: sem dados (não informado na página inicial)
+  - Prazo ou ciclo: Aberto todo o ano (fluxo contínuo); a página listava 45 vagas em 2026-11-23, com banco de talentos
+  - Como se candidatar: https://paguemenosextrafarma.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Há vagas efetivas, estágio (Estagiário de Farmácia) e bancos de talentos para lojas no Ceará e para pessoas com deficiência.
+  - Esclarecimento: Não foi confirmado, vaga a vaga, se as vagas de entrada dispensam experiência.
+  - Esclarecimento: Não foi confirmado que o domínio seja o oficial da empresa; o portal remete aos sites e redes das marcas.
+- **Bob's - Trabalhe conosco (lojas e áreas administrativas)** (aberta ou vigente, verificada 2 vezes) https://www.bobs.com.br/trabalhe-conosco
+  - O que é: Interessados em trabalhar em uma loja Bob's ou nas áreas administrativas do Rio de Janeiro e de São Paulo.
+  - Requisitos: Nenhum requisito listado na página; o formulário pede idade, estado civil, endereço, escolaridade e experiência (campos de preenchimento, não critérios de exclusão declarados). Não exige experiência de forma explícita.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto todo o ano (formulário permanente de currículo); nenhuma vaga específica listada
+  - Como se candidatar: https://www.bobs.com.br/trabalhe-conosco
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É um cadastro permanente de currículo, sem vagas nem prazos publicados e sem garantia de contato.
+  - Esclarecimento: O candidato escolhe entre uma loja Bob's ou escritório administrativo (Rio de Janeiro ou São Paulo), depois estado, cidade e loja, e preenche formulário com dados pessoais, escolaridade, cursos, idiomas, experiência e disponibilidade de horário.
+  - Esclarecimento: Os campos de idade, estado civil, endereço, escolaridade e experiência são de preenchimento, não critérios de exclusão declarados.
+  - Esclarecimento: A empresa informa oferecer treinamento prático e técnico.
+- **Dia Brasil (supermercados) - Carreiras (lojas, centros de distribuição e corporativo)** (aberta ou vigente, verificada 2 vezes) https://www.dia.com.br/carreiras/
+  - O que é: Candidatos a vagas em lojas, centros de distribuição e área corporativa.
+  - Requisitos: Não informados na lista; constam em cada vaga. Há vagas de Jovem Aprendiz (programa para jovens, com requisitos de idade definidos na lei e em cada anúncio) e vagas de operação de loja; não foi confirmado vaga a vaga se exigem experiência.
+  - Pagamento ou benefício: sem dados (alguns anúncios mostram salário; não coletado)
+  - Prazo ou ciclo: Aberto todo o ano; o portal de vagas mostrava 144 vagas em 2026-11-23
+  - Como se candidatar: https://diabrasil.pandape.infojobs.com.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página institucional só traz links para três portais na plataforma Pandapé (lojas, centros de distribuição e corporativo); a candidatura é feita no portal.
+  - Esclarecimento: Quem não encontra vaga pode usar 'Enviar CV'.
+  - Esclarecimento: A página oficial informa operação concentrada no estado de São Paulo (mais de 240 lojas, centro de distribuição e matriz).
+  - Esclarecimento: A página oficial não exibe prazo nem contagem de vagas; a contagem está no portal Pandapé.
+- **JBS (Seara, Friboi, Swift) - vagas no portal de carreiras (Gupy)** (aberta ou vigente, verificada 2 vezes) https://grupojbs.gupy.io
+  - O que é: Qualquer pessoa interessada em vagas na JBS e nas marcas Seara, Friboi e Swift: operação de frigoríficos e fábricas, armazém, cozinha industrial, agropecuária, administrativo e jurídico. Há vagas temporárias, efetivas e banco de talentos.
+  - Requisitos: Não informados na listagem; constam em cada vaga. Não foi verificado vaga a vaga se há posições sem exigência de experiência.
+  - Pagamento ou benefício: sem dados (não informado na listagem)
+  - Prazo ou ciclo: Aberto todo o ano (fluxo contínuo); a página listava 359 vagas em 36 páginas em 2026-11-23, com banco de talentos
+  - Como se candidatar: https://grupojbs.gupy.io
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A JBS só se comunica por domínios oficiais (@gupy.com.br, @jbs.com.br, @friboi.com.br, @jbssa.com, @seara.com.br, @swift.com.br); contato de outro domínio pode ser fraude.
+  - Esclarecimento: Salário e requisitos constam em cada vaga, não na listagem.
+  - Esclarecimento: Há vagas efetivas e temporárias, além da opção de participar do banco de talentos.
+- **MBRF (Marfrig + BRF) - página oficial 'Vagas'** (aberta ou vigente, verificada 2 vezes) https://www.mbrf.com/vagas/
+  - O que é: Pessoas interessadas em vagas na Marfrig e na BRF (frigoríficos, aves e suínos, alimentos processados, comercial e corporativo), no Brasil e no exterior.
+  - Requisitos: Não informados na página; constam em cada vaga.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto todo o ano; a página fala em milhares de vagas no Brasil e no exterior e em banco de talentos
+  - Como se candidatar: https://talents.mbrf.com
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página institucional encaminha para dois sites de vagas: Vagas Marfrig (trabalheconosco.vagas.com.br/marfrig) e Vagas BRF (talents.mbrf.com).
+  - Esclarecimento: A página não publica vagas nem números exatos.
+  - Esclarecimento: Permite cadastro no banco de talentos para receber avisos de novas oportunidades.
+- **MBRF (ex-BRF) - portal de talentos com busca de vagas** (aberta ou vigente, verificada 2 vezes) https://talents.mbrf.com
+  - O que é: Candidatos a vagas operacionais e de gestão nas fábricas e unidades da BRF/MBRF, principalmente no Sul, Centro-Oeste e Sudeste.
+  - Requisitos: Não informados na página inicial; constam em cada vaga.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto todo o ano; a página citava mais de 2 mil oportunidades
+  - Como se candidatar: https://talents.mbrf.com
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A busca mistura vagas do Brasil com vagas no exterior (por exemplo, fábrica Al Wafi); quem busca vaga no Brasil deve filtrar por localização.
+  - Esclarecimento: A página inicial não mostra o número de vagas no Brasil.
+  - Esclarecimento: Parcialmente redundante com www.mbrf.com/vagas/, que leva a este portal e ao de Marfrig.
+- **Marfrig - Trabalhe Conosco (Vagas.com)** (aberta ou vigente, verificada 2 vezes) https://www.mbrf.com/vagas/
+  - O que é: Candidatos a vagas nas áreas Indústria, Comercial e Corporativo da Marfrig (carne bovina, suína e aves).
+  - Requisitos: Não informados na página; constam em cada vaga.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto todo o ano, com banco de currículos; a página não mostra quantidade de vagas
+  - Como se candidatar: https://trabalheconosco.vagas.com.br/marfrig
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página fica no Vagas.com (trabalheconosco.vagas.com.br/marfrig) e é ligada a partir da página institucional mbrf.com/vagas, que a indica como 'Vagas Marfrig'.
+  - Esclarecimento: As vagas da BRF ficam em outro site, talents.mbrf.com.
+  - Esclarecimento: Foi confirmado apenas o caminho de candidatura, não a existência de vagas abertas no momento.
+- **Minerva Foods - vagas no portal de carreiras (Gupy)** (aberta ou vigente, verificada 2 vezes) https://minervafoods.gupy.io
+  - O que é: Candidatos a vagas em frigoríficos e escritórios da Minerva Foods (exportadora de carne), em unidades como Barretos/SP, Alegrete/RS, Pontes e Lacerda/MT e Janaúba/MG.
+  - Requisitos: Varia por vaga; a maioria exige experiência prévia (analista/coordenador/supervisor). Açougueiro: requisitos não vistos na listagem. Cadastro na Gupy necessário.
+  - Pagamento ou benefício: sem dados (não informado na página)
+  - Prazo ou ciclo: Aberto todo o ano (fluxo contínuo); sem prazo por vaga; banco de talentos permanente
+  - Como se candidatar: https://minervafoods.gupy.io
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Em 2026-11-23 havia 12 vagas listadas, incluindo vagas de banco de talentos.
+  - Esclarecimento: Predominam cargos de nível analista, coordenação e supervisão; só uma vaga operacional (açougueiro, Barretos/SP) foi vista, então serve pouco para quem não tem experiência.
+  - Esclarecimento: A página não mostra datas de publicação nem de encerramento.
+- **M. Dias Branco (Fortaleza/CE; massas e biscoitos) - vagas no portal de carreiras (Gupy)** (aberta ou vigente, verificada 2 vezes) https://mdiasbranco.gupy.io
+  - O que é: Candidatos a vagas em fábricas e escritórios da M. Dias Branco, incluindo vagas de aprendiz (eletricista, mecânico de manutenção, auxiliar de produção, administrativo) e banco de talentos.
+  - Requisitos: Varia por vaga. Vagas de Aprendiz: requisitos de idade/escolaridade não vistos na listagem (a aprendizagem legal costuma ter limite de idade; confirmar na vaga). Vagas de analista exigem experiência. Cadastro na Gupy necessário.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (não informado na página)
+  - Prazo ou ciclo: Aberto todo o ano (fluxo contínuo); 52 vagas em 6 páginas em 2026-11-23; banco de talentos permanente
+  - Como se candidatar: https://mdiasbranco.gupy.io
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página cita mdiasbranco.gupy.io como canal oficial e avisa que a empresa não pede documentos nem pagamento por WhatsApp.
+  - Esclarecimento: Vagas de aprendiz vistas: administrativo em Fortaleza/CE, eletricista no Rio de Janeiro/RJ, mecânico de manutenção em Bento Gonçalves/RS; vagas efetivas de analista em Eusébio/CE, São Paulo/SP e Salvador/BA.
+  - Esclarecimento: Não há datas de encerramento por vaga.
+- **Tenda (Construtora Tenda) - vagas no portal de carreiras (Gupy)** (aberta ou vigente, verificada 2 vezes) https://tenda.gupy.io
+  - O que é: Candidatos a vagas de obra e administrativas na Tenda, construtora de moradia popular (Minha Casa, Minha Vida) com atuação em nove estados. Inclui cargos de canteiro como Ajudante e Ajudante de Acabamento.
+  - Requisitos: Varia por vaga; funções de ajudante não mostraram exigência de experiência na listagem (confirmar na descrição de cada vaga). Cargos jurídicos e de vendas exigem formação/experiência. Cadastro na Gupy necessário.
+  - Pagamento ou benefício: sem dados (não informado na página)
+  - Prazo ou ciclo: Aberto todo o ano (fluxo contínuo); 111 vagas em cerca de 12 páginas em 2026-11-23; banco de talentos permanente
+  - Como se candidatar: https://tenda.gupy.io
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Todas as vagas vistas são efetivas, em locais como Porto Alegre/RS, Canoas/RS, Goiânia/GO, São Paulo/SP, Salvador/BA e João Pessoa/PB.
+  - Esclarecimento: A vaga de Advogado(a) Imobiliário(a) Pleno em Goiânia/GO é híbrida.
+  - Esclarecimento: Não há datas de encerramento por vaga.
+- **Cury Construtora - vagas no portal de carreiras (Gupy), incluindo banco de talentos de vagas operacionais de obra** (aberta ou vigente, verificada 2 vezes) https://cury.gupy.io
+  - O que é: Candidatos a vagas em obras e escritórios da Cury em São Paulo e Rio de Janeiro. Há banco de talentos específico de 'Vagas Operacionais de Obra' (São Paulo), além de bancos para PcD, vagas afirmativas LGBT+, estágio, Jovem Aprendiz e trainee de engenharia.
+  - Requisitos: Varia por vaga; banco de talentos operacional não exibiu exigências na listagem (ver a descrição). Estágio exige estar cursando engenharia civil. Vagas PCD exigem laudo/condição de pessoa com deficiência. Cadastro na Gupy necessário.
+  - Pagamento ou benefício: sem dados (não informado na página)
+  - Prazo ou ciclo: Aberto todo o ano (fluxo contínuo); 79 vagas em 8 páginas em 2026-11-23; bancos de talentos permanentes
+  - Como se candidatar: https://cury.gupy.io
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A atuação se concentra em São Paulo e Rio de Janeiro.
+  - Esclarecimento: Os bancos de talentos listados incluem Vagas Operacionais de Obra (SP), Estágio em Engenharia Civil, PCD e vagas afirmativas LGBT+ (SP).
+  - Esclarecimento: Não há datas de encerramento.
+- **Grupo Cyrela (Cyrela, Living, Vivaz) - vagas no portal de carreiras (Gupy)** (aberta ou vigente, verificada 2 vezes) https://cyrela.gupy.io
+  - O que é: Candidatos a vagas em obras e escritórios das marcas Cyrela, Living e Vivaz. Na consulta havia, por exemplo, 'Ajudante de Elétrica/Hidráulica - PCD' em São Paulo, além de vagas de analista; a página cita programas Geração Cyrela (estágio, trainee, jovem aprendiz) e página para PcD.
+  - Requisitos: Varia por vaga; a maioria exige experiência (analistas). Programas de estágio/trainee/aprendiz exigem perfil específico (estudante, recém-formado ou idade de aprendiz), a confirmar na página Geração Cyrela. Cadastro na Gupy necessário.
+  - Pagamento ou benefício: sem dados (não informado na página)
+  - Prazo ou ciclo: Fluxo contínuo: 23 vagas em 23/11/2026 no portal principal e 7 itens no portal Geração Cyrela, sem prazo exibido.
+  - Como se candidatar: https://cyrela.gupy.io
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O portal principal não lista estágio, trainee nem jovem aprendiz; esses programas ficam em página separada, Geração Cyrela (geracaocyrela.gupy.io).
+  - Esclarecimento: Em 23/11/2026 a página Geração Cyrela mostrava 7 itens: 5 vagas de estágio (Rio de Janeiro e São Paulo) e 2 bancos de talentos de estágio; não foram vistas vagas de trainee ou aprendiz.
+  - Esclarecimento: As vagas do portal principal são quase todas de analista em São Paulo/SP (uma no RJ), mais um Ajudante de Elétrica/Hidráulica (PCD).
+  - Esclarecimento: A edição 2025 de trainee está encerrada e nenhuma inscrição aberta em nov/2026 foi confirmada.
+- **Eztec - vagas no portal de carreiras (Gupy)** (aberta ou vigente, verificada 2 vezes) https://eztec.gupy.io
+  - O que é: Candidatos a vagas na incorporadora/construtora Eztec, em São Paulo. Na consulta predominavam cargos técnicos e de engenharia (analista ambiental, orçamento, planejamento, engenheiro civil, estágio em planejamento de obras); não apareceram cargos de canteiro (ajudante, pedreiro, servente).
+  - Requisitos: Varia por vaga; estágio exige estar matriculado em curso superior; demais vagas exigem formação e experiência. Cadastro na Gupy necessário.
+  - Pagamento ou benefício: sem dados (não informado na página)
+  - Prazo ou ciclo: Aberto todo o ano (fluxo contínuo); 13 vagas em 2 páginas em 2026-11-23; banco de talentos permanente
+  - Como se candidatar: https://eztec.gupy.io
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Todas as vagas vistas são em São Paulo/SP.
+  - Esclarecimento: A vaga de engenheiro civil sênior é como pessoa jurídica.
+  - Esclarecimento: Voltado a quem tem formação técnica ou superior; para quem não tem experiência ou diploma, só o estágio parece acessível.
+  - Esclarecimento: Não há datas de encerramento.
+- **Rodonaves - vagas no portal de carreiras (Gupy)** (aberta ou vigente, verificada 2 vezes) https://rodonaves.gupy.io/
+  - O que é: Candidatos a vagas em transportadora de cargas fracionadas: operação e expedição, almoxarifado, administrativo e financeiro, mais vagas de Aprendiz (Americana/SP, Cascavel/PR). A página oficial rodonaves.com.br/trabalhe-conosco redireciona para este portal.
+  - Requisitos: Varia por vaga; Aprendiz e Assistente de Expedição não mostraram exigência de experiência na listagem (confirmar na descrição; aprendizagem legal tem limite de idade). Analistas exigem experiência. Cadastro na Gupy necessário.
+  - Pagamento ou benefício: sem dados (não informado na página)
+  - Prazo ou ciclo: Aberto todo o ano (fluxo contínuo); 61 vagas em 7 páginas em 2026-11-23; banco de talentos permanente
+  - Como se candidatar: https://rodonaves.gupy.io/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: As vagas vistas se distribuem por Ribeirão Preto, São Paulo, Porto Alegre, Americana, Cascavel, Campinas, Aparecida de Goiânia e Farroupilha.
+  - Esclarecimento: A página oficial rodonaves.com.br/trabalhe-conosco redireciona para este portal.
+  - Esclarecimento: Não há datas de encerramento por vaga.
+- **Algar - Carreiras (Banco de Talentos e vagas abertas)** (aberta ou vigente, verificada 2 vezes) https://loja.algar.com.br/carreiras/
+  - O que é: Candidatos a vagas de telecomunicações, TI, comercial e administrativas, com banco de talentos.
+  - Requisitos: Não listados na página; variam por vaga.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Contínuo: banco de talentos (Gupy) aberto e portal separado de vagas abertas (Sinergy RH); sem prazo.
+  - Como se candidatar: https://loja.algar.com.br/carreiras/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O banco de talentos leva a algar.gupy.io, e o portal de vagas abertas é hospedado na Sinergy RH.
+  - Esclarecimento: A página mostra apenas os caminhos de candidatura, sem a lista de vagas.
+  - Esclarecimento: A página cita ranking Great Place to Work Minas Gerais 2025.
+- **GPA - Vagas em Centrais de Distribuição (Gupy)** (aberta ou vigente, verificada 2 vezes) https://logisticagpa.gupy.io/
+  - O que é: Candidatos a funções operacionais de logística (operador de CD, carga e descarga) em Osasco e São Paulo (SP) e outras unidades.
+  - Requisitos: Não informados na listagem; constam em cada vaga. Há vaga reservada a pessoas com deficiência.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto o ano todo. 41 vagas listadas em 2026-11-23, com banco de talentos.
+  - Como se candidatar: https://logisticagpa.gupy.io/
+  - Leitura automática possível: Portal Gupy com listagem paginada.
+  - Esclarecimento: Requisitos e salário constam em cada vaga.
+  - Esclarecimento: Há vagas efetivas e entradas de banco de talentos.
+  - Esclarecimento: As vagas listadas estão em São Paulo, Osasco e Santo Antônio de Posse (SP).
+- **Grupo Carrefour Brasil (Carrefour, Atacadão, Sam's Club) - página Carreira** (aberta ou vigente, verificada 1 vez) https://grupocarrefourbrasil.com.br/carreira
+  - O que é: Página de carreiras indicada pelos sites oficiais do Atacadão e do Carrefour como destino do 'Trabalhe Conosco'. Rede de varejo e atacado com lojas em todo o país.
+  - Requisitos: Não informados na listagem; constam em cada vaga. Matérias de imprensa de 2026 dizem que parte das funções não exige experiência, mas isso não foi confirmado em página oficial.
+  - Pagamento ou benefício: sem dados (cada vaga informa)
+  - Prazo ou ciclo: Aberto o ano todo. 5.259 vagas listadas em 2026-11-23 no portal Pandapé; notícias de 2026 citam grandes lotes de contratação.
+  - Como se candidatar: https://grupocarrefourbrasil.pandape.infojobs.com.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A via de candidatura principal é o portal Pandapé do grupo (https://grupocarrefourbrasil.pandape.infojobs.com.br/); o portal Gupy mostrou 0 vagas e só o banco de talentos.
+  - Esclarecimento: O filtro de tipo inclui Temporário, Jovem Aprendiz, Estágio e PJ; as 20 vagas visíveis eram CLT efetivas.
+  - Esclarecimento: O vínculo da página oficial com o Pandapé não foi confirmado diretamente, pois a página institucional retornou HTTP 403.
+  - Esclarecimento: Que parte das funções não exige experiência vem de matérias de imprensa, sem confirmação em página oficial.
+- **Magazine Luiza (Magalu) - Carreiras** (aberta ou vigente, verificada 2 vezes) https://carreiras.magazineluiza.com.br
+  - O que é: Candidatos a vagas em lojas, centros de distribuição e áreas corporativas do Magalu, incluindo vagas afirmativas para PcD.
+  - Requisitos: Não informados na página inicial; constam em cada vaga. Cobre lojas, centros de distribuição e áreas corporativas segundo a imprensa, sem confirmação oficial vista.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto o ano todo, via banco de talentos. Lista de vagas não carregou em 2026-11-23.
+  - Como se candidatar: https://carreiras.magazineluiza.com.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A lista de vagas não carregou e as URLs /vagas e /vagas-disponiveis retornaram 404; só a via do banco de talentos foi confirmada.
+  - Esclarecimento: Há cadastro de currículo via 99jobs e menção a vagas afirmativas para PcD.
+  - Esclarecimento: Programa de Jovem Aprendiz não foi confirmado em página oficial, apenas em notícias antigas.
+- **C&A - Trabalhe Conosco (loja, CD e escritório central)** (aberta ou vigente, verificada 2 vezes) https://www.cea.com.br/trabalhe-conosco
+  - O que é: Candidatos a vagas de loja, de centro de distribuição e do escritório central em Barueri (SP).
+  - Requisitos: A página institucional não lista requisitos; constam em cada vaga. Há vagas de aprendiz nas lojas, o que indica entrada sem experiência.
+  - Pagamento ou benefício: sem dados (cada vaga informa)
+  - Prazo ou ciclo: Fluxo contínuo; a página não informa quantidade de vagas nem prazos.
+  - Como se candidatar: https://ceabrasil.pandape.infojobs.com.br/
+  - Leitura automática possível: Portal Gupy (https://cea.gupy.io/) com listagem paginada.
+  - Esclarecimento: Escritório Central e CD se candidatam pelo Gupy (cea.gupy.io); lojas pelo Pandapé/InfoJobs (ceabrasil.pandape.infojobs.com.br), que é a rota principal para vagas de loja.
+  - Esclarecimento: As contagens de 59 vagas (Gupy) e 2.113 (Pandapé) não puderam ser reconferidas na página.
+  - Esclarecimento: Há vagas temporárias de fim de ano nas lojas, em regimes Efetivo CLT, Temporário e Jovem Aprendiz.
+- **JBS - Programa Evoluir (Jovem Aprendiz para funções de produção)** (aberta ou vigente, verificada 2 vezes) https://programaevoluir.gupy.io/
+  - O que é: Jovens que buscam a primeira oportunidade de trabalho em unidades de produção da JBS, descrito pela empresa como 'a principal porta de entrada para jovens'.
+  - Requisitos: A página não informa idade, escolaridade nem prazo. Por se tratar de aprendizagem profissional, o programa costuma ter critérios próprios de idade e escolaridade, mas isso não foi visto nesta página e deve ser conferido em cada vaga. Não é exigida experiência prévia, por ser programa de aprendiz.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (a página não informa)
+  - Prazo ou ciclo: Aberto na data da consulta (2026-11-23) com 6 vagas de aprendiz. Prazo de inscrição: sem dados (não informado na página). Recorrência anual: não confirmada. A página oferece banco de talentos para quem não encontra vaga adequada.
+  - Como se candidatar: https://programaevoluir.gupy.io/
+  - Leitura automática possível: Portal Gupy com listagem paginada.
+  - Esclarecimento: Idade, escolaridade e prazo de inscrição não constam na página; devem ser conferidos no anúncio de cada vaga.
+  - Esclarecimento: A recorrência anual do programa não foi confirmada.
+  - Esclarecimento: Vagas vistas em Lins (SP), Campo Grande e Nova Andradina (MS), Araputanga e Colíder (MT) e Cacoal (RO).
+- **Loggi - Carreiras (portal de vagas e banco de talentos PcD)** (aberta ou vigente, verificada 2 vezes) https://carreira.inhire.com.br/carreiras/loggi
+  - O que é: Candidatos a vagas na Loggi (logística e entregas). A página destaca um banco de talentos para pessoas com deficiência.
+  - Requisitos: O banco de talentos é voltado a pessoas com deficiência (PcD). Para as demais vagas, os requisitos constam em cada anúncio no portal; não foram verificados.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Banco de talentos PcD de fluxo contínuo (sem prazo informado). A página de carreiras não lista vagas específicas; remete ao portal loggi.inhire.app/vagas, que não foi consultado.
+  - Como se candidatar: https://loggi.inhire.app/vagas
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página de carreiras não lista vagas específicas; remete ao portal loggi.inhire.app/vagas.
+  - Esclarecimento: O cadastro de currículo PcD fica em loggi.inhire.app/vagas/90d4aec0-90ff-4c27-885b-aa5125ecf155/oportunidades-para-pessoas-com-deficiencia-pcd, e a empresa diz entrar em contato quando surgir oportunidade compatível.
+  - Esclarecimento: A quantidade de vagas abertas não foi confirmada.
+- **BANESTES - concurso 2026 (FCC): Técnico Bancário e Assistente Securitário** (aberta ou vigente, verificada 2 vezes) https://www.concursosfcc.com.br/concursos/banes126/index.html
+  - O que é: Candidatos a Técnico Bancário, Técnico em Segurança do Trabalho (BANESTES) e Assistente Securitário (BANESTES Seguros).
+  - Requisitos: Não informados na página; consultar o edital. Inscrição somente pela internet.
+  - Pagamento ou benefício: Técnico Bancário: R$ 4.552,43; Técnico em Segurança do Trabalho: R$ 5.618,71; Assistente Securitário: R$ 4.444,43 (valores iniciais conforme o edital). Taxa de inscrição: R$ 67,00.
+  - Prazo ou ciclo: Inscrições de 19/10/2026 (10h) a 23/11/2026 (23h59): o último dia é em 23/11/2026. Pagamento do boleto até 24/11/2026. Isenção (19/10 a 21/10/2026) já encerrada. Data da prova: não consta na página. A alegação de editais nº 01/2027 e 02/2027 (inscrições de 12/11 a 11/12/2026) não aparece na página oficial lida; apenas notícias de imprensa a citam (cadastro reserva de nível superior, prova em 21/02/2027, taxa de R$ 87,00), sem confirmação na página da FCC. Tratar como não verificado.
+  - Como se candidatar: https://www.concursosfcc.com.br/concursos/banes126/index.html
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Os editais nº 01/2027 e 02/2027 (cadastro reserva de nível superior) são citados apenas pela imprensa e não aparecem na página oficial da FCC; devem ser tratados como não verificados.
+  - Esclarecimento: Número de vagas e requisitos não constam na página.
+  - Esclarecimento: Para quem não conseguir se inscrever neste edital, o possível edital de nível superior de 2027 precisa ser conferido na página da FCC antes de qualquer decisão.
+- **GRSA - Trabalhe conosco (limpeza, conservação e facilities)** (aberta ou vigente, verificada 2 vezes) https://www.grsa.com.br/trabalhe-conosco/
+  - O que é: Candidatos a vagas de serviços de limpeza, conservação e outras funções de facilities; há banco de talentos para estágio e Jovem Aprendiz.
+  - Requisitos: A página não lista requisitos específicos. É preciso baixar o aplicativo GPSvc (Android e iOS), criar conta, enviar documentos e completar o currículo; depois, candidatar-se às vagas pelo menu de vagas. Sem exigência de experiência declarada na página.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto o ano todo: candidatura pelo aplicativo GPSvc, que concentra as vagas. Nenhum prazo informado na página.
+  - Como se candidatar: https://www.grsa.com.br/trabalhe-conosco/
+  - Leitura automática possível: nenhum visto
+  - Esclarecimento: Áreas e cidades das vagas não aparecem na página; ficam dentro do aplicativo GPSvc.
+  - Esclarecimento: Os bancos de talentos para Estágio e Jovem Aprendiz são formulários do Microsoft Forms e não equivalem a candidatura a vaga específica.
+- **Sodexo Brasil - Trabalhe conosco (encontre sua vaga)** (aberta ou vigente, verificada 2 vezes) https://br.sodexo.com/trabalhe-conosco/encontre-sua-vaga
+  - O que é: Candidatos a vagas em serviços de alimentação e facilities, entre eles funções operacionais; o perfil exato por cargo não foi lido.
+  - Requisitos: A página não informa requisitos. Cada vaga traz os seus. Experiência exigida: sem dados (há portal separado para vagas de operação, que não declara exigência na página).
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto o ano todo, conforme vagas publicadas nos portais. Nenhum prazo visto.
+  - Como se candidatar: https://sodexoonsiteoperacao.pandape.infojobs.com.br/
+  - Leitura automática possível: nenhum visto
+  - Esclarecimento: A candidatura é feita em quatro portais oficiais Pandapé/InfoJobs: operação, administrativo, liderança na operação e vagas internas "Crescer Juntos".
+  - Esclarecimento: As vagas internas "Crescer Juntos" são só para quem já trabalha na Sodexo.
+  - Esclarecimento: A página traz aviso sobre falsas ofertas de emprego: candidatar-se apenas pelos links oficiais.
+  - Esclarecimento: A página não menciona banco de talentos.
+- **McDonald's Brasil (Arcos Dorados) - Trabalhe conosco** (não verificada, verificada 1 vez) https://www.arcosdorados.com/pt/trabalhe-conosco/
+  - O que é: Interessados em trabalhar nos restaurantes McDonald's e na estrutura da Arcos Dorados.
+  - Requisitos: sem dados (a página não informa idade, escolaridade nem experiência)
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados
+  - Como se candidatar: sem dados
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página da Arcos Dorados é institucional e não traz passo a passo, requisitos, idade nem link de vagas.
+  - Esclarecimento: Diz que a empresa é uma das principais empregadoras de jovens da região, com oportunidades de primeiro emprego e treinamento.
+  - Esclarecimento: A rota real de candidatura no Brasil não foi confirmada; o endereço mcdonalds.com.br/trabalhe-conosco retornou HTTP 403.
+- **Arcos Dorados - Emprego Jovem e MCampus Comunidade (cursos livres gratuitos)** (não verificada, verificada 1 vez) https://www.arcosdorados.com/pt/receitadofuturo/emprego-jovem/
+  - O que é: Jovens em busca de primeiro emprego ou de formação inicial.
+  - Requisitos: sem dados (nenhuma exigência de idade, escolaridade ou experiência informada na página)
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (cursos descritos como gratuitos; sem bolsa informada)
+  - Prazo ou ciclo: sem dados (iniciativa institucional; a página não informa período de inscrição)
+  - Como se candidatar: http://www.arcosdorados.com/pt/receitadofuturo/cursos-livres/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página não informa idade mínima, como se inscrever nem os temas dos cursos.
+  - Esclarecimento: A cifra de +351.000 oportunidades refere-se à América Latina, sem ano claro.
+  - Esclarecimento: Não está confirmado como programa com inscrição aberta no Brasil.
+  - Esclarecimento: Links na página: cursos livres em http://www.arcosdorados.com/pt/receitadofuturo/cursos-livres/ e Trabalhe conosco em https://www.arcosdorados.com/pt/trabalhe-conosco/.
+- **Concentrix - portal de vagas (filtrar Brasil e Customer Service and Support)** (não verificada, verificada 1 vez) https://jobs.concentrix.com/pt-br/
+  - O que é: Candidatos a vagas de atendimento ao cliente no Brasil; o portal tem filtros de país, idioma, cidade e categoria.
+  - Requisitos: sem dados (não exibidos na página).
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Contínuo (portal permanente), mas nenhuma vaga foi vista.
+  - Como se candidatar: https://jobs.concentrix.com/pt-br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A lista de vagas do portal ficou em carregamento e nenhuma vaga foi confirmada.
+  - Esclarecimento: A existência de vagas abertas no Brasil não foi confirmada.
+  - Esclarecimento: O portal exibe aviso oficial de fraude em recrutamento.
+- **Espro - Jovem Aprendiz (cadastro no banco de talentos)** (aberta ou vigente, verificada 2 vezes) https://www.espro.org.br/jovem-aprendiz/
+  - O que é: Adolescentes e jovens de 14 a 24 anos em busca do primeiro emprego. Vagas filtráveis por estado (a página lista 27 UFs no filtro).
+  - Requisitos: De 14 a 24 anos. Estar cursando ou ter concluído o Ensino Fundamental ou Médio (também pode estar na faculdade, se tiver menos de 24 anos). Menores de 18 anos precisam de autorização e assinatura do responsável. Não exige experiência prévia. Lista de documentos não informada na página; o formulário pode pedir CPF, RG e contatos.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Não informado em valor. Calculado a partir do salário-mínimo por hora e da carga semanal de trabalho.
+  - Prazo ou ciclo: Aberto o ano todo: a página mantém o cadastro no banco de talentos e uma lista de vagas, sem prazo. Contrato de no máximo 2 anos, variável por empresa.
+  - Como se candidatar: https://app.hunterhero.io/ats/site/espro/candidates/registration
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Após o término do contrato, não é possível ser aprendiz de novo na mesma empresa, mas é possível candidatar-se a outras, dentro do limite de idade.
+  - Esclarecimento: A jornada é de 6 a 8 horas por dia, de 30 a 40 horas por semana, conforme o contrato.
+  - Esclarecimento: O candidato escolhe uma vaga na lista e se cadastra no banco de talentos; não há data de abertura ou encerramento.
+- **Espro - Vagas de Estágio (plataforma de cadastro e correspondência)** (aberta ou vigente, verificada 2 vezes) https://www.espro.org.br/vagas-de-estagio/
+  - O que é: Estudantes de 16 anos ou mais matriculados no ensino médio, técnico ou superior. Vagas filtráveis por estado, cidade e área.
+  - Requisitos: Mínimo de 16 anos e matrícula no ensino médio, em curso técnico ou no ensino superior de instituição com curso reconhecido pelo MEC. Experiência prévia: não exigida na página.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Bolsa-auxílio nos estágios remunerados; valor não informado na página.
+  - Prazo ou ciclo: Aberto o ano todo: a página traz o formulário de cadastro e a lista de vagas, sem datas. A página não informa se há vagas abertas em determinado momento.
+  - Como se candidatar: https://app.hunterhero.io/ats/site/espro/candidates/registration
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O cadastro e a correspondência com vagas são descritos como gratuitos.
+  - Esclarecimento: Estágios remunerados trazem bolsa-auxílio e podem incluir auxílio-transporte; estágios não remunerados costumam ser exigidos por certos cursos.
+  - Esclarecimento: A página não informa se há vagas abertas em determinado momento; para confirmar, indica a Central de Experiências: (11) 3138-0080.
+- **Fundação Bradesco - Escola Virtual (cursos gratuitos online)** (aberta ou vigente, verificada 2 vezes) https://www.ev.org.br
+  - O que é: Qualquer pessoa com cadastro: cursos livres de formação inicial e continuada, 100% online e gratuitos, úteis para quem busca o primeiro emprego.
+  - Requisitos: Cadastro com nome completo, data de nascimento, CPF, e-mail e celular (ou login com Google, Facebook ou LinkedIn). Computador com internet. Sem exigência de experiência ou diploma vista na página.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Gratuito.
+  - Prazo ou ciclo: Sem prazo de inscrição. A matrícula é contínua e cada curso deve ser concluído em até 60 dias após a matrícula.
+  - Como se candidatar: https://www.ev.org.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É capacitação, não vaga de emprego.
+  - Esclarecimento: O certificado digital exige nota mínima de 70% na avaliação final (quando houver) e vale por 2 anos; o cadastro é com CPF, uma conta por CPF.
+  - Esclarecimento: Conta sem matrícula em 45 dias pode ser excluída.
+  - Esclarecimento: Os requisitos técnicos citados nos termos (Java e Flash) parecem desatualizados.
+- **SENAI Bahia - Processo seletivo Borborema (Jaguaquara, Jiquiriçá e Ubaíra)** (aberta ou vigente, verificada 2 vezes) https://www.senaibahia.com.br/processo-seletivo-borborema/
+  - O que é: Moradores de Jaguaquara, Jiquiriçá e Ubaíra (BA) com 16 anos ou mais, para cursos gratuitos de Aperfeiçoamento Profissional de Empregabilidade (90 vagas).
+  - Requisitos: Ensino Fundamental I concluído ou superior; 16 anos ou mais na data da inscrição; morar em Jaguaquara, Jiquiriçá ou Ubaíra (BA); poder assistir às aulas presenciais à noite. Documentos: RG, CNH ou Carteira Profissional; CPF (se não constar no documento); comprovante de escolaridade; comprovante de residência atualizado (em nome do candidato ou de parente de 1º grau, com comprovação do parentesco).
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Curso gratuito (sem bolsa informada)
+  - Prazo ou ciclo: Em 23/11/2026 é o último dia de inscrição (até 23h59, horário de Brasília). Pagamento do boleto até 24/11/2026.
+  - Como se candidatar: https://ficha.selecao.senaibahia.com.br/?idPs=22949
+  - Leitura automática possível: no
+  - Esclarecimento: Edital pontual; a inscrição é só online, sem custo, com e-mail válido e envio de documentos, e documentos ilegíveis ou incompletos podem levar à rejeição.
+  - Esclarecimento: A seleção é por análise documental, na ordem de inscrição.
+  - Esclarecimento: Quem não mora em Jaguaquara, Jiquiriçá ou Ubaíra não cumpre o requisito de residência.
+  - Esclarecimento: O local exato das aulas não é informado na página; contato: selecaopj.senaibahia@fieb.org.br.
+- **SESI - Educação de Jovens e Adultos (EJA) e EJA com SENAI** (aberta ou vigente, verificada 2 vezes) https://www.sesi.portaldaindustria.com.br/para-voce/eja
+  - O que é: Adultos que não concluíram o Ensino Fundamental (6º ao 9º ano) ou o Médio; a EJA com SENAI inclui um curso de qualificação profissional simultâneo, com dois certificados.
+  - Requisitos: 18 anos ou mais. Documentos não listados na página. Não exige experiência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Gratuito (EJA); sem bolsa informada
+  - Prazo ou ciclo: Sem prazo na página; matrícula contínua por unidade/estado (confirmar na escola)
+  - Como se candidatar: https://www.sesi.portaldaindustria.com.br/para-voce/eja
+  - Leitura automática possível: no
+  - Esclarecimento: A matrícula é por unidade e estado: a página orienta escolher o estado em "Como fazer a matrícula?" e usar "Encontre nossas escolas"; convém confirmar na escola.
+  - Esclarecimento: A página não lista documentos, datas nem custos da EJA com SENAI.
+  - Esclarecimento: Não é vaga de emprego; serve para quem precisa concluir a escolaridade.
+- **SEST SENAT - Cursos gratuitos para trabalhadores do transporte e dependentes** (aberta ou vigente, verificada 2 vezes) https://digital.sestsenat.org.br/cursos
+  - O que é: Trabalhadores do setor de transporte e seus dependentes, segundo o título da página.
+  - Requisitos: Cadastro atualizado no SEST SENAT (pode ser feito em uma Unidade Operacional ou pré-cadastro pelo Portal do Cliente, com PDFs dos documentos conforme a categoria). Ser trabalhador do setor de transporte/logística (ou autônomo contribuinte, aposentado do setor etc.). O cartão vale 6 meses e deve ser renovado com comprovante de vínculo. Não se exige experiência mínima além do vínculo com o setor.
+  - Pagamento ou benefício: Gratuito para o público elegível (curso sem remuneração).
+  - Prazo ou ciclo: Cadastro e cursos livres a distância (autoinstrucionais) disponíveis de forma contínua; datas de turmas presenciais e técnicas: sem dados. Não há ciclo anual confirmado.
+  - Como se candidatar: https://digital.sestsenat.org.br/cadastro
+  - Leitura automática possível: no
+  - Esclarecimento: A URL informada carrega apenas uma casca sem conteúdo útil; o conteúdo oficial está em digital.sestsenat.org.br/cursos.
+  - Esclarecimento: A página oficial de gratuidade restringe os cursos EAD gratuitos a empregados de empresas do setor de transporte, empregados e dirigentes de associações, sindicatos e federações do transporte, aposentados do transporte, transportadores autônomos rodoviários e funcionários do SEST SENAT; quem está fora do setor pode não ter acesso gratuito.
+  - Esclarecimento: Sites de notícias afirmam que os cursos são abertos a qualquer pessoa, o que contradiz a página oficial de gratuidade; vale a página oficial, e a menção a dependentes no título da fonte não foi confirmada nela.
+  - Esclarecimento: É uma qualificação, não uma vaga de emprego.
+- **Senac MG - Aprendizagem (Jovem Aprendiz) comercial** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://mg.senac.br/web/guest/quero-ser-jovem-aprendiz
+  - O que é: Jovens de 14 a 24 anos e pessoas com deficiência, contratados como aprendizes por empresas do comércio de bens, serviços e turismo.
+  - Requisitos: Jovens de 14 a 24 anos e pessoas com deficiência. Escolaridade não informada na página. Experiência prévia: não exigida na página.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (não informado; na aprendizagem o contrato é feito com a empresa)
+  - Prazo ou ciclo: Ciclo semestral por unidade. A página traz cronogramas de atendimento da Aprendizagem para o 1º semestre de 2027, em PDF, para cerca de 30 cidades. As datas estão nos PDFs, que não foram lidos. Duração: 12 meses (qualificação) e 24 meses (técnica).
+  - Como se candidatar: https://www.rededecarreiras.com.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A inscrição direta não é possível: a empresa contrata o aprendiz e o registra no Senac; o jovem usa o botão 'Quero ser jovem aprendiz', que leva à Rede de Carreiras do Senac.
+  - Esclarecimento: A página é voltada principalmente a empresas, que reservam as vagas no sistema PRS.
+  - Esclarecimento: A página apenas lista cronogramas em PDF; não descreve ciclos semestrais nem prazos.
+  - Esclarecimento: O público é de 14 a 24 anos, sem limite de idade para pessoas com deficiência.
+- **SENAI Bahia - Cursos gratuitos (Aprendizagem Básica, Aperfeiçoamento e Qualificação Profissional)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://cursosgratuitos.senaibahia.com.br/
+  - O que é: Pessoas que buscam qualificação gratuita na Bahia, em três modalidades: Aprendizagem Básica, Aperfeiçoamento Profissional e Qualificação Profissional. Cada processo seletivo define seu público.
+  - Requisitos: Cada modalidade tem requisitos próprios, não listados na página; ver o edital de cada processo. Sem experiência exigida nos cursos básicos (não confirmado na página).
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Cursos gratuitos
+  - Prazo ou ciclo: Inscrições abertas de 12/11/2026 (10h) a 14/12/2026 (23h59, horário de Brasília). Isenção encerrada em 14/11/2026. Pagamento até 15/12/2026.
+  - Como se candidatar: https://cursosgratuitos.senaibahia.com.br/processos/
+  - Leitura automática possível: no
+  - Esclarecimento: Os requisitos de cada modalidade constam no edital de cada processo.
+  - Esclarecimento: Editais de dez/2025 a jan/2026 e de agosto/2026 indicam repetição ao longo do ano, sem datas futuras confirmadas.
+  - Esclarecimento: Os processos são acompanhados na página /processos/.
+- **Nube - vagas de estágio e aprendizagem** (não verificada, verificada 1 vez) https://www.nube.com.br/
+  - O que é: Candidatos a estágio e aprendizagem. A página inicial exibe o título 'As melhores vagas de Estágio e Aprendizagem'.
+  - Requisitos: Segundo fontes de terceiros: estudantes de ensino médio, técnico e superior. Não confirmado na página oficial.
+  - Pagamento ou benefício: Segundo notícias, bolsa-auxílio de R$ 1.000 a R$ 3.000 conforme a vaga e a cidade (não confirmado no site oficial).
+  - Prazo ou ciclo: Aparentemente aberto o ano todo, segundo notícias de 2026. A página oficial só exibiu o título "As melhores vagas de Estágio e Aprendizagem".
+  - Como se candidatar: https://www.nube.com.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página inicial não traz detalhes de cadastro, requisitos ou custo.
+  - Esclarecimento: Notícias de julho e outubro de 2026 afirmam que o cadastro é gratuito, pelo site ou aplicativo, e que não há cobrança do candidato pela candidatura.
+  - Esclarecimento: Os números de vagas (cerca de 10 mil no país em jul/2026 e 297 só no Rio de Janeiro em out/2026) e as bolsas vêm de terceiros e não foram confirmados no site oficial.
+- **MNCR - Movimento Nacional dos Catadores de Materiais Recicláveis** (não verificada, verificada 1 vez) https://mncr.org.br/
+  - O que é: Catadores de materiais recicláveis e suas cooperativas.
+  - Requisitos: Não informados no site. Voltado a catadoras e catadores de materiais recicláveis; não há exigência de experiência, escolaridade ou diploma declarada.
+  - Pagamento ou benefício: Desconhecido (não informado; não é emprego assalariado)
+  - Prazo ou ciclo: Permanente (movimento social com atuação contínua); sem ciclo de inscrição nem vagas vistos.
+  - Como se candidatar: sem dados
+  - Leitura automática possível: sem dados
+  - Esclarecimento: É um movimento social de catadoras e catadores, não um empregador nem um serviço de colocação em vagas.
+  - Esclarecimento: O site não descreve processo de adesão, requisitos nem forma de localizar cooperativa ou associação local.
+  - Esclarecimento: Contatos: telefone/WhatsApp +55 (11) 3399-3475; Rua 24 de Maio 276, 5º andar, República, São Paulo - SP, 01041-905; Instagram @catadoresmncr.
+  - Esclarecimento: As datas citadas no site (Dia Nacional de Luta, 7 de junho; encontro estadual no RS, 2 e 3 de setembro, sem ano) são eventos, não candidaturas.
+- **Fretebras - plataforma de fretes para caminhoneiros e transportadoras** (aberta ou vigente, verificada 2 vezes) https://www.fretebras.com.br/
+  - O que é: Caminhoneiros (autônomos ou de frota) que procuram cargas e empresas que publicam fretes; a negociação é direta entre as partes, sem intermediário, segundo a própria página.
+  - Requisitos: Segundo fontes de terceiros (não confirmadas no site oficial): celular, placa, tipo de veículo e carroceria, código RNTRC (registro da ANTT) e validação por CPF do motorista. Exige ter caminhão/veículo de carga; não serve como primeiro emprego sem veículo.
+  - Pagamento ou benefício: sem dados (renda vem do frete negociado; a plataforma não paga salário)
+  - Prazo ou ciclo: Aberto todo o ano; cadastro a qualquer momento, pelo app ou pelo navegador
+  - Como se candidatar: https://www.fretebras.com.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não é um empregador: empresas publicam cargas e o caminhoneiro as encontra e negocia o frete diretamente.
+  - Esclarecimento: O formulário da página inicial pede dados de empresa (CNPJ, e-mail comercial); os passos específicos do motorista não foram confirmados no site oficial.
+  - Esclarecimento: Fontes de terceiros antigas dizem que o uso é gratuito para o caminhoneiro e que a assinatura é cobrada das empresas; teste grátis e preços atuais não foram confirmados.
+  - Esclarecimento: A página não afirma expressamente que o cadastro está sempre aberto, mas o oferece sem data de encerramento.
+- **TruckPad - plataforma e Super App para caminhoneiros, transportadoras e embarcadores** (aberta ou vigente, verificada 2 vezes) https://www.truckpad.com.br/motoristas/
+  - O que é: Caminhoneiros autônomos e transportadoras. Para o motorista, a página cita pagamento por PIX a qualquer hora, documentos da viagem centralizados, canhotos digitalizados, alertas de problemas na viagem e clube de compras com descontos e pontos.
+  - Requisitos: Não informados na página (CNH, ANTT e veículo não são citados). Confirmar no cadastro.
+  - Pagamento ou benefício: sem dados (a página fala em "mais fretes" e pagamento via PIX, sem valores)
+  - Prazo ou ciclo: Aberto o ano todo: o botão "Cadastre-se" estava ativo na página em 23/11/2026. Não há prazo nem edital.
+  - Como se candidatar: https://www.truckpad.com.br/cadastre-se/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Não é um empregador nem uma lista de vagas: é uma plataforma que conecta embarcadores, transportadoras e motoristas.
+  - Esclarecimento: As transportadoras também contratam motoristas pela plataforma.
+  - Esclarecimento: A página não informa taxas, valores de frete nem requisitos (CNH, ANTT, veículo).
+  - Esclarecimento: Telefone de contato na página: (11) 4118-2880.
+- **Donamaid - Seja diarista** (aberta ou vigente, verificada 2 vezes) https://www.donamaid.com/seja-diarista-com-a-donamaid/
+  - O que é: Diaristas e profissionais de limpeza, com ou sem carteira assinada anterior.
+  - Requisitos: Experiência em limpeza (com ou sem carteira assinada); e-mail e WhatsApp; conta bancária em nome próprio (ou disposição de abrir uma). Ser MEI é recomendado, não obrigatório (a Donamaid ajuda no registro). Cadastro gratuito; trabalho autônomo, sem carteira assinada.
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: Pagamento por hora de serviço (limpezas de 1 a 8 horas), valor varia por cidade; cliente paga antecipado e o ganho é liberado após a limpeza, com saque quando quiser. Depoimento cita mais de R$1.500 por mês (caso individual, não garantia). Valor por hora: sem dados.
+  - Prazo ou ciclo: Aberto o ano todo, nas cidades atendidas
+  - Como se candidatar: App 'Donamaid - Quero ser diarista' (Google Play ou App Store), indicado na página https://www.donamaid.com/seja-diarista-com-a-donamaid/
+  - Leitura automática possível: nenhum visto
+  - Esclarecimento: A conta só é ativada depois do contato da equipe da Donamaid.
+  - Esclarecimento: A página não informa quais cidades aceitam novas profissionais no momento; as cidades listadas incluem Porto Alegre, Pelotas, São Paulo, Belo Horizonte, Curitiba, Florianópolis, Joinville e Campinas (estados SP, MG, RS, SC, PR e GO).
+  - Esclarecimento: A exigência de experiência em limpeza pode excluir quem busca o primeiro emprego.
+- **GetNinjas e Triider - plataformas de orçamentos para reparos e serviços (cadastro de profissional)** (aberta ou vigente, verificada 2 vezes) https://www.getninjas.com.br/ (Triider: https://www.triider.com.br/)
+  - O que é: Profissionais autônomos de reparos, reformas e serviços em geral (pedreiro, eletricista, pintor, montador etc.) que queiram receber pedidos de clientes.
+  - Requisitos: GetNinjas: página pede apenas e-mail e celular e uso do app (Android e iOS); requisitos formais (documentos, certificações) não informados. Triider: página 'Seja um profissional' com cadastro de profissional ou de empresa; requisitos sem dados. Nenhuma experiência exigida declarada.
+  - Pagamento ou benefício: Sem mensalidade; o profissional vê os pedidos de graça e compra moedas no app para desbloquear o contato do cliente; o valor do serviço fica integralmente com o profissional. Preço das moedas: sem dados.
+  - Prazo ou ciclo: Aberto o ano todo
+  - Como se candidatar: GetNinjas: seção 'Cadastre-se como Profissional GetNinjas' em https://www.getninjas.com.br/ ; Triider: página 'Seja um profissional' em https://www.triider.com.br/
+  - Leitura automática possível: nenhum visto
+  - Esclarecimento: São duas plataformas distintas, sem relação corporativa confirmada entre elas.
+  - Esclarecimento: No GetNinjas o cadastro é gratuito, mas é preciso comprar moedas no aplicativo para liberar o contato dos clientes, o que representa custo sem garantia de serviços.
+  - Esclarecimento: Na Triider, a página não informa requisitos nem custo, e a avaliação mais recente exibida é de 2021, então a atividade recente é incerta.
+- **MEI na Prefeitura de São Paulo (formalização, ocupações e postos de atendimento)** (aberta ou vigente, verificada 2 vezes) https://prefeitura.sp.gov.br/web/desenvolvimento/mei/
+  - O que é: Pessoas que trabalham por conta própria na capital paulista e querem se formalizar como Microempreendedor Individual.
+  - Requisitos: Atividade presente na lista de ocupações permitidas ao MEI; endereço que permita uso comercial; atividade não proibida. Nenhuma experiência, escolaridade ou diploma exigidos na página. Documentos específicos só se houver exigência de alvará.
+  - Pagamento ou benefício: Não se aplica (formalização gratuita; o MEI paga contribuição mensal DAS, valor não verificado em fonte oficial carregada)
+  - Prazo ou ciclo: Aberto todo o ano (serviço permanente; rodapé com direitos de 2026).
+  - Como se candidatar: https://prefeitura.sp.gov.br/web/desenvolvimento/w/mei/como_se_formalizar/20461
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O registro é feito no portal federal gov.br, que gera o CNPJ; há consulta prévia de viabilidade gratuita.
+  - Esclarecimento: Bloqueiam a atividade: atividades proibidas (fabricação de fogos e mototáxi), atividade em via pública sem autorização e zonas ZER/ZERp.
+  - Esclarecimento: A maioria das atividades de MEI é dispensada de alvará; o uso de espaço público exige autorização Tô Legal (até 90 dias no mesmo local, com taxa DAMSP).
+  - Esclarecimento: O teto de faturamento e o valor do DAS não constam nas páginas da prefeitura e não foram verificados em fonte oficial; a página também não confirma que o agendamento seja feito pela Central SP156.
+- **Sebrae - Guia do MEI (como abrir e atividades permitidas)** (aberta ou vigente, verificada 2 vezes) https://www.sebrae.com.br/sites/PortalSebrae/artigos/o-que-e-mei-e-como-funciona
+  - O que é: Autônomos e informais que querem se formalizar como MEI.
+  - Requisitos: Ocupação na lista permitida do MEI; registro virtual. Regras de faturamento, empregado e sócio não foram vistas na página lida. Nenhuma experiência ou diploma exigidos.
+  - Pagamento ou benefício: Não se aplica (registro gratuito; DAS mensal, valor não verificado em fonte oficial carregada)
+  - Prazo ou ciclo: Aberto todo o ano (formalização permanente e 100% virtual; página com banner Semana do MEI 2026).
+  - Como se candidatar: https://www.gov.br/empresas-e-negocios/pt-br/empreendedor
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O registro é 100% virtual e permite até 15 ocupações no mesmo CNPJ; o registro em si é feito no gov.br.
+  - Esclarecimento: O texto da página não traz teto de faturamento, limite de empregado, valores do DAS nem passo a passo, apenas links para emissão e regularização do DAS.
+  - Esclarecimento: O teto de R$ 81 mil em 2026 aparece em gov.br/memp (https://www.gov.br/memp/pt-br/teto-do-mei) apenas como resultado de busca, com previsão de R$ 110 mil em 2027 e R$ 140 mil em 2028, sem confirmação em leitura direta.
+  - Esclarecimento: Valores de DAS divergem entre fontes secundárias; convém conferir no PGMEI antes de informar.
+- **Contrate.Ba - cadastro de profissionais autônomos (app do Governo da Bahia)** (aberta ou vigente, verificada 2 vezes) https://www.ba.gov.br/trabalho/contrateba
+  - O que é: Trabalhadores autônomos com mais de 18 anos que atuem em uma ou mais categorias atendidas, e clientes que querem contratar serviços.
+  - Requisitos: Profissionais: 18 anos ou mais, atuar em ao menos uma categoria contemplada pelo programa, seguir as regras e completar todas as etapas do cadastro; experiência comprovada ou cursos na área também qualificam. Não foi vista exigência de escolaridade.
+  - Pagamento ou benefício: Gratuito para profissionais e clientes. O profissional negocia o valor do serviço com o cliente; a página não informa valores.
+  - Prazo ou ciclo: Cadastro contínuo pelo aplicativo, sem prazo informado.
+  - Como se candidatar: https://www.ba.gov.br/trabalho/contrateba
+  - Leitura automática possível: no
+  - Esclarecimento: Não é oferta de emprego com carteira assinada; é uma plataforma que conecta clientes a profissionais autônomos, com alcance no estado da Bahia.
+  - Esclarecimento: O cadastro é feito apenas pelo aplicativo (App Store ou Google Play), escolhendo o perfil Profissional ou Cliente.
+  - Esclarecimento: A lista de categorias contempladas não foi vista na página.
+  - Esclarecimento: A página foi atualizada pela última vez em 20/08/2024, portanto o texto pode estar desatualizado.
+- **Concursos FCC (Fundação Carlos Chagas) - concursos em andamento** (aberta ou vigente, verificada 2 vezes) https://www.concursosfcc.com.br/
+  - O que é: Candidatos a concursos de órgãos estaduais, bancos estaduais, tribunais e empresas públicas organizados pela FCC.
+  - Requisitos: Variam por concurso e por cargo (escolaridade, registro profissional etc.); consultar o edital de cada um. A página não informa idade nem documentos.
+  - Pagamento ou benefício: Varia por concurso; não consta na página inicial.
+  - Prazo ou ciclo: Contínuo. Na leitura de 23/11/2026, a página listava como inscrições abertas: BANESTES (via BANESCOR e via BANESTES SEGUROS), CETESB, Defensoria Pública do Estado da Paraíba e TRT da 4ª Região. A seção 'Próximos concursos' estava vazia. A página não mostra datas de inscrição, que ficam na página de cada concurso.
+  - Como se candidatar: https://www.concursosfcc.com.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Serve como ponto de partida para achar concursos abertos; cada concurso tem página própria com edital, taxa e prazos.
+  - Esclarecimento: Requisitos e remuneração variam por edital e não constam na página inicial.
+- **FGV Conhecimento - concursos em andamento (inclui Guarda Municipal de Salvador)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://conhecimento.fgv.br/concursos
+  - O que é: Candidatos a concursos de prefeituras, secretarias estaduais, tribunais e empresas públicas aplicados pela FGV.
+  - Requisitos: Variam por concurso; consultar o edital de cada um.
+  - Pagamento ou benefício: Varia por concurso; não consta na listagem.
+  - Prazo ou ciclo: Contínuo. A primeira página lista 20 concursos em andamento (há sete páginas); datas de inscrição não aparecem na listagem, só na página de cada concurso. Entre os listados: Concurso Público Nacional Unificado 2, Prefeitura de Macaé, Secretaria da Educação de SP, SP Águas, TJ da Paraíba, INB, SEPLAG/RJ, Secretaria de Saúde do Tocantins, Guarda Municipal de Salvador, além de exames (ENAM, ENAC, CFC).
+  - Como se candidatar: https://conhecimento.fgv.br/concursos
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Um item "em andamento" não significa inscrição aberta: vários já passaram da fase de inscrição.
+  - Esclarecimento: O período de cada concurso deve ser verificado na página própria dele.

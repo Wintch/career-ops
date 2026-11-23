@@ -1,0 +1,64 @@
+# Logística, depósitos e entregas
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **JSL - Portal de vagas (Gupy) e Trabalhe Conosco** (aberta ou vigente, verificada 2 vezes) https://jsl.gupy.io/
+  - O que é: Candidatos a vagas de logística e transporte (almoxarifado, manutenção de frota, apoio operacional, administrativo e banco de talentos). A página lida mostrava 171 vagas; o trecho exibido incluía almoxarife, oficial mecânico, ajudante de borracheiro e ajudante de manutenção em cidades de SP, MG e MS.
+  - Requisitos: Não informados na listagem; constam na página de cada vaga. Algumas vagas operacionais (ajudante) podem não exigir experiência, mas isso precisa ser conferido vaga a vaga.
+  - Pagamento ou benefício: sem dados (a listagem não mostrou faixa salarial)
+  - Prazo ou ciclo: Aberto todo o ano. Em 2026-11-23 a página mostrava 171 vagas publicadas e a opção permanente de participar do banco de talentos.
+  - Como se candidatar: https://jsl.gupy.io/
+  - Leitura automática possível: Portal Gupy (listagem pública de vagas); não foi verificado se há API ou feed.
+  - Esclarecimento: Os requisitos constam na página de cada vaga; algumas vagas operacionais podem não exigir experiência, o que precisa ser conferido vaga a vaga.
+  - Esclarecimento: A candidatura é feita na página de cada vaga ou pelo banco de talentos.
+- **iFood - Cadastro de entregadores (Portal do Entregador)** (aberta ou vigente, verificada 2 vezes) https://entregador.ifood.com.br/
+  - O que é: Pessoas maiores de 18 anos que queiram fazer entregas por conta própria, de bicicleta, moto ou carro, com horário flexível.
+  - Requisitos: Maior de 18 anos; documento de identidade com foto (RG ou CNH) e CPF; conta bancária em nome do próprio entregador, vinculada ao CPF; celular Android ou iOS; para moto, CNH categoria A; para carro, CNH categoria B; bicicleta não exige requisito adicional. Sem exigência de experiência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (a página consultada não informou ganhos)
+  - Prazo ou ciclo: Cadastro contínuo; a página oferece o botão "Comece a entregar" e pré-cadastro, sem data de encerramento (a página não afirma expressamente que é aberto o ano todo nem em todas as regiões).
+  - Como se candidatar: https://entregador.ifood.com.br/comecar-a-entregar/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Trabalho autônomo por plataforma, sem vínculo CLT.
+  - Esclarecimento: O cadastro pode ser feito pelo app iFood para Entregadores ou por formulário web com CPF e WhatsApp, e a aprovação pode levar algumas horas conforme a região.
+  - Esclarecimento: Moto e carro não podem ser combinados na mesma conta de carro: carro exclui os demais veículos.
+- **Uber - Requisitos para dirigir com a Uber no Brasil** (aberta ou vigente, verificada 2 vezes) https://www.uber.com/br/pt-br/drive/requirements/
+  - O que é: Motoristas com carro próprio ou alugado de parceiras da Uber. O cadastro de entregas da Uber não foi verificado nesta fonte.
+  - Requisitos: CNH definitiva (não PPD) com observação EAR (Exerce Atividade Remunerada); veículo UberX com 4 portas, 5 lugares e ar-condicionado, dentro do limite de idade da cidade (picapes com capota; sem carro adesivado, de placa vermelha ou van); envio do CRLV após a aprovação (pode ser o digital); foto de perfil de rosto inteiro e ombros, sem óculos escuros.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (a página não informa ganhos)
+  - Prazo ou ciclo: Cadastro contínuo, sem prazo; a página indica o cadastro em drivers.uber.com ou uber.com/a/join-new. A própria página ressalta que os requisitos variam por cidade e podem mudar sem aviso.
+  - Como se candidatar: https://www.uber.com/a/join-new
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Trabalho autônomo por plataforma, sem vínculo CLT.
+  - Esclarecimento: O limite de idade do veículo UberX é definido por cidade ou regulamentação local, e a página ressalta que os requisitos variam por cidade.
+  - Esclarecimento: Uber Comfort e Black exigem mais de 100 viagens e nota mínima.
+  - Esclarecimento: A página não informa idade mínima do motorista nem verificação de antecedentes criminais, citando apenas a verificação de segurança feita com os dados da CNH.
+- **Loggi - Vagas (carreiras corporativas e banco de talentos PcD)** (não verificada, verificada 1 vez) https://loggi.inhire.app/vagas
+  - O que é: Candidatos a vagas corporativas e operacionais da Loggi (logística de última milha). Há também banco de talentos específico para pessoas com deficiência (PcD).
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados. A página carregou, mas o conteúdo é renderizado por script e só o nome "Loggi" ficou legível.
+  - Como se candidatar: https://loggi.inhire.app/vagas
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O conteúdo da página não pôde ser confirmado, de modo que vagas, banco de talentos PcD, requisitos e datas precisam ser conferidos diretamente no site.
+- **Correios - Site oficial (concursos e seleções, atendimento e parcerias Correios Aqui)** (não verificada, verificada 1 vez) https://www.correios.com.br/
+  - O que é: Candidatos a trabalhar nos Correios (empresa pública, ingresso normalmente por concurso) ou a se tornar parceiro de atendimento (Correios Aqui).
+  - Requisitos: sem dados (dependem de cada edital; processos de Jovem Aprendiz costumam ter limite de idade, mas isso não foi confirmado em fonte oficial)
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados. Nenhum concurso ou seleção aberto foi confirmado na página oficial.
+  - Como se candidatar: https://www.correios.com.br/correios-para-chamar-de-seu
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O site oficial não traz link para concursos ou trabalhe conosco, e as URLs de concursos testadas retornaram 404.
+  - Esclarecimento: Fontes secundárias, não oficiais, indicam o edital nº 2/2026 (548 vagas imediatas e cadastro reserva, principalmente Jovem Aprendiz, publicado no DOU em 16/03/2026, possivelmente já encerrado) e um possível concurso para Atendente Comercial, sem prazo nem confirmação oficial.
+  - Esclarecimento: Correios Aqui - Seja um Parceiro (https://www.correios.com.br/correios-para-chamar-de-seu) é um modelo de negócio, não emprego.
+  - Esclarecimento: Os editais devem ser conferidos no Diário Oficial da União e no site da banca organizadora.
+- **SEST SENAT - Site oficial (capacitação e serviços para transportadores)** (não verificada, verificada 1 vez) https://www.sestsenat.org.br/
+  - O que é: Trabalhadores do transporte e da logística e interessados na área. A página retornou apenas o título, sem conteúdo de cursos.
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados. O site carrega, mas só o título "SEST SENAT" ficou legível (conteúdo renderizado por script).
+  - Como se candidatar: https://www.sestsenat.org.br/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Cursos, matrícula, gratuidade, requisitos e processo seletivo não foram confirmados, e o endereço /cursos não trouxe conteúdo útil; as informações devem ser conferidas diretamente no site oficial.

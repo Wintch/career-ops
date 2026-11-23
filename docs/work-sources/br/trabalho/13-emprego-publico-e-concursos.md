@@ -1,0 +1,57 @@
+# Emprego público e concursos
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Alistamento militar online (Exército Brasileiro)** (se repete (hoje sem chamada aberta), verificada 2 vezes) https://alistamento.eb.mil.br
+  - O que é: Homens que completam 18 anos no ano (obrigatório) e mulheres (voluntário). Passo prévio para qualquer ingresso nas Forças Armadas e exigência de muitos concursos e processos públicos para homens.
+  - Requisitos: Obrigatório para homens no ano em que completam 18 anos; voluntário para mulheres que completam 18 anos no ano. Acesso com conta gov.br. A página não lista outros documentos.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: Não se aplica (obrigação legal, não é emprego nem programa de renda).
+  - Prazo ou ciclo: Anual. O alistamento deve ser feito até 30 de junho do ano em que a pessoa completa 18 anos, online ou na Junta de Serviço Militar. A página informa que o serviço online fica disponível a partir de 01/01/2027, ou seja, está fora do ar nesta data de consulta.
+  - Como se candidatar: https://alistamento.eb.mil.br
+  - Leitura automática possível: Nenhum visto.
+  - Esclarecimento: Não é vaga de emprego: o certificado de alistamento costuma ser exigido por empregadores e concursos para homens.
+  - Esclarecimento: A frase sobre mulheres diz 'a partir de 1º de Janeiro' sem indicar o ano.
+  - Esclarecimento: Prazos e procedimentos devem ser conferidos na Junta de Serviço Militar do município.
+- **Polícia Rodoviária Federal - concursos (página oficial aponta para a Cebraspe)** (não verificada, verificada 1 vez) https://www.gov.br/prf/pt-br
+  - O que é: Candidatos ao cargo de Policial Rodoviário Federal (nível superior) e, em projeção ainda não oficial, ao concurso administrativo.
+  - Requisitos: sem dados
+  - Sem experiência prévia: não
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados. Nenhum edital aberto ou previsto foi visto em fonte oficial.
+  - Como se candidatar: sem dados
+  - Leitura automática possível: Nenhum visto.
+  - Esclarecimento: A página oficial só liga ao 'Concurso PRF 2021' (https://www.cebraspe.org.br/concursos/prf_21), sem datas.
+  - Esclarecimento: A validade do concurso de 2021 e a existência de novo edital não estão confirmadas.
+  - Esclarecimento: Boatos de novo concurso não foram checados e não devem ser tratados como fatos.
+- **EsPCEx - Escola Preparatória de Cadetes do Exército (concurso 2026/2027, referência anual)** (não verificada, verificada 1 vez) https://www.espcex.eb.mil.br/
+  - O que é: Jovens que concluíram ou cursam o 3º ano do ensino médio, para formação de oficiais do Exército. Vagas para homens e mulheres, ampla concorrência e cotas.
+  - Requisitos: Brasileiro nato; ensino médio completo até a matrícula; CPF e documento de identidade; idade de 17 a 22 anos até o fim de dezembro do ano da matrícula; pagamento da taxa ou isenção aprovada. Fases: Exame Intelectual, depois inspeção de saúde, teste de aptidão física, avaliação psicológica e conferência de documentos. 440 vagas (400 masculinas e 40 femininas; cotas para pessoas negras, indígenas e quilombolas). Não exige experiência.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados (a fonte lida não informa remuneração; taxa de inscrição de R$ 100,00, com isenção para inscritos no CadÚnico, doadores de medula óssea e famílias de baixa renda)
+  - Prazo ou ciclo: Edição 2026/2027 já realizada: inscrições de 27/04 a 29/05/2026 (a triagem citava prorrogação até 16/06/2026, não confirmada), Exame Intelectual em 12 e 13/09/2026. Próxima edição: não vista. A recorrência anual não pôde ser confirmada em fonte oficial.
+  - Como se candidatar: https://www.espcex.eb.mil.br/
+  - Leitura automática possível: Nenhum visto.
+  - Esclarecimento: Os dados vêm de um site de notícias não oficial (concursosnobrasil.com); o site oficial https://www.espcex.eb.mil.br/ e o edital no DOU não puderam ser acessados.
+  - Esclarecimento: Vagas, datas e prorrogação de inscrições devem ser conferidas no edital oficial.
+- **Banco do Brasil - página 'Concurso BB' do Portal BB** (não verificada, verificada 1 vez) https://www.bb.com.br/site/concurso-bb/
+  - O que é: Candidatos a cargos do banco por concurso público (a banca anterior costuma ser a Cesgranrio, o que não foi confirmado em página lida).
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados. Nenhum edital, data ou calendário foi visto.
+  - Como se candidatar: sem dados
+  - Leitura automática possível: Nenhum visto.
+  - Esclarecimento: A página indicada carrega apenas o título 'Concurso BB', sem conteúdo; a página oficial correta parece ser https://www.bb.com.br/site/concurso-bb/, que também só trouxe um menu.
+  - Esclarecimento: Não foi possível confirmar concurso aberto nem ciclo, e a banca não foi confirmada; não deve ser listada como oportunidade verificada.
+- **Cebraspe - página de concursos (banca de PF, PRF e outros órgãos federais)** (não verificada, verificada 1 vez) https://www.cebraspe.org.br/concursos/
+  - O que é: Quem quer acompanhar inscrições, editais e resultados dos concursos que a Cebraspe organiza. A PF e a PRF ligam a ela a partir das páginas oficiais.
+  - Requisitos: sem dados (varia por edital)
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Desconhecido. A listagem é carregada por script e não apareceu em /concursos/ nem em /concursos/inscricoes-abertas/. Na página inicial só aparece a notícia de um concurso de Policial Penal de Pernambuco, sem datas.
+  - Como se candidatar: https://www.cebraspe.org.br/concursos/inscricoes-abertas/
+  - Leitura automática possível: Nenhum visto.
+  - Esclarecimento: A listagem de concursos é carregada por script e não aparece sem navegador; apenas o cabeçalho e uma notícia de concurso de Policial Penal de Pernambuco foram vistos.
+  - Esclarecimento: Nenhuma data, edital, cargo ou remuneração pôde ser confirmado, e a condição de banca da PF e da PRF não foi confirmada nesta leitura.
+  - Esclarecimento: Páginas de listagem: /concursos/novos, /concursos/inscricoes-abertas/, /concursos/em-andamento/ e /concursos/encerrado.
+  - Esclarecimento: Ainda não há evidência de ciclo anual.

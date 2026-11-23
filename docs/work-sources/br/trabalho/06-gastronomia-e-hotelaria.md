@@ -1,0 +1,76 @@
+# Gastronomia e hotelaria
+
+[Voltar ao índice](README.md) | Verificado em 2026-11-23. Os prazos mudam: confirme a data no link antes de usar uma linha.
+
+
+- **Accor Brasil: portal de carreiras (vagas de hotel em todo o país)** (aberta ou vigente, verificada 2 vezes) https://careers.accor.com/global/en/brazil
+  - O que é: Qualquer pessoa que busque trabalho em hotéis da rede no Brasil. A listagem tem vagas de garçom, auxiliar de cozinha, camareira e governança, recepção, manutenção, eventos e A&B, além de Jovem Aprendiz.
+  - Requisitos: Varia por vaga. Várias vagas estão marcadas como Entry Level ou Not Applicable em experiência (sem experiência exigida na classificação da página); requisitos detalhados constam em cada anúncio.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto de forma contínua; filtro de localização mostrava 309 vagas no Brasil em 2026-11-23.
+  - Como se candidatar: https://careers.accor.com/global/en/brazil
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A candidatura é feita pelo botão Apply de cada vaga.
+  - Esclarecimento: A listagem mistura vagas de entrada e de nível médio-sênior, a maioria permanente em tempo integral.
+  - Esclarecimento: O total de 309 vagas aparece apenas no filtro de localização.
+- **Accor: vaga de Jovem Aprendiz (Pullman São Paulo Ibirapuera)** (aberta ou vigente, verificada 2 vezes) https://careers.accor.com/global/en/job/jovem-aprendiz-in-pullman-sao-paulo-ibirapuera-sao-paulo-brazil-jid-118165
+  - O que é: Jovens que buscam o primeiro emprego por contrato de aprendizagem em hotel. A vaga aparece na listagem como Jovem Aprendiz, Entry Level, meio período.
+  - Requisitos: Não listados no anúncio. Sem experiência exigida (nível de entrada). Critérios legais do contrato de aprendizagem (idade, escolaridade) não aparecem na página: sem dados.
+  - Sem experiência prévia: sim
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Vaga vista aberta em 2026-11-23, sem data limite informada. Renovação anual: sem dados.
+  - Como se candidatar: https://careers.accor.com/global/en/job/jovem-aprendiz-in-pullman-sao-paulo-ibirapuera-sao-paulo-brazil-jid-118165
+  - Leitura automática possível: sem dados
+  - Esclarecimento: Por ser uma vaga individual (Jovem Aprendiz, Pullman São Paulo Ibirapuera), pode ser preenchida a qualquer momento.
+  - Esclarecimento: A URL de origem é uma listagem filtrada que muda com o tempo; a listagem não mostra requisitos, salário nem prazo.
+- **Windsor Hotéis: Trabalhe Conosco (Rio de Janeiro e Brasília)** (aberta ou vigente, verificada 2 vezes) https://www.windsorhoteis.com/contato/trabalhe-conosco/
+  - O que é: Candidatos a vagas em hotéis da rede no Rio de Janeiro e em Brasília. Áreas de interesse oferecidas: Administrativo, Alimentos e Bebidas, Eventos, Governança, Recepção, Recursos Humanos, Reservas e Vendas ou Comercial.
+  - Requisitos: Único requisito informado: currículo em PDF. Sem exigência de experiência ou diploma na página; requisitos por vaga ficam no portal.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Banco de talentos aberto de forma contínua; sem prazo informado.
+  - Como se candidatar: https://www.windsorhoteis.com/contato/trabalhe-conosco/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A candidatura é feita pelo link "Portal do Candidato": escolher área de interesse e estado, anexar o currículo em PDF e enviar.
+  - Esclarecimento: A empresa informa que não cobra taxas de seleção ou contratação, não pede fotos nem números de documentos nas etapas iniciais e não vende apostilas.
+  - Esclarecimento: Os e-mails oficiais da empresa vêm apenas de @windsorhoteis.com.br.
+- **Sofitel Rio de Janeiro Ipanema: equipe de pré-abertura e banco de talentos** (não verificada, verificada 1 vez) https://venhaparaipanema.com.br
+  - O que é: Quem busca trabalho em hotel de luxo no Rio de Janeiro. Segundo a Panrotas (2026-08-05), a abertura do hotel estava prevista para outubro, e havia bolsões de talentos em Alimentos & Bebidas, Gastronomia, Front Office, Finanças, Manutenção & Segurança e Rooms.
+  - Requisitos: Não listados na página. Requisitos por vaga no site de carreiras da Accor.
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Banco de talentos aparentemente ativo em 2026-11-23, sem prazo informado. A data de reabertura do hotel não foi confirmada (a página diz apenas "Em breve" e "este ano").
+  - Como se candidatar: https://careers.accor.com/global/en/brazil
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A página afirma não receber currículos diretamente; a inscrição no banco de talentos é feita pelo botão "Participar da nossa equipe", que leva ao site de carreiras da Accor filtrado para o Rio de Janeiro.
+  - Esclarecimento: A página não lista vagas, áreas nem requisitos.
+  - Esclarecimento: A abertura do hotel em outubro de 2026, informada pela Panrotas, não é confirmada pela página oficial.
+- **Marriott International: busca de vagas (filtrar por Brasil)** (não verificada, verificada 1 vez) https://careers.marriott.com/jobs
+  - O que é: Candidatos a vagas em hotéis Marriott, de operação e corporativas, em vários países. Há filtro por país ou região.
+  - Requisitos: sem dados (depende de cada vaga; não exibido na listagem)
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: Aberto de forma contínua (portal global), mas vagas no Brasil não confirmadas
+  - Como se candidatar: https://careers.marriott.com/jobs
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O portal mostra 14.168 vagas em todos os países, e as 10 primeiras exibidas não incluíam nenhuma no Brasil.
+  - Esclarecimento: O parâmetro location=Brazil da URL parece ter sido ignorado, e o filtro de país apareceu cortado antes do Brasil; vagas brasileiras e a contagem para o país não foram confirmadas.
+  - Esclarecimento: Convém usar o filtro de país dentro do portal antes de listar como fonte para o Brasil.
+- **Hilton Careers (carreiras globais, com menção ao Brasil)** (não verificada, verificada 1 vez) https://jobs.hilton.com/
+  - O que é: Candidatos a vagas em hotéis Hilton. A página tem busca de vagas e menciona o Brasil.
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados; portal global de fluxo contínuo, vagas no Brasil não confirmadas
+  - Como se candidatar: https://jobs.hilton.com/
+  - Leitura automática possível: sem dados
+  - Esclarecimento: A URL de origem retornou conteúdo sem informação útil; o portal oficial de carreiras da Hilton é https://jobs.hilton.com/, com busca de vagas, área My Profile e opção de idioma Português (Brasil).
+  - Esclarecimento: Não foram vistas vagas específicas no Brasil nem programas para iniciantes.
+- **Abrasel: associação nacional de bares e restaurantes (Conexão Abrasel)** (não verificada, verificada 1 vez) https://www.abrasel.com.br
+  - O que é: Trabalhadores e empregadores do setor de bares e restaurantes. O que o serviço Conexão Abrasel oferece (por exemplo, quadro de vagas) não foi visto.
+  - Requisitos: sem dados
+  - Pagamento ou benefício: sem dados
+  - Prazo ou ciclo: sem dados
+  - Como se candidatar: https://conexao.abrasel.com.br
+  - Leitura automática possível: sem dados
+  - Esclarecimento: O link "Conexão Abrasel" existe no site oficial e aponta para conexao.abrasel.com.br, mas a página carregou apenas com o título, sem conteúdo legível.
+  - Esclarecimento: Não foi possível confirmar que oferece banco de vagas nem como candidatos se cadastram.
+  - Esclarecimento: O dado de que 93% dos estabelecimentos empregam pessoas sem experiência vem de notícias não oficiais e não foi verificado em página oficial.
+  - Esclarecimento: Vagas avulsas costumam ser divulgadas por sindicatos e seções estaduais.
