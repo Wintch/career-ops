@@ -1,0 +1,85 @@
+# Atencion al cliente, administracion y call centers
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **TP (Teleperformance) Colombia: Carreras (vacantes en Bogotá, Barranquilla y remotas)** (abierta o vigente, verificada 2 veces) https://www.tp.com/es-co/ubicaciones/colombia/carreras/
+  - Que es: Personas con inglés intermedio a avanzado que buscan trabajo en centros de contacto (servicio al cliente, ventas, soporte), en sede en Bogotá y Barranquilla o 100 % remoto en todo el país
+  - Requisitos: Según la vacante: inglés entre 80 % y 90 % o más (nivel intermedio-avanzado o avanzado); en varias, 6 meses de experiencia en servicio al cliente; los roles B2B, de cuentas y de tecnología piden de 6 meses a 3 años de experiencia. Edad y escolaridad: no indicadas. Feria: cédula; no se exige hoja de vida ni certificado de idioma.
+  - Pago o beneficio: Salario base: sin datos (no publicado). Bonos y comisiones, sujetos a términos y condiciones.
+  - Plazo o ciclo: Abierto de forma continua. La página anuncia una Feria de Empleo Bilingüe el miércoles 25 de noviembre, de 9 a. m. a 5 p. m. (la página no indica el año; el 25 de noviembre cae en miércoles en 2026), en el Gaming Arena de TP, Connecta 26, Torre E (Av. Calle 26 #92-32), Bogotá.
+  - Como postular: https://tpjobs.pro.typeform.com/CO-VER-GEN-BOG (Bogotá); https://tpjobs.pro.typeform.com/CO-VER-GEN-BAR (Barranquilla); https://tpjobs.pro.typeform.com/CO-VER-GEN-URG (remoto nacional)
+  - Lectura automatica posible: sin datos (página HTML con enlaces a formularios; no se vio API ni feed)
+  - Aclaracion: El año de la Feria de Empleo Bilingüe no figura en la página; el 25 de noviembre cae en miércoles en 2026.
+  - Aclaracion: Para la feria solo se pide la cédula, sin hoja de vida ni certificado de idioma.
+  - Aclaracion: El salario base no está publicado; los bonos y comisiones están sujetos a términos y condiciones.
+  - Aclaracion: Quienes no tienen inglés intermedio o avanzado no cumplen el requisito de la mayoría de estas vacantes; la ruta sin inglés es la de convocatorias en español.
+- **TP Colombia: Convocatorias en español (servicio al cliente y comercial, 100 % en español)** (abierta o vigente, verificada 2 veces) https://www.tp.com/es-co/ubicaciones/colombia/convocatorias-en-espanol/
+  - Que es: Personas que buscan un puesto de asesor de servicio al cliente o comercial en español, sin exigencia de inglés, en Medellín, Bogotá y Bucaramanga
+  - Requisitos: Bachiller graduado en las vacantes de servicio al cliente y comerciales de Medellín y Bogotá; en general, experiencia en servicio al cliente o áreas comerciales (6 meses en Medellín). La Línea de Salud de Medellín exige título de técnico auxiliar en enfermería y 6 meses de experiencia en servicio al cliente. Bucaramanga comercial: no se especifican requisitos. Sin inglés. Edad: no indicada.
+  - Pago o beneficio: Salario base: sin datos (no publicado). Bonos por indicadores, comisiones (sin límite en la comercial de Medellín), sujetos a términos y condiciones.
+  - Plazo o ciclo: Abierto de forma continua (la página no indica fechas de cierre ni de inicio).
+  - Como postular: https://tpjobs.typeform.com/TF-CO-GRAL-SPA (formulario general); https://tpjobs.typeform.com/MED-ESP-GEN-Blu (Medellín); https://tpjobs.typeform.com/BOG-ESP-GEN (Bogotá); https://tpjobs.typeform.com/BUC-ESP-GEN (Bucaramanga)
+  - Lectura automatica posible: sin datos (formularios Typeform; no se vio API)
+  - Aclaracion: El salario base no está publicado; bonos y comisiones están sujetos a términos y condiciones.
+  - Aclaracion: La Línea de Salud de Medellín exige título de técnico auxiliar en enfermería, a diferencia de las demás vacantes, que piden bachillerato.
+  - Aclaracion: Cada vacante tiene su propio formulario en Typeform y hay uno general para cualquier ciudad.
+- **Atento Colombia: Trabaja con nosotros (asesor comercial, atención al cliente, soporte técnico y bilingües)** (abierta o vigente, verificada 2 veces) https://atento.com/es/trabaja-con-nosotros-colombia/
+  - Que es: Personas que buscan un puesto de asesor comercial, atención al cliente, soporte técnico o agente bilingüe en Bogotá, Pereira o Medellín
+  - Requisitos: No indicados en la página (la sección de instrucciones no lista requisitos). El formulario pide hoja de vida y datos de contacto. Ciudades disponibles: Bogotá, Pereira, Medellín.
+  - Pago o beneficio: Salario: sin datos. Bonos y comisiones según la página.
+  - Plazo o ciclo: Abierto todo el año: formulario de postulación permanente en la página; no se indica fecha de cierre.
+  - Como postular: https://atento.com/es/trabaja-con-nosotros-colombia/ (botón Postúlate aquí / Postúlate al 23/11/2026)
+  - Lectura automatica posible: sin datos (formulario HTML)
+  - Aclaracion: La página no lista requisitos por cargo y la sección de instrucciones aparece sin texto.
+  - Aclaracion: La página no indica si hay vacantes concretas abiertas ni si el formulario es continuo o temporal; solo se observa que no tiene fecha de cierre.
+  - Aclaracion: El formulario pide nombre, cédula, correo, teléfono, WhatsApp, ciudad, área de interés y hoja de vida.
+- **Foundever (antes Sitel) Colombia: vacantes de servicio al cliente** (abierta o vigente, verificada 2 veces) https://jobs.foundever.com/go/Colombia-Locations/9246500/
+  - Que es: Personas que buscan trabajo como agente de servicio al cliente en español o bilingüe, presencial en Bogotá (Calle 166), Barranquilla y Cali
+  - Requisitos: sin datos (no se vieron en la lista; están en cada vacante). La vacante de servicio al cliente en español no indica inglés en el título; las bilingües sí lo requieren.
+  - Pago o beneficio: sin datos (no se vio en la lista)
+  - Plazo o ciclo: Abierto de forma continua. Vacantes vistas el 2026-11-23: 3 publicadas el 19 de noviembre de 2026 y 1 del 30 de octubre de 2026.
+  - Como postular: https://jobs.foundever.com/job/Bogota-Bogota-Agente-de-servicio-al-cliente-en-espa%C3%B1ol-Bogo/1089699800/ (ejemplo en español, Bogotá); el botón de aplicar está en la página de cada vacante
+  - Lectura automatica posible: sin datos (portal de empleo en HTML con filtros por país, ciudad y palabra clave)
+  - Aclaracion: Los requisitos y el salario están en la página de detalle de cada vacante, no en la lista.
+  - Aclaracion: La lista de vacantes cambia con el tiempo.
+  - Aclaracion: Las vacantes bilingües requieren inglés; la de servicio al cliente en español no lo menciona en el título.
+- **Bancolombia, Trabaja con nosotros** (abierta o vigente, verificada 2 veces) https://www.bancolombia.com/acerca-de/trabaja-con-nosotros
+  - Que es: Personas que buscan trabajo en un banco grande: puestos de atención, administrativos y de operaciones, además de programas para talento joven (Prácticas y Talento B).
+  - Requisitos: No se listan en la página; cada vacante define sus requisitos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: El 2026-11-23 el portal de vacantes mostraba un aviso de carga del listado y de imposibilidad temporal de adjuntar la hoja de vida; sin fechas de cierre visibles.
+  - Como postular: https://empleo.grupobancolombia.com/bancolombia/viewalljobs/
+  - Lectura automatica posible: no
+  - Aclaracion: La página corporativa solo remite a las vacantes en empleo.grupobancolombia.com.
+  - Aclaracion: En ese portal el listado quedó en 'Cargando...', por lo que no se pudo ver la cifra de 41 resultados.
+  - Aclaracion: El portal muestra un aviso de que por el momento no se puede adjuntar la hoja de vida y que se puede volver más adelante a completar el registro.
+  - Aclaracion: Por tanto, 'abierto de forma continua' queda sin confirmar y con una restricción temporal para postularse.
+- **Alorica: búsqueda de vacantes (América Latina, incluye Colombia)** (sin verificar, verificada 1 vez) https://www.alorica.com/careers
+  - Que es: Personas que buscan trabajo en centros de contacto de Alorica en América Latina y el Caribe, entre ellas Colombia
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página no lista vacantes ni fechas.
+  - Como postular: https://alorica-hire.bling-ai.com (enlace 'Search Openings' de la página de carreras; no se pudo leer su contenido)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no muestra vacantes ni datos de contacto de Colombia y remite al portal externo alorica-hire.bling-ai.com, que no pudo leerse.
+  - Aclaracion: No se confirmó ninguna vacante vigente en Colombia ni sus requisitos.
+  - Aclaracion: La empresa advierte que nunca cobra a los candidatos.
+- **Konecta: 'Join us' (selector de país, Colombia)** (sin verificar, verificada 1 vez) https://konecta.com/join-us
+  - Que es: Personas que buscan trabajo en centros de contacto y servicios de experiencia de cliente de Konecta en Colombia
+  - Requisitos: sin datos en la página oficial. Fuentes de prensa antiguas no verificadas indican convocatorias abiertas a bachilleres, técnicos y estudiantes, y inglés B2 en cuentas bilingües.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página no lista vacantes ni fechas. Búsquedas sugieren que Konecta publica vacantes de forma recurrente en Colombia, pero las notas de prensa vistas son antiguas (2021 y 2024).
+  - Como postular: https://konecta.com/join-us (seleccionar Colombia en el selector de país)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no muestra vacantes ni pasos de postulación para Colombia; para verlas hay que elegir Colombia en el selector de país.
+  - Aclaracion: Los avisos en Computrabajo y Elempleo y las notas de prensa sobre convocatorias no se confirmaron en la página oficial y no tienen fecha clara o son antiguos.
+  - Aclaracion: Los requisitos mencionados en fuentes de prensa antiguas no están verificados.
+- **Concentrix, búsqueda de empleos (filtro Colombia)** (sin verificar, verificada 1 vez) https://jobs.concentrix.com/job-search/
+  - Que es: Personas que buscan vacantes de servicio al cliente, soporte y back office, incluidas las bilingües, en las sedes de Concentrix en Colombia.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://jobs.concentrix.com/job-search/
+  - Lectura automatica posible: no
+  - Aclaracion: No se pudo confirmar ninguna vacante ni ruta de postulación para Colombia.

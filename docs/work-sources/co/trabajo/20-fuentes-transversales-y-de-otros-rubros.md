@@ -1,0 +1,693 @@
+# Fuentes transversales y de otros rubros
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Fuerza Aérea Colombiana - Incorporación (soldado profesional, suboficial, oficial, servicio militar)** (abierta o vigente, verificada 1 vez) https://www.incorporacion.mil.co/
+  - Que es: Personas que quieren ingresar a la FAC como oficial, suboficial, soldado profesional o prestar servicio militar. El soldado profesional pide mínimo quinto de básica, es decir, no exige bachillerato.
+  - Requisitos: Servicio militar: colombiano, no haber definido situación militar, 18 a 23 años cumplidos el día de la incorporación, sin antecedentes penales, sin exención de la Ley 1861 de 2017; cédula, diploma y acta de grado solo para bachilleres, soporte de inscripción en libretamilitar.mil.co. No exige experiencia. Soldado profesional (cerrado): colombiano, mínimo quinto de básica primaria, servicio militar previo, libreta de primera clase, conducta excelente, sin antecedentes, aprobar evaluación psicofísica.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no se vio el monto)
+  - Plazo o ciclo: Servicio militar: inscripciones abiertas todo el año (abierto todo el año). Soldado profesional: 'PROCESO CERRADO' con aviso 'PRÓXIMAMENTE inscripciones para el curso de soldados profesionales', sin fechas de la próxima convocatoria (sin datos). Oficiales y suboficiales: la página muestra aviso de 'Cierre de inscripciones' sin fechas.
+  - Como postular: https://www.incorporacion.mil.co/servicio-militar
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: El servicio militar exige tener entre 18 y 23 años cumplidos al incorporarse y no haber definido la situación militar; la preinscripción es en línea o en el Distrito Militar Aéreo más cercano.
+  - Aclaracion: El proceso de soldado profesional figura como cerrado y la página no demuestra un ciclo anual; además exige servicio militar previo y libreta de primera clase.
+  - Aclaracion: El texto de la página no contiene los avisos de proceso cerrado ni de inscripciones abiertas todo el año; el estado de las convocatorias debe revisarse a mano.
+  - Aclaracion: Los oficiales y suboficiales muestran un aviso de cierre de inscripciones sin fechas.
+- **Policía Nacional - Convocatoria de patrulleros (preinscripción en línea)** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.policia.gov.co/noticia/abierta-convocatoria-para-patrullero-policia
+  - Que es: Bachilleres colombianos de nacimiento que buscan ingresar como patrulleros; la formación dura cerca de un año en escuelas de policía y otorga el título de Técnico Profesional en Servicio de Policía. No exige experiencia laboral previa.
+  - Requisitos: Colombiano de nacimiento; sin condena penal ni investigación formal por violación de derechos humanos; sin antecedentes disciplinarios o fiscales vigentes; sin multas vigentes en el Registro Nacional de Medidas Correctivas. Documentos: acta de grado, diploma de bachiller, resultados ICFES Saber 11, documento de identidad; menores de edad, autorización de tratamiento de datos y copia del documento del acudiente. Edad y estatura no figuran en la nota de 2026.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (no se indica en la nota)
+  - Plazo o ciclo: Recurrente. Ciclo 2026 visto en el sitio oficial: preinscripción del 5 de marzo al 10 de abril (nota del 30 de marzo de 2026) y otra nota del 31 de agosto de 2026 que fija el cierre el 10 de septiembre de 2026. No se vio convocatoria abierta al 2026-11-23
+  - Como postular: https://www.policia.gov.co
+  - Lectura automatica posible: Ninguna vista (noticias HTML en policia.gov.co). El portal de preinscripción no se pudo consultar directamente; la fuente de los datos son las notas oficiales.
+  - Aclaracion: No había convocatoria abierta al 2026-11-23; el ciclo más reciente visto cerró el 10 de septiembre de 2026.
+  - Aclaracion: Exige ser colombiano de nacimiento, sin antecedentes disciplinarios o fiscales vigentes, ni condena penal ni investigación formal por violación de derechos humanos.
+  - Aclaracion: La nota de 2026 no indica edad ni estatura.
+  - Aclaracion: La preinscripción se hace en www.policia.gov.co (botón Incorporación, luego Preinscríbete) o en el grupo de incorporación más cercano; el proceso es gratuito según el sitio.
+- **Ejército Nacional - Incorpórese al Ejército y Comando de Reclutamiento (servicio militar y situación militar)** (sin verificar, verificada 1 vez) https://www.ejercito.mil.co/comando-de-reclutamiento
+  - Que es: Hombres y mujeres que quieren prestar servicio militar, definir su situación militar o ingresar al Ejército (soldado profesional, suboficial, oficial). Es la ruta oficial para la libreta militar.
+  - Requisitos: sin datos (no se listan en esta página)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página no muestra fechas ni convocatorias; remite al sitio incorporese.ejercito.mil.co.
+  - Como postular: https://incorporese.ejercito.mil.co
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: La página funciona solo como directorio: no trae requisitos, pasos ni fechas, y enlaza a incorporese.ejercito.mil.co.
+  - Aclaracion: Es la ruta oficial para definir la situación militar o la libreta militar.
+  - Aclaracion: Atención de lunes a jueves de 8:00 a 16:00 y viernes de 7:00 a 15:00.
+- **Cuerpo Oficial de Bomberos de Bogotá (UAECOB) - sitio oficial** (sin verificar, verificada 1 vez) https://www.bomberosbogota.gov.co/
+  - Que es: Referencia para quienes buscan ser bomberos oficiales en Bogotá. La página reporta cursos de formación de bomberos (Curso 53 incorporó 13 nuevos bomberos) pero no una convocatoria abierta.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. No se vio ninguna convocatoria de empleo ni de voluntariado al 23-nov-2026.
+  - Como postular: sin datos
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: La portada no muestra convocatoria de ingreso de bomberos para ciudadanos.
+  - Aclaracion: El banner de encargo de subteniente (proceso No. 01-2026) parece un proceso interno para personal ya vinculado, no una apertura general.
+  - Aclaracion: No se confirmó ninguna vía abierta para personas sin vinculación previa.
+- **SECOP II (Colombia Compra Eficiente): contratación estatal, incluida la prestación de servicios** (sin verificar, verificada 1 vez) https://www.colombiacompra.gov.co
+  - Que es: Personas naturales y jurídicas que quieran contratar con el Estado; los contratos de prestación de servicios profesionales o de apoyo a la gestión se publican allí como ruta de entrada sin concurso de méritos.
+  - Requisitos: sin datos: no se vieron requisitos en la página; la inscripción como proveedor y los requisitos de cada proceso se consultan en SECOP II.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin ciclo; plataforma continua según lo declarado, pero no se vio un proceso abierto ni un trámite de inscripción en la página
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Se trata de contratación estatal (contratistas), no de empleo con vínculo laboral.
+  - Aclaracion: La página no explica cómo una persona natural encuentra o se postula a contratos de prestación de servicios.
+  - Aclaracion: Ofrece mesa de servicio (01 800 0520808 nacional; +57 601 7456788 Bogotá; lunes a viernes 7:00 a. m. a 7:00 p. m., sábados 8:00 a. m. a 12:00 m.) y cursos virtuales gratuitos para proveedores.
+- **Servicio Público de Empleo (SPE): portal de personas, registro de oferentes** (abierta o vigente, verificada 2 veces) https://personas.serviciodeempleo.gov.co/
+  - Que es: Cualquier persona que busque empleo en Colombia; el portal ofrece tipos de documento de cédula de ciudadanía, cédula de extranjería, pasaporte, tarjeta de identidad, Permiso Especial de Permanencia y Documento Nacional de Identificación.
+  - Requisitos: Documento de identidad y clave. No se vio ninguna exigencia de experiencia, título o afiliación para registrar la hoja de vida; sirve también a personas sin experiencia o en primer empleo. Cada vacante fija sus propios requisitos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica: servicio de intermediación; la remuneración depende de cada vacante.
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: https://personas.serviciodeempleo.gov.co/
+  - Lectura automatica posible: Sin API pública vista; portal web con inicio de sesión.
+  - Aclaracion: La página no explica el procedimiento; las guías están en cada agencia.
+  - Aclaracion: La gratuidad no figura en esta página, pero la agencia de Comfacauca indica que los servicios no tienen costo y que cobrar por ellos debe denunciarse.
+  - Aclaracion: Contacto: PBX 601 7460999, lunes a viernes de 8:00 a. m. a 4:00 p. m.; sede en Bogotá, Cra 7 No. 31-10, pisos 13-14.
+- **Cajasan: Agencia de Empleo (Santander, Bucaramanga y municipios)** (abierta o vigente, verificada 2 veces) https://www.cajasan.com/agencia-empleo
+  - Que es: Buscadores de empleo en Santander; oficinas en Bucaramanga, Floridablanca, Girón, Piedecuesta, Barrancabermeja, Sabana de Torres, San Gil, Cimitarra y Málaga.
+  - Requisitos: Hoja de vida registrada en el SPE y turno agendado (virtual o presencial). La página no fija edad, afiliación ni experiencia; puede usarlo quien no tiene experiencia.
+  - Pago o beneficio: No aplica: intermediación laboral; la remuneración depende de cada vacante.
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: https://personas.serviciodeempleo.gov.co/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no indica costo, edad, afiliación a la caja ni fechas de cierre.
+  - Aclaracion: La ruta es registrar la hoja de vida en el SPE y agendar turno virtual en el portal de turnos de Cajasan o acudir a una sede.
+  - Aclaracion: Enlaza al subsidio de desempleo de Cajasan.
+- **Confa (Caldas): Agencia de Gestión y Colocación de Empleo** (abierta o vigente, verificada 2 veces) https://confa.co/personas/servicio-empleo-2/
+  - Que es: Personas cesantes de Caldas afiliadas a una caja de compensación.
+  - Requisitos: Para el servicio descrito en la página: persona cesante con afiliación a una caja de compensación por al menos un año en los últimos tres. Para solo registrarse y postularse a vacantes en el SPE no se vio exigencia de experiencia ni título.
+  - Pago o beneficio: No aplica: intermediación laboral; la remuneración depende de cada vacante.
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: https://personas.serviciodeempleo.gov.co/
+  - Lectura automatica posible: Vacantes en https://vacantes.confa.co/vacantes (formato no verificado).
+  - Aclaracion: La página describe como usuarios a personas cesantes con al menos un año de afiliación a una caja en los últimos tres años; el registro de hoja de vida en el SPE y la postulación a vacantes son abiertos.
+  - Aclaracion: Varias sedes municipales atienden solo ciertas semanas del mes, por lo que conviene confirmar antes de ir.
+  - Aclaracion: La página de vacantes activas mostró solo el título, sin ofertas visibles.
+  - Aclaracion: El costo no se especifica en la página.
+- **Comfacauca (Cauca): Agencia de empleo (Mecanismo de Protección al Cesante)** (abierta o vigente, verificada 2 veces) https://www.comfacauca.com/servicio/mpc-empleo/
+  - Que es: Oferentes o buscadores de empleo en Cauca (Popayán, Puerto Tejada, Santander de Quilichao, El Bordo).
+  - Requisitos: Agencia: hoja de vida completa en el SPE; no se vio exigencia de experiencia. Subsidio FOSFEC: estar desempleado; aportes a una caja de compensación en los últimos tres años (un año para dependientes, dos para independientes); inscribirse en un servicio de empleo autorizado y en capacitación; documentos como certificado de cesación laboral, certificado de inscripción en el SPE, certificado de EPS y AFP y copia de la cédula.
+  - Pago o beneficio: Agencia: sin costo. Subsidio FOSFEC (solo para quienes cumplan los requisitos): aportes a salud y pensión sobre 1 SMMLV por hasta 6 meses y transferencia de 1,5 SMMLV en 4 cuotas (40 %, 30 %, 20 %, 10 %) para categorías A y B; la categoría C recibe solo aportes de seguridad social.
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: https://personas.serviciodeempleo.gov.co/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El subsidio FOSFEC es un servicio aparte de la agencia, con requisitos propios de aportes a caja de compensación.
+  - Aclaracion: La agencia indica que sus servicios no tienen costo y que quien cobre debe denunciarse ante el Ministerio de Trabajo.
+  - Aclaracion: La postulación al subsidio se hace por formulario único de Asopagos.
+  - Aclaracion: No se vio fecha de cierre; una imagen titulada «Cierre-postulaciones» no pudo leerse.
+- **Comfenalco Santander: Agencia de Empleo** (abierta o vigente, verificada 2 veces) https://www.comfenalcosantander.com.co/empleo/
+  - Que es: Desempleados, personas empleadas que quieren mejores condiciones, quienes quieren mejorar su perfil laboral y población vulnerable.
+  - Requisitos: Registro de hoja de vida en el SPE; no se exige experiencia para registrarse. La orientación laboral requiere haber aportado a una caja de compensación un año en los últimos tres (dependientes) o dos (independientes), continuos o discontinuos.
+  - Pago o beneficio: Servicio gratuito; la remuneración depende de cada vacante.
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: https://personas.serviciodeempleo.gov.co/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La orientación laboral exige haber aportado a una caja de compensación un año en los últimos tres (dependientes) o dos (independientes), continuos o discontinuos.
+  - Aclaracion: El registro de la hoja de vida se hace en personas.serviciodeempleo.gov.co, eligiendo a Comfenalco Santander como prestador, y debe mantenerse al 100 %.
+  - Aclaracion: Existe un formulario 'Talentos sin Barreras' para personas con discapacidad.
+- **Comfaoriente (Norte de Santander): Agencia de Gestión y Colocación de Empleo** (abierta o vigente, verificada 2 veces) https://comfaoriente.com/agencia-de-empleo/
+  - Que es: Buscadores de empleo en Norte de Santander; atención en los centros de empleo de Cúcuta y Tibú y puntos de Ocaña y Pamplona.
+  - Requisitos: Abierto a afiliados y comunidad en general; la página no detalla requisitos de inscripción ni exige experiencia. Los vacantes fijan los suyos.
+  - Pago o beneficio: Servicio gratuito; la remuneración depende de cada vacante.
+  - Plazo o ciclo: abierto todo el año
+  - Como postular: https://personas.serviciodeempleo.gov.co/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no explica un proceso de registro propio y enlaza a los portales del Servicio Público de Empleo para personas y empresas.
+  - Aclaracion: La atención presencial se presta en los centros de empleo de Cúcuta y Tibú y en puntos de Ocaña y Pamplona.
+  - Aclaracion: Los servicios son gratuitos y la página advierte que cobrar por ellos está prohibido.
+- **TransMilenio - Listado oficial de concesionarios del sistema (TransMilenio y SITP)** (abierta o vigente, verificada 2 veces) https://www.transmilenio.gov.co/viaje-en-transmi/como-utilizar-transmi/operacion/concesionarios-del-sistema-transmilenio
+  - Que es: Directorio de los operadores troncales, zonales y de alimentación que contratan conductores y personal operativo. TransMilenio S.A. no contrata operadores de bus: lo hacen los concesionarios.
+  - Requisitos: No se indican en la página; cada operador define sus perfiles (para conducción de buses suele pedirse licencia de conducción, pero no se verificó en esta fuente).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (directorio permanente, actualizado por última vez el 22 de abril de 2026; sin fechas de convocatoria)
+  - Como postular: https://www.transmilenio.gov.co/viaje-en-transmi/como-utilizar-transmi/operacion/concesionarios-del-sistema-transmilenio
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: La página no es un portal de vacantes: solo lista concesionarios con sus datos de contacto.
+  - Aclaracion: Solo algunos operadores publican correo de hojas de vida o empleabilidad (Bogotá Móvil, GMOVIL, Este Es Mi Bus, ETIB y Recaudo Bogotá); el resto indica únicamente un correo general de atención al ciudadano, sin confirmar que reciba postulaciones.
+  - Aclaracion: Recaudo Bogotá (Tullave) también recibe hojas de vida en taquillas de estaciones y portales, de lunes a viernes de 8:00 a 18:00.
+  - Aclaracion: No se confirmaron vacantes abiertas de ningún operador.
+- **Zona Franca Bogotá - Portal de empleos 'Trabaja en Zona Franca Bogotá'** (abierta o vigente, verificada 2 veces) https://trabajaenzonafrancabogota.com/
+  - Que es: Cualquier persona que busque empleo en las empresas usuarias del parque (unas 400 empresas y más de 20.000 empleos directos, según el portal) y en su zona de influencia.
+  - Requisitos: No se indican en la página principal; dependen de cada vacante y empresa.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto de forma continua; la página principal no muestra vacantes concretas ni fechas.
+  - Como postular: https://trabajaenzonafrancabogota.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El portal lo opera la Zona Franca de Bogotá junto con prestadores públicos autorizados por el Servicio Público de Empleo; personal de la agencia de empleo de Compensar puede contactar a los usuarios.
+  - Aclaracion: La sección 'Nuestras vacantes' no mostró ofertas.
+  - Aclaracion: Las cifras de empresas y empleos son las que declara el propio portal.
+  - Aclaracion: Contacto: trabajaenzfb@zonafrancabogota.com y (601) 404 6644.
+- **Servicio de Empleo Comfama (Antioquia)** (abierta o vigente, verificada 2 veces) https://www.comfama.com/trabajo-con-proposito/empleo/
+  - Que es: Personas que buscan empleo en Antioquia, incluidas quienes buscan su primer empleo, quienes quieren cambiar de oficio y poblaciones con brechas (programas de inclusión para personas con discapacidad, Por Talento y Oportunidades para Migrantes, según El Colombiano).
+  - Requisitos: La página no lista requisitos de elegibilidad ni documentos; se piden en el registro y en cada vacante. Sin costo para la persona postulante.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Servicio gratuito para quien busca empleo; el salario depende de cada vacante
+  - Plazo o ciclo: Permanente (abierto todo el año); la página indica más de 6.000 vacantes disponibles en Antioquia
+  - Como postular: https://www.comfama.com/trabajo-con-proposito/empleo/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Enlaza el listado de vacantes de Antioquia y un formulario de registro mediante el cual Comfama contacta a la persona en los días siguientes.
+  - Aclaracion: Declara de forma expresa que no se debe pagar para participar en procesos de selección y trae una alerta contra el fraude.
+  - Aclaracion: La página enlaza el reglamento de la agencia, pero no muestra el número de autorización.
+- **Oficina Pública de Empleo (OPE) de Medellín** (abierta o vigente, verificada 2 veces) https://www.medellin.gov.co/es/secretaria-desarrollo-economico/subsecretaria-de-creacion-y-fortalecimiento-empresarial/oferta-publica-de-empleo/
+  - Que es: Personas que buscan empleo en Medellín y empresas que publican vacantes. Hay puntos de atención en varias comunas.
+  - Requisitos: No indicados en la página. Es un servicio de la Alcaldía de Medellín; los requisitos y documentos se consultan en la oficina.
+  - Pago o beneficio: Servicio público de intermediación; el salario depende de cada vacante (no se vio ninguno)
+  - Plazo o ciclo: Permanente (abierto todo el año); página con fecha de actualización 2026-11-23
+  - Como postular: https://www.medellin.gov.co/es/secretaria-desarrollo-economico/subsecretaria-de-creacion-y-fortalecimiento-empresarial/oferta-publica-de-empleo/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página enlaza un boletín de vacantes en un archivo de Google Drive, sin fechas de publicación visibles.
+  - Aclaracion: Los servicios incluyen registro de hoja de vida, asesoría con orientadores, talleres de empleabilidad y apoyo a la colocación; la página no lista los puntos OPE de las comunas.
+  - Aclaracion: Atención en Calle 44 # 52-165, Centro Administrativo La Alpujarra: lunes a jueves 7:30 a. m.-12:00 m. y 1:30-5:00 p. m.; viernes 7:30 a. m.-12:00 m. y 1:30-4:00 p. m.
+  - Aclaracion: Contacto: atencion.ciudadana@medellin.gov.co, línea (+57) 604 44 44 144, WhatsApp 301 604 44 44.
+- **Agencia de Gestión y Colocación de Empleo de Comfaoriente (Cúcuta, Tibú, Pamplona, Ocaña)** (abierta o vigente, verificada 2 veces) https://comfaoriente.com/wp-content/uploads/2026/07/REGLAMENTO-DE-PRESTACION-DEL-SERVICIO-DE-LA-AGCE-2026-2030.pdf
+  - Que es: Buscadores de empleo en Norte de Santander. Atención presencial en los centros de empleo de Cúcuta y Tibú, puntos de servicio en Pamplona y Ocaña, brigada móvil y estrategia móvil en vehículo. Contempla a personas con DNI/PPT (extranjeros) y poblaciones focalizadas.
+  - Requisitos: Presentar documento de identidad original, soportes de estudios y certificaciones de experiencia laboral para el registro en el SISE. Admite cédula de ciudadanía, tarjeta de identidad, cédula de extranjería y pasaporte. No se exige experiencia para registrarse.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Servicio gratuito; el salario depende de cada vacante
+  - Plazo o ciclo: Permanente (abierto todo el año); reglamento con vigencia 2026-2030
+  - Como postular: https://comfaoriente.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una caja de compensación autorizada para gestión y colocación de empleo por la Resolución 0164 del 20 de abril de 2022 de la Unidad Administrativa Especial del Servicio Público de Empleo.
+  - Aclaracion: El servicio es siempre gratuito para el buscador.
+  - Aclaracion: Sede principal: Avenida 2 No. 13-75, Barrio La Playa, Cúcuta; teléfono (607) 5748880.
+  - Aclaracion: La información proviene del reglamento, no de una página de vacantes vigente.
+- **Bogotá Trabaja: Agencia Distrital de Empleo y ferias de empleo de Bogotá (SDDE)** (abierta o vigente, verificada 2 veces) https://bogota.gov.co/servicios/oportunidades-y-apoyos/ruta-de-empleabilidad
+  - Que es: Personas que buscan empleo en Bogotá y empresas del sector productivo. Hay ferias dirigidas a población migrante y refugiada, personas con discapacidad (feria incluyente) y por sector (construcción, tecnología).
+  - Requisitos: La página no enumera requisitos; el registro se inicia en bogotatrabaja.gov.co.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Servicio público sin costo indicado; el salario depende de cada vacante
+  - Plazo o ciclo: Convocatoria permanente (abierto todo el año); las fechas de las megaferias de 19 de febrero y 15 de octubre de 2026 NO se pudieron verificar
+  - Como postular: https://bogotatrabaja.gov.co (registro; el sitio no cargó por error de certificado en la verificación)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es la Agencia Pública de Empleo del Distrito, liderada por la Secretaría Distrital de Desarrollo Económico; la ruta incluye registro y asesoría en la plataforma SISE, orientación de perfil, formación, intermediación y seguimiento.
+  - Aclaracion: Figura como convocatoria permanente, pero las fechas del programa que muestra son de 2021 y están desactualizadas.
+  - Aclaracion: Las fechas de las megaferias del 19 de febrero y el 15 de octubre de 2026 no están confirmadas, y la página no menciona esas ferias.
+  - Aclaracion: La página no indica costos ni requisitos.
+- **Agencia de Empleo Comfenalco Santander (Bucaramanga y Santander)** (abierta o vigente, verificada 2 veces) https://www.comfenalcosantander.com.co
+  - Que es: Buscadores de empleo en Santander; la agencia publica vacantes de alianzas con empresas (por ejemplo asesores de microfinanzas en Bucaramanga en Computrabajo).
+  - Requisitos: Documento de identidad (cédula de ciudadanía, cédula de extranjería o pasaporte) y correo electrónico (indispensable) para crear la cuenta. No se exige experiencia ni título para registrarse. Se recomienda hoja de vida completa al 100 %, con datos de contacto vigentes, y actualizarla cada 2 meses.
+  - Pago o beneficio: Gratuito en el esquema del Servicio Público de Empleo (el reglamento de las cajas lo declara gratuito; para Comfenalco Santander solo se leyó el instructivo, que no menciona costo).
+  - Plazo o ciclo: Abierto todo el año (servicio permanente). El instructivo se basa en la Resolución 0045 de 2022, modificada por la Resolución 0247 de 2023.
+  - Como postular: https://personas.serviciodeempleo.gov.co
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El registro se hace en personas.serviciodeempleo.gov.co: se elige REGÍSTRESE, se indica correo y documento, y en Tipo de prestador se escoge Agencia y Caja de Compensación Familiar Comfenalco Santander.
+  - Aclaracion: Para postularse, la hoja de vida debe estar completa al 100 %.
+  - Aclaracion: El instructivo es de diciembre de 2023.
+- **Agencia de Empleo Comfamiliar Atlántico (Barranquilla y Atlántico)** (abierta o vigente, verificada 1 vez) https://www.comfamiliar.com.co
+  - Que es: Buscadores de empleo en el Atlántico; atención presencial, virtual o mixta; se publican convocatorias de contact center, domiciliarios y salud.
+  - Requisitos: El reglamento establece el registro de buscadores en el Servicio Público de Empleo; no se leyeron requisitos de edad, estudios ni experiencia. Contacto para empleo: infoempleo@comfamiliar.com.co.
+  - Pago o beneficio: Gratuito: el reglamento indica que los servicios básicos de gestión y colocación (registro, orientación, preselección, remisión) se prestan sin costo a buscadores de empleo.
+  - Plazo o ciclo: Abierto todo el año (servicio permanente). Reglamento versión 12, vigente desde 2022-09-13. Los eventos presenciales no se verificaron.
+  - Como postular: https://personas.serviciodeempleo.gov.co
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La información proviene de un reglamento de 2022 (versión 12), no de una página de postulación; la ruta práctica es registrarse en la plataforma del Servicio Público de Empleo y elegir esta agencia.
+  - Aclaracion: La agencia tiene sede en Barranquilla (Calle 48 No. 43-104), con atención presencial, virtual o mixta.
+  - Aclaracion: No se verificaron eventos ni vacantes actuales.
+- **Más Empleos Cali y servicios de empleabilidad de la Alcaldía de Cali** (abierta o vigente, verificada 2 veces) https://www.cali.gov.co/desarrolloeconomico/publicaciones/150259/empleabilidad/
+  - Que es: Habitantes de Cali, con o sin experiencia; ferias 'Más Empleos Cali' (incluyen población étnica y migrante) y programas de empleo inclusivo para personas con discapacidad. 'Juntos por el Empleo' ofrece vacantes en estaciones del MIO y por WhatsApp.
+  - Requisitos: Sin requisitos listados para ferias ni programas generales. Para empleo público, el perfil y la experiencia deben coincidir con el cargo elegido en la plataforma de la CNSC.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Sin fechas de convocatoria ni calendario de ferias; la página indica que las ferias se anuncian en las redes de la Secretaría de Desarrollo Económico.
+  - Como postular: https://www.cali.gov.co/desarrolloeconomico/publicaciones/150259/empleabilidad/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no menciona Más Empleos Cali ni Juntos por el Empleo; la estrategia que nombra es Cali trabaja, el sistema distrital de empleo.
+  - Aclaracion: El registro se orienta a varios canales, cada uno con su propio proceso: Servicio Público de Empleo, agencias de Comfenalco y Comfandi, agencia del SENA, Centro Intégrate para migrantes y retornados, y la CNSC para empleo público.
+  - Aclaracion: Las ferias de empleo se anuncian por redes sociales, sin fechas ni lugares; la página fue modificada por última vez el 22/07/2025.
+  - Aclaracion: Atención de la Secretaría de Desarrollo Económico: lunes a viernes, 8:00-12:00 y 14:00-16:00.
+- **Comfamiliar Risaralda - Empleo y Gestión de Talento (Pereira y Risaralda)** (sin verificar, verificada 1 vez) https://comfamiliar.com/wp-content/uploads/2025/08/Reglamento-de-Prestacion-de-Servicios-CCF-Comfamiliar-Risaralda.pdf
+  - Que es: Personas que buscan empleo en Risaralda, con sedes en Pereira, Dosquebradas, Santa Rosa de Cabal y La Virginia, y atención móvil mensual en otros municipios del departamento. Servicios adicionales para vinculación de personas con discapacidad.
+  - Requisitos: Hoja de vida con el contenido mínimo exigido por la norma del Servicio Público de Empleo y autorización de tratamiento de datos personales. No se vieron requisitos de edad, estudios ni experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Servicio gratuito; el salario depende de cada vacante
+  - Plazo o ciclo: Permanente según el reglamento, pero la vigencia actual no se pudo confirmar
+  - Como postular: sin datos (registro presencial en Calle 22 # 4-27, Pereira, o por agenciadeempleo@comfamiliar.com)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La información proviene del reglamento de la agencia, fechado en junio de 2024; la vigencia actual no está confirmada y no hay un listado vigente de vacantes.
+  - Aclaracion: Todos los servicios son gratuitos para quien busca empleo, y el registro puede ser presencial o virtual; es una caja de compensación bajo control de la Superintendencia del Subsidio Familiar.
+  - Aclaracion: Punto de atención en Pereira: Centro Integral de Servicios, Calle 22 # 4-27; PBX 606 3135600 ext. 2202; agenciadeempleo@comfamiliar.com.
+  - Aclaracion: El horario del reglamento (lunes a jueves 8:00-11:30 a. m. y 1:00-4:30 p. m., viernes hasta 4:00 p. m.) puede haber cambiado.
+- **Agencia de Empleo Cafam (Bogotá, Cundinamarca)** (sin verificar, verificada 1 vez) https://www.cafam.com.co/agencia-empleo/ruta-empleabilidad/brigadas-moviles
+  - Que es: Personas que buscan empleo en Bogotá y Cundinamarca; registro y actualización de hoja de vida en el Servicio Público de Empleo, orientación ocupacional y preselección; brigadas móviles de empleabilidad en barrios.
+  - Requisitos: No verificado directamente. Según el resumen del resultado de búsqueda: registro u hoja de vida en el Servicio Público de Empleo; subsidio al desempleo sujeto a requisitos. No se vio si se exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Servicio gratuito según resultado de búsqueda (Cafam advierte que no se cobra por la Ruta de Empleabilidad). Salario: sin datos.
+  - Plazo o ciclo: Permanente; las brigadas móviles se programan de forma periódica (fechas no vistas). Un resultado de búsqueda muestra un PDF de 'vacantes destacadas 20 octubre' de 2026, pero no se pudo abrir.
+  - Como postular: https://www.cafam.com.co/personas/empleo/ruta-de-empleabilidad
+  - Lectura automatica posible: https://www.cafam.com.co/content/dam/portal-cafam/personas/empleo/pide/2026/documentos/vacantes-destacadas-pide-27-octubre.pdf
+  - Aclaracion: La página oficial no pudo leerse por bloqueo de lectura automatizada; los datos provienen de resultados de búsqueda y no están verificados directamente.
+  - Aclaracion: Un resultado indica que la agencia opera con autorización del Servicio Público de Empleo (Resolución 0478 de 2025).
+  - Aclaracion: Las brigadas llevan el servicio a municipios de Cundinamarca y a localidades de Bogotá sin punto de atención, con orientación, registro de hoja de vida, preselección y remisión a vacantes.
+- **Agencia de Empleo de Colsubsidio (Bogotá y Cundinamarca)** (sin verificar, verificada 1 vez) https://www.colsubsidio.com/hubfs/documentos/agencia-de-empleo/reglamento-de-prestacion-de-servicios-2022.pdf
+  - Que es: Personas que buscan empleo en Bogotá y Cundinamarca, en vacantes de distintos sectores (la prensa reporta cargos de asistentes y operarios y ruta móvil en barrios).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Permanente (no confirmado; el documento de 2022 no se pudo leer).
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial no pudo leerse por bloqueo de lectura automatizada, por lo que nada sobre la agencia está confirmado.
+  - Aclaracion: El enlace corresponde a un reglamento de 2022, no a una página de postulación, y la página de inicio de la agencia debe localizarse antes de publicar.
+- **Colpensiones: BEPS (Beneficios Económicos Periódicos)** (abierta o vigente, verificada 2 veces) https://www.colpensiones.gov.co/beps
+  - Que es: Personas que trabajan por cuenta propia o en la economía informal (por ejemplo, jornaleros, trabajadores agrícolas, domésticos, de construcción o de plataformas) y que no alcanzan a cotizar al sistema pensional por tener ingresos bajos o irregulares. Es un mecanismo de ahorro voluntario para la vejez, no un empleo.
+  - Requisitos: Ser colombiano(a), mayor de 18 años, tener ingresos inferiores a 1 salario mínimo mensual y no poder cotizar a pensión (texto de la página oficial). No se exige experiencia, título ni estudios. Documentos de vinculación: no listados en las páginas leídas; para ahorrar basta la cédula y la fecha de nacimiento.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No es un pago por trabajo. Es un ahorro voluntario con subsidio estatal del 20 % sobre lo ahorrado al recibir el ingreso de por vida (pago bimestral) en la vejez; aporte inicial desde 20.000 pesos.
+  - Plazo o ciclo: Abierto todo el año: la página oficial no fija periodo ni fechas de vinculación, y la cuenta permanece abierta hasta que la persona reciba el ingreso de por vida o retire su ahorro. Las consignaciones pueden hacerse en cualquier momento.
+  - Como postular: https://www.colpensiones.gov.co/beps/publicaciones/2857/vinculate-a-un-clic/
+  - Lectura automatica posible: ninguna vista
+  - Aclaracion: Es un mecanismo voluntario de ahorro para la vejez, no un empleo ni una bolsa de trabajo.
+  - Aclaracion: El subsidio del 20 % y la permanencia de la cuenta abierta hasta recibir el ingreso de por vida no figuran de forma explícita en la página oficial.
+  - Aclaracion: No se confirmó qué grupos quedan excluidos, como pensionados o cotizantes al sistema obligatorio, ni los documentos exactos de vinculación.
+  - Aclaracion: Para el seguro de vida gratuito de 2027 se piden al menos 6 aportes o un ahorro mínimo de 350.200 pesos durante 2026; el ahorro se hace en puntos de recaudo autorizados, por PSE, en el Portal de Pagos de Davivienda o con la app SuperGiros, y la línea gratuita es 018000 410777.
+- **Defensa Civil Colombiana - Voluntariado y capacitación** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.defensacivil.gov.co/nuestra-institucion-1/voluntariado/vinculate-1
+  - Que es: Personas que quieren vincularse como voluntarias en gestión del riesgo y atención de emergencias; también ofrece cursos y programas técnicos laborales por competencias. No es empleo remunerado: es voluntariado y formación.
+  - Requisitos: Según comunicado de 2026: 18 a 45 años, buena salud, sin antecedentes disciplinarios ni penales, no ser voluntario de otra entidad de primera respuesta; colombiano por nacimiento o adopción; sin exigir título ni experiencia previa (no se vio exigencia). Dedicación estimada de 6 horas mensuales según resultado de búsqueda.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos (voluntariado, no se vio remuneración)
+  - Plazo o ciclo: Convocatorias cuatrimestrales (cada cuatro meses) según comunicado del 2 de febrero de 2026. Al 23-nov-2026 la página Vincúlate (fechada 1 de septiembre de 2026) dice: 'En este momento no tenemos convocatorias de incorporación de voluntarios abiertas'. Próxima fecha: sin datos.
+  - Como postular: https://www.defensacivil.gov.co/nuestra-institucion-1/voluntariado/vinculate-1
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: Es voluntariado y formación, no empleo remunerado.
+  - Aclaracion: Al 23 de noviembre de 2026 la página indicaba que no había convocatorias de incorporación de voluntarios abiertas; las nuevas fechas se anuncian en las redes oficiales de la entidad.
+  - Aclaracion: La edad máxima no coincide entre fuentes (18 a 45 en el comunicado de 2026; 18 a 57 en otra fuente); conviene confirmarla con la entidad.
+  - Aclaracion: La periodicidad cuatrimestral depende de un comunicado de febrero de 2026 que no se revisó.
+- **Metro de Medellín - Formación de conductores de trenes y operadores de buses; Aprendices de Cultura Metro** (se repite (hoy sin llamado abierto), verificada 1 vez) https://www.metrodemedellin.gov.co/cultura-metro/gestion-educativa/
+  - Que es: Tres programas: formación de conductores de tren (dirigida a estudiantes universitarios que reciben ingresos para costear sus estudios), formación de operadores de bus (para conductores que buscan mejores condiciones y capacitación profesional) y Aprendices de Cultura Metro (jóvenes bachilleres líderes comunitarios de zonas cercanas a los proyectos del Metro; un año de formación avalada por el SENA, desde 2005).
+  - Requisitos: Conducción: ser estudiante universitario con certificado de estudio vigente y no tener contrato de aprendizaje vigente con otra organización (según resultado de búsqueda sobre la convocatoria 2026-2; los requisitos completos no se verificaron en el PDF). Cultura Metro: jóvenes bachilleres de las zonas de influencia de los proyectos del Metro, según la página oficial; requisitos detallados: sin datos. No exige experiencia previa según lo visto, pero no está confirmado.
+  - Pago o beneficio: sin datos (contrato de aprendizaje; Metro indica que los conductores formados son contratados por la Unión Temporal mientras continúan estudios; no se vio monto)
+  - Plazo o ciclo: Conducción: dos convocatorias al año (semestres académicos, por ejemplo 2026-1 y 2026-2). La 2026-2 ya cerró (inscripciones 17 de junio a 27 de julio de 2026; lista de elegibles publicada el 29 de octubre de 2026; capacitación para seleccionados en el primer semestre de 2027). Próxima convocatoria: fecha no anunciada (por el patrón, probablemente mitad de 2027 o antes). Cultura Metro: grupos de jóvenes desde 2005, sin fecha de convocatoria visible.
+  - Como postular: https://talentos.metrodemedellin.gov.co/content/Aprendices-Conduccion/?locale=es_ES
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: Las fechas de la convocatoria 2026-2 provienen de un resultado de búsqueda indirecto (un PDF alojado en un sitio universitario) y no pudieron comprobarse en la página oficial.
+  - Aclaracion: El programa de conducción va dirigido a estudiantes universitarios, de modo que no aplica para quienes no estudian en la universidad.
+  - Aclaracion: Según el portal de talento, las convocatorias de conducción se canalizan por la Fundación Universidad de Antioquia y el Bienestar Universitario de la Universidad Nacional sede Medellín.
+- **Masivo Capital (operador TransMilenio) - Trabaja con nosotros (operadores de bus y técnicos)** (abierta o vigente, verificada 2 veces) https://masivocapital.co/webmasivo/index.php/trabaja-con-nosotros/
+  - Que es: Aspirantes a operador de bus (Padrón Bus y Padrón Diésel) y técnicos de mantenimiento, además de cargos administrativos. El cargo de Operador Padrón Bus admite bachiller o básica primaria con experiencia de seis meses.
+  - Requisitos: General: hombres y mujeres de 18 a 60 años, licencia de conducción C2 y C3, comparendos al día o con acuerdo de pago. Operador Padrón Bus: bachiller o primaria y mínimo 6 meses conduciendo vehículos de más de 2,5 toneladas (servicio público, transporte escolar o carga pesada). Operador Padrón Diésel: mínimo 2 años con vehículos de más de 10 toneladas. Técnicos de mantenimiento: mínimo 6 meses en diagnóstico y reparación automotriz, latonería o sistemas eléctricos/electrónicos. Los perfiles de conductor exigen experiencia: no es primer empleo.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: la página lista perfiles y la postulación de hoja de vida sin fecha de cierre. Al 23-nov-2026 no se vio fecha de publicación ni de cierre.
+  - Como postular: https://masivocapital.co/webmasivo/index.php/trabaja-con-nosotros/
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: Los perfiles de conductor exigen experiencia, por lo que no son un primer empleo.
+  - Aclaracion: No se vio fecha de publicación ni de cierre ni montos de salario.
+- **Si18 (operador TransMilenio: Calle 80, Norte y Suba) - Trabaja con nosotros** (abierta o vigente, verificada 2 veces) https://www.si18.com.co/hoja-de-vida/
+  - Que es: Interesados en trabajar en la operación troncal de TransMilenio; la página no detalla cargos.
+  - Requisitos: Solo los campos obligatorios del formulario; no se listan edad, estudios ni experiencia mínimos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: formulario permanente 'Envíanos tu hoja de vida'; vacantes específicas y fechas: sin datos.
+  - Como postular: https://www.si18.com.co/hoja-de-vida/
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: El formulario solicita datos como cédula, edad, dirección y último cargo, además del archivo de hoja de vida.
+  - Aclaracion: La página no lista vacantes ni salarios.
+  - Aclaracion: Los correos visibles en la página corresponden a PQRS, no a selección de personal.
+- **Cerrejón - Trabaja con nosotros (vacantes y registro de perfil)** (abierta o vigente, verificada 2 veces) https://www.cerrejon.com/es/trabaja-con-nosotros0
+  - Que es: Personas que buscan cargos técnicos y operativos en mina y Puerto Bolívar (técnico de calidad de carbón, supervisor de minería, capitán de remolcador, entre otros). La página es el único canal autorizado para postularse.
+  - Requisitos: La página no lista requisitos generales; indica que se contrata según el perfil de cada cargo y remite al instructivo para aspirantes. Las vacantes vistas son de perfil técnico o supervisor; no se vio ninguna que declare no exigir experiencia.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Registro de perfil abierto de forma continua. Vacantes vistas con fecha límite propia: Técnico/a Aseguramiento Calidad de Carbón (18 de noviembre de 2026, ya vencida el 23 de noviembre), Capitán/a de remolcador (20 de noviembre de 2026, ya vencida), Supervisor/a de minería (25 de noviembre de 2026, aún abierta el 23 de noviembre).
+  - Como postular: https://www.cerrejon.com/es/trabaja-con-nosotros0
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Cerrejón indica que www.cerrejon.com es el único canal autorizado, que el proceso no tiene intermediarios ni cuesta dinero, y advierte sobre fraudes con su nombre.
+  - Aclaracion: Los botones de postulación llevan al portal de empleo de Cerrejón (SuccessFactors); las consultas se dirigen a seleccion@cerrejon.com.
+  - Aclaracion: La página remite a un PDF 'Instructivo para aspirantes'.
+- **Drummond Ltd. - Oportunidades de empleo (Cesar, La Guajira y puerto de Ciénaga)** (abierta o vigente, verificada 2 veces) https://drummondltd.com/nuestra-compania/talento-humano/oportunidades-de-empleo/
+  - Que es: Candidatos a cargos operativos y técnicos de mina, ferrocarril y puerto. Se da prioridad a quienes viven en el área de influencia de las minas (Cesar) y del puerto (Magdalena).
+  - Requisitos: No se indican en la página oficial; dependen de cada oferta. Algunas ofertas pasadas daban preferencia por residencia en municipios del corredor minero.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto de forma continua mediante la página de empresa en elempleo.com; las vacantes tienen su propia fecha de cierre. No se verificó el anuncio de cursos in house en redes sociales (la página leída no lo menciona).
+  - Como postular: https://www.elempleo.com/co/ofertas-empleo/drummond-ltd
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial es solo de presentación y no lista vacantes; su botón 'Trabaja con nosotros' lleva a la página de Drummond en elempleo.com.
+  - Aclaracion: Algunas ofertas pasadas daban preferencia a residentes de municipios del corredor minero (La Jagua de Ibirico, El Paso, Chiriguana, Becerril, Agustín Codazzi) o de Magdalena; quienes viven fuera de esas zonas pueden quedar en desventaja.
+  - Aclaracion: Una oferta de formación en operación de equipo pesado fue de 2024 y ya no está disponible.
+- **Zona Franca del Pacífico (Cali/Palmira) - Vacantes y envío de hoja de vida** (abierta o vigente, verificada 2 veces) https://www.zonafrancadelpacifico.com/es/vacantes/
+  - Que es: Candidatos a cargos del operador de la zona franca. La vacante vista es administrativa; para operarios de las empresas usuarias, la página no ofrece un listado.
+  - Requisitos: Vacante vista: Auxiliar Contable, con experiencia en facturación y conocimiento de SIESA Enterprise, contrato a término fijo, presencial, lunes a viernes 7:30 a. m. a 4:45 p. m. El formulario general pide nombres, correo, teléfono, número de documento, hasta 3 PDF (hoja de vida, portafolio, documento de identidad) y autorización de tratamiento de datos.
+  - Sin experiencia previa: no
+  - Pago o beneficio: sin datos (la vacante vista no indica salario)
+  - Plazo o ciclo: Abierto todo el año: formulario de hoja de vida disponible de forma permanente (la página no declara banco continuo de forma explícita) y vacante puntual sin fecha de cierre.
+  - Como postular: https://www.zonafrancadelpacifico.com/es/envienos-su-hoja-de-vida/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La postulación se hace con el botón 'Envíe su hoja de vida' o por Gestión Humana: gestionhumana@zfpacifico.com y WhatsApp +57 3167415416.
+  - Aclaracion: La página no declara de forma explícita un banco permanente de hojas de vida, aunque no muestra fecha de cierre.
+  - Aclaracion: La única vacante vista es de perfil contable con experiencia; no es una ruta de primer empleo.
+- **Zona Franca de Barranquilla - Trabaja con nosotros y directorio de usuarios** (abierta o vigente, verificada 2 veces) https://zonafrancabarranquilla.com/nosotros/trabaja-con-nosotros/
+  - Que es: Quien quiera dejar la hoja de vida en la base de datos del operador. El directorio de usuarios (https://www.zonafrancabarranquilla.com/nosotros/directorio-de-usuarios/) lista 52 empresas del parque con filtros como alimentos y bebidas, metalmecánico, confecciones, logística y construcción, útil para postularse directamente.
+  - Requisitos: Sin requisitos de edad, estudios o experiencia publicados. Formulario con nombre, apellido, correo, mensaje y hoja de vida adjunta en PDF o Word de máximo 2 MB.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: banco de hojas de vida (base de datos de candidatos), sin fecha de cierre; sin vacantes puntuales publicadas.
+  - Como postular: https://zonafrancabarranquilla.com/nosotros/trabaja-con-nosotros/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La zona franca administra un parque industrial; las ofertas dependen de las empresas usuarias y la página no lista vacantes.
+  - Aclaracion: Sirve como ruta de entrada, no como oferta concreta.
+- **Grupo Éxito, vacantes publicadas en Magneto365 (Éxito, Carulla, Surtimax)** (abierta o vigente, verificada 2 veces) https://www.magneto365.com/co/empresas/grupo-exito/empleos
+  - Que es: Personas que buscan empleo operativo en supermercados: cajeros, auxiliares de caja, carniceros, asesores de tienda; también cargos de gerencia de tienda y administrativos. Hay vacantes de temporada navideña.
+  - Requisitos: Auxiliar de cajas (Chía): bachillerato (grados 9 a 11), sin experiencia, disponibilidad de domingo a domingo con un día de descanso semanal. El aviso 'Cajero sin experiencia' de temporada navideña indica en el título que no se exige experiencia. Los demás avisos no mostraron requisitos completos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Auxiliar de cajas (Chía): $1.750.000 a $1.751.000 COP; otros avisos muestran rangos o 'a convenir'.
+  - Plazo o ciclo: Al 2026-11-23: 3.066 cupos, 20 avisos por página con paginación de al menos 4 páginas; un aviso publicado el 2026-11-23 y uno de temporada navideña. Sin fecha de cierre.
+  - Como postular: https://www.magneto365.com/co/empresas/grupo-exito/empleos
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: Es una página de Magneto365 (portal de empleo), no del sitio propio del empleador.
+  - Aclaracion: El número de resultados puede diferir de los cupos, y la página muestra más de 4 páginas de avisos.
+  - Aclaracion: Magneto y sus aliados nunca piden dinero en la selección; hay un enlace para reportar ofertas sospechosas.
+- **Alkosto y Corbeta, vacantes publicadas en Magneto365** (abierta o vigente, verificada 2 veces) https://www.magneto365.com/co/empresas/corbeta/empleos
+  - Que es: Personas que buscan empleo en comercio y logística: asesores de venta (incluida temporada), auxiliares de almacén y logística, conductores, practicantes y aprendices.
+  - Requisitos: Aprendiz SST: estar en etapa productiva de un programa técnico o tecnólogo en seguridad y salud en el trabajo. Los demás avisos no mostraron requisitos completos; los cargos de empacador, auxiliar y asesor de temporada no indicaron experiencia en el título.
+  - Pago o beneficio: Cerca de $1.750.000 COP en varios avisos; Asesor de ventas $1,6 a $2,0 millones; Aprendiz SST $1.750.905; muchos avisos dicen 'salario a convenir'.
+  - Plazo o ciclo: Abierto todo el año; al 2026-11-23 la página mostraba 62 cupos en 15 avisos, con avisos de temporada navideña
+  - Como postular: https://www.magneto365.com/co/empresas/corbeta/empleos
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: Es un portal de empleo (Magneto365), no el sitio propio del empleador.
+  - Aclaracion: Los contratos mezclan término fijo, indefinido, por obra o labor y de aprendizaje.
+  - Aclaracion: El número de resultados puede diferir de los cupos y puede haber más avisos que los 15 mostrados.
+  - Aclaracion: La página advierte que nunca se pide dinero en la selección.
+- **Tiendas Ara (Jerónimo Martins Colombia), vacantes publicadas en Magneto365** (abierta o vigente, verificada 2 veces) https://www.magneto365.com/sv/empresas/jeronimo-martins/empleos
+  - Que es: Personas que buscan empleo en tiendas de barrio: operadores de tienda, supervisores junior y jefes de tienda; hay una convocatoria dirigida a personas con discapacidad en más de 100 municipios.
+  - Requisitos: Certificado de discapacidad del Ministerio de Salud o constancia de que está en trámite (indispensable). No se exigen estudios universitarios. Disponibilidad de turnos rotativos de lunes a domingo con un día de descanso, o medio tiempo entre semana (tarde-noche) o de fin de semana (turnos de 8 horas).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Jornada completa: salario básico cercano a $1.750.905 COP más auxilio de alimentación y de transporte; medio tiempo entre semana: cerca de $700.370; medio tiempo fin de semana: cerca de $466.912. El aviso dice 'salario a convenir' con estas cifras de referencia.
+  - Plazo o ciclo: Abierto al 2026-11-23: 25 cupos en un único aviso; sin fecha de cierre visible
+  - Como postular: https://www.magneto365.com/sv/empresas/jeronimo-martins/empleos
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: No es una ruta general de vacantes de Ara: el único aviso es para personas con certificado de discapacidad, o constancia de que está en trámite.
+  - Aclaracion: La URL usa el segmento '/sv/' (sitio de El Salvador de Magneto), pero el contenido corresponde a Colombia; no se probó la variante '/co/'.
+  - Aclaracion: El aviso cubre más de 100 municipios y es de contrato indefinido.
+- **Tiendas D1, Trabaja con nosotros** (abierta o vigente, verificada 2 veces) https://www.d1.com.co/trabaja-con-nosotros
+  - Que es: Personas que buscan empleo en tiendas de descuento: asistentes de ventas, con o sin experiencia, además de logística, bodega y mantenimiento.
+  - Requisitos: Formulario oficial sin requisitos de estudio ni experiencia; pide cédula, datos de contacto, ciudad y si hay disponibilidad de traslado. Auxiliares de ventas en elempleo.com: bachiller, experiencia opcional, disponibilidad de tiempo completo con turnos rotativos incluidos domingos. Cargos de jefatura, mantenimiento y nómina exigen título y experiencia (2 a 4 años o más).
+  - Sin experiencia previa: si
+  - Pago o beneficio: En elempleo.com: auxiliares de ventas entre 1,5 y 2 millones de pesos, contrato indefinido; cargos de bodega y mantenimiento entre 2,5 y 5,5 millones. Salario de la página oficial: no indicado.
+  - Plazo o ciclo: abierto todo el año (formulario en línea permanente)
+  - Como postular: https://www.d1.com.co/trabaja-con-nosotros
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial no lista vacantes concretas ni declara que el formulario sea permanente.
+  - Aclaracion: El formulario tiene tres pasos (datos personales, estudios, experiencia) y admite hoja de vida en PDF, JPG o PNG de hasta 2 MB; también se puede entregar en la tienda D1 más cercana.
+  - Aclaracion: La cita presencial del 24 de noviembre en Bogotá no se confirmó; las jornadas presenciales vistas fueron del 26 y 28 de octubre y del 4 de noviembre de 2026, ya pasadas.
+- **Securitas Colombia, Trabaja con nosotros y Programa de Vigilancia Inclusiva** (abierta o vigente, verificada 2 veces) https://www.securitas.com.co/trabaja-con-nosotros/
+  - Que es: Personas que buscan empleo como vigilantes. El Programa de Vigilancia Inclusiva se dirige a mujeres, hombres, jóvenes, personas con discapacidad, adultos mayores, víctimas del conflicto armado, jefes de hogar y personas LGBTI.
+  - Requisitos: La página principal no lista requisitos. El Programa de Vigilancia Inclusiva se dirige a personas en situación de vulnerabilidad (con discapacidad, mujeres, población LGBTI, jóvenes, adultos mayores, víctimas del conflicto y cabezas de hogar), pero la página no publica requisitos de elegibilidad ni un proceso de postulación propio. Securitas solo capacita a guardas que ya forman parte de su equipo (no vende cursos al público).
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Recepción de hojas de vida por correo o portal, sin fechas de cierre ni requisitos publicados en la página.
+  - Como postular: https://jobs.securitas.es/ssia/pais/colombia/3
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Se puede enviar la hoja de vida a oportunidadeslaborales@securitas.com.co o usar el botón Quiero dejar mi hoja de vida; las vacantes vigentes de Colombia se consultan en jobs.securitas.es/ssia/pais/colombia/3.
+  - Aclaracion: El año 2006 como inicio del programa de inclusión no pudo comprobarse.
+  - Aclaracion: Securitas forma a sus propios vigilantes y no ofrece cursos al público.
+  - Aclaracion: No se verificó el número de vacantes ni las convocatorias por ciudad.
+- **Concentrix: portal de empleo con filtro por Colombia** (se repite (hoy sin llamado abierto), verificada 2 veces) https://jobs.concentrix.com/
+  - Que es: Personas que buscan trabajo en centros de contacto (servicio al cliente y soporte, operaciones, entrenamiento y calidad) con filtros de país, idioma y ciudad
+  - Requisitos: sin datos en la fuente oficial. Según avisos de terceros no verificados, las campañas bilingües piden inglés B2+ o C1 y a veces experiencia en BPO; las de servicio al cliente en español suelen ser más abiertas.
+  - Pago o beneficio: sin datos en la fuente oficial. Avisos de terceros (Computrabajo, sin verificar) mencionan alrededor de COP 1.750.905 en servicio al cliente en Medellín y entre COP 2.410.000 y 3.000.000 en campañas bilingües de Bogotá.
+  - Plazo o ciclo: Abierto de forma continua. No se pudo ver la lista de vacantes actuales de Colombia porque el portal cargaba de forma dinámica.
+  - Como postular: https://jobs.concentrix.com/ (Search & Apply, filtro de ubicación Colombia)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La lista de vacantes de Colombia no se pudo ver porque el portal carga de forma dinámica; hay que filtrar por Colombia en el portal.
+  - Aclaracion: Los requisitos y salarios mencionados provienen de avisos de terceros no verificados, no de la fuente oficial.
+  - Aclaracion: El portal muestra un aviso de fraude de reclutamiento: conviene verificar siempre el contacto por el sitio oficial.
+- **Farmatodo Colombia: página de empleos** (sin verificar, verificada 1 vez) https://www.farmatodo.com.co/empleo
+  - Que es: Personas interesadas en trabajar en las droguerías y en la operación de Farmatodo en Colombia
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se pudo confirmar en la página oficial)
+  - Como postular: https://www.magneto365.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial solo mostraba el nombre Farmatodo y una imagen, sin información de empleo ni enlace de postulación.
+  - Aclaracion: Notas de prensa de 2025 indican que la empresa publica ofertas en Magneto365 y Computrabajo, pero no confirman vacantes abiertas actualmente.
+- **Arcos Dorados (McDonald's): Trabaja con nosotros (referencia regional; Colombia a través de McDonald's Colombia)** (sin verificar, verificada 1 vez) https://www.arcosdorados.com/trabaja-con-nosotros/
+  - Que es: Jóvenes y personas sin experiencia que buscan un primer trabajo formal en restaurantes de comida rápida
+  - Requisitos: sin datos (la página no los lista; indica que muchos empleados entran sin empleo formal previo)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.mcdonalds.com.co
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página corporativa no explica cómo postularse ni lista vacantes; enlaza al sitio de cada país (para Colombia, mcdonalds.com.co).
+  - Aclaracion: El sitio mcdonalds.com.co respondió HTTP 403 a la lectura automática, por lo que la vía de postulación en Colombia no está verificada.
+- **Consorcio Express (operador TransMilenio) - Trabaja con nosotros** (sin verificar, verificada 1 vez) https://www.consorcioexpress.co/
+  - Que es: Aspirantes a operador de bus zonal y técnicos mecánicos, carroceros y eléctricos.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. Las cuatro ofertas de la portada están fechadas 2 de septiembre de 2026; no se vio fecha de cierre.
+  - Como postular: sin datos
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: Las páginas de las ofertas no traen requisitos ni instrucciones de postulación en texto; podrían estar en una imagen no legible.
+  - Aclaracion: Las ofertas están fechadas el 2 de septiembre de 2026, por lo que no se pudo confirmar que sigan abiertas.
+  - Aclaracion: El único contacto visto es gerencia@consorcioexpress.co, sin confirmar que sea el canal para hojas de vida.
+- **Gmóvil (operador TransMilenio: El Dorado y Engativá) - Trabaja con nosotros** (sin verificar, verificada 1 vez) https://www.gmovilsas.com.co/
+  - Que es: Operadores, personal de mantenimiento y administrativos del sistema TransMilenio.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. Al 23-nov-2026 la sección 'Talento Gmóvil' muestra 0 vacantes en Operadores, Mantenimiento y Administrativos.
+  - Como postular: https://gmovilsas.com.co/index.php/contactanos/
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: Al 23 de noviembre de 2026 la sección Talento Gmóvil no muestra vacantes, por lo que no se puede afirmar que haya una vía abierta de postulación.
+  - Aclaracion: El menú Trabaja con nosotros remite a https://gmovilsas.com.co/index.php/contactanos/, y no se confirma cómo se envía la hoja de vida.
+- **Cementos Argos / Grupo Argos - Únete a nosotros (portal de empleo)** (sin verificar, verificada 1 vez) https://jobs.grupoargos.com/
+  - Que es: Candidatos a cargos de plantas de cemento, concreto y agregados y corporativos. Los operarios, los mecánicos y los soldadores de planta suelen vacantes de ese tipo, pero no se confirmó en la página.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (portal permanente según la prensa; no se pudo cargar para ver vacantes vigentes)
+  - Como postular: https://jobs.grupoargos.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL indicada y la raíz del dominio fallaron con 'Too many redirects', por lo que no se vieron vacantes.
+  - Aclaracion: Notas de prensa, varias de 2024, citan jobs.grupoargos.com como portal oficial, con postulación por LinkedIn o registro, pero no confirman su estado al 23 de noviembre de 2026.
+  - Aclaracion: Debe presentarse como no verificado directamente.
+- **Bavaria (AB InBev Colombia) - Talento: prácticas y programas de ingreso** (sin verificar, verificada 1 vez) https://www.bavaria.co/talento/practicantes
+  - Que es: Estudiantes que buscan prácticas, y profesionales para el programa Global Management Trainee. La página no muestra vacantes de operarios de planta o distribución.
+  - Requisitos: sin datos (la página no muestra requisitos ni fechas en texto; podrían estar en una infografía, no leída). Por ser prácticas, se asume que exige ser estudiante, sin confirmar.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página oficial dice 'Convocatoria abierta', pero el aviso enlazado 'Prácticas Bavaria 2027-1' devuelve HTTP 410 (retirado) y el tablero de Teamtailor indica 'No hay vacantes en este momento' el 2026-11-23.
+  - Como postular: https://bavaria-talento.na.teamtailor.com/jobs
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial dice 'Convocatoria abierta', pero el aviso 'Prácticas Bavaria 2027-1' figura retirado (HTTP 410) y el tablero de talento indica 'No hay vacantes en este momento'.
+  - Aclaracion: No hay evidencia de un ciclo anual con fechas; solo cabe describirla como ruta recurrente de prácticas sin convocatoria activa visible.
+  - Aclaracion: El tablero ofrece recibir avisos de nuevas vacantes ('Conéctate con nosotros').
+- **Cencosud Colombia (Jumbo, Metro, Easy), Trabaja con nosotros** (sin verificar, verificada 1 vez) https://www.elempleo.com/sitios-empresariales/colombia/cencosud-colombia/por-que-trabajar-con-nosotros.html
+  - Que es: Personas que buscan empleo en supermercados y tiendas por departamentos: auxiliares de carnes y pescadería, panadería, cajeros de Easy, auxiliares polivalentes de fin de semana (dirigidos a estudiantes de 1.º a 4.º semestre), además de prácticas profesionales y cargos profesionales.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año según la página (invita a crear o actualizar la hoja de vida y a aplicar a vacantes); sin fecha ni conteo de vacantes visibles
+  - Como postular: https://www.elempleo.com/sitios-empresariales/colombia/cencosud-colombia/por-que-trabajar-con-nosotros.html
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Los botones 'Crear hoja de vida' y 'Oferta de empleo' apuntaban a '#', por lo que no se confirmó el destino ni las vacantes activas.
+  - Aclaracion: El acceso se hace con una cuenta de elempleo.com, y el sitio informa el correo selección@cencosud.com.co.
+  - Aclaracion: Los auxiliares polivalentes de fin de semana están dirigidos a estudiantes de 1.º a 4.º semestre.
+- **McDonald's Colombia (Arcos Dorados), Trabaja con nosotros** (sin verificar, verificada 1 vez) https://www.mcdonalds.com.co/trabaja-con-nosotros
+  - Que es: Jóvenes y personas en su primer empleo formal, en restaurantes de comida rápida (atención, cocina, McCafé).
+  - Requisitos: sin datos
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se pudo leer la página)
+  - Como postular: https://www.mcdonalds.com.co/trabaja-con-nosotros
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página oficial no pudo leerse por bloqueo de lectura automatizada, así que no se confirmó una convocatoria abierta, sus requisitos ni su ciclo.
+  - Aclaracion: La fuente debe tratarse como no verificada directamente.
+- **Frisby, Compañía: Trabaja con nosotros** (sin verificar, verificada 1 vez) https://frisby.com.co/index.php/compania
+  - Que es: Personas que buscan empleo en restaurantes de pollo: auxiliares de restaurante, domiciliarios, cajeros y administradores.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se pudo leer la página)
+  - Como postular: https://frisby.com.co/index.php/compania
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no pudo leerse por bloqueo de lectura automatizada, así que no se confirmó ninguna oferta activa ni el canal de postulación.
+  - Aclaracion: La dirección corresponde a la sección Compañía y no se confirmó que contenga el formulario de empleo; debe tratarse como no verificada.
+- **Magneto365: ofertas de cajero y mesero en restaurantes (ejemplo, Human Servicess SAS, La Calera)** (abierta o vigente, verificada 2 veces) https://www.magneto365.com/co/empleos/cajeros-1147290
+  - Que es: Personas que buscan trabajo en restaurantes: cajeros (10 cupos), cocineros (5 cupos), meseros y bartenders en La Calera (Bogotá)
+  - Requisitos: Bachillerato completo; 6 meses de experiencia en funciones afines (no es una oferta sin experiencia); edad no indicada.
+  - Sin experiencia previa: no
+  - Pago o beneficio: COP 2.300.000 a 2.600.000 (según la oferta)
+  - Plazo o ciclo: Publicada el 2026-11-23; sin fecha de cierre visible. Oferta puntual, no recurrente
+  - Como postular: https://www.magneto365.com/co/empleos/cajeros-1147290
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: Es una oferta puntual de un intermediario, no un canal permanente.
+  - Aclaracion: La empresa no se verificó fuera de Magneto365.
+  - Aclaracion: Exige bachillerato completo y 6 meses de experiencia en funciones afines; el contrato es por obra o labor.
+- **ManpowerGroup Colombia: Bilingual Customer Service & Enrollment Advisor (puesto en Sutherland, Bogotá), en Magneto365** (abierta o vigente, verificada 2 veces) https://www.magneto365.com/co/empleos/bilingual-customer-service-enrollment-advisor-english-b2-1147349
+  - Que es: Personas con inglés avanzado que buscan un cargo de servicio al cliente bilingüe en Bogotá (Torre Krystal, Carrera 7 #156-10)
+  - Requisitos: Bachillerato completo hasta profesional; 1 año de experiencia en servicio al cliente, soporte, retención, ventas consultivas o call center bilingüe; inglés avanzado mínimo B2 (ideal B2+/C1); edad no indicada.
+  - Sin experiencia previa: no
+  - Pago o beneficio: COP 2.900.000 a 2.950.000 (la página muestra ambas cifras)
+  - Plazo o ciclo: Publicada el 2026-11-23; sin fecha de cierre visible. Oferta puntual
+  - Como postular: https://www.magneto365.com/co/empleos/bilingual-customer-service-enrollment-advisor-english-b2-1147349
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: Es una oferta puntual con un solo cupo.
+  - Aclaracion: La página muestra dos cifras de salario distintas.
+  - Aclaracion: El cargo es presencial durante el entrenamiento y luego híbrido, con 3 días en oficina.
+  - Aclaracion: El enlace de Tally sirve solo para reportar la oferta, no para postularse.
+- **Adecco Colombia - Convocatoria de electromecánico, auxiliar de mantenimiento, soldador y armador (Yumbo)** (abierta o vigente, verificada 2 veces) https://www.elempleo.com/co/ofertas-trabajo/gran-convocatoria-martes-24-de-noviembre-soldadores-electromecanicos-mecanicos-o-electricistas-1886801462
+  - Que es: Personas con experiencia o conocimientos en el sector industrial o metalmecánico, para cargos de electromecánico, auxiliar de mantenimiento, soldador y armador en Yumbo (Valle del Cauca).
+  - Requisitos: Experiencia mínima de 1 año en el sector industrial y metalmecánico; educación básica secundaria (el aviso también menciona técnico mecánico); habilidades en soldadura, lectura de planos y mantenimiento; llevar hoja de vida actualizada, cédula de ciudadanía y lapicero de tinta negra; buena presentación personal. No es un empleo sin experiencia.
+  - Pago o beneficio: 1,5 a 2 millones de COP mensuales (contrato por obra o labor, tiempo completo, turnos rotativos)
+  - Plazo o ciclo: Evento puntual el martes 24 de noviembre de 2026, 8:00 a. m. (llegar antes de esa hora). Aviso publicado el 22 de noviembre de 2026. Convocatorias similares de Adecco en Yumbo se repiten con frecuencia (otra el 18 de noviembre de 2026), pero no hay calendario fijo.
+  - Como postular: https://www.elempleo.com/co/ofertas-trabajo/gran-convocatoria-martes-24-de-noviembre-soldadores-electromecanicos-mecanicos-o-electricistas-1886801462
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El encabezado del aviso indica Bogotá D.C., pero la descripción y la dirección del evento corresponden a Yumbo; conviene confirmar el lugar con Adecco antes de asistir.
+  - Aclaracion: El evento es en la Calle 9 No. 21A-46, Km 11, Antigua Carretera Cali-Yumbo, y el aviso indica preguntar por Daniel Segura.
+  - Aclaracion: Son 15 vacantes para una empresa industrial de carrocerías; el aviso específico está en https://www.elempleo.com/co/ofertas-trabajo/gran-convocatoria-martes-24-de-noviembre-soldadores-electromecanicos-mecanicos-o-electricistas-1886801462.
+  - Aclaracion: El portal indica que la participación es gratuita y que no debe pagarse dinero.
+- **Adecco Colombia, vacantes en Magneto365** (abierta o vigente, verificada 2 veces) https://www.magneto365.com/co/trabajos/empleo-en-adecco
+  - Que es: Personas que buscan empleo por intermedio de una temporal: conductores, auxiliares de almacén, técnicos instaladores, instrumentadores y cargos comerciales.
+  - Requisitos: Varía por cargo. Ejemplo: bachillerato, 1 año de experiencia conduciendo vehículo articulado, licencia C3 vigente y sin comparendos pendientes. Hay cargos operativos (auxiliar de bodega, asesora de maquillaje o retail) y profesionales (auditor, ingeniero comercial, instrumentador quirúrgico).
+  - Pago o beneficio: Ejemplo visto: conductor articulado de patio (C3) en Armenia, 1.750.905 pesos, por obra o labor, 1 cupo. Otros cargos: sin salario visto.
+  - Plazo o ciclo: abierto todo el año; 13.661 cupos visibles el 2026-11-23 (el número de resultados puede diferir de los cupos)
+  - Como postular: https://www.magneto365.com/co/trabajos/empleo-en-adecco
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: Es la página de Adecco en el portal Magneto365, no el sitio de empleo propio de Adecco.
+  - Aclaracion: Se postula abriendo la vacante y pulsando Aplicar.
+  - Aclaracion: La página advierte que ni Magneto ni las empresas aliadas piden dinero en la selección y ofrece un enlace para denunciar fraudes.
+- **Activos S.A.S., vacantes en Magneto365 (servicios temporales)** (abierta o vigente, verificada 2 veces) https://www.magneto365.com/co/trabajos/empleo-en-activos
+  - Que es: Personas que buscan empleo por intermedio de una temporal, con vacantes en comercio, logística, entretenimiento y servicios generales: auxiliares operativos, auxiliares de inventarios, conductores C2 y asesores comerciales.
+  - Requisitos: Varía por vacante. Ejemplo visto (conductor C2): bachillerato completo, 6 meses de experiencia, licencia C2 y experiencia en montacargas a combustión. Otras vacantes piden perfil profesional. No todas exigen experiencia; hay que revisar cada oferta.
+  - Pago o beneficio: sin datos (no se vio salario en el listado general)
+  - Plazo o ciclo: 20 avisos listados (la mayoría en Bogotá), un aviso con fecha del 19 de noviembre de 2026; el encabezado indica 47.542 cupos.
+  - Como postular: https://www.magneto365.com/co/trabajos/empleo-en-activos
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: Es la página de Activos S.A.S. en Magneto365; la cifra de cupos del encabezado no equivale al número de ofertas distintas listadas.
+  - Aclaracion: La única fecha de publicación visible es el 19 de noviembre de 2026; la mayoría de los avisos es por obra o labor (18 de 20) y 2 son a término indefinido.
+  - Aclaracion: Magneto365 indica que nunca cobra en los procesos de selección y ofrece un botón para reportar ofertas sospechosas.
+  - Aclaracion: No se confirmó que Activos tenga autorización como agencia de empleo.
+- **ManpowerGroup Colombia, vacantes para candidatos (Empléate y Magneto365)** (sin verificar, verificada 1 vez) https://servicios.manpowergroupcolombia.co/jobsite-manpowergroup
+  - Que es: Personas que buscan empleo operativo, comercial o administrativo por intermedio de una temporal: conductores, operarios, asesores comerciales, practicantes, bartenders y personal de temporada.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos; la página mostraba Ofertas disponibles: 0 (posible contador sin cargar) y solo enlaza a búsquedas externas
+  - Como postular: https://servicios.manpowergroupcolombia.co/jobsite-manpowergroup
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es el portal Empléate de ManpowerGroup Colombia, con tres rutas: cargos operativos y tácticos, cargos medios, senior y de gerencia (ambos hacia el sitio de empleo en Avature) y cargos de TI (registro de Experis).
+  - Aclaracion: La postulación se hace en los sitios externos de Avature.
+  - Aclaracion: La página no menciona ni enlaza Magneto365, y no se pudo comprobar la cifra de 9.324 cupos atribuida a esa plataforma.
+- **Temporales Uno A Bogotá S.A., ficha en elempleo.com** (sin verificar, verificada 1 vez) https://www.elempleo.com/co/empleos-empresas/temporales-uno-a-bogota-sa-14999
+  - Que es: Personas que buscan empleo por intermedio de una temporal. No se vieron vacantes concretas.
+  - Requisitos: sin datos (sin ofertas publicadas)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos; la ficha mostraba 0 ofertas activas
+  - Como postular: https://www.elempleo.com/co/empleos-empresas/temporales-uno-a-bogota-sa-14999
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La ficha muestra 0 ofertas activas al 2026-11-23 y no describe un proceso de postulación; no hay ruta abierta confirmada.
+  - Aclaracion: Sirve solo como referencia de contacto: Av. Calle 26 # 68B-70, Bogotá; teléfono 601 294 0100 ext. 2012; línea nacional gratuita 01 8000 180559.
+- **Ara (Jerónimo Martins): Operador de Tienda, Bodega del Canasto, en Magneto365 (ejemplo de convocatoria de tienda)** (abierta o vigente, verificada 1 vez) sin datos (página propia de Ara no verificada; el aviso está en Magneto365)
+  - Que es: Personas que buscan trabajo de tienda (atención al cliente, caja, surtido de mercancía y orden) en Bogotá (Los Mártires) y en otras ciudades como Granada (Meta), con 7 cupos en la oferta de Bogotá
+  - Requisitos: No se exige nivel educativo específico (desde básica primaria hasta profesional). Sin experiencia obligatoria: la experiencia previa en servicio al cliente presencial es deseable, no obligatoria. Residir en Bogotá, cerca de Los Mártires. Disponibilidad para turnos rotativos y esfuerzo físico. Edad: no indicada.
+  - Sin experiencia previa: si
+  - Pago o beneficio: COP 1.750.000 a 2.175.000; salario básico COP 1.750.905 más auxilio de alimentación de COP 175.000.
+  - Plazo o ciclo: Oferta publicada el 2026-11-23, con 7 cupos; sin fecha de cierre indicada. El segundo enlace (Granada, Meta) no se abrió. No se verificó con esta lectura que Ara abra vacantes de forma recurrente, aunque el formato del aviso lo sugiere.
+  - Como postular: https://www.magneto365.com/co/empleos/operador-de-tienda-bodega-del-canasto-bogota-los-martires-1147275 (botón Aplicar)
+  - Lectura automatica posible: sin datos (páginas HTML con una URL por oferta)
+  - Aclaracion: El aviso está en Magneto365 y no es la página oficial de empleo de Ara; no se encontró una página propia de Ara.
+  - Aclaracion: El segundo enlace, de Granada (Meta), no se abrió, y no se verificó que Ara abra vacantes de forma recurrente.
+  - Aclaracion: La oferta exige residir en Bogotá, cerca de Los Mártires, disponibilidad para turnos rotativos y esfuerzo físico.
+  - Aclaracion: El aviso indica que el proceso es gratuito y directo con la empresa, y que nunca se debe pagar dinero.
+- **Colombiana de Comercio Alkosto y/o Corbeta (Alkosto, Ktronix): página de empresa en Magneto365** (abierta o vigente, verificada 2 veces) https://www.magneto365.com/co/empresas/corbeta
+  - Que es: Personas que buscan trabajo o contrato de aprendizaje en las tiendas, bodegas y áreas de apoyo de Alkosto y Ktronix
+  - Requisitos: Varía por oferta; no se verificó en las ofertas operativas. Hay cargos de empacador, bodega y ventas de temporada (suelen ser de entrada) y cargos de aprendiz/practicante (requieren vínculo con institución educativa; no verificado). Se requiere crear cuenta en Magneto365.
+  - Pago o beneficio: sin datos (varía por oferta)
+  - Plazo o ciclo: Abierto de forma continua; el listado de vacantes (https://www.magneto365.com/co/empresas/corbeta/empleos) mostraba 62 cupos el 2026-11-23
+  - Como postular: https://www.magneto365.com/co/empresas/corbeta/empleos
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: Se requiere crear una cuenta en Magneto365 y usar el botón Aplicar de cada oferta.
+  - Aclaracion: Los requisitos y la fecha de publicación varían por oferta y no se verificaron en todas.
+  - Aclaracion: Los cargos de aprendiz y practicante requieren vínculo con una institución educativa, dato no verificado.
+  - Aclaracion: La página de perfil de empresa no muestra ofertas; estas están en el listado /empleos.
+- **Américas BPS (Contact Center Americas): Agente Call Center Auxiliar de Enfermería, en Magneto365** (abierta o vigente, verificada 2 veces) https://www.magneto365.com/co/empleos/agente-call-center-auxiliar-de-enfermeria-1147285
+  - Que es: Auxiliares de enfermería que quieran trabajar en un centro de contacto de salud en Bogotá (20 cupos)
+  - Requisitos: Técnico en Auxiliar de Enfermería; mínimo 6 meses de experiencia en salud, asistencia, remisiones o autorizaciones; edad no indicada.
+  - Sin experiencia previa: no
+  - Pago o beneficio: COP 2.149.095 a 2.399.106 (base 1.900.000 más variable, auxilio de alimentación y de transporte, y prestaciones de ley)
+  - Plazo o ciclo: Publicada el 2026-11-23; sin fecha de cierre visible. Oferta puntual
+  - Como postular: https://www.magneto365.com/co/empleos/agente-call-center-auxiliar-de-enfermeria-1147285
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: Es una oferta puntual, no un canal permanente.
+  - Aclaracion: Es un cargo específico de salud, no de entrada general: exige título técnico de auxiliar de enfermería.
+  - Aclaracion: El contrato es por obra o labor, con 42 horas semanales y turnos rotativos de domingo a domingo.
+- **Drummond Ltd. - Trabaja con nosotros en elempleo.com (página de empresa)** (abierta o vigente, verificada 2 veces) https://drummondltd.com/nuestra-compania/talento-humano/oportunidades-de-empleo/
+  - Que es: Quien quiera postularse a las vacantes de Drummond en Colombia; es el destino del botón oficial de empleo de la empresa.
+  - Requisitos: Dependen de cada oferta; no se vio ninguna vigente. Se necesita cuenta en elempleo.com para postularse (no verificado en detalle).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Canal continuo, pero con pocas ofertas abiertas. El 23 de noviembre de 2026 la lista de ofertas de Drummond mostraba una sola publicación (Asistente de producción, cierre el 7 de noviembre de 2026, ya vencida).
+  - Como postular: https://www.elempleo.com/co/ofertas-empleo/drummond-ltd
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL original devolvió HTTP 403 por bloqueo de lectura automatizada; la URL alternativa https://www.elempleo.com/co/ofertas-empleo/drummond-ltd sí cargó.
+  - Aclaracion: El estado de abierto se refiere a la vía de postulación, no a una vacante vigente: no se vio ninguna oferta con cierre posterior al 23 de noviembre de 2026.
+  - Aclaracion: Las ofertas de 2023 a 2025 figuran como 'ya no disponible'.
+- **Postobón - Vacantes en Magneto365 (operario, montacarguista, conductor, aprendices)** (abierta o vigente, verificada 2 veces) https://www.magneto365.com/co/empresas/postobon/empleos
+  - Que es: Personas que buscan cargos operativos de bebidas: Operario I (Bogotá, Guateque, Sesquilé, Cáqueza, Villavicencio y otras sedes), Montacarguista (Bogotá, Villavicencio, Villeta), Conductor C2 (Bogotá, Madrid, Zipaquirá), además de cargos administrativos y comerciales.
+  - Requisitos: Varía. Operario I, Montacarguista y Conductor C2 (temporales, Bogotá y municipios cercanos): requisitos específicos no visibles en el listado. Vacante con detalle (Auxiliar Nacional Caja, Medellín): 1 año de experiencia, técnico o tecnólogo en áreas administrativas, económicas o financieras, Excel intermedio y disponibilidad para viajar. Aprendices y practicantes 2027-1 (Medellín): contrato de aprendizaje, sin detalle de requisitos en el listado; en general exigen estar matriculado en formación técnica, tecnológica o universitaria.
+  - Pago o beneficio: Varía por cargo; en la vacante con detalle: 'a convenir' más prestaciones extralegales, auxilio de viaje y recargos nocturnos, dominicales y festivos. Contrato de aprendizaje: sin datos.
+  - Plazo o ciclo: Abierto todo el año (renovación continua de vacantes). Convocatorias de aprendices y practicantes 2027-1 vistas el 2026-11-23, sin fecha de cierre visible.
+  - Como postular: https://www.magneto365.com/co/empresas/postobon/empleos
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: No es la página de empleo propia de Postobón, sino su perfil de empresa en Magneto365.
+  - Aclaracion: La postulación se hace con el botón 'Aplicar' y puede requerir iniciar sesión o crear cuenta.
+  - Aclaracion: Magneto365 advierte que nunca se cobra por participar en un proceso de selección.
+  - Aclaracion: El encabezado indica 152 cupos el 23 de noviembre de 2026; el número de resultados varía respecto de los cupos.
+- **Colombina - Vacantes en Magneto365 (planta, bodega, ventas y estudiantes en práctica)** (abierta o vigente, verificada 2 veces) https://www.magneto365.com/co/empresas/colombina/empleos
+  - Que es: Quien busque cargos de auxiliar de almacén, auxiliar de inventarios, monitoreo logístico, promotor y vendedor de ventas, y estudiantes en práctica (Itagüí, Cota, Bogotá, Barranquilla, Dosquebradas y otras ciudades). 283 cupos en total.
+  - Requisitos: Varía. Vacante con detalle: técnico en administración, mercadeo o afines, 1 año de experiencia en ventas, gestión de cartera, contar con moto. Cargos de entrada vistos (Promotor/a de Ventas, Auxiliar de Almacén, Auxiliar de Inventarios, Supernumerario/a, Vendedor/a Multicanal) sin requisitos visibles en el listado. Estudiante en práctica con contrato de aprendizaje: requiere estar cursando estudios.
+  - Pago o beneficio: Vacante con detalle (Asesor Comercial, Bogotá): $1.750.905 a $2.630.905 más auxilio de movilización de $208.000. Otras: sin datos.
+  - Plazo o ciclo: Abierto todo el año (renovación continua). Vacante con fecha de publicación 2026-11-23; las demás sin fecha visible.
+  - Como postular: https://www.magneto365.com/co/empresas/colombina/empleos
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: No es la página corporativa de Colombina, sino su perfil de empresa en Magneto365.
+  - Aclaracion: La postulación se hace con el botón 'Aplicar' y puede requerir cuenta en Magneto365.
+  - Aclaracion: Magneto365 advierte que no se cobra en procesos de selección.
+- **Corona Industrial - Vacantes en Magneto365 (mantenimiento, logística, ventas, prácticas)** (abierta o vigente, verificada 2 veces) https://www.magneto365.com/co/empresas/corona/empleos
+  - Que es: Candidatos a electromecánico de mantenimiento (planta Sopó), controlador de entregas (Madrid, Funza, Tenjo, Tunja), promotor de ventas (Cali, Palmira, Cúcuta, Bogotá) y practicantes de mercadeo y ventas. 376 cupos en total.
+  - Requisitos: Varía por cargo. Detalle visto solo para Electromecánico de Mantenimiento (Sopó): 3 años de experiencia, tecnólogo electromecánico o eléctrico con matrícula profesional. Promotor de ventas y controlador de entregas sin requisitos visibles en el listado; hay un aviso de Promotor de Ventas dirigido a personas con discapacidad (Bogotá). Prácticas bajo contrato de aprendizaje: requiere estar cursando estudios.
+  - Pago o beneficio: Varía: promotor de ventas $1.750.905 (Cali, Palmira, Cúcuta, Cartagena); asistente logístico e-commerce $1.858.000; controlador de entregas $2.072.000; prácticas de mercadeo y ventas $2.000.000 (Bucaramanga, Yopal); asesores externos $2.000.000 a $3.000.000; varios 'a convenir'.
+  - Plazo o ciclo: Abierto todo el año (renovación continua); 376 cupos según el sitio el 2026-11-23. Vacante con fecha 2026-11-20.
+  - Como postular: https://www.magneto365.com/co/empresas/corona/empleos
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: No es la página corporativa de Corona, sino su perfil de empresa en Magneto365.
+  - Aclaracion: La postulación se hace con el botón 'Aplicar'; el sitio no aclara si se exige crear cuenta.
+  - Aclaracion: Magneto365 advierte que no se cobra en procesos de selección.
+- **Falabella Colombia, ofertas en elempleo.com** (abierta o vigente, verificada 2 veces) https://www.elempleo.com/co/ofertas-empleo/trabajo-falabella
+  - Que es: Personas que buscan empleo en retail y logística: asesores integrales y comerciales de temporada, almacenistas, auxiliares de bodega, auxiliares logísticos de última milla, conductores y asesores de Banco Falabella.
+  - Requisitos: Bachillerato en la mayoría de los cargos operativos y de temporada; técnico, tecnólogo o profesional en analistas y asesores bancarios. Hay un cargo de asesor integral de 36 horas en Bogotá sur marcado sin experiencia; otros piden entre 3 y 6 meses (ventas retail, bodega, logística) o 1 año (servicio al cliente, conductor con licencia C1 o C2 sin comparendos). Algunas ofertas de temporada no aceptan estudiantes. Turnos rotativos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Entre unos 1,5 y 1,95 millones de pesos más prestaciones y auxilio de transporte (por ejemplo, asesor integral sin experiencia 1.500.776 pesos; asesores de temporada 1.750.000 pesos; conductor logístico 1.950.000 pesos). Contratos casi siempre por obra o labor.
+  - Plazo o ciclo: abierto todo el año; 20 ofertas visibles el 2026-11-23 (18 publicadas hace 1 semana, 1 hace 2 semanas y 1 hace 1 mes), con cargos de temporada de unos 3 meses
+  - Como postular: https://www.elempleo.com/co/ofertas-empleo/trabajo-falabella
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una página de empleador dentro del portal elempleo.com, no la página de empleo propia de Falabella.
+  - Aclaracion: Las ofertas incluyen empresas vinculadas, como Banco Falabella, logística y Sodimac, en Bogotá, Chía, Cota, Medellín, Barranquilla, Villavicencio y Pereira.
+  - Aclaracion: Se postula con el botón Postularme en cada oferta, con hoja de vida registrada en elempleo.com; hay opción de alerta de empleo.
+  - Aclaracion: La página advierte que las etiquetas de rango salarial no siempre coinciden con el texto de la oferta.
+- **Zona Franca Bogotá - Directorio de empresas del parque** (sin verificar, verificada 1 vez) https://zonafrancabogota.com/directorio-zona-franca-bogota/
+  - Que es: Quien quiera saber qué empresas operan en el parque para postularse directamente o por el portal de empleos.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (directorio permanente; no se pudo leer su contenido)
+  - Como postular: https://trabajaenzonafrancabogota.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No se confirmó qué empresas lista el directorio ni si ofrece enlaces de empleo, por lo que no se puede afirmar que sirva para postularse.
+  - Aclaracion: La ruta de postulación comprobada del parque es el portal de empleos.
+- **Policía Nacional - Auxiliares de Policía (servicio militar en la Policía) y gratuidad para aspirantes** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.policia.gov.co/noticia/policia-nacional-recibe-primeros-aspirantes-auxiliar-policia-vigencia-2026
+  - Que es: Jóvenes que quieren prestar el servicio militar como auxiliares de policía y quienes aspiran a patrullero u oficial. Sirve como referencia de requisitos por modalidad.
+  - Requisitos: Colombiano de nacimiento; mayor de 18 y hasta 23 años y 364 días al ingresar (la nota también menciona 18 a 24; confirmar con la Policía); sin condena penal ni investigación formal por derechos humanos; sin antecedentes disciplinarios o fiscales vigentes; sin multas vigentes en el Registro Nacional de Medidas Correctivas; sin investigaciones penales, disciplinarias o fiscales vigentes; aprobar la valoración físico-atlética. En 2025 se pidió certificado de curso de derechos humanos (ONU o Defensoría). No se exige experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Bonificación mensual (monto sin datos); bonificación de licenciamiento equivalente a un salario mínimo según una nota de Portafolio, no verificada en la página oficial
+  - Plazo o ciclo: Ciclos de incorporación repetidos durante 2026 (nota oficial del 3 de marzo de 2026: las incorporaciones se repiten en distintas fechas hasta completar un primer contingente de 5.780 auxiliares). Fechas de cierre específicas: sin datos. Cada año hay convocatoria (2025 cerró el 30 de agosto de 2025)
+  - Como postular: https://www.policia.gov.co
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: El límite de edad aparece de dos formas (hasta 23 años y 364 días, y un rango de 18 a 24 años); conviene confirmarlo con la Policía.
+  - Aclaracion: La nota no describe un procedimiento de inscripción y remite a www.policia.gov.co y a las redes de la Dirección de Incorporación.
+  - Aclaracion: La gratuidad se menciona solo para la categoría de Patrullero.
+  - Aclaracion: El monto de la bonificación de licenciamiento proviene de una nota de Portafolio, no verificada en la página oficial.
+- **Zona Franca de Rionegro (Antioquia) - sitio institucional y contacto** (sin verificar, verificada 1 vez) https://www.zonafrancarionegro.com/
+  - Que es: Quien busque información de las empresas usuarias de la zona; el sitio no ofrece bolsa de empleo.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://www.zonafrancarionegro.com/contactenos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El sitio no tiene sección de empleo, vacantes ni instrucciones para enviar hoja de vida, y la página de contacto tampoco menciona empleo.
+  - Aclaracion: No sostiene una ruta de postulación; a lo sumo sirve como enlace al directorio de empresas (https://www.zonafrancarionegro.com/directorio).
+  - Aclaracion: Contacto: info@zonafrancarionegro.com y PBX (604) 561 22 33.

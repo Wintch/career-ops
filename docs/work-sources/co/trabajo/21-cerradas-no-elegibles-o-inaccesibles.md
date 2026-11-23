@@ -1,0 +1,133 @@
+# Cerradas, no elegibles o inaccesibles
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+Se dejan listadas para no volver a investigarlas.
+
+- **Comfama: servicio de empleo (Antioquia)** (no cargo) https://www.comfama.com/servicio-de-empleo/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: La página redirige a una verificación anti-bot (Radware/perfdrive) y no se pudo leer su contenido.
+  - Aclaracion: No se comprobó qué ofrece el servicio, a quién va dirigido ni cómo se registra una persona.
+- **Grupo Geard — convocatorias de Empresas Sociales del Estado (ESE) en salud** (no cargo) https://empleo.grupogeard.com/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El sitio de empleo respondió con error HTTP 522, por lo que no se pudo ver ninguna convocatoria, fecha ni requisito; conviene reintentar más tarde.
+  - Aclaracion: No está confirmado que la convocatoria 252386 siga abierta ni qué ESE la convoca.
+- **Comisión Nacional del Servicio Civil (CNSC) y plataforma SIMO — convocatorias de concurso docente** (no cargo) https://www.cnsc.gov.co/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: Los sitios www.cnsc.gov.co, cnsc.gov.co y simo.cnsc.gov.co fallaron con error de certificado TLS, por lo que no se vio ninguna convocatoria ni fecha.
+  - Aclaracion: Los concursos de docentes oficiales los convoca la CNSC para la planta docente del Ministerio de Educación; el vínculo concreto debe confirmarse en un navegador.
+- **Buscador de empleo del Servicio Público de Empleo (vacantes)** (no cargo) https://www.buscadordeempleo.gov.co/
+  - Plazo o ciclo: abierto todo el año (según páginas oficiales de agencias que lo citan; no verificado directamente)
+  - Aclaracion: El sitio no cargó por un error de verificación de certificado, por lo que su estado actual y el número de vacantes no se pudieron ver.
+  - Aclaracion: Cajasan y Confa lo señalan como el lugar para buscar vacantes.
+- **Servicio Publico de Empleo (SISE, buscador de empleo)** (no cargo) https://www.serviciodeempleo.gov.co
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El portal oficial no cargó por un error de certificado, por lo que no se confirma su estado actual ni su contenido.
+- **Emergia Contact Center** (no cargo) https://www.emergiacc.com/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El sitio principal no tiene sección de empleo propia para Colombia; Colombia aparece solo en el pie de página.
+  - Aclaracion: El enlace 'Únete a nuestro equipo' apunta a empleos.emergiacc.com, que no resolvió (error de DNS).
+- **Visas de vacaciones y trabajo (Working Holiday) para colombianos: página de visas de la Cancillería** (no cargo) https://www.cancilleria.gov.co/atencion-y-servicio-al-ciudadano/tramites-y-servicios/visa
+  - Plazo o ciclo: sin datos (la página devolvió HTTP 403 en dos intentos y la búsqueda web no estuvo disponible; los cupos y fechas citados no se pudieron verificar)
+  - Aclaracion: La página de la Cancillería indicada parece tratar trámites de visa para extranjeros que ingresan a Colombia, por lo que probablemente no es la fuente oficial para los acuerdos de vacaciones y trabajo de colombianos en el exterior.
+  - Aclaracion: Los cupos mencionados (unos 300 por año por país de la Alianza del Pacífico, 100 a 200 en Hungría y cupos de Francia que se agotan en horas) provienen de prensa y no están confirmados oficialmente.
+- **Asistencia a connacionales en el exterior (Cancillería)** (no cargo) https://www.cancilleria.gov.co/atencion-y-servicio-al-ciudadano/asistencia-connacionales
+  - Plazo o ciclo: sin datos (se declara abierto todo el año, sin verificar)
+  - Aclaracion: El contenido, los canales y los requisitos de la ficha de la Cancillería no pudieron confirmarse directamente.
+  - Aclaracion: Como respaldo oficial, Migración Colombia indica que LibertApp incluye un directorio de consulados colombianos, y la OIM menciona el mismo directorio.
+- **CNSC: Docentes y Directivos Docentes 2026 (concurso de méritos del Ministerio de Educación)** (no cargo) https://www.cnsc.gov.co/convocatorias/docentes-y-directivos-docentes-2026
+  - Plazo o ciclo: sin datos. Fuentes secundarias (no oficiales) ubican las inscripciones entre diciembre de 2026 y enero de 2027 (vacantes reservadas a personas con discapacidad, sin costo) y entre enero y febrero de 2027 (inscripción general).
+  - Aclaracion: Las fechas de inscripción provienen de fuentes secundarias: una nota de Noticias RCN del 13 de octubre de 2026 y una nota de RTVC que habla de aplazamiento a comienzos de 2027.
+  - Aclaracion: Las reglas del concurso aún eran proyecto de acuerdo y anexo técnico según esas fuentes, y la fecha del 23 de noviembre de 2026 para vacantes reservadas a personas con discapacidad no está confirmada.
+- **SIMO: Sistema de Apoyo para la Igualdad, el Mérito y la Oportunidad (plataforma de inscripción de la CNSC)** (no cargo) https://simo.cnsc.gov.co
+  - Plazo o ciclo: sin datos. No se pudo ver la plataforma; las fuentes secundarias consultadas la citan como el canal único de inscripción en los procesos de la CNSC.
+  - Aclaracion: La función de SIMO como plataforma de inscripción aparece en notas de prensa y blogs, pero no se confirmó en la página oficial, que no cargó por un error de certificado del servidor.
+  - Aclaracion: Las ventanas de inscripción dependen de cada convocatoria.
+- **CNSC: ¿Cómo inscribirse a las vacantes ofertadas de carrera administrativa en el sector público?** (no cargo) https://www.cnsc.gov.co/como-inscribirse-las-vacantes-ofertadas-de-carrera-administrativa-en-el-sector-publico
+  - Plazo o ciclo: sin datos. Se afirma que es una guía permanente, pero no se pudo verificar.
+  - Aclaracion: La página oficial de la CNSC no cargó por un error de certificado del servidor, por lo que no se verificó su contenido ni su vigencia a 2026-11-23.
+- **CNSC: Publicación de Acuerdos y Oferta Pública de Empleos de Carrera (OPEC)** (no cargo) https://www.cnsc.gov.co/node/65550
+  - Plazo o ciclo: sin datos. Se afirma que se actualiza con cada proceso de selección, sin verificar.
+  - Aclaracion: La página oficial de la CNSC no cargó por un error de certificado del servidor y su contenido no se verificó.
+  - Aclaracion: Al ser una URL de tipo 'node/ID', conviene hallar la URL canónica en el sitio oficial.
+- **CNSC: Proceso de selección Territorial 12** (no cargo) https://www.cnsc.gov.co/mas-de-1000-vacantes-oferta-la-cnsc-en-el-proceso-de-seleccion-territorial-12
+  - Plazo o ciclo: sin datos. La página oficial no cargó y los blogs consultados no mencionan Territorial 12.
+  - Aclaracion: No hay evidencia de que el proceso siga abierto y no debe presentarse como abierto sin confirmación en SIMO o en la página oficial.
+  - Aclaracion: La página oficial no cargó por un error de certificado del servidor y los blogs consultados no mencionan Territorial 12.
+- **CNSC: Proceso de selección Entidades del Orden Territorial y UApA (ocho departamentos)** (no cargo) https://www.cnsc.gov.co/mas-de-1000-vacantes-oferta-la-cnsc-en-ocho-departamentos-del-pais-con-el-proceso-de-seleccion
+  - Plazo o ciclo: sin datos. La página oficial no cargó y el blog consultado no menciona este proceso.
+  - Aclaracion: El estado del proceso no pudo verificarse y no debe presentarse como abierto sin confirmación oficial.
+  - Aclaracion: La página oficial no cargó por un error de certificado del servidor y el blog consultado no menciona este proceso.
+- **CNSC: Contralorías territoriales (procesos de selección)** (no cargo) https://www.cnsc.gov.co/contralorias-territoriales
+  - Plazo o ciclo: sin datos
+  - Aclaracion: No se pudo leer ninguna convocatoria, fecha ni requisito, porque el dominio cnsc.gov.co presentó un error de certificado.
+  - Aclaracion: No se confirma ni se descarta que haya un proceso abierto; debe verificarse en la página oficial y en SIMO.
+- **CNSC: Proceso de selección CNSC 5 (convocatoria para servidores de la propia entidad)** (no cargo) https://www.cnsc.gov.co/inscribete-al-proceso-de-seleccion-cnsc-5-e-ingresa-como-servidor-la-entidad-que-trabaja-por-el
+  - Plazo o ciclo: sin datos
+  - Aclaracion: Es una convocatoria específica de la propia CNSC y probablemente puntual, por lo que no debe presentarse como abierta ni recurrente sin verificar.
+  - Aclaracion: No se vio ninguna fecha de inscripción ni número de vacantes, por un error de certificado en cnsc.gov.co.
+- **Función Pública: Empleo público y SIGEP** (no cargo) https://www.funcionpublica.gov.co/web/sigep/empleo-publico
+  - Plazo o ciclo: sin datos
+  - Aclaracion: La página no cargó por un error de certificado del servidor, por lo que no se pudo confirmar qué ofrece al aspirante (hoja de vida en SIGEP, ofertas).
+  - Aclaracion: No debe incluirse como ruta confirmada hasta poder leerla.
+- **Agencia de Empleo Comfenalco Valle Delagente (Cali, Palmira, Buga, Tuluá, Cartago, Buenaventura)** (no cargo) https://www.comfenalcovalle.com.co/
+  - Plazo o ciclo: sin datos
+  - Aclaracion: El sitio no cargó, por lo que no se pudo comprobar el reglamento 2026-2030, el horario de Cali ni las ciudades atendidas.
+  - Aclaracion: La información debe tratarse como no confirmada hasta poder verificar la página.
+- **Centro de Oportunidades de Barranquilla (Agencia Pública de Empleo del Distrito)** (no cargo) https://barranquilla.gov.co/desarrolloeconomico/centro-de-oportunidades
+  - Plazo o ciclo: sin datos (se afirmaba servicio permanente; no confirmado).
+  - Aclaracion: La página no pudo abrirse, por lo que no se confirmó que exista ni su contenido.
+  - Aclaracion: La fuente debe tratarse como no verificada hasta encontrar la dirección oficial vigente en barranquilla.gov.co.
+- **Agencia de Servicio Público de Empleo del IMEBU (Bucaramanga) y ferias 'Camello Sí Hay'** (no cargo) https://www.bucaramanga.gov.co/wp-content/uploads/2023/07/IMEBU.pdf
+  - Plazo o ciclo: sin datos (la afirmación de la feria de marzo de 2026 no se pudo confirmar).
+  - Aclaracion: No se pudo confirmar la agencia ni las ferias Camello Sí Hay; el dominio no respondió.
+  - Aclaracion: El enlace corresponde a un documento de 2023, no a una página de postulación.
+- **Ministerio de Agricultura y Desarrollo Rural: convocatorias abiertas** (no elegible) https://www.minagricultura.gov.co/convocatorias
+  - Plazo o ciclo: PAAP 2025: inscripción de perfiles del 21 de mayo al 25 de agosto de 2025, con adendas 2 a 6 que cambiaron el cronograma (fechas actuales no vistas); no se vio repetición. FONAV: proceso electoral abierto desde el 6 de octubre de 2026, cierre sin datos. FNP (cooperativas de porcicultores): fechas sin datos.
+  - Aclaracion: No sirve como fuente general de empleo: ninguna convocatoria ofrece un trabajo a una persona sin experiencia.
+  - Aclaracion: FONAV y FNP son elecciones de juntas de fondos parafiscales, abiertas solo a contribuyentes o cooperativas del sector.
+- **International Experience Canada (IEC): lista de países socios** (no elegible) https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec.html
+  - Plazo o ciclo: Los grupos de la temporada 2026 están cerrados; los perfiles se pueden crear cuando reabran los grupos de 2027, sin fecha publicada.
+  - Aclaracion: Colombia no figura entre los países socios de International Experience Canada, por lo que el programa no está disponible para colombianos por esta vía.
+  - Aclaracion: Quienes residen en Colombia no pueden postularse por nacionalidad colombiana, salvo que tengan además la ciudadanía de uno de los países socios.
+- **472 (Servicios Postales Nacionales) - Trabaje con nosotros** (cerrada) https://www.4-72.com.co/791
+  - Plazo o ciclo: Convocatoria publicada el 22/10/2021 (última modificación 22/10/2021); sin evidencia de repetición vigente
+  - Aclaracion: Las dos convocatorias vistas (auxiliares logísticos y distribuidores en moto, Bogotá) son de 2021 y no hay indicio de vigencia.
+  - Aclaracion: En la página de inicio no se halló enlace a empleo o convocatorias.
+- **Fondo Emprender del SENA** (cerrada) https://www.fondoemprender.com/
+  - Plazo o ciclo: Convocatorias nacionales por línea. La No. 152 (Economía Campesina) abrió el 2026-03-02 y cerró el 2026-05-08 según su página de detalle (la portada indica 2026-04-30). Ya está en etapa de evaluación y asignación de recursos (informes de junio a agosto de 2026). Las Nos. 161 (Personas con Discapacidad) y 162 (Indígenas) también aparecían con cierre en abril de 2026. No se vio ninguna convocatoria nueva abierta ni fecha de una próxima.
+  - Aclaracion: Es financiación de emprendimientos, no empleo.
+  - Aclaracion: Las tres convocatorias vistas ya cerraron y solo se observó el ciclo de 2026, por lo que no hay evidencia suficiente de un ciclo anual confirmado.
+- **MEDICALL Talento Humano S.A.S. — convocatorias masivas de enfermería (Bogotá)** (cerrada) https://www.elempleo.com/co/ofertas-trabajo/convocatoria-jefes-de-enfermeria-auxiliares-de-enfermeria-1886782657
+  - Plazo o ciclo: Publicada el 20 de octubre de 2026 para una jornada presencial el 20 de octubre a las 8:00 a. m.; esa fecha ya pasó y la ficha no indica nueva fecha. La ficha da el 'miércoles 20 de octubre', pero el 20 de octubre de 2026 es martes: inconsistencia interna. Que la empresa vuelva a convocar: sin datos.
+  - Aclaracion: La convocatoria presencial ya venció y la ficha no indica nueva fecha.
+  - Aclaracion: La ficha dice 'miércoles 20 de octubre', pero el 20 de octubre de 2026 es martes.
+- **Empleadores de salud que contratan auxiliares de enfermería vía Magneto365 (Sura, Compensar, Fundación Santa Fe de Bogotá, Universidad de San Buenaventura)** (cerrada) https://www.semana.com/empleos/
+  - Plazo o ciclo: El artículo es del 20 de mayo de 2026, no de noviembre. Las cinco vacantes citadas son de esa fecha y no se confirmó que sigan abiertas. Los empleadores contratan de forma recurrente (frecuencia: sin datos).
+  - Aclaracion: Es una nota de prensa de mayo de 2026, no una fuente de ofertas vigentes.
+  - Aclaracion: Las fichas de Magneto365 enlazadas aparecían retiradas (HTTP 410).
+- **Practicas laborales en el Ministerio de Relaciones Exteriores (Cancilleria)** (cerrada) https://cancilleria.gov.co/sala-de-prensa/noticias/convocatoria-para-realizar-sus-practicas-laborales-durante-el-segundo-semestre-de-2026-en-el-ministerio-de-relaciones-exteriores
+  - Plazo o ciclo: La convocatoria 2026-II cerró el 13 de mayo de 2026. No se vio evidencia de una convocatoria nueva; si se repite cada semestre, la siguiente sería para 2027, sin fecha confirmada.
+  - Aclaracion: La página no indica remuneración; un archivo enlazado alude a una práctica 'ad honorem' de asistente jurídico, sin confirmar que aplique a todos los cupos.
+  - Aclaracion: El instructivo en PDF no pudo leerse, por lo que no se confirman edad ni requisitos académicos adicionales.
+- **Fuerza Aeroespacial Colombiana - Incorporación: Soldado Profesional** (cerrada) https://www.incorporacion.mil.co/es/slpfac
+  - Plazo o ciclo: Inscripciones cerradas ('PROCESO CERRADO') el 2026-11-23, con aviso de que próximamente habrá inscripciones al curso; sin fechas publicadas.
+  - Aclaracion: La convocatoria figura como 'PROCESO CERRADO', con aviso de que próximamente habrá inscripciones al curso, sin fechas publicadas.
+  - Aclaracion: Es solo para quienes ya prestaron servicio militar (reservistas de primera clase).
+- **Fuerza Aeroespacial Colombiana - Suboficiales** (cerrada) https://www.incorporacion.mil.co/es/suboficiales
+  - Plazo o ciclo: Las dos convocatorias (Curso Regular y Curso Regular Extraordinario) figuraban como "CONVOCATORIA CERRADA" el 2026-11-23. No se vio fecha de una próxima apertura ni evidencia de un ciclo anual.
+  - Aclaracion: Las dos convocatorias figuraban como cerradas, sin fecha de próxima apertura ni evidencia de un ciclo anual.
+  - Aclaracion: La página no indica edad, residencia, documentos ni pago.
+- **iNNpulsa Mujeres (acompañamiento para emprendimientos de mujeres)** (cerrada) https://www.innpulsacolombia.com/innpulsa-mujeres/
+  - Plazo o ciclo: La convocatoria 2026 abrió el 20 de febrero de 2026 y cerró el 25 de mayo de 2026. La página aún la rotula como abierta, pero la fecha ya pasó. Nueva edición: sin datos.
+  - Aclaracion: La página aún rotula la convocatoria como abierta, pero la fecha de cierre ya pasó.
+  - Aclaracion: El sitio muestra cifras de la edición ya realizada (5.900 beneficiarias y 11.353 postulaciones; ferias 'Hecho por Ellas' en agosto y septiembre de 2026) y no indica una nueva inscripción.
+- **CNSC: Proceso de selección Entidades del Orden Nacional 2026 (modalidad ascenso e ingreso)** (cerrada) https://www.cnsc.gov.co/la-cnsc-inicia-la-etapa-de-inscripciones-en-modalidad-ascenso-del-proceso-de-seleccion-entidades
+  - Plazo o ciclo: Cerrado. Según un blog de terceros (Grupo Geard, página del 7 de julio de 2026), la inscripción abierta fue del 26 de junio al 23 de julio de 2026, con 1.665 vacantes, por SIMO.
+  - Aclaracion: La inscripción de este proceso ya terminó y no hay evidencia verificada de una nueva ventana; solo sirve como antecedente y no debe presentarse como convocatoria abierta.
+  - Aclaracion: Las fechas y el número de vacantes provienen de un blog de terceros (Grupo Geard), no de la fuente oficial, que no cargó por un error de certificado.
+- **CNSC: Proceso de selección Empresas Sociales del Estado 2 (sector salud)** (cerrada) https://www.cnsc.gov.co/la-cnsc-oferta-mas-de-2500-vacantes-con-el-proceso-de-seleccion-empresas-sociales-del-estado-2
+  - Plazo o ciclo: Cerrado. Según un blog de terceros (Grupo Geard, página del 7 de julio de 2026), la inscripción para personas con discapacidad fue del 2 al 9 de julio de 2026 y la abierta del 15 al 31 de julio de 2026, con cerca de 3.000 vacantes.
+  - Aclaracion: Las fechas de inscripción provienen de un blog de terceros (Grupo Geard), no de la fuente oficial, que no cargó por un error de certificado.
+  - Aclaracion: No hay evidencia verificada de una nueva ventana de este proceso; solo sirve como antecedente de convocatorias periódicas del sector salud y no debe presentarse como abierto.

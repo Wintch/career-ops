@@ -1,0 +1,132 @@
+# Trabajo remoto no tecnico
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Teleperformance (TP) - Trabajo desde casa, Colombia** (abierta o vigente, verificada 2 veces) https://www.tp.com/en-us/careers/work-from-home-opportunity/
+  - Que es: Personas que buscan atención al cliente u otros puestos de contact center desde casa; la página lista a Colombia entre los países con vacantes de trabajo desde casa y declara buscar talento "dondequiera que viva".
+  - Requisitos: No se listan en la página; dependen de cada vacante (idiomas, campaña).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Contratación continua; vacantes según campaña
+  - Como postular: https://www.tp.com/en-us/careers/job-opportunities/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no afirma expresamente que la contratación sea continua; ofrece filtros por ubicación, categoría e idioma y las vacantes dependen de la campaña.
+  - Aclaracion: El buscador permite filtrar por Colombia, pero no se vieron vacantes concretas.
+  - Aclaracion: TP advierte que solo contacta desde correos @Teleperformance.com y que nunca cobra por equipos ni por empleo.
+- **OneForma (Centific) - Anotación, evaluación, transcripción y traducción** (abierta o vigente, verificada 2 veces) https://www.oneforma.com/
+  - Que es: Personas con idiomas o conocimientos de un área que quieran hacer tareas remotas por proyecto: etiquetado de datos, evaluación de resultados de IA y buscadores, transcripción y traducción o poscorrección.
+  - Requisitos: Sin experiencia en IA necesaria; algunos proyectos piden idiomas o conocimientos específicos y pueden limitarse por país.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Varía por proyecto; ejemplos vistos de USD 10 y USD 50 por hora; la tarifa se ve antes de aceptar; pago quincenal.
+  - Plazo o ciclo: Abierto todo el año; registro gratuito de unos 5 minutos
+  - Como postular: https://my.oneforma.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Algunos proyectos se limitan por país o idioma; no se indica cuáles aplican a residentes en Colombia.
+  - Aclaracion: El primer proyecto sugerido en unas 24 horas es una asignación sugerida, no un trabajo garantizado.
+  - Aclaracion: No se necesita hoja de vida ni portafolio; el registro es en my.oneforma.com y el pago es sin comisión.
+  - Aclaracion: La página no publica la lista completa de los más de 100 países donde opera.
+- **DataAnnotation - Evaluación de respuestas de IA** (abierta o vigente, verificada 2 veces) https://www.dataannotation.tech/
+  - Que es: Personas que quieran revisar y calificar respuestas de modelos de IA como contratistas remotos, con tareas generales y otras de idiomas o áreas especializadas (derecho, finanzas, medicina, código).
+  - Requisitos: Razonamiento sólido y atención al detalle; los roles generales no exigen formación técnica ni programación; los especializados piden conocimientos en la materia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Hasta USD 40/h en idiomas, hasta USD 50/h en generalista y hasta USD 125+/h o 150+/h en roles expertos (según la página).
+  - Plazo o ciclo: Abierto todo el año; el trabajo depende de los proyectos disponibles
+  - Como postular: https://app.dataannotation.tech/worker_signup?worker_src=ai_jobs&utm_source=webflow_jobby&utm_medium=web&utm_campaign=ai_training_jobs&utm_content=landing_hero
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no indica los países elegibles (solo exige internet confiable e inglés fluido); la elegibilidad de residentes en Colombia debe confirmarse al registrarse.
+  - Aclaracion: El trabajo es por tareas, sin compromiso a largo plazo.
+  - Aclaracion: La página lista 133 roles y el botón de registro estaba activo, sin aviso de cierre ni lista de espera.
+- **Rev - Transcripción y subtitulación freelance** (abierta o vigente, verificada 2 veces) https://www.rev.com/freelancers
+  - Que es: Personas con buen nivel de inglés que quieran transcribir, subtitular o traducir subtítulos por minuto de audio o video.
+  - Requisitos: Computador, internet estable y buen inglés; algunos roles exigen otro idioma; transcripción legal pide experiencia o conocimiento de terminología legal de EE. UU.
+  - Pago o beneficio: Por minuto de audio/video: transcripción USD 0,40-1,10; subtitulación de captions USD 0,54-1,10; traducción de subtítulos USD 1,70-4,00+; legal USD 0,55-2,00+.
+  - Plazo o ciclo: Abierto con lista de espera por alto volumen de solicitudes; se procesa por orden de llegada
+  - Como postular: https://www.rev.com/applicant/transcription
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Se puede postular pese a la lista de espera; no se acelera enviando varias solicitudes y solo se puede postular a un rol.
+  - Aclaracion: El proceso incluye elegir rol, una prueba de habilidades, una evaluación de inglés y una muestra de trabajo.
+  - Aclaracion: No se indican países elegibles ('trabajo desde cualquier lugar').
+  - Aclaracion: El pago es semanal por PayPal; hay subtitulación en español, portugués y otros idiomas.
+- **Preply - Tutoría de idiomas en línea** (abierta o vigente, verificada 2 veces) https://www.preply.com/en/teach
+  - Que es: Personas que quieran dar clases de idiomas (por ejemplo español) en línea a estudiantes de más de 180 países.
+  - Requisitos: Sin certificación ni experiencia docente obligatoria; computador, internet estable, cámara y micrófono; buena comunicación.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Cada tutor fija su tarifa; los tutores de inglés cobran en promedio USD 15-25 por hora; la plataforma retiene comisión; los más populares ganan hasta USD 550 por semana (según Preply).
+  - Plazo o ciclo: Abierto todo el año; revisión del perfil en hasta 3 días hábiles
+  - Como postular: https://preply.com/en/teach
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El registro de tutores es gratuito y pide foto, descripción, video de presentación de hasta 2 minutos y disponibilidad.
+  - Aclaracion: La comisión es del 100 % en las clases de prueba con alumnos nuevos y baja de 33 % a 18 % según las horas dictadas.
+  - Aclaracion: La página no indica restricciones de país para tutores.
+- **Cambly - Tutores de conversación en inglés** (abierta o vigente, verificada 2 veces) https://www.cambly.com/english/tutors
+  - Que es: Personas que quieran conversar en inglés en línea con estudiantes de otros países, sin ser docentes.
+  - Requisitos: Sin título universitario, sin certificado de enseñanza y sin experiencia docente previa. No se vio requisito de nativo ni de país en la página. Perfil sujeto a aprobación y a la limitación temporal de cupos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Cambly: USD 0,17 por minuto (USD 10,20 por hora); Cambly Kids: USD 0,20 por minuto (USD 12 por hora), según la página
+  - Plazo o ciclo: Abierto todo el año, con ingreso de nuevos tutores limitado temporalmente (el procesamiento de perfiles puede tardar más)
+  - Como postular: https://www.cambly.com/english/tutors
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Cambly limita temporalmente el número de tutores nuevos para proteger los horarios de los actuales.
+  - Aclaracion: El horario es libre y sin mínimo de horas.
+  - Aclaracion: El pago es semanal por depósito directo, con otras opciones sin detallar.
+  - Aclaracion: La página no lista países elegibles.
+- **Freelancer.com - Tarifas y retiros** (abierta o vigente, verificada 2 veces) https://www.freelancer.com/feesandcharges
+  - Que es: Freelancers de cualquier país que ofertan en proyectos (asistencia virtual, traducción, transcripción, soporte, entre otros); el sitio dice contar con freelancers de todo el mundo.
+  - Requisitos: No se vio edad mínima ni requisito de experiencia o título en la página de tarifas. Se necesita un perfil y portafolio para ganar proyectos; hay que verificar condiciones de edad y de retiro en Colombia en los términos de la plataforma.
+  - Pago o beneficio: Variable por proyecto. Comisión de la plataforma: 10 % o USD 5 mínimo (precio fijo); 10 % (por hora); retiro mínimo USD 50
+  - Plazo o ciclo: Abierto todo el año
+  - Como postular: https://www.freelancer.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una oferta de empleo sino un marketplace en el que se postula con ofertas (bids); los miembros gratuitos tienen 6 ofertas al mes y el registro es gratis.
+  - Aclaracion: Retiros: Express, PayPal, Skrill y tarjeta Payoneer a USD 1; transferencia internacional USD 25; retiro mínimo de USD 50 después de comisiones.
+  - Aclaracion: La página de tarifas no menciona Colombia ni la edad mínima.
+  - Aclaracion: Terceros pueden cobrar cargos adicionales y la página advierte inconsistencias de precios entre la tabla y las preguntas frecuentes.
+- **We Work Remotely - Soporte al cliente remoto** (abierta o vigente, verificada 2 veces) https://weworkremotely.com/categories/remote-customer-support-jobs
+  - Que es: Personas con inglés que busquen soporte al cliente remoto en empresas de otros países; cada aviso indica su restricción geográfica.
+  - Requisitos: Varía por oferta. Revisar el campo de ubicación de cada una: solo las marcadas 'Anywhere in the World' (o equivalentes que incluyan Latinoamérica) son viables desde Colombia. Habitualmente se pide inglés y, en muchos casos, experiencia en atención al cliente; no se verificó una oferta específica sin experiencia.
+  - Pago o beneficio: sin datos (varía por oferta)
+  - Plazo o ciclo: Se actualiza de forma continua; ofertas de 'New' a 28 días de antigüedad (unas 106 al 2026-11-23). Sin fecha de cierre general.
+  - Como postular: https://weworkremotely.com/categories/remote-customer-support-jobs
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: El conteo observado fue de unas 106 ofertas, no 97.
+  - Aclaracion: Muchas ofertas se limitan a un país o región (Canadá, Estados Unidos, Norteamérica, Europa, EMEA, Asia); solo las marcadas 'Anywhere in the World' o equivalentes que incluyan Latinoamérica son viables para residentes en Colombia.
+  - Aclaracion: Se postula en el enlace de cada empleador.
+- **Remotive - Servicio al cliente remoto** (abierta o vigente, verificada 2 veces) https://remotive.com/remote-jobs/customer-service
+  - Que es: Personas que busquen soporte o servicio al cliente remoto; la categoría mostraba 7.747 avisos con filtros por ubicación, salario y nivel.
+  - Requisitos: Varía por oferta; revisar la restricción geográfica de cada una. Habitualmente se pide inglés. Acceso completo a las ofertas posiblemente de pago (no confirmado).
+  - Pago o beneficio: sin datos (varía por oferta)
+  - Plazo o ciclo: Actualización continua; 1.446 ofertas nuevas esta semana en servicio al cliente (7.781 en la vista). Sin fecha de cierre.
+  - Como postular: https://remotive.com/remote-jobs/customer-service
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: Los filtros 'Available from my location(s)' y 'Explicitly in my location(s)' permiten ver solo lo accesible según la ubicación de residencia.
+  - Aclaracion: Solo una fracción mínima es visible sin desbloqueo de pago; no se pudo confirmar qué parte es gratuita.
+  - Aclaracion: Algunas entradas aparecen con el nombre genérico '[Company Name]'; conviene verificar la oferta en la web del empleador antes de postular.
+- **TaskUs - Carreras (sedes en Colombia)** (sin verificar, verificada 1 vez) https://www.taskus.com/careers/
+  - Que es: Personas interesadas en servicios de experiencia del cliente y confianza y seguridad (Trust & Safety) en las sedes de Barranquilla, Cali y Medellín.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Contratación continua; no se vieron fechas
+  - Como postular: https://www.taskus.com/careers/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no lista vacantes y los botones de aplicación apuntan a un ancla interna.
+  - Aclaracion: La URL /careers/jobs/ devolvió error 404.
+  - Aclaracion: No se pudo confirmar una vía de postulación abierta ni vacantes en Colombia.
+- **TELUS Digital - Comunidad de IA (AI Community)** (sin verificar, verificada 1 vez) https://telusdigital.com/careers
+  - Que es: Personas interesadas en trabajo de IA: entrenadores de IA y anotadores de datos, calidad de datos y otros roles técnicos; la página enlaza al portal de empleos filtrado por AI Community.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto; vacantes según proyecto
+  - Como postular: https://telusdigital.com/careers
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no lista vacantes, ubicaciones ni proceso de postulación.
+  - Aclaracion: No se pudo confirmar la elegibilidad para Colombia ni la existencia de vacantes abiertas.
+- **Payoneer - Cobro de pagos desde el exterior (freelancers)** (sin verificar, verificada 1 vez) https://www.payoneer.com/solutions/freelancers/
+  - Que es: Freelancers que cobran de plataformas (Upwork, Fiverr, Toptal) o de clientes directos y necesitan recibir en USD y retirar a una cuenta bancaria local.
+  - Requisitos: sin datos (no listados en la página; consultar la página de precios y el soporte de Payoneer). Disponibilidad en Colombia no confirmada.
+  - Pago o beneficio: No aplica (no paga; cobra comisiones de conversión y retiro, no listadas en la página)
+  - Plazo o ciclo: Abierto (servicio financiero, no una oferta de empleo)
+  - Como postular: https://www.payoneer.com/go/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una fuente de trabajo sino una herramienta para recibir pagos de marketplaces y de clientes en más de 70 monedas, con retiro a cuenta bancaria local en unas 24 horas.
+  - Aclaracion: La página no menciona Colombia y indica que la disponibilidad de productos depende de la elegibilidad y de la jurisdicción.
+  - Aclaracion: No da montos de comisiones y remite a la página de precios.

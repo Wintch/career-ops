@@ -1,0 +1,135 @@
+# Servicio domestico, limpieza, seguridad y edificios
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Decreto 0993 de 2026: reglas del trabajo doméstico remunerado (contrato, registro, PILA, ARL)** (abierta o vigente, verificada 2 veces) https://cancilleria.gov.co/normograma/compilacion/docs/decreto_0993_2026.htm
+  - Que es: Trabajadoras y trabajadores del servicio doméstico y sus empleadores (hogares): referencia para saber qué debe cumplir quien contrata y qué derechos tiene quien trabaja.
+  - Requisitos: No aplica (norma de derechos y obligaciones del empleador y la trabajadora o trabajador doméstico)
+  - Sin experiencia previa: si
+  - Pago o beneficio: No fija salario; remite al salario mínimo como base mínima de cotización a ARL
+  - Plazo o ciclo: Norma vigente; expedido el 4 de agosto de 2026, Diario Oficial 53.578 del 5 de agosto de 2026. El encabezado dice 'rige a partir del 6 de agosto de 2026', pero el artículo 2 dice 'a partir de su expedición': conviene confirmar la vigencia en la fuente oficial. Es una norma, no una convocatoria.
+  - Como postular: No aplica como empleo. La trabajadora puede exigir al empleador el contrato, la afiliación y el pago por PILA. Una nota de El Tiempo del 2 de agosto de 2026 (https://www.eltiempo.com/economia/sectores/atencion-mintrabajo-fija-nuevas-directrices-para-la-inspeccion-del-trabajo-domestico-en-hogares-en-colombia-3575664) reseña la circular del Ministerio sobre inspección en hogares, con enfoque preventivo.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una norma de referencia sobre derechos y obligaciones, no ofrece vacantes.
+  - Aclaracion: Adiciona el Capítulo 10 al Título 9, Parte 2, Libro 2 del Decreto 1072 de 2015 y reglamenta el trabajo doméstico remunerado (Ley 2466 de 2025; Convenios 189 y 190 de la OIT).
+  - Aclaracion: Contempla contrato por escrito con contenido mínimo, período de prueba máximo de dos meses, pago en especie hasta 30 % del salario mínimo y jornada máxima de 42 horas semanales desde el 15 de julio de 2026.
+  - Aclaracion: Exige afiliación a salud, pensión, ARL y caja de compensación desde el inicio, también en trabajo por días o con varios empleadores.
+- **Prosegur Colombia: Trabaja con nosotros (guardas de seguridad, escoltas, medios tecnológicos)** (abierta o vigente, verificada 2 veces) https://www.prosegur.com.co/trabaja-con-nosotros
+  - Que es: Personas que buscan trabajo en seguridad privada, logística de valores, atención al cliente y técnica; la página dice que se acepta a cualquiera que cumpla el perfil de cada vacante.
+  - Requisitos: Varían por cargo y la página no los detalla: algunos cargos exigen experiencia y otros aceptan poca o ninguna. Documentos habituales: documento de identidad, hoja de vida actualizada, certificados laborales y académicos, licencias o certificaciones cuando apliquen. Cargos operativos presenciales.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año (vacantes rotativas); la página no muestra fechas de cierre, ciudades ni salarios.
+  - Como postular: https://prosegurcolombia.viterbit.site
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Guarda de Seguridad se postula por WhatsApp; los demás cargos, por el portal prosegurcolombia.viterbit.site.
+  - Aclaracion: Cargos listados: Guarda de Seguridad, Operador de Medios Tecnológicos, Escolta Portavalor Motorizado, Conductor, Cajero(a), OMC (Operario de Moneda Corriente), Asesor Comercial, Técnico de Seguridad Electrónica y Agente de Servicio Call Center.
+  - Aclaracion: Proceso: validación del perfil, entrevistas (RR. HH. y jefe inmediato), validaciones de confiabilidad y firma de contrato.
+  - Aclaracion: El proceso es gratuito; la empresa indica que nunca pide dinero ni consignaciones.
+- **Grupo EULEN Colombia: convocatoria 2026 (aseo, servicios generales, mantenimiento)** (abierta o vigente, verificada 2 veces) https://www.eulen.com/co/
+  - Que es: Personas que buscan empleo en aseo, servicios generales, mantenimiento locativo, cargue y descargue; también cargos de coordinación.
+  - Requisitos: El comunicado no fija requisitos ni exige experiencia de forma explícita; menciona alianzas de formación desde bachillerato hasta programas profesionales como beneficio. Requisitos por cargo: sin datos.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Comunicado de enero de 2026 (PDF de febrero de 2026): proceso de selección de 2026 con más de 200 vacantes, sin fecha de cierre visible. La portada actual solo muestra ofertas permanentes en Computrabajo.
+  - Como postular: https://co.computrabajo.com/empresas/ofertas-de-trabajo-de-eulen-colombia-sa-09F3D4ABA85563FA
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La portada eulen.com/co/ no muestra la convocatoria 2026; el comunicado está en el PDF https://www.eulen.com/co/wp-content/uploads/sites/6/2026/02/2026-001-EULEN-vacantes.docx.pdf, que es un comunicado y no un listado de vacantes.
+  - Aclaracion: No hay constancia de que el proceso siga abierto ni de su cierre; conviene enlazar el PDF o las ofertas vigentes en Computrabajo y no presentarlo como convocatoria abierta con fecha.
+  - Aclaracion: Además de los portales, la hoja de vida se puede entregar en sedes de Bogotá (Carrera 49A #91-91, La Castellana), Medellín (Calle 10 Sur #50FF-21, of. 202), Cali (Avenida 1 Oeste #5N-09, Centenario) y Barranquilla (Carrera 52 #76-167, of. 204).
+  - Aclaracion: Teléfono de contacto: 7029550.
+- **Hogarú: trabajar como empleada de aseo con contrato formal** (abierta o vigente, verificada 2 veces) https://www.hogaru.com/trabaja
+  - Que es: Personas que quieren trabajar en limpieza de hogares con contrato formal, en Bogotá, Cali y Medellín.
+  - Requisitos: Experiencia comprobable en aseo como función principal (empresa o casa de familia, formal o informal); conocimientos de aseo general, planchado y cocina básica; cédula de ciudadanía, cédula de extranjería o PEP con vigencia mínima de 12 meses. NO es una oferta sin experiencia.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Salario base no indicado. Pagos quincenales con prestaciones de ley, turnos de máximo 7 horas, premios por cumplimiento de hasta $75.000 mensuales.
+  - Plazo o ciclo: Abierto todo el año (la página no indica fechas ni cierre)
+  - Como postular: https://www.hogaru.com/trabaja
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Se postula con el botón «¡Empezar al 23/11/2026!», que abre una hoja de vida virtual (nombre, celular, correo, documento, ciudad, tipo de jornada).
+  - Aclaracion: Las jornadas pueden ser interna o externa, tiempo completo, medio tiempo o algunos días.
+  - Aclaracion: La página advierte que los documentos falsos bloquean el perfil.
+- **Symplifica Trabajadores (apoyo y bolsa de hojas de vida para trabajadoras del hogar)** (abierta o vigente, verificada 2 veces) https://symplificatrabajadores.com/
+  - Que es: Trabajadoras domésticas cuyos empleadores gestionan la afiliación y la nómina con Symplifica Hogares.
+  - Requisitos: No se listan requisitos de elegibilidad; el formulario pide datos personales y la experiencia como trabajadora doméstica. Hoja de vida adjunta opcional.
+  - Pago o beneficio: sin datos (no se indica costo ni salario)
+  - Plazo o ciclo: Sin fechas. Se vio la descarga de la app y la invitación a registrar la hoja de vida con la empresa Listos.
+  - Como postular: https://symplificaempleos.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una bolsa de empleo: la página de registro (symplificaempleos.com) indica que Symplifica no es bolsa de empleos y que inscribirse en el banco de hojas de vida no equivale a postularse a una vacante.
+  - Aclaracion: El sitio principal es sobre todo la presentación de una aplicación móvil (Google Play y App Store); varios beneficios, como los cursos de Kuepa, aplican solo a trabajadores vinculados por Symplifica.
+  - Aclaracion: No se vio costo de registro, por lo que no se puede afirmar que sea gratuito.
+- **Agencia de Empleo y Fomento Empresarial Compensar (preinscripción)** (abierta o vigente, verificada 2 veces) https://form.jotform.com/201474186429661
+  - Que es: Personas que buscan empleo en Bogotá y municipios cercanos, con o sin afiliación a la caja; la agencia publica con frecuencia ofertas de guardas, operarios de aseo y servicios generales.
+  - Requisitos: Edad mínima 16 años; documento de identidad original; hoja de vida digitalizada (Word o PDF) y certificaciones laborales y académicas; carta de terminación del último empleo y afiliación a EPS; para la entrevista por Zoom, equipo con internet, cámara y audífonos. Zona: sobre todo Bogotá y municipios de Cundinamarca (sedes Bosa, Kennedy, Suba, Chapinero, Cajicá, Mosquera, Girardot, Soacha).
+  - Sin experiencia previa: si
+  - Pago o beneficio: Servicio de intermediación laboral; costo no indicado en el formulario.
+  - Plazo o ciclo: Abierto todo el año (el formulario no indica fechas; respuesta anunciada en máximo 72 horas)
+  - Como postular: https://form.jotform.com/201474186429661
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El formulario está alojado en un dominio de terceros (jotform.com) y no pudo confirmarse desde corporativo.compensar.com, cuya portada no menciona la agencia.
+  - Aclaracion: El formulario tiene un identificador antiguo (2020), por lo que conviene confirmar que sigue activo.
+  - Aclaracion: Quienes sean seleccionados pasan al programa «Empleabilidad Estratégica» con Michael Page, que exige otro registro.
+  - Aclaracion: Las ofertas de la agencia también aparecen en elempleo.com.
+- **elempleo.com: ofertas de guarda de seguridad y vigilante** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.elempleo.com/co/ofertas-empleo/trabajo-guarda-de-seguridad
+  - Que es: Personas que buscan trabajo en vigilancia y seguridad privada en Bogotá y otras ciudades; muchos avisos los publican agencias de empleo de cajas de compensación.
+  - Requisitos: Varía por aviso: 3 de 20 sin experiencia (Agencia de Empleo Compensar, Bogotá y Girardot); 7 piden 6 meses, 6 piden 1 año, 1 pide 2 años, 2 piden 3 años. Algunos piden curso de vigilancia vigente o ser reservista.
+  - Sin experiencia previa: si
+  - Pago o beneficio: No se vio salario en el resumen de avisos de esta página.
+  - Plazo o ciclo: 20 avisos el 2026-11-23; el más reciente de hace 2 días y el más antiguo de hace más de 1 mes.
+  - Como postular: https://www.elempleo.com/co/ofertas-empleo/trabajo-guarda-de-seguridad
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La antigüedad de los avisos va de 2 días a más de 1 mes, y casi la mitad tiene un mes o más, por lo que varios pueden estar vencidos.
+  - Aclaracion: Algunos avisos tienen una ciudad en la etiqueta distinta a la de la descripción; prevalece la descripción.
+  - Aclaracion: Entre los empleadores figuran Agencia de Empleo Compensar, Agencia de Empleo Colsubsidio, Ocupar Temporales, Job&Talent, Asignar y Summar Productividad.
+- **elempleo.com: ofertas de operario de aseo y servicios generales** (se repite (hoy sin llamado abierto), verificada 2 veces) https://www.elempleo.com/co/ofertas-empleo/trabajo-operario-aseo
+  - Que es: Personas que buscan trabajo en aseo y servicios generales; se vieron avisos de agencias de cajas de compensación y empresas temporales (Compensar, Cafam, Staff Plus, Dar Ayuda Temporal, Grupo Temporal Dinamico).
+  - Requisitos: Varía: sin experiencia o sin exigencia explícita en 9 de 20 avisos (por ejemplo un aviso de Bogotá con ref. 88999 y el de Hornitos en Puente Aranda); otros piden 6 meses o 1 año. No hay requisito de título visto.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Rangos mostrados por aviso: entre $1.000.000 y $2.500.000 mensuales (por ejemplo $1M a $1,5M en Funza y Dosquebradas; $1,5M a $2M en Bogotá; $2M a $2,5M en Cali y Jamundí). En 2 avisos de Colanta (Medellín) el rango es confidencial.
+  - Plazo o ciclo: Se renueva a diario; el 2026-11-23 la página mostraba 20 avisos, con antigüedad de 1 semana a 1 mes
+  - Como postular: https://www.elempleo.com/co/ofertas-empleo/trabajo-operario-aseo
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Las etiquetas de ciudad a veces no coinciden con la descripción del aviso.
+  - Aclaracion: El rango de $1.000.000 a $2.500.000 varía por ciudad, y en 2 avisos de Colanta (Medellín) el rango es confidencial.
+- **Supervigilancia: servicios autorizados (empresas de vigilancia y escuelas de capacitación)** (sin verificar, verificada 1 vez) https://www.supervigilancia.gov.co/servicios-autorizados
+  - Que es: Quien quiera trabajar como vigilante o guarda de seguridad y necesite comprobar qué empresas y escuelas de capacitación tienen licencia vigente, o ubicar dónde tomar el curso.
+  - Requisitos: No aplica (consulta de listados)
+  - Pago o beneficio: No aplica
+  - Plazo o ciclo: Directorio permanente; la página indica fecha de publicación 2025-11-28 y última modificación N/A. No se vieron los PDF de abril de 2025, mayo y julio de 2026 que se reclamaban.
+  - Como postular: No se postula aquí. Se consultan los PDF de 'Empresas de vigilancia con armas y sin armas' (https://www.supervigilancia.gov.co/empresas-de-vigilancia-con-armas) y 'Escuelas de capacitación' (https://www.supervigilancia.gov.co/escuelas-de-capacitacion) y luego se contacta directamente a la empresa o escuela. Línea gratuita informada: 01-8000-119703; correo contactenos@supervigilancia.gov.co.
+  - Lectura automatica posible: PDF descargables por categoría; hay además un tablero de datos abiertos en https://www.supervigilancia.gov.co/personal-operativo-acreditado (personal operativo acreditado por cargo, actualizado a diario).
+  - Aclaracion: Es un directorio para verificar que una empresa o escuela esté autorizada, no una bolsa de empleo.
+  - Aclaracion: Enlaza categorías como empresas de vigilancia con y sin armas, escuelas de capacitación, cooperativas, transporte de valores, empresas blindadoras, departamentos de seguridad, y asesoría e investigación.
+  - Aclaracion: Útil como control antes de postularse o pagar un curso de vigilante.
+  - Aclaracion: No se vieron enlaces a PDF ni fechas de versiones, y la subruta empresas-de-vigilancia-y-seguridad-privada devolvió 404.
+- **Supervigilancia: acreditación de personal operativo (APO)** (sin verificar, verificada 1 vez) https://www.supervigilancia.gov.co/acreditacion-personal-operativo
+  - Que es: Empresas de vigilancia que acreditan a su personal operativo (guardas, escoltas, etc.). La persona que busca empleo no tramita la acreditación por su cuenta: la gestiona la empresa que la contrata.
+  - Requisitos: sin datos (el instructivo y los formularios enlazados no se leyeron)
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Trámite permanente; no se confirmó quién lo realiza ni plazos.
+  - Como postular: La empresa contratante hace el trámite en el aplicativo APO. Soporte informado en la página: apo@supervigilancia.gov.co. Una persona interesada en el oficio debe consultar los requisitos de formación en una escuela autorizada y en las ofertas de las empresas.
+  - Lectura automatica posible: sin datos
+  - Aclaracion: No es una vía de postulación a empleo.
+  - Aclaracion: La página no explica qué es la acreditación, quién la tramita ni sus requisitos o costo; no se pudo confirmar que la gestione la empresa contratante.
+  - Aclaracion: El aplicativo cambió de versión (usuario y contraseña de RENOVA); contacto: apo@supervigilancia.gov.co.
+- **Grupo Atlas (Atlas Seguridad): Trabaja con nosotros** (sin verificar, verificada 1 vez) https://trabajeconnosotros.atlas.com.co/home
+  - Que es: Personas interesadas en trabajar en seguridad privada con esta empresa.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://trabajeconnosotros.atlas.com.co/home
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página solo mostró el título 'Atlas Trabaje Con Nosotros' (probable aplicación dinámica); no se vio ningún cargo, requisito ni forma de postulación.
+  - Aclaracion: No está confirmado que haya vacantes ni que el portal reciba hojas de vida todo el año.
+- **Computrabajo Colombia: ofertas de operario de aseo (convocatorias masivas)** (sin verificar, verificada 1 vez) https://co.computrabajo.com/
+  - Que es: Personas que buscan trabajo de aseo, limpieza hospitalaria y servicios generales; hay convocatorias de empresas como Eulen, Diamante y el Centro de Empleo y Talento Colsubsidio.
+  - Requisitos: sin datos
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se pudo leer el contenido)
+  - Como postular: https://co.computrabajo.com/trabajo-de-limpieza-hospitales-sin-experiencia
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: El contenido de la página no pudo leerse en tres intentos, por lo que no se confirma que haya convocatorias masivas ni ofertas sin experiencia.
+  - Aclaracion: La URL corresponde a una búsqueda por palabra clave que puede cambiar, por lo que no debe tomarse como fuente verificada.

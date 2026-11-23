@@ -1,0 +1,104 @@
+# Oficios y construccion
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Agencia Pública de Empleo (APE) del SENA** (abierta o vigente, verificada 2 veces) https://agenciapublicadeempleo.sena.edu.co/
+  - Que es: Cualquier persona que busque empleo en Colombia, incluidas quienes buscan su primer trabajo; también hay atención presencial y orientación ocupacional.
+  - Requisitos: La página no lista requisitos. Indica que los servicios son gratuitos y que la ayuda del portal explica cómo crear el perfil, postularse y activar alertas.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratuito para quien busca empleo; no ofrece salario (intermediación)
+  - Plazo o ciclo: Abierto todo el año (servicio permanente y gratuito); la página anuncia una renovación próxima del portal en línea, mientras las oficinas siguen atendiendo
+  - Como postular: https://agenciapublicadeempleo.sena.edu.co/ (en línea) o la oficina APE más cercana
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es el servicio público de intermediación laboral del SENA: orientación ocupacional, remisión a vacantes y apoyo a empresas.
+  - Aclaracion: La página muestra 'Última Modificación 15/12/2020', por lo que el texto puede estar desactualizado.
+  - Aclaracion: Alternativa de atención: oficinas de la APE en todo el país (directorio en ape.sena.edu.co) y líneas (+57) 601 3430111 en Bogotá o 018000 910270 gratis desde el resto del país.
+  - Aclaracion: No se confirmó el estado actual del portal en línea ni vacantes concretas.
+- **CONTE: matrícula profesional de técnicos electricistas** (abierta o vigente, verificada 2 veces) https://www.conte.org.co/tramites/matricula-profesional/
+  - Que es: Técnicos y tecnólogos electricistas que necesitan la matrícula profesional para ejercer de forma legal. No es una ruta para quien está empezando sin experiencia.
+  - Requisitos: Línea de teléfono y correo electrónico; cédula en PDF (ambas caras en un solo documento); foto digital en fondo blanco; diploma o título en PDF (para programas técnicos o técnico laboral, puede ser certificado de plan de estudios completo o certificaciones de al menos 160 horas registradas en SIET, SNIES o Ministerio de Educación); certificaciones laborales en PDF que acrediten al menos 5 años (1.825 días) de experiencia directamente relacionada con actividades electrotécnicas; certificados SENA vigentes de evaluación de competencia electrotécnica en PDF. Cada documento se sube en su propio campo; los envíos incompletos o incorrectos pueden cancelarse o rechazarse.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Cuesta (no paga): $875.453 COP por primera matrícula profesional y licencia especial (50 % del salario mínimo mensual, tarifas desde el 1 de enero de 2026).
+  - Plazo o ciclo: Trámite permanente, abierto todo el año (formulario en línea con pago por PSE o en bancos autorizados). La portada de conte.org.co confirma el aviso: 'En el año 2027 la matrícula profesional se transforma... Muy pronto, más información'; la página del trámite no menciona ese cambio y no se vieron detalles.
+  - Como postular: https://www.conte.org.co/tramites/matricula-profesional/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es una matrícula profesional (habilitación para ejercer), no una oferta de empleo ni un curso.
+  - Aclaracion: Exige experiencia comprobada, por lo que no es una ruta para quien está empezando sin experiencia.
+  - Aclaracion: La portada de conte.org.co anuncia que en 2027 la matrícula profesional se transforma; la página del trámite no menciona ese cambio.
+  - Aclaracion: También ofrece ampliaciones, duplicados, asesores autorizados, bolsa de empleo y aula virtual; los certificados de vigencia o estado del trámite son gratis.
+- **ONAC: directorio de organismos acreditados (certificación de personas)** (abierta o vigente, verificada 2 veces) https://onac.org.co/directorio-de-acreditados/
+  - Que es: Personas de oficios como soldadura o instalación de gas que buscan una certificación de persona emitida por un organismo acreditado, y empleadores que quieren verificar a quienes la emiten.
+  - Requisitos: Ninguno para consultar el directorio. Para certificarse, cada organismo acreditado fija sus propios requisitos (sin datos).
+  - Pago o beneficio: Sin costo para consultar el directorio. Costos de certificación en cada organismo: sin datos.
+  - Plazo o ciclo: Directorio permanente, consultable todo el año. No es una convocatoria.
+  - Como postular: https://onac.org.co/directorio-de-acreditados/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es el Directorio Oficial de Acreditados (DOA) del Organismo Nacional de Acreditación de Colombia, que se describe como la única fuente oficial de información sobre acreditaciones en el país.
+  - Aclaracion: Sirve para comprobar que una entidad que certifica competencias de personas (OCP) esté acreditada.
+  - Aclaracion: Permite buscar por esquema, razón social, palabra clave, estado, ubicación, sector y código de acreditación (formato AA-NNN-###).
+  - Aclaracion: Es una herramienta de verificación; no ofrece empleo ni formación por sí misma.
+- **elempleo.com: ofertas de empleo en construcción** (abierta o vigente, verificada 2 veces) https://www.elempleo.com/co/ofertas-empleo/construccion
+  - Que es: Personas que buscan empleo de obra y oficios en Colombia. Los avisos incluyen cargos de obra, de operación de maquinaria y profesionales de ingeniería, de distintos niveles.
+  - Requisitos: Botón 'Postularme' en cada aviso; la página invita a inscribirse y registrar la hoja de vida, y no aclara si la cuenta es obligatoria para postularse. Experiencia: de 6 meses a 10 años según el cargo; solo el cargo de primer empleo vio 'ninguna'. Título: depende del aviso.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Varía según el aviso. Ejemplos vistos: ayudante de obra civil $1,5 a 2 millones COP; laboratorista de suelos $2 a 2,5 millones; operador de telehandler $3 a 3,5 millones; coordinador BIM $6 a 8 millones. Varios avisos tienen salario confidencial.
+  - Plazo o ciclo: Abierto todo el año. Al consultar la página (2026-11-23) había 20 avisos publicados 'ayer' o 'hace 3 días'.
+  - Como postular: https://www.elempleo.com/co/ofertas-empleo/construccion
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un agregador general de empleo con avisos del sector; muestra empleadores con nombre (por ejemplo AMCIS Ingenieros & Asociados, Termotécnica Coindustrial, Conconcreto, Metro Línea 1) y otros confidenciales.
+  - Aclaracion: La mayoría de los avisos pide experiencia; el cargo sin experiencia visto es ingeniero residente auxiliar (primer empleo, Chipaque), pensado para recién graduados.
+  - Aclaracion: Hay un cargo administrativo reservado a personas con discapacidad en Barranquilla.
+- **SENA: formación titulada (técnico y tecnólogo)** (sin verificar, verificada 1 vez) https://betowa.sena.edu.co/oferta
+  - Que es: Personas que quieran formarse en un oficio o área técnica (por ejemplo construcción, electricidad, soldadura, mecánica) en programas de nivel técnico o tecnólogo.
+  - Requisitos: Edad mínima de 14 años en los programas vistos en el listado. Se requiere crear una cuenta ('Registrarme' / 'Ingresar') para inscribirse. Documentos, nivel educativo previo y costos: sin datos (se indican en la ficha de cada programa). No se confirmó qué experiencia se exige; los cursos especiales vistos no mostraban requisito de experiencia.
+  - Pago o beneficio: sin datos. La formación del SENA se presenta como oferta educativa; no se vio apoyo económico ni su monto.
+  - Plazo o ciclo: sin datos. La página indicada solo muestra el título 'SENA Colombia' al leerse automáticamente (contenido dinámico), por lo que no se vieron fechas de convocatoria. El portal oficial de oferta e inscripción (Betowa) cargó y mostraba 207 programas, sin fechas de cierre ni de inicio visibles.
+  - Como postular: https://betowa.sena.edu.co/oferta
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página indicada solo mostró el título 'SENA Colombia'; el portal oficial de oferta e inscripción es https://betowa.sena.edu.co/oferta (al que redirige oferta.senasofiaplus.edu.co).
+  - Aclaracion: Tiene buscador por programa, ubicación, modalidad, nivel de formación, área de conocimiento y duración.
+  - Aclaracion: Predominaban cursos especiales presenciales; no se confirmó cuántos programas eran técnicos o tecnólogos.
+  - Aclaracion: No se confirmó que las convocatorias de formación titulada estén abiertas ni sus fechas.
+- **SENA: evaluación y certificación de competencias laborales (electrotecnia y otras)** (sin verificar, verificada 1 vez) https://www.sena.edu.co/es-co/Paginas/default.aspx
+  - Que es: Trabajadores con experiencia práctica que necesitan un certificado oficial de su competencia (por ejemplo en electrotecnia). Es una vía para quien aprendió el oficio trabajando.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página de inicio del SENA solo mostró el título 'SENA Colombia' al leerse automáticamente; no se vio ninguna convocatoria, ciclo ni fecha de evaluación y certificación de competencias.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La URL indicada es la portada general del SENA, no una página específica del servicio; no se encontró una URL oficial corregida.
+  - Aclaracion: La matrícula profesional de CONTE exige certificados SENA vigentes de evaluación de competencia electrotécnica, lo que indica que el SENA emite esa certificación.
+  - Aclaracion: No se vio cómo ni cuándo se solicita; la ruta debe confirmarse con el SENA (línea 018000910270).
+- **Cemex Colombia: Trabaja con nosotros** (sin verificar, verificada 1 vez) https://www.cemexcolombia.com/nuestra-empresa/trabaja-con-nosotros
+  - Que es: Candidatos a cargos técnicos y operativos en producción de cemento, agregados y concreto, mantenimiento y calidad, además de otras áreas corporativas.
+  - Requisitos: No hay requisitos generales publicados. Cada vacante los define; las áreas describen habilidades deseadas, no títulos ni experiencia mínima.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página no da fechas de cierre ni de contratación. El portal de empleo enlazado carga las ofertas de forma dinámica y no se vieron vacantes de Colombia.
+  - Como postular: https://jobs.cemex.com/?locale=es_MX
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página es genérica: describe áreas de trabajo y redirige con el botón 'Ir al portal' a jobs.cemex.com/?locale=es_MX.
+  - Aclaracion: El portal muestra cuatro categorías (posiciones administrativas, técnicas y operativas, programas de desarrollo y prácticas de estudiantes), pero la lista de vacantes seguía 'Cargando...'.
+  - Aclaracion: No se confirmó ninguna vacante en Colombia; hay que filtrar por país Colombia en el portal.
+- **Camacol: oferta de formación del gremio de la construcción** (sin verificar, verificada 1 vez) https://camacol.co/productividad-sectorial/formacion
+  - Que es: Empresas y profesionales del sector de la construcción. La oferta vista es en gran parte de nivel profesional o empresarial (BIM, aspectos jurídicos, sostenibilidad), no cursos de oficios básicos.
+  - Requisitos: sin datos. No se vieron requisitos de edad, documentos, residencia ni experiencia.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. La página lista seis programas (Conexión BIM con el público, Formación Continua Especializada (SENA), Formación Edge, Tardes sostenibles, Usuarios del planeta, EnCadena) sin fechas, costos ni pasos de inscripción. La subpágina de Formación Continua Especializada solo enlaza ediciones de 2023 y 2024, posiblemente desactualizadas.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un índice de programas sin convocatorias abiertas confirmadas.
+  - Aclaracion: La subpágina de Formación Continua Especializada solo enlaza ediciones de 2023 y 2024, posiblemente desactualizadas.
+  - Aclaracion: Las únicas fechas visibles corresponden a eventos generales sin año.
+  - Aclaracion: Contacto oficial: contactenos@camacol.org.co, (601) 743 0265.
+- **Camacol: Construimos a la par (capacitación e inclusión laboral en obra)** (sin verificar, verificada 1 vez) https://camacol.co/productividad-sectorial/equidad-de-genero/construimos-la-par
+  - Que es: Personal de obras de construcción y empresas del sector. Nació en 2022 para mejorar las condiciones de las mujeres en la construcción y desde 2025 cubre equidad, inclusión y diversidad en general.
+  - Requisitos: sin datos. La página no especifica requisitos ni elegibilidad.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos. Iniciativa de Camacol creada en 2022 y ampliada en 2025; no se vieron fechas de inscripción ni de convocatoria.
+  - Como postular: sin datos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no ofrece una ruta de postulación para personas que buscan empleo.
+  - Aclaracion: Es un programa gremial de equidad, inclusión y diversidad; no se confirma que capacite ni coloque personas directamente.
+  - Aclaracion: Solo sirve como referencia de empresas con políticas de inclusión.
+  - Aclaracion: Contacto: contactenos@camacol.org.co, (601) 743 0265.

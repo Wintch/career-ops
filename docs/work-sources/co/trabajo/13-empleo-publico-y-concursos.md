@@ -1,0 +1,68 @@
+# Empleo publico y concursos
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Metro de Medellín - Trabaje con nosotros (talentos.metrodemedellin.gov.co)** (abierta o vigente, verificada 2 veces) https://talentos.metrodemedellin.gov.co/
+  - Que es: Aspirantes a cargos de Operaciones y Mantenimiento y de otras ocho áreas; el menú incluye el programa Aprendices Conducción.
+  - Requisitos: No se indican en la página principal; dependen de cada vacante.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Portal permanente; la página principal no muestra vacantes ni fechas (cada área tiene su propia página). Abierto todo el año para crear perfil.
+  - Como postular: https://talentos.metrodemedellin.gov.co/
+  - Lectura automatica posible: Ninguna vista.
+  - Aclaracion: La página principal no muestra vacantes concretas con fecha; la postulación consiste en crear un perfil.
+  - Aclaracion: Los requisitos dependen de cada vacante.
+- **Fuerza Aeroespacial Colombiana - Servicio Militar** (abierta o vigente, verificada 2 veces) https://www.incorporacion.mil.co/es/servicio-militar
+  - Que es: Hombres y mujeres colombianos de 18 a 23 años que aún no han definido su situación militar y quieran prestar servicio voluntario en la FAC.
+  - Requisitos: Ser colombiano; no haber definido la situación militar; tener entre 18 y 23 años a la fecha de incorporación; sin antecedentes penales; sin exención de la Ley 1861 de 2017. Documentos: copia legible de la cédula con dirección de residencia, diploma y acta de grado de bachiller (solo bachilleres) y constancia de inscripción en libretamilitar.mil.co. No requiere experiencia ni título.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto todo el año: 'Las inscripciones se realizan durante todo el año'; sin fechas de cierre.
+  - Como postular: https://www.incorporacion.mil.co/es/servicio-militar
+  - Lectura automatica posible: none
+  - Aclaracion: Es servicio militar obligatorio, no un empleo, y sirve para definir la situación militar.
+  - Aclaracion: La inscripción es por formulario en línea o llamando al Distrito Militar Aéreo más cercano; luego siguen exámenes médicos y confirmación de aptitud psicofísica.
+  - Aclaracion: Quien deba definir su situación militar debe registrarse además en libretamilitar.mil.co.
+- **Fuerza Aeroespacial Colombiana - Oficiales (EMAVI)** (abierta o vigente, verificada 2 veces) https://www.incorporacion.mil.co/es/oficiales
+  - Que es: Bachilleres (Curso Regular, 4 años en EMAVI), profesionales universitarios (Curso Extraordinario, 1 año) y profesionales para Oficial Administrativo (6 meses).
+  - Requisitos: Curso Oficial Administrativo: hombres y mujeres con título universitario. Curso Regular (cerrado): bachiller colombiano. Curso Extraordinario (cerrado): profesional universitario colombiano. Edades y documentos no indicados en la página principal.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Al 2026-11-23: Curso Oficial Administrativo abierto, sin fechas de cierre publicadas; Curso Regular y Curso Extraordinario cerrados.
+  - Como postular: https://www.incorporacion.mil.co/es/oficiales/oficial-administrativo
+  - Lectura automatica posible: none
+  - Aclaracion: Solo el Curso Oficial Administrativo figura abierto y exige título universitario, por lo que no sirve a quien no lo tiene.
+  - Aclaracion: Los cursos Regular y Extraordinario figuran como convocatoria cerrada.
+  - Aclaracion: La página no describe el proceso de inscripción, edades ni documentos, y remite a las páginas 'Más información' de cada curso.
+  - Aclaracion: La página advierte contra fraudes.
+- **Banco de la República - Trabaje con nosotros (convocatorias y prácticas)** (abierta o vigente, verificada 2 veces) https://www.banrep.gov.co/es/trabaje-con-nosotros
+  - Que es: Candidatos a vacantes y a tres programas de convocatoria: Prácticas profesionales, 'El primer capítulo de su vida profesional' y 'Talento que transforma'. Menciona apoyo a personas con discapacidad.
+  - Requisitos: Según cada oferta. La oferta vista exige certificado de discapacidad vigente. Requisitos de los programas de prácticas y primer empleo: sin datos.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: Abierto de forma continua. Las ofertas vigentes se publican en Magneto365 (magneto365.com/co/empresas/banrep/empleos); el 2026-11-23 se vio una oferta publicada el 14 de octubre de 2026, sin fecha de cierre visible. Fechas de los programas de prácticas y primer empleo: sin datos.
+  - Como postular: https://www.magneto365.com/co/empresas/banrep/empleos
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La oferta visible, Profesional Unidad Análisis de Operaciones (Talento que Transforma, 142-2026), es de contrato a término fijo de 1 año, 100 % remoto, Bogotá, 1 cupo, y exige certificado de discapacidad vigente.
+  - Aclaracion: Las subpáginas de cada programa no pudieron leerse porque el sitio redirigió a un control antibots.
+  - Aclaracion: Las personas con discapacidad pueden avisar para recibir apoyo en el proceso.
+- **Policía Nacional de Colombia - Incorpórate (patrulleros, oficiales, auxiliares)** (sin verificar, verificada 1 vez) https://www.policia.gov.co/incorporate-policia-nacional
+  - Que es: Personas que quieran ingresar a la Policía como patrullero, oficial, administrador policial o auxiliar de policía. Rutas vistas: auxiliar de policía a patrullero (bachiller a patrullero), profesional a patrullero, y varias rutas a oficial (bachiller, técnico profesional o tecnólogo; profesional; uniformado; no uniformado).
+  - Requisitos: sin datos: depende de la ruta; patrullero y oficial admiten ingreso desde bachiller según la página, el detalle de edad y documentos no se pudo leer.
+  - Sin experiencia previa: si
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos: la página no publica fechas de convocatoria ni cierres.
+  - Como postular: https://www.policia.gov.co/incorporate-policia-nacional
+  - Lectura automatica posible: none
+  - Aclaracion: Los requisitos por ruta aparecen solo como imágenes, y la página no indica salario ni fechas de convocatoria.
+  - Aclaracion: Los pasos son preinscripción en el portal SINCO y pago por pasarela; hay costos de inscripción detallados en la página 'Pasos, costos y recomendaciones'.
+  - Aclaracion: Patrullero y oficial admiten ingreso desde bachiller según la página; el detalle de edad y documentos depende de cada ruta.
+- **Ejército Nacional - Incórporese al Ejército** (sin verificar, verificada 1 vez) https://incorporese.ejercito.mil.co
+  - Que es: Personas que quieran prestar servicio militar, definir su situación militar o ingresar como soldado profesional, suboficial u oficial. Los tipos de ingreso no pudieron verificarse en el sitio.
+  - Requisitos: sin datos (no se pudo leer el sitio).
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://incorporese.ejercito.mil.co
+  - Lectura automatica posible: none
+  - Aclaracion: El sitio no pudo verificarse directamente porque respondió HTTP 403 a la lectura automatizada.
+  - Aclaracion: La página oficial del Ejército enlaza a este dominio y al Comando de Reclutamiento (COREC), teléfono 601 426 1420.
+  - Aclaracion: No se conocen fechas, requisitos ni modalidades; conviene confirmar en el sitio o con COREC.

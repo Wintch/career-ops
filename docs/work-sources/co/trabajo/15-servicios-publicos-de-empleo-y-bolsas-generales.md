@@ -1,0 +1,67 @@
+# Servicios publicos de empleo y bolsas generales
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Directorio de oficinas de la Agencia Pública de Empleo (APE) del SENA** (abierta o vigente, verificada 2 veces) https://ape.sena.edu.co/Paginas/DirectorioAPE.aspx
+  - Que es: Personas que prefieren atención presencial para orientación y búsqueda de vacantes, incluida quien no tiene experiencia o acceso fácil a internet.
+  - Requisitos: No se listan; no se indica exigencia de experiencia, título ni edad. Se recomienda llevar documento de identidad y hoja de vida (no confirmado en la página).
+  - Sin experiencia previa: si
+  - Pago o beneficio: No aplica (servicio gratuito de intermediación laboral).
+  - Plazo o ciclo: Abierto todo el año: orientación y atención gratuita en la oficina APE más cercana. La página muestra un aviso de que el portal está en renovación, por lo que los detalles pueden cambiar.
+  - Como postular: https://ape.sena.edu.co/Paginas/DirectorioAPE.aspx
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página muestra un aviso de que el portal está en renovación, por lo que los detalles pueden cambiar; su última modificación es del 15/12/2020.
+  - Aclaracion: No publica horarios, direcciones ni teléfonos por oficina; se pide consultar la ubicación y los horarios antes de ir.
+  - Aclaracion: Llevar documento de identidad y hoja de vida es una recomendación que la página no confirma.
+- **Subsidio al desempleo (Mecanismo de Protección al Cesante) - Comfenalco Antioquia** (abierta o vigente, verificada 2 veces) https://www.comfenalcoantioquia.com.co/personas/servicios/subsidios/subsidio+al+desempleo
+  - Que es: Personas que perdieron su empleo formal y cuya última caja de compensación fue Comfenalco Antioquia.
+  - Requisitos: Última caja de compensación: Comfenalco Antioquia; terminación del contrato por cualquier causa; aportes a una caja durante un año (continuo o discontinuo) en los últimos tres años si se es dependiente, o dos años si se es independiente; sin otros ingresos; hoja de vida 100 % completa en el Servicio Público de Empleo. Documentos: cédula, carta de terminación con fecha, motivo y salario, certificado del fondo de pensiones (vigencia 3 meses), certificado de la EPS de no cotizante (1 mes) y certificación bancaria a nombre propio (3 meses). Requiere haber trabajado formalmente antes; no sirve para quien busca su primer empleo.
+  - Sin experiencia previa: no
+  - Pago o beneficio: Aportes a salud y pensión sobre 1 SMMLV por hasta 6 meses; transferencias de hasta 1,5 SMMLV en cuatro cuotas para categorías A y B. El valor en pesos no figura en la página.
+  - Plazo o ciclo: Postulaciones permanentes en línea, de lunes a viernes de 7:00 a. m. a 6:00 p. m.; consultas al (604) 444 7110 (lunes a viernes, 7:00 a. m. a 6:00 p. m.) o a la línea gratuita 018000427111. Sin fecha de cierre.
+  - Como postular: https://zenith.asopagos.com
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Aplica solo si la última caja de compensación fue Comfenalco Antioquia; en otros departamentos se debe consultar la caja correspondiente.
+  - Aclaracion: Requiere haber trabajado formalmente antes; no sirve para quien busca su primer empleo.
+  - Aclaracion: Quedan excluidos servidores de elección popular, pensionados, personas con otra fuente de ingreso directo y quienes recibieron el beneficio completo de cualquier caja en los últimos tres años.
+  - Aclaracion: No informar un nuevo ingreso puede implicar pérdida del beneficio y devolución de lo recibido; la página da dos plazos distintos para informarlo (dos días e 'inmediatamente').
+- **Magneto365 - portal de empleo** (abierta o vigente, verificada 2 veces) https://www.magneto365.com/co/empleos
+  - Que es: Cualquier persona que busque empleo en Colombia; mucho volumen en comercio, call center, hotelería y restaurantes, logística y aprendices.
+  - Requisitos: Los fija cada empleador. Hay ofertas con filtro de experiencia y de prácticas o aprendices, por lo que se pueden encontrar vacantes sin experiencia, pero cada oferta debe revisarse.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Varía por oferta; algunas muestran rango salarial y otras dicen "salario a convenir".
+  - Plazo o ciclo: Portal activo y permanente; 315.431 cupos visibles el 2026-11-23 (cifra variable, la página indicaba que los resultados seguían cargando).
+  - Como postular: https://www.magneto365.com/co/empleos
+  - Scanner: la plataforma ya esta soportada (ver docs/SUPPORTED_JOB_BOARDS.md)
+  - Aclaracion: La cifra de vacantes cambia; el 2026-11-23 el encabezado mostraba 315.431 cupos, y el sitio aclara que los resultados pueden diferir de los cupos, por lo que conviene citar solo el orden de magnitud (más de 300.000).
+  - Aclaracion: La página no indica si el registro es gratuito, pero declara que Magneto y sus empresas aliadas nunca piden dinero en un proceso de selección.
+  - Aclaracion: Se postula creando cuenta y aplicando en cada oferta.
+- **elempleo.com Colombia** (abierta o vigente, verificada 2 veces) https://www.elempleo.com/co
+  - Que es: Cualquier persona que busque empleo en Colombia, con filtros de ciudad, modalidad y sin experiencia.
+  - Requisitos: Registro con hoja de vida. La experiencia depende de cada oferta; hay ofertas y una categoria explicita para personas sin experiencia.
+  - Sin experiencia previa: si
+  - Pago o beneficio: Gratis para registrarse; planes opcionales de pago para candidatos
+  - Plazo o ciclo: abierto todo el ano
+  - Como postular: https://www.elempleo.com/co
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El registro con hoja de vida es gratuito ('Empieza gratis'); hay planes de pago opcionales (Bronze $35.000, Silver $107.900, Gold $250.600, con IVA).
+  - Aclaracion: La página no detalla el proceso de postulación.
+- **LinkedIn - empleos en Colombia** (sin verificar, verificada 1 vez) https://co.linkedin.com/jobs/
+  - Que es: Personas que buscan empleo o prácticas, sobre todo en cargos de oficina, tecnología, ingeniería, finanzas y marketing.
+  - Requisitos: Cuenta de LinkedIn (registro) previsible; no confirmado en la pagina. Requisitos de experiencia segun cada oferta.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (portal permanente, pero la pagina leida no mostro ofertas concretas)
+  - Como postular: https://co.linkedin.com/jobs/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página solo muestra categorías, búsquedas sugeridas y formularios de registro e inicio de sesión; no se vio ninguna oferta con fecha ni el proceso de postulación.
+  - Aclaracion: Los requisitos de registro y de experiencia no están confirmados en la página.
+- **Indeed Colombia** (sin verificar, verificada 1 vez) https://co.indeed.com/
+  - Que es: Cualquier persona que busque empleo en Colombia.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no verificado)
+  - Como postular: https://co.indeed.com/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El sitio respondió HTTP 403 a la lectura automatizada, por lo que no se pudo ver ninguna oferta ni confirmar el portal.
+  - Aclaracion: No está verificado directamente.

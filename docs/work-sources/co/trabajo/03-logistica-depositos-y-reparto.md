@@ -1,0 +1,61 @@
+# Logistica, depositos y reparto
+
+[Volver al indice](README.md) | Verificado el 2026-11-23. Los plazos cambian: confirmar la fecha en el enlace antes de usar una fila.
+
+
+- **Coordinadora Mercantil - Trabaje con nosotros (registro de hoja de vida)** (abierta o vigente, verificada 2 veces) https://coordinadora.com/trabaje-con-nosotros/
+  - Que es: Personas que buscan empleo en una empresa de mensajería y transporte de carga con operación nacional (cargos operativos, de bodega y de reparto, entre otros; la página no detalla los cargos).
+  - Requisitos: La página no lista requisitos, vacantes ni fechas. Se postula registrando la hoja de vida en línea mediante un formulario alojado en un sistema externo de Heinsohn (nómina). Un manual en PDF explica el registro; sus requisitos no se pudieron leer.
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: abierto todo el año (registro permanente de hoja de vida, sin vacantes ni fechas publicadas)
+  - Como postular: https://coordinadora.com/trabaje-con-nosotros/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un banco de hojas de vida, no un listado de vacantes; no se muestran cargos, salarios ni ofertas actuales.
+  - Aclaracion: La hoja de vida se registra en un formulario alojado en un sistema externo de Heinsohn (nómina).
+  - Aclaracion: El pie de página incluye una línea general de WhatsApp (310 315 7444) cuyo uso para selección no está indicado.
+- **Servientrega - Trabaja con nosotros** (sin verificar, verificada 1 vez) https://www.servientrega.com/wps/portal/Colombia/trabaja-con-nosotros
+  - Que es: Personas interesadas en trabajar en una de las mayores empresas de mensajería y logística de Colombia (cargos operativos, de reparto y de bodega, entre otros; no se vio la lista de vacantes).
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (no se vieron vacantes ni fechas)
+  - Como postular: sin datos (enlace externo en career4.successfactors.com, URL exacta no verificada)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La página no describe proceso, requisitos ni vacantes; solo muestra un enlace 'Trabaja con nosotros' que lleva a un sitio externo de empleo en career4.successfactors.com.
+  - Aclaracion: La postulación se hace por el portal externo enlazado desde la página oficial; no se confirmaron vacantes vigentes.
+- **Rappi - Registro de repartidores (Soy Rappi)** (sin verificar, verificada 1 vez) https://soyrappi.com.co/
+  - Que es: Personas que quieran repartir domicilios por cuenta propia (esquema de plataforma, no contrato laboral tradicional) en Colombia.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (registro permanente solo según lo declarado, no visto)
+  - Como postular: https://soyrappi.com.co/
+  - Lectura automatica posible: sin datos
+  - Aclaracion: Es un esquema de plataforma para trabajar por cuenta propia, no un contrato laboral tradicional.
+  - Aclaracion: No se confirmaron el registro, los requisitos ni los ingresos.
+- **Rappi - Trabaja con nosotros (cargos corporativos y operativos)** (sin verificar, verificada 1 vez) https://rappi.wd12.myworkdayjobs.com/es/Rappi_jobs
+  - Que es: Personas que buscan un empleo formal en Rappi, incluido el cargo de logística, si hubiera vacantes publicadas.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos
+  - Como postular: https://rappi.wd12.myworkdayjobs.com/es/Rappi_jobs
+  - Lectura automatica posible: Workday (portal de empleo estándar); no se verificó si hay datos estructurados.
+  - Aclaracion: El portal es un sitio Workday que se genera con JavaScript; no se vieron vacantes ni ubicaciones.
+  - Aclaracion: No se confirmó que haya cargos en Colombia.
+- **inDrive - Repartidor (envíos)** (sin verificar, verificada 1 vez) https://indrive.com/es-co/earn-courier
+  - Que es: Personas que quieran hacer envíos y domicilios con su propio vehículo o moto en Colombia mediante una aplicación.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos
+  - Plazo o ciclo: sin datos (registro por la aplicación, no confirmado)
+  - Como postular: sin datos (descarga de la aplicación inDrive; flujo de registro no visto)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: La vía principal es descargar la aplicación; el menú 'Gana con inDrive' enlaza una opción de repartidores.
+  - Aclaracion: No se confirmaron requisitos ni ingresos para repartidores.
+- **inDrive - Transportistas de carga (fletes) y conductores** (sin verificar, verificada 1 vez) https://indrive.com/es-co/earn-freight
+  - Que es: Conductores de camión, camioneta o furgón que quieran ofrecer transporte de carga, y conductores de ciudad o entre ciudades, mediante una aplicación.
+  - Requisitos: sin datos
+  - Pago o beneficio: sin datos (el conductor puede proponer su precio; sin cifras)
+  - Plazo o ciclo: sin datos (registro por la aplicación, no confirmado)
+  - Como postular: sin datos (aplicación inDrive; ayuda en https://indrive.com/es-co/help/drivers, no abierta)
+  - Lectura automatica posible: sin datos
+  - Aclaracion: El menú 'Gana con inDrive' enlaza además Ciudad a Ciudad (/es-co/intercity-driver), Flotas (/es-co/fleet) y un centro de ayuda para conductores (/es-co/help/drivers).
+  - Aclaracion: Beneficios generales para conductores: proponer precio propio, ver la ruta antes de aceptar, omitir solicitudes sin penalización y soporte 24/7.
+  - Aclaracion: La página no explica el proceso de inscripción, los requisitos, los documentos ni los ingresos para fletes.
