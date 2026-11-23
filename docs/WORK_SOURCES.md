@@ -9,6 +9,7 @@ This is a catalog of sources, not a promise that the scanner can read them. `doc
 | Country | Topic | Markdown | Structured rows |
 |---------|-------|----------|-----------------|
 | Argentina | Artists and musicians: grants, prizes, calls, public jobs and teaching, residencies, platforms | [`work-sources/ar/artes-musica.md`](work-sources/ar/artes-musica.md) | [`work-sources/ar/artes-musica.json`](work-sources/ar/artes-musica.json) |
+| Argentina | Trades and services: retail, fuel stations, logistics, construction trades, industry, hospitality, care, education, domestic and security work, rural and seasonal work, gig platforms, plus cross-cutting sources (armed and security forces, oil, gas and mining, entry-level services, provincial and municipal programs) | [`work-sources/ar/oficios-y-servicios.md`](work-sources/ar/oficios-y-servicios.md) | [`work-sources/ar/oficios-y-servicios.json`](work-sources/ar/oficios-y-servicios.json) |
 
 More categories and countries are added as separate files under `docs/work-sources/{country}/`. The Markdown is written in the language of the country; this index is in English.
 
@@ -16,7 +17,7 @@ More categories and countries are added as separate files under `docs/work-sourc
 
 1. **Discover.** One search lane per work category (or per channel), each told to use generic queries only, to prefer official pages, and to report only what it saw.
 2. **Verify.** Each source is fetched at its official page and checked for existence, currency, whether a resident of the country can apply, what it pays, what it requires and where to apply. The verifier is told to try to refute the claim.
-3. **Audit.** Every source marked open, and most of those marked recurring, is re-read by a second, independent reader. In the first run this found a wrong date or a wrong requirement in roughly one source out of three, so a row verified once is weaker than a row verified twice. Each row says how many times it was read.
+3. **Audit.** Every source marked open, and most of those marked recurring, is re-read by a second, independent reader. In the first two runs this found a wrong date, count or requirement in about one source in three for grant and prize calls and about one in ten for employer career pages, so a row verified once is weaker than a row verified twice. Each row says how many times it was read.
 4. **Neutralize.** Verifier remarks are rewritten as impersonal caveats. A script rejects any rewritten caveat that contains a number or a URL that is not in the row's own text, so the rewrite cannot add facts.
 5. **Build.** The Markdown is generated from the rows by a script, with no free-form writing, so nothing is invented between the data and the page.
 
