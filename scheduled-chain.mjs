@@ -43,6 +43,10 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { getCareerOpsRoot } from './path-resolver.mjs';
 import { tryAcquireDirLockSync, releaseOrWarn } from './lib/dir-lock.mjs';
+
+// Longest a scheduled-chain run on another host may legitimately hold the
+// chain lock before this one treats it as abandoned (see the acquire below).
+const CHAIN_FOREIGN_STALE_MS = 3 * 60 * 60_000;
 import { isMainModule } from './lib/is-main-module.mjs';
 import { parseMinScore } from './liveness-core.mjs';
 
@@ -317,6 +321,10 @@ async function main() {
   const root = getCareerOpsRoot();
   const lock = tryAcquireDirLockSync(join(root, 'data', '.scheduled-chain.lock'), {
     staleMs: 60_000,
+    // The chain holds this lock for its whole run (about ten minutes). A
+    // holder on another host or container sharing data/ cannot be checked by
+    // pid, so it is judged by age, and the age must outlast a full run.
+    foreignStaleMs: CHAIN_FOREIGN_STALE_MS,
     createParent: true,
     owner: { tool: 'scheduled-chain' },
   });
